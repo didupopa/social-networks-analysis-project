@@ -47,6 +47,21 @@ After the virtual environment is running, install the required packages with the
 pip install -r requirements.txt
 ```
 
+### Before running, create data folders
+
+Create data folders such that the structure of the project looks like this:
+```
+    social-networks-analysis-project
+            |________________ .venv
+            |
+            |________________ data
+            |                   |____ cache
+            |                           |____ album-tracks
+            |                           |____ artist-releases
+            |                           |____ artists
+            |________________ data-gathering                               
+```
+
 ### Running
 
 1. In your terminal, navigate to the `data-gathering` folder
