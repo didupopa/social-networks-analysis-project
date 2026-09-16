@@ -1,0 +1,493 @@
+{
+  "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hvT3yIEysuuvkK73vgdcW",
+      "id": "0hvT3yIEysuuvkK73vgdcW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e2a0a166493a2bde5480a420",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "GNX",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "href": "https://api.spotify.com/v1/albums/79ONNoS4M9tfIA1mYLBYVX",
+      "id": "79ONNoS4M9tfIA1mYLBYVX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512e02117d76426a08ac7c174f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mr. Morale & The Big Steppers",
+      "release_date": "2022-05-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:79ONNoS4M9tfIA1mYLBYVX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pLdWdkj83EYfDN6H2N8MR",
+      "id": "3pLdWdkj83EYfDN6H2N8MR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c027ad28821777b00dcaa888",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c027ad28821777b00dcaa888",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Black Panther The Album Music From And Inspired By",
+      "release_date": "2018-02-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3pLdWdkj83EYfDN6H2N8MR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA",
+          "type": "artist",
+          "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4alcGHjstaALJHHiljfy3H"
+      },
+      "href": "https://api.spotify.com/v1/albums/4alcGHjstaALJHHiljfy3H",
+      "id": "4alcGHjstaALJHHiljfy3H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273add9eb25744782c3717c9368",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02add9eb25744782c3717c9368",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851add9eb25744782c3717c9368",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DAMN. COLLECTORS EDITION.",
+      "release_date": "2017-12-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4alcGHjstaALJHHiljfy3H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "href": "https://api.spotify.com/v1/albums/4eLPsYPBmXABThSJ821sqY",
+      "id": "4eLPsYPBmXABThSJ821sqY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DAMN.",
+      "release_date": "2017-04-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+      },
+      "href": "https://api.spotify.com/v1/albums/0kL3TYRsSXnu0iJvFO3rud",
+      "id": "0kL3TYRsSXnu0iJvFO3rud",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028c697f553a46006a5d8886b2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518c697f553a46006a5d8886b2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "untitled unmastered.",
+      "release_date": "2016-03-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0kL3TYRsSXnu0iJvFO3rud",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "href": "https://api.spotify.com/v1/albums/7ycBtnsMtyVbbwTfJwRjSP",
+      "id": "7ycBtnsMtyVbbwTfJwRjSP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cdb645498cd3d8a2db4d05e1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "To Pimp A Butterfly",
+      "release_date": "2015-03-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7ycBtnsMtyVbbwTfJwRjSP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
+      },
+      "href": "https://api.spotify.com/v1/albums/748dZDqSZy6aPXKcI9H80u",
+      "id": "748dZDqSZy6aPXKcI9H80u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27378de8b28de36a74afc0348b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0278de8b28de36a74afc0348b5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485178de8b28de36a74afc0348b5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "good kid, m.A.A.d city (Deluxe)",
+      "release_date": "2012-10-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:748dZDqSZy6aPXKcI9H80u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Oq3mWfexhsjUh0aNNBB5u",
+      "id": "0Oq3mWfexhsjUh0aNNBB5u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022cd55246d935a8a77cb4859e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512cd55246d935a8a77cb4859e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "good kid, m.A.A.d city",
+      "release_date": "2012",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:0Oq3mWfexhsjUh0aNNBB5u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "href": "https://api.spotify.com/v1/albums/1bkN9nIkkCnXeG4yitVS1J",
+      "id": "1bkN9nIkkCnXeG4yitVS1J",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eddb2639b74ac6c202032ebe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eddb2639b74ac6c202032ebe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eddb2639b74ac6c202032ebe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Section.80",
+      "release_date": "2011-07-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1bkN9nIkkCnXeG4yitVS1J",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC"
+      },
+      "href": "https://api.spotify.com/v1/albums/7MoLQ8vckhwBbQqEYQTYQC",
+      "id": "7MoLQ8vckhwBbQqEYQTYQC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b035b031d9f0a6a75ae464e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029b035b031d9f0a6a75ae464e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519b035b031d9f0a6a75ae464e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Overly Dedicated",
+      "release_date": "2010-09-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7MoLQ8vckhwBbQqEYQTYQC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    }
+  ]
+}

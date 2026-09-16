@@ -1,0 +1,523 @@
+{
+  "artist_id": "5nlhxXs2Lgr8nH98jC26pw",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/79bGojvKUhjXAVJWyYFPWs"
+      },
+      "href": "https://api.spotify.com/v1/albums/79bGojvKUhjXAVJWyYFPWs",
+      "id": "79bGojvKUhjXAVJWyYFPWs",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734474ab7ee30fe52cfe8b70dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024474ab7ee30fe52cfe8b70dc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514474ab7ee30fe52cfe8b70dc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Constantin 1.0",
+      "release_date": "2024-05-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:79bGojvKUhjXAVJWyYFPWs",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ECOpfIRdNzE7BQArELBb2"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ECOpfIRdNzE7BQArELBb2",
+      "id": "3ECOpfIRdNzE7BQArELBb2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b69f5bd7e23fd91fdad605ed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b69f5bd7e23fd91fdad605ed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b69f5bd7e23fd91fdad605ed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fac diferenta",
+      "release_date": "2006-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3ECOpfIRdNzE7BQArELBb2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Ujb9g9pljLl91qELsPZYo",
+          "id": "6Ujb9g9pljLl91qELsPZYo",
+          "name": "Florin Salam",
+          "type": "artist",
+          "uri": "spotify:artist:6Ujb9g9pljLl91qELsPZYo"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2xjjuHQ4XZshnbcPTtpop2"
+      },
+      "href": "https://api.spotify.com/v1/albums/2xjjuHQ4XZshnbcPTtpop2",
+      "id": "2xjjuHQ4XZshnbcPTtpop2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27300ea938f8fd60d75a8206ccd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0200ea938f8fd60d75a8206ccd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485100ea938f8fd60d75a8206ccd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Garantat De Costi",
+      "release_date": "2005-08-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2xjjuHQ4XZshnbcPTtpop2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0sGpdDAhyW5XlUb7W4Rn1r"
+      },
+      "href": "https://api.spotify.com/v1/albums/0sGpdDAhyW5XlUb7W4Rn1r",
+      "id": "0sGpdDAhyW5XlUb7W4Rn1r",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735e572a888c68f889b2b488c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025e572a888c68f889b2b488c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515e572a888c68f889b2b488c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pentru Dragostea Ta",
+      "release_date": "2005",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:0sGpdDAhyW5XlUb7W4Rn1r",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7jr4HQ2dCumHujSmqX5dfp"
+      },
+      "href": "https://api.spotify.com/v1/albums/7jr4HQ2dCumHujSmqX5dfp",
+      "id": "7jr4HQ2dCumHujSmqX5dfp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733fea341a21339eeafc20a798",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023fea341a21339eeafc20a798",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513fea341a21339eeafc20a798",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pentru Suflet",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:7jr4HQ2dCumHujSmqX5dfp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/37lS8NWPtANsDSdlJR9upt"
+      },
+      "href": "https://api.spotify.com/v1/albums/37lS8NWPtANsDSdlJR9upt",
+      "id": "37lS8NWPtANsDSdlJR9upt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ee79c79d43a40f81916dc4a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024ee79c79d43a40f81916dc4a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514ee79c79d43a40f81916dc4a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Voi, romani din lumea-ntreaga",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:37lS8NWPtANsDSdlJR9upt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AbFY2LXEoX1PKKr7pHLQg"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AbFY2LXEoX1PKKr7pHLQg",
+          "id": "7AbFY2LXEoX1PKKr7pHLQg",
+          "name": "Liviu Guta",
+          "type": "artist",
+          "uri": "spotify:artist:7AbFY2LXEoX1PKKr7pHLQg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0oRPB9JjcTVGWff4gSEhIU"
+      },
+      "href": "https://api.spotify.com/v1/albums/0oRPB9JjcTVGWff4gSEhIU",
+      "id": "0oRPB9JjcTVGWff4gSEhIU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273563e530ca0e284350fa1c166",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02563e530ca0e284350fa1c166",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851563e530ca0e284350fa1c166",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Juraminte si suspine",
+      "release_date": "2002-09-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0oRPB9JjcTVGWff4gSEhIU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7aLe6ID4127TZqBlj2oS8U"
+      },
+      "href": "https://api.spotify.com/v1/albums/7aLe6ID4127TZqBlj2oS8U",
+      "id": "7aLe6ID4127TZqBlj2oS8U",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27351fe4a9294c8bcdd384ab85e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0251fe4a9294c8bcdd384ab85e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485151fe4a9294c8bcdd384ab85e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dr Costi",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:7aLe6ID4127TZqBlj2oS8U",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/41MrFfq991bFAivpohvmFr"
+      },
+      "href": "https://api.spotify.com/v1/albums/41MrFfq991bFAivpohvmFr",
+      "id": "41MrFfq991bFAivpohvmFr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27329b07f06e12cab461097229f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0229b07f06e12cab461097229f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485129b07f06e12cab461097229f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Autoconcurenta",
+      "release_date": "2000",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:41MrFfq991bFAivpohvmFr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06f5XN8rUFdabqdXn1Xuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/06f5XN8rUFdabqdXn1Xuqg",
+          "id": "06f5XN8rUFdabqdXn1Xuqg",
+          "name": "Adrian Copilul Minune",
+          "type": "artist",
+          "uri": "spotify:artist:06f5XN8rUFdabqdXn1Xuqg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1IoEVyp8FGp2YQb2m4aY2R"
+      },
+      "href": "https://api.spotify.com/v1/albums/1IoEVyp8FGp2YQb2m4aY2R",
+      "id": "1IoEVyp8FGp2YQb2m4aY2R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b582427aac2b44777a92821c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b582427aac2b44777a92821c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b582427aac2b44777a92821c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fara Concurenta",
+      "release_date": "2000",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:1IoEVyp8FGp2YQb2m4aY2R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06f5XN8rUFdabqdXn1Xuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/06f5XN8rUFdabqdXn1Xuqg",
+          "id": "06f5XN8rUFdabqdXn1Xuqg",
+          "name": "Adrian Copilul Minune",
+          "type": "artist",
+          "uri": "spotify:artist:06f5XN8rUFdabqdXn1Xuqg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JpZdMOzskmljKrIb2cX17"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JpZdMOzskmljKrIb2cX17",
+      "id": "6JpZdMOzskmljKrIb2cX17",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732c111149ebd5424920bd72b8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022c111149ebd5424920bd72b8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512c111149ebd5424920bd72b8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Viata Mea",
+      "release_date": "2000",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:6JpZdMOzskmljKrIb2cX17",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nlhxXs2Lgr8nH98jC26pw",
+          "id": "5nlhxXs2Lgr8nH98jC26pw",
+          "name": "Costi",
+          "type": "artist",
+          "uri": "spotify:artist:5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ]
+    }
+  ]
+}

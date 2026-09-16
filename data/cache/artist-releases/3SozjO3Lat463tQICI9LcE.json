@@ -1,0 +1,96 @@
+{
+  "artist_id": "3SozjO3Lat463tQICI9LcE",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "href": "https://api.spotify.com/v1/albums/09JgaY8X1pjMhllG2HSdiF",
+      "id": "09JgaY8X1pjMhllG2HSdiF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f9940b597844080b55f1bd5a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f9940b597844080b55f1bd5a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f9940b597844080b55f1bd5a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A*POP",
+      "release_date": "2026-07-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:09JgaY8X1pjMhllG2HSdiF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SozjO3Lat463tQICI9LcE",
+          "id": "3SozjO3Lat463tQICI9LcE",
+          "name": "Tyla",
+          "type": "artist",
+          "uri": "spotify:artist:3SozjO3Lat463tQICI9LcE"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "href": "https://api.spotify.com/v1/albums/5QsVRNOKVMCeVAIUoOQJ13",
+      "id": "5QsVRNOKVMCeVAIUoOQJ13",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6ed33df3c9e2fdb77f08170",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6ed33df3c9e2fdb77f08170",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f6ed33df3c9e2fdb77f08170",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "TYLA +",
+      "release_date": "2024-10-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5QsVRNOKVMCeVAIUoOQJ13",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SozjO3Lat463tQICI9LcE",
+          "id": "3SozjO3Lat463tQICI9LcE",
+          "name": "Tyla",
+          "type": "artist",
+          "uri": "spotify:artist:3SozjO3Lat463tQICI9LcE"
+        }
+      ]
+    }
+  ]
+}

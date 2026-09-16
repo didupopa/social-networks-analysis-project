@@ -1,0 +1,533 @@
+{
+  "album_id": "1R6RAlk9KoKbkROcyhBgBK",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5J57nYx6PSmIQGytVKUChI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5J57nYx6PSmIQGytVKUChI",
+      "id": "5J57nYx6PSmIQGytVKUChI",
+      "name": "Girl Gone Wild",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5J57nYx6PSmIQGytVKUChI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 326040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jsXgr8CRQCK9ZKgl6hZpV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jsXgr8CRQCK9ZKgl6hZpV",
+      "id": "1jsXgr8CRQCK9ZKgl6hZpV",
+      "name": "Gang Bang",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1jsXgr8CRQCK9ZKgl6hZpV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6cny91mInKig3GvIwoI8B6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6cny91mInKig3GvIwoI8B6",
+      "id": "6cny91mInKig3GvIwoI8B6",
+      "name": "I'm Addicted",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6cny91mInKig3GvIwoI8B6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/30njmRMKf42Yye2G05ohxj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/30njmRMKf42Yye2G05ohxj",
+      "id": "30njmRMKf42Yye2G05ohxj",
+      "name": "Turn Up the Radio",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:30njmRMKf42Yye2G05ohxj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+          "id": "0QJIPDAEDILuo8AIq3pMuU",
+          "name": "M.I.A.",
+          "type": "artist",
+          "uri": "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51Q6EFkjizQdcNVbdJUY6d"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51Q6EFkjizQdcNVbdJUY6d",
+      "id": "51Q6EFkjizQdcNVbdJUY6d",
+      "name": "Give Me All Your Luvin' (feat. Nicki Minaj & M.I.A.)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:51Q6EFkjizQdcNVbdJUY6d",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/53gnaVWzik1ExEbVHU1enQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/53gnaVWzik1ExEbVHU1enQ",
+      "id": "53gnaVWzik1ExEbVHU1enQ",
+      "name": "Some Girls",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:53gnaVWzik1ExEbVHU1enQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4EiVA8mZLTdE90rMDG8PWm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4EiVA8mZLTdE90rMDG8PWm",
+      "id": "4EiVA8mZLTdE90rMDG8PWm",
+      "name": "Superstar",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4EiVA8mZLTdE90rMDG8PWm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3gkzCbMxVYoYuXx9e9DrIU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3gkzCbMxVYoYuXx9e9DrIU",
+      "id": "3gkzCbMxVYoYuXx9e9DrIU",
+      "name": "I Don't Give A (feat. Nicki Minaj)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3gkzCbMxVYoYuXx9e9DrIU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6P7QIkfZI2sMiF17a2YgFk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6P7QIkfZI2sMiF17a2YgFk",
+      "id": "6P7QIkfZI2sMiF17a2YgFk",
+      "name": "I'm A Sinner",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6P7QIkfZI2sMiF17a2YgFk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51u7mdBemmx8AkZlrFpymj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51u7mdBemmx8AkZlrFpymj",
+      "id": "51u7mdBemmx8AkZlrFpymj",
+      "name": "Love Spent",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:51u7mdBemmx8AkZlrFpymj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238373,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0HEyOJL32OEntLA3KdlsY0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0HEyOJL32OEntLA3KdlsY0",
+      "id": "0HEyOJL32OEntLA3KdlsY0",
+      "name": "Masterpiece",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0HEyOJL32OEntLA3KdlsY0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 313400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qoAZKJEt74ZOu5VHOd4Uz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qoAZKJEt74ZOu5VHOd4Uz",
+      "id": "5qoAZKJEt74ZOu5VHOd4Uz",
+      "name": "Falling Free",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5qoAZKJEt74ZOu5VHOd4Uz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 228626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6lkPk6ABsd6PFvdCSYrV5e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6lkPk6ABsd6PFvdCSYrV5e",
+      "id": "6lkPk6ABsd6PFvdCSYrV5e",
+      "name": "Beautiful Killer",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6lkPk6ABsd6PFvdCSYrV5e",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 208146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6YLq4uqDtv8glfamw0JHdU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6YLq4uqDtv8glfamw0JHdU",
+      "id": "6YLq4uqDtv8glfamw0JHdU",
+      "name": "I Fucked Up",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6YLq4uqDtv8glfamw0JHdU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+          "id": "0QJIPDAEDILuo8AIq3pMuU",
+          "name": "M.I.A.",
+          "type": "artist",
+          "uri": "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 213693,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1PJdhotQLpQtGtZaXQuIdx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1PJdhotQLpQtGtZaXQuIdx",
+      "id": "1PJdhotQLpQtGtZaXQuIdx",
+      "name": "B-Day Song (feat. M.I.A.)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1PJdhotQLpQtGtZaXQuIdx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 199453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4r51Ye2W2Yuh66G5K70lHl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4r51Ye2W2Yuh66G5K70lHl",
+      "id": "4r51Ye2W2Yuh66G5K70lHl",
+      "name": "Best Friend",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4r51Ye2W2Yuh66G5K70lHl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 264270,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78z5clOWzaZu033sPpnpj9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78z5clOWzaZu033sPpnpj9",
+      "id": "78z5clOWzaZu033sPpnpj9",
+      "name": "Love Spent - Acoustic",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:78z5clOWzaZu033sPpnpj9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 237520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iXvUHh58KlGg96ZLASwtf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4iXvUHh58KlGg96ZLASwtf",
+      "id": "4iXvUHh58KlGg96ZLASwtf",
+      "name": "Masterpiece - Kid Capri's Remix",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4iXvUHh58KlGg96ZLASwtf",
+      "is_local": false
+    }
+  ]
+}

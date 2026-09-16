@@ -1,0 +1,535 @@
+{
+  "album_id": "3pLdWdkj83EYfDN6H2N8MR",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qN4HFkapdAOV94XPryVof"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qN4HFkapdAOV94XPryVof",
+      "id": "5qN4HFkapdAOV94XPryVof",
+      "name": "Black Panther",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5qN4HFkapdAOV94XPryVof",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA",
+          "type": "artist",
+          "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232186,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3GCdLUSnKSMJhs4Tj6CV3s",
+      "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3GCdLUSnKSMJhs4Tj6CV3s",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IcR3N7QB1j6KBL8eImZ8m",
+          "id": "5IcR3N7QB1j6KBL8eImZ8m",
+          "name": "ScHoolboy Q",
+          "type": "artist",
+          "uri": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+          },
+          "href": "https://api.spotify.com/v1/artists/37Qsf5KCKljH7mL134xp4k",
+          "id": "37Qsf5KCKljH7mL134xp4k",
+          "name": "Saudi",
+          "type": "artist",
+          "uri": "spotify:artist:37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 267426,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4LmAnpjlhWTahvRkYR8xJa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4LmAnpjlhWTahvRkYR8xJa",
+      "id": "4LmAnpjlhWTahvRkYR8xJa",
+      "name": "X (with 2 Chainz & Saudi)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4LmAnpjlhWTahvRkYR8xJa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+          "id": "6LuN9FCkKOj5PcnpouEgny",
+          "name": "Khalid",
+          "type": "artist",
+          "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zNqQNIdeOUZHb8zbZRFMX",
+          "id": "1zNqQNIdeOUZHb8zbZRFMX",
+          "name": "Swae Lee",
+          "type": "artist",
+          "uri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5jyyPsIGM2yqkZN9R3TmvN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5jyyPsIGM2yqkZN9R3TmvN",
+      "id": "5jyyPsIGM2yqkZN9R3TmvN",
+      "name": "The Ways (with Swae Lee)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5jyyPsIGM2yqkZN9R3TmvN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          },
+          "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+          "id": "68kEuyFKyqrdQQLLsmiatm",
+          "name": "Vince Staples",
+          "type": "artist",
+          "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kv1Edgn5HlEWCuEKr1Y9x",
+          "id": "3kv1Edgn5HlEWCuEKr1Y9x",
+          "name": "Yugen Blakrok",
+          "type": "artist",
+          "uri": "spotify:artist:3kv1Edgn5HlEWCuEKr1Y9x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7bUcBztfGqO7cSI2gMZeCI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7bUcBztfGqO7cSI2gMZeCI",
+      "id": "7bUcBztfGqO7cSI2gMZeCI",
+      "name": "Opps (with Yugen Blakrok)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7bUcBztfGqO7cSI2gMZeCI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          },
+          "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+          "id": "1CoZyIx7UvdxT5c8UkMzHd",
+          "name": "Jorja Smith",
+          "type": "artist",
+          "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0DJBgBiYeSn6n1AXAkFVE8",
+      "id": "0DJBgBiYeSn6n1AXAkFVE8",
+      "name": "I Am",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0DJBgBiYeSn6n1AXAkFVE8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+          },
+          "href": "https://api.spotify.com/v1/artists/2TImI3DW7o5MdRXJs4D37h",
+          "id": "2TImI3DW7o5MdRXJs4D37h",
+          "name": "SOB X RBE",
+          "type": "artist",
+          "uri": "spotify:artist:2TImI3DW7o5MdRXJs4D37h"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tPcTFiQF9MbVUyjZ3zDhA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2tPcTFiQF9MbVUyjZ3zDhA",
+      "id": "2tPcTFiQF9MbVUyjZ3zDhA",
+      "name": "Paramedic!",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2tPcTFiQF9MbVUyjZ3zDhA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+          },
+          "href": "https://api.spotify.com/v1/artists/0g9vAlRPK9Gt3FKCekk4TW",
+          "id": "0g9vAlRPK9Gt3FKCekk4TW",
+          "name": "Ab-Soul",
+          "type": "artist",
+          "uri": "spotify:artist:0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id": "3jK9MiCrA42lLAdMGUZpwa",
+          "name": "Anderson .Paak",
+          "type": "artist",
+          "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KXwFI9pgJLpUIAc9oSL8j"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4KXwFI9pgJLpUIAc9oSL8j",
+      "id": "4KXwFI9pgJLpUIAc9oSL8j",
+      "name": "Bloody Waters (with Anderson .Paak & James Blake)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4KXwFI9pgJLpUIAc9oSL8j",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          },
+          "href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
+          "id": "28ExwzUQsvgJooOI0X1mr3",
+          "name": "Jay Rock",
+          "type": "artist",
+          "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1eLSF6HfrRA0AsNmTkUlKx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1eLSF6HfrRA0AsNmTkUlKx",
+      "id": "1eLSF6HfrRA0AsNmTkUlKx",
+      "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1eLSF6HfrRA0AsNmTkUlKx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qBKjEOanahMxlRojwCzhI",
+          "id": "3qBKjEOanahMxlRojwCzhI",
+          "name": "Zacari",
+          "type": "artist",
+          "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 85266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4FpfU1O7WCLBnmwu5XAFk4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4FpfU1O7WCLBnmwu5XAFk4",
+      "id": "4FpfU1O7WCLBnmwu5XAFk4",
+      "name": "Redemption Interlude",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4FpfU1O7WCLBnmwu5XAFk4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qBKjEOanahMxlRojwCzhI",
+          "id": "3qBKjEOanahMxlRojwCzhI",
+          "name": "Zacari",
+          "type": "artist",
+          "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jfVtv9mWfW0c5b3Fx440e",
+          "id": "3jfVtv9mWfW0c5b3Fx440e",
+          "name": "Babes Wodumo",
+          "type": "artist",
+          "uri": "spotify:artist:3jfVtv9mWfW0c5b3Fx440e"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/76iVOVsliCHlWqKuDnCfhE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/76iVOVsliCHlWqKuDnCfhE",
+      "id": "76iVOVsliCHlWqKuDnCfhE",
+      "name": "Redemption (with Babes Wodumo)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:76iVOVsliCHlWqKuDnCfhE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AA474G2hRfrHyGrfyDseO",
+          "id": "4AA474G2hRfrHyGrfyDseO",
+          "name": "Mozzy",
+          "type": "artist",
+          "uri": "spotify:artist:4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RfOLIFy2xEmlWzXEVmLJn",
+          "id": "4RfOLIFy2xEmlWzXEVmLJn",
+          "name": "Sjava",
+          "type": "artist",
+          "uri": "spotify:artist:4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XpXnnKHIhCOUbOLOJGe6o",
+          "id": "6XpXnnKHIhCOUbOLOJGe6o",
+          "name": "REASON",
+          "type": "artist",
+          "uri": "spotify:artist:6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35cOyocq8Gb6UcT0NWeTwn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/35cOyocq8Gb6UcT0NWeTwn",
+      "id": "35cOyocq8Gb6UcT0NWeTwn",
+      "name": "Seasons (with Sjava & Reason)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:35cOyocq8Gb6UcT0NWeTwn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5cXg9IQS34FzLVdHhp7hu7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5cXg9IQS34FzLVdHhp7hu7",
+      "id": "5cXg9IQS34FzLVdHhp7hu7",
+      "name": "Big Shot (with Travis Scott)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5cXg9IQS34FzLVdHhp7hu7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211440,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/77UjLW8j5UAGAGVGhR5oUK",
+      "id": "77UjLW8j5UAGAGVGhR5oUK",
+      "name": "Pray For Me (with Kendrick Lamar)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:77UjLW8j5UAGAGVGhR5oUK",
+      "is_local": false
+    }
+  ]
+}

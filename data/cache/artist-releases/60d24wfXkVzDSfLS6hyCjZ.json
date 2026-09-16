@@ -1,0 +1,53 @@
+{
+  "artist_id": "60d24wfXkVzDSfLS6hyCjZ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/45gsxfnJ5Nt2RZp82SQenc"
+      },
+      "href": "https://api.spotify.com/v1/albums/45gsxfnJ5Nt2RZp82SQenc",
+      "id": "45gsxfnJ5Nt2RZp82SQenc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273edba220be76f96d51bd38838",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02edba220be76f96d51bd38838",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851edba220be76f96d51bd38838",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sentio",
+      "release_date": "2022-04-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:45gsxfnJ5Nt2RZp82SQenc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ",
+          "id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "Martin Garrix",
+          "type": "artist",
+          "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ]
+    }
+  ]
+}

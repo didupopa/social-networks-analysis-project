@@ -1,0 +1,675 @@
+{
+  "artist_id": "5rSXSAkZ67PYJSvpUpkOr7",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3SF8AL4ixgmeeqYg7iMTfW"
+      },
+      "href": "https://api.spotify.com/v1/albums/3SF8AL4ixgmeeqYg7iMTfW",
+      "id": "3SF8AL4ixgmeeqYg7iMTfW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730f883ac2614aebebb16cedf6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020f883ac2614aebebb16cedf6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510f883ac2614aebebb16cedf6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Millennium 2.0",
+      "release_date": "2025-07-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3SF8AL4ixgmeeqYg7iMTfW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt"
+      },
+      "href": "https://api.spotify.com/v1/albums/0DmM20iJ1NjdQSxGs6kCGt",
+      "id": "0DmM20iJ1NjdQSxGs6kCGt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27380292d6dcfe36110906f5f89",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0280292d6dcfe36110906f5f89",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485180292d6dcfe36110906f5f89",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Very Backstreet Christmas",
+      "release_date": "2022-10-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0DmM20iJ1NjdQSxGs6kCGt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e"
+      },
+      "href": "https://api.spotify.com/v1/albums/6QTbzeEBJNZZObMZPhLS4e",
+      "id": "6QTbzeEBJNZZObMZPhLS4e",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5d8d73eb6d92f34505f54dd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5d8d73eb6d92f34505f54dd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b5d8d73eb6d92f34505f54dd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Very Backstreet Christmas (Deluxe Edition)",
+      "release_date": "2022",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:6QTbzeEBJNZZObMZPhLS4e",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv"
+      },
+      "href": "https://api.spotify.com/v1/albums/02FX4aLHDNacfV4bMnO9Kv",
+      "id": "02FX4aLHDNacfV4bMnO9Kv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f84edc7f0aa4b65f5a4d5bd6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f84edc7f0aa4b65f5a4d5bd6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f84edc7f0aa4b65f5a4d5bd6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DNA",
+      "release_date": "2019-01-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:02FX4aLHDNacfV4bMnO9Kv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7GvnIbjZfr09O1aV5ihPHm"
+      },
+      "href": "https://api.spotify.com/v1/albums/7GvnIbjZfr09O1aV5ihPHm",
+      "id": "7GvnIbjZfr09O1aV5ihPHm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27331b4e62eb536e80ed642abdc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0231b4e62eb536e80ed642abdc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485131b4e62eb536e80ed642abdc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In a World Like This (Deluxe World Tour Edition)",
+      "release_date": "2014-04-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7GvnIbjZfr09O1aV5ihPHm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6La3thI4Xm0xV4xgneiZd0"
+      },
+      "href": "https://api.spotify.com/v1/albums/6La3thI4Xm0xV4xgneiZd0",
+      "id": "6La3thI4Xm0xV4xgneiZd0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1ddc03ba2617c8371381167",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1ddc03ba2617c8371381167",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f1ddc03ba2617c8371381167",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In a World Like This",
+      "release_date": "2014-03-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6La3thI4Xm0xV4xgneiZd0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/037t7MAOKh2DHbf7ltfWUy"
+      },
+      "href": "https://api.spotify.com/v1/albums/037t7MAOKh2DHbf7ltfWUy",
+      "id": "037t7MAOKh2DHbf7ltfWUy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273441a4ca65f8cc2fa2c4f945e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02441a4ca65f8cc2fa2c4f945e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851441a4ca65f8cc2fa2c4f945e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In a World Like This (Remixes)",
+      "release_date": "2013-10-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:037t7MAOKh2DHbf7ltfWUy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Zwuaan4RIS108lyMEYYmw",
+      "id": "5Zwuaan4RIS108lyMEYYmw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273789e2700e86caa8ef4ab7b3c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02789e2700e86caa8ef4ab7b3c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851789e2700e86caa8ef4ab7b3c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "NKOTBSB",
+      "release_date": "2011-05-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Zwuaan4RIS108lyMEYYmw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4BjHiejt4AKg6BHeCjtAcF"
+          },
+          "href": "https://api.spotify.com/v1/artists/4BjHiejt4AKg6BHeCjtAcF",
+          "id": "4BjHiejt4AKg6BHeCjtAcF",
+          "name": "NKOTBSB",
+          "type": "artist",
+          "uri": "spotify:artist:4BjHiejt4AKg6BHeCjtAcF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+          },
+          "href": "https://api.spotify.com/v1/artists/55qiaow2sDYtjqu1mwRua6",
+          "id": "55qiaow2sDYtjqu1mwRua6",
+          "name": "New Kids On The Block",
+          "type": "artist",
+          "uri": "spotify:artist:55qiaow2sDYtjqu1mwRua6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/08wSk6XJ7365lO47E1278L"
+      },
+      "href": "https://api.spotify.com/v1/albums/08wSk6XJ7365lO47E1278L",
+      "id": "08wSk6XJ7365lO47E1278L",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731c5da65d09721ebfbc778d15",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021c5da65d09721ebfbc778d15",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511c5da65d09721ebfbc778d15",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "This Is Us",
+      "release_date": "2009-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:08wSk6XJ7365lO47E1278L",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dJhkG64rXbA2PtBLBGFVd"
+      },
+      "href": "https://api.spotify.com/v1/albums/3dJhkG64rXbA2PtBLBGFVd",
+      "id": "3dJhkG64rXbA2PtBLBGFVd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cac2bdb27b401000f775b7e4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cac2bdb27b401000f775b7e4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cac2bdb27b401000f775b7e4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Unbreakable",
+      "release_date": "2007-10-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3dJhkG64rXbA2PtBLBGFVd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Wz9PANLXjaOskUv575hRV",
+      "id": "1Wz9PANLXjaOskUv575hRV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd2f4308f22fcae9f5c1fa8c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd2f4308f22fcae9f5c1fa8c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fd2f4308f22fcae9f5c1fa8c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Never Gone",
+      "release_date": "2005-06-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Wz9PANLXjaOskUv575hRV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
+      },
+      "href": "https://api.spotify.com/v1/albums/41zXjyVr6dzmchWf8tv3UO",
+      "id": "41zXjyVr6dzmchWf8tv3UO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf871e6326e334bfa92cff20",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf871e6326e334bfa92cff20",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cf871e6326e334bfa92cff20",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Black & Blue",
+      "release_date": "2000-11-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:41zXjyVr6dzmchWf8tv3UO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ySxm9hxBNss01WCL7GLyQ",
+      "id": "5ySxm9hxBNss01WCL7GLyQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022160c02bc56f192df0f4986b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512160c02bc56f192df0f4986b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Millennium",
+      "release_date": "1999-05-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ySxm9hxBNss01WCL7GLyQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "href": "https://api.spotify.com/v1/albums/2U9ONknz1iFEK9drEKLx8v",
+      "id": "2U9ONknz1iFEK9drEKLx8v",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273530cec85d4543693bd726167",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02530cec85d4543693bd726167",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851530cec85d4543693bd726167",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Backstreet's Back",
+      "release_date": "1997-08-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2U9ONknz1iFEK9drEKLx8v",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+      },
+      "href": "https://api.spotify.com/v1/albums/1oWxRkI4V9d3hH3PqWpx9H",
+      "id": "1oWxRkI4V9d3hH3PqWpx9H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d16809ca253f0f476195941",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023d16809ca253f0f476195941",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513d16809ca253f0f476195941",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Backstreet Boys",
+      "release_date": "1996-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1oWxRkI4V9d3hH3PqWpx9H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7",
+          "name": "Backstreet Boys",
+          "type": "artist",
+          "uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ]
+    }
+  ]
+}

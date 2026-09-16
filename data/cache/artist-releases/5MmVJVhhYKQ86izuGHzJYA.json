@@ -1,0 +1,612 @@
+{
+  "artist_id": "5MmVJVhhYKQ86izuGHzJYA",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2h6YTeHoozQEaXrxMXcpBT"
+      },
+      "href": "https://api.spotify.com/v1/albums/2h6YTeHoozQEaXrxMXcpBT",
+      "id": "2h6YTeHoozQEaXrxMXcpBT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731fd9621dbd54b211b54bb0c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021fd9621dbd54b211b54bb0c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511fd9621dbd54b211b54bb0c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hyperlove",
+      "release_date": "2026-01-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2h6YTeHoozQEaXrxMXcpBT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
+      },
+      "href": "https://api.spotify.com/v1/albums/2FuPctpcSia7TyA1liF27u",
+      "id": "2FuPctpcSia7TyA1liF27u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27311496bb52d70bb61f6785873",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0211496bb52d70bb61f6785873",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485111496bb52d70bb61f6785873",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Que ta tête fleurisse toujours",
+      "release_date": "2023-11-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2FuPctpcSia7TyA1liF27u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WpFDSKk9VK0RcJWAebH33"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WpFDSKk9VK0RcJWAebH33",
+      "id": "5WpFDSKk9VK0RcJWAebH33",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273704252c90b691d5c591f4f05",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02704252c90b691d5c591f4f05",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851704252c90b691d5c591f4f05",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bande originale du film Zodi et Téhu, frères du désert",
+      "release_date": "2023-02-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WpFDSKk9VK0RcJWAebH33",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ff9T4vaCQkRv7aalK5taV"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ff9T4vaCQkRv7aalK5taV",
+      "id": "5ff9T4vaCQkRv7aalK5taV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef6641af3e5f6ea18aa36b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef6641af3e5f6ea18aa36b5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519ef6641af3e5f6ea18aa36b5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A L’OPERA ROYAL DE VERSAILLES (Live)",
+      "release_date": "2021-02-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ff9T4vaCQkRv7aalK5taV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6C6tTv5187lWWzG6QqdPz7"
+      },
+      "href": "https://api.spotify.com/v1/albums/6C6tTv5187lWWzG6QqdPz7",
+      "id": "6C6tTv5187lWWzG6QqdPz7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d2ed114454056e0d11ab211",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d2ed114454056e0d11ab211",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d2ed114454056e0d11ab211",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live At Brooklyn Steel",
+      "release_date": "2020-01-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6C6tTv5187lWWzG6QqdPz7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc"
+      },
+      "href": "https://api.spotify.com/v1/albums/4bVlbOipapiqrTusSsgvIc",
+      "id": "4bVlbOipapiqrTusSsgvIc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5090ab24473619ac854a147",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5090ab24473619ac854a147",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d5090ab24473619ac854a147",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "My Name Is Michael Holbrook",
+      "release_date": "2019-10-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4bVlbOipapiqrTusSsgvIc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zVIADLuIrdkiChta3XiSo"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zVIADLuIrdkiChta3XiSo",
+      "id": "6zVIADLuIrdkiChta3XiSo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738264e1ca21e5e11adde92708",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028264e1ca21e5e11adde92708",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518264e1ca21e5e11adde92708",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "No Place In Heaven",
+      "release_date": "2015-06-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6zVIADLuIrdkiChta3XiSo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4A0G9XkAnK6yKxH8UcpQQz"
+      },
+      "href": "https://api.spotify.com/v1/albums/4A0G9XkAnK6yKxH8UcpQQz",
+      "id": "4A0G9XkAnK6yKxH8UcpQQz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f44438b8ed037ecd361ed96",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023f44438b8ed037ecd361ed96",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513f44438b8ed037ecd361ed96",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "No Place In Heaven (Deluxe)",
+      "release_date": "2015-06-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4A0G9XkAnK6yKxH8UcpQQz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SXEdMJ3yqhjAE92QT3UDC"
+      },
+      "href": "https://api.spotify.com/v1/albums/6SXEdMJ3yqhjAE92QT3UDC",
+      "id": "6SXEdMJ3yqhjAE92QT3UDC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273692d4493fdc16c73af9352cd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02692d4493fdc16c73af9352cd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851692d4493fdc16c73af9352cd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Origin Of Love",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6SXEdMJ3yqhjAE92QT3UDC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zY3JRYHC0rycbFUqGcRpV"
+      },
+      "href": "https://api.spotify.com/v1/albums/0zY3JRYHC0rycbFUqGcRpV",
+      "id": "0zY3JRYHC0rycbFUqGcRpV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d6cb24f59d34e96a1118c46",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d6cb24f59d34e96a1118c46",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d6cb24f59d34e96a1118c46",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Origin Of Love (Deluxe)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0zY3JRYHC0rycbFUqGcRpV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7olTqj8FfWBuWckpVNyGJn"
+      },
+      "href": "https://api.spotify.com/v1/albums/7olTqj8FfWBuWckpVNyGJn",
+      "id": "7olTqj8FfWBuWckpVNyGJn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273be0f9ca9d740293eb3341d1e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02be0f9ca9d740293eb3341d1e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851be0f9ca9d740293eb3341d1e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Origin Of Love [The Origin Of Love (Commentary Version)]",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7olTqj8FfWBuWckpVNyGJn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0kWIUG0jqOsKQCcDJZQ9G0"
+      },
+      "href": "https://api.spotify.com/v1/albums/0kWIUG0jqOsKQCcDJZQ9G0",
+      "id": "0kWIUG0jqOsKQCcDJZQ9G0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fecbcc8cc42959377a154bfd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fecbcc8cc42959377a154bfd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fecbcc8cc42959377a154bfd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Boy Who Knew Too Much",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0kWIUG0jqOsKQCcDJZQ9G0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6IjXgpDqzB9AZIS6VlFwlg"
+      },
+      "href": "https://api.spotify.com/v1/albums/6IjXgpDqzB9AZIS6VlFwlg",
+      "id": "6IjXgpDqzB9AZIS6VlFwlg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b370e3a03ae6deb6fbe08e9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026b370e3a03ae6deb6fbe08e9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516b370e3a03ae6deb6fbe08e9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Boy Who Knew Too Much (International AOBP)",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6IjXgpDqzB9AZIS6VlFwlg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2FgwL1GHWKTbuHzAIjEeFa"
+      },
+      "href": "https://api.spotify.com/v1/albums/2FgwL1GHWKTbuHzAIjEeFa",
+      "id": "2FgwL1GHWKTbuHzAIjEeFa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e32f9a2ff535458808b7e791",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e32f9a2ff535458808b7e791",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e32f9a2ff535458808b7e791",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Life In Cartoon Motion",
+      "release_date": "2007-02-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2FgwL1GHWKTbuHzAIjEeFa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id": "5MmVJVhhYKQ86izuGHzJYA",
+          "name": "MIKA",
+          "type": "artist",
+          "uri": "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ]
+    }
+  ]
+}

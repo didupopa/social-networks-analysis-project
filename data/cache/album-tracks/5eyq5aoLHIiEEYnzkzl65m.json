@@ -1,0 +1,451 @@
+{
+  "album_id": "5eyq5aoLHIiEEYnzkzl65m",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63esosiuGYlUrtfdfyGrzJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63esosiuGYlUrtfdfyGrzJ",
+      "id": "63esosiuGYlUrtfdfyGrzJ",
+      "name": "Happy Birthday (feat. Daz Dillinger)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:63esosiuGYlUrtfdfyGrzJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LdTWIFslVrL7tCr4MZQ7D"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LdTWIFslVrL7tCr4MZQ7D",
+          "id": "2LdTWIFslVrL7tCr4MZQ7D",
+          "name": "DPGC",
+          "type": "artist",
+          "uri": "spotify:artist:2LdTWIFslVrL7tCr4MZQ7D"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272371,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61OyBcpJOAPnmEHFwTy7tX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61OyBcpJOAPnmEHFwTy7tX",
+      "id": "61OyBcpJOAPnmEHFwTy7tX",
+      "name": "Dick Walk (feat. DPGC)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:61OyBcpJOAPnmEHFwTy7tX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+          },
+          "href": "https://api.spotify.com/v1/artists/2B4ZHz4QDWJTXPFPgO5peE",
+          "id": "2B4ZHz4QDWJTXPFPgO5peE",
+          "name": "Warren G",
+          "type": "artist",
+          "uri": "spotify:artist:2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7oTqay5HYPVK9ga3qDQlgF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7oTqay5HYPVK9ga3qDQlgF",
+          "id": "7oTqay5HYPVK9ga3qDQlgF",
+          "name": "T-Fly",
+          "type": "artist",
+          "uri": "spotify:artist:7oTqay5HYPVK9ga3qDQlgF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4It2Tj7j0Crf1aneX8Fgd3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4It2Tj7j0Crf1aneX8Fgd3",
+      "id": "4It2Tj7j0Crf1aneX8Fgd3",
+      "name": "Never Had It Like This (feat. Warren G & T-Fly)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4It2Tj7j0Crf1aneX8Fgd3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ggNAhxQOOI3HVT8SV055A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ggNAhxQOOI3HVT8SV055A",
+      "id": "5ggNAhxQOOI3HVT8SV055A",
+      "name": "Phenomenon (feat. Daz Dillinger)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5ggNAhxQOOI3HVT8SV055A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fGNdi2u7XLBVYaq6fJUaT",
+          "id": "1fGNdi2u7XLBVYaq6fJUaT",
+          "name": "Soopafly",
+          "type": "artist",
+          "uri": "spotify:artist:1fGNdi2u7XLBVYaq6fJUaT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261784,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4EIGBvPmd1cVVdapQRxp2l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4EIGBvPmd1cVVdapQRxp2l",
+      "id": "4EIGBvPmd1cVVdapQRxp2l",
+      "name": "Weed N Wax (feat. Soopafly)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4EIGBvPmd1cVVdapQRxp2l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195902,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gW8Ih2mvGe3NeCNkbiD82"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0gW8Ih2mvGe3NeCNkbiD82",
+      "id": "0gW8Ih2mvGe3NeCNkbiD82",
+      "name": "Cadillacs",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0gW8Ih2mvGe3NeCNkbiD82",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180124,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jKvsdPiTI6aWzgnGrelz7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jKvsdPiTI6aWzgnGrelz7",
+      "id": "3jKvsdPiTI6aWzgnGrelz7",
+      "name": "Around The World (feat. Daz Dillinger)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3jKvsdPiTI6aWzgnGrelz7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300184,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48qLiCvVK0vIHFw7ULf6kL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48qLiCvVK0vIHFw7ULf6kL",
+      "id": "48qLiCvVK0vIHFw7ULf6kL",
+      "name": "Miss Everything",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:48qLiCvVK0vIHFw7ULf6kL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199535,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1d1VslMNuZKvG7etpiQtah"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1d1VslMNuZKvG7etpiQtah",
+      "id": "1d1VslMNuZKvG7etpiQtah",
+      "name": "Terradectacal",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1d1VslMNuZKvG7etpiQtah",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fGNdi2u7XLBVYaq6fJUaT",
+          "id": "1fGNdi2u7XLBVYaq6fJUaT",
+          "name": "Soopafly",
+          "type": "artist",
+          "uri": "spotify:artist:1fGNdi2u7XLBVYaq6fJUaT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196898,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jACzz3diCUEuQ5LLJ96DG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jACzz3diCUEuQ5LLJ96DG",
+      "id": "1jACzz3diCUEuQ5LLJ96DG",
+      "name": "Feel Like Heaven (feat. Soopafly)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1jACzz3diCUEuQ5LLJ96DG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56Uaa3aLhwsjga76AN2Zc1"
+          },
+          "href": "https://api.spotify.com/v1/artists/56Uaa3aLhwsjga76AN2Zc1",
+          "id": "56Uaa3aLhwsjga76AN2Zc1",
+          "name": "Black Hef",
+          "type": "artist",
+          "uri": "spotify:artist:56Uaa3aLhwsjga76AN2Zc1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vLkGQtcScP2CLqzUk7scy"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vLkGQtcScP2CLqzUk7scy",
+          "id": "6vLkGQtcScP2CLqzUk7scy",
+          "name": "E-White",
+          "type": "artist",
+          "uri": "spotify:artist:6vLkGQtcScP2CLqzUk7scy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202427,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Eqk7Vtgsoq1VT01xgPiEJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Eqk7Vtgsoq1VT01xgPiEJ",
+      "id": "2Eqk7Vtgsoq1VT01xgPiEJ",
+      "name": "Ain't It Man (feat. Kokane, Black Hef & E-White)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2Eqk7Vtgsoq1VT01xgPiEJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4eaDI6v6rFtJIm2F8HEkmN"
+          },
+          "href": "https://api.spotify.com/v1/artists/4eaDI6v6rFtJIm2F8HEkmN",
+          "id": "4eaDI6v6rFtJIm2F8HEkmN",
+          "name": "Pooh Bear",
+          "type": "artist",
+          "uri": "spotify:artist:4eaDI6v6rFtJIm2F8HEkmN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182307,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BBMsVtLoZtphYUZ4Aqbxs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BBMsVtLoZtphYUZ4Aqbxs",
+      "id": "6BBMsVtLoZtphYUZ4Aqbxs",
+      "name": "Happy Birthday Pt. 2 (feat. Pooh Bear)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6BBMsVtLoZtphYUZ4Aqbxs",
+      "is_local": false
+    }
+  ]
+}

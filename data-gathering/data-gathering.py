@@ -6,6 +6,7 @@ from spotipy.oauth2 import SpotifyOAuth
 from spotipy.exceptions import SpotifyException
 from dotenv import load_dotenv
 from pathlib import Path
+from seed_artist_list import SEED_ARTISTS
 
 # load environment variables from .env
 load_dotenv()
@@ -41,9 +42,9 @@ ARTIST_RELEASES_CACHE_DIR = CACHE_DIR / "artist-releases"
 ALBUM_TRACKS_CACHE_DIR = CACHE_DIR / "album-tracks"
 
 # seed artist list used to gather data from the Spotify API
-SEED_ARTISTS = {
-    "5 Seconds of Summer": "5Rl15oVamLq7FbSb0NNBNy"
-}
+# SEED_ARTISTS = {
+#     "5 Seconds of Summer": "5Rl15oVamLq7FbSb0NNBNy"
+# }
 
 # used for testing purposes, can be commented out
 # print("Open URL in browser for authentication: ")

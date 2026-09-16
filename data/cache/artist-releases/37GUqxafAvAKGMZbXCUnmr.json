@@ -1,0 +1,96 @@
+{
+  "artist_id": "37GUqxafAvAKGMZbXCUnmr",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/33Vvs859wdPlP5HJ5OPVX7"
+      },
+      "href": "https://api.spotify.com/v1/albums/33Vvs859wdPlP5HJ5OPVX7",
+      "id": "33Vvs859wdPlP5HJ5OPVX7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27373bb10bd7b40f8cf3cb39a53",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0273bb10bd7b40f8cf3cb39a53",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485173bb10bd7b40f8cf3cb39a53",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MoveMeant",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:33Vvs859wdPlP5HJ5OPVX7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/37GUqxafAvAKGMZbXCUnmr",
+          "id": "37GUqxafAvAKGMZbXCUnmr",
+          "name": "Mohombi",
+          "type": "artist",
+          "uri": "spotify:artist:37GUqxafAvAKGMZbXCUnmr"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0TFxOkFYPrhIzzrKv5CWZf"
+      },
+      "href": "https://api.spotify.com/v1/albums/0TFxOkFYPrhIzzrKv5CWZf",
+      "id": "0TFxOkFYPrhIzzrKv5CWZf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733cfcf82ef4d0685f4e4e95a5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023cfcf82ef4d0685f4e4e95a5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513cfcf82ef4d0685f4e4e95a5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MoveMeant (International)",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0TFxOkFYPrhIzzrKv5CWZf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+          },
+          "href": "https://api.spotify.com/v1/artists/37GUqxafAvAKGMZbXCUnmr",
+          "id": "37GUqxafAvAKGMZbXCUnmr",
+          "name": "Mohombi",
+          "type": "artist",
+          "uri": "spotify:artist:37GUqxafAvAKGMZbXCUnmr"
+        }
+      ]
+    }
+  ]
+}

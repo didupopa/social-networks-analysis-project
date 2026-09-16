@@ -1,0 +1,636 @@
+{
+  "album_id": "0skEOUcY4n8oeoD5zbqrIG",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zCyco6JHJv7zKHbyMmsut",
+          "id": "0zCyco6JHJv7zKHbyMmsut",
+          "name": "King Tee",
+          "type": "artist",
+          "uri": "spotify:artist:0zCyco6JHJv7zKHbyMmsut"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0sDi8J6agaMB1me67nzi31"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0sDi8J6agaMB1me67nzi31",
+      "id": "0sDi8J6agaMB1me67nzi31",
+      "name": "Monay",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0sDi8J6agaMB1me67nzi31",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0s7S7dDBRdX4rmyxPrwjZt"
+          },
+          "href": "https://api.spotify.com/v1/artists/0s7S7dDBRdX4rmyxPrwjZt",
+          "id": "0s7S7dDBRdX4rmyxPrwjZt",
+          "name": "Masta Ice",
+          "type": "artist",
+          "uri": "spotify:artist:0s7S7dDBRdX4rmyxPrwjZt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78dfOmoZ65cC0GD6sm1jbW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78dfOmoZ65cC0GD6sm1jbW",
+      "id": "78dfOmoZ65cC0GD6sm1jbW",
+      "name": "Hellbound",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:78dfOmoZ65cC0GD6sm1jbW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237186,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PmKkX6tIeZ2kTiEqhGIjw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3PmKkX6tIeZ2kTiEqhGIjw",
+      "id": "3PmKkX6tIeZ2kTiEqhGIjw",
+      "name": "Nuthin' but a G'thang",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3PmKkX6tIeZ2kTiEqhGIjw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MG5skX8kY7y3ddc9sCjzH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MG5skX8kY7y3ddc9sCjzH",
+          "id": "3MG5skX8kY7y3ddc9sCjzH",
+          "name": "Capone",
+          "type": "artist",
+          "uri": "spotify:artist:3MG5skX8kY7y3ddc9sCjzH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GqgiChw79vIYobk2zJFsO",
+          "id": "2GqgiChw79vIYobk2zJFsO",
+          "name": "Noreaga",
+          "type": "artist",
+          "uri": "spotify:artist:2GqgiChw79vIYobk2zJFsO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2kU6F3CkJ1Mo7ZAuraGSEy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2kU6F3CkJ1Mo7ZAuraGSEy",
+      "id": "2kU6F3CkJ1Mo7ZAuraGSEy",
+      "name": "Rider's Ride",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2kU6F3CkJ1Mo7ZAuraGSEy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254280,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6pae7mPkUSWkiAaWtD4sIj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6pae7mPkUSWkiAaWtD4sIj",
+      "id": "6pae7mPkUSWkiAaWtD4sIj",
+      "name": "The Juice",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6pae7mPkUSWkiAaWtD4sIj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zCyco6JHJv7zKHbyMmsut",
+          "id": "0zCyco6JHJv7zKHbyMmsut",
+          "name": "King Tee",
+          "type": "artist",
+          "uri": "spotify:artist:0zCyco6JHJv7zKHbyMmsut"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Of5OsfG12rMSJyZnvY4J5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Of5OsfG12rMSJyZnvY4J5",
+      "id": "3Of5OsfG12rMSJyZnvY4J5",
+      "name": "Where's T'",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3Of5OsfG12rMSJyZnvY4J5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Nv8DJgV1BK0qaB09r8RxU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Nv8DJgV1BK0qaB09r8RxU",
+          "id": "6Nv8DJgV1BK0qaB09r8RxU",
+          "name": "Kurupt The Kingpin",
+          "type": "artist",
+          "uri": "spotify:artist:6Nv8DJgV1BK0qaB09r8RxU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272226,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RD27Skm9IeXTsemplj4Po"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RD27Skm9IeXTsemplj4Po",
+      "id": "1RD27Skm9IeXTsemplj4Po",
+      "name": "Puppy Love",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1RD27Skm9IeXTsemplj4Po",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eGh2jSWPBX5GuqIHoZJZG",
+          "id": "0eGh2jSWPBX5GuqIHoZJZG",
+          "name": "ICE-T",
+          "type": "artist",
+          "uri": "spotify:artist:0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 275493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2gAaIl56Dvzq6KT5qOBQ1R"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2gAaIl56Dvzq6KT5qOBQ1R",
+      "id": "2gAaIl56Dvzq6KT5qOBQ1R",
+      "name": "Roll Wit Gee's",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2gAaIl56Dvzq6KT5qOBQ1R",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HA8K9PoQAOjXYTjLm1WQS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HA8K9PoQAOjXYTjLm1WQS",
+      "id": "3HA8K9PoQAOjXYTjLm1WQS",
+      "name": "Evon Is On",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3HA8K9PoQAOjXYTjLm1WQS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+          },
+          "href": "https://api.spotify.com/v1/artists/77IURH5NC56Jn09QHi76is",
+          "id": "77IURH5NC56Jn09QHi76is",
+          "name": "Bad Meets Evil",
+          "type": "artist",
+          "uri": "spotify:artist:77IURH5NC56Jn09QHi76is"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DVipHzYsPlIoA0DW8Gmns",
+          "id": "6DVipHzYsPlIoA0DW8Gmns",
+          "name": "Royce Da 5'9\"",
+          "type": "artist",
+          "uri": "spotify:artist:6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1IM72VnlnZTYULItIDheC5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1IM72VnlnZTYULItIDheC5",
+      "id": "1IM72VnlnZTYULItIDheC5",
+      "name": "Nuttin' to Do",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1IM72VnlnZTYULItIDheC5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 311040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6VBBk8tT3btmHFd5vBmtqV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6VBBk8tT3btmHFd5vBmtqV",
+      "id": "6VBBk8tT3btmHFd5vBmtqV",
+      "name": "The Planet",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6VBBk8tT3btmHFd5vBmtqV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/20hzIZ0hNiUmvlAcu4sv3o"
+      },
+      "href": "https://api.spotify.com/v1/tracks/20hzIZ0hNiUmvlAcu4sv3o",
+      "id": "20hzIZ0hNiUmvlAcu4sv3o",
+      "name": "These Days",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:20hzIZ0hNiUmvlAcu4sv3o",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ejOfT0PRbmCaEC4MHu6Eb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ejOfT0PRbmCaEC4MHu6Eb",
+      "id": "6ejOfT0PRbmCaEC4MHu6Eb",
+      "name": "Dre's Beat",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6ejOfT0PRbmCaEC4MHu6Eb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3AK1FxCiH9DQijxVHhW667"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3AK1FxCiH9DQijxVHhW667",
+      "id": "3AK1FxCiH9DQijxVHhW667",
+      "name": "Deep Cover",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3AK1FxCiH9DQijxVHhW667",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zCyco6JHJv7zKHbyMmsut",
+          "id": "0zCyco6JHJv7zKHbyMmsut",
+          "name": "King Tee",
+          "type": "artist",
+          "uri": "spotify:artist:0zCyco6JHJv7zKHbyMmsut"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gK3bndCAouC1G7dKVqKBy"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gK3bndCAouC1G7dKVqKBy",
+          "id": "6gK3bndCAouC1G7dKVqKBy",
+          "name": "R.C.",
+          "type": "artist",
+          "uri": "spotify:artist:6gK3bndCAouC1G7dKVqKBy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 316253,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48tfhZaJm70pWriwfIfGyx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48tfhZaJm70pWriwfIfGyx",
+      "id": "48tfhZaJm70pWriwfIfGyx",
+      "name": "Step on By",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:48tfhZaJm70pWriwfIfGyx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cCEI6lWHtgShTqmpH5o2m"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cCEI6lWHtgShTqmpH5o2m",
+          "id": "7cCEI6lWHtgShTqmpH5o2m",
+          "name": "KCI",
+          "type": "artist",
+          "uri": "spotify:artist:7cCEI6lWHtgShTqmpH5o2m"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AAuaueEinwUKSWlxvNTDQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AAuaueEinwUKSWlxvNTDQ",
+          "id": "2AAuaueEinwUKSWlxvNTDQ",
+          "name": "Jojo",
+          "type": "artist",
+          "uri": "spotify:artist:2AAuaueEinwUKSWlxvNTDQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0p7B5rBXrxNMQNNA8WAvB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/0p7B5rBXrxNMQNNA8WAvB4",
+          "id": "0p7B5rBXrxNMQNNA8WAvB4",
+          "name": "Kali's Finest",
+          "type": "artist",
+          "uri": "spotify:artist:0p7B5rBXrxNMQNNA8WAvB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XPcLeRG09Z3ZNo3Tt2lXm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XPcLeRG09Z3ZNo3Tt2lXm",
+      "id": "3XPcLeRG09Z3ZNo3Tt2lXm",
+      "name": "My Life",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3XPcLeRG09Z3ZNo3Tt2lXm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 427320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6WUPywaIEaFhZl7sbaZptv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6WUPywaIEaFhZl7sbaZptv",
+      "id": "6WUPywaIEaFhZl7sbaZptv",
+      "name": "Lovers",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6WUPywaIEaFhZl7sbaZptv",
+      "is_local": false
+    }
+  ]
+}

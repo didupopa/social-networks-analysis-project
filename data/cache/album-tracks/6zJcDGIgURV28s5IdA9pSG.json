@@ -1,0 +1,622 @@
+{
+  "album_id": "6zJcDGIgURV28s5IdA9pSG",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+          "id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "Steve Angello",
+          "type": "artist",
+          "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2L5xi76mB2qwg00CMkuyEN",
+          "id": "2L5xi76mB2qwg00CMkuyEN",
+          "name": "Cozi",
+          "type": "artist",
+          "uri": "spotify:artist:2L5xi76mB2qwg00CMkuyEN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5bJ3imTI0ErWNsFWEgi5F8",
+      "id": "5bJ3imTI0ErWNsFWEgi5F8",
+      "name": "Baby When the Light (feat. Cozi)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5bJ3imTI0ErWNsFWEgi5F8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qSEpijpT3YSXgxcXac1ly",
+          "id": "2qSEpijpT3YSXgxcXac1ly",
+          "name": "Chris Willis",
+          "type": "artist",
+          "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03oK265y87YNXHIQSOAWOp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03oK265y87YNXHIQSOAWOp",
+      "id": "03oK265y87YNXHIQSOAWOp",
+      "name": "Love Is Gone",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:03oK265y87YNXHIQSOAWOp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qSEpijpT3YSXgxcXac1ly",
+          "id": "2qSEpijpT3YSXgxcXac1ly",
+          "name": "Chris Willis",
+          "type": "artist",
+          "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6hyMWrxGBsOx6sWcVj1DqP",
+          "id": "6hyMWrxGBsOx6sWcVj1DqP",
+          "name": "Sebastian Ingrosso",
+          "type": "artist",
+          "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+          "id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "Steve Angello",
+          "type": "artist",
+          "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4hYFhNXRMHoD3lyHwVCWfT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4hYFhNXRMHoD3lyHwVCWfT",
+      "id": "4hYFhNXRMHoD3lyHwVCWfT",
+      "name": "Everytime We Touch (with Steve Angello & Sebastian Ingrosso)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4hYFhNXRMHoD3lyHwVCWfT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yWER4vAftcZCFPc7ednct",
+          "id": "2yWER4vAftcZCFPc7ednct",
+          "name": "Tara Mcdonald",
+          "type": "artist",
+          "uri": "spotify:artist:2yWER4vAftcZCFPc7ednct"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hzV2vgAOjm9VJA7m0kA04"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1hzV2vgAOjm9VJA7m0kA04",
+      "id": "1hzV2vgAOjm9VJA7m0kA04",
+      "name": "Delirious (feat. Tara McDonald)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1hzV2vgAOjm9VJA7m0kA04",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qSEpijpT3YSXgxcXac1ly",
+          "id": "2qSEpijpT3YSXgxcXac1ly",
+          "name": "Chris Willis",
+          "type": "artist",
+          "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iwhenp5euZtZLmtK6cgbe",
+          "id": "2iwhenp5euZtZLmtK6cgbe",
+          "name": "Tocadisco",
+          "type": "artist",
+          "uri": "spotify:artist:2iwhenp5euZtZLmtK6cgbe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0BRcMSaH84i330e6JCyXgO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0BRcMSaH84i330e6JCyXgO",
+      "id": "0BRcMSaH84i330e6JCyXgO",
+      "name": "Tomorrow Can Wait",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0BRcMSaH84i330e6JCyXgO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S1P19bTfbDVjEA8Hxs4Cj",
+          "id": "4S1P19bTfbDVjEA8Hxs4Cj",
+          "name": "JD Davis",
+          "type": "artist",
+          "uri": "spotify:artist:4S1P19bTfbDVjEA8Hxs4Cj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3DzVlobYhQiSiTY43rPukM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3DzVlobYhQiSiTY43rPukM",
+      "id": "3DzVlobYhQiSiTY43rPukM",
+      "name": "Winner of the Game (feat. JD Davis)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3DzVlobYhQiSiTY43rPukM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6m5tnZgZL60pqTFn0nSmRE"
+          },
+          "href": "https://api.spotify.com/v1/artists/6m5tnZgZL60pqTFn0nSmRE",
+          "id": "6m5tnZgZL60pqTFn0nSmRE",
+          "name": "Juliet",
+          "type": "artist",
+          "uri": "spotify:artist:6m5tnZgZL60pqTFn0nSmRE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250693,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Vg1yAuI4JzMylJNHXDNFY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Vg1yAuI4JzMylJNHXDNFY",
+      "id": "0Vg1yAuI4JzMylJNHXDNFY",
+      "name": "Do Something Love (feat. Juliet)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0Vg1yAuI4JzMylJNHXDNFY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yWER4vAftcZCFPc7ednct",
+          "id": "2yWER4vAftcZCFPc7ednct",
+          "name": "Tara Mcdonald",
+          "type": "artist",
+          "uri": "spotify:artist:2yWER4vAftcZCFPc7ednct"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kZM2cCqndVpcvKkgt8xq0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kZM2cCqndVpcvKkgt8xq0",
+      "id": "5kZM2cCqndVpcvKkgt8xq0",
+      "name": "You're Not Alone (feat. Tara McDonald)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5kZM2cCqndVpcvKkgt8xq0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qSEpijpT3YSXgxcXac1ly",
+          "id": "2qSEpijpT3YSXgxcXac1ly",
+          "name": "Chris Willis",
+          "type": "artist",
+          "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RyLEROLyJL2IQZXFamM0G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RyLEROLyJL2IQZXFamM0G",
+      "id": "5RyLEROLyJL2IQZXFamM0G",
+      "name": "Never Take Away My Freedom",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5RyLEROLyJL2IQZXFamM0G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S1P19bTfbDVjEA8Hxs4Cj",
+          "id": "4S1P19bTfbDVjEA8Hxs4Cj",
+          "name": "JD Davis",
+          "type": "artist",
+          "uri": "spotify:artist:4S1P19bTfbDVjEA8Hxs4Cj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wVXXBmCKblwIYiuuHsVmb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wVXXBmCKblwIYiuuHsVmb",
+      "id": "2wVXXBmCKblwIYiuuHsVmb",
+      "name": "This is Not a Love Song (feat. JD Davis)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2wVXXBmCKblwIYiuuHsVmb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S1P19bTfbDVjEA8Hxs4Cj",
+          "id": "4S1P19bTfbDVjEA8Hxs4Cj",
+          "name": "JD Davis",
+          "type": "artist",
+          "uri": "spotify:artist:4S1P19bTfbDVjEA8Hxs4Cj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18P9FFTRXFzHdAzAphl7sy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18P9FFTRXFzHdAzAphl7sy",
+      "id": "18P9FFTRXFzHdAzAphl7sy",
+      "name": "Always (feat. JD Davis)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:18P9FFTRXFzHdAzAphl7sy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2MxFOxmBHn8tic25xZfqHe"
+          },
+          "href": "https://api.spotify.com/v1/artists/2MxFOxmBHn8tic25xZfqHe",
+          "id": "2MxFOxmBHn8tic25xZfqHe",
+          "name": "Thailand",
+          "type": "artist",
+          "uri": "spotify:artist:2MxFOxmBHn8tic25xZfqHe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0a8EG6QolzsaHTkQ2Wvq5S"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0a8EG6QolzsaHTkQ2Wvq5S",
+      "id": "0a8EG6QolzsaHTkQ2Wvq5S",
+      "name": "Joan of Arc (feat. Thailand)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0a8EG6QolzsaHTkQ2Wvq5S",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qSEpijpT3YSXgxcXac1ly",
+          "id": "2qSEpijpT3YSXgxcXac1ly",
+          "name": "Chris Willis",
+          "type": "artist",
+          "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oBWpcv8MNPflTzyxZ8zVU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oBWpcv8MNPflTzyxZ8zVU",
+          "id": "2oBWpcv8MNPflTzyxZ8zVU",
+          "name": "Fred Riesterer",
+          "type": "artist",
+          "uri": "spotify:artist:2oBWpcv8MNPflTzyxZ8zVU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
+          },
+          "href": "https://api.spotify.com/v1/artists/4EhiIwwMPecLznwn87sRw2",
+          "id": "4EhiIwwMPecLznwn87sRw2",
+          "name": "Joachim Garraud",
+          "type": "artist",
+          "uri": "spotify:artist:4EhiIwwMPecLznwn87sRw2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MGRnjJc7C0z3EOEWRqcMw",
+      "id": "2MGRnjJc7C0z3EOEWRqcMw",
+      "name": "Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2MGRnjJc7C0z3EOEWRqcMw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iBKxKzLy3HE89cXAPr6lC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4iBKxKzLy3HE89cXAPr6lC",
+          "id": "4iBKxKzLy3HE89cXAPr6lC",
+          "name": "Miss B",
+          "type": "artist",
+          "uri": "spotify:artist:4iBKxKzLy3HE89cXAPr6lC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DRBq6zgMQ9RzvtQNmy1p1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DRBq6zgMQ9RzvtQNmy1p1",
+      "id": "5DRBq6zgMQ9RzvtQNmy1p1",
+      "name": "Obsession (feat. JD Davis & Miss B)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5DRBq6zgMQ9RzvtQNmy1p1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "David Guetta",
+          "type": "artist",
+          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qSEpijpT3YSXgxcXac1ly",
+          "id": "2qSEpijpT3YSXgxcXac1ly",
+          "name": "Chris Willis",
+          "type": "artist",
+          "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4gXNhANuxquA0Q41yvoXeD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4gXNhANuxquA0Q41yvoXeD",
+      "id": "4gXNhANuxquA0Q41yvoXeD",
+      "name": "Don't Be Afraid",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4gXNhANuxquA0Q41yvoXeD",
+      "is_local": false
+    }
+  ]
+}

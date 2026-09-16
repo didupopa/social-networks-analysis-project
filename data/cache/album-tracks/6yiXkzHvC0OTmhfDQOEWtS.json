@@ -1,0 +1,911 @@
+{
+  "album_id": "6yiXkzHvC0OTmhfDQOEWtS",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6U3ybJ9UHNKEdsH7ktGBZ7",
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "type": "artist",
+          "uri": "spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+          },
+          "href": "https://api.spotify.com/v1/artists/57nPqD7z62gDdq37US9XJR",
+          "id": "57nPqD7z62gDdq37US9XJR",
+          "name": "Arcane",
+          "type": "artist",
+          "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          },
+          "href": "https://api.spotify.com/v1/artists/47mIJdHORyRerp4os813jD",
+          "id": "47mIJdHORyRerp4os813jD",
+          "name": "League of Legends",
+          "type": "artist",
+          "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173381,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CIyK1V4JEJkg02E4EJnDl",
+      "id": "3CIyK1V4JEJkg02E4EJnDl",
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3CIyK1V4JEJkg02E4EJnDl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224512,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0E0kxko3i9b5JxxMoGH3At",
+      "id": "0E0kxko3i9b5JxxMoGH3At",
+      "name": "My Life",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0E0kxko3i9b5JxxMoGH3At",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159851,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VMBapbhHidf6ALFszT7w1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VMBapbhHidf6ALFszT7w1",
+      "id": "1VMBapbhHidf6ALFszT7w1",
+      "name": "Lonely",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1VMBapbhHidf6ALFszT7w1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244004,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6TEftSkmWdTm1EpThnwqh6",
+      "id": "6TEftSkmWdTm1EpThnwqh6",
+      "name": "Wrecked",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6TEftSkmWdTm1EpThnwqh6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187896,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/747LeNCUC3bF2h43E73rFh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/747LeNCUC3bF2h43E73rFh",
+      "id": "747LeNCUC3bF2h43E73rFh",
+      "name": "Monday",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:747LeNCUC3bF2h43E73rFh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0eO2zq5fjPt41BreFmiIKw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0eO2zq5fjPt41BreFmiIKw",
+      "id": "0eO2zq5fjPt41BreFmiIKw",
+      "name": "#1",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0eO2zq5fjPt41BreFmiIKw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179872,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qRt4howTYyg3XzSNySKO8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qRt4howTYyg3XzSNySKO8",
+      "id": "5qRt4howTYyg3XzSNySKO8",
+      "name": "Easy Come Easy Go",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5qRt4howTYyg3XzSNySKO8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210402,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HmxrDC6RrpkCDtMYQqkqx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HmxrDC6RrpkCDtMYQqkqx",
+      "id": "5HmxrDC6RrpkCDtMYQqkqx",
+      "name": "Giants",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5HmxrDC6RrpkCDtMYQqkqx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202497,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0p5UWw5wVyzPOgCIx5T0tn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0p5UWw5wVyzPOgCIx5T0tn",
+      "id": "0p5UWw5wVyzPOgCIx5T0tn",
+      "name": "It's Ok",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0p5UWw5wVyzPOgCIx5T0tn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213481,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3vThV17aiX6dGokusu6j8N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3vThV17aiX6dGokusu6j8N",
+      "id": "3vThV17aiX6dGokusu6j8N",
+      "name": "Dull Knives",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3vThV17aiX6dGokusu6j8N",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 175643,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0LtkAAEpEp1lkLX1ZvjHZb",
+      "id": "0LtkAAEpEp1lkLX1ZvjHZb",
+      "name": "Follow You",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0LtkAAEpEp1lkLX1ZvjHZb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169741,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5KXp9E22MHunsS4W4PNBUf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5KXp9E22MHunsS4W4PNBUf",
+      "id": "5KXp9E22MHunsS4W4PNBUf",
+      "name": "Cutthroat",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5KXp9E22MHunsS4W4PNBUf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207870,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wXfd4Vz6pzJrrPvGhpYz0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wXfd4Vz6pzJrrPvGhpYz0",
+      "id": "2wXfd4Vz6pzJrrPvGhpYz0",
+      "name": "No Time For Toxic People",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2wXfd4Vz6pzJrrPvGhpYz0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151337,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0xBlufYjHrtf8xk0QifNn1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0xBlufYjHrtf8xk0QifNn1",
+      "id": "0xBlufYjHrtf8xk0QifNn1",
+      "name": "One Day",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0xBlufYjHrtf8xk0QifNn1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 165264,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/54ipXppHLA8U4yqpOFTUhr",
+      "id": "54ipXppHLA8U4yqpOFTUhr",
+      "name": "Bones",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:54ipXppHLA8U4yqpOFTUhr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 175833,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ThaHV10xrAcL2WfqXyLnp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ThaHV10xrAcL2WfqXyLnp",
+      "id": "2ThaHV10xrAcL2WfqXyLnp",
+      "name": "Symphony",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2ThaHV10xrAcL2WfqXyLnp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 190883,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7sA2SKTo1QbTSSYn5YvJC4",
+      "id": "7sA2SKTo1QbTSSYn5YvJC4",
+      "name": "Sharks",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7sA2SKTo1QbTSSYn5YvJC4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 185495,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3soSAbnGLuJeARGmegvMFJ",
+      "id": "3soSAbnGLuJeARGmegvMFJ",
+      "name": "I Don't Like Myself",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3soSAbnGLuJeARGmegvMFJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 175663,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5i6V88QD3nt9at4915JISY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5i6V88QD3nt9at4915JISY",
+      "id": "5i6V88QD3nt9at4915JISY",
+      "name": "Blur",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5i6V88QD3nt9at4915JISY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 161842,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/66N0XT7yr2VuFxrMc8piUy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/66N0XT7yr2VuFxrMc8piUy",
+      "id": "66N0XT7yr2VuFxrMc8piUy",
+      "name": "Higher Ground",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:66N0XT7yr2VuFxrMc8piUy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 188942,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6rBsmp96jxTRpFqQEfxAdY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6rBsmp96jxTRpFqQEfxAdY",
+      "id": "6rBsmp96jxTRpFqQEfxAdY",
+      "name": "Crushed",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6rBsmp96jxTRpFqQEfxAdY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 158270,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Y2Iom5hrfZyhBRGqcrJdc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Y2Iom5hrfZyhBRGqcrJdc",
+      "id": "6Y2Iom5hrfZyhBRGqcrJdc",
+      "name": "Take It Easy",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6Y2Iom5hrfZyhBRGqcrJdc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 225431,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YbFEoJi7Esa7lhIrEpBjl",
+      "id": "0YbFEoJi7Esa7lhIrEpBjl",
+      "name": "Waves",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0YbFEoJi7Esa7lhIrEpBjl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 185219,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0z2bufPrU83RRPRaboj3B7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0z2bufPrU83RRPRaboj3B7",
+      "id": "0z2bufPrU83RRPRaboj3B7",
+      "name": "I'm Happy",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0z2bufPrU83RRPRaboj3B7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 203875,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1qaWM3wK6aZZALpAPVdZ6D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1qaWM3wK6aZZALpAPVdZ6D",
+      "id": "1qaWM3wK6aZZALpAPVdZ6D",
+      "name": "Ferris Wheel",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1qaWM3wK6aZZALpAPVdZ6D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 173928,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bwvtkLyVe7YWrKRlViloR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3bwvtkLyVe7YWrKRlViloR",
+      "id": "3bwvtkLyVe7YWrKRlViloR",
+      "name": "Peace Of Mind",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3bwvtkLyVe7YWrKRlViloR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 155312,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3IkEM7cjZ8FZtmVFq1q03c"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3IkEM7cjZ8FZtmVFq1q03c",
+      "id": "3IkEM7cjZ8FZtmVFq1q03c",
+      "name": "Sirens",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3IkEM7cjZ8FZtmVFq1q03c",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 241806,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35CZvVV7UzYgydaVpNW4Kp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/35CZvVV7UzYgydaVpNW4Kp",
+      "id": "35CZvVV7UzYgydaVpNW4Kp",
+      "name": "Tied",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:35CZvVV7UzYgydaVpNW4Kp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 191936,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3BprrMTQ3IlFvHW8oFTTQ1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3BprrMTQ3IlFvHW8oFTTQ1",
+      "id": "3BprrMTQ3IlFvHW8oFTTQ1",
+      "name": "Younger",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3BprrMTQ3IlFvHW8oFTTQ1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 207300,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1X9hG9ChkrwhViamDCZTy9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1X9hG9ChkrwhViamDCZTy9",
+      "id": "1X9hG9ChkrwhViamDCZTy9",
+      "name": "I Wish",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1X9hG9ChkrwhViamDCZTy9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          },
+          "href": "https://api.spotify.com/v1/artists/21SOnTj5ECwVXeBUTRcP3s",
+          "id": "21SOnTj5ECwVXeBUTRcP3s",
+          "name": "Cory Henry",
+          "type": "artist",
+          "uri": "spotify:artist:21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 229507,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2EhE42VQTKvn6ok6wtA9U8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2EhE42VQTKvn6ok6wtA9U8",
+      "id": "2EhE42VQTKvn6ok6wtA9U8",
+      "name": "Continual (feat. Cory Henry)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:2EhE42VQTKvn6ok6wtA9U8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist",
+          "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 257875,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7KGwRAF99Ryell3B2T4DKy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7KGwRAF99Ryell3B2T4DKy",
+      "id": "7KGwRAF99Ryell3B2T4DKy",
+      "name": "They Don't Know You Like I Do",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:7KGwRAF99Ryell3B2T4DKy",
+      "is_local": false
+    }
+  ]
+}

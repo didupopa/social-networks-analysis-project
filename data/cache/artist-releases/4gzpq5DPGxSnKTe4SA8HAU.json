@@ -1,0 +1,741 @@
+{
+  "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "href": "https://api.spotify.com/v1/albums/5SGtrmYbIo0Dsg4kJ4qjM6",
+      "id": "5SGtrmYbIo0Dsg4kJ4qjM6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f40306925074cfdcd8bee61f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f40306925074cfdcd8bee61f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f40306925074cfdcd8bee61f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Moon Music",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5SGtrmYbIo0Dsg4kJ4qjM6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "href": "https://api.spotify.com/v1/albums/1PdMoahMiMnqWfzWZs3xSI",
+      "id": "1PdMoahMiMnqWfzWZs3xSI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d75f119409f50e08ce77c5f1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d75f119409f50e08ce77c5f1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d75f119409f50e08ce77c5f1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Moon Music (Full Moon Edition)",
+      "release_date": "2024-10-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1PdMoahMiMnqWfzWZs3xSI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "href": "https://api.spotify.com/v1/albums/06mXfvDsRZNfnsGZvX2zpb",
+      "id": "06mXfvDsRZNfnsGZvX2zpb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5d34557fa33c03782d3e730",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5d34557fa33c03782d3e730",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d5d34557fa33c03782d3e730",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Music Of The Spheres",
+      "release_date": "2021-10-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:06mXfvDsRZNfnsGZvX2zpb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "href": "https://api.spotify.com/v1/albums/2FeyIYDDAQqcOJKOKhvHdr",
+      "id": "2FeyIYDDAQqcOJKOKhvHdr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273722d16eb3b31fae9cb1d2ada",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02722d16eb3b31fae9cb1d2ada",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851722d16eb3b31fae9cb1d2ada",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Everyday Life",
+      "release_date": "2019-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2FeyIYDDAQqcOJKOKhvHdr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2"
+      },
+      "href": "https://api.spotify.com/v1/albums/19CvkGjYpifkdwgVJSbog2",
+      "id": "19CvkGjYpifkdwgVJSbog2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe5f1f4d742869a253036971",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe5f1f4d742869a253036971",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fe5f1f4d742869a253036971",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live in Buenos Aires",
+      "release_date": "2018-12-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:19CvkGjYpifkdwgVJSbog2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "href": "https://api.spotify.com/v1/albums/3cfAM8b8KqJRoIzt3zLKqw",
+      "id": "3cfAM8b8KqJRoIzt3zLKqw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ff7c3580d429c8212b9a3b6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Head Full of Dreams",
+      "release_date": "2015-12-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3cfAM8b8KqJRoIzt3zLKqw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS"
+      },
+      "href": "https://api.spotify.com/v1/albums/1hNS0RsxPTFjmKXCgmjSLS",
+      "id": "1hNS0RsxPTFjmKXCgmjSLS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e17c11c195f80da123e17dde",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e17c11c195f80da123e17dde",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e17c11c195f80da123e17dde",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ghost Stories Live 2014",
+      "release_date": "2014-11-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1hNS0RsxPTFjmKXCgmjSLS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "href": "https://api.spotify.com/v1/albums/2G4AUqfwxcV1UdQjm2ouYr",
+      "id": "2G4AUqfwxcV1UdQjm2ouYr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5a95573f1b91234630fd2cf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e5a95573f1b91234630fd2cf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ghost Stories",
+      "release_date": "2014-05-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2G4AUqfwxcV1UdQjm2ouYr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+      },
+      "href": "https://api.spotify.com/v1/albums/2OkEsqGTfu8PWRrNHzfr0m",
+      "id": "2OkEsqGTfu8PWRrNHzfr0m",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730e49a9823be8f295caf1a574",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020e49a9823be8f295caf1a574",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510e49a9823be8f295caf1a574",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live 2012",
+      "release_date": "2012-11-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2OkEsqGTfu8PWRrNHzfr0m",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "href": "https://api.spotify.com/v1/albums/2R7iJz5uaHjLEVnMkloO18",
+      "id": "2R7iJz5uaHjLEVnMkloO18",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02de0cd11d7b31c3bd1fd5983d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851de0cd11d7b31c3bd1fd5983d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mylo Xyloto",
+      "release_date": "2011-10-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2R7iJz5uaHjLEVnMkloO18",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pboBm7GTa6V5dFXXCt52b"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pboBm7GTa6V5dFXXCt52b",
+      "id": "3pboBm7GTa6V5dFXXCt52b",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef50b3c2d29efe1172925c6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef50b3c2d29efe1172925c6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519ef50b3c2d29efe1172925c6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LeftRightLeftRightLeft (Live)",
+      "release_date": "2009-05-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3pboBm7GTa6V5dFXXCt52b",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/71pRFAwHBLrjKYRG7V1Q2o"
+      },
+      "href": "https://api.spotify.com/v1/albums/71pRFAwHBLrjKYRG7V1Q2o",
+      "id": "71pRFAwHBLrjKYRG7V1Q2o",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273121b47fdc79958a05e67fb17",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02121b47fdc79958a05e67fb17",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851121b47fdc79958a05e67fb17",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Viva La Vida (Prospekt's March Edition)",
+      "release_date": "2008-11-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:71pRFAwHBLrjKYRG7V1Q2o",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "href": "https://api.spotify.com/v1/albums/1CEODgTmTwLyabvwd7HBty",
+      "id": "1CEODgTmTwLyabvwd7HBty",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e21cc1db05580b6f2d2a3b6e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Viva La Vida or Death and All His Friends",
+      "release_date": "2008-06-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1CEODgTmTwLyabvwd7HBty",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "href": "https://api.spotify.com/v1/albums/4E7bV0pzG0LciBSWTszra6",
+      "id": "4E7bV0pzG0LciBSWTszra6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514e0362c225863f6ae2432651",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "X&Y",
+      "release_date": "2005-06-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4E7bV0pzG0LciBSWTszra6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3JMOZD2qixTTLRW9I6JuF4"
+      },
+      "href": "https://api.spotify.com/v1/albums/3JMOZD2qixTTLRW9I6JuF4",
+      "id": "3JMOZD2qixTTLRW9I6JuF4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273378c46c41c441a8be148667e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02378c46c41c441a8be148667e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851378c46c41c441a8be148667e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live 2003",
+      "release_date": "2003-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3JMOZD2qixTTLRW9I6JuF4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0RHX9XECH8IVI3LNgWDpmQ",
+      "id": "0RHX9XECH8IVI3LNgWDpmQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Rush of Blood to the Head",
+      "release_date": "2002-08-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0RHX9XECH8IVI3LNgWDpmQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ZG5lRT77aJ3btmArcykra",
+      "id": "6ZG5lRT77aJ3btmArcykra",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Parachutes",
+      "release_date": "2000-07-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ZG5lRT77aJ3btmArcykra",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ]
+    }
+  ]
+}

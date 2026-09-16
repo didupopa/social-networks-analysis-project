@@ -1,0 +1,622 @@
+{
+  "artist_id": "3AA28KZvwAUcZuOKwyblJQ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "href": "https://api.spotify.com/v1/albums/1RvJmGd47lKS4XMXs9j8hD",
+      "id": "1RvJmGd47lKS4XMXs9j8hD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eeb01b41f48210d032d1b6a4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eeb01b41f48210d032d1b6a4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Mountain",
+      "release_date": "2026-02-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1RvJmGd47lKS4XMXs9j8hD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "href": "https://api.spotify.com/v1/albums/1aoWxOWHJNG1VPpJZwpYl2",
+      "id": "1aoWxOWHJNG1VPpJZwpYl2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273caf9f51f2ab95779ebb1b7f1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02caf9f51f2ab95779ebb1b7f1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851caf9f51f2ab95779ebb1b7f1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Cracker Island (Deluxe)",
+      "release_date": "2023-02-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1aoWxOWHJNG1VPpJZwpYl2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "href": "https://api.spotify.com/v1/albums/4wtZQMNTC1O79kDxMBsEan",
+      "id": "4wtZQMNTC1O79kDxMBsEan",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485119707804f73dc50f7a29cd86",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Cracker Island",
+      "release_date": "2023-02-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4wtZQMNTC1O79kDxMBsEan",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "href": "https://api.spotify.com/v1/albums/5I9K0u8r52jp4Y2bF8mOaz",
+      "id": "5I9K0u8r52jp4Y2bF8mOaz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27326229a2e7eba1f3a2aad9e40",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0226229a2e7eba1f3a2aad9e40",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485126229a2e7eba1f3a2aad9e40",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+      "release_date": "2020-10-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5I9K0u8r52jp4Y2bF8mOaz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "href": "https://api.spotify.com/v1/albums/1amYhlukNF8WdaQC3gKkgL",
+      "id": "1amYhlukNF8WdaQC3gKkgL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734d9f7b88e82db31d13ac6668",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024d9f7b88e82db31d13ac6668",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514d9f7b88e82db31d13ac6668",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Now Now",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1amYhlukNF8WdaQC3gKkgL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0NvirtaDCaZU5PAW1O5FDE",
+      "id": "0NvirtaDCaZU5PAW1O5FDE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5952c0e2e649f588603b743",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5952c0e2e649f588603b743",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a5952c0e2e649f588603b743",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Humanz (Deluxe)",
+      "release_date": "2017-04-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0NvirtaDCaZU5PAW1O5FDE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "href": "https://api.spotify.com/v1/albums/2dIGnmEIy1WZIcZCFSj6i8",
+      "id": "2dIGnmEIy1WZIcZCFSj6i8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851661d019f34569f79eae9e985",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Plastic Beach",
+      "release_date": "2010-03-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2dIGnmEIy1WZIcZCFSj6i8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4T95uimM0PQNgAkcyLTym0"
+      },
+      "href": "https://api.spotify.com/v1/albums/4T95uimM0PQNgAkcyLTym0",
+      "id": "4T95uimM0PQNgAkcyLTym0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734960e8b13691e5570337d4d8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024960e8b13691e5570337d4d8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514960e8b13691e5570337d4d8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Plastic Beach (Deluxe)",
+      "release_date": "2010-03-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4T95uimM0PQNgAkcyLTym0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah"
+      },
+      "href": "https://api.spotify.com/v1/albums/5jJGGsAztgUEXUHHZ2zrah",
+      "id": "5jJGGsAztgUEXUHHZ2zrah",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bfcb1c9ce002a2c2cd5e9f34",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bfcb1c9ce002a2c2cd5e9f34",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bfcb1c9ce002a2c2cd5e9f34",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Fall",
+      "release_date": "2010",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:5jJGGsAztgUEXUHHZ2zrah",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pdYY0CHFRVFLBZEPEKTMZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pdYY0CHFRVFLBZEPEKTMZ",
+      "id": "0pdYY0CHFRVFLBZEPEKTMZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273efb135bbd7001e8ad73c7f72",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02efb135bbd7001e8ad73c7f72",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851efb135bbd7001e8ad73c7f72",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "D-Sides",
+      "release_date": "2007-11-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0pdYY0CHFRVFLBZEPEKTMZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2w4tLG1JH25BysuILfkI0x"
+      },
+      "href": "https://api.spotify.com/v1/albums/2w4tLG1JH25BysuILfkI0x",
+      "id": "2w4tLG1JH25BysuILfkI0x",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd7e9fc9e467e3da86540571",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd7e9fc9e467e3da86540571",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fd7e9fc9e467e3da86540571",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "D-Sides [Special Edition]",
+      "release_date": "2007-11-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2w4tLG1JH25BysuILfkI0x",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "href": "https://api.spotify.com/v1/albums/0bUTHlWbkSQysoM3VsWldT",
+      "id": "0bUTHlWbkSQysoM3VsWldT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Demon Days",
+      "release_date": "2005-05-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0bUTHlWbkSQysoM3VsWldT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0yPLNfI8WPJWFoJugr0KAv"
+      },
+      "href": "https://api.spotify.com/v1/albums/0yPLNfI8WPJWFoJugr0KAv",
+      "id": "0yPLNfI8WPJWFoJugr0KAv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c278e01ece5ea49bf8aba7b7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c278e01ece5ea49bf8aba7b7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c278e01ece5ea49bf8aba7b7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Laika Come Home",
+      "release_date": "2002-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0yPLNfI8WPJWFoJugr0KAv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N3tIOGCkXiF8cSbPcavZ3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N3tIOGCkXiF8cSbPcavZ3",
+          "id": "3N3tIOGCkXiF8cSbPcavZ3",
+          "name": "Space Monkeyz",
+          "type": "artist",
+          "uri": "spotify:artist:3N3tIOGCkXiF8cSbPcavZ3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "href": "https://api.spotify.com/v1/albums/4tUxQkrduOE8sfgwJ5BI2F",
+      "id": "4tUxQkrduOE8sfgwJ5BI2F",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6c46838e4425ea96e2562fe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f6c46838e4425ea96e2562fe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gorillaz",
+      "release_date": "2001-03-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4tUxQkrduOE8sfgwJ5BI2F",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ]
+    }
+  ]
+}

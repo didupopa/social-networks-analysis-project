@@ -1,0 +1,973 @@
+{
+  "album_id": "2pFX16u42q0e5F5vRmmzYT",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249534,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4yewXMTD4pRVrIevRfVdqp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4yewXMTD4pRVrIevRfVdqp",
+      "id": "4yewXMTD4pRVrIevRfVdqp",
+      "name": "Ten Thousand Hours",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4yewXMTD4pRVrIevRfVdqp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          },
+          "href": "https://api.spotify.com/v1/artists/4e0nWw2r4BoQSKPQ2zpU13",
+          "id": "4e0nWw2r4BoQSKPQ2zpU13",
+          "name": "Ray Dalton",
+          "type": "artist",
+          "uri": "spotify:artist:4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258431,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ydmhnyDOWr5y0s7Vvdw5i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ydmhnyDOWr5y0s7Vvdw5i",
+      "id": "1ydmhnyDOWr5y0s7Vvdw5i",
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1ydmhnyDOWr5y0s7Vvdw5i",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA"
+          },
+          "href": "https://api.spotify.com/v1/artists/56xTxG4nQMAs1GW9kvn0uA",
+          "id": "56xTxG4nQMAs1GW9kvn0uA",
+          "name": "Wanz",
+          "type": "artist",
+          "uri": "spotify:artist:56xTxG4nQMAs1GW9kvn0uA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7bYZBVrnRfqeaPbhRyEvK3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7bYZBVrnRfqeaPbhRyEvK3",
+      "id": "7bYZBVrnRfqeaPbhRyEvK3",
+      "name": "Thrift Shop (feat. Wanz)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7bYZBVrnRfqeaPbhRyEvK3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77d8Yuuv6nGCJSnZHcOpVe"
+          },
+          "href": "https://api.spotify.com/v1/artists/77d8Yuuv6nGCJSnZHcOpVe",
+          "id": "77d8Yuuv6nGCJSnZHcOpVe",
+          "name": "Buffalo Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:77d8Yuuv6nGCJSnZHcOpVe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256178,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LixkVp4DBRWCbBycM6OhN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LixkVp4DBRWCbBycM6OhN",
+      "id": "5LixkVp4DBRWCbBycM6OhN",
+      "name": "Thin Line (feat. Buffalo Madonna)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5LixkVp4DBRWCbBycM6OhN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 320034,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Ln2Xz1YeO34uWhsjdY7bk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Ln2Xz1YeO34uWhsjdY7bk",
+      "id": "5Ln2Xz1YeO34uWhsjdY7bk",
+      "name": "Same Love (feat. Mary Lambert)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5Ln2Xz1YeO34uWhsjdY7bk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224834,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2nE5ZxJ7UkTDAwNcZj70vE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2nE5ZxJ7UkTDAwNcZj70vE",
+      "id": "2nE5ZxJ7UkTDAwNcZj70vE",
+      "name": "Make The Money",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2nE5ZxJ7UkTDAwNcZj70vE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/536osqBGKzeozje8BfcGsa",
+          "id": "536osqBGKzeozje8BfcGsa",
+          "name": "Allen Stone",
+          "type": "artist",
+          "uri": "spotify:artist:536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274285,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HmAXnHBZYGjwXmsDNzcGt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HmAXnHBZYGjwXmsDNzcGt",
+      "id": "6HmAXnHBZYGjwXmsDNzcGt",
+      "name": "Neon Cathedral (feat. Allen Stone)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6HmAXnHBZYGjwXmsDNzcGt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7u0hj7d0myg3ZAKgevXalz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7u0hj7d0myg3ZAKgevXalz",
+          "id": "7u0hj7d0myg3ZAKgevXalz",
+          "name": "The Teaching",
+          "type": "artist",
+          "uri": "spotify:artist:7u0hj7d0myg3ZAKgevXalz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295679,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2r7JnMf6lNNcjKyCv1r6ot"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2r7JnMf6lNNcjKyCv1r6ot",
+      "id": "2r7JnMf6lNNcjKyCv1r6ot",
+      "name": "BomBom (feat. The Teaching)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2r7JnMf6lNNcjKyCv1r6ot",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL"
+          },
+          "href": "https://api.spotify.com/v1/artists/28KOnhhvUnyvgRNXEQ41WL",
+          "id": "28KOnhhvUnyvgRNXEQ41WL",
+          "name": "Hollis",
+          "type": "artist",
+          "uri": "spotify:artist:28KOnhhvUnyvgRNXEQ41WL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IcR3N7QB1j6KBL8eImZ8m",
+          "id": "5IcR3N7QB1j6KBL8eImZ8m",
+          "name": "ScHoolboy Q",
+          "type": "artist",
+          "uri": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220319,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1MFD6gdVDjFFMM8ItH9ZhI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1MFD6gdVDjFFMM8ItH9ZhI",
+      "id": "1MFD6gdVDjFFMM8ItH9ZhI",
+      "name": "White Walls (feat. ScHoolboy Q & Hollis)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1MFD6gdVDjFFMM8ItH9ZhI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+          },
+          "href": "https://api.spotify.com/v1/artists/0g9vAlRPK9Gt3FKCekk4TW",
+          "id": "0g9vAlRPK9Gt3FKCekk4TW",
+          "name": "Ab-Soul",
+          "type": "artist",
+          "uri": "spotify:artist:0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233195,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4WKPbHYts7sPQCaCQNIvjN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4WKPbHYts7sPQCaCQNIvjN",
+      "id": "4WKPbHYts7sPQCaCQNIvjN",
+      "name": "Jimmy Iovine (feat. Ab-Soul)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4WKPbHYts7sPQCaCQNIvjN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 299599,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2mtB7ekPzvNoieI62jYeJD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2mtB7ekPzvNoieI62jYeJD",
+      "id": "2mtB7ekPzvNoieI62jYeJD",
+      "name": "Wing$",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2mtB7ekPzvNoieI62jYeJD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QKJnzrlF5qGwmMJdXtOm2"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QKJnzrlF5qGwmMJdXtOm2",
+          "id": "1QKJnzrlF5qGwmMJdXtOm2",
+          "name": "Evan Roman",
+          "type": "artist",
+          "uri": "spotify:artist:1QKJnzrlF5qGwmMJdXtOm2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226049,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3kuvg9Yt4jo2I74tpCk4zM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3kuvg9Yt4jo2I74tpCk4zM",
+      "id": "3kuvg9Yt4jo2I74tpCk4zM",
+      "name": "A Wake (feat. Evan Roman)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3kuvg9Yt4jo2I74tpCk4zM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sqgE7XhJ2Cvu3Z4AvFj0j"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sqgE7XhJ2Cvu3Z4AvFj0j",
+          "id": "4sqgE7XhJ2Cvu3Z4AvFj0j",
+          "name": "Eighty4 Fly",
+          "type": "artist",
+          "uri": "spotify:artist:4sqgE7XhJ2Cvu3Z4AvFj0j"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251509,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0tgT7O2iXdeXfySmwQNAbY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0tgT7O2iXdeXfySmwQNAbY",
+      "id": "0tgT7O2iXdeXfySmwQNAbY",
+      "name": "Gold (feat. Eighty4 Fly)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0tgT7O2iXdeXfySmwQNAbY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Vfn70eqp3AgtiZZtQcv4W",
+          "id": "6Vfn70eqp3AgtiZZtQcv4W",
+          "name": "Ben Bridwell",
+          "type": "artist",
+          "uri": "spotify:artist:6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251196,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0thBwDC25dvoAsHA9QmP7Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0thBwDC25dvoAsHA9QmP7Q",
+      "id": "0thBwDC25dvoAsHA9QmP7Q",
+      "name": "Starting Over (feat. Ben Bridwell)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0thBwDC25dvoAsHA9QmP7Q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257855,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39E6zjJEZCkcxiZ0hoPt3s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39E6zjJEZCkcxiZ0hoPt3s",
+      "id": "39E6zjJEZCkcxiZ0hoPt3s",
+      "name": "Cowboy Boots",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:39E6zjJEZCkcxiZ0hoPt3s",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257961,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Zr7Kzw91ragcuFOn7JECm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Zr7Kzw91ragcuFOn7JECm",
+      "id": "5Zr7Kzw91ragcuFOn7JECm",
+      "name": "Castle",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5Zr7Kzw91ragcuFOn7JECm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Pi7FM06HeixUs0TChN1yh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Pi7FM06HeixUs0TChN1yh",
+      "id": "6Pi7FM06HeixUs0TChN1yh",
+      "name": "My Oh My",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6Pi7FM06HeixUs0TChN1yh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213717,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4KMj9aLrNc45H9ETYz7IcE",
+      "id": "4KMj9aLrNc45H9ETYz7IcE",
+      "name": "Victory Lap",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4KMj9aLrNc45H9ETYz7IcE",
+      "is_local": false
+    }
+  ]
+}
