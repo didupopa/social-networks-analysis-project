@@ -1,0 +1,701 @@
+{
+  "album_id": "16iIPsnAjGZea8TeOCzeN8",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7uQUHweVblbwtkHFvSVZR0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7uQUHweVblbwtkHFvSVZR0",
+          "id": "7uQUHweVblbwtkHFvSVZR0",
+          "name": "Sebastian Rich",
+          "type": "artist",
+          "uri": "spotify:artist:7uQUHweVblbwtkHFvSVZR0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 112480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/56GHF0TDQWvhdRKs0cRwhX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/56GHF0TDQWvhdRKs0cRwhX",
+      "id": "56GHF0TDQWvhdRKs0cRwhX",
+      "name": "The Bitch Is Back - Introduction",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:56GHF0TDQWvhdRKs0cRwhX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3bu7Ens6NHwiiAhAojqMKo"
+          },
+          "href": "https://api.spotify.com/v1/artists/3bu7Ens6NHwiiAhAojqMKo",
+          "id": "3bu7Ens6NHwiiAhAojqMKo",
+          "name": "Kit Connor",
+          "type": "artist",
+          "uri": "spotify:artist:3bu7Ens6NHwiiAhAojqMKo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64Z2GpiF3hPBPxRfyza8Ml"
+          },
+          "href": "https://api.spotify.com/v1/artists/64Z2GpiF3hPBPxRfyza8Ml",
+          "id": "64Z2GpiF3hPBPxRfyza8Ml",
+          "name": "Gemma Jones",
+          "type": "artist",
+          "uri": "spotify:artist:64Z2GpiF3hPBPxRfyza8Ml"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ykR6VtYGzxS6djazEGyky"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ykR6VtYGzxS6djazEGyky",
+          "id": "5ykR6VtYGzxS6djazEGyky",
+          "name": "Bryce Dallas Howard",
+          "type": "artist",
+          "uri": "spotify:artist:5ykR6VtYGzxS6djazEGyky"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1azzLGS1K1SMJas76Ro9CN"
+          },
+          "href": "https://api.spotify.com/v1/artists/1azzLGS1K1SMJas76Ro9CN",
+          "id": "1azzLGS1K1SMJas76Ro9CN",
+          "name": "Steven Mackintosh",
+          "type": "artist",
+          "uri": "spotify:artist:1azzLGS1K1SMJas76Ro9CN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 132986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3LSUO40E4M55RzTIL6r3Cm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3LSUO40E4M55RzTIL6r3Cm",
+      "id": "3LSUO40E4M55RzTIL6r3Cm",
+      "name": "I Want Love",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3LSUO40E4M55RzTIL6r3Cm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3bu7Ens6NHwiiAhAojqMKo"
+          },
+          "href": "https://api.spotify.com/v1/artists/3bu7Ens6NHwiiAhAojqMKo",
+          "id": "3bu7Ens6NHwiiAhAojqMKo",
+          "name": "Kit Connor",
+          "type": "artist",
+          "uri": "spotify:artist:3bu7Ens6NHwiiAhAojqMKo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5FUs5X7JYgtABl3lbB9HaL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5FUs5X7JYgtABl3lbB9HaL",
+      "id": "5FUs5X7JYgtABl3lbB9HaL",
+      "name": "Saturday Night's Alright (For Fighting)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5FUs5X7JYgtABl3lbB9HaL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/23pK623Ch7PJcagsNvSElq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/23pK623Ch7PJcagsNvSElq",
+      "id": "23pK623Ch7PJcagsNvSElq",
+      "name": "Thank You For All Your Loving",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:23pK623Ch7PJcagsNvSElq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4d5K3bQpfBAzz5GcQkY4gw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4d5K3bQpfBAzz5GcQkY4gw",
+      "id": "4d5K3bQpfBAzz5GcQkY4gw",
+      "name": "Border Song",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4d5K3bQpfBAzz5GcQkY4gw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2kRnjApYA8HRvc3L7VXdPe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2kRnjApYA8HRvc3L7VXdPe",
+      "id": "2kRnjApYA8HRvc3L7VXdPe",
+      "name": "Rock And Roll Madonna - Interlude",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2kRnjApYA8HRvc3L7VXdPe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25g4eKr6Xy8tXmf66pqLgs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25g4eKr6Xy8tXmf66pqLgs",
+      "id": "25g4eKr6Xy8tXmf66pqLgs",
+      "name": "Your Song",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:25g4eKr6Xy8tXmf66pqLgs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18bvTEq1oRF0rH5JTzqjQa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18bvTEq1oRF0rH5JTzqjQa",
+      "id": "18bvTEq1oRF0rH5JTzqjQa",
+      "name": "Amoreena",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:18bvTEq1oRF0rH5JTzqjQa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172853,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1r7XEmPjHDk5WNsurFTYbU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1r7XEmPjHDk5WNsurFTYbU",
+      "id": "1r7XEmPjHDk5WNsurFTYbU",
+      "name": "Crocodile Rock",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1r7XEmPjHDk5WNsurFTYbU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 324706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qaPwYZAJgvyf6l7f7rfUo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qaPwYZAJgvyf6l7f7rfUo",
+      "id": "6qaPwYZAJgvyf6l7f7rfUo",
+      "name": "Tiny Dancer",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6qaPwYZAJgvyf6l7f7rfUo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WlCngA1M4kRpV6tza6D3X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5WlCngA1M4kRpV6tza6D3X",
+      "id": "5WlCngA1M4kRpV6tza6D3X",
+      "name": "Take Me To The Pilot",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5WlCngA1M4kRpV6tza6D3X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 326360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Rm4qrfr9t21HxwaFn0aJ3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Rm4qrfr9t21HxwaFn0aJ3",
+      "id": "2Rm4qrfr9t21HxwaFn0aJ3",
+      "name": "Hercules",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2Rm4qrfr9t21HxwaFn0aJ3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXe9u1GLEhfmjmyqu5bsU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXe9u1GLEhfmjmyqu5bsU",
+          "id": "1KXe9u1GLEhfmjmyqu5bsU",
+          "name": "Rachel Muldoon",
+          "type": "artist",
+          "uri": "spotify:artist:1KXe9u1GLEhfmjmyqu5bsU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 93560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2I5ZZppwB1lXuZadsLsPdW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2I5ZZppwB1lXuZadsLsPdW",
+      "id": "2I5ZZppwB1lXuZadsLsPdW",
+      "name": "Don't Go Breaking My Heart - Interlude",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2I5ZZppwB1lXuZadsLsPdW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XU1hawJVL0QQsQ6yBIjg7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XU1hawJVL0QQsQ6yBIjg7",
+          "id": "6XU1hawJVL0QQsQ6yBIjg7",
+          "name": "Richard Madden",
+          "type": "artist",
+          "uri": "spotify:artist:6XU1hawJVL0QQsQ6yBIjg7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153786,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/27SSxxS7G4ZLtfp4itLeW9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/27SSxxS7G4ZLtfp4itLeW9",
+      "id": "27SSxxS7G4ZLtfp4itLeW9",
+      "name": "Honky Cat",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:27SSxxS7G4ZLtfp4itLeW9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 122173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7uTE6kmTDQK1atuA3Konl5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7uTE6kmTDQK1atuA3Konl5",
+      "id": "7uTE6kmTDQK1atuA3Konl5",
+      "name": "Pinball Wizard - Interlude",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7uTE6kmTDQK1atuA3Konl5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GFhaSp0LQHDu1IUX5tM9s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GFhaSp0LQHDu1IUX5tM9s",
+      "id": "1GFhaSp0LQHDu1IUX5tM9s",
+      "name": "Rocket Man",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1GFhaSp0LQHDu1IUX5tM9s",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 148000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6euc7VcAChnGIGfSFulziJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6euc7VcAChnGIGfSFulziJ",
+      "id": "6euc7VcAChnGIGfSFulziJ",
+      "name": "Bennie And The Jets - Interlude",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6euc7VcAChnGIGfSFulziJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Zsp7Ar00HUNBijmgtdPMc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Zsp7Ar00HUNBijmgtdPMc",
+          "id": "0Zsp7Ar00HUNBijmgtdPMc",
+          "name": "Celinde Schoenmaker",
+          "type": "artist",
+          "uri": "spotify:artist:0Zsp7Ar00HUNBijmgtdPMc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1o0ihabnEn4jVkHaWpQ4dA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1o0ihabnEn4jVkHaWpQ4dA",
+      "id": "1o0ihabnEn4jVkHaWpQ4dA",
+      "name": "Don't Let The Sun Go Down On Me",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:1o0ihabnEn4jVkHaWpQ4dA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 135200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aLVo0SKLZsviy4n0RNHBl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aLVo0SKLZsviy4n0RNHBl",
+      "id": "0aLVo0SKLZsviy4n0RNHBl",
+      "name": "Sorry Seems To Be The Hardest Word",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:0aLVo0SKLZsviy4n0RNHBl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7apjAUpX6umI6WrRODvrpJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7apjAUpX6umI6WrRODvrpJ",
+          "id": "7apjAUpX6umI6WrRODvrpJ",
+          "name": "Jamie Bell",
+          "type": "artist",
+          "uri": "spotify:artist:7apjAUpX6umI6WrRODvrpJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5z8IJ0sEu2kBjAcF0QQDqh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5z8IJ0sEu2kBjAcF0QQDqh",
+      "id": "5z8IJ0sEu2kBjAcF0QQDqh",
+      "name": "Goodbye Yellow Brick Road",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:5z8IJ0sEu2kBjAcF0QQDqh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238440,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1lLa9hW0l2pjTzwmhtRCI8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1lLa9hW0l2pjTzwmhtRCI8",
+      "id": "1lLa9hW0l2pjTzwmhtRCI8",
+      "name": "I'm Still Standing",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:1lLa9hW0l2pjTzwmhtRCI8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "type": "artist",
+          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1q8lLOgfciaGLwXCvOpH6w",
+      "id": "1q8lLOgfciaGLwXCvOpH6w",
+      "name": "(I'm Gonna) Love Me Again",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:1q8lLOgfciaGLwXCvOpH6w",
+      "is_local": false
+    }
+  ]
+}

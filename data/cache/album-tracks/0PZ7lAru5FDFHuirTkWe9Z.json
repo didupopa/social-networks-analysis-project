@@ -1,0 +1,945 @@
+{
+  "album_id": "0PZ7lAru5FDFHuirTkWe9Z",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0P9wLFurlgumLXuqFEpw52"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0P9wLFurlgumLXuqFEpw52",
+      "id": "0P9wLFurlgumLXuqFEpw52",
+      "name": "the 1",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0P9wLFurlgumLXuqFEpw52",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zcnlq38eqNWyUF6eNaB5Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7zcnlq38eqNWyUF6eNaB5Z",
+      "id": "7zcnlq38eqNWyUF6eNaB5Z",
+      "name": "cardigan",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7zcnlq38eqNWyUF6eNaB5Z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ojxSyrEraN7d46BMBPThZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ojxSyrEraN7d46BMBPThZ",
+      "id": "4ojxSyrEraN7d46BMBPThZ",
+      "name": "the last great american dynasty",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4ojxSyrEraN7d46BMBPThZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "type": "artist",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kz2hkq1xQvDqPcUyBkw8f"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kz2hkq1xQvDqPcUyBkw8f",
+      "id": "6kz2hkq1xQvDqPcUyBkw8f",
+      "name": "exile (feat. Bon Iver)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6kz2hkq1xQvDqPcUyBkw8f",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Oju1YcbPCJuUQQWoZNdJK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Oju1YcbPCJuUQQWoZNdJK",
+      "id": "0Oju1YcbPCJuUQQWoZNdJK",
+      "name": "my tears ricochet",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0Oju1YcbPCJuUQQWoZNdJK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5jQyGzcwqAxwT5QUIMivoX",
+      "id": "5jQyGzcwqAxwT5QUIMivoX",
+      "name": "mirrorball",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5jQyGzcwqAxwT5QUIMivoX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vJ7QvyCiR4DaHxwO58izA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vJ7QvyCiR4DaHxwO58izA",
+      "id": "2vJ7QvyCiR4DaHxwO58izA",
+      "name": "seven",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2vJ7QvyCiR4DaHxwO58izA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261920,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UHoF9p75IVsvUt6WdTYhn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UHoF9p75IVsvUt6WdTYhn",
+      "id": "1UHoF9p75IVsvUt6WdTYhn",
+      "name": "august",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1UHoF9p75IVsvUt6WdTYhn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DnDBYrfGoxdnomqEAkFIv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DnDBYrfGoxdnomqEAkFIv",
+      "id": "5DnDBYrfGoxdnomqEAkFIv",
+      "name": "this is me trying",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5DnDBYrfGoxdnomqEAkFIv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7CVTowKpGPA2MsIbkTl2oc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7CVTowKpGPA2MsIbkTl2oc",
+      "id": "7CVTowKpGPA2MsIbkTl2oc",
+      "name": "illicit affairs",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7CVTowKpGPA2MsIbkTl2oc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4WHIqhrbdva5vQSrCuet3l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4WHIqhrbdva5vQSrCuet3l",
+      "id": "4WHIqhrbdva5vQSrCuet3l",
+      "name": "invisible string",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4WHIqhrbdva5vQSrCuet3l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7klXN6RCN5Rj0VeYO5gBzU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7klXN6RCN5Rj0VeYO5gBzU",
+      "id": "7klXN6RCN5Rj0VeYO5gBzU",
+      "name": "mad woman",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7klXN6RCN5Rj0VeYO5gBzU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 289746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5MFjHn1qfR9AsWuyzJLk1z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5MFjHn1qfR9AsWuyzJLk1z",
+      "id": "5MFjHn1qfR9AsWuyzJLk1z",
+      "name": "epiphany",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5MFjHn1qfR9AsWuyzJLk1z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 294520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jhfs6moEAK13eLM6xim4l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jhfs6moEAK13eLM6xim4l",
+      "id": "2jhfs6moEAK13eLM6xim4l",
+      "name": "betty",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2jhfs6moEAK13eLM6xim4l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0O9i6jhscByEJs1ipy5hu4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0O9i6jhscByEJs1ipy5hu4",
+      "id": "0O9i6jhscByEJs1ipy5hu4",
+      "name": "peace",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0O9i6jhscByEJs1ipy5hu4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4XCYmu7QLySdIahgBALKJK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4XCYmu7QLySdIahgBALKJK",
+      "id": "4XCYmu7QLySdIahgBALKJK",
+      "name": "hoax",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:4XCYmu7QLySdIahgBALKJK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0zEprKYeuGOIZoHyu6O1E2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0zEprKYeuGOIZoHyu6O1E2",
+      "id": "0zEprKYeuGOIZoHyu6O1E2",
+      "name": "the lakes - bonus track",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0zEprKYeuGOIZoHyu6O1E2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 219893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/08J4bMHbILkwSIhbtrcvjN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/08J4bMHbILkwSIhbtrcvjN",
+      "id": "08J4bMHbILkwSIhbtrcvjN",
+      "name": "the 1 - the long pond studio sessions",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:08J4bMHbILkwSIhbtrcvjN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 230680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3EPgWM1zfTSzEc0z4AwWTM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3EPgWM1zfTSzEc0z4AwWTM",
+      "id": "3EPgWM1zfTSzEc0z4AwWTM",
+      "name": "cardigan - the long pond studio sessions",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3EPgWM1zfTSzEc0z4AwWTM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 232346,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28tIMaewZuGR8urkvFhQyA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/28tIMaewZuGR8urkvFhQyA",
+      "id": "28tIMaewZuGR8urkvFhQyA",
+      "name": "the last great american dynasty - the long pond studio sessions",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:28tIMaewZuGR8urkvFhQyA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "type": "artist",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 279893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7N015NTIWGjQDddHUdHPoO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7N015NTIWGjQDddHUdHPoO",
+      "id": "7N015NTIWGjQDddHUdHPoO",
+      "name": "exile (feat. Bon Iver) - the long pond studio sessions",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7N015NTIWGjQDddHUdHPoO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 295173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mdNyCS7ttVcAyVYOIFEjs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mdNyCS7ttVcAyVYOIFEjs",
+      "id": "5mdNyCS7ttVcAyVYOIFEjs",
+      "name": "my tears ricochet - the long pond studio sessions",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5mdNyCS7ttVcAyVYOIFEjs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 237373,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2yceD2hx5HhOLgkm1CITCi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2yceD2hx5HhOLgkm1CITCi",
+      "id": "2yceD2hx5HhOLgkm1CITCi",
+      "name": "mirrorball - the long pond studio sessions",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2yceD2hx5HhOLgkm1CITCi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 208986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4cOWq0cVsKjxaQpRMbDoH1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4cOWq0cVsKjxaQpRMbDoH1",
+      "id": "4cOWq0cVsKjxaQpRMbDoH1",
+      "name": "seven - the long pond studio sessions",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4cOWq0cVsKjxaQpRMbDoH1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 260000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4MGexoZc12lqE0hYkq9YYx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4MGexoZc12lqE0hYkq9YYx",
+      "id": "4MGexoZc12lqE0hYkq9YYx",
+      "name": "august - the long pond studio sessions",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4MGexoZc12lqE0hYkq9YYx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 209293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1gaLZjPrDnHQWJds2Jg4KT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1gaLZjPrDnHQWJds2Jg4KT",
+      "id": "1gaLZjPrDnHQWJds2Jg4KT",
+      "name": "this is me trying - the long pond studio sessions",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1gaLZjPrDnHQWJds2Jg4KT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 183720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/560uQyz3p5G9WdnMX39xc6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/560uQyz3p5G9WdnMX39xc6",
+      "id": "560uQyz3p5G9WdnMX39xc6",
+      "name": "illicit affairs - the long pond studio sessions",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:560uQyz3p5G9WdnMX39xc6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 257359,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5KByGq0JijSSDcy0qzuINs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5KByGq0JijSSDcy0qzuINs",
+      "id": "5KByGq0JijSSDcy0qzuINs",
+      "name": "invisible string - the long pond studio sessions",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5KByGq0JijSSDcy0qzuINs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 238333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/04xrhDrQ2WOW8GLwu7kbc0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/04xrhDrQ2WOW8GLwu7kbc0",
+      "id": "04xrhDrQ2WOW8GLwu7kbc0",
+      "name": "mad woman - the long pond studio sessions",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:04xrhDrQ2WOW8GLwu7kbc0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 274880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4yyKppX85ZkmlGOC2toBZA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4yyKppX85ZkmlGOC2toBZA",
+      "id": "4yyKppX85ZkmlGOC2toBZA",
+      "name": "epiphany - the long pond studio sessions",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4yyKppX85ZkmlGOC2toBZA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 290040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mh5dObNoOvCfHmXnhvDEK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1mh5dObNoOvCfHmXnhvDEK",
+      "id": "1mh5dObNoOvCfHmXnhvDEK",
+      "name": "betty - the long pond studio sessions",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1mh5dObNoOvCfHmXnhvDEK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 214373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4YHHz3VIXgNDGdoL9xC1tx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4YHHz3VIXgNDGdoL9xC1tx",
+      "id": "4YHHz3VIXgNDGdoL9xC1tx",
+      "name": "peace - the long pond studio sessions",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4YHHz3VIXgNDGdoL9xC1tx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 221800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QTBsdoJhamY3Aid3fOsOd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0QTBsdoJhamY3Aid3fOsOd",
+      "id": "0QTBsdoJhamY3Aid3fOsOd",
+      "name": "hoax - the long pond studio sessions",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0QTBsdoJhamY3Aid3fOsOd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "type": "artist",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 199733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6mqyTq948oap5AkyTsd6XF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6mqyTq948oap5AkyTsd6XF",
+      "id": "6mqyTq948oap5AkyTsd6XF",
+      "name": "the lakes - the long pond studio sessions",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6mqyTq948oap5AkyTsd6XF",
+      "is_local": false
+    }
+  ]
+}
