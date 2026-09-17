@@ -1,0 +1,139 @@
+{
+  "artist_id": "5CCwRZC6euC8Odo6y9X8jr",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+      },
+      "href": "https://api.spotify.com/v1/albums/0lY3tmonYCBxbviBSKczIX",
+      "id": "0lY3tmonYCBxbviBSKczIX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023a929daf339e9f58a2d3b75a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513a929daf339e9f58a2d3b75a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "You & I",
+      "release_date": "2023-07-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0lY3tmonYCBxbviBSKczIX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          },
+          "href": "https://api.spotify.com/v1/artists/5CCwRZC6euC8Odo6y9X8jr",
+          "id": "5CCwRZC6euC8Odo6y9X8jr",
+          "name": "Rita Ora",
+          "type": "artist",
+          "uri": "spotify:artist:5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Vn8F3hERVHYYz5RfKmsAN",
+      "id": "6Vn8F3hERVHYYz5RfKmsAN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1b136eb0388414a8225a348",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1b136eb0388414a8225a348",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f1b136eb0388414a8225a348",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Phoenix (Deluxe Edition)",
+      "release_date": "2018-11-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Vn8F3hERVHYYz5RfKmsAN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          },
+          "href": "https://api.spotify.com/v1/artists/5CCwRZC6euC8Odo6y9X8jr",
+          "id": "5CCwRZC6euC8Odo6y9X8jr",
+          "name": "Rita Ora",
+          "type": "artist",
+          "uri": "spotify:artist:5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA"
+      },
+      "href": "https://api.spotify.com/v1/albums/3wVudWLcF1D7jK5kTj6hlA",
+      "id": "3wVudWLcF1D7jK5kTj6hlA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ec991cadbf0ee8a382a8b81",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027ec991cadbf0ee8a382a8b81",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517ec991cadbf0ee8a382a8b81",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ORA",
+      "release_date": "2012",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:3wVudWLcF1D7jK5kTj6hlA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          },
+          "href": "https://api.spotify.com/v1/artists/5CCwRZC6euC8Odo6y9X8jr",
+          "id": "5CCwRZC6euC8Odo6y9X8jr",
+          "name": "Rita Ora",
+          "type": "artist",
+          "uri": "spotify:artist:5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ]
+    }
+  ]
+}

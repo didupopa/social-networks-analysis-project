@@ -1,0 +1,867 @@
+{
+  "artist_id": "5y2Xq6xcjJb2jVM54GHK3t",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WNB3u6DDUlugkKqKWAmqo"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WNB3u6DDUlugkKqKWAmqo",
+      "id": "5WNB3u6DDUlugkKqKWAmqo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273461cec01909ba3a77745fe0c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02461cec01909ba3a77745fe0c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851461cec01909ba3a77745fe0c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "歌手2026 第6期 (Live)",
+      "release_date": "2026-06-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WNB3u6DDUlugkKqKWAmqo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40e9OFBP4xVmpLccI1FYiI"
+          },
+          "href": "https://api.spotify.com/v1/artists/40e9OFBP4xVmpLccI1FYiI",
+          "id": "40e9OFBP4xVmpLccI1FYiI",
+          "name": "Azora Chin",
+          "type": "artist",
+          "uri": "spotify:artist:40e9OFBP4xVmpLccI1FYiI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PI9HrzzMTN7E5poWl4QX5",
+          "id": "2PI9HrzzMTN7E5poWl4QX5",
+          "name": "Elliot James Reay",
+          "type": "artist",
+          "uri": "spotify:artist:2PI9HrzzMTN7E5poWl4QX5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3e6Bnwbqy3TSD3jYC8di0S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3e6Bnwbqy3TSD3jYC8di0S",
+          "id": "3e6Bnwbqy3TSD3jYC8di0S",
+          "name": "侯明昊",
+          "type": "artist",
+          "uri": "spotify:artist:3e6Bnwbqy3TSD3jYC8di0S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/7evc0CBi3ASwhBxAHBPUaZ",
+      "id": "7evc0CBi3ASwhBxAHBPUaZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27399245edbff807a9b87e2db94",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0299245edbff807a9b87e2db94",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485199245edbff807a9b87e2db94",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Get Lifted (20th Anniversary)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7evc0CBi3ASwhBxAHBPUaZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Na5BI4pks8yFrWNvEK6zW",
+      "id": "2Na5BI4pks8yFrWNvEK6zW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ed34bffca6e8a13e2e529cd9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ed34bffca6e8a13e2e529cd9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ed34bffca6e8a13e2e529cd9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "My Favorite Dream",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Na5BI4pks8yFrWNvEK6zW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WgC0rNbr8aC5vEqL9U8Zo",
+      "id": "5WgC0rNbr8aC5vEqL9U8Zo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c131a219fe04c73f77f8d19",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c131a219fe04c73f77f8d19",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c131a219fe04c73f77f8d19",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LEGEND (Solo Piano Version)",
+      "release_date": "2023-02-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WgC0rNbr8aC5vEqL9U8Zo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "href": "https://api.spotify.com/v1/albums/48XBEHGNh0oVF5foY3ZtvT",
+      "id": "48XBEHGNh0oVF5foY3ZtvT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739d6267cfc9ffbca887abcd03",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029d6267cfc9ffbca887abcd03",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519d6267cfc9ffbca887abcd03",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LEGEND",
+      "release_date": "2022-09-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:48XBEHGNh0oVF5foY3ZtvT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BRuKFs9BFuba9TlMs2ZLd",
+      "id": "7BRuKFs9BFuba9TlMs2ZLd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27325eda91501a5becd6f84646c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0225eda91501a5becd6f84646c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485125eda91501a5becd6f84646c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bigger Love",
+      "release_date": "2020-06-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7BRuKFs9BFuba9TlMs2ZLd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
+      },
+      "href": "https://api.spotify.com/v1/albums/4rvtCloap7CfNl2Ogl8B87",
+      "id": "4rvtCloap7CfNl2Ogl8B87",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f948a5ae6aff8fd9f800d70",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028f948a5ae6aff8fd9f800d70",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518f948a5ae6aff8fd9f800d70",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Legendary Christmas",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4rvtCloap7CfNl2Ogl8B87",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/31M4k7Axai8Hz5LxuG5IGe"
+      },
+      "href": "https://api.spotify.com/v1/albums/31M4k7Axai8Hz5LxuG5IGe",
+      "id": "31M4k7Axai8Hz5LxuG5IGe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b43415b171b9d98f9b39116e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b43415b171b9d98f9b39116e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b43415b171b9d98f9b39116e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Legendary Christmas (Instrumental Versions)",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:31M4k7Axai8Hz5LxuG5IGe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4yvyUKVKrsuaCPOZdq1nN4"
+      },
+      "href": "https://api.spotify.com/v1/albums/4yvyUKVKrsuaCPOZdq1nN4",
+      "id": "4yvyUKVKrsuaCPOZdq1nN4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273521c2bd913d526e0b0ff7d23",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02521c2bd913d526e0b0ff7d23",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851521c2bd913d526e0b0ff7d23",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Legendary Christmas (Karaoke Versions)",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4yvyUKVKrsuaCPOZdq1nN4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7pm8YR7cEh5i0nRoqEutzd"
+      },
+      "href": "https://api.spotify.com/v1/albums/7pm8YR7cEh5i0nRoqEutzd",
+      "id": "7pm8YR7cEh5i0nRoqEutzd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d356cdc82b3b2184a597925",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022d356cdc82b3b2184a597925",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512d356cdc82b3b2184a597925",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Legendary Christmas (Super Deluxe)",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7pm8YR7cEh5i0nRoqEutzd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "href": "https://api.spotify.com/v1/albums/7xMjYDrgPLp1ReFGAOyS1O",
+      "id": "7xMjYDrgPLp1ReFGAOyS1O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273439974178b49b5c57b224411",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02439974178b49b5c57b224411",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851439974178b49b5c57b224411",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DARKNESS AND LIGHT",
+      "release_date": "2016-12-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7xMjYDrgPLp1ReFGAOyS1O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ryfxFVYctq06Btwatl8zE",
+      "id": "0ryfxFVYctq06Btwatl8zE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d56159304b0098aa0873b839",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d56159304b0098aa0873b839",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d56159304b0098aa0873b839",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Spotify Sessions",
+      "release_date": "2013-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ryfxFVYctq06Btwatl8zE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "href": "https://api.spotify.com/v1/albums/4OTAx9un4e6NfoHuVRiOrC",
+      "id": "4OTAx9un4e6NfoHuVRiOrC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bdcc3b587b5249932bc415c2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bdcc3b587b5249932bc415c2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bdcc3b587b5249932bc415c2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love In The Future (Expanded Edition)",
+      "release_date": "2013-08-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4OTAx9un4e6NfoHuVRiOrC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
+      },
+      "href": "https://api.spotify.com/v1/albums/06UOP7uyZN8AIYH6U20VkP",
+      "id": "06UOP7uyZN8AIYH6U20VkP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f9ab6da8bd99dfa6359d036",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028f9ab6da8bd99dfa6359d036",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518f9ab6da8bd99dfa6359d036",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wake Up!",
+      "release_date": "2010-09-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:06UOP7uyZN8AIYH6U20VkP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          },
+          "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+          "id": "78xUyw6FkVZrRAtziFdtdu",
+          "name": "The Roots",
+          "type": "artist",
+          "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A"
+      },
+      "href": "https://api.spotify.com/v1/albums/11sKu4dBGvmEZTuVw9EC9A",
+      "id": "11sKu4dBGvmEZTuVw9EC9A",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d70bbffa859a9f9ca6f10496",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d70bbffa859a9f9ca6f10496",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Evolver",
+      "release_date": "2008-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:11sKu4dBGvmEZTuVw9EC9A",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0JNvZtMyXvJBVr7jBXaouL"
+      },
+      "href": "https://api.spotify.com/v1/albums/0JNvZtMyXvJBVr7jBXaouL",
+      "id": "0JNvZtMyXvJBVr7jBXaouL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27365e7675a23bd670934f3b941",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0265e7675a23bd670934f3b941",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485165e7675a23bd670934f3b941",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Smooth Sax Tribute To John Legend",
+      "release_date": "2006-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0JNvZtMyXvJBVr7jBXaouL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ZWwFwSKaREGLWxpGiPAoF",
+      "id": "1ZWwFwSKaREGLWxpGiPAoF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736fa2f0f3b0981aec51866964",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026fa2f0f3b0981aec51866964",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516fa2f0f3b0981aec51866964",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Once Again",
+      "release_date": "2006-10-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1ZWwFwSKaREGLWxpGiPAoF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "href": "https://api.spotify.com/v1/albums/4W6kVnBPgcW8zDYXbRHh2J",
+      "id": "4W6kVnBPgcW8zDYXbRHh2J",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27330fd5c0c49d9c1913e7eb38b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0230fd5c0c49d9c1913e7eb38b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485130fd5c0c49d9c1913e7eb38b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Get Lifted",
+      "release_date": "2005-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4W6kVnBPgcW8zDYXbRHh2J",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ONUEHJIhIB6D6fYmHvpcC"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ONUEHJIhIB6D6fYmHvpcC",
+      "id": "2ONUEHJIhIB6D6fYmHvpcC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730aebe989c763ab8c08a7df2a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020aebe989c763ab8c08a7df2a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510aebe989c763ab8c08a7df2a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live at SOB's",
+      "release_date": "2003-06-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2ONUEHJIhIB6D6fYmHvpcC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ]
+    }
+  ]
+}
