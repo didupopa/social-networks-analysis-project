@@ -1,0 +1,139 @@
+{
+  "artist_id": "7jVv8c5Fj3E9VhNjxT4snq",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
+      },
+      "href": "https://api.spotify.com/v1/albums/1oqxzh4V3jEnNedwoL408R",
+      "id": "1oqxzh4V3jEnNedwoL408R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27336c8a19e7e9c0c6f040bc1b7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0236c8a19e7e9c0c6f040bc1b7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485136c8a19e7e9c0c6f040bc1b7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Days Before Dreamboy",
+      "release_date": "2025-03-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1oqxzh4V3jEnNedwoL408R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+          "id": "7jVv8c5Fj3E9VhNjxT4snq",
+          "name": "Lil Nas X",
+          "type": "artist",
+          "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "href": "https://api.spotify.com/v1/albums/6pOiDiuDQqrmo5DbG0ZubR",
+      "id": "6pOiDiuDQqrmo5DbG0ZubR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f27e4bdc58ebe249a6b90da0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f27e4bdc58ebe249a6b90da0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f27e4bdc58ebe249a6b90da0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MONTERO",
+      "release_date": "2021-09-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6pOiDiuDQqrmo5DbG0ZubR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+          "id": "7jVv8c5Fj3E9VhNjxT4snq",
+          "name": "Lil Nas X",
+          "type": "artist",
+          "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IRiXE5NROxknUSAUSjMoO",
+      "id": "4IRiXE5NROxknUSAUSjMoO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026239187793c9e492e687db01",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516239187793c9e492e687db01",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "7",
+      "release_date": "2019-06-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4IRiXE5NROxknUSAUSjMoO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+          "id": "7jVv8c5Fj3E9VhNjxT4snq",
+          "name": "Lil Nas X",
+          "type": "artist",
+          "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ]
+    }
+  ]
+}

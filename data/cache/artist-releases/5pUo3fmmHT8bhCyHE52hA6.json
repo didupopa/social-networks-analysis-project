@@ -1,0 +1,53 @@
+{
+  "artist_id": "5pUo3fmmHT8bhCyHE52hA6",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+      },
+      "href": "https://api.spotify.com/v1/albums/5pbvTLpIZB3XWRuUS9ZxHm",
+      "id": "5pbvTLpIZB3XWRuUS9ZxHm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273373a46efca570f83dd78313f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02373a46efca570f83dd78313f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851373a46efca570f83dd78313f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LP1",
+      "release_date": "2019-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5pbvTLpIZB3XWRuUS9ZxHm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pUo3fmmHT8bhCyHE52hA6",
+          "id": "5pUo3fmmHT8bhCyHE52hA6",
+          "name": "Liam Payne",
+          "type": "artist",
+          "uri": "spotify:artist:5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ]
+    }
+  ]
+}

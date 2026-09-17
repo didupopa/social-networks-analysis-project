@@ -1,0 +1,509 @@
+{
+  "album_id": "3gR578qnw47M30LVBTjrlW",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1DJxR9NMQ14fv1WK0pHodt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1DJxR9NMQ14fv1WK0pHodt",
+      "id": "1DJxR9NMQ14fv1WK0pHodt",
+      "name": "Sale el Sol",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1DJxR9NMQ14fv1WK0pHodt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+          },
+          "href": "https://api.spotify.com/v1/artists/52aHqEQZ802daFzuMHfcES",
+          "id": "52aHqEQZ802daFzuMHfcES",
+          "name": "El Cata",
+          "type": "artist",
+          "uri": "spotify:artist:52aHqEQZ802daFzuMHfcES"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183693,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/42k1KeBehAd83lrGt1okiC",
+      "id": "42k1KeBehAd83lrGt1okiC",
+      "name": "Loca (feat. El Cata)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:42k1KeBehAd83lrGt1okiC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 174533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5J5uyhoBZxJwmjy2Zg6DgF",
+      "id": "5J5uyhoBZxJwmjy2Zg6DgF",
+      "name": "Antes de las Seis",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5J5uyhoBZxJwmjy2Zg6DgF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
+          "id": "0yNSzH5nZmHzeE2xn6Xshb",
+          "name": "Calle 13",
+          "type": "artist",
+          "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fufW0yhOYcNHvAaUwgpS1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fufW0yhOYcNHvAaUwgpS1",
+      "id": "6fufW0yhOYcNHvAaUwgpS1",
+      "name": "Gordita (feat. Residente Calle 13)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6fufW0yhOYcNHvAaUwgpS1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zy1s9GnxWsNzZp1688euA",
+      "id": "4zy1s9GnxWsNzZp1688euA",
+      "name": "Addicted to You",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4zy1s9GnxWsNzZp1688euA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6c8ZIkGXlKE5vSzrUbHLDr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6c8ZIkGXlKE5vSzrUbHLDr",
+      "id": "6c8ZIkGXlKE5vSzrUbHLDr",
+      "name": "Lo Que Más",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6c8ZIkGXlKE5vSzrUbHLDr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mqbIuIagl2q2HZqTiLSfS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mqbIuIagl2q2HZqTiLSfS",
+      "id": "5mqbIuIagl2q2HZqTiLSfS",
+      "name": "Mariposas",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5mqbIuIagl2q2HZqTiLSfS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+          },
+          "href": "https://api.spotify.com/v1/artists/52aHqEQZ802daFzuMHfcES",
+          "id": "52aHqEQZ802daFzuMHfcES",
+          "name": "El Cata",
+          "type": "artist",
+          "uri": "spotify:artist:52aHqEQZ802daFzuMHfcES"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/19t0Z7qsoV6A1CGJVYRnjm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/19t0Z7qsoV6A1CGJVYRnjm",
+      "id": "19t0Z7qsoV6A1CGJVYRnjm",
+      "name": "Rabiosa (feat. El Cata)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:19t0Z7qsoV6A1CGJVYRnjm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58haa2vmqz7tCG7FFDrLWZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58haa2vmqz7tCG7FFDrLWZ",
+      "id": "58haa2vmqz7tCG7FFDrLWZ",
+      "name": "Devoción",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:58haa2vmqz7tCG7FFDrLWZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kHU3Re5YQd45PLwGRbGvE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7kHU3Re5YQd45PLwGRbGvE",
+      "id": "7kHU3Re5YQd45PLwGRbGvE",
+      "name": "Islands",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7kHU3Re5YQd45PLwGRbGvE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ja9N12lzBD1TRuQfZb18z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ja9N12lzBD1TRuQfZb18z",
+      "id": "6ja9N12lzBD1TRuQfZb18z",
+      "name": "Tu Boca",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6ja9N12lzBD1TRuQfZb18z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4DRFIoachXrW8YV7Yje0yz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4DRFIoachXrW8YV7Yje0yz",
+      "id": "4DRFIoachXrW8YV7Yje0yz",
+      "name": "Waka Waka (Esto Es Africa) - K-Mix",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4DRFIoachXrW8YV7Yje0yz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gusqTJKxtU1UTmNRMHZcv",
+          "id": "0gusqTJKxtU1UTmNRMHZcv",
+          "name": "Dizzee Rascal",
+          "type": "artist",
+          "uri": "spotify:artist:0gusqTJKxtU1UTmNRMHZcv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6YMPu36VGIknb8Ey1ohW3j"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6YMPu36VGIknb8Ey1ohW3j",
+      "id": "6YMPu36VGIknb8Ey1ohW3j",
+      "name": "Loca (feat. Dizzee Rascal)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6YMPu36VGIknb8Ey1ohW3j",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Xh7dyCHCErCv3PmdVEGw4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Xh7dyCHCErCv3PmdVEGw4",
+      "id": "2Xh7dyCHCErCv3PmdVEGw4",
+      "name": "Rabiosa (feat. Pitbull)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2Xh7dyCHCErCv3PmdVEGw4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63Tl9k1sH8tznn3bqoMuyF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63Tl9k1sH8tznn3bqoMuyF",
+      "id": "63Tl9k1sH8tznn3bqoMuyF",
+      "name": "Waka Waka (This Time for Africa) - K-Mix",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:63Tl9k1sH8tznn3bqoMuyF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gusqTJKxtU1UTmNRMHZcv",
+          "id": "0gusqTJKxtU1UTmNRMHZcv",
+          "name": "Dizzee Rascal",
+          "type": "artist",
+          "uri": "spotify:artist:0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+          },
+          "href": "https://api.spotify.com/v1/artists/49H2dQUNhIlso7VNkS8nFR",
+          "id": "49H2dQUNhIlso7VNkS8nFR",
+          "name": "Freemasons",
+          "type": "artist",
+          "uri": "spotify:artist:49H2dQUNhIlso7VNkS8nFR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Sk7RnSVAQGcTovlJQ5FD1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Sk7RnSVAQGcTovlJQ5FD1",
+      "id": "2Sk7RnSVAQGcTovlJQ5FD1",
+      "name": "Loca (feat. Dizzee Rascal) - Freemasons Radio Edit",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:2Sk7RnSVAQGcTovlJQ5FD1",
+      "is_local": false
+    }
+  ]
+}
