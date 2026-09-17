@@ -1,0 +1,824 @@
+{
+  "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "href": "https://api.spotify.com/v1/albums/2k4FmEtXR0WiDW0Ac2QArT",
+      "id": "2k4FmEtXR0WiDW0Ac2QArT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518baf677ee2d8dda6cc9fcbd7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "petal",
+      "release_date": "2026-07-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2k4FmEtXR0WiDW0Ac2QArT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0JPItniR1C7tjd4ac2R1Vk"
+      },
+      "href": "https://api.spotify.com/v1/albums/0JPItniR1C7tjd4ac2R1Vk",
+      "id": "0JPItniR1C7tjd4ac2R1Vk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737151e78278fb3e6db94c7132",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027151e78278fb3e6db94c7132",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517151e78278fb3e6db94c7132",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dangerous Woman (Tenth Anniversary Edition)",
+      "release_date": "2026-05-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0JPItniR1C7tjd4ac2R1Vk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "href": "https://api.spotify.com/v1/albums/6pamCzTowX31m57z8dC1Sk",
+      "id": "6pamCzTowX31m57z8dC1Sk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733a81e76442b1aa620895a211",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023a81e76442b1aa620895a211",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513a81e76442b1aa620895a211",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wicked: For Good – The Soundtrack",
+      "release_date": "2025-11-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6pamCzTowX31m57z8dC1Sk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+          "id": "3eLZo1bSslvsu0zNhtmMM4",
+          "name": "Wicked Movie Cast",
+          "type": "artist",
+          "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "href": "https://api.spotify.com/v1/albums/6cbwstHlsAIIWurIIXXBPd",
+      "id": "6cbwstHlsAIIWurIIXXBPd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025ab3c842fde848df7a4ee6d9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515ab3c842fde848df7a4ee6d9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "eternal sunshine deluxe: brighter days ahead",
+      "release_date": "2025-03-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6cbwstHlsAIIWurIIXXBPd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "href": "https://api.spotify.com/v1/albums/3JUrJP460nFIqwjxM19slT",
+      "id": "3JUrJP460nFIqwjxM19slT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0241ded89391c5350f6b8f991c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485141ded89391c5350f6b8f991c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wicked: The Soundtrack",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3JUrJP460nFIqwjxM19slT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+          "id": "3eLZo1bSslvsu0zNhtmMM4",
+          "name": "Wicked Movie Cast",
+          "type": "artist",
+          "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ",
+          "name": "Cynthia Erivo",
+          "type": "artist",
+          "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp"
+      },
+      "href": "https://api.spotify.com/v1/albums/3L2iweH45rVdTBPldbY6dp",
+      "id": "3L2iweH45rVdTBPldbY6dp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730497121c2a34a6a1cb885e97",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020497121c2a34a6a1cb885e97",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510497121c2a34a6a1cb885e97",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "eternal sunshine (slightly deluxe and also live)",
+      "release_date": "2024-10-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3L2iweH45rVdTBPldbY6dp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE"
+      },
+      "href": "https://api.spotify.com/v1/albums/2uMTmPEFafKfKeobvdx5EE",
+      "id": "2uMTmPEFafKfKeobvdx5EE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730fdf1dcbc3e34ed740e12710",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020fdf1dcbc3e34ed740e12710",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510fdf1dcbc3e34ed740e12710",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "My Everything (Tenth Anniversary Edition)",
+      "release_date": "2024-08-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2uMTmPEFafKfKeobvdx5EE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Csjy4XeA7KnizkhIvI7y2",
+      "id": "5Csjy4XeA7KnizkhIvI7y2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bd3de668e4784d791c4ab695",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bd3de668e4784d791c4ab695",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bd3de668e4784d791c4ab695",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "eternal sunshine (slightly deluxe)",
+      "release_date": "2024-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Csjy4XeA7KnizkhIvI7y2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "href": "https://api.spotify.com/v1/albums/5EYKrEDnKhhcNxGedaRQeK",
+      "id": "5EYKrEDnKhhcNxGedaRQeK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028b58d20f1b77295730db15b4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518b58d20f1b77295730db15b4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "eternal sunshine",
+      "release_date": "2024-03-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5EYKrEDnKhhcNxGedaRQeK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VSBGJ8bUuNgmOYXHIQagM",
+      "id": "2VSBGJ8bUuNgmOYXHIQagM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273db6ed492fdc27def8f979263",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02db6ed492fdc27def8f979263",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851db6ed492fdc27def8f979263",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Yours Truly (Tenth Anniversary Edition)",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2VSBGJ8bUuNgmOYXHIQagM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "href": "https://api.spotify.com/v1/albums/74vajFwEwXJ61OW1DKSPEa",
+      "id": "74vajFwEwXJ61OW1DKSPEa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739508fb7ca2eedc0d98b9139f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029508fb7ca2eedc0d98b9139f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519508fb7ca2eedc0d98b9139f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Positions (Deluxe)",
+      "release_date": "2021-02-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:74vajFwEwXJ61OW1DKSPEa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "href": "https://api.spotify.com/v1/albums/3euz4vS7ezKGnNSwgyvKcd",
+      "id": "3euz4vS7ezKGnNSwgyvKcd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0255b8f4c3458e256eca14f18f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485155b8f4c3458e256eca14f18f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Positions",
+      "release_date": "2020-10-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3euz4vS7ezKGnNSwgyvKcd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 32,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "href": "https://api.spotify.com/v1/albums/5UACk85y1hNRSUtY0ss8pb",
+      "id": "5UACk85y1hNRSUtY0ss8pb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d0f561d8bb164349dccbfde4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d0f561d8bb164349dccbfde4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d0f561d8bb164349dccbfde4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "k bye for now (swt live)",
+      "release_date": "2019-12-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5UACk85y1hNRSUtY0ss8pb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "href": "https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw",
+      "id": "2fYhqwDWXjbpjaIJPEfKFw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485156ac7b86e090f307e218e9c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "thank u, next",
+      "release_date": "2019-02-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "href": "https://api.spotify.com/v1/albums/3tx8gQqWbGwqIGZHqDNrGe",
+      "id": "3tx8gQqWbGwqIGZHqDNrGe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c3af0c2355c24ed7023cd394",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c3af0c2355c24ed7023cd394",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sweetener",
+      "release_date": "2018-08-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3tx8gQqWbGwqIGZHqDNrGe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "href": "https://api.spotify.com/v1/albums/5X7x18kW3mVIvnuNeedM6b",
+      "id": "5X7x18kW3mVIvnuNeedM6b",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022e651648db439a9b5995e065",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512e651648db439a9b5995e065",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dangerous Woman",
+      "release_date": "2016-05-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5X7x18kW3mVIvnuNeedM6b",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "href": "https://api.spotify.com/v1/albums/6EVYTRG1drKdO8OnIQBeEj",
+      "id": "6EVYTRG1drKdO8OnIQBeEj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851deec12a28d1e336c5052e9aa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "My Everything (Deluxe)",
+      "release_date": "2014-08-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
+      },
+      "href": "https://api.spotify.com/v1/albums/6czdbbMtGbAkZ6ud2OMTcg",
+      "id": "6czdbbMtGbAkZ6ud2OMTcg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ea28881e9e363244a4a2347b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ea28881e9e363244a4a2347b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ea28881e9e363244a4a2347b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Yours Truly",
+      "release_date": "2013-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6czdbbMtGbAkZ6ud2OMTcg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ]
+    }
+  ]
+}

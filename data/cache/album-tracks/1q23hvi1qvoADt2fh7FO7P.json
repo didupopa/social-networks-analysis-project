@@ -1,0 +1,528 @@
+{
+  "album_id": "1q23hvi1qvoADt2fh7FO7P",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HLZFsV7CkhfkCgOaY3PiZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HLZFsV7CkhfkCgOaY3PiZ",
+          "id": "5HLZFsV7CkhfkCgOaY3PiZ",
+          "name": "The Agents",
+          "type": "artist",
+          "uri": "spotify:artist:5HLZFsV7CkhfkCgOaY3PiZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5F2Bwl7Is7KVwTbNbMclIS",
+          "id": "5F2Bwl7Is7KVwTbNbMclIS",
+          "name": "Papayo",
+          "type": "artist",
+          "uri": "spotify:artist:5F2Bwl7Is7KVwTbNbMclIS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 43146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UOCn74QtJEptY6T0qjbHo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UOCn74QtJEptY6T0qjbHo",
+      "id": "1UOCn74QtJEptY6T0qjbHo",
+      "name": "Armando - Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1UOCn74QtJEptY6T0qjbHo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+          "id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "AFROJACK",
+          "type": "artist",
+          "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1p3ZagAqs2nvIQYFs4UMqu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1p3ZagAqs2nvIQYFs4UMqu",
+      "id": "1p3ZagAqs2nvIQYFs4UMqu",
+      "name": "Maldito Alcohol (Pitbull vs. Afrojack)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1p3ZagAqs2nvIQYFs4UMqu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2i8NUc27tFVW6Hamxw14w9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2i8NUc27tFVW6Hamxw14w9",
+      "id": "2i8NUc27tFVW6Hamxw14w9",
+      "name": "Esta Noche - Dj Antoine vs. Mad Mark & Clubzound Mix",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2i8NUc27tFVW6Hamxw14w9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186373,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2KsnhcOy10ucx2yqD0ek8e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2KsnhcOy10ucx2yqD0ek8e",
+      "id": "2KsnhcOy10ucx2yqD0ek8e",
+      "name": "Mujeres",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2KsnhcOy10ucx2yqD0ek8e",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0H0Ik9XhJiJJh5KtMN1iee"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0H0Ik9XhJiJJh5KtMN1iee",
+      "id": "0H0Ik9XhJiJJh5KtMN1iee",
+      "name": "Bon, Bon",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0H0Ik9XhJiJJh5KtMN1iee",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ke86J3nw4tItmpG5h41P0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ke86J3nw4tItmpG5h41P0",
+      "id": "6ke86J3nw4tItmpG5h41P0",
+      "name": "Guantanamera (She's Hot)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6ke86J3nw4tItmpG5h41P0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f4OfcNtgL9MLgiyOdIHC7",
+          "id": "3f4OfcNtgL9MLgiyOdIHC7",
+          "name": "JENCARLOS",
+          "type": "artist",
+          "uri": "spotify:artist:3f4OfcNtgL9MLgiyOdIHC7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0h8GiewuD4pRDn1dCUMk9T"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0h8GiewuD4pRDn1dCUMk9T",
+      "id": "0h8GiewuD4pRDn1dCUMk9T",
+      "name": "Tu Cuerpo",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0h8GiewuD4pRDn1dCUMk9T",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ruutHJcECI7cos2n5TqpO",
+          "id": "1ruutHJcECI7cos2n5TqpO",
+          "name": "Nayer",
+          "type": "artist",
+          "uri": "spotify:artist:1ruutHJcECI7cos2n5TqpO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/07nsB7wDd2FW20fRxy7tps"
+      },
+      "href": "https://api.spotify.com/v1/tracks/07nsB7wDd2FW20fRxy7tps",
+      "id": "07nsB7wDd2FW20fRxy7tps",
+      "name": "Vida 23",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:07nsB7wDd2FW20fRxy7tps",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5F2Bwl7Is7KVwTbNbMclIS",
+          "id": "5F2Bwl7Is7KVwTbNbMclIS",
+          "name": "Papayo",
+          "type": "artist",
+          "uri": "spotify:artist:5F2Bwl7Is7KVwTbNbMclIS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4aIpZ2NWNXRtTcuJTy1okl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4aIpZ2NWNXRtTcuJTy1okl",
+      "id": "4aIpZ2NWNXRtTcuJTy1okl",
+      "name": "Amorosa",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4aIpZ2NWNXRtTcuJTy1okl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7sfl4Xt5KmfyDs2T3SVSMK",
+          "id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "Lil Jon",
+          "type": "artist",
+          "uri": "spotify:artist:7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iJrDbKM5fEkGdm5kpjFzS",
+          "id": "7iJrDbKM5fEkGdm5kpjFzS",
+          "name": "Sensato",
+          "type": "artist",
+          "uri": "spotify:artist:7iJrDbKM5fEkGdm5kpjFzS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HglrGKncSq6VImEXb8ueY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HglrGKncSq6VImEXb8ueY",
+          "id": "7HglrGKncSq6VImEXb8ueY",
+          "name": "Black Point",
+          "type": "artist",
+          "uri": "spotify:artist:7HglrGKncSq6VImEXb8ueY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+          },
+          "href": "https://api.spotify.com/v1/artists/52aHqEQZ802daFzuMHfcES",
+          "id": "52aHqEQZ802daFzuMHfcES",
+          "name": "El Cata",
+          "type": "artist",
+          "uri": "spotify:artist:52aHqEQZ802daFzuMHfcES"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+          },
+          "href": "https://api.spotify.com/v1/artists/2m7JzVtYyAwdU0CnET9IvA",
+          "id": "2m7JzVtYyAwdU0CnET9IvA",
+          "name": "DJ Buddha",
+          "type": "artist",
+          "uri": "spotify:artist:2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EXAX0AfcYBrkiOaaIAIc5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EXAX0AfcYBrkiOaaIAIc5",
+      "id": "6EXAX0AfcYBrkiOaaIAIc5",
+      "name": "Watagatapitusberry - Remix",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6EXAX0AfcYBrkiOaaIAIc5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2busR9EfWtJOhem2ZqN0wa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2busR9EfWtJOhem2ZqN0wa",
+      "id": "2busR9EfWtJOhem2ZqN0wa",
+      "name": "Orgullo",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2busR9EfWtJOhem2ZqN0wa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 185386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gR4xdfMfw4Jt9nP5jferh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6gR4xdfMfw4Jt9nP5jferh",
+      "id": "6gR4xdfMfw4Jt9nP5jferh",
+      "name": "Preguntale",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6gR4xdfMfw4Jt9nP5jferh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VCmyu3rfgyaAPcW0oPpls"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VCmyu3rfgyaAPcW0oPpls",
+          "id": "4VCmyu3rfgyaAPcW0oPpls",
+          "name": "Omega",
+          "type": "artist",
+          "uri": "spotify:artist:4VCmyu3rfgyaAPcW0oPpls"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xaWOkprn6cua2ZL7fSaLN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xaWOkprn6cua2ZL7fSaLN",
+      "id": "3xaWOkprn6cua2ZL7fSaLN",
+      "restrictions": {
+        "reason": "market"
+      },
+      "name": "Yo Quiero - Mi Alma Se Muere Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3xaWOkprn6cua2ZL7fSaLN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1wYMIiOs7G9eowmuI53Dyo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1wYMIiOs7G9eowmuI53Dyo",
+      "id": "1wYMIiOs7G9eowmuI53Dyo",
+      "name": "Blanco - Spanish Remix",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1wYMIiOs7G9eowmuI53Dyo",
+      "is_local": false
+    }
+  ]
+}
