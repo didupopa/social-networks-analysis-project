@@ -1,0 +1,596 @@
+{
+  "artist_id": "35sCXuy5gN6Or69rZ9vqBs",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21icAJRmu4tr8WXhjP3VSa"
+      },
+      "href": "https://api.spotify.com/v1/albums/21icAJRmu4tr8WXhjP3VSa",
+      "id": "21icAJRmu4tr8WXhjP3VSa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef90104a9184cdd0462f8d2c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef90104a9184cdd0462f8d2c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ef90104a9184cdd0462f8d2c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "From The Bayou",
+      "release_date": "2021-12-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:21icAJRmu4tr8WXhjP3VSa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+          "id": "7wlFDEWiM5OoIAt8RSli8b",
+          "name": "YoungBoy Never Broke Again",
+          "type": "artist",
+          "uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7Edzq93fVoyTCmKu3xSQxk"
+      },
+      "href": "https://api.spotify.com/v1/albums/7Edzq93fVoyTCmKu3xSQxk",
+      "id": "7Edzq93fVoyTCmKu3xSQxk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739feddd1ac58cc511fd220559",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029feddd1ac58cc511fd220559",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519feddd1ac58cc511fd220559",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Just Another Gangsta",
+      "release_date": "2019-03-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7Edzq93fVoyTCmKu3xSQxk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5uOz2zcMuMT8FecNBR0CKh"
+      },
+      "href": "https://api.spotify.com/v1/albums/5uOz2zcMuMT8FecNBR0CKh",
+      "id": "5uOz2zcMuMT8FecNBR0CKh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730832991c6d4f606980df9f98",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020832991c6d4f606980df9f98",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510832991c6d4f606980df9f98",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lost At Sea 2",
+      "release_date": "2018-11-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5uOz2zcMuMT8FecNBR0CKh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tMm1dU6Gn04VAZ9ClHcIZ",
+          "id": "4tMm1dU6Gn04VAZ9ClHcIZ",
+          "name": "Jacquees",
+          "type": "artist",
+          "uri": "spotify:artist:4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5iUvjdmu8ytncnsDyBZFEm"
+      },
+      "href": "https://api.spotify.com/v1/albums/5iUvjdmu8ytncnsDyBZFEm",
+      "id": "5iUvjdmu8ytncnsDyBZFEm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273487c78bdd4b7594ebcb35062",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02487c78bdd4b7594ebcb35062",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851487c78bdd4b7594ebcb35062",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lost At Sea",
+      "release_date": "2016-06-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5iUvjdmu8ytncnsDyBZFEm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tMm1dU6Gn04VAZ9ClHcIZ",
+          "id": "4tMm1dU6Gn04VAZ9ClHcIZ",
+          "name": "Jacquees",
+          "type": "artist",
+          "uri": "spotify:artist:4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ppw6DFuPFHi4EOGLxHX2F"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ppw6DFuPFHi4EOGLxHX2F",
+      "id": "2ppw6DFuPFHi4EOGLxHX2F",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f49d352afa0f336f9adad4f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028f49d352afa0f336f9adad4f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518f49d352afa0f336f9adad4f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "RG2",
+      "release_date": "2015-02-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2ppw6DFuPFHi4EOGLxHX2F",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lHRUCqkQZCIWeX7xG4sYT",
+          "id": "5lHRUCqkQZCIWeX7xG4sYT",
+          "name": "Rich Homie Quan",
+          "type": "artist",
+          "uri": "spotify:artist:5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ryXDRrtDUzddIDVcBwtXW",
+      "id": "0ryXDRrtDUzddIDVcBwtXW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f4b27b2c8c9e3fd7e6796dd3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f4b27b2c8c9e3fd7e6796dd3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f4b27b2c8c9e3fd7e6796dd3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pricele$$",
+      "release_date": "2009-11-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ryXDRrtDUzddIDVcBwtXW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6dps72Yl8gaQq627hhjzyI"
+      },
+      "href": "https://api.spotify.com/v1/albums/6dps72Yl8gaQq627hhjzyI",
+      "id": "6dps72Yl8gaQq627hhjzyI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d95e66513287fa0496cd12b9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d95e66513287fa0496cd12b9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d95e66513287fa0496cd12b9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pricele$$ (Deluxe Edition)",
+      "release_date": "2009-11-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6dps72Yl8gaQq627hhjzyI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/30tNpZ5meh7VXcFyHtwB5l"
+      },
+      "href": "https://api.spotify.com/v1/albums/30tNpZ5meh7VXcFyHtwB5l",
+      "id": "30tNpZ5meh7VXcFyHtwB5l",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733719692a58383fb62a3296a3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023719692a58383fb62a3296a3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513719692a58383fb62a3296a3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pricele$$ (UK Deluxe Edition)",
+      "release_date": "2009-11-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:30tNpZ5meh7VXcFyHtwB5l",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6oJupyIaAOMlJHxVn05mBH"
+      },
+      "href": "https://api.spotify.com/v1/albums/6oJupyIaAOMlJHxVn05mBH",
+      "id": "6oJupyIaAOMlJHxVn05mBH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738becb6b4352ddd4c1f159541",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028becb6b4352ddd4c1f159541",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518becb6b4352ddd4c1f159541",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "5 * Stunna",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6oJupyIaAOMlJHxVn05mBH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp"
+      },
+      "href": "https://api.spotify.com/v1/albums/3DLSu5fxSIaG7Ph8G5YVBp",
+      "id": "3DLSu5fxSIaG7Ph8G5YVBp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738da932399ce7f587525587b6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028da932399ce7f587525587b6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518da932399ce7f587525587b6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Like Father Like Son",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3DLSu5fxSIaG7Ph8G5YVBp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uZarklrvCBV2HyuTPjuLU"
+      },
+      "href": "https://api.spotify.com/v1/albums/3uZarklrvCBV2HyuTPjuLU",
+      "id": "3uZarklrvCBV2HyuTPjuLU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731313d0905a446bdd19ee98fc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021313d0905a446bdd19ee98fc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511313d0905a446bdd19ee98fc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fast Money Chopped and Screwed",
+      "release_date": "2005-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3uZarklrvCBV2HyuTPjuLU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/113yDW9d37HlX66p54X6nA"
+      },
+      "href": "https://api.spotify.com/v1/albums/113yDW9d37HlX66p54X6nA",
+      "id": "113yDW9d37HlX66p54X6nA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ade7fe3fa00112ca2896a28",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024ade7fe3fa00112ca2896a28",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514ade7fe3fa00112ca2896a28",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fast Money",
+      "release_date": "2005",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:113yDW9d37HlX66p54X6nA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ]
+    }
+  ]
+}

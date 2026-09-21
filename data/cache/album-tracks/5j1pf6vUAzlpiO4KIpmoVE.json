@@ -1,0 +1,633 @@
+{
+  "album_id": "5j1pf6vUAzlpiO4KIpmoVE",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
+          "id": "4sb7rZNN93BSS6Gqgepo4v",
+          "name": "Too $hort",
+          "type": "artist",
+          "uri": "spotify:artist:4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262479,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ByG5iLvgEEWAcy921Tqn2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ByG5iLvgEEWAcy921Tqn2",
+      "id": "5ByG5iLvgEEWAcy921Tqn2",
+      "name": "Bad B*tch",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5ByG5iLvgEEWAcy921Tqn2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Aq8lpLMSt1Zxu56pe9bmp",
+          "id": "7Aq8lpLMSt1Zxu56pe9bmp",
+          "name": "Jagged Edge",
+          "type": "artist",
+          "uri": "spotify:artist:7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4z9vT1dkrovMxFPrEnbkP4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4z9vT1dkrovMxFPrEnbkP4",
+          "id": "4z9vT1dkrovMxFPrEnbkP4",
+          "name": "Bohagon",
+          "type": "artist",
+          "uri": "spotify:artist:4z9vT1dkrovMxFPrEnbkP4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261115,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ZPLUvLx3T1c4f90xWsJvR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ZPLUvLx3T1c4f90xWsJvR",
+      "id": "4ZPLUvLx3T1c4f90xWsJvR",
+      "name": "Smoking While We Drive",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4ZPLUvLx3T1c4f90xWsJvR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QVI7h1t9Zk8u2qIfUn3YH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QVI7h1t9Zk8u2qIfUn3YH",
+          "id": "4QVI7h1t9Zk8u2qIfUn3YH",
+          "name": "Slick B",
+          "type": "artist",
+          "uri": "spotify:artist:4QVI7h1t9Zk8u2qIfUn3YH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273074,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6uIk8lVwaiT2ZmKV4QarSz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6uIk8lVwaiT2ZmKV4QarSz",
+      "id": "6uIk8lVwaiT2ZmKV4QarSz",
+      "name": "I Gotz 2 Have It",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6uIk8lVwaiT2ZmKV4QarSz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yiuHpioBI80HXANoiMPCl"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yiuHpioBI80HXANoiMPCl",
+          "id": "3yiuHpioBI80HXANoiMPCl",
+          "name": "KB",
+          "type": "artist",
+          "uri": "spotify:artist:3yiuHpioBI80HXANoiMPCl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KFSIyUS34wLYZ5MdU27Cc"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KFSIyUS34wLYZ5MdU27Cc",
+          "id": "3KFSIyUS34wLYZ5MdU27Cc",
+          "name": "Slimm Calhoun",
+          "type": "artist",
+          "uri": "spotify:artist:3KFSIyUS34wLYZ5MdU27Cc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270848,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1FHmukXrbbQqK4Aj1Ibfwo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1FHmukXrbbQqK4Aj1Ibfwo",
+      "id": "1FHmukXrbbQqK4Aj1Ibfwo",
+      "name": "Ballers In The Club",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1FHmukXrbbQqK4Aj1Ibfwo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
+          "id": "4sb7rZNN93BSS6Gqgepo4v",
+          "name": "Too $hort",
+          "type": "artist",
+          "uri": "spotify:artist:4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1rB9rf2BsYgFIQKkUKqig7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1rB9rf2BsYgFIQKkUKqig7",
+          "id": "1rB9rf2BsYgFIQKkUKqig7",
+          "name": "Mac Boney",
+          "type": "artist",
+          "uri": "spotify:artist:1rB9rf2BsYgFIQKkUKqig7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w3ZScuMlhMqxd6Nr0WwLj"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w3ZScuMlhMqxd6Nr0WwLj",
+          "id": "6w3ZScuMlhMqxd6Nr0WwLj",
+          "name": "Shawty Redd",
+          "type": "artist",
+          "uri": "spotify:artist:6w3ZScuMlhMqxd6Nr0WwLj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gnyzTe33o5RwDjGZOrggH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gnyzTe33o5RwDjGZOrggH",
+          "id": "1gnyzTe33o5RwDjGZOrggH",
+          "name": "Manish Man",
+          "type": "artist",
+          "uri": "spotify:artist:1gnyzTe33o5RwDjGZOrggH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 434580,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OivJfUKU7eSkMJMVUdsov"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OivJfUKU7eSkMJMVUdsov",
+      "id": "2OivJfUKU7eSkMJMVUdsov",
+      "name": "Ball Like Me",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2OivJfUKU7eSkMJMVUdsov",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1DcWHZmzu1JT5IYWDDwHDU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1DcWHZmzu1JT5IYWDDwHDU",
+          "id": "1DcWHZmzu1JT5IYWDDwHDU",
+          "name": "Tracy T",
+          "type": "artist",
+          "uri": "spotify:artist:1DcWHZmzu1JT5IYWDDwHDU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4LjWofWMxYxL3JfzlNHels"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4LjWofWMxYxL3JfzlNHels",
+      "id": "4LjWofWMxYxL3JfzlNHels",
+      "name": "Money Talk",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4LjWofWMxYxL3JfzlNHels",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32cMKao8uGRc8AC9z7BgG5"
+          },
+          "href": "https://api.spotify.com/v1/artists/32cMKao8uGRc8AC9z7BgG5",
+          "id": "32cMKao8uGRc8AC9z7BgG5",
+          "name": "Decatur Black",
+          "type": "artist",
+          "uri": "spotify:artist:32cMKao8uGRc8AC9z7BgG5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7l9ZH9xbstzE9KEZu44UZn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7l9ZH9xbstzE9KEZu44UZn",
+          "id": "7l9ZH9xbstzE9KEZu44UZn",
+          "name": "Cheeto Gambine",
+          "type": "artist",
+          "uri": "spotify:artist:7l9ZH9xbstzE9KEZu44UZn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284300,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kA8uOnFeSSkzDzuhT8AjP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kA8uOnFeSSkzDzuhT8AjP",
+      "id": "5kA8uOnFeSSkzDzuhT8AjP",
+      "name": "My Whole Life I Been Thuggin",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5kA8uOnFeSSkzDzuhT8AjP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4GC5ZFORmCv4pjFrBpxBxJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4GC5ZFORmCv4pjFrBpxBxJ",
+          "id": "4GC5ZFORmCv4pjFrBpxBxJ",
+          "name": "Baby D.",
+          "type": "artist",
+          "uri": "spotify:artist:4GC5ZFORmCv4pjFrBpxBxJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0wcGIBivjIRk006kuE3Tqp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0wcGIBivjIRk006kuE3Tqp",
+      "id": "0wcGIBivjIRk006kuE3Tqp",
+      "name": "Glistening",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0wcGIBivjIRk006kuE3Tqp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4jT97eZPO0kzO976djtWKP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4jT97eZPO0kzO976djtWKP",
+          "id": "4jT97eZPO0kzO976djtWKP",
+          "name": "Fiend",
+          "type": "artist",
+          "uri": "spotify:artist:4jT97eZPO0kzO976djtWKP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4MlxDEZEIjQdx4104tn3NX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4MlxDEZEIjQdx4104tn3NX",
+      "id": "4MlxDEZEIjQdx4104tn3NX",
+      "name": "Yellin",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4MlxDEZEIjQdx4104tn3NX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SGyiSo7lCGGeKP8lbDvBa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SGyiSo7lCGGeKP8lbDvBa",
+          "id": "1SGyiSo7lCGGeKP8lbDvBa",
+          "name": "Doja Smoke",
+          "type": "artist",
+          "uri": "spotify:artist:1SGyiSo7lCGGeKP8lbDvBa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255765,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0dpRPvi4IHf2wOcRbYHDzv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0dpRPvi4IHf2wOcRbYHDzv",
+      "id": "0dpRPvi4IHf2wOcRbYHDzv",
+      "name": "I Get It Off",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0dpRPvi4IHf2wOcRbYHDzv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aLDiGvMXKBhGl5KEGr92s"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aLDiGvMXKBhGl5KEGr92s",
+          "id": "3aLDiGvMXKBhGl5KEGr92s",
+          "name": "Menace",
+          "type": "artist",
+          "uri": "spotify:artist:3aLDiGvMXKBhGl5KEGr92s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0f7Np74sjRQjE14TK9xPgX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0f7Np74sjRQjE14TK9xPgX",
+          "id": "0f7Np74sjRQjE14TK9xPgX",
+          "name": "Ku Dolla",
+          "type": "artist",
+          "uri": "spotify:artist:0f7Np74sjRQjE14TK9xPgX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 294243,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6SAtUkJlO5rvs31S6CzXxl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6SAtUkJlO5rvs31S6CzXxl",
+      "id": "6SAtUkJlO5rvs31S6CzXxl",
+      "name": "Let's Make A Movie",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6SAtUkJlO5rvs31S6CzXxl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2egABMbvZSu2X6KnCoUJJK"
+          },
+          "href": "https://api.spotify.com/v1/artists/2egABMbvZSu2X6KnCoUJJK",
+          "id": "2egABMbvZSu2X6KnCoUJJK",
+          "name": "Gucci",
+          "type": "artist",
+          "uri": "spotify:artist:2egABMbvZSu2X6KnCoUJJK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241327,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1DKErUcYWxUf9RADc43do4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1DKErUcYWxUf9RADc43do4",
+      "id": "1DKErUcYWxUf9RADc43do4",
+      "name": "Got A Crush",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1DKErUcYWxUf9RADc43do4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w3ZScuMlhMqxd6Nr0WwLj"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w3ZScuMlhMqxd6Nr0WwLj",
+          "id": "6w3ZScuMlhMqxd6Nr0WwLj",
+          "name": "Shawty Redd",
+          "type": "artist",
+          "uri": "spotify:artist:6w3ZScuMlhMqxd6Nr0WwLj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jSHd3iuwQ6g9vrPVSFJDS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jSHd3iuwQ6g9vrPVSFJDS",
+          "id": "2jSHd3iuwQ6g9vrPVSFJDS",
+          "name": "Redd Nose",
+          "type": "artist",
+          "uri": "spotify:artist:2jSHd3iuwQ6g9vrPVSFJDS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0pChgWGuYXl6Gqfh6hwjxd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0pChgWGuYXl6Gqfh6hwjxd",
+      "id": "0pChgWGuYXl6Gqfh6hwjxd",
+      "name": "Mr. Investor",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0pChgWGuYXl6Gqfh6hwjxd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gnyzTe33o5RwDjGZOrggH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gnyzTe33o5RwDjGZOrggH",
+          "id": "1gnyzTe33o5RwDjGZOrggH",
+          "name": "Manish Man",
+          "type": "artist",
+          "uri": "spotify:artist:1gnyzTe33o5RwDjGZOrggH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228803,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2up9Wi4K2wc7HVk3IbOls3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2up9Wi4K2wc7HVk3IbOls3",
+      "id": "2up9Wi4K2wc7HVk3IbOls3",
+      "name": "Sum Good",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2up9Wi4K2wc7HVk3IbOls3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
+          "id": "4sb7rZNN93BSS6Gqgepo4v",
+          "name": "Too $hort",
+          "type": "artist",
+          "uri": "spotify:artist:4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aLDiGvMXKBhGl5KEGr92s"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aLDiGvMXKBhGl5KEGr92s",
+          "id": "3aLDiGvMXKBhGl5KEGr92s",
+          "name": "Menace",
+          "type": "artist",
+          "uri": "spotify:artist:3aLDiGvMXKBhGl5KEGr92s"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37OExrpQJppXcJ4hk5Ldmr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37OExrpQJppXcJ4hk5Ldmr",
+      "id": "37OExrpQJppXcJ4hk5Ldmr",
+      "name": "Strippers",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:37OExrpQJppXcJ4hk5Ldmr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wm1djc5rXx8QoPMrwV1Wl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wm1djc5rXx8QoPMrwV1Wl",
+          "id": "6wm1djc5rXx8QoPMrwV1Wl",
+          "name": "Milion",
+          "type": "artist",
+          "uri": "spotify:artist:6wm1djc5rXx8QoPMrwV1Wl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257076,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3FxbXL21fG28PBBp4KMd9v"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3FxbXL21fG28PBBp4KMd9v",
+      "id": "3FxbXL21fG28PBBp4KMd9v",
+      "name": "P*ssy",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3FxbXL21fG28PBBp4KMd9v",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xJ9goxn3HrItAzpWywOZq"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xJ9goxn3HrItAzpWywOZq",
+          "id": "1xJ9goxn3HrItAzpWywOZq",
+          "name": "Gino",
+          "type": "artist",
+          "uri": "spotify:artist:1xJ9goxn3HrItAzpWywOZq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4G1P81Z5EqpZwpcuDJhut8"
+          },
+          "href": "https://api.spotify.com/v1/artists/4G1P81Z5EqpZwpcuDJhut8",
+          "id": "4G1P81Z5EqpZwpcuDJhut8",
+          "name": "Ms. Behavin",
+          "type": "artist",
+          "uri": "spotify:artist:4G1P81Z5EqpZwpcuDJhut8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258730,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/27RK0E4ub1xMKYN5GOzprD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/27RK0E4ub1xMKYN5GOzprD",
+      "id": "27RK0E4ub1xMKYN5GOzprD",
+      "name": "Face Down *ss Up",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:27RK0E4ub1xMKYN5GOzprD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/621cwk4Vknl61CX8WbABek"
+          },
+          "href": "https://api.spotify.com/v1/artists/621cwk4Vknl61CX8WbABek",
+          "id": "621cwk4Vknl61CX8WbABek",
+          "name": "Mo B. Dick",
+          "type": "artist",
+          "uri": "spotify:artist:621cwk4Vknl61CX8WbABek"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243648,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JGtSf6KwYOwRzsJ5BM7aB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JGtSf6KwYOwRzsJ5BM7aB",
+      "id": "5JGtSf6KwYOwRzsJ5BM7aB",
+      "name": "Gitcha Jiggle On",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5JGtSf6KwYOwRzsJ5BM7aB",
+      "is_local": false
+    }
+  ]
+}

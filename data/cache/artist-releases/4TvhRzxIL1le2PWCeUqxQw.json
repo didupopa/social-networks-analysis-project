@@ -1,0 +1,106 @@
+{
+  "artist_id": "4TvhRzxIL1le2PWCeUqxQw",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0WGs5bQx4HefdubdFh1kfE",
+      "id": "0WGs5bQx4HefdubdFh1kfE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce4e3bfa322381fa37d6fe0f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce4e3bfa322381fa37d6fe0f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ce4e3bfa322381fa37d6fe0f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Godspeed",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0WGs5bQx4HefdubdFh1kfE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+          "id": "4TvhRzxIL1le2PWCeUqxQw",
+          "name": "The Blessed Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
+      },
+      "href": "https://api.spotify.com/v1/albums/3W04W2HfQ5kVeByxfjbu2C",
+      "id": "3W04W2HfQ5kVeByxfjbu2C",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c58febec0fe55a93f5fc61b8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c58febec0fe55a93f5fc61b8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c58febec0fe55a93f5fc61b8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Club Future Nostalgia (DJ Mix)",
+      "release_date": "2020-08-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3W04W2HfQ5kVeByxfjbu2C",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          },
+          "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "type": "artist",
+          "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+          "id": "4TvhRzxIL1le2PWCeUqxQw",
+          "name": "The Blessed Madonna",
+          "type": "artist",
+          "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ]
+    }
+  ]
+}

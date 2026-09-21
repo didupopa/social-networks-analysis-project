@@ -1,0 +1,199 @@
+{
+  "artist_id": "4myTppRgh0rojLxx8RycOp",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+      },
+      "href": "https://api.spotify.com/v1/albums/2kqn09pydzvKvB3xWbAxY4",
+      "id": "2kqn09pydzvKvB3xWbAxY4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27351245bae78fd3afa47e90453",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0251245bae78fd3afa47e90453",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485151245bae78fd3afa47e90453",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "This Unruly Mess I've Made",
+      "release_date": "2016-02-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2kqn09pydzvKvB3xWbAxY4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
+      },
+      "href": "https://api.spotify.com/v1/albums/76FXHQhTuT4QMIxfL09gX8",
+      "id": "76FXHQhTuT4QMIxfL09gX8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0298a02fef3a8b1d80a0f164ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485198a02fef3a8b1d80a0f164ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Heist",
+      "release_date": "2012-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:76FXHQhTuT4QMIxfL09gX8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WLvgbfYXQPO396oJEYCsi",
+          "id": "6WLvgbfYXQPO396oJEYCsi",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT"
+      },
+      "href": "https://api.spotify.com/v1/albums/2pFX16u42q0e5F5vRmmzYT",
+      "id": "2pFX16u42q0e5F5vRmmzYT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273938f1c0cc7d36a671ed226a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02938f1c0cc7d36a671ed226a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851938f1c0cc7d36a671ed226a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Heist (Deluxe Edition)",
+      "release_date": "2012-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2pFX16u42q0e5F5vRmmzYT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC",
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist",
+          "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp",
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:4myTppRgh0rojLxx8RycOp"
+        }
+      ]
+    }
+  ]
+}

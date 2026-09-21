@@ -1,0 +1,798 @@
+{
+  "artist_id": "1AEcpjnSCmm53IBZQo3g9z",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Kr36uWre0SDyAuIVfHePp",
+      "id": "3Kr36uWre0SDyAuIVfHePp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27300a36279fd16e24b74f897b4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0200a36279fd16e24b74f897b4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485100a36279fd16e24b74f897b4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Magic Hour",
+      "release_date": "2024-07-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Kr36uWre0SDyAuIVfHePp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jDblfQQLFAZCKXFfoGZ9Q",
+          "id": "7jDblfQQLFAZCKXFfoGZ9Q",
+          "name": "Jay Worthy",
+          "type": "artist",
+          "uri": "spotify:artist:7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2bhA2miYR9z7etELwRl7Us"
+      },
+      "href": "https://api.spotify.com/v1/albums/2bhA2miYR9z7etELwRl7Us",
+      "id": "2bhA2miYR9z7etELwRl7Us",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ccc47ba0db9f2a2660dbc5b2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ccc47ba0db9f2a2660dbc5b2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ccc47ba0db9f2a2660dbc5b2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DāM-FunK Presents The Music of Grand Theft Auto Online Original Score",
+      "release_date": "2023-12-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2bhA2miYR9z7etELwRl7Us",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1pZ4alKcPRzCf4yZtXP3hU"
+      },
+      "href": "https://api.spotify.com/v1/albums/1pZ4alKcPRzCf4yZtXP3hU",
+      "id": "1pZ4alKcPRzCf4yZtXP3hU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bd78e1899093273ecd43865e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bd78e1899093273ecd43865e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bd78e1899093273ecd43865e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Above The Fray",
+      "release_date": "2021-07-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1pZ4alKcPRzCf4yZtXP3hU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VBkuNcLR8UiIUxZr9FTNO"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VBkuNcLR8UiIUxZr9FTNO",
+      "id": "2VBkuNcLR8UiIUxZr9FTNO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb581490a34c6f6f3c5a352f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb581490a34c6f6f3c5a352f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb581490a34c6f6f3c5a352f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Architecture III",
+      "release_date": "2021-04-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2VBkuNcLR8UiIUxZr9FTNO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/15ZVZvh5vjNkSR78h65bWR"
+      },
+      "href": "https://api.spotify.com/v1/albums/15ZVZvh5vjNkSR78h65bWR",
+      "id": "15ZVZvh5vjNkSR78h65bWR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5cd26026f57d49a68686b63",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5cd26026f57d49a68686b63",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a5cd26026f57d49a68686b63",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Private Life III",
+      "release_date": "2021-01-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:15ZVZvh5vjNkSR78h65bWR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ESo0xI5YQncqKOhplNKIJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ESo0xI5YQncqKOhplNKIJ",
+          "id": "2ESo0xI5YQncqKOhplNKIJ",
+          "name": "Garrett",
+          "type": "artist",
+          "uri": "spotify:artist:2ESo0xI5YQncqKOhplNKIJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4e7qlY3DURQ5QgtHfKgTbu"
+      },
+      "href": "https://api.spotify.com/v1/albums/4e7qlY3DURQ5QgtHfKgTbu",
+      "id": "4e7qlY3DURQ5QgtHfKgTbu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fae02fee615dd5aef4081637",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fae02fee615dd5aef4081637",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fae02fee615dd5aef4081637",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Private Life II",
+      "release_date": "2018-11-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4e7qlY3DURQ5QgtHfKgTbu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ESo0xI5YQncqKOhplNKIJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ESo0xI5YQncqKOhplNKIJ",
+          "id": "2ESo0xI5YQncqKOhplNKIJ",
+          "name": "Garrett",
+          "type": "artist",
+          "uri": "spotify:artist:2ESo0xI5YQncqKOhplNKIJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/72XU4YRjI1WFRkyqnk3DwD"
+      },
+      "href": "https://api.spotify.com/v1/albums/72XU4YRjI1WFRkyqnk3DwD",
+      "id": "72XU4YRjI1WFRkyqnk3DwD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27318f98df36645d68cc9dfad75",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0218f98df36645d68cc9dfad75",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485118f98df36645d68cc9dfad75",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Private Life",
+      "release_date": "2017-11-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:72XU4YRjI1WFRkyqnk3DwD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ESo0xI5YQncqKOhplNKIJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ESo0xI5YQncqKOhplNKIJ",
+          "id": "2ESo0xI5YQncqKOhplNKIJ",
+          "name": "Garrett",
+          "type": "artist",
+          "uri": "spotify:artist:2ESo0xI5YQncqKOhplNKIJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1sL7ELshCj09Bfmp7VWKxC"
+      },
+      "href": "https://api.spotify.com/v1/albums/1sL7ELshCj09Bfmp7VWKxC",
+      "id": "1sL7ELshCj09Bfmp7VWKxC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273259891f35182442f7952662c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02259891f35182442f7952662c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851259891f35182442f7952662c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DJ-Kicks (DaM-Funk) [DJ Mix]",
+      "release_date": "2016-05-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1sL7ELshCj09Bfmp7VWKxC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4xHuolwoJNConeV90B4da2"
+      },
+      "href": "https://api.spotify.com/v1/albums/4xHuolwoJNConeV90B4da2",
+      "id": "4xHuolwoJNConeV90B4da2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27379c52eb5525f30ac30ea93ba",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0279c52eb5525f30ac30ea93ba",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485179c52eb5525f30ac30ea93ba",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Invite The Light",
+      "release_date": "2015-09-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4xHuolwoJNConeV90B4da2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3HC675zVoU9skzkwk6zMsf"
+      },
+      "href": "https://api.spotify.com/v1/albums/3HC675zVoU9skzkwk6zMsf",
+      "id": "3HC675zVoU9skzkwk6zMsf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730dd7f07fd4dc5c9c5cc128c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020dd7f07fd4dc5c9c5cc128c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510dd7f07fd4dc5c9c5cc128c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "7 Days Instrumentals",
+      "release_date": "2014-03-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3HC675zVoU9skzkwk6zMsf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OnxG1XyJUpZOh8JujGZJs"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OnxG1XyJUpZOh8JujGZJs",
+          "id": "3OnxG1XyJUpZOh8JujGZJs",
+          "name": "7 Days Of Funk",
+          "type": "artist",
+          "uri": "spotify:artist:3OnxG1XyJUpZOh8JujGZJs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3x2qoJX6nDBPnJVlbmv5wc"
+      },
+      "href": "https://api.spotify.com/v1/albums/3x2qoJX6nDBPnJVlbmv5wc",
+      "id": "3x2qoJX6nDBPnJVlbmv5wc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273565c1b3718d285474a9af9de",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02565c1b3718d285474a9af9de",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851565c1b3718d285474a9af9de",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "7 Days of Funk",
+      "release_date": "2013-12-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3x2qoJX6nDBPnJVlbmv5wc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OnxG1XyJUpZOh8JujGZJs"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OnxG1XyJUpZOh8JujGZJs",
+          "id": "3OnxG1XyJUpZOh8JujGZJs",
+          "name": "7 Days Of Funk",
+          "type": "artist",
+          "uri": "spotify:artist:3OnxG1XyJUpZOh8JujGZJs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4k6TEl0oVoUKYvTZn2SxOu"
+      },
+      "href": "https://api.spotify.com/v1/albums/4k6TEl0oVoUKYvTZn2SxOu",
+      "id": "4k6TEl0oVoUKYvTZn2SxOu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb40a379744063bc07ab3705",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb40a379744063bc07ab3705",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb40a379744063bc07ab3705",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Higher - Bonus Glide: The Instrumentals",
+      "release_date": "2013-09-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4k6TEl0oVoUKYvTZn2SxOu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM"
+          },
+          "href": "https://api.spotify.com/v1/artists/030gEPJwNJnBcyra7CB9vM",
+          "id": "030gEPJwNJnBcyra7CB9vM",
+          "name": "Steve Arrington",
+          "type": "artist",
+          "uri": "spotify:artist:030gEPJwNJnBcyra7CB9vM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4SO7s5TfUNkRM1YlSGGOUd"
+      },
+      "href": "https://api.spotify.com/v1/albums/4SO7s5TfUNkRM1YlSGGOUd",
+      "id": "4SO7s5TfUNkRM1YlSGGOUd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736815cb91812fb238a19b9db4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026815cb91812fb238a19b9db4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516815cb91812fb238a19b9db4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Higher",
+      "release_date": "2013-08-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4SO7s5TfUNkRM1YlSGGOUd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM"
+          },
+          "href": "https://api.spotify.com/v1/artists/030gEPJwNJnBcyra7CB9vM",
+          "id": "030gEPJwNJnBcyra7CB9vM",
+          "name": "Steve Arrington",
+          "type": "artist",
+          "uri": "spotify:artist:030gEPJwNJnBcyra7CB9vM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/12ZlprvnZpMuKc5KxvDLOU"
+      },
+      "href": "https://api.spotify.com/v1/albums/12ZlprvnZpMuKc5KxvDLOU",
+      "id": "12ZlprvnZpMuKc5KxvDLOU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273207ed4616520f2563f0a7941",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02207ed4616520f2563f0a7941",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851207ed4616520f2563f0a7941",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Adolescent Funk",
+      "release_date": "2010-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:12ZlprvnZpMuKc5KxvDLOU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/57nzuRRY9w7zIcjsCiVMkl"
+      },
+      "href": "https://api.spotify.com/v1/albums/57nzuRRY9w7zIcjsCiVMkl",
+      "id": "57nzuRRY9w7zIcjsCiVMkl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739286343d40458149fb2988fa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029286343d40458149fb2988fa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519286343d40458149fb2988fa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Toeachizown",
+      "release_date": "2009-10-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:57nzuRRY9w7zIcjsCiVMkl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4zXTHGHHaKQgM1VZLBNuBi"
+      },
+      "href": "https://api.spotify.com/v1/albums/4zXTHGHHaKQgM1VZLBNuBi",
+      "id": "4zXTHGHHaKQgM1VZLBNuBi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ca2170bb9f00f41fe25ec4c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022ca2170bb9f00f41fe25ec4c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512ca2170bb9f00f41fe25ec4c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rhythm Trax Vol. 4",
+      "release_date": "2009-01-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4zXTHGHHaKQgM1VZLBNuBi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "album_id": "3tA9Lj76F037FeAyDC6bkF",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WiK9IsQEQEuIQ1iDxvuPg",
+          "id": "0WiK9IsQEQEuIQ1iDxvuPg",
+          "name": "Johann Nepomuk Hummel",
+          "type": "artist",
+          "uri": "spotify:artist:0WiK9IsQEQEuIQ1iDxvuPg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 649133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3pXFFYc9Sy2BKtwuS9FxGh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3pXFFYc9Sy2BKtwuS9FxGh",
+      "id": "3pXFFYc9Sy2BKtwuS9FxGh",
+      "name": "Bassoon Concerto in F Major, S. 63, WoO 23: I. Allegro moderato",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3pXFFYc9Sy2BKtwuS9FxGh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WiK9IsQEQEuIQ1iDxvuPg",
+          "id": "0WiK9IsQEQEuIQ1iDxvuPg",
+          "name": "Johann Nepomuk Hummel",
+          "type": "artist",
+          "uri": "spotify:artist:0WiK9IsQEQEuIQ1iDxvuPg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 385533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0662bSdoKg8blAFDWApDJi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0662bSdoKg8blAFDWApDJi",
+      "id": "0662bSdoKg8blAFDWApDJi",
+      "name": "Bassoon Concerto in F Major, S. 63, WoO 23: II. Romanza. Andantino cantabile",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0662bSdoKg8blAFDWApDJi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WiK9IsQEQEuIQ1iDxvuPg",
+          "id": "0WiK9IsQEQEuIQ1iDxvuPg",
+          "name": "Johann Nepomuk Hummel",
+          "type": "artist",
+          "uri": "spotify:artist:0WiK9IsQEQEuIQ1iDxvuPg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 399000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ztmiD3TAWob2d23V5Fb7L"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ztmiD3TAWob2d23V5Fb7L",
+      "id": "6ztmiD3TAWob2d23V5Fb7L",
+      "name": "Bassoon Concerto in F Major, S. 63, WoO 23: III. Rondo. Vivace",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6ztmiD3TAWob2d23V5Fb7L",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+          },
+          "href": "https://api.spotify.com/v1/artists/1p6wR69pnH9LBWZvwliuz2",
+          "id": "1p6wR69pnH9LBWZvwliuz2",
+          "name": "Carl Maria von Weber",
+          "type": "artist",
+          "uri": "spotify:artist:1p6wR69pnH9LBWZvwliuz2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oFVi5YJh3wOKQ6IZJPYID"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oFVi5YJh3wOKQ6IZJPYID",
+      "id": "3oFVi5YJh3wOKQ6IZJPYID",
+      "name": "Andante e rondo ongarese, Op. 35, J. 158: I. Andante",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3oFVi5YJh3wOKQ6IZJPYID",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+          },
+          "href": "https://api.spotify.com/v1/artists/1p6wR69pnH9LBWZvwliuz2",
+          "id": "1p6wR69pnH9LBWZvwliuz2",
+          "name": "Carl Maria von Weber",
+          "type": "artist",
+          "uri": "spotify:artist:1p6wR69pnH9LBWZvwliuz2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 321266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2PIJ4ZmNTDOEi2Szdz9ZsK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2PIJ4ZmNTDOEi2Szdz9ZsK",
+      "id": "2PIJ4ZmNTDOEi2Szdz9ZsK",
+      "name": "Andante e rondo ongarese, Op. 35, J. 158: II. Rondo. Allegretto ungarese",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2PIJ4ZmNTDOEi2Szdz9ZsK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ky9trvRb2Iv69Qg3aK9fH"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ky9trvRb2Iv69Qg3aK9fH",
+          "id": "6ky9trvRb2Iv69Qg3aK9fH",
+          "name": "Franz Berwald",
+          "type": "artist",
+          "uri": "spotify:artist:6ky9trvRb2Iv69Qg3aK9fH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37rLGTHa7gJV0t9ufkPmee"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37rLGTHa7gJV0t9ufkPmee",
+      "id": "37rLGTHa7gJV0t9ufkPmee",
+      "name": "Concert Piece for Bassoon & Orchestra, Op. 2: Allegro",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:37rLGTHa7gJV0t9ufkPmee",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ky9trvRb2Iv69Qg3aK9fH"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ky9trvRb2Iv69Qg3aK9fH",
+          "id": "6ky9trvRb2Iv69Qg3aK9fH",
+          "name": "Franz Berwald",
+          "type": "artist",
+          "uri": "spotify:artist:6ky9trvRb2Iv69Qg3aK9fH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7yJbxaadeNE49qnyEUFI6r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7yJbxaadeNE49qnyEUFI6r",
+      "id": "7yJbxaadeNE49qnyEUFI6r",
+      "name": "Concert Piece for Bassoon & Orchestra, Op. 2: Andante",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7yJbxaadeNE49qnyEUFI6r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ky9trvRb2Iv69Qg3aK9fH"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ky9trvRb2Iv69Qg3aK9fH",
+          "id": "6ky9trvRb2Iv69Qg3aK9fH",
+          "name": "Franz Berwald",
+          "type": "artist",
+          "uri": "spotify:artist:6ky9trvRb2Iv69Qg3aK9fH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 132866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7AZ5PaD62Bxvzx73SjtddV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7AZ5PaD62Bxvzx73SjtddV",
+      "id": "7AZ5PaD62Bxvzx73SjtddV",
+      "name": "Concert Piece for Bassoon & Orchestra, Op. 2: Tempo I",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7AZ5PaD62Bxvzx73SjtddV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51boEBiwWslS3fb5CwK6C1"
+          },
+          "href": "https://api.spotify.com/v1/artists/51boEBiwWslS3fb5CwK6C1",
+          "id": "51boEBiwWslS3fb5CwK6C1",
+          "name": "Carl Jacobi",
+          "type": "artist",
+          "uri": "spotify:artist:51boEBiwWslS3fb5CwK6C1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 92240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/17xkWdS1k5RlAlOWxqZlFN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/17xkWdS1k5RlAlOWxqZlFN",
+      "id": "17xkWdS1k5RlAlOWxqZlFN",
+      "name": "Introduction & Polonaise, Op. 9: I. Introduction. Adagio",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:17xkWdS1k5RlAlOWxqZlFN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51boEBiwWslS3fb5CwK6C1"
+          },
+          "href": "https://api.spotify.com/v1/artists/51boEBiwWslS3fb5CwK6C1",
+          "id": "51boEBiwWslS3fb5CwK6C1",
+          "name": "Carl Jacobi",
+          "type": "artist",
+          "uri": "spotify:artist:51boEBiwWslS3fb5CwK6C1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 455626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7pSgDQswNIMPVVn6cUQBkm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7pSgDQswNIMPVVn6cUQBkm",
+      "id": "7pSgDQswNIMPVVn6cUQBkm",
+      "name": "Introduction & Polonaise, Op. 9: II. Polonaise",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7pSgDQswNIMPVVn6cUQBkm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          },
+          "href": "https://api.spotify.com/v1/artists/430byzy0c5bPn5opiu0SRd",
+          "id": "430byzy0c5bPn5opiu0SRd",
+          "name": "Edward Elgar",
+          "type": "artist",
+          "uri": "spotify:artist:430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 317866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7yW5ukfAdH5mvGoGvJnKC7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7yW5ukfAdH5mvGoGvJnKC7",
+      "id": "7yW5ukfAdH5mvGoGvJnKC7",
+      "name": "Romance, Op. 62",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7yW5ukfAdH5mvGoGvJnKC7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YuknfkSYTTbolRpwZBOv4",
+          "id": "1YuknfkSYTTbolRpwZBOv4",
+          "name": "George Gershwin",
+          "type": "artist",
+          "uri": "spotify:artist:1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqcJHqmGMxsGIMG60nJDD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqcJHqmGMxsGIMG60nJDD",
+          "id": "7pqcJHqmGMxsGIMG60nJDD",
+          "name": "Karen Geoghegan",
+          "type": "artist",
+          "uri": "spotify:artist:7pqcJHqmGMxsGIMG60nJDD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B8tWVgvp7Mjnu1rBTQdpu",
+          "id": "3B8tWVgvp7Mjnu1rBTQdpu",
+          "name": "The Orchestra Of Opera North",
+          "type": "artist",
+          "uri": "spotify:artist:3B8tWVgvp7Mjnu1rBTQdpu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 275437,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ZhlUHO7X7zI9hpZ0Dt8w5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ZhlUHO7X7zI9hpZ0Dt8w5",
+      "id": "5ZhlUHO7X7zI9hpZ0Dt8w5",
+      "name": "Porgy and Bess: Summertime (Arr. for Bassoon & Orchestra by David Arnold)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5ZhlUHO7X7zI9hpZ0Dt8w5",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "album_id": "6agmeioaDOBupymziJihgB",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+          "id": "3DiDSECUqqY1AuBP8qtaIa",
+          "name": "Alicia Keys",
+          "type": "artist",
+          "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 313266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pUUhsc8fmZqnsPaOSU5CP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pUUhsc8fmZqnsPaOSU5CP",
+      "id": "4pUUhsc8fmZqnsPaOSU5CP",
+      "name": "Fireworks",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4pUUhsc8fmZqnsPaOSU5CP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bnVNMCk5FJulcpS7aXJbY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3bnVNMCk5FJulcpS7aXJbY",
+      "id": "3bnVNMCk5FJulcpS7aXJbY",
+      "name": "Karaoke",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3bnVNMCk5FJulcpS7aXJbY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225360,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/31FWGQxshq14SCZvvyHae1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/31FWGQxshq14SCZvvyHae1",
+      "id": "31FWGQxshq14SCZvvyHae1",
+      "name": "The Resistance",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:31FWGQxshq14SCZvvyHae1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233560,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1EoHEkVcysf4WVDx6r9WzQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1EoHEkVcysf4WVDx6r9WzQ",
+      "id": "1EoHEkVcysf4WVDx6r9WzQ",
+      "name": "Over",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1EoHEkVcysf4WVDx6r9WzQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210360,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1G0JddH0MHVg4VE03vheBm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1G0JddH0MHVg4VE03vheBm",
+      "id": "1G0JddH0MHVg4VE03vheBm",
+      "name": "Show Me A Good Time",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1G0JddH0MHVg4VE03vheBm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/55YHftnlehUQQJoTSLKCxj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/55YHftnlehUQQJoTSLKCxj",
+      "id": "55YHftnlehUQQJoTSLKCxj",
+      "name": "Up All Night",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:55YHftnlehUQQJoTSLKCxj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cADQgiLMjNhbsfeN52Bf3",
+          "id": "2cADQgiLMjNhbsfeN52Bf3",
+          "name": "Swizz Beatz",
+          "type": "artist",
+          "uri": "spotify:artist:2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 319386,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/238Sekyg7DyN2XDm0z4oWY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/238Sekyg7DyN2XDm0z4oWY",
+      "id": "238Sekyg7DyN2XDm0z4oWY",
+      "name": "Fancy",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:238Sekyg7DyN2XDm0z4oWY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz",
+          "id": "1W3FSF1BLpY3hlVIgvenLz",
+          "name": "THE-DREAM",
+          "type": "artist",
+          "uri": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 419306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4BDgGQXx7jO2JgC7bpFsIv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4BDgGQXx7jO2JgC7bpFsIv",
+      "id": "4BDgGQXx7jO2JgC7bpFsIv",
+      "name": "Shut It Down",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4BDgGQXx7jO2JgC7bpFsIv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0XhOgqDKTQJhGfD1WBuTdC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0XhOgqDKTQJhGfD1WBuTdC",
+      "id": "0XhOgqDKTQJhGfD1WBuTdC",
+      "name": "Unforgettable",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0XhOgqDKTQJhGfD1WBuTdC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAŸ-Z",
+          "type": "artist",
+          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/23Cx5Jv0bsCMoUnoygy5jy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/23Cx5Jv0bsCMoUnoygy5jy",
+      "id": "23Cx5Jv0bsCMoUnoygy5jy",
+      "name": "Light Up",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:23Cx5Jv0bsCMoUnoygy5jy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/53VIWPPMz9S7ob0D8JxF9N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/53VIWPPMz9S7ob0D8JxF9N",
+      "id": "53VIWPPMz9S7ob0D8JxF9N",
+      "name": "Miss Me",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:53VIWPPMz9S7ob0D8JxF9N",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 154120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/147TR5QZzxTnnwqltaRi4N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/147TR5QZzxTnnwqltaRi4N",
+      "id": "147TR5QZzxTnnwqltaRi4N",
+      "name": "Cece's Interlude",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:147TR5QZzxTnnwqltaRi4N",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18PSaTJMLkFNWnW0NWdOAW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18PSaTJMLkFNWnW0NWdOAW",
+      "id": "18PSaTJMLkFNWnW0NWdOAW",
+      "name": "Find Your Love",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:18PSaTJMLkFNWnW0NWdOAW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 328573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Us8wh9hCAQ8Uq1ast5CWz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Us8wh9hCAQ8Uq1ast5CWz",
+      "id": "5Us8wh9hCAQ8Uq1ast5CWz",
+      "name": "Thank Me Now",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5Us8wh9hCAQ8Uq1ast5CWz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GxHeBvQ9935Dd3cSfsfBa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GxHeBvQ9935Dd3cSfsfBa",
+      "id": "1GxHeBvQ9935Dd3cSfsfBa",
+      "name": "Best I Ever Had",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1GxHeBvQ9935Dd3cSfsfBa",
+      "is_local": false
+    }
+  ]
+}

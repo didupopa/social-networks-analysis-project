@@ -1,0 +1,557 @@
+{
+  "album_id": "6WvE2UQwrUGkrYxWDaUnXn",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+          "id": "0YC192cP3KPCRWx8zr8MfZ",
+          "name": "Hans Zimmer",
+          "type": "artist",
+          "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 301776,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Hv28pWkMnY8DaXO49WtXX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Hv28pWkMnY8DaXO49WtXX",
+      "id": "6Hv28pWkMnY8DaXO49WtXX",
+      "name": "Seven Worlds One Planet Suite",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Hv28pWkMnY8DaXO49WtXX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 364306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qpRKNGWuCZf42m5ZrCWzA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qpRKNGWuCZf42m5ZrCWzA",
+      "id": "6qpRKNGWuCZf42m5ZrCWzA",
+      "name": "European Macaques",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6qpRKNGWuCZf42m5ZrCWzA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 120213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/68jNUywqJrSQM8lflbCRID"
+      },
+      "href": "https://api.spotify.com/v1/tracks/68jNUywqJrSQM8lflbCRID",
+      "id": "68jNUywqJrSQM8lflbCRID",
+      "name": "Northern Lights",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:68jNUywqJrSQM8lflbCRID",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5SLYrZCzHg0pjRhxaBMfQp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5SLYrZCzHg0pjRhxaBMfQp",
+      "id": "5SLYrZCzHg0pjRhxaBMfQp",
+      "name": "Mayflies",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5SLYrZCzHg0pjRhxaBMfQp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3BLpVFV5hvNrpwY6mswpku"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3BLpVFV5hvNrpwY6mswpku",
+      "id": "3BLpVFV5hvNrpwY6mswpku",
+      "name": "Battling Musk Ox",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3BLpVFV5hvNrpwY6mswpku",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 133866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/06lFXwvE9ps8VzOBvn5xoY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/06lFXwvE9ps8VzOBvn5xoY",
+      "id": "06lFXwvE9ps8VzOBvn5xoY",
+      "name": "The House of Gods (Angel Falls)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:06lFXwvE9ps8VzOBvn5xoY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 141413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pVyWE1hIITb7RS21sdD9T"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pVyWE1hIITb7RS21sdD9T",
+      "id": "4pVyWE1hIITb7RS21sdD9T",
+      "name": "Cotton-Top Tamarins",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4pVyWE1hIITb7RS21sdD9T",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 104306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/16eLEYELYebDLuGrlc1Opz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/16eLEYELYebDLuGrlc1Opz",
+      "id": "16eLEYELYebDLuGrlc1Opz",
+      "name": "South Georgia Whaling Station",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:16eLEYELYebDLuGrlc1Opz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5CvqoDsCrGLoSx4WkLm5yK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5CvqoDsCrGLoSx4WkLm5yK",
+      "id": "5CvqoDsCrGLoSx4WkLm5yK",
+      "name": "A Monumental Feat",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5CvqoDsCrGLoSx4WkLm5yK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Z9qEctycBVEyfZtaaskcS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Z9qEctycBVEyfZtaaskcS",
+      "id": "0Z9qEctycBVEyfZtaaskcS",
+      "name": "Canadian Lynx",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0Z9qEctycBVEyfZtaaskcS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262664,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6sjhsnSBvURgbe4ZkcpuVy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6sjhsnSBvURgbe4ZkcpuVy",
+      "id": "6sjhsnSBvURgbe4ZkcpuVy",
+      "name": "Great Dusky Swifts",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6sjhsnSBvURgbe4ZkcpuVy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 106506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61fLC8w1LQ9cpZTnkYt4KD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61fLC8w1LQ9cpZTnkYt4KD",
+      "id": "61fLC8w1LQ9cpZTnkYt4KD",
+      "name": "Survival",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:61fLC8w1LQ9cpZTnkYt4KD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4fthXJgBMeWrP0pcnSnVBb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4fthXJgBMeWrP0pcnSnVBb",
+      "id": "4fthXJgBMeWrP0pcnSnVBb",
+      "name": "Fireflies",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4fthXJgBMeWrP0pcnSnVBb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4YvQkkF99BT7202Hvw6er0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4YvQkkF99BT7202Hvw6er0",
+      "id": "4YvQkkF99BT7202Hvw6er0",
+      "name": "Albatross Facing Extinction",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4YvQkkF99BT7202Hvw6er0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 404496,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PQAxPZkStwe3WbFUWvmYg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PQAxPZkStwe3WbFUWvmYg",
+      "id": "6PQAxPZkStwe3WbFUWvmYg",
+      "name": "Australian Cassowary",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:6PQAxPZkStwe3WbFUWvmYg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35ssFeVUM7cKDw0Bh2j8pb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/35ssFeVUM7cKDw0Bh2j8pb",
+      "id": "35ssFeVUM7cKDw0Bh2j8pb",
+      "name": "The Brown Hyena of Namibia",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:35ssFeVUM7cKDw0Bh2j8pb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 423613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3GU1CkIU8ifBR93z9Qtz26"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3GU1CkIU8ifBR93z9Qtz26",
+      "id": "3GU1CkIU8ifBR93z9Qtz26",
+      "name": "Cheetahs of Kenya",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:3GU1CkIU8ifBR93z9Qtz26",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6x3Nt6KvNX3YnSKBXbp091"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6x3Nt6KvNX3YnSKBXbp091",
+      "id": "6x3Nt6KvNX3YnSKBXbp091",
+      "name": "The Golden Snub Nosed Monkeys",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:6x3Nt6KvNX3YnSKBXbp091",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 126493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6C2UKK6wTnrwXV64jIRkaO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6C2UKK6wTnrwXV64jIRkaO",
+      "id": "6C2UKK6wTnrwXV64jIRkaO",
+      "name": "South American Puma",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:6C2UKK6wTnrwXV64jIRkaO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZjUUrNDmi4N4Ey5UTMebc",
+          "id": "0ZjUUrNDmi4N4Ey5UTMebc",
+          "name": "Jacob Shea",
+          "type": "artist",
+          "uri": "spotify:artist:0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 421240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3pRdd4ZTRFf5elvaMXREsG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3pRdd4ZTRFf5elvaMXREsG",
+      "id": "3pRdd4ZTRFf5elvaMXREsG",
+      "name": "Conservation",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:3pRdd4ZTRFf5elvaMXREsG",
+      "is_local": false
+    }
+  ]
+}

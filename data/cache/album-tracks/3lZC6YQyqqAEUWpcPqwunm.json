@@ -1,0 +1,631 @@
+{
+  "album_id": "3lZC6YQyqqAEUWpcPqwunm",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kP7uq9ghAPWYACObStkSG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kP7uq9ghAPWYACObStkSG",
+          "id": "5kP7uq9ghAPWYACObStkSG",
+          "name": "DJ Winn",
+          "type": "artist",
+          "uri": "spotify:artist:5kP7uq9ghAPWYACObStkSG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238636,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hb771f1em1keGy1K87pHb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hb771f1em1keGy1K87pHb",
+      "id": "2hb771f1em1keGy1K87pHb",
+      "name": "Coast 2 Coast",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2hb771f1em1keGy1K87pHb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244977,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oDVjI05LZVR1HPRaXa8iF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oDVjI05LZVR1HPRaXa8iF",
+      "id": "3oDVjI05LZVR1HPRaXa8iF",
+      "name": "Too Many Foreigns",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3oDVjI05LZVR1HPRaXa8iF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kP7uq9ghAPWYACObStkSG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kP7uq9ghAPWYACObStkSG",
+          "id": "5kP7uq9ghAPWYACObStkSG",
+          "name": "DJ Winn",
+          "type": "artist",
+          "uri": "spotify:artist:5kP7uq9ghAPWYACObStkSG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257440,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rQfU1vKYT4xYUOhDytxav"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4rQfU1vKYT4xYUOhDytxav",
+      "id": "4rQfU1vKYT4xYUOhDytxav",
+      "name": "For Days - Special Version",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4rQfU1vKYT4xYUOhDytxav",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261540,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25YvzZyLyLEPDzBBMEBlYC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25YvzZyLyLEPDzBBMEBlYC",
+      "id": "25YvzZyLyLEPDzBBMEBlYC",
+      "name": "One Time",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:25YvzZyLyLEPDzBBMEBlYC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kP7uq9ghAPWYACObStkSG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kP7uq9ghAPWYACObStkSG",
+          "id": "5kP7uq9ghAPWYACObStkSG",
+          "name": "DJ Winn",
+          "type": "artist",
+          "uri": "spotify:artist:5kP7uq9ghAPWYACObStkSG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198429,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6H5hUqbUH0gV8rzc91keGZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6H5hUqbUH0gV8rzc91keGZ",
+      "id": "6H5hUqbUH0gV8rzc91keGZ",
+      "name": "Ride For Me",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6H5hUqbUH0gV8rzc91keGZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5agoUtTyDo4hRHT2CRx6Jk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5agoUtTyDo4hRHT2CRx6Jk",
+          "id": "5agoUtTyDo4hRHT2CRx6Jk",
+          "name": "Heavy Lyrics",
+          "type": "artist",
+          "uri": "spotify:artist:5agoUtTyDo4hRHT2CRx6Jk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 353653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1EwJ1gW0MUqDCxjQ7qc6VF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1EwJ1gW0MUqDCxjQ7qc6VF",
+      "id": "1EwJ1gW0MUqDCxjQ7qc6VF",
+      "name": "Popped Up",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1EwJ1gW0MUqDCxjQ7qc6VF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kP7uq9ghAPWYACObStkSG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kP7uq9ghAPWYACObStkSG",
+          "id": "5kP7uq9ghAPWYACObStkSG",
+          "name": "DJ Winn",
+          "type": "artist",
+          "uri": "spotify:artist:5kP7uq9ghAPWYACObStkSG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 291747,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Gral3yCQcncBr7DgV6UDJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Gral3yCQcncBr7DgV6UDJ",
+      "id": "4Gral3yCQcncBr7DgV6UDJ",
+      "name": "You Lost Me",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4Gral3yCQcncBr7DgV6UDJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SQsxrJH8xhWa8dVnvzhmZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4SQsxrJH8xhWa8dVnvzhmZ",
+      "id": "4SQsxrJH8xhWa8dVnvzhmZ",
+      "name": "Temptation",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4SQsxrJH8xhWa8dVnvzhmZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250461,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6lgrEoMF2vfHoHqNpJzSge"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6lgrEoMF2vfHoHqNpJzSge",
+      "id": "6lgrEoMF2vfHoHqNpJzSge",
+      "name": "Different Vibe",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6lgrEoMF2vfHoHqNpJzSge",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 323312,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HvTLSsCtA5tDKPv6VmPBT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HvTLSsCtA5tDKPv6VmPBT",
+      "id": "5HvTLSsCtA5tDKPv6VmPBT",
+      "name": "Energy",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5HvTLSsCtA5tDKPv6VmPBT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kP7uq9ghAPWYACObStkSG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kP7uq9ghAPWYACObStkSG",
+          "id": "5kP7uq9ghAPWYACObStkSG",
+          "name": "DJ Winn",
+          "type": "artist",
+          "uri": "spotify:artist:5kP7uq9ghAPWYACObStkSG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0BQvEsn4wqK4JK1peNsOhf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0BQvEsn4wqK4JK1peNsOhf",
+      "id": "0BQvEsn4wqK4JK1peNsOhf",
+      "name": "Trouble - Special Version",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0BQvEsn4wqK4JK1peNsOhf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MwCsuSjI0BXBncyU5gXks"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MwCsuSjI0BXBncyU5gXks",
+          "id": "3MwCsuSjI0BXBncyU5gXks",
+          "name": "Yo Simi",
+          "type": "artist",
+          "uri": "spotify:artist:3MwCsuSjI0BXBncyU5gXks"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DGJ4oXRhjc2mSqTjLG9nD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DGJ4oXRhjc2mSqTjLG9nD",
+          "id": "5DGJ4oXRhjc2mSqTjLG9nD",
+          "name": "Dredloc Esco",
+          "type": "artist",
+          "uri": "spotify:artist:5DGJ4oXRhjc2mSqTjLG9nD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 365456,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36RtdN5cv3cgFmfl8ZgE1X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36RtdN5cv3cgFmfl8ZgE1X",
+      "id": "36RtdN5cv3cgFmfl8ZgE1X",
+      "name": "Vegas",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:36RtdN5cv3cgFmfl8ZgE1X",
+      "is_local": false
+    }
+  ]
+}

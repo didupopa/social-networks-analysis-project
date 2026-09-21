@@ -1,0 +1,579 @@
+{
+  "album_id": "7p5kCsgZFwE9tWNojFMkUH",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3M40ySTwNk2adC3NFLL3Zn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3M40ySTwNk2adC3NFLL3Zn",
+          "id": "3M40ySTwNk2adC3NFLL3Zn",
+          "name": "Droop-E",
+          "type": "artist",
+          "uri": "spotify:artist:3M40ySTwNk2adC3NFLL3Zn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 32933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1olCXFD1XXRQ2DxcmNJrv2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1olCXFD1XXRQ2DxcmNJrv2",
+      "id": "1olCXFD1XXRQ2DxcmNJrv2",
+      "name": "Intro (feat. Droop-E)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1olCXFD1XXRQ2DxcmNJrv2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4KaPpMa2dJyBtUS2UoJTyM",
+          "id": "4KaPpMa2dJyBtUS2UoJTyM",
+          "name": "Turf Talk",
+          "type": "artist",
+          "uri": "spotify:artist:4KaPpMa2dJyBtUS2UoJTyM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YKGmHr5finTbKcDe6isu6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YKGmHr5finTbKcDe6isu6",
+          "id": "4YKGmHr5finTbKcDe6isu6",
+          "name": "Tha Hoodstarz",
+          "type": "artist",
+          "uri": "spotify:artist:4YKGmHr5finTbKcDe6isu6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4FJX6gw7qMAJQ1ZpRpQDZt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4FJX6gw7qMAJQ1ZpRpQDZt",
+      "id": "4FJX6gw7qMAJQ1ZpRpQDZt",
+      "name": "Bull Shit (feat. Tha Hoodstarz, Turf Talk & E-40)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4FJX6gw7qMAJQ1ZpRpQDZt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YQXoV45yziHKTzFIDKX47"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YQXoV45yziHKTzFIDKX47",
+          "id": "5YQXoV45yziHKTzFIDKX47",
+          "name": "A2ThaK",
+          "type": "artist",
+          "uri": "spotify:artist:5YQXoV45yziHKTzFIDKX47"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y2cViWa8CKtSgklg1t9th"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y2cViWa8CKtSgklg1t9th",
+          "id": "7y2cViWa8CKtSgklg1t9th",
+          "name": "Young Dru",
+          "type": "artist",
+          "uri": "spotify:artist:7y2cViWa8CKtSgklg1t9th"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0dpQ5yjdUTGZdMe0qj6zUw"
+          },
+          "href": "https://api.spotify.com/v1/artists/0dpQ5yjdUTGZdMe0qj6zUw",
+          "id": "0dpQ5yjdUTGZdMe0qj6zUw",
+          "name": "Lay-Low",
+          "type": "artist",
+          "uri": "spotify:artist:0dpQ5yjdUTGZdMe0qj6zUw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2pCr13jLg4mcXucE3qxXy1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2pCr13jLg4mcXucE3qxXy1",
+      "id": "2pCr13jLg4mcXucE3qxXy1",
+      "name": "Break U Down (feat. A2thaK, Young Dru & Lay Low)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2pCr13jLg4mcXucE3qxXy1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zmrbS8FjmjH2BceEXN7jD"
+          },
+          "href": "https://api.spotify.com/v1/artists/4zmrbS8FjmjH2BceEXN7jD",
+          "id": "4zmrbS8FjmjH2BceEXN7jD",
+          "name": "Bavgate",
+          "type": "artist",
+          "uri": "spotify:artist:4zmrbS8FjmjH2BceEXN7jD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155386,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wBkB7avzLtFBuRfhhZpuw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wBkB7avzLtFBuRfhhZpuw",
+      "id": "6wBkB7avzLtFBuRfhhZpuw",
+      "name": "On the Radio (feat. Bavgate)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6wBkB7avzLtFBuRfhhZpuw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78uvLR3AjKFKLNUuB7bHsS"
+          },
+          "href": "https://api.spotify.com/v1/artists/78uvLR3AjKFKLNUuB7bHsS",
+          "id": "78uvLR3AjKFKLNUuB7bHsS",
+          "name": "Money Gang",
+          "type": "artist",
+          "uri": "spotify:artist:78uvLR3AjKFKLNUuB7bHsS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189106,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0EYeJGefk9xl6jQZXJYKFr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0EYeJGefk9xl6jQZXJYKFr",
+      "id": "0EYeJGefk9xl6jQZXJYKFr",
+      "name": "Back in Effect (feat. Money Gang)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0EYeJGefk9xl6jQZXJYKFr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sPpJhevOYz54gNgeh2LaV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sPpJhevOYz54gNgeh2LaV",
+          "id": "1sPpJhevOYz54gNgeh2LaV",
+          "name": "Keak Da Sneak",
+          "type": "artist",
+          "uri": "spotify:artist:1sPpJhevOYz54gNgeh2LaV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tNNRVogNcykBY5XORWt4H"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tNNRVogNcykBY5XORWt4H",
+          "id": "1tNNRVogNcykBY5XORWt4H",
+          "name": "P.S.D.",
+          "type": "artist",
+          "uri": "spotify:artist:1tNNRVogNcykBY5XORWt4H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3JHvMaPvco6uDZkGCRrlSc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3JHvMaPvco6uDZkGCRrlSc",
+      "id": "3JHvMaPvco6uDZkGCRrlSc",
+      "name": "Show Me the Deer Foot (feat. P.S.D. & Keak Da Sneak)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3JHvMaPvco6uDZkGCRrlSc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2935lTRIFRc4NA4p9NMqgS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2935lTRIFRc4NA4p9NMqgS",
+          "id": "2935lTRIFRc4NA4p9NMqgS",
+          "name": "The Team",
+          "type": "artist",
+          "uri": "spotify:artist:2935lTRIFRc4NA4p9NMqgS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216346,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7uZoUsHGK3aTV6mrcIxTac"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7uZoUsHGK3aTV6mrcIxTac",
+      "id": "7uZoUsHGK3aTV6mrcIxTac",
+      "name": "Smoke Wit Me (feat. the Team)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7uZoUsHGK3aTV6mrcIxTac",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05xjW5X3K40kE3psmF7wEr"
+          },
+          "href": "https://api.spotify.com/v1/artists/05xjW5X3K40kE3psmF7wEr",
+          "id": "05xjW5X3K40kE3psmF7wEr",
+          "name": "The DB'z",
+          "type": "artist",
+          "uri": "spotify:artist:05xjW5X3K40kE3psmF7wEr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2siGjmQewQwJ1uS9dIyyp2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2siGjmQewQwJ1uS9dIyyp2",
+      "id": "2siGjmQewQwJ1uS9dIyyp2",
+      "name": "Get Busy (feat. The D.B.'z)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2siGjmQewQwJ1uS9dIyyp2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/18jS3V7OkXYfDu3CEK6a0T"
+          },
+          "href": "https://api.spotify.com/v1/artists/18jS3V7OkXYfDu3CEK6a0T",
+          "id": "18jS3V7OkXYfDu3CEK6a0T",
+          "name": "Mac Mall",
+          "type": "artist",
+          "uri": "spotify:artist:18jS3V7OkXYfDu3CEK6a0T"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XSJnOpcQFd9DwqMPFNdek"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XSJnOpcQFd9DwqMPFNdek",
+      "id": "5XSJnOpcQFd9DwqMPFNdek",
+      "name": "Slobber (feat. Mac Mall)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5XSJnOpcQFd9DwqMPFNdek",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50fYZVX6P0HOK5oBeNj2tn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50fYZVX6P0HOK5oBeNj2tn",
+          "id": "50fYZVX6P0HOK5oBeNj2tn",
+          "name": "The Mossie",
+          "type": "artist",
+          "uri": "spotify:artist:50fYZVX6P0HOK5oBeNj2tn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4KaPpMa2dJyBtUS2UoJTyM",
+          "id": "4KaPpMa2dJyBtUS2UoJTyM",
+          "name": "Turf Talk",
+          "type": "artist",
+          "uri": "spotify:artist:4KaPpMa2dJyBtUS2UoJTyM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zwLUiI8Ciyyfar0oOybwn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zwLUiI8Ciyyfar0oOybwn",
+          "id": "3zwLUiI8Ciyyfar0oOybwn",
+          "name": "The Federation",
+          "type": "artist",
+          "uri": "spotify:artist:3zwLUiI8Ciyyfar0oOybwn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242946,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1BGLWYzgmzXm36tLonemch"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1BGLWYzgmzXm36tLonemch",
+      "id": "1BGLWYzgmzXm36tLonemch",
+      "name": "Go Ignat (feat. E-40, The Mossie, Turf Talk, & the Federation)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1BGLWYzgmzXm36tLonemch",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zyXH4nmCoskBxwQf1G2Sn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zyXH4nmCoskBxwQf1G2Sn",
+          "id": "3zyXH4nmCoskBxwQf1G2Sn",
+          "name": "Sky Balla",
+          "type": "artist",
+          "uri": "spotify:artist:3zyXH4nmCoskBxwQf1G2Sn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257426,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ziNVVwLljr412cjVIrFMr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ziNVVwLljr412cjVIrFMr",
+      "id": "7ziNVVwLljr412cjVIrFMr",
+      "name": "Young Rich Kid (feat. Sky Balla)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7ziNVVwLljr412cjVIrFMr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zG99MOjfpkKnku9puVApB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zG99MOjfpkKnku9puVApB",
+          "id": "7zG99MOjfpkKnku9puVApB",
+          "name": "Ya Boy",
+          "type": "artist",
+          "uri": "spotify:artist:7zG99MOjfpkKnku9puVApB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lkPydJppIPd2K9jJkfmMC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lkPydJppIPd2K9jJkfmMC",
+          "id": "5lkPydJppIPd2K9jJkfmMC",
+          "name": "Big Rich",
+          "type": "artist",
+          "uri": "spotify:artist:5lkPydJppIPd2K9jJkfmMC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bdcgpONT6uKXDYgHixCZq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3bdcgpONT6uKXDYgHixCZq",
+      "id": "3bdcgpONT6uKXDYgHixCZq",
+      "name": "Meet the Dealers (feat. Big Rich & Ya Boy)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3bdcgpONT6uKXDYgHixCZq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6xfXOynOjn3MERgKUD00JI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6xfXOynOjn3MERgKUD00JI",
+          "id": "6xfXOynOjn3MERgKUD00JI",
+          "name": "The Factors",
+          "type": "artist",
+          "uri": "spotify:artist:6xfXOynOjn3MERgKUD00JI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/57y0pylaSsnwWNO4i3i3U2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/57y0pylaSsnwWNO4i3i3U2",
+      "id": "57y0pylaSsnwWNO4i3i3U2",
+      "name": "In My Hood (feat. The Factors)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:57y0pylaSsnwWNO4i3i3U2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4KaPpMa2dJyBtUS2UoJTyM",
+          "id": "4KaPpMa2dJyBtUS2UoJTyM",
+          "name": "Turf Talk",
+          "type": "artist",
+          "uri": "spotify:artist:4KaPpMa2dJyBtUS2UoJTyM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/282vn8wu65PfGKSBdUMrHB"
+          },
+          "href": "https://api.spotify.com/v1/artists/282vn8wu65PfGKSBdUMrHB",
+          "id": "282vn8wu65PfGKSBdUMrHB",
+          "name": "J. Minix",
+          "type": "artist",
+          "uri": "spotify:artist:282vn8wu65PfGKSBdUMrHB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lEwaCaTnwRNJ9ktzzjyIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lEwaCaTnwRNJ9ktzzjyIT",
+          "id": "1lEwaCaTnwRNJ9ktzzjyIT",
+          "name": "Mac Shawn",
+          "type": "artist",
+          "uri": "spotify:artist:1lEwaCaTnwRNJ9ktzzjyIT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Ck39gWuTOJxQ2ymF7FJpL"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Ck39gWuTOJxQ2ymF7FJpL",
+          "id": "6Ck39gWuTOJxQ2ymF7FJpL",
+          "name": "Lil Bruce",
+          "type": "artist",
+          "uri": "spotify:artist:6Ck39gWuTOJxQ2ymF7FJpL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/69wJ8uhNQuE806K3Bs6TSE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/69wJ8uhNQuE806K3Bs6TSE",
+      "id": "69wJ8uhNQuE806K3Bs6TSE",
+      "name": "Bay Business (feat. Mac Shawn, Lil Bruce, Turf Talk & J Minix)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:69wJ8uhNQuE806K3Bs6TSE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05xjW5X3K40kE3psmF7wEr"
+          },
+          "href": "https://api.spotify.com/v1/artists/05xjW5X3K40kE3psmF7wEr",
+          "id": "05xjW5X3K40kE3psmF7wEr",
+          "name": "The DB'z",
+          "type": "artist",
+          "uri": "spotify:artist:05xjW5X3K40kE3psmF7wEr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4kqVdFiISQLAe4Tm8Jbnbj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4kqVdFiISQLAe4Tm8Jbnbj",
+      "id": "4kqVdFiISQLAe4Tm8Jbnbj",
+      "name": "No Trouble (feat. The D.B.'z & E-40)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4kqVdFiISQLAe4Tm8Jbnbj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5"
+          },
+          "href": "https://api.spotify.com/v1/artists/2eVoGlAScaB4z8MPO029K5",
+          "id": "2eVoGlAScaB4z8MPO029K5",
+          "name": "Stres",
+          "type": "artist",
+          "uri": "spotify:artist:2eVoGlAScaB4z8MPO029K5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05xjW5X3K40kE3psmF7wEr"
+          },
+          "href": "https://api.spotify.com/v1/artists/05xjW5X3K40kE3psmF7wEr",
+          "id": "05xjW5X3K40kE3psmF7wEr",
+          "name": "The DB'z",
+          "type": "artist",
+          "uri": "spotify:artist:05xjW5X3K40kE3psmF7wEr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272346,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39tzPfOHVcJ5rDsIQpFlRH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39tzPfOHVcJ5rDsIQpFlRH",
+      "id": "39tzPfOHVcJ5rDsIQpFlRH",
+      "name": "The Dummy (feat. The D.B.'z & Stress-Matic)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:39tzPfOHVcJ5rDsIQpFlRH",
+      "is_local": false
+    }
+  ]
+}

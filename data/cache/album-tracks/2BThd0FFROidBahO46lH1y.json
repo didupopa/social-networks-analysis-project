@@ -1,0 +1,840 @@
+{
+  "album_id": "2BThd0FFROidBahO46lH1y",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ZaicRL707OxFeVMxQXczh"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ZaicRL707OxFeVMxQXczh",
+          "id": "1ZaicRL707OxFeVMxQXczh",
+          "name": "Stresmatic",
+          "type": "artist",
+          "uri": "spotify:artist:1ZaicRL707OxFeVMxQXczh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 175240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1psJqlXiG7q2geMZOWztID"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1psJqlXiG7q2geMZOWztID",
+      "id": "1psJqlXiG7q2geMZOWztID",
+      "name": "Life Lessons (feat. Stresmatic)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1psJqlXiG7q2geMZOWztID",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24ngis2o3GAXDhVWW4tnHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/24ngis2o3GAXDhVWW4tnHH",
+          "id": "24ngis2o3GAXDhVWW4tnHH",
+          "name": "Ocky",
+          "type": "artist",
+          "uri": "spotify:artist:24ngis2o3GAXDhVWW4tnHH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200030,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Ej4lkp7GFxRCGlci6hBEx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Ej4lkp7GFxRCGlci6hBEx",
+      "id": "3Ej4lkp7GFxRCGlci6hBEx",
+      "name": "Straight Like That (feat. Ocky)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3Ej4lkp7GFxRCGlci6hBEx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QLM9IFaHBtB16b8ZDaA3A",
+          "id": "2QLM9IFaHBtB16b8ZDaA3A",
+          "name": "P-Lo",
+          "type": "artist",
+          "uri": "spotify:artist:2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221287,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2YjFfpWIEWu4F7BFxevDqv",
+      "id": "2YjFfpWIEWu4F7BFxevDqv",
+      "name": "Boy (feat. P-Lo)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2YjFfpWIEWu4F7BFxevDqv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KKrFdVfbyO4nxkudD5UpE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4KKrFdVfbyO4nxkudD5UpE",
+      "id": "4KKrFdVfbyO4nxkudD5UpE",
+      "name": "Guilty By Association",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4KKrFdVfbyO4nxkudD5UpE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210847,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18hIOLwl7DcminEumeLdrx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18hIOLwl7DcminEumeLdrx",
+      "id": "18hIOLwl7DcminEumeLdrx",
+      "name": "Carpal Tunnel",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:18hIOLwl7DcminEumeLdrx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 20748,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6e9Ub8xSsWgVvjKgWKqIRA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6e9Ub8xSsWgVvjKgWKqIRA",
+      "id": "6e9Ub8xSsWgVvjKgWKqIRA",
+      "name": "Stompdown - Skit 1",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6e9Ub8xSsWgVvjKgWKqIRA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ZaicRL707OxFeVMxQXczh"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ZaicRL707OxFeVMxQXczh",
+          "id": "1ZaicRL707OxFeVMxQXczh",
+          "name": "Stresmatic",
+          "type": "artist",
+          "uri": "spotify:artist:1ZaicRL707OxFeVMxQXczh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228088,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4jgHApISmogdd1X5DJfb5g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4jgHApISmogdd1X5DJfb5g",
+      "id": "4jgHApISmogdd1X5DJfb5g",
+      "name": "Meet The Dealers (feat. Stresmatic)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4jgHApISmogdd1X5DJfb5g",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24ngis2o3GAXDhVWW4tnHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/24ngis2o3GAXDhVWW4tnHH",
+          "id": "24ngis2o3GAXDhVWW4tnHH",
+          "name": "Ocky",
+          "type": "artist",
+          "uri": "spotify:artist:24ngis2o3GAXDhVWW4tnHH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214804,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4gP4GYep9sEPlSHKzuZYc1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4gP4GYep9sEPlSHKzuZYc1",
+      "id": "4gP4GYep9sEPlSHKzuZYc1",
+      "name": "Get It On My Own (feat. Ocky)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4gP4GYep9sEPlSHKzuZYc1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222545,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0HDQ86D65ewyowbQTyyU79"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0HDQ86D65ewyowbQTyyU79",
+      "id": "0HDQ86D65ewyowbQTyyU79",
+      "name": "Up Against It",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0HDQ86D65ewyowbQTyyU79",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/76iA4ibUsojQnLPscvrr9g"
+          },
+          "href": "https://api.spotify.com/v1/artists/76iA4ibUsojQnLPscvrr9g",
+          "id": "76iA4ibUsojQnLPscvrr9g",
+          "name": "JT The 4th",
+          "type": "artist",
+          "uri": "spotify:artist:76iA4ibUsojQnLPscvrr9g"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 138018,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1JYxse8kzVd2jECFFG5L7X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1JYxse8kzVd2jECFFG5L7X",
+      "id": "1JYxse8kzVd2jECFFG5L7X",
+      "name": "Fsho (feat. JT The 4th)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1JYxse8kzVd2jECFFG5L7X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66rzsIT4PWKYvcxijbtXe1"
+          },
+          "href": "https://api.spotify.com/v1/artists/66rzsIT4PWKYvcxijbtXe1",
+          "id": "66rzsIT4PWKYvcxijbtXe1",
+          "name": "DecadeZ",
+          "type": "artist",
+          "uri": "spotify:artist:66rzsIT4PWKYvcxijbtXe1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184883,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7EU3I4KDg9U9GrBVwa4gCH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7EU3I4KDg9U9GrBVwa4gCH",
+      "id": "7EU3I4KDg9U9GrBVwa4gCH",
+      "name": "Whooped (feat. DecadeZ)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7EU3I4KDg9U9GrBVwa4gCH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kortApcf0ntRWexUkJE4H",
+          "id": "3kortApcf0ntRWexUkJE4H",
+          "name": "Uncle Murda",
+          "type": "artist",
+          "uri": "spotify:artist:3kortApcf0ntRWexUkJE4H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196958,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5c4H2oRvHwKdiy2KREBDvy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5c4H2oRvHwKdiy2KREBDvy",
+      "id": "5c4H2oRvHwKdiy2KREBDvy",
+      "name": "Tap In (feat. Uncle Murda)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5c4H2oRvHwKdiy2KREBDvy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4f0JIvLda5Q2TeqaOJaW68"
+          },
+          "href": "https://api.spotify.com/v1/artists/4f0JIvLda5Q2TeqaOJaW68",
+          "id": "4f0JIvLda5Q2TeqaOJaW68",
+          "name": "4 rAx",
+          "type": "artist",
+          "uri": "spotify:artist:4f0JIvLda5Q2TeqaOJaW68"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270071,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Qw2IQwMgBLEMFFzXxCIUY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Qw2IQwMgBLEMFFzXxCIUY",
+      "id": "3Qw2IQwMgBLEMFFzXxCIUY",
+      "name": "You Ah Lie (feat. 4Rax)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3Qw2IQwMgBLEMFFzXxCIUY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rDXcEIODl8TgGTgrntnjX",
+          "id": "5rDXcEIODl8TgGTgrntnjX",
+          "name": "Rexx Life Raj",
+          "type": "artist",
+          "uri": "spotify:artist:5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184728,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Mv47zVgQ92emMNu6O1FLC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Mv47zVgQ92emMNu6O1FLC",
+      "id": "2Mv47zVgQ92emMNu6O1FLC",
+      "name": "Need To Know (feat. Rexx Life Raj)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2Mv47zVgQ92emMNu6O1FLC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 25517,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25m3O9N10gQNNNIfrIceBa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25m3O9N10gQNNNIfrIceBa",
+      "id": "25m3O9N10gQNNNIfrIceBa",
+      "name": "Stompdown - Skit 2",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:25m3O9N10gQNNNIfrIceBa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 142883,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SMEBajYhOQqGYxUKZClon"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SMEBajYhOQqGYxUKZClon",
+      "id": "1SMEBajYhOQqGYxUKZClon",
+      "name": "Bare",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1SMEBajYhOQqGYxUKZClon",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ZaicRL707OxFeVMxQXczh"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ZaicRL707OxFeVMxQXczh",
+          "id": "1ZaicRL707OxFeVMxQXczh",
+          "name": "Stresmatic",
+          "type": "artist",
+          "uri": "spotify:artist:1ZaicRL707OxFeVMxQXczh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216987,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Dxk757GKhpLNGNL14zvOd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Dxk757GKhpLNGNL14zvOd",
+      "id": "1Dxk757GKhpLNGNL14zvOd",
+      "name": "Barbershop (feat. Stresmatic)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:1Dxk757GKhpLNGNL14zvOd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s1xcekYgnSkBm8QK1uBYD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s1xcekYgnSkBm8QK1uBYD",
+          "id": "3s1xcekYgnSkBm8QK1uBYD",
+          "name": "The Click",
+          "type": "artist",
+          "uri": "spotify:artist:3s1xcekYgnSkBm8QK1uBYD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146008,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/04YfRkuBjbWZYUNaRLeOYu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/04YfRkuBjbWZYUNaRLeOYu",
+      "id": "04YfRkuBjbWZYUNaRLeOYu",
+      "name": "Blame It (feat. The Click)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:04YfRkuBjbWZYUNaRLeOYu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nltEpEZtqZD1v4YJLlaZI",
+          "id": "6nltEpEZtqZD1v4YJLlaZI",
+          "name": "B-Legit",
+          "type": "artist",
+          "uri": "spotify:artist:6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YVvO4Eo0bw3iGdLVriudq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YVvO4Eo0bw3iGdLVriudq",
+          "id": "5YVvO4Eo0bw3iGdLVriudq",
+          "name": "Prohoezak",
+          "type": "artist",
+          "uri": "spotify:artist:5YVvO4Eo0bw3iGdLVriudq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213323,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GhWjSmk5o6YAHqEpPpn3i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GhWjSmk5o6YAHqEpPpn3i",
+      "id": "1GhWjSmk5o6YAHqEpPpn3i",
+      "name": "So High (feat. ProHoeZak)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:1GhWjSmk5o6YAHqEpPpn3i",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "album_id": "4nGTosPgLkugoGeNMCO8qW",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3spodygzJKEc3EYDwFCZEf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3spodygzJKEc3EYDwFCZEf",
+          "id": "3spodygzJKEc3EYDwFCZEf",
+          "name": "UTP",
+          "type": "artist",
+          "uri": "spotify:artist:3spodygzJKEc3EYDwFCZEf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QfoWu1gurezianenkhcd9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0QfoWu1gurezianenkhcd9",
+      "id": "0QfoWu1gurezianenkhcd9",
+      "name": "You Ready",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0QfoWu1gurezianenkhcd9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234746,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4btsd75tNqhEwtiRUxbcl3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4btsd75tNqhEwtiRUxbcl3",
+      "id": "4btsd75tNqhEwtiRUxbcl3",
+      "name": "Sip It",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4btsd75tNqhEwtiRUxbcl3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4DLrk39ixg2woXKfVnSpIb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4DLrk39ixg2woXKfVnSpIb",
+      "id": "4DLrk39ixg2woXKfVnSpIb",
+      "name": "What You Drinkin On?",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4DLrk39ixg2woXKfVnSpIb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6IVRPpJRqrq3LHtQInzjTZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6IVRPpJRqrq3LHtQInzjTZ",
+      "id": "6IVRPpJRqrq3LHtQInzjTZ",
+      "name": "Money in the Bag",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6IVRPpJRqrq3LHtQInzjTZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4TiKuBD81ldTn7z783vJRD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4TiKuBD81ldTn7z783vJRD",
+      "id": "4TiKuBD81ldTn7z783vJRD",
+      "name": "Still Riding",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4TiKuBD81ldTn7z783vJRD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ewiluMoPMmHAiO0hGPmiT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ewiluMoPMmHAiO0hGPmiT",
+          "id": "1ewiluMoPMmHAiO0hGPmiT",
+          "name": "Tha Gamblaz",
+          "type": "artist",
+          "uri": "spotify:artist:1ewiluMoPMmHAiO0hGPmiT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265986,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SRrnBQvJmwMqQ8aONuIEW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4SRrnBQvJmwMqQ8aONuIEW",
+      "id": "4SRrnBQvJmwMqQ8aONuIEW",
+      "name": "Represent That Fillmoe",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4SRrnBQvJmwMqQ8aONuIEW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7LEkiJMlzze8mX3m2gArty"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7LEkiJMlzze8mX3m2gArty",
+      "id": "7LEkiJMlzze8mX3m2gArty",
+      "name": "Get It Get It",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7LEkiJMlzze8mX3m2gArty",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 340906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39SskSWog8Xuz2Z2silHWX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39SskSWog8Xuz2Z2silHWX",
+      "id": "39SskSWog8Xuz2Z2silHWX",
+      "name": "The Spot",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:39SskSWog8Xuz2Z2silHWX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/609CQtpsdH64KYpYBTbGES"
+          },
+          "href": "https://api.spotify.com/v1/artists/609CQtpsdH64KYpYBTbGES",
+          "id": "609CQtpsdH64KYpYBTbGES",
+          "name": "Lord Nez",
+          "type": "artist",
+          "uri": "spotify:artist:609CQtpsdH64KYpYBTbGES"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1AzP0S4p8421C8f1EOVWA2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1AzP0S4p8421C8f1EOVWA2",
+      "id": "1AzP0S4p8421C8f1EOVWA2",
+      "name": "Bluesteele",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1AzP0S4p8421C8f1EOVWA2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 281746,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4hosoFjsgIOVv4lZau7skD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4hosoFjsgIOVv4lZau7skD",
+      "id": "4hosoFjsgIOVv4lZau7skD",
+      "name": "All Bout It",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4hosoFjsgIOVv4lZau7skD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78V4VlKVJss75XBz4s4QV4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78V4VlKVJss75XBz4s4QV4",
+      "id": "78V4VlKVJss75XBz4s4QV4",
+      "name": "When It's Hot",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:78V4VlKVJss75XBz4s4QV4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zwLUiI8Ciyyfar0oOybwn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zwLUiI8Ciyyfar0oOybwn",
+          "id": "3zwLUiI8Ciyyfar0oOybwn",
+          "name": "The Federation",
+          "type": "artist",
+          "uri": "spotify:artist:3zwLUiI8Ciyyfar0oOybwn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/18jS3V7OkXYfDu3CEK6a0T"
+          },
+          "href": "https://api.spotify.com/v1/artists/18jS3V7OkXYfDu3CEK6a0T",
+          "id": "18jS3V7OkXYfDu3CEK6a0T",
+          "name": "Mac Mall",
+          "type": "artist",
+          "uri": "spotify:artist:18jS3V7OkXYfDu3CEK6a0T"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51dYQJq2kQU3ONaqmw8z5l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51dYQJq2kQU3ONaqmw8z5l",
+      "id": "51dYQJq2kQU3ONaqmw8z5l",
+      "name": "Get There",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:51dYQJq2kQU3ONaqmw8z5l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5QoPmqq8UfE0zsTWkM3CQD",
+          "id": "5QoPmqq8UfE0zsTWkM3CQD",
+          "name": "Messy Marv",
+          "type": "artist",
+          "uri": "spotify:artist:5QoPmqq8UfE0zsTWkM3CQD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Q5sPmM8j4SpMqL4UA1DtS",
+          "id": "4Q5sPmM8j4SpMqL4UA1DtS",
+          "name": "Lil' Flip",
+          "type": "artist",
+          "uri": "spotify:artist:4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216186,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7efjZ9Tzwt89Ecmg1s8clU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7efjZ9Tzwt89Ecmg1s8clU",
+      "id": "7efjZ9Tzwt89Ecmg1s8clU",
+      "name": "Cuz We Want To",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:7efjZ9Tzwt89Ecmg1s8clU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5iIHNZ5OP3G71D7kaJMOZX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5iIHNZ5OP3G71D7kaJMOZX",
+      "id": "5iIHNZ5OP3G71D7kaJMOZX",
+      "name": "Street Runner",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5iIHNZ5OP3G71D7kaJMOZX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7qZz1VeTRZwHo8ApOVn3Um"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7qZz1VeTRZwHo8ApOVn3Um",
+      "id": "7qZz1VeTRZwHo8ApOVn3Um",
+      "name": "The Remix",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7qZz1VeTRZwHo8ApOVn3Um",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isGOirtB2b8KU8wNpeIxn"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isGOirtB2b8KU8wNpeIxn",
+          "id": "4isGOirtB2b8KU8wNpeIxn",
+          "name": "Dred",
+          "type": "artist",
+          "uri": "spotify:artist:4isGOirtB2b8KU8wNpeIxn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3QmRUP9sC78QQVUZ16C8wm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3QmRUP9sC78QQVUZ16C8wm",
+          "id": "3QmRUP9sC78QQVUZ16C8wm",
+          "name": "D-Boyz",
+          "type": "artist",
+          "uri": "spotify:artist:3QmRUP9sC78QQVUZ16C8wm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6c7sVlqUH9veYVbXp3JYOH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6c7sVlqUH9veYVbXp3JYOH",
+      "id": "6c7sVlqUH9veYVbXp3JYOH",
+      "name": "Down for the Cause",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6c7sVlqUH9veYVbXp3JYOH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jp3Fk52x0HbymU0lNYbSC",
+          "id": "2jp3Fk52x0HbymU0lNYbSC",
+          "name": "Outlawz",
+          "type": "artist",
+          "uri": "spotify:artist:2jp3Fk52x0HbymU0lNYbSC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YBxHO5q7auScbgCc0XS7n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YBxHO5q7auScbgCc0XS7n",
+      "id": "0YBxHO5q7auScbgCc0XS7n",
+      "name": "The Projects Love Me",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0YBxHO5q7auScbgCc0XS7n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0napPQNzPhwVmVM6AMNfAx"
+          },
+          "href": "https://api.spotify.com/v1/artists/0napPQNzPhwVmVM6AMNfAx",
+          "id": "0napPQNzPhwVmVM6AMNfAx",
+          "name": "Skip",
+          "type": "artist",
+          "uri": "spotify:artist:0napPQNzPhwVmVM6AMNfAx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6sE2DoeB0dHHziRMuA23fr"
+          },
+          "href": "https://api.spotify.com/v1/artists/6sE2DoeB0dHHziRMuA23fr",
+          "id": "6sE2DoeB0dHHziRMuA23fr",
+          "name": "Loyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:6sE2DoeB0dHHziRMuA23fr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6xOKJrMmd7rWBy21E0F7Vk"
+          },
+          "href": "https://api.spotify.com/v1/artists/6xOKJrMmd7rWBy21E0F7Vk",
+          "id": "6xOKJrMmd7rWBy21E0F7Vk",
+          "name": "Wacko",
+          "type": "artist",
+          "uri": "spotify:artist:6xOKJrMmd7rWBy21E0F7Vk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist",
+          "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36MXlTe7RkIbdKvv04RezD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36MXlTe7RkIbdKvv04RezD",
+      "id": "36MXlTe7RkIbdKvv04RezD",
+      "name": "How I Get Down",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:36MXlTe7RkIbdKvv04RezD",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "artist_id": "3DELNHPLdJgXkDHOTt3ok8",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0W8eSVMCkF6C4CpvtDtOyZ",
+      "id": "0W8eSVMCkF6C4CpvtDtOyZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2d534a193f41fe2829459ee",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2d534a193f41fe2829459ee",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b2d534a193f41fe2829459ee",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SNOOP CUBE 40 $HORT",
+      "release_date": "2022-12-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0W8eSVMCkF6C4CpvtDtOyZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DELNHPLdJgXkDHOTt3ok8",
+          "id": "3DELNHPLdJgXkDHOTt3ok8",
+          "name": "MOUNT WESTMORE",
+          "type": "artist",
+          "uri": "spotify:artist:3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+          "id": "3Mcii5XWf6E0lrY3Uky4cA",
+          "name": "Ice Cube",
+          "type": "artist",
+          "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ]
+    }
+  ]
+}

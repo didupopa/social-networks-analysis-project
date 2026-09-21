@@ -1,0 +1,911 @@
+{
+  "album_id": "2UJyfvvmr6xj41NPVXIaX4",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2eRVbdgG2F5PkHLjd8FD80"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2eRVbdgG2F5PkHLjd8FD80",
+      "id": "2eRVbdgG2F5PkHLjd8FD80",
+      "name": "Bonkers",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2eRVbdgG2F5PkHLjd8FD80",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2kv7yi39GSKCqOusGzCI3e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2kv7yi39GSKCqOusGzCI3e",
+      "id": "2kv7yi39GSKCqOusGzCI3e",
+      "name": "On My Own",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2kv7yi39GSKCqOusGzCI3e",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221426,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kcsWb5SqvwJaNUx9inzl4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kcsWb5SqvwJaNUx9inzl4",
+      "id": "5kcsWb5SqvwJaNUx9inzl4",
+      "name": "Playing wit Dem Bands",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5kcsWb5SqvwJaNUx9inzl4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181200,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ohK82hvqRd85M6R5XNjAB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ohK82hvqRd85M6R5XNjAB",
+      "id": "1ohK82hvqRd85M6R5XNjAB",
+      "name": "Akafoo",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1ohK82hvqRd85M6R5XNjAB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0KXw6Qtm4DquD9FvRwgASO"
+          },
+          "href": "https://api.spotify.com/v1/artists/0KXw6Qtm4DquD9FvRwgASO",
+          "id": "0KXw6Qtm4DquD9FvRwgASO",
+          "name": "Qrock",
+          "type": "artist",
+          "uri": "spotify:artist:0KXw6Qtm4DquD9FvRwgASO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5e5XjGLdJaD8D0nCQLZML0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5e5XjGLdJaD8D0nCQLZML0",
+      "id": "5e5XjGLdJaD8D0nCQLZML0",
+      "name": "Shit Don't Stank",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5e5XjGLdJaD8D0nCQLZML0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159986,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sVuKIaB836QwJeLuTRkxv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5sVuKIaB836QwJeLuTRkxv",
+      "id": "5sVuKIaB836QwJeLuTRkxv",
+      "name": "Since You Been Gone",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5sVuKIaB836QwJeLuTRkxv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195386,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aCG5sfE3ofOzggUQkCI6v"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aCG5sfE3ofOzggUQkCI6v",
+      "id": "0aCG5sfE3ofOzggUQkCI6v",
+      "name": "Trappin and Workin",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0aCG5sfE3ofOzggUQkCI6v",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252186,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Jp4EbGVuyYStkdzoZjMQ5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Jp4EbGVuyYStkdzoZjMQ5",
+      "id": "4Jp4EbGVuyYStkdzoZjMQ5",
+      "name": "Gooned Up",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4Jp4EbGVuyYStkdzoZjMQ5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Ui7ClxHnZQcTZtqa3EuNx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Ui7ClxHnZQcTZtqa3EuNx",
+          "id": "5Ui7ClxHnZQcTZtqa3EuNx",
+          "name": "Spazz Alino",
+          "type": "artist",
+          "uri": "spotify:artist:5Ui7ClxHnZQcTZtqa3EuNx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2uYf72jNq1RT8vr5ygiH1b"
+          },
+          "href": "https://api.spotify.com/v1/artists/2uYf72jNq1RT8vr5ygiH1b",
+          "id": "2uYf72jNq1RT8vr5ygiH1b",
+          "name": "Joe Gutta",
+          "type": "artist",
+          "uri": "spotify:artist:2uYf72jNq1RT8vr5ygiH1b"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7jJr8zFxMZ8moRvf5MN0I4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7jJr8zFxMZ8moRvf5MN0I4",
+      "id": "7jJr8zFxMZ8moRvf5MN0I4",
+      "name": "Red Everything",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7jJr8zFxMZ8moRvf5MN0I4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1PEriWHTZXeudPkVNWP0x0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1PEriWHTZXeudPkVNWP0x0",
+      "id": "1PEriWHTZXeudPkVNWP0x0",
+      "name": "Checks",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1PEriWHTZXeudPkVNWP0x0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0P8FKBZt2vubInMYCvfXEX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0P8FKBZt2vubInMYCvfXEX",
+      "id": "0P8FKBZt2vubInMYCvfXEX",
+      "name": "Come From",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0P8FKBZt2vubInMYCvfXEX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BJUPpdlCh2TyyatZ0AFPH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5BJUPpdlCh2TyyatZ0AFPH",
+      "id": "5BJUPpdlCh2TyyatZ0AFPH",
+      "name": "Flyin Spur",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5BJUPpdlCh2TyyatZ0AFPH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/07bvBpblESLR1KUtUkjAoj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/07bvBpblESLR1KUtUkjAoj",
+      "id": "07bvBpblESLR1KUtUkjAoj",
+      "name": "She Flexin (Remix)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:07bvBpblESLR1KUtUkjAoj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 125440,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2miG9AKmryq7TFgC4mBQSY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2miG9AKmryq7TFgC4mBQSY",
+      "id": "2miG9AKmryq7TFgC4mBQSY",
+      "name": "On Lean Again",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2miG9AKmryq7TFgC4mBQSY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Ui7ClxHnZQcTZtqa3EuNx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Ui7ClxHnZQcTZtqa3EuNx",
+          "id": "5Ui7ClxHnZQcTZtqa3EuNx",
+          "name": "Spazz Alino",
+          "type": "artist",
+          "uri": "spotify:artist:5Ui7ClxHnZQcTZtqa3EuNx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51rMIHsvz3UT9I8Q4Oo8sH"
+          },
+          "href": "https://api.spotify.com/v1/artists/51rMIHsvz3UT9I8Q4Oo8sH",
+          "id": "51rMIHsvz3UT9I8Q4Oo8sH",
+          "name": "SJG",
+          "type": "artist",
+          "uri": "spotify:artist:51rMIHsvz3UT9I8Q4Oo8sH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7eafa3ayf18II5kvSmL0Fl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7eafa3ayf18II5kvSmL0Fl",
+      "id": "7eafa3ayf18II5kvSmL0Fl",
+      "name": "Campaingn",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7eafa3ayf18II5kvSmL0Fl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1pvZXnnijfKHi7V8ZDpRAE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1pvZXnnijfKHi7V8ZDpRAE",
+      "id": "1pvZXnnijfKHi7V8ZDpRAE",
+      "name": "All Kinda Racks",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1pvZXnnijfKHi7V8ZDpRAE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/47uT2RlQo7Esy6RwtRhphu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/47uT2RlQo7Esy6RwtRhphu",
+      "id": "47uT2RlQo7Esy6RwtRhphu",
+      "name": "Hideaway",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:47uT2RlQo7Esy6RwtRhphu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1dZySuVXCZ2nv9PxZ4KvoR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1dZySuVXCZ2nv9PxZ4KvoR",
+      "id": "1dZySuVXCZ2nv9PxZ4KvoR",
+      "name": "Respect My Flexin",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:1dZySuVXCZ2nv9PxZ4KvoR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xLIE3M1JYVI43ICwDsuV9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2xLIE3M1JYVI43ICwDsuV9",
+      "id": "2xLIE3M1JYVI43ICwDsuV9",
+      "name": "Like Me",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:2xLIE3M1JYVI43ICwDsuV9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1zveG9pDtMLXphy3ymBBdZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1zveG9pDtMLXphy3ymBBdZ",
+      "id": "1zveG9pDtMLXphy3ymBBdZ",
+      "name": "Mandatory B.I.",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:1zveG9pDtMLXphy3ymBBdZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0XL7ajI8u1DciqgH8T3ZdT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0XL7ajI8u1DciqgH8T3ZdT",
+      "id": "0XL7ajI8u1DciqgH8T3ZdT",
+      "name": "You and I",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:0XL7ajI8u1DciqgH8T3ZdT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09ci97mGlIVzXxSRGEKPxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/09ci97mGlIVzXxSRGEKPxl",
+          "id": "09ci97mGlIVzXxSRGEKPxl",
+          "name": "JT The Bigga Figga",
+          "type": "artist",
+          "uri": "spotify:artist:09ci97mGlIVzXxSRGEKPxl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nvfc77DQAWv0JiwfICV5d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nvfc77DQAWv0JiwfICV5d",
+          "id": "4nvfc77DQAWv0JiwfICV5d",
+          "name": "Ashton Cartez",
+          "type": "artist",
+          "uri": "spotify:artist:4nvfc77DQAWv0JiwfICV5d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mJjtNcoeECLZOkQroIJMF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mJjtNcoeECLZOkQroIJMF",
+      "id": "7mJjtNcoeECLZOkQroIJMF",
+      "name": "Zans",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:7mJjtNcoeECLZOkQroIJMF",
+      "is_local": false
+    }
+  ]
+}

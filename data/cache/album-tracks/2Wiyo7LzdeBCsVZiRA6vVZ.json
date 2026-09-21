@@ -1,0 +1,901 @@
+{
+  "album_id": "2Wiyo7LzdeBCsVZiRA6vVZ",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 52061,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xQTo7wPYHZtFbHAoygz2c"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xQTo7wPYHZtFbHAoygz2c",
+      "id": "3xQTo7wPYHZtFbHAoygz2c",
+      "name": "Donda Chant",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3xQTo7wPYHZtFbHAoygz2c",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist",
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243187,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0TAUAUIEtq06TdQDVlUSxW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0TAUAUIEtq06TdQDVlUSxW",
+      "id": "0TAUAUIEtq06TdQDVlUSxW",
+      "name": "Hurricane",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0TAUAUIEtq06TdQDVlUSxW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156091,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0tffNoL4418lhzZmJJFNB7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0tffNoL4418lhzZmJJFNB7",
+      "id": "0tffNoL4418lhzZmJJFNB7",
+      "name": "Moon",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0tffNoL4418lhzZmJJFNB7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          },
+          "href": "https://api.spotify.com/v1/artists/74V3dE1a51skRkdII8y2C6",
+          "id": "74V3dE1a51skRkdII8y2C6",
+          "name": "André 3000",
+          "type": "artist",
+          "uri": "spotify:artist:74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 391656,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2yBb1CRq98SSWRuDSn36SZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2yBb1CRq98SSWRuDSn36SZ",
+      "id": "2yBb1CRq98SSWRuDSn36SZ",
+      "name": "Life Of The Party (with André 3000)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2yBb1CRq98SSWRuDSn36SZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 339249,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YYMXRKWFKESvU7XVK5JlE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YYMXRKWFKESvU7XVK5JlE",
+      "id": "0YYMXRKWFKESvU7XVK5JlE",
+      "name": "Off The Grid",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0YYMXRKWFKESvU7XVK5JlE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0pZjPa9tKXRF3j4Y9IqhTJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0pZjPa9tKXRF3j4Y9IqhTJ",
+      "id": "0pZjPa9tKXRF3j4Y9IqhTJ",
+      "name": "Jail",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0pZjPa9tKXRF3j4Y9IqhTJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226652,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/32ZGcotUVtU3Zfz9lmM8Mi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/32ZGcotUVtU3Zfz9lmM8Mi",
+      "id": "32ZGcotUVtU3Zfz9lmM8Mi",
+      "name": "Praise God",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:32ZGcotUVtU3Zfz9lmM8Mi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 310393,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14VMRC6EbRfeub5SkIXiad"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14VMRC6EbRfeub5SkIXiad",
+      "id": "14VMRC6EbRfeub5SkIXiad",
+      "name": "Come to Life",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:14VMRC6EbRfeub5SkIXiad",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3F2XxZ8aFAHxYhTeTsIiNZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3F2XxZ8aFAHxYhTeTsIiNZ",
+      "id": "3F2XxZ8aFAHxYhTeTsIiNZ",
+      "name": "Believe What I Say",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3F2XxZ8aFAHxYhTeTsIiNZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178061,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ynrKyFuLEVeSk6QiJsYhB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ynrKyFuLEVeSk6QiJsYhB",
+      "id": "6ynrKyFuLEVeSk6QiJsYhB",
+      "name": "No Child Left Behind",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6ynrKyFuLEVeSk6QiJsYhB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162364,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6MTtOV150uwitRZz4anI2h"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6MTtOV150uwitRZz4anI2h",
+      "id": "6MTtOV150uwitRZz4anI2h",
+      "name": "Up From The Ashes",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6MTtOV150uwitRZz4anI2h",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 323454,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5TRekQsv96kQezYd8TkilW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5TRekQsv96kQezYd8TkilW",
+      "id": "5TRekQsv96kQezYd8TkilW",
+      "name": "Remote Control pt 2",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5TRekQsv96kQezYd8TkilW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 333461,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1nGNm9hTNOcM1rA4SVS4zj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1nGNm9hTNOcM1rA4SVS4zj",
+      "id": "1nGNm9hTNOcM1rA4SVS4zj",
+      "name": "God Breathed",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:1nGNm9hTNOcM1rA4SVS4zj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162108,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2pLgJ5ygFlbIABtKrDpqaA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2pLgJ5ygFlbIABtKrDpqaA",
+      "id": "2pLgJ5ygFlbIABtKrDpqaA",
+      "name": "Lord I Need You",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2pLgJ5ygFlbIABtKrDpqaA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197898,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37Tw2Q4aDxHafSy0Nej9va"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37Tw2Q4aDxHafSy0Nej9va",
+      "id": "37Tw2Q4aDxHafSy0Nej9va",
+      "name": "24",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:37Tw2Q4aDxHafSy0Nej9va",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147668,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6yapX2xaCTlMixwkk5S8P7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6yapX2xaCTlMixwkk5S8P7",
+      "id": "6yapX2xaCTlMixwkk5S8P7",
+      "name": "Junya",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6yapX2xaCTlMixwkk5S8P7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207441,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dz1JB89afkeSv509J5Po7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dz1JB89afkeSv509J5Po7",
+      "id": "2dz1JB89afkeSv509J5Po7",
+      "name": "Never Abandon Your Family",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:2dz1JB89afkeSv509J5Po7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 128313,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xaoZLMCII9FjSqM3YNKTG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xaoZLMCII9FjSqM3YNKTG",
+      "id": "3xaoZLMCII9FjSqM3YNKTG",
+      "name": "Donda",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:3xaoZLMCII9FjSqM3YNKTG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221250,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5zO3iS6KgrXA20ZXc9zMdI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5zO3iS6KgrXA20ZXc9zMdI",
+      "id": "5zO3iS6KgrXA20ZXc9zMdI",
+      "name": "Keep My Spirit Alive",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:5zO3iS6KgrXA20ZXc9zMdI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 725853,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3UlYBTkShcEsMYSXtC5Vu1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3UlYBTkShcEsMYSXtC5Vu1",
+      "id": "3UlYBTkShcEsMYSXtC5Vu1",
+      "name": "Jesus Lord pt 2",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:3UlYBTkShcEsMYSXtC5Vu1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 145301,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RBDuitibQKdeZOgiebP8X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RBDuitibQKdeZOgiebP8X",
+      "id": "1RBDuitibQKdeZOgiebP8X",
+      "name": "Heaven and Hell",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:1RBDuitibQKdeZOgiebP8X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dLAbJZQpnyClhMI84oyOU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5dLAbJZQpnyClhMI84oyOU",
+      "id": "5dLAbJZQpnyClhMI84oyOU",
+      "name": "Remote Control",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:5dLAbJZQpnyClhMI84oyOU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 104218,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2czzDTZuEHmz1y6kQR7rnn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2czzDTZuEHmz1y6kQR7rnn",
+      "id": "2czzDTZuEHmz1y6kQR7rnn",
+      "name": "Tell The Vision",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:2czzDTZuEHmz1y6kQR7rnn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195170,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1JMp4KfBdxYRh7mFKA6Cbo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1JMp4KfBdxYRh7mFKA6Cbo",
+      "id": "1JMp4KfBdxYRh7mFKA6Cbo",
+      "name": "Jonah",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:1JMp4KfBdxYRh7mFKA6Cbo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 358621,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3KXh1h4Yy3YEtB8Hhyfk6k"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3KXh1h4Yy3YEtB8Hhyfk6k",
+      "id": "3KXh1h4Yy3YEtB8Hhyfk6k",
+      "name": "Pure Souls",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:3KXh1h4Yy3YEtB8Hhyfk6k",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204629,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4nqw8c0IQJu5rEo2529ymO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4nqw8c0IQJu5rEo2529ymO",
+      "id": "4nqw8c0IQJu5rEo2529ymO",
+      "name": "Ok Ok",
+      "track_number": 26,
+      "type": "track",
+      "uri": "spotify:track:4nqw8c0IQJu5rEo2529ymO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183296,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZV2BPm2SmqCZEGCfjQdpX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZV2BPm2SmqCZEGCfjQdpX",
+      "id": "2ZV2BPm2SmqCZEGCfjQdpX",
+      "name": "New Again",
+      "track_number": 27,
+      "type": "track",
+      "uri": "spotify:track:2ZV2BPm2SmqCZEGCfjQdpX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 573658,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ArMa3vL5il1ngyxkEFQh0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ArMa3vL5il1ngyxkEFQh0",
+      "id": "7ArMa3vL5il1ngyxkEFQh0",
+      "name": "Jesus Lord",
+      "track_number": 28,
+      "type": "track",
+      "uri": "spotify:track:7ArMa3vL5il1ngyxkEFQh0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 154490,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/76JygoN64nFFsgOEAPVlzO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/76JygoN64nFFsgOEAPVlzO",
+      "id": "76JygoN64nFFsgOEAPVlzO",
+      "name": "Ok Ok pt 2",
+      "track_number": 29,
+      "type": "track",
+      "uri": "spotify:track:76JygoN64nFFsgOEAPVlzO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182635,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jxtPdcRycy87IAnkq2HT3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jxtPdcRycy87IAnkq2HT3",
+      "id": "1jxtPdcRycy87IAnkq2HT3",
+      "name": "Junya pt 2",
+      "track_number": 30,
+      "type": "track",
+      "uri": "spotify:track:1jxtPdcRycy87IAnkq2HT3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 296795,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Q8KEe2G03s3URJ0PtYBOU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Q8KEe2G03s3URJ0PtYBOU",
+      "id": "4Q8KEe2G03s3URJ0PtYBOU",
+      "name": "Jail pt 2",
+      "track_number": 31,
+      "type": "track",
+      "uri": "spotify:track:4Q8KEe2G03s3URJ0PtYBOU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221250,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2CxKBeqB9MPl8aT12ukLjF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2CxKBeqB9MPl8aT12ukLjF",
+      "id": "2CxKBeqB9MPl8aT12ukLjF",
+      "name": "Keep My Spirit Alive pt 2",
+      "track_number": 32,
+      "type": "track",
+      "uri": "spotify:track:2CxKBeqB9MPl8aT12ukLjF",
+      "is_local": false
+    }
+  ]
+}

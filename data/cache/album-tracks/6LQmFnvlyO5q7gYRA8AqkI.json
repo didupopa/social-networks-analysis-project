@@ -1,0 +1,618 @@
+{
+  "album_id": "6LQmFnvlyO5q7gYRA8AqkI",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5B4xzSKEka9Letqlbz3eao"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5B4xzSKEka9Letqlbz3eao",
+      "id": "5B4xzSKEka9Letqlbz3eao",
+      "name": "What the Word",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5B4xzSKEka9Letqlbz3eao",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pSmXsC9n57EM7qKTpJxeW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5pSmXsC9n57EM7qKTpJxeW",
+      "id": "5pSmXsC9n57EM7qKTpJxeW",
+      "name": "Waverace64",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5pSmXsC9n57EM7qKTpJxeW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235267,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HyjYTZYyqJ495EP7wlwQl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HyjYTZYyqJ495EP7wlwQl",
+      "id": "5HyjYTZYyqJ495EP7wlwQl",
+      "name": "Lie 2 Me",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5HyjYTZYyqJ495EP7wlwQl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JNuNI4pqOp9xsPjhwV70O"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JNuNI4pqOp9xsPjhwV70O",
+      "id": "5JNuNI4pqOp9xsPjhwV70O",
+      "name": "Bring in the Band",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5JNuNI4pqOp9xsPjhwV70O",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7JS71OFMBPPZnMmWDYGNx4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7JS71OFMBPPZnMmWDYGNx4",
+      "id": "7JS71OFMBPPZnMmWDYGNx4",
+      "name": "New Phone",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7JS71OFMBPPZnMmWDYGNx4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 311867,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qPuQGEXxGXsALHPVDi1nW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qPuQGEXxGXsALHPVDi1nW",
+      "id": "5qPuQGEXxGXsALHPVDi1nW",
+      "name": "Mad at Me",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5qPuQGEXxGXsALHPVDi1nW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164051,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0fhWb5vttvAukxAAtNlkzR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0fhWb5vttvAukxAAtNlkzR",
+      "id": "0fhWb5vttvAukxAAtNlkzR",
+      "name": "Bydks",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0fhWb5vttvAukxAAtNlkzR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36e2F9E8YJIKOv1EVXwgJy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36e2F9E8YJIKOv1EVXwgJy",
+      "id": "36e2F9E8YJIKOv1EVXwgJy",
+      "name": "Chemistry",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:36e2F9E8YJIKOv1EVXwgJy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 105867,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ars5OU03wDsyvONRXwVwt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ars5OU03wDsyvONRXwVwt",
+      "id": "6ars5OU03wDsyvONRXwVwt",
+      "name": "Heee!",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6ars5OU03wDsyvONRXwVwt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156867,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1CD76lWOGSxTJyzkmIA4my"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1CD76lWOGSxTJyzkmIA4my",
+      "id": "1CD76lWOGSxTJyzkmIA4my",
+      "name": "Pick It up",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1CD76lWOGSxTJyzkmIA4my",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2IFfip902x1Yh40Hy9ECiY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2IFfip902x1Yh40Hy9ECiY",
+      "id": "2IFfip902x1Yh40Hy9ECiY",
+      "name": "Like Mike",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2IFfip902x1Yh40Hy9ECiY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 131333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PLcNe2TnPNR2pEuynARZY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PLcNe2TnPNR2pEuynARZY",
+      "id": "6PLcNe2TnPNR2pEuynARZY",
+      "name": "Freezer",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6PLcNe2TnPNR2pEuynARZY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 138320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uYMefnjFKnnr6VzXMJXJ1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uYMefnjFKnnr6VzXMJXJ1",
+      "id": "0uYMefnjFKnnr6VzXMJXJ1",
+      "name": "I Gotta",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0uYMefnjFKnnr6VzXMJXJ1",
+      "is_local": false
+    }
+  ]
+}

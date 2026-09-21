@@ -1,0 +1,702 @@
+{
+  "album_id": "3ZlyoMG6JNPTCbnn9wcch8",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Pcri3SDnsDUJN4FMojmSP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Pcri3SDnsDUJN4FMojmSP",
+          "id": "0Pcri3SDnsDUJN4FMojmSP",
+          "name": "John Schmolck",
+          "type": "artist",
+          "uri": "spotify:artist:0Pcri3SDnsDUJN4FMojmSP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AwhuIQi7IHAqiG0tCHzbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AwhuIQi7IHAqiG0tCHzbZ",
+          "id": "6AwhuIQi7IHAqiG0tCHzbZ",
+          "name": "St. John's Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:6AwhuIQi7IHAqiG0tCHzbZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 480066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4F4qGh8PlH0zn7HIz1RfLn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4F4qGh8PlH0zn7HIz1RfLn",
+      "id": "4F4qGh8PlH0zn7HIz1RfLn",
+      "name": "Escape Velocity",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4F4qGh8PlH0zn7HIz1RfLn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jwtuGXYddkJm7TSoJuoT2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jwtuGXYddkJm7TSoJuoT2",
+          "id": "7jwtuGXYddkJm7TSoJuoT2",
+          "name": "Michael Collins",
+          "type": "artist",
+          "uri": "spotify:artist:7jwtuGXYddkJm7TSoJuoT2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AwhuIQi7IHAqiG0tCHzbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AwhuIQi7IHAqiG0tCHzbZ",
+          "id": "6AwhuIQi7IHAqiG0tCHzbZ",
+          "name": "St. John's Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:6AwhuIQi7IHAqiG0tCHzbZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10VdsxC0YhKnlllP1qtxpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/10VdsxC0YhKnlllP1qtxpn",
+          "id": "10VdsxC0YhKnlllP1qtxpn",
+          "name": "John Lubbock",
+          "type": "artist",
+          "uri": "spotify:artist:10VdsxC0YhKnlllP1qtxpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ilFBbjfAE9LesWjP0bD7H"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ilFBbjfAE9LesWjP0bD7H",
+      "id": "0ilFBbjfAE9LesWjP0bD7H",
+      "name": "Clarinet Concertino: I. —",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0ilFBbjfAE9LesWjP0bD7H",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jwtuGXYddkJm7TSoJuoT2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jwtuGXYddkJm7TSoJuoT2",
+          "id": "7jwtuGXYddkJm7TSoJuoT2",
+          "name": "Michael Collins",
+          "type": "artist",
+          "uri": "spotify:artist:7jwtuGXYddkJm7TSoJuoT2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AwhuIQi7IHAqiG0tCHzbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AwhuIQi7IHAqiG0tCHzbZ",
+          "id": "6AwhuIQi7IHAqiG0tCHzbZ",
+          "name": "St. John's Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:6AwhuIQi7IHAqiG0tCHzbZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10VdsxC0YhKnlllP1qtxpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/10VdsxC0YhKnlllP1qtxpn",
+          "id": "10VdsxC0YhKnlllP1qtxpn",
+          "name": "John Lubbock",
+          "type": "artist",
+          "uri": "spotify:artist:10VdsxC0YhKnlllP1qtxpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 370573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BmVpG7dZrsZoJquItyNYU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5BmVpG7dZrsZoJquItyNYU",
+      "id": "5BmVpG7dZrsZoJquItyNYU",
+      "name": "Clarinet Concertino: II. —",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5BmVpG7dZrsZoJquItyNYU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jwtuGXYddkJm7TSoJuoT2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jwtuGXYddkJm7TSoJuoT2",
+          "id": "7jwtuGXYddkJm7TSoJuoT2",
+          "name": "Michael Collins",
+          "type": "artist",
+          "uri": "spotify:artist:7jwtuGXYddkJm7TSoJuoT2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AwhuIQi7IHAqiG0tCHzbZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AwhuIQi7IHAqiG0tCHzbZ",
+          "id": "6AwhuIQi7IHAqiG0tCHzbZ",
+          "name": "St. John's Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:6AwhuIQi7IHAqiG0tCHzbZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/10VdsxC0YhKnlllP1qtxpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/10VdsxC0YhKnlllP1qtxpn",
+          "id": "10VdsxC0YhKnlllP1qtxpn",
+          "name": "John Lubbock",
+          "type": "artist",
+          "uri": "spotify:artist:10VdsxC0YhKnlllP1qtxpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 299426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VB8C7wZ9gr2StzJMF94wg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VB8C7wZ9gr2StzJMF94wg",
+      "id": "4VB8C7wZ9gr2StzJMF94wg",
+      "name": "Clarinet Concertino: III. —",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4VB8C7wZ9gr2StzJMF94wg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Mck2gzq8tQEuiy7rHxnex"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Mck2gzq8tQEuiy7rHxnex",
+          "id": "3Mck2gzq8tQEuiy7rHxnex",
+          "name": "Garfield Jackson",
+          "type": "artist",
+          "uri": "spotify:artist:3Mck2gzq8tQEuiy7rHxnex"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00LY9cN1x8xfhdAa1YJiyw"
+          },
+          "href": "https://api.spotify.com/v1/artists/00LY9cN1x8xfhdAa1YJiyw",
+          "id": "00LY9cN1x8xfhdAa1YJiyw",
+          "name": "Gould Piano Trio",
+          "type": "artist",
+          "uri": "spotify:artist:00LY9cN1x8xfhdAa1YJiyw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7xUV37qnHGN8L964whYxmy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7xUV37qnHGN8L964whYxmy",
+      "id": "7xUV37qnHGN8L964whYxmy",
+      "name": "Spectra: I. —",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7xUV37qnHGN8L964whYxmy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Mck2gzq8tQEuiy7rHxnex"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Mck2gzq8tQEuiy7rHxnex",
+          "id": "3Mck2gzq8tQEuiy7rHxnex",
+          "name": "Garfield Jackson",
+          "type": "artist",
+          "uri": "spotify:artist:3Mck2gzq8tQEuiy7rHxnex"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00LY9cN1x8xfhdAa1YJiyw"
+          },
+          "href": "https://api.spotify.com/v1/artists/00LY9cN1x8xfhdAa1YJiyw",
+          "id": "00LY9cN1x8xfhdAa1YJiyw",
+          "name": "Gould Piano Trio",
+          "type": "artist",
+          "uri": "spotify:artist:00LY9cN1x8xfhdAa1YJiyw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ckvZcDkO2NLpiAKSbn8RG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ckvZcDkO2NLpiAKSbn8RG",
+      "id": "0ckvZcDkO2NLpiAKSbn8RG",
+      "name": "Spectra: II. —",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0ckvZcDkO2NLpiAKSbn8RG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Mck2gzq8tQEuiy7rHxnex"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Mck2gzq8tQEuiy7rHxnex",
+          "id": "3Mck2gzq8tQEuiy7rHxnex",
+          "name": "Garfield Jackson",
+          "type": "artist",
+          "uri": "spotify:artist:3Mck2gzq8tQEuiy7rHxnex"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00LY9cN1x8xfhdAa1YJiyw"
+          },
+          "href": "https://api.spotify.com/v1/artists/00LY9cN1x8xfhdAa1YJiyw",
+          "id": "00LY9cN1x8xfhdAa1YJiyw",
+          "name": "Gould Piano Trio",
+          "type": "artist",
+          "uri": "spotify:artist:00LY9cN1x8xfhdAa1YJiyw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 368813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6o77Q4zNEPMyiPdpGRbYiA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6o77Q4zNEPMyiPdpGRbYiA",
+      "id": "6o77Q4zNEPMyiPdpGRbYiA",
+      "name": "Spectra: III. —",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6o77Q4zNEPMyiPdpGRbYiA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Mck2gzq8tQEuiy7rHxnex"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Mck2gzq8tQEuiy7rHxnex",
+          "id": "3Mck2gzq8tQEuiy7rHxnex",
+          "name": "Garfield Jackson",
+          "type": "artist",
+          "uri": "spotify:artist:3Mck2gzq8tQEuiy7rHxnex"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00LY9cN1x8xfhdAa1YJiyw"
+          },
+          "href": "https://api.spotify.com/v1/artists/00LY9cN1x8xfhdAa1YJiyw",
+          "id": "00LY9cN1x8xfhdAa1YJiyw",
+          "name": "Gould Piano Trio",
+          "type": "artist",
+          "uri": "spotify:artist:00LY9cN1x8xfhdAa1YJiyw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2LUisQer3m44fIOpNPgcG6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2LUisQer3m44fIOpNPgcG6",
+      "id": "2LUisQer3m44fIOpNPgcG6",
+      "name": "Spectra: IV. —",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2LUisQer3m44fIOpNPgcG6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DNIeOqK0YF4H6o3GM2k6C",
+          "id": "5DNIeOqK0YF4H6o3GM2k6C",
+          "name": "Netherlands Radio Philharmonic Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:5DNIeOqK0YF4H6o3GM2k6C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 780453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Uh9aI6y4EfIrrifClNiPB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Uh9aI6y4EfIrrifClNiPB",
+      "id": "5Uh9aI6y4EfIrrifClNiPB",
+      "name": "Speed",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5Uh9aI6y4EfIrrifClNiPB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pd1L6gUupOtcQEnGptNqs"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pd1L6gUupOtcQEnGptNqs",
+          "id": "6pd1L6gUupOtcQEnGptNqs",
+          "name": "Trio Tagarela",
+          "type": "artist",
+          "uri": "spotify:artist:6pd1L6gUupOtcQEnGptNqs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6hWAULtOIhp7g6FTBz76zH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6hWAULtOIhp7g6FTBz76zH",
+      "id": "6hWAULtOIhp7g6FTBz76zH",
+      "name": "Trio: I. —",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6hWAULtOIhp7g6FTBz76zH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pd1L6gUupOtcQEnGptNqs"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pd1L6gUupOtcQEnGptNqs",
+          "id": "6pd1L6gUupOtcQEnGptNqs",
+          "name": "Trio Tagarela",
+          "type": "artist",
+          "uri": "spotify:artist:6pd1L6gUupOtcQEnGptNqs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 134800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0OcIUkA7950IhdNxMyjRTT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0OcIUkA7950IhdNxMyjRTT",
+      "id": "0OcIUkA7950IhdNxMyjRTT",
+      "name": "Trio: II. —",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0OcIUkA7950IhdNxMyjRTT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pd1L6gUupOtcQEnGptNqs"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pd1L6gUupOtcQEnGptNqs",
+          "id": "6pd1L6gUupOtcQEnGptNqs",
+          "name": "Trio Tagarela",
+          "type": "artist",
+          "uri": "spotify:artist:6pd1L6gUupOtcQEnGptNqs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mXnC7qbKDXlwiYKgmLEI6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mXnC7qbKDXlwiYKgmLEI6",
+      "id": "3mXnC7qbKDXlwiYKgmLEI6",
+      "name": "Trio: III. —",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3mXnC7qbKDXlwiYKgmLEI6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5zbdmumgejFrjwlTWWLR"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5zbdmumgejFrjwlTWWLR",
+          "id": "3t5zbdmumgejFrjwlTWWLR",
+          "name": "Anita Lasker-Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:3t5zbdmumgejFrjwlTWWLR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lojsW5jyMoukecenZqLVb"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lojsW5jyMoukecenZqLVb",
+          "id": "5lojsW5jyMoukecenZqLVb",
+          "name": "Simon Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:5lojsW5jyMoukecenZqLVb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VTFPRp3Fb9MAMBaV87VpT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VTFPRp3Fb9MAMBaV87VpT",
+          "id": "1VTFPRp3Fb9MAMBaV87VpT",
+          "name": "Raphael Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:1VTFPRp3Fb9MAMBaV87VpT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Vpb6X8GHIgumo2f7romlS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Vpb6X8GHIgumo2f7romlS",
+      "id": "6Vpb6X8GHIgumo2f7romlS",
+      "name": "Requiem",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6Vpb6X8GHIgumo2f7romlS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1EDCwdB6685NrCDMQvM0jN"
+          },
+          "href": "https://api.spotify.com/v1/artists/1EDCwdB6685NrCDMQvM0jN",
+          "id": "1EDCwdB6685NrCDMQvM0jN",
+          "name": "O Duo",
+          "type": "artist",
+          "uri": "spotify:artist:1EDCwdB6685NrCDMQvM0jN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3FNBdBLZxxucCfueaQ7TFE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3FNBdBLZxxucCfueaQ7TFE",
+          "id": "3FNBdBLZxxucCfueaQ7TFE",
+          "name": "York 2",
+          "type": "artist",
+          "uri": "spotify:artist:3FNBdBLZxxucCfueaQ7TFE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 289720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XdC8N7mYWqCQdrC2tFu2A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XdC8N7mYWqCQdrC2tFu2A",
+      "id": "3XdC8N7mYWqCQdrC2tFu2A",
+      "name": "Impulse",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3XdC8N7mYWqCQdrC2tFu2A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xOp0rCDPAmYqnL2UFbaDY",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY",
+          "name": "Benjamin Wallfisch",
+          "type": "artist",
+          "uri": "spotify:artist:2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62YRXsBHoa73ighYQsa5W9"
+          },
+          "href": "https://api.spotify.com/v1/artists/62YRXsBHoa73ighYQsa5W9",
+          "id": "62YRXsBHoa73ighYQsa5W9",
+          "name": "Jemima Phillips",
+          "type": "artist",
+          "uri": "spotify:artist:62YRXsBHoa73ighYQsa5W9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292373,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14kZXoSzROz8mOh8lqtVQv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14kZXoSzROz8mOh8lqtVQv",
+      "id": "14kZXoSzROz8mOh8lqtVQv",
+      "name": "Nocturne",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:14kZXoSzROz8mOh8lqtVQv",
+      "is_local": false
+    }
+  ]
+}

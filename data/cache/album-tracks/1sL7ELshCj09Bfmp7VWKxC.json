@@ -1,0 +1,543 @@
+{
+  "album_id": "1sL7ELshCj09Bfmp7VWKxC",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3NJ9Ti1L6tVbO4xo7sKT5f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3NJ9Ti1L6tVbO4xo7sKT5f",
+          "id": "3NJ9Ti1L6tVbO4xo7sKT5f",
+          "name": "Moon B",
+          "type": "artist",
+          "uri": "spotify:artist:3NJ9Ti1L6tVbO4xo7sKT5f"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279709,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ek02A9menJTQ5AoLnup6d"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ek02A9menJTQ5AoLnup6d",
+      "id": "5ek02A9menJTQ5AoLnup6d",
+      "name": "Oof - mixed",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5ek02A9menJTQ5AoLnup6d",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vVpIbD7gVDJKAs553rV4P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vVpIbD7gVDJKAs553rV4P",
+          "id": "2vVpIbD7gVDJKAs553rV4P",
+          "name": "Nicci Gable",
+          "type": "artist",
+          "uri": "spotify:artist:2vVpIbD7gVDJKAs553rV4P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262291,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6H93ZFaDpNL9jEC4FwGRXf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6H93ZFaDpNL9jEC4FwGRXf",
+      "id": "6H93ZFaDpNL9jEC4FwGRXf",
+      "name": "Close To Who? - mixed",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6H93ZFaDpNL9jEC4FwGRXf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6t31lu4xoslPkHtmhxaxYp"
+          },
+          "href": "https://api.spotify.com/v1/artists/6t31lu4xoslPkHtmhxaxYp",
+          "id": "6t31lu4xoslPkHtmhxaxYp",
+          "name": "Randell",
+          "type": "artist",
+          "uri": "spotify:artist:6t31lu4xoslPkHtmhxaxYp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gP7NE5XA1fckmUUYE2zts"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gP7NE5XA1fckmUUYE2zts",
+          "id": "1gP7NE5XA1fckmUUYE2zts",
+          "name": "Schippers",
+          "type": "artist",
+          "uri": "spotify:artist:1gP7NE5XA1fckmUUYE2zts"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 352267,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oOQejZUhz0URxjsUDk2Ms"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oOQejZUhz0URxjsUDk2Ms",
+      "id": "3oOQejZUhz0URxjsUDk2Ms",
+      "restrictions": {
+        "reason": "market"
+      },
+      "name": "Theme From Beach Boy - mixed",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3oOQejZUhz0URxjsUDk2Ms",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6t31lu4xoslPkHtmhxaxYp"
+          },
+          "href": "https://api.spotify.com/v1/artists/6t31lu4xoslPkHtmhxaxYp",
+          "id": "6t31lu4xoslPkHtmhxaxYp",
+          "name": "Randell",
+          "type": "artist",
+          "uri": "spotify:artist:6t31lu4xoslPkHtmhxaxYp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gP7NE5XA1fckmUUYE2zts"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gP7NE5XA1fckmUUYE2zts",
+          "id": "1gP7NE5XA1fckmUUYE2zts",
+          "name": "Schippers",
+          "type": "artist",
+          "uri": "spotify:artist:1gP7NE5XA1fckmUUYE2zts"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 433394,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3NADk1k8TbajVbBRJsBczv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3NADk1k8TbajVbBRJsBczv",
+      "id": "3NADk1k8TbajVbBRJsBczv",
+      "name": "Love Jam - mixed",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3NADk1k8TbajVbBRJsBczv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie"
+          },
+          "href": "https://api.spotify.com/v1/artists/3mMlNCX0juOKPTTkSsiOie",
+          "id": "3mMlNCX0juOKPTTkSsiOie",
+          "name": "Brandon",
+          "type": "artist",
+          "uri": "spotify:artist:3mMlNCX0juOKPTTkSsiOie"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 332612,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/359hnb8i8LQAMW6WtTg7IG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/359hnb8i8LQAMW6WtTg7IG",
+      "id": "359hnb8i8LQAMW6WtTg7IG",
+      "name": "Suzy Hijack - mixed",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:359hnb8i8LQAMW6WtTg7IG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/343U6x8A6EK06qQU5m6ido"
+          },
+          "href": "https://api.spotify.com/v1/artists/343U6x8A6EK06qQU5m6ido",
+          "id": "343U6x8A6EK06qQU5m6ido",
+          "name": "Take Three",
+          "type": "artist",
+          "uri": "spotify:artist:343U6x8A6EK06qQU5m6ido"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 316327,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dQu6koLqS7Pf01MXr3AV4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5dQu6koLqS7Pf01MXr3AV4",
+      "id": "5dQu6koLqS7Pf01MXr3AV4",
+      "name": "Tonite's The Night (All Right) - mixed",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5dQu6koLqS7Pf01MXr3AV4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BIqz1U6Fz1TuIYOJJSAvC"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BIqz1U6Fz1TuIYOJJSAvC",
+          "id": "2BIqz1U6Fz1TuIYOJJSAvC",
+          "name": "Index",
+          "type": "artist",
+          "uri": "spotify:artist:2BIqz1U6Fz1TuIYOJJSAvC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 307956,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/57plRL9ZGECKLywEOnxI4U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/57plRL9ZGECKLywEOnxI4U",
+      "id": "57plRL9ZGECKLywEOnxI4U",
+      "name": "Starlight - mixed",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:57plRL9ZGECKLywEOnxI4U",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74dRBEvk3kfdLO5linme67"
+          },
+          "href": "https://api.spotify.com/v1/artists/74dRBEvk3kfdLO5linme67",
+          "id": "74dRBEvk3kfdLO5linme67",
+          "name": "Uncle Jamm's Army",
+          "type": "artist",
+          "uri": "spotify:artist:74dRBEvk3kfdLO5linme67"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 369420,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4yPIS6WmDO4L9kzOMIlSZz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4yPIS6WmDO4L9kzOMIlSZz",
+      "id": "4yPIS6WmDO4L9kzOMIlSZz",
+      "name": "Dial-A-Freak - mixed",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4yPIS6WmDO4L9kzOMIlSZz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG"
+          },
+          "href": "https://api.spotify.com/v1/artists/3QqJ1L8cWsPFZ1YDPpUmvG",
+          "id": "3QqJ1L8cWsPFZ1YDPpUmvG",
+          "name": "Gemini",
+          "type": "artist",
+          "uri": "spotify:artist:3QqJ1L8cWsPFZ1YDPpUmvG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 275757,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1tmnvr5pyVkzrbbeatwnwG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1tmnvr5pyVkzrbbeatwnwG",
+      "id": "1tmnvr5pyVkzrbbeatwnwG",
+      "name": "Log In - mixed",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1tmnvr5pyVkzrbbeatwnwG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Qs1wOmCiYOrYS8LcCeZig"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Qs1wOmCiYOrYS8LcCeZig",
+          "id": "1Qs1wOmCiYOrYS8LcCeZig",
+          "name": "Nexus",
+          "type": "artist",
+          "uri": "spotify:artist:1Qs1wOmCiYOrYS8LcCeZig"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 315086,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2F13EFYMThmkQrpyBukdF3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2F13EFYMThmkQrpyBukdF3",
+      "id": "2F13EFYMThmkQrpyBukdF3",
+      "name": "Stand Up (Instrumental) - mixed",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2F13EFYMThmkQrpyBukdF3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46HykLrtSQqEEBPm9dAmMY"
+          },
+          "href": "https://api.spotify.com/v1/artists/46HykLrtSQqEEBPm9dAmMY",
+          "id": "46HykLrtSQqEEBPm9dAmMY",
+          "name": "Reggie B",
+          "type": "artist",
+          "uri": "spotify:artist:46HykLrtSQqEEBPm9dAmMY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1YXvoskPRyBVPAlPZ75ZLD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1YXvoskPRyBVPAlPZ75ZLD",
+      "id": "1YXvoskPRyBVPAlPZ75ZLD",
+      "name": "Poison Candy - mixed",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1YXvoskPRyBVPAlPZ75ZLD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67zjEg67vKZWw5oFGe6lyM"
+          },
+          "href": "https://api.spotify.com/v1/artists/67zjEg67vKZWw5oFGe6lyM",
+          "id": "67zjEg67vKZWw5oFGe6lyM",
+          "name": "L33",
+          "type": "artist",
+          "uri": "spotify:artist:67zjEg67vKZWw5oFGe6lyM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 81161,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4O7CZk9dKcIIqVcaI3yFew"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4O7CZk9dKcIIqVcaI3yFew",
+      "id": "4O7CZk9dKcIIqVcaI3yFew",
+      "name": "Keeping It Tight - mixed",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4O7CZk9dKcIIqVcaI3yFew",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/2rxgmguaQSynTMnBKZL73G",
+          "id": "2rxgmguaQSynTMnBKZL73G",
+          "name": "Gaussian Curve",
+          "type": "artist",
+          "uri": "spotify:artist:2rxgmguaQSynTMnBKZL73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130110,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6dehyzatv2CF6EnIv9r3pc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6dehyzatv2CF6EnIv9r3pc",
+      "id": "6dehyzatv2CF6EnIv9r3pc",
+      "name": "Broken Clouds - mixed",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6dehyzatv2CF6EnIv9r3pc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Fea9FxFYVQyOuhek8Xp84"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Fea9FxFYVQyOuhek8Xp84",
+          "id": "7Fea9FxFYVQyOuhek8Xp84",
+          "name": "Tony Palkovic",
+          "type": "artist",
+          "uri": "spotify:artist:7Fea9FxFYVQyOuhek8Xp84"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159460,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kZJ5xF2Afzu2FrTljMtsu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kZJ5xF2Afzu2FrTljMtsu",
+      "id": "0kZJ5xF2Afzu2FrTljMtsu",
+      "name": "True To Yourself - mixed",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0kZJ5xF2Afzu2FrTljMtsu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ppN1E00CZsVGCmTlAOtQO",
+          "id": "5ppN1E00CZsVGCmTlAOtQO",
+          "name": "Henning",
+          "type": "artist",
+          "uri": "spotify:artist:5ppN1E00CZsVGCmTlAOtQO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266874,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77WWCuiwhIGjsBv866UrKU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/77WWCuiwhIGjsBv866UrKU",
+      "id": "77WWCuiwhIGjsBv866UrKU",
+      "name": "Arrival / Departure - mixed",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:77WWCuiwhIGjsBv866UrKU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qpbJXtYrpwyNwgXM3MRsn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qpbJXtYrpwyNwgXM3MRsn",
+          "id": "2qpbJXtYrpwyNwgXM3MRsn",
+          "name": "Nite-Funk",
+          "type": "artist",
+          "uri": "spotify:artist:2qpbJXtYrpwyNwgXM3MRsn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211900,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1myErufDAEMrklRJwQzBX9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1myErufDAEMrklRJwQzBX9",
+      "id": "1myErufDAEMrklRJwQzBX9",
+      "name": "Can U Read Me? - mixed",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1myErufDAEMrklRJwQzBX9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+          "id": "1AEcpjnSCmm53IBZQo3g9z",
+          "name": "DāM-FunK",
+          "type": "artist",
+          "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218597,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XBGvkojcToGWfsmRa23Nt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XBGvkojcToGWfsmRa23Nt",
+      "id": "5XBGvkojcToGWfsmRa23Nt",
+      "name": "Believer - mixed",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:5XBGvkojcToGWfsmRa23Nt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5q49OPpY8J94OsYpKfnKra"
+          },
+          "href": "https://api.spotify.com/v1/artists/5q49OPpY8J94OsYpKfnKra",
+          "id": "5q49OPpY8J94OsYpKfnKra",
+          "name": "True Design",
+          "type": "artist",
+          "uri": "spotify:artist:5q49OPpY8J94OsYpKfnKra"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240195,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Oh0U8AjZ7gIe4uZMPSyA0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Oh0U8AjZ7gIe4uZMPSyA0",
+      "id": "0Oh0U8AjZ7gIe4uZMPSyA0",
+      "name": "I Wanna Break - mixed",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:0Oh0U8AjZ7gIe4uZMPSyA0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4z0n4GcNBiUUBnEoYx4csp",
+          "id": "4z0n4GcNBiUUBnEoYx4csp",
+          "name": "Crystal Winds",
+          "type": "artist",
+          "uri": "spotify:artist:4z0n4GcNBiUUBnEoYx4csp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 60215,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6hcoE8G624vJpmuwlqWq0N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6hcoE8G624vJpmuwlqWq0N",
+      "id": "6hcoE8G624vJpmuwlqWq0N",
+      "name": "Funk Ain't Easy - mixed",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:6hcoE8G624vJpmuwlqWq0N",
+      "is_local": false
+    }
+  ]
+}

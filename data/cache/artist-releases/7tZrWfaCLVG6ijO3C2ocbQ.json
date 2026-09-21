@@ -1,0 +1,960 @@
+{
+  "artist_id": "7tZrWfaCLVG6ijO3C2ocbQ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 20,
+  "completed": false,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5sw0jdxkqeIg5UUiZrJm61"
+      },
+      "href": "https://api.spotify.com/v1/albums/5sw0jdxkqeIg5UUiZrJm61",
+      "id": "5sw0jdxkqeIg5UUiZrJm61",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3dd80d288333233e98a0f06",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3dd80d288333233e98a0f06",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e3dd80d288333233e98a0f06",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hits & Hooks, Vol. 3",
+      "release_date": "2026-05-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5sw0jdxkqeIg5UUiZrJm61",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0jQaLYjzjPdwwBTvsnaISh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0jQaLYjzjPdwwBTvsnaISh",
+          "id": "0jQaLYjzjPdwwBTvsnaISh",
+          "name": "Cavie",
+          "type": "artist",
+          "uri": "spotify:artist:0jQaLYjzjPdwwBTvsnaISh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 34,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2x2m05Jd9ITkieeTMmBjz7"
+      },
+      "href": "https://api.spotify.com/v1/albums/2x2m05Jd9ITkieeTMmBjz7",
+      "id": "2x2m05Jd9ITkieeTMmBjz7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273879f4fc77a4d3f7c729c6a97",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02879f4fc77a4d3f7c729c6a97",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851879f4fc77a4d3f7c729c6a97",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mr. Kane PT 2 and The Hood MoB (Kokane Deluxe Edition)",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2x2m05Jd9ITkieeTMmBjz7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5gFuCspg9TdorHHQwphjH2"
+          },
+          "href": "https://api.spotify.com/v1/artists/5gFuCspg9TdorHHQwphjH2",
+          "id": "5gFuCspg9TdorHHQwphjH2",
+          "name": "Cricet",
+          "type": "artist",
+          "uri": "spotify:artist:5gFuCspg9TdorHHQwphjH2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bQNwiN3dh2tRZrrwXotTN"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bQNwiN3dh2tRZrrwXotTN",
+          "id": "7bQNwiN3dh2tRZrrwXotTN",
+          "name": "Contraband",
+          "type": "artist",
+          "uri": "spotify:artist:7bQNwiN3dh2tRZrrwXotTN"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6BvInNaQLGFCDzDnr3zZJf"
+      },
+      "href": "https://api.spotify.com/v1/albums/6BvInNaQLGFCDzDnr3zZJf",
+      "id": "6BvInNaQLGFCDzDnr3zZJf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273882025fd1ed4c7309da435a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02882025fd1ed4c7309da435a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851882025fd1ed4c7309da435a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Finger Roll",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6BvInNaQLGFCDzDnr3zZJf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/31shgfIVmsL6CPMt6bRSDZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/31shgfIVmsL6CPMt6bRSDZ",
+      "id": "31shgfIVmsL6CPMt6bRSDZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273076082f59a5116b1b311880e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02076082f59a5116b1b311880e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851076082f59a5116b1b311880e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sugakane",
+      "release_date": "2023-04-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:31shgfIVmsL6CPMt6bRSDZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4DEvIoQFCN3G6UgAoIf2Bn"
+      },
+      "href": "https://api.spotify.com/v1/albums/4DEvIoQFCN3G6UgAoIf2Bn",
+      "id": "4DEvIoQFCN3G6UgAoIf2Bn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734cabffc271ce325968f55406",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024cabffc271ce325968f55406",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514cabffc271ce325968f55406",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Da White Album",
+      "release_date": "2022-10-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4DEvIoQFCN3G6UgAoIf2Bn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2UwpsF8roAWtcSdY2cQtCr"
+      },
+      "href": "https://api.spotify.com/v1/albums/2UwpsF8roAWtcSdY2cQtCr",
+      "id": "2UwpsF8roAWtcSdY2cQtCr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1fe923d92f5ad74bbf61ce1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1fe923d92f5ad74bbf61ce1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e1fe923d92f5ad74bbf61ce1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "They Five Me (Deluxe Edition)",
+      "release_date": "2022-09-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2UwpsF8roAWtcSdY2cQtCr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YFBoY5fi8Bh462scedrT5"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YFBoY5fi8Bh462scedrT5",
+          "id": "5YFBoY5fi8Bh462scedrT5",
+          "name": "Eastside West",
+          "type": "artist",
+          "uri": "spotify:artist:5YFBoY5fi8Bh462scedrT5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6m71FEempWkpzp6e8cw6Au"
+          },
+          "href": "https://api.spotify.com/v1/artists/6m71FEempWkpzp6e8cw6Au",
+          "id": "6m71FEempWkpzp6e8cw6Au",
+          "name": "Crip Mac",
+          "type": "artist",
+          "uri": "spotify:artist:6m71FEempWkpzp6e8cw6Au"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/56HiCWugPjMTTAO6xGCEU6"
+      },
+      "href": "https://api.spotify.com/v1/albums/56HiCWugPjMTTAO6xGCEU6",
+      "id": "56HiCWugPjMTTAO6xGCEU6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb438cbe21204a487aa640cf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb438cbe21204a487aa640cf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fb438cbe21204a487aa640cf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Og Funk",
+      "release_date": "2021-08-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:56HiCWugPjMTTAO6xGCEU6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1k3e4JvpJQFxuhI8ZRuwh4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1k3e4JvpJQFxuhI8ZRuwh4",
+          "id": "1k3e4JvpJQFxuhI8ZRuwh4",
+          "name": "Spanky Loco",
+          "type": "artist",
+          "uri": "spotify:artist:1k3e4JvpJQFxuhI8ZRuwh4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4vqnSDreemq7cteDmIZrW1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4vqnSDreemq7cteDmIZrW1",
+      "id": "4vqnSDreemq7cteDmIZrW1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b3d51383c95d4ac7db503c3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020b3d51383c95d4ac7db503c3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510b3d51383c95d4ac7db503c3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "It's Kokane Not Lemonhead",
+      "release_date": "2017-07-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4vqnSDreemq7cteDmIZrW1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3y6faaI2BXrsUNMYdXknu6"
+      },
+      "href": "https://api.spotify.com/v1/albums/3y6faaI2BXrsUNMYdXknu6",
+      "id": "3y6faaI2BXrsUNMYdXknu6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27338ca772058381d17d3c1a8d2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0238ca772058381d17d3c1a8d2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485138ca772058381d17d3c1a8d2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kokane Pain Killers Remastered",
+      "release_date": "2017-04-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3y6faaI2BXrsUNMYdXknu6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1DwJcAbRwJ8M99Wm011Kyp"
+      },
+      "href": "https://api.spotify.com/v1/albums/1DwJcAbRwJ8M99Wm011Kyp",
+      "id": "1DwJcAbRwJ8M99Wm011Kyp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c6ae7a2443317f0b0ed54e8b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c6ae7a2443317f0b0ed54e8b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c6ae7a2443317f0b0ed54e8b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lady Kokane Presents Kokane Love Songs, Vol. 2",
+      "release_date": "2017-02-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1DwJcAbRwJ8M99Wm011Kyp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ZVS0DXkz7q4pmjLhvbRop"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ZVS0DXkz7q4pmjLhvbRop",
+      "id": "5ZVS0DXkz7q4pmjLhvbRop",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732f1c8a0e9b1218ff83f92478",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022f1c8a0e9b1218ff83f92478",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512f1c8a0e9b1218ff83f92478",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kokane King of Gfunk",
+      "release_date": "2016-03-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ZVS0DXkz7q4pmjLhvbRop",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/42YqTmHKYyo8aQp5O40IKU"
+      },
+      "href": "https://api.spotify.com/v1/albums/42YqTmHKYyo8aQp5O40IKU",
+      "id": "42YqTmHKYyo8aQp5O40IKU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e826e4313fc139d04d6a71ee",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e826e4313fc139d04d6a71ee",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e826e4313fc139d04d6a71ee",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kokane's 24th Anniversary Album",
+      "release_date": "2015-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:42YqTmHKYyo8aQp5O40IKU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0MpmoO3RV5YsTmMX49dG1a"
+      },
+      "href": "https://api.spotify.com/v1/albums/0MpmoO3RV5YsTmMX49dG1a",
+      "id": "0MpmoO3RV5YsTmMX49dG1a",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27388ea069796e3b1dab011d6e6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0288ea069796e3b1dab011d6e6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485188ea069796e3b1dab011d6e6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lady Kokane Presents: Kokane Love Songs",
+      "release_date": "2015-02-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0MpmoO3RV5YsTmMX49dG1a",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ylHpMKx64Nq4qmuTTKrwa"
+      },
+      "href": "https://api.spotify.com/v1/albums/7ylHpMKx64Nq4qmuTTKrwa",
+      "id": "7ylHpMKx64Nq4qmuTTKrwa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739616d01ab128a95fa758c854",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029616d01ab128a95fa758c854",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519616d01ab128a95fa758c854",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tortoise and the Hare",
+      "release_date": "2014-06-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7ylHpMKx64Nq4qmuTTKrwa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R2C8r0t9p98AnGzUnOLAe"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R2C8r0t9p98AnGzUnOLAe",
+          "id": "2R2C8r0t9p98AnGzUnOLAe",
+          "name": "Blanco",
+          "type": "artist",
+          "uri": "spotify:artist:2R2C8r0t9p98AnGzUnOLAe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yiugbZZ4LTpWJ31XCBTj7"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yiugbZZ4LTpWJ31XCBTj7",
+          "id": "4yiugbZZ4LTpWJ31XCBTj7",
+          "name": "Husalah",
+          "type": "artist",
+          "uri": "spotify:artist:4yiugbZZ4LTpWJ31XCBTj7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7k6mx9l1Xq6e5ehCuvbwrV"
+      },
+      "href": "https://api.spotify.com/v1/albums/7k6mx9l1Xq6e5ehCuvbwrV",
+      "id": "7k6mx9l1Xq6e5ehCuvbwrV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b6e2e87155a3409100e38a7e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b6e2e87155a3409100e38a7e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b6e2e87155a3409100e38a7e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Game Chose Me (feat. West Haven Blast)",
+      "release_date": "2013-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7k6mx9l1Xq6e5ehCuvbwrV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1frlDxZiMAFKrwlhOuVhND"
+      },
+      "href": "https://api.spotify.com/v1/albums/1frlDxZiMAFKrwlhOuVhND",
+      "id": "1frlDxZiMAFKrwlhOuVhND",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273acbb5e32f7052b8299a7a9d0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02acbb5e32f7052b8299a7a9d0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851acbb5e32f7052b8299a7a9d0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shut da F Up & Cut da Checc",
+      "release_date": "2013",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:1frlDxZiMAFKrwlhOuVhND",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4uNWoDzIGBZyEnqd55tsAf"
+      },
+      "href": "https://api.spotify.com/v1/albums/4uNWoDzIGBZyEnqd55tsAf",
+      "id": "4uNWoDzIGBZyEnqd55tsAf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27337785d9fea48df36470118c4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0237785d9fea48df36470118c4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485137785d9fea48df36470118c4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The New Frontier",
+      "release_date": "2012-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4uNWoDzIGBZyEnqd55tsAf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2GULsoQLKz0aCEcEFQMqxy"
+      },
+      "href": "https://api.spotify.com/v1/albums/2GULsoQLKz0aCEcEFQMqxy",
+      "id": "2GULsoQLKz0aCEcEFQMqxy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b29c0c5bf52ef16ee7bfaf16",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b29c0c5bf52ef16ee7bfaf16",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b29c0c5bf52ef16ee7bfaf16",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "They Call Me Mr. Kane",
+      "release_date": "2012-07-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2GULsoQLKz0aCEcEFQMqxy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3grFdu9ifNh6mrZt9VIqx4"
+      },
+      "href": "https://api.spotify.com/v1/albums/3grFdu9ifNh6mrZt9VIqx4",
+      "id": "3grFdu9ifNh6mrZt9VIqx4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3afc3a5518b500b42c9745a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3afc3a5518b500b42c9745a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e3afc3a5518b500b42c9745a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kokane \"Gimme All Mine\"",
+      "release_date": "2012-07-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3grFdu9ifNh6mrZt9VIqx4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Zhau1nkX7nkZ9NvJ0Odie"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Zhau1nkX7nkZ9NvJ0Odie",
+      "id": "6Zhau1nkX7nkZ9NvJ0Odie",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273217d69eb507837291f90661f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02217d69eb507837291f90661f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851217d69eb507837291f90661f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kokane \"Mr. Kane\" PT 2",
+      "release_date": "2012-07-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Zhau1nkX7nkZ9NvJ0Odie",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    }
+  ]
+}
