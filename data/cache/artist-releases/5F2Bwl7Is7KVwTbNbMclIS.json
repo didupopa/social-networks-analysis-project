@@ -1,0 +1,96 @@
+{
+  "artist_id": "5F2Bwl7Is7KVwTbNbMclIS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7Lxjlh6asNbjBY8BmYLgGP"
+      },
+      "href": "https://api.spotify.com/v1/albums/7Lxjlh6asNbjBY8BmYLgGP",
+      "id": "7Lxjlh6asNbjBY8BmYLgGP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b9112e609980b41f08e0c24",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023b9112e609980b41f08e0c24",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513b9112e609980b41f08e0c24",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "On the Road",
+      "release_date": "2012-10-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7Lxjlh6asNbjBY8BmYLgGP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5F2Bwl7Is7KVwTbNbMclIS",
+          "id": "5F2Bwl7Is7KVwTbNbMclIS",
+          "name": "Papayo",
+          "type": "artist",
+          "uri": "spotify:artist:5F2Bwl7Is7KVwTbNbMclIS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5PNHXNYGVcKZSP6CK8fLjO"
+      },
+      "href": "https://api.spotify.com/v1/albums/5PNHXNYGVcKZSP6CK8fLjO",
+      "id": "5PNHXNYGVcKZSP6CK8fLjO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273644b4e1d34be9f478e6b5e51",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02644b4e1d34be9f478e6b5e51",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851644b4e1d34be9f478e6b5e51",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Concrete Rebels",
+      "release_date": "2010-05-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5PNHXNYGVcKZSP6CK8fLjO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5F2Bwl7Is7KVwTbNbMclIS",
+          "id": "5F2Bwl7Is7KVwTbNbMclIS",
+          "name": "Papayo",
+          "type": "artist",
+          "uri": "spotify:artist:5F2Bwl7Is7KVwTbNbMclIS"
+        }
+      ]
+    }
+  ]
+}

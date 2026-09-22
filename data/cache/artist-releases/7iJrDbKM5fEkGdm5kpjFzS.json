@@ -1,0 +1,106 @@
+{
+  "artist_id": "7iJrDbKM5fEkGdm5kpjFzS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 32,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1SHhcmhvPrlD7zWIzTpxya"
+      },
+      "href": "https://api.spotify.com/v1/albums/1SHhcmhvPrlD7zWIzTpxya",
+      "id": "1SHhcmhvPrlD7zWIzTpxya",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9652a5ee07d9f1fd7b32674",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9652a5ee07d9f1fd7b32674",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b9652a5ee07d9f1fd7b32674",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Me Dieron de Alta",
+      "release_date": "2017-05-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1SHhcmhvPrlD7zWIzTpxya",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iJrDbKM5fEkGdm5kpjFzS",
+          "id": "7iJrDbKM5fEkGdm5kpjFzS",
+          "name": "Sensato",
+          "type": "artist",
+          "uri": "spotify:artist:7iJrDbKM5fEkGdm5kpjFzS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0QkQAzInBRYqqSzug0XGJE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0QkQAzInBRYqqSzug0XGJE",
+      "id": "0QkQAzInBRYqqSzug0XGJE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ea8eaa5613d278530309aac2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ea8eaa5613d278530309aac2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ea8eaa5613d278530309aac2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "La Gran Manzana (Deluxe Edition)",
+      "release_date": "2017-04-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0QkQAzInBRYqqSzug0XGJE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iJrDbKM5fEkGdm5kpjFzS",
+          "id": "7iJrDbKM5fEkGdm5kpjFzS",
+          "name": "Sensato",
+          "type": "artist",
+          "uri": "spotify:artist:7iJrDbKM5fEkGdm5kpjFzS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/507wnKTa4hle9jlTW0W9eH"
+          },
+          "href": "https://api.spotify.com/v1/artists/507wnKTa4hle9jlTW0W9eH",
+          "id": "507wnKTa4hle9jlTW0W9eH",
+          "name": "Zawezo Del'patio",
+          "type": "artist",
+          "uri": "spotify:artist:507wnKTa4hle9jlTW0W9eH"
+        }
+      ]
+    }
+  ]
+}

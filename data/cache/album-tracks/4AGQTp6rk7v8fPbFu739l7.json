@@ -1,0 +1,711 @@
+{
+  "album_id": "4AGQTp6rk7v8fPbFu739l7",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RMRkCn07y2xtBip9DzwmC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RMRkCn07y2xtBip9DzwmC",
+      "id": "1RMRkCn07y2xtBip9DzwmC",
+      "name": "Turn Up the Music",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1RMRkCn07y2xtBip9DzwmC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238986,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3DTDBPxykmposQ2UpKyoqD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3DTDBPxykmposQ2UpKyoqD",
+      "id": "3DTDBPxykmposQ2UpKyoqD",
+      "name": "Bassline",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3DTDBPxykmposQ2UpKyoqD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ABuvRFKuojZlMNFxFz2b5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ABuvRFKuojZlMNFxFz2b5",
+      "id": "2ABuvRFKuojZlMNFxFz2b5",
+      "name": "Till I Die (feat. Big Sean & Wiz Khalifa)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2ABuvRFKuojZlMNFxFz2b5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7eNedTAE2jpaGCIErpLT2B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7eNedTAE2jpaGCIErpLT2B",
+      "id": "7eNedTAE2jpaGCIErpLT2B",
+      "name": "Mirage (feat. Nas)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7eNedTAE2jpaGCIErpLT2B",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0NG5gJzPHjYeQmqcmqfopN",
+      "id": "0NG5gJzPHjYeQmqcmqfopN",
+      "name": "Don't Judge Me",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0NG5gJzPHjYeQmqcmqfopN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1vHdjqeiqvwX4zY8QgZBkf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1vHdjqeiqvwX4zY8QgZBkf",
+      "id": "1vHdjqeiqvwX4zY8QgZBkf",
+      "name": "2012",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1vHdjqeiqvwX4zY8QgZBkf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/55rDhYGP7y7ykaFUGkWS6V"
+      },
+      "href": "https://api.spotify.com/v1/tracks/55rDhYGP7y7ykaFUGkWS6V",
+      "id": "55rDhYGP7y7ykaFUGkWS6V",
+      "name": "Biggest Fan",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:55rDhYGP7y7ykaFUGkWS6V",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CScJ0ttMJ687s3rlLdrnV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CScJ0ttMJ687s3rlLdrnV",
+      "id": "3CScJ0ttMJ687s3rlLdrnV",
+      "name": "Sweet Love",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3CScJ0ttMJ687s3rlLdrnV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
+          },
+          "href": "https://api.spotify.com/v1/artists/2teIxF2qgr0rYmTTMKiZ7s",
+          "id": "2teIxF2qgr0rYmTTMKiZ7s",
+          "name": "Kevin McCall",
+          "type": "artist",
+          "uri": "spotify:artist:2teIxF2qgr0rYmTTMKiZ7s"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gFkruQrXlxIOo738m76Xb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0gFkruQrXlxIOo738m76Xb",
+      "id": "0gFkruQrXlxIOo738m76Xb",
+      "name": "Strip (feat. Kevin McCall)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0gFkruQrXlxIOo738m76Xb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ruGTdtJpY6GVuJuWhYI5Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ruGTdtJpY6GVuJuWhYI5Q",
+      "id": "1ruGTdtJpY6GVuJuWhYI5Q",
+      "name": "Stuck On Stupid",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1ruGTdtJpY6GVuJuWhYI5Q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5D4eaTo8eFi2AT0Rt9t7ak"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5D4eaTo8eFi2AT0Rt9t7ak",
+      "id": "5D4eaTo8eFi2AT0Rt9t7ak",
+      "name": "4 Years Old",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5D4eaTo8eFi2AT0Rt9t7ak",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MrWccK2g4vI3yFW9Puiv1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MrWccK2g4vI3yFW9Puiv1",
+          "id": "0MrWccK2g4vI3yFW9Puiv1",
+          "name": "Sevyn",
+          "type": "artist",
+          "uri": "spotify:artist:0MrWccK2g4vI3yFW9Puiv1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 314626,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0hoyeFFC3KYexTNztfXyEB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0hoyeFFC3KYexTNztfXyEB",
+      "id": "0hoyeFFC3KYexTNztfXyEB",
+      "name": "Party Hard / Cadillac (Interlude) (feat. Sevyn)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0hoyeFFC3KYexTNztfXyEB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18VfHIPaCo0s6FTi1Fnp6T"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18VfHIPaCo0s6FTi1Fnp6T",
+      "id": "18VfHIPaCo0s6FTi1Fnp6T",
+      "name": "Don't Wake Me Up",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:18VfHIPaCo0s6FTi1Fnp6T",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5S7xvAK69ZuUuATe40XJv3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5S7xvAK69ZuUuATe40XJv3",
+          "id": "5S7xvAK69ZuUuATe40XJv3",
+          "name": "Sabrina Antionette",
+          "type": "artist",
+          "uri": "spotify:artist:5S7xvAK69ZuUuATe40XJv3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/180om2QiGtUamlhbO9afC2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/180om2QiGtUamlhbO9afC2",
+      "id": "180om2QiGtUamlhbO9afC2",
+      "name": "Trumpet Lights (feat. Sabrina Antionette)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:180om2QiGtUamlhbO9afC2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QC6L8otwEHpPHdAax6lVJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QC6L8otwEHpPHdAax6lVJ",
+      "id": "5QC6L8otwEHpPHdAax6lVJ",
+      "name": "Tell Somebody",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:5QC6L8otwEHpPHdAax6lVJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dCXADmDaO8bQtdCqthggf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5dCXADmDaO8bQtdCqthggf",
+      "id": "5dCXADmDaO8bQtdCqthggf",
+      "name": "Free Run",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5dCXADmDaO8bQtdCqthggf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MrWccK2g4vI3yFW9Puiv1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MrWccK2g4vI3yFW9Puiv1",
+          "id": "0MrWccK2g4vI3yFW9Puiv1",
+          "name": "Sevyn",
+          "type": "artist",
+          "uri": "spotify:artist:0MrWccK2g4vI3yFW9Puiv1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/06Mviyu2rl6kQ5aTsxdMXZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/06Mviyu2rl6kQ5aTsxdMXZ",
+      "id": "06Mviyu2rl6kQ5aTsxdMXZ",
+      "name": "Remember My Name (feat. Sevyn)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:06Mviyu2rl6kQ5aTsxdMXZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4bXTZ54QzzM8J6FPFwKv6w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4bXTZ54QzzM8J6FPFwKv6w",
+      "id": "4bXTZ54QzzM8J6FPFwKv6w",
+      "name": "Wait For You",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4bXTZ54QzzM8J6FPFwKv6w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MrWccK2g4vI3yFW9Puiv1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MrWccK2g4vI3yFW9Puiv1",
+          "id": "0MrWccK2g4vI3yFW9Puiv1",
+          "name": "Sevyn",
+          "type": "artist",
+          "uri": "spotify:artist:0MrWccK2g4vI3yFW9Puiv1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7D4WVCd3Lt7IdVoWonRcmm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7D4WVCd3Lt7IdVoWonRcmm",
+      "id": "7D4WVCd3Lt7IdVoWonRcmm",
+      "name": "Touch Me (feat. Sevyn)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:7D4WVCd3Lt7IdVoWonRcmm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 281880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3x8tqtAYzW0y2Er1zCKVSu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3x8tqtAYzW0y2Er1zCKVSu",
+      "id": "3x8tqtAYzW0y2Er1zCKVSu",
+      "name": "Oh Yeah (feat. Snoop Dogg & 2 Chainz)",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:3x8tqtAYzW0y2Er1zCKVSu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 289226,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DiwGAUarjpc0MlqFompqP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DiwGAUarjpc0MlqFompqP",
+      "id": "2DiwGAUarjpc0MlqFompqP",
+      "name": "Calypso",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:2DiwGAUarjpc0MlqFompqP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bE9sHQ39zQ8zD1BBZUs1K"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3bE9sHQ39zQ8zD1BBZUs1K",
+      "id": "3bE9sHQ39zQ8zD1BBZUs1K",
+      "name": "Get Down (feat. B.o.B)",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:3bE9sHQ39zQ8zD1BBZUs1K",
+      "is_local": false
+    }
+  ]
+}

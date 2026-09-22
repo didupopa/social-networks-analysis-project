@@ -1,0 +1,509 @@
+{
+  "album_id": "5S1Og4Ubi4afuiBOzyBhmW",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207738,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1oNIa5k8FQrFXEx7uXtfK7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1oNIa5k8FQrFXEx7uXtfK7",
+      "id": "1oNIa5k8FQrFXEx7uXtfK7",
+      "name": "First Things First",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1oNIa5k8FQrFXEx7uXtfK7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wOOoWXr5sVA1oiw3CDicV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wOOoWXr5sVA1oiw3CDicV",
+      "id": "6wOOoWXr5sVA1oiw3CDicV",
+      "name": "Cold",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6wOOoWXr5sVA1oiw3CDicV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zJL978NtANOysfGY21ty6",
+          "id": "7zJL978NtANOysfGY21ty6",
+          "name": "Ghetts",
+          "type": "artist",
+          "uri": "spotify:artist:7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2a0uxJgbvvIRI4GX8pYfcr",
+          "id": "2a0uxJgbvvIRI4GX8pYfcr",
+          "name": "J Hus",
+          "type": "artist",
+          "uri": "spotify:artist:2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246685,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6IuVEdIOpfwhzqYb44uE4H"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6IuVEdIOpfwhzqYb44uE4H",
+      "id": "6IuVEdIOpfwhzqYb44uE4H",
+      "name": "Bad Boys (feat. Ghetts and J Hus)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6IuVEdIOpfwhzqYb44uE4H",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160797,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0GoEsOe7f1u9MujQT75K4q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0GoEsOe7f1u9MujQT75K4q",
+      "id": "0GoEsOe7f1u9MujQT75K4q",
+      "name": "Blinded By Your Grace, Pt. 1",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0GoEsOe7f1u9MujQT75K4q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238418,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46jHE9rVH5HqZ7VKZHPinC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/46jHE9rVH5HqZ7VKZHPinC",
+      "id": "46jHE9rVH5HqZ7VKZHPinC",
+      "name": "Big For Your Boots",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:46jHE9rVH5HqZ7VKZHPinC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 339933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4w0uNbUBdDW1ATA93W3fDP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4w0uNbUBdDW1ATA93W3fDP",
+      "id": "4w0uNbUBdDW1ATA93W3fDP",
+      "name": "Velvet / Jenny Francis - Interlude",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4w0uNbUBdDW1ATA93W3fDP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197451,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VrD2sEtAsAZG6z9kcK6IW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VrD2sEtAsAZG6z9kcK6IW",
+      "id": "4VrD2sEtAsAZG6z9kcK6IW",
+      "name": "Mr Skeng",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4VrD2sEtAsAZG6z9kcK6IW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+          "id": "0cGUm45nv7Z6M6qdXYQGTX",
+          "name": "Kehlani",
+          "type": "artist",
+          "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          },
+          "href": "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+          "id": "13saZpZnCDWOI9D4IJhp1f",
+          "name": "Lily Allen",
+          "type": "artist",
+          "uri": "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 349583,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7urCpstCEncypWMreEwJCh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7urCpstCEncypWMreEwJCh",
+      "id": "7urCpstCEncypWMreEwJCh",
+      "name": "Cigarettes & Cush (feat. Kehlani & Lily Allen)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7urCpstCEncypWMreEwJCh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T2sGLJKge2eaFmZJxX7sq",
+          "id": "0T2sGLJKge2eaFmZJxX7sq",
+          "name": "Wretch 32",
+          "type": "artist",
+          "uri": "spotify:artist:0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146254,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mBrlBHhzALlEKpUeWdOzT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1mBrlBHhzALlEKpUeWdOzT",
+      "id": "1mBrlBHhzALlEKpUeWdOzT",
+      "name": "21 Gun Salute (feat. Wretch 32) - Interlude",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1mBrlBHhzALlEKpUeWdOzT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          },
+          "href": "https://api.spotify.com/v1/artists/7uMh23xWiuR7zsNkuNcm2G",
+          "id": "7uMh23xWiuR7zsNkuNcm2G",
+          "name": "MNEK",
+          "type": "artist",
+          "uri": "spotify:artist:7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230654,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YwZuKtyHptLlCcacS7EqJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YwZuKtyHptLlCcacS7EqJ",
+      "id": "0YwZuKtyHptLlCcacS7EqJ",
+      "name": "Blinded By Your Grace, Pt. 2 (feat. MNEK)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0YwZuKtyHptLlCcacS7EqJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184397,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4698LDOlADHX2WmTRR2N4C"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4698LDOlADHX2WmTRR2N4C",
+      "id": "4698LDOlADHX2WmTRR2N4C",
+      "name": "Return Of The Rucksack",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4698LDOlADHX2WmTRR2N4C",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217663,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XkWWCZ8THAe3MD4PVafjw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XkWWCZ8THAe3MD4PVafjw",
+      "id": "3XkWWCZ8THAe3MD4PVafjw",
+      "name": "100 Bags",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3XkWWCZ8THAe3MD4PVafjw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/0IB0VjX9NSrGX6PjCXGVcq",
+          "id": "0IB0VjX9NSrGX6PjCXGVcq",
+          "name": "Raleigh Ritchie",
+          "type": "artist",
+          "uri": "spotify:artist:0IB0VjX9NSrGX6PjCXGVcq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214471,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5r2kbgIDUCoLo7XDqtx8Xd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5r2kbgIDUCoLo7XDqtx8Xd",
+      "id": "5r2kbgIDUCoLo7XDqtx8Xd",
+      "name": "Don't Cry For Me (feat. Raleigh Ritchie)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5r2kbgIDUCoLo7XDqtx8Xd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161604,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6URchIAqoEEfL2vvLGROuK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6URchIAqoEEfL2vvLGROuK",
+      "id": "6URchIAqoEEfL2vvLGROuK",
+      "name": "Crazy Titch - Interlude",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6URchIAqoEEfL2vvLGROuK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179564,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4P8dRfSz0LBgyWfjod6v3J",
+      "id": "4P8dRfSz0LBgyWfjod6v3J",
+      "name": "Shut Up",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4P8dRfSz0LBgyWfjod6v3J",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/2SrSdSvpminqmStGELCSNd",
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist",
+          "uri": "spotify:artist:2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 304710,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/09cfOE7O2yFYzkuCCHkPVJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/09cfOE7O2yFYzkuCCHkPVJ",
+      "id": "09cfOE7O2yFYzkuCCHkPVJ",
+      "name": "Lay Me Bare",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:09cfOE7O2yFYzkuCCHkPVJ",
+      "is_local": false
+    }
+  ]
+}

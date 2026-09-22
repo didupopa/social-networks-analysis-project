@@ -1,0 +1,53 @@
+{
+  "artist_id": "4sXi6Uq6IzBaLfFi8wlb3I",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/13Yu1CGlfcmJ4tXwXBnJOg"
+      },
+      "href": "https://api.spotify.com/v1/albums/13Yu1CGlfcmJ4tXwXBnJOg",
+      "id": "13Yu1CGlfcmJ4tXwXBnJOg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cbe10c6038238ef0b37ce192",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cbe10c6038238ef0b37ce192",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cbe10c6038238ef0b37ce192",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fireplace: TheNotTheOtherSide",
+      "release_date": "2016-12-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:13Yu1CGlfcmJ4tXwXBnJOg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sXi6Uq6IzBaLfFi8wlb3I"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sXi6Uq6IzBaLfFi8wlb3I",
+          "id": "4sXi6Uq6IzBaLfFi8wlb3I",
+          "name": "Hodgy",
+          "type": "artist",
+          "uri": "spotify:artist:4sXi6Uq6IzBaLfFi8wlb3I"
+        }
+      ]
+    }
+  ]
+}

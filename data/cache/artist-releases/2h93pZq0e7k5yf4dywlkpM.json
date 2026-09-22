@@ -1,0 +1,96 @@
+{
+  "artist_id": "2h93pZq0e7k5yf4dywlkpM",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "href": "https://api.spotify.com/v1/albums/3mH6qwIy9crq0I9YQbOuDf",
+      "id": "3mH6qwIy9crq0I9YQbOuDf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Blonde",
+      "release_date": "2016-08-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3mH6qwIy9crq0I9YQbOuDf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          },
+          "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+          "id": "2h93pZq0e7k5yf4dywlkpM",
+          "name": "Frank Ocean",
+          "type": "artist",
+          "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "href": "https://api.spotify.com/v1/albums/392p3shh2jkxUxY2VHvlH8",
+      "id": "392p3shh2jkxUxY2VHvlH8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517aede4855f6d0d738012e2e5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "channel ORANGE",
+      "release_date": "2012-07-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:392p3shh2jkxUxY2VHvlH8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          },
+          "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+          "id": "2h93pZq0e7k5yf4dywlkpM",
+          "name": "Frank Ocean",
+          "type": "artist",
+          "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+        }
+      ]
+    }
+  ]
+}

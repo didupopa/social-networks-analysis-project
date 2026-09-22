@@ -1,0 +1,139 @@
+{
+  "artist_id": "75WcpJKWXBV3o3cfluWapK",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0nn4guzIh8nWFCSVFonD3T"
+      },
+      "href": "https://api.spotify.com/v1/albums/0nn4guzIh8nWFCSVFonD3T",
+      "id": "0nn4guzIh8nWFCSVFonD3T",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d6e14e9e8632c3bf2f10564",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022d6e14e9e8632c3bf2f10564",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512d6e14e9e8632c3bf2f10564",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "HARD TO REACH",
+      "release_date": "2026-07-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0nn4guzIh8nWFCSVFonD3T",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+          },
+          "href": "https://api.spotify.com/v1/artists/75WcpJKWXBV3o3cfluWapK",
+          "id": "75WcpJKWXBV3o3cfluWapK",
+          "name": "Lute",
+          "type": "artist",
+          "uri": "spotify:artist:75WcpJKWXBV3o3cfluWapK"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00"
+      },
+      "href": "https://api.spotify.com/v1/albums/5O5tzddmtxljqz3WOwFK00",
+      "id": "5O5tzddmtxljqz3WOwFK00",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f70a1788035f389a46e245fd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f70a1788035f389a46e245fd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f70a1788035f389a46e245fd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gold Mouf (Deluxe)",
+      "release_date": "2022-04-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5O5tzddmtxljqz3WOwFK00",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+          },
+          "href": "https://api.spotify.com/v1/artists/75WcpJKWXBV3o3cfluWapK",
+          "id": "75WcpJKWXBV3o3cfluWapK",
+          "name": "Lute",
+          "type": "artist",
+          "uri": "spotify:artist:75WcpJKWXBV3o3cfluWapK"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ADZKlutJLrrCTNvGoEEon"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ADZKlutJLrrCTNvGoEEon",
+      "id": "1ADZKlutJLrrCTNvGoEEon",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e0d49effb9cdbf9e34db4681",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e0d49effb9cdbf9e34db4681",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e0d49effb9cdbf9e34db4681",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "West 1996 Pt. 2",
+      "release_date": "2017-09-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1ADZKlutJLrrCTNvGoEEon",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+          },
+          "href": "https://api.spotify.com/v1/artists/75WcpJKWXBV3o3cfluWapK",
+          "id": "75WcpJKWXBV3o3cfluWapK",
+          "name": "Lute",
+          "type": "artist",
+          "uri": "spotify:artist:75WcpJKWXBV3o3cfluWapK"
+        }
+      ]
+    }
+  ]
+}

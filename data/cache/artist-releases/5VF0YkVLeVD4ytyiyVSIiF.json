@@ -1,0 +1,758 @@
+{
+  "artist_id": "5VF0YkVLeVD4ytyiyVSIiF",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7dLUmkjcnmcIwpawoLZ0Ct"
+      },
+      "href": "https://api.spotify.com/v1/albums/7dLUmkjcnmcIwpawoLZ0Ct",
+      "id": "7dLUmkjcnmcIwpawoLZ0Ct",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27326159b0a2ccee44820104c26",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0226159b0a2ccee44820104c26",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485126159b0a2ccee44820104c26",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Song Of The Earth - Instrumentals",
+      "release_date": "2025-07-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7dLUmkjcnmcIwpawoLZ0Ct",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
+          },
+          "href": "https://api.spotify.com/v1/artists/33HF8cjroL5KzkThWR689t",
+          "id": "33HF8cjroL5KzkThWR689t",
+          "name": "David Longstreth",
+          "type": "artist",
+          "uri": "spotify:artist:33HF8cjroL5KzkThWR689t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ArmVuGn8UtsupvhL3suRy",
+          "id": "6ArmVuGn8UtsupvhL3suRy",
+          "name": "stargaze",
+          "type": "artist",
+          "uri": "spotify:artist:6ArmVuGn8UtsupvhL3suRy"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35e5AbSnsRbAkZg9LqH7bt"
+      },
+      "href": "https://api.spotify.com/v1/albums/35e5AbSnsRbAkZg9LqH7bt",
+      "id": "35e5AbSnsRbAkZg9LqH7bt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734e985fe4e08b520c6ad617d1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024e985fe4e08b520c6ad617d1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514e985fe4e08b520c6ad617d1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Song Of The Earth",
+      "release_date": "2025-04-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:35e5AbSnsRbAkZg9LqH7bt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
+          },
+          "href": "https://api.spotify.com/v1/artists/33HF8cjroL5KzkThWR689t",
+          "id": "33HF8cjroL5KzkThWR689t",
+          "name": "David Longstreth",
+          "type": "artist",
+          "uri": "spotify:artist:33HF8cjroL5KzkThWR689t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ArmVuGn8UtsupvhL3suRy",
+          "id": "6ArmVuGn8UtsupvhL3suRy",
+          "name": "stargaze",
+          "type": "artist",
+          "uri": "spotify:artist:6ArmVuGn8UtsupvhL3suRy"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 27,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "href": "https://api.spotify.com/v1/albums/14xINYt1omt6jlxv8AFbly",
+      "id": "14xINYt1omt6jlxv8AFbly",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27370eb6ac6e5030a7b0abbfb27",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0270eb6ac6e5030a7b0abbfb27",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485170eb6ac6e5030a7b0abbfb27",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mount Wittenberg Orca (Expanded Edition)",
+      "release_date": "2023-06-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:14xINYt1omt6jlxv8AFbly",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          },
+          "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+          "id": "7w29UYBi0qsHi5RTcv3lmA",
+          "name": "Björk",
+          "type": "artist",
+          "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7u0QlPnsqX06KfavgPeSET"
+      },
+      "href": "https://api.spotify.com/v1/albums/7u0QlPnsqX06KfavgPeSET",
+      "id": "7u0QlPnsqX06KfavgPeSET",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5ca20c890197462628606ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5ca20c890197462628606ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e5ca20c890197462628606ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "5EPs",
+      "release_date": "2020-11-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7u0QlPnsqX06KfavgPeSET",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48gORfOPT5iEm9eooBAQiv"
+      },
+      "href": "https://api.spotify.com/v1/albums/48gORfOPT5iEm9eooBAQiv",
+      "id": "48gORfOPT5iEm9eooBAQiv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273767e143d1da0bdf91b2b7742",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02767e143d1da0bdf91b2b7742",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851767e143d1da0bdf91b2b7742",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sing The Melody",
+      "release_date": "2019-12-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:48gORfOPT5iEm9eooBAQiv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/03CZTX0lcoZGy71rOHnDxn"
+      },
+      "href": "https://api.spotify.com/v1/albums/03CZTX0lcoZGy71rOHnDxn",
+      "id": "03CZTX0lcoZGy71rOHnDxn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbfd0d52d27069b99285a92f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbfd0d52d27069b99285a92f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fbfd0d52d27069b99285a92f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lamp Lit Prose",
+      "release_date": "2018-07-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:03CZTX0lcoZGy71rOHnDxn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6HA2YKWabsGi6XWkhWoZuA"
+      },
+      "href": "https://api.spotify.com/v1/albums/6HA2YKWabsGi6XWkhWoZuA",
+      "id": "6HA2YKWabsGi6XWkhWoZuA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f128955420ab2e48cf7738c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f128955420ab2e48cf7738c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f128955420ab2e48cf7738c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dirty Projectors",
+      "release_date": "2017-02-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6HA2YKWabsGi6XWkhWoZuA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5leXnIiFPYSr7yHgdwxMDG"
+      },
+      "href": "https://api.spotify.com/v1/albums/5leXnIiFPYSr7yHgdwxMDG",
+      "id": "5leXnIiFPYSr7yHgdwxMDG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27328f844b0afeeb2492be74022",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0228f844b0afeeb2492be74022",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485128f844b0afeeb2492be74022",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Swing Lo Magellan",
+      "release_date": "2012-07-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5leXnIiFPYSr7yHgdwxMDG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zm40o2MnYmpxcKKProN8U"
+      },
+      "href": "https://api.spotify.com/v1/albums/0zm40o2MnYmpxcKKProN8U",
+      "id": "0zm40o2MnYmpxcKKProN8U",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27344c9a4f4b8e31efbe73ecc36",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0244c9a4f4b8e31efbe73ecc36",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485144c9a4f4b8e31efbe73ecc36",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mount Wittenberg Orca",
+      "release_date": "2011-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0zm40o2MnYmpxcKKProN8U",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          },
+          "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+          "id": "7w29UYBi0qsHi5RTcv3lmA",
+          "name": "Björk",
+          "type": "artist",
+          "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2MWOU3Lgu3bUZg9QeqxQMr"
+      },
+      "href": "https://api.spotify.com/v1/albums/2MWOU3Lgu3bUZg9QeqxQMr",
+      "id": "2MWOU3Lgu3bUZg9QeqxQMr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739d0e6de9dfd252056b7fbc80",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029d0e6de9dfd252056b7fbc80",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519d0e6de9dfd252056b7fbc80",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bitte Orca (Expanded Edition)",
+      "release_date": "2010-09-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2MWOU3Lgu3bUZg9QeqxQMr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Geg4mwE8z9DO5BSSUoMKz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Geg4mwE8z9DO5BSSUoMKz",
+      "id": "2Geg4mwE8z9DO5BSSUoMKz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bd8aa0e969803c31f91ff79c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bd8aa0e969803c31f91ff79c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bd8aa0e969803c31f91ff79c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bitte Orca",
+      "release_date": "2009-06-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Geg4mwE8z9DO5BSSUoMKz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/47M92OOuXeVTaBymQmp3bo"
+      },
+      "href": "https://api.spotify.com/v1/albums/47M92OOuXeVTaBymQmp3bo",
+      "id": "47M92OOuXeVTaBymQmp3bo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c369dd56f4dfdceb4277a13",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c369dd56f4dfdceb4277a13",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c369dd56f4dfdceb4277a13",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rise Above",
+      "release_date": "2007-09-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:47M92OOuXeVTaBymQmp3bo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3SMGmEqgQHZql6Bk2pOTUZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3SMGmEqgQHZql6Bk2pOTUZ",
+      "id": "3SMGmEqgQHZql6Bk2pOTUZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bb785748c2a0fbe897e5c56a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bb785748c2a0fbe897e5c56a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bb785748c2a0fbe897e5c56a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Getty Address",
+      "release_date": "2005-04-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3SMGmEqgQHZql6Bk2pOTUZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0qV69nfC11r7LlfZc27tTL"
+      },
+      "href": "https://api.spotify.com/v1/albums/0qV69nfC11r7LlfZc27tTL",
+      "id": "0qV69nfC11r7LlfZc27tTL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2984586f2da54186fccb6d8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2984586f2da54186fccb6d8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b2984586f2da54186fccb6d8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Slaves' Graves and Ballads",
+      "release_date": "2004-08-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0qV69nfC11r7LlfZc27tTL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6qseEttDbxvHdJWKovpe0A"
+      },
+      "href": "https://api.spotify.com/v1/albums/6qseEttDbxvHdJWKovpe0A",
+      "id": "6qseEttDbxvHdJWKovpe0A",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731f61740f10ec8f44631b2915",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021f61740f10ec8f44631b2915",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511f61740f10ec8f44631b2915",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Glad Fact",
+      "release_date": "2003-04-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6qseEttDbxvHdJWKovpe0A",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0BxOpqwW1aBWAovjUeSi5w"
+      },
+      "href": "https://api.spotify.com/v1/albums/0BxOpqwW1aBWAovjUeSi5w",
+      "id": "0BxOpqwW1aBWAovjUeSi5w",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f21c9c6c3fbb0e2e037b1869",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f21c9c6c3fbb0e2e037b1869",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f21c9c6c3fbb0e2e037b1869",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Morning Better Last!",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:0BxOpqwW1aBWAovjUeSi5w",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+          "id": "5VF0YkVLeVD4ytyiyVSIiF",
+          "name": "Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ]
+    }
+  ]
+}

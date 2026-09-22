@@ -69,3 +69,11 @@ Create data folders such that the structure of the project looks like this:
 ```
 python data-gathering.py
 ```
+3. To build collabs run the `build_collabs.py` script by running the following command:
+```
+python build_collabs.py
+```
+4. To expand the artists run the `expand-artists.py` script by running the following command:
+```
+python expand-artists.py
+```

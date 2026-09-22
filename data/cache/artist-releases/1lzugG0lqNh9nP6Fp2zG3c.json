@@ -1,0 +1,139 @@
+{
+  "artist_id": "1lzugG0lqNh9nP6Fp2zG3c",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2hJlyo3vjrWr5qESKfSFC5"
+      },
+      "href": "https://api.spotify.com/v1/albums/2hJlyo3vjrWr5qESKfSFC5",
+      "id": "2hJlyo3vjrWr5qESKfSFC5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27392d75b058b1a79c5d59629ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0292d75b058b1a79c5d59629ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485192d75b058b1a79c5d59629ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Go Global",
+      "release_date": "2021-04-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2hJlyo3vjrWr5qESKfSFC5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lzugG0lqNh9nP6Fp2zG3c",
+          "id": "1lzugG0lqNh9nP6Fp2zG3c",
+          "name": "Global Dan",
+          "type": "artist",
+          "uri": "spotify:artist:1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aJcLKcw0esiFodALab7dp"
+      },
+      "href": "https://api.spotify.com/v1/albums/5aJcLKcw0esiFodALab7dp",
+      "id": "5aJcLKcw0esiFodALab7dp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bc6d6fa3617f29e9b6bc103a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bc6d6fa3617f29e9b6bc103a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bc6d6fa3617f29e9b6bc103a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Global Meltdown",
+      "release_date": "2019-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5aJcLKcw0esiFodALab7dp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lzugG0lqNh9nP6Fp2zG3c",
+          "id": "1lzugG0lqNh9nP6Fp2zG3c",
+          "name": "Global Dan",
+          "type": "artist",
+          "uri": "spotify:artist:1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6J3IrGFfCM8i75uf15xFNw"
+      },
+      "href": "https://api.spotify.com/v1/albums/6J3IrGFfCM8i75uf15xFNw",
+      "id": "6J3IrGFfCM8i75uf15xFNw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27335d39966092942d4a92d418e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0235d39966092942d4a92d418e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485135d39966092942d4a92d418e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Global Warming",
+      "release_date": "2017-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6J3IrGFfCM8i75uf15xFNw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lzugG0lqNh9nP6Fp2zG3c",
+          "id": "1lzugG0lqNh9nP6Fp2zG3c",
+          "name": "Global Dan",
+          "type": "artist",
+          "uri": "spotify:artist:1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ]
+    }
+  ]
+}

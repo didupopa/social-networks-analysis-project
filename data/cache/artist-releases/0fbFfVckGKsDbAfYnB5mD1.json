@@ -1,0 +1,96 @@
+{
+  "artist_id": "0fbFfVckGKsDbAfYnB5mD1",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3sT5U1k3VBJgHZZaBJ2jGn"
+      },
+      "href": "https://api.spotify.com/v1/albums/3sT5U1k3VBJgHZZaBJ2jGn",
+      "id": "3sT5U1k3VBJgHZZaBJ2jGn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc2873b03ac5bd32cac6edb4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc2873b03ac5bd32cac6edb4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fc2873b03ac5bd32cac6edb4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Return of the Ballin",
+      "release_date": "2009-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3sT5U1k3VBJgHZZaBJ2jGn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fbFfVckGKsDbAfYnB5mD1",
+          "id": "0fbFfVckGKsDbAfYnB5mD1",
+          "name": "Mannie Fresh",
+          "type": "artist",
+          "uri": "spotify:artist:0fbFfVckGKsDbAfYnB5mD1"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5YiMuKQIdGJE1kP8HLBqA7"
+      },
+      "href": "https://api.spotify.com/v1/albums/5YiMuKQIdGJE1kP8HLBqA7",
+      "id": "5YiMuKQIdGJE1kP8HLBqA7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739bb7ef0ffb6c06e91abdb32c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029bb7ef0ffb6c06e91abdb32c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519bb7ef0ffb6c06e91abdb32c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Mind Of Mannie Fresh",
+      "release_date": "2004-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5YiMuKQIdGJE1kP8HLBqA7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fbFfVckGKsDbAfYnB5mD1",
+          "id": "0fbFfVckGKsDbAfYnB5mD1",
+          "name": "Mannie Fresh",
+          "type": "artist",
+          "uri": "spotify:artist:0fbFfVckGKsDbAfYnB5mD1"
+        }
+      ]
+    }
+  ]
+}

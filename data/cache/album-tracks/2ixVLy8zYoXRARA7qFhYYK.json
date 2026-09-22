@@ -1,0 +1,756 @@
+{
+  "album_id": "2ixVLy8zYoXRARA7qFhYYK",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AuMNF8rQAKOzjYppFNAoB",
+          "id": "3AuMNF8rQAKOzjYppFNAoB",
+          "name": "Kelly Rowland",
+          "type": "artist",
+          "uri": "spotify:artist:3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3r9q2VFSISGA5usa0imkxp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3r9q2VFSISGA5usa0imkxp",
+      "id": "3r9q2VFSISGA5usa0imkxp",
+      "name": "I Get It",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3r9q2VFSISGA5usa0imkxp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AuMNF8rQAKOzjYppFNAoB",
+          "id": "3AuMNF8rQAKOzjYppFNAoB",
+          "name": "Kelly Rowland",
+          "type": "artist",
+          "uri": "spotify:artist:3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gsclCVE8GqDjdmDQaphlX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gsclCVE8GqDjdmDQaphlX",
+          "id": "1gsclCVE8GqDjdmDQaphlX",
+          "name": "Justin Simien",
+          "type": "artist",
+          "uri": "spotify:artist:1gsclCVE8GqDjdmDQaphlX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/45yDqq0TeU5hgAeYLxoJNJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/45yDqq0TeU5hgAeYLxoJNJ",
+      "id": "45yDqq0TeU5hgAeYLxoJNJ",
+      "name": "So You Know",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:45yDqq0TeU5hgAeYLxoJNJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+          },
+          "href": "https://api.spotify.com/v1/artists/60k4atxgEIMFz4DWHp0le1",
+          "id": "60k4atxgEIMFz4DWHp0le1",
+          "name": "Braxton Cook",
+          "type": "artist",
+          "uri": "spotify:artist:60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gsclCVE8GqDjdmDQaphlX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gsclCVE8GqDjdmDQaphlX",
+          "id": "1gsclCVE8GqDjdmDQaphlX",
+          "name": "Justin Simien",
+          "type": "artist",
+          "uri": "spotify:artist:1gsclCVE8GqDjdmDQaphlX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 118533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1OPcrx4laI4owpBhCna8wl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1OPcrx4laI4owpBhCna8wl",
+      "id": "1OPcrx4laI4owpBhCna8wl",
+      "name": "Break U",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1OPcrx4laI4owpBhCna8wl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+          },
+          "href": "https://api.spotify.com/v1/artists/60k4atxgEIMFz4DWHp0le1",
+          "id": "60k4atxgEIMFz4DWHp0le1",
+          "name": "Braxton Cook",
+          "type": "artist",
+          "uri": "spotify:artist:60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2L51BK099wHA2ymKvZZSrm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2L51BK099wHA2ymKvZZSrm",
+      "id": "2L51BK099wHA2ymKvZZSrm",
+      "name": "That Dress That I Like",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2L51BK099wHA2ymKvZZSrm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AuMNF8rQAKOzjYppFNAoB",
+          "id": "3AuMNF8rQAKOzjYppFNAoB",
+          "name": "Kelly Rowland",
+          "type": "artist",
+          "uri": "spotify:artist:3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oDHswfZ03JDv4qX2m5YB1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oDHswfZ03JDv4qX2m5YB1",
+      "id": "3oDHswfZ03JDv4qX2m5YB1",
+      "name": "One Night",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3oDHswfZ03JDv4qX2m5YB1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 29327,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1k4BTyCNtIPl8taLmCbIm7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1k4BTyCNtIPl8taLmCbIm7",
+      "id": "1k4BTyCNtIPl8taLmCbIm7",
+      "name": "Thank You So Much",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1k4BTyCNtIPl8taLmCbIm7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 76973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7wKa4ZRNM3t1D9bojc7Nn6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7wKa4ZRNM3t1D9bojc7Nn6",
+      "id": "7wKa4ZRNM3t1D9bojc7Nn6",
+      "name": "Walking Home / Superstitions",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7wKa4ZRNM3t1D9bojc7Nn6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 50600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MFhwx4gMrsMxIA4jUrsQC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MFhwx4gMrsMxIA4jUrsQC",
+      "id": "2MFhwx4gMrsMxIA4jUrsQC",
+      "name": "Zora Will See You Now",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2MFhwx4gMrsMxIA4jUrsQC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 66933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2IMHhJLroElbLguTKcAfRV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2IMHhJLroElbLguTKcAfRV",
+      "id": "2IMHhJLroElbLguTKcAfRV",
+      "name": "Now Or Never",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2IMHhJLroElbLguTKcAfRV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 122880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qO7msAXIOIvJuDtpOJh7u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qO7msAXIOIvJuDtpOJh7u",
+      "id": "5qO7msAXIOIvJuDtpOJh7u",
+      "name": "Waiting Room / Lets Find Her",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5qO7msAXIOIvJuDtpOJh7u",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 141520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03AaxSIl3SrORBRjGfQUHr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03AaxSIl3SrORBRjGfQUHr",
+      "id": "03AaxSIl3SrORBRjGfQUHr",
+      "name": "Tenderheaded",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:03AaxSIl3SrORBRjGfQUHr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 83435,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2b8dY23d4q8tYIkDBnQeXb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2b8dY23d4q8tYIkDBnQeXb",
+      "id": "2b8dY23d4q8tYIkDBnQeXb",
+      "name": "Mr. Tannen",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2b8dY23d4q8tYIkDBnQeXb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6MmJG1J12WS3XcY9qYwQxf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6MmJG1J12WS3XcY9qYwQxf",
+      "id": "6MmJG1J12WS3XcY9qYwQxf",
+      "name": "The Moss Haired Girl",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6MmJG1J12WS3XcY9qYwQxf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 77400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XW4CRQo6b2qGdrVqkvLs3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XW4CRQo6b2qGdrVqkvLs3",
+      "id": "5XW4CRQo6b2qGdrVqkvLs3",
+      "name": "New Hair",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5XW4CRQo6b2qGdrVqkvLs3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 96213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3poW3kEbhAkpbJjo1mFj1h"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3poW3kEbhAkpbJjo1mFj1h",
+      "id": "3poW3kEbhAkpbJjo1mFj1h",
+      "name": "Get Your Girls In Check / Eyes",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3poW3kEbhAkpbJjo1mFj1h",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3FegFITJFDJo3mam8Zf0z1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3FegFITJFDJo3mam8Zf0z1",
+      "id": "3FegFITJFDJo3mam8Zf0z1",
+      "name": "Linda Visits",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3FegFITJFDJo3mam8Zf0z1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162786,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0lUMuLWYkv6hcHnOuzLLgn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0lUMuLWYkv6hcHnOuzLLgn",
+      "id": "0lUMuLWYkv6hcHnOuzLLgn",
+      "name": "I Know the Game / WTF Is This?!",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0lUMuLWYkv6hcHnOuzLLgn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 98946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/64YwleuJXiyk9bD6Lz53Sd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/64YwleuJXiyk9bD6Lz53Sd",
+      "id": "64YwleuJXiyk9bD6Lz53Sd",
+      "name": "I Bet He Slipped",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:64YwleuJXiyk9bD6Lz53Sd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163346,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6txDOJdsuePGbp2Q7SlAsz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6txDOJdsuePGbp2Q7SlAsz",
+      "id": "6txDOJdsuePGbp2Q7SlAsz",
+      "name": "This Never Happened",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:6txDOJdsuePGbp2Q7SlAsz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 56040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gmivJTXRl4kgzguua7V6o"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0gmivJTXRl4kgzguua7V6o",
+      "id": "0gmivJTXRl4kgzguua7V6o",
+      "name": "You Ever Miss Me? / Red or White?",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:0gmivJTXRl4kgzguua7V6o",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4IM6HMU8MXj7mP2vr1in2E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4IM6HMU8MXj7mP2vr1in2E",
+      "id": "4IM6HMU8MXj7mP2vr1in2E",
+      "name": "Hair Attacks Julius",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:4IM6HMU8MXj7mP2vr1in2E",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7F7ej3OCmusfLekux2S59D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7F7ej3OCmusfLekux2S59D",
+      "id": "7F7ej3OCmusfLekux2S59D",
+      "name": "Rush of Hunger",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:7F7ej3OCmusfLekux2S59D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 78773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2B9Stx0gM0bWm4XigRQ42q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2B9Stx0gM0bWm4XigRQ42q",
+      "id": "2B9Stx0gM0bWm4XigRQ42q",
+      "name": "Where Are You?",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:2B9Stx0gM0bWm4XigRQ42q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7AfBIf17pHmCGp50htyNsE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7AfBIf17pHmCGp50htyNsE",
+      "id": "7AfBIf17pHmCGp50htyNsE",
+      "name": "Zora’s Office / No Entry Chase",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:7AfBIf17pHmCGp50htyNsE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 145350,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/22b9sE23BPOZnWC8QjoI0P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/22b9sE23BPOZnWC8QjoI0P",
+      "id": "22b9sE23BPOZnWC8QjoI0P",
+      "name": "Forget Your Coat",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:22b9sE23BPOZnWC8QjoI0P",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61tn2FZXMDsPX3jnQzbCp2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61tn2FZXMDsPX3jnQzbCp2",
+      "id": "61tn2FZXMDsPX3jnQzbCp2",
+      "name": "Finally Got In",
+      "track_number": 26,
+      "type": "track",
+      "uri": "spotify:track:61tn2FZXMDsPX3jnQzbCp2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wWBoQpcybsDVpouFubTqZ",
+          "id": "2wWBoQpcybsDVpouFubTqZ",
+          "name": "Kris Bowers",
+          "type": "artist",
+          "uri": "spotify:artist:2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2BbIkEGLDlxUy3LI38Fqhh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2BbIkEGLDlxUy3LI38Fqhh",
+      "id": "2BbIkEGLDlxUy3LI38Fqhh",
+      "name": "Before Your Histories Began / She Looks Happy",
+      "track_number": 27,
+      "type": "track",
+      "uri": "spotify:track:2BbIkEGLDlxUy3LI38Fqhh",
+      "is_local": false
+    }
+  ]
+}

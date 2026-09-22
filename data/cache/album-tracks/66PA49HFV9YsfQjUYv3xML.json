@@ -1,0 +1,576 @@
+{
+  "album_id": "66PA49HFV9YsfQjUYv3xML",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 287573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ShpcCVYJb4O8eQGpLbkTr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ShpcCVYJb4O8eQGpLbkTr",
+      "id": "1ShpcCVYJb4O8eQGpLbkTr",
+      "name": "Yuck!",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1ShpcCVYJb4O8eQGpLbkTr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5itfcSf8PYl3Zjm0ayDCRs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5itfcSf8PYl3Zjm0ayDCRs",
+      "id": "5itfcSf8PYl3Zjm0ayDCRs",
+      "name": "Crack",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5itfcSf8PYl3Zjm0ayDCRs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kPVyJG0Bp3Nt6LF1nqW0y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7kPVyJG0Bp3Nt6LF1nqW0y",
+      "id": "7kPVyJG0Bp3Nt6LF1nqW0y",
+      "name": "Dope Peddler",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7kPVyJG0Bp3Nt6LF1nqW0y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Ox97hNeJSWFCZ8vp76vog"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Ox97hNeJSWFCZ8vp76vog",
+      "id": "4Ox97hNeJSWFCZ8vp76vog",
+      "name": "No Lie",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4Ox97hNeJSWFCZ8vp76vog",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 306600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lYNAMcsDInBmFuR0FaRcD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lYNAMcsDInBmFuR0FaRcD",
+      "id": "4lYNAMcsDInBmFuR0FaRcD",
+      "name": "Birthday Song",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4lYNAMcsDInBmFuR0FaRcD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1odwi1SN3pJKENZe12U2OQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1odwi1SN3pJKENZe12U2OQ",
+      "id": "1odwi1SN3pJKENZe12U2OQ",
+      "name": "I'm Different",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1odwi1SN3pJKENZe12U2OQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz",
+          "id": "1W3FSF1BLpY3hlVIgvenLz",
+          "name": "THE-DREAM",
+          "type": "artist",
+          "uri": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1BQWVYCu9aJ6jjcYDlHsTZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1BQWVYCu9aJ6jjcYDlHsTZ",
+      "id": "1BQWVYCu9aJ6jjcYDlHsTZ",
+      "name": "Extremely Blessed",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1BQWVYCu9aJ6jjcYDlHsTZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0JxO2Pj45dELEtzWCPWrm8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0JxO2Pj45dELEtzWCPWrm8",
+      "id": "0JxO2Pj45dELEtzWCPWrm8",
+      "name": "I Luv Dem Strippers",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0JxO2Pj45dELEtzWCPWrm8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3NU42I1X49kZFvwiHBcAgP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3NU42I1X49kZFvwiHBcAgP",
+          "id": "3NU42I1X49kZFvwiHBcAgP",
+          "name": "Dolla Boy",
+          "type": "artist",
+          "uri": "spotify:artist:3NU42I1X49kZFvwiHBcAgP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4jES5gwa9La3jjYajIHFDe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4jES5gwa9La3jjYajIHFDe",
+      "id": "4jES5gwa9La3jjYajIHFDe",
+      "name": "Stop Me Now",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4jES5gwa9La3jjYajIHFDe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4LCuYGJVtRSvSfVhOzIUM6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4LCuYGJVtRSvSfVhOzIUM6",
+      "id": "4LCuYGJVtRSvSfVhOzIUM6",
+      "name": "Money Machine",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4LCuYGJVtRSvSfVhOzIUM6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6i7GfB6rnLB1GZLSFxo9an"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6i7GfB6rnLB1GZLSFxo9an",
+      "id": "6i7GfB6rnLB1GZLSFxo9an",
+      "name": "In Town",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6i7GfB6rnLB1GZLSFxo9an",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+          },
+          "href": "https://api.spotify.com/v1/artists/19KwjzvIL92r29IINtlPNP",
+          "id": "19KwjzvIL92r29IINtlPNP",
+          "name": "Scarface",
+          "type": "artist",
+          "uri": "spotify:artist:19KwjzvIL92r29IINtlPNP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/29CkoZJbH25R1jHAy2SFWl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/29CkoZJbH25R1jHAy2SFWl",
+      "id": "29CkoZJbH25R1jHAy2SFWl",
+      "name": "Ghetto Dreams",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:29CkoZJbH25R1jHAy2SFWl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fgzPKgybjWkjRelApW4OF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fgzPKgybjWkjRelApW4OF",
+          "id": "7fgzPKgybjWkjRelApW4OF",
+          "name": "Cap 1",
+          "type": "artist",
+          "uri": "spotify:artist:7fgzPKgybjWkjRelApW4OF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5rQZR2ktO53dL0jqBlnGxU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5rQZR2ktO53dL0jqBlnGxU",
+      "id": "5rQZR2ktO53dL0jqBlnGxU",
+      "name": "Wut We Doin?",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5rQZR2ktO53dL0jqBlnGxU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2bHNUjUa7QszXbXT0kwGq2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2bHNUjUa7QszXbXT0kwGq2",
+      "id": "2bHNUjUa7QszXbXT0kwGq2",
+      "name": "Countdown",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2bHNUjUa7QszXbXT0kwGq2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6R0gPYPpafPjSxmHtNHzUq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6R0gPYPpafPjSxmHtNHzUq",
+      "id": "6R0gPYPpafPjSxmHtNHzUq",
+      "name": "Like Me",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:6R0gPYPpafPjSxmHtNHzUq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 141840,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ZeU5SHo4h5iM0OWrc6ufF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ZeU5SHo4h5iM0OWrc6ufF",
+      "id": "3ZeU5SHo4h5iM0OWrc6ufF",
+      "name": "I Feel Good",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3ZeU5SHo4h5iM0OWrc6ufF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4gd29fPdIIIU7cHJXwtycl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4gd29fPdIIIU7cHJXwtycl",
+      "id": "4gd29fPdIIIU7cHJXwtycl",
+      "name": "Riot",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:4gd29fPdIIIU7cHJXwtycl",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "artist_id": "7cKlb63iLFs9kvJfa8ZFhi",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5AzpxFD5l5i5Iy0DiVSDj6"
+      },
+      "href": "https://api.spotify.com/v1/albums/5AzpxFD5l5i5Iy0DiVSDj6",
+      "id": "5AzpxFD5l5i5Iy0DiVSDj6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27359f8373ce3c8feb89b8f5106",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0259f8373ce3c8feb89b8f5106",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485159f8373ce3c8feb89b8f5106",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live From Moscow (Live From Moscow / 1979)",
+      "release_date": "2020-01-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5AzpxFD5l5i5Iy0DiVSDj6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "type": "artist",
+          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cKlb63iLFs9kvJfa8ZFhi"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cKlb63iLFs9kvJfa8ZFhi",
+          "id": "7cKlb63iLFs9kvJfa8ZFhi",
+          "name": "Ray Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:7cKlb63iLFs9kvJfa8ZFhi"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 34,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oBfLus957Tkwe3oqO7JU0"
+      },
+      "href": "https://api.spotify.com/v1/albums/3oBfLus957Tkwe3oqO7JU0",
+      "id": "3oBfLus957Tkwe3oqO7JU0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b58cde20e1eafca9dc43fde",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022b58cde20e1eafca9dc43fde",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512b58cde20e1eafca9dc43fde",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Percussion Spectrum",
+      "release_date": "1979-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3oBfLus957Tkwe3oqO7JU0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KECBDaABbGge01XiNsiGZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KECBDaABbGge01XiNsiGZ",
+          "id": "1KECBDaABbGge01XiNsiGZ",
+          "name": "Barry Morgan",
+          "type": "artist",
+          "uri": "spotify:artist:1KECBDaABbGge01XiNsiGZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cKlb63iLFs9kvJfa8ZFhi"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cKlb63iLFs9kvJfa8ZFhi",
+          "id": "7cKlb63iLFs9kvJfa8ZFhi",
+          "name": "Ray Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:7cKlb63iLFs9kvJfa8ZFhi"
+        }
+      ]
+    }
+  ]
+}

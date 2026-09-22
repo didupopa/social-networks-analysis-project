@@ -1,0 +1,106 @@
+{
+  "artist_id": "1OY0QiDvR2Un8QCpKxcEnY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Om44E4HxcHSwnb3jdBasd"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Om44E4HxcHSwnb3jdBasd",
+      "id": "6Om44E4HxcHSwnb3jdBasd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27369629c83513e1d35a9d14eb7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0269629c83513e1d35a9d14eb7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485169629c83513e1d35a9d14eb7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CUBO",
+      "release_date": "2021-11-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Om44E4HxcHSwnb3jdBasd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OY0QiDvR2Un8QCpKxcEnY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OY0QiDvR2Un8QCpKxcEnY",
+          "id": "1OY0QiDvR2Un8QCpKxcEnY",
+          "name": "Cubo",
+          "type": "artist",
+          "uri": "spotify:artist:1OY0QiDvR2Un8QCpKxcEnY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1h2C7qWOBVrcfDORSkLH4M"
+      },
+      "href": "https://api.spotify.com/v1/albums/1h2C7qWOBVrcfDORSkLH4M",
+      "id": "1h2C7qWOBVrcfDORSkLH4M",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e0ceea850d2c8d053f5681f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029e0ceea850d2c8d053f5681f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519e0ceea850d2c8d053f5681f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Profundidad De Campo",
+      "release_date": "2019",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:1h2C7qWOBVrcfDORSkLH4M",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RrqezcH2vHdOPHLAdZCea"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RrqezcH2vHdOPHLAdZCea",
+          "id": "4RrqezcH2vHdOPHLAdZCea",
+          "name": "Golden Gazelle",
+          "type": "artist",
+          "uri": "spotify:artist:4RrqezcH2vHdOPHLAdZCea"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OY0QiDvR2Un8QCpKxcEnY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OY0QiDvR2Un8QCpKxcEnY",
+          "id": "1OY0QiDvR2Un8QCpKxcEnY",
+          "name": "Cubo",
+          "type": "artist",
+          "uri": "spotify:artist:1OY0QiDvR2Un8QCpKxcEnY"
+        }
+      ]
+    }
+  ]
+}

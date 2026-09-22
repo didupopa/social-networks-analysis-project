@@ -1,0 +1,96 @@
+{
+  "artist_id": "0omFWrLn7oQeN8BuSOcP1P",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7tyFYLaIFKQiPXrqlysc42"
+      },
+      "href": "https://api.spotify.com/v1/albums/7tyFYLaIFKQiPXrqlysc42",
+      "id": "7tyFYLaIFKQiPXrqlysc42",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733bf845a5ad6592ac32605aa0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023bf845a5ad6592ac32605aa0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513bf845a5ad6592ac32605aa0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "By Design",
+      "release_date": "2020-01-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7tyFYLaIFKQiPXrqlysc42",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0omFWrLn7oQeN8BuSOcP1P"
+          },
+          "href": "https://api.spotify.com/v1/artists/0omFWrLn7oQeN8BuSOcP1P",
+          "id": "0omFWrLn7oQeN8BuSOcP1P",
+          "name": "Shanell",
+          "type": "artist",
+          "uri": "spotify:artist:0omFWrLn7oQeN8BuSOcP1P"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1radXM6J9OmHUZeghedyQH"
+      },
+      "href": "https://api.spotify.com/v1/albums/1radXM6J9OmHUZeghedyQH",
+      "id": "1radXM6J9OmHUZeghedyQH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b930819beda29bc20db67ff0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b930819beda29bc20db67ff0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b930819beda29bc20db67ff0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nobodys Bitch 2",
+      "release_date": "2015-02-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1radXM6J9OmHUZeghedyQH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0omFWrLn7oQeN8BuSOcP1P"
+          },
+          "href": "https://api.spotify.com/v1/artists/0omFWrLn7oQeN8BuSOcP1P",
+          "id": "0omFWrLn7oQeN8BuSOcP1P",
+          "name": "Shanell",
+          "type": "artist",
+          "uri": "spotify:artist:0omFWrLn7oQeN8BuSOcP1P"
+        }
+      ]
+    }
+  ]
+}

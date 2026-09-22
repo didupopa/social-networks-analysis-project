@@ -1,0 +1,917 @@
+{
+  "album_id": "2yE3RMpqTr8FAdNWQL9BAL",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23AUjbAIOlR1VKIcUKecMm"
+          },
+          "href": "https://api.spotify.com/v1/artists/23AUjbAIOlR1VKIcUKecMm",
+          "id": "23AUjbAIOlR1VKIcUKecMm",
+          "name": "Whoo Kid",
+          "type": "artist",
+          "uri": "spotify:artist:23AUjbAIOlR1VKIcUKecMm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 31186,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UnjTtdkDz4yxs6n36AuI4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UnjTtdkDz4yxs6n36AuI4",
+      "id": "1UnjTtdkDz4yxs6n36AuI4",
+      "name": "Obama Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1UnjTtdkDz4yxs6n36AuI4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 62826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4kf6KNeBTDqiQOd1PtH5Yd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4kf6KNeBTDqiQOd1PtH5Yd",
+      "id": "4kf6KNeBTDqiQOd1PtH5Yd",
+      "name": "Get Yo Hustle On",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4kf6KNeBTDqiQOd1PtH5Yd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 135773,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1w4UdiWzdx6k8ZyfnRfX4i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1w4UdiWzdx6k8ZyfnRfX4i",
+      "id": "1w4UdiWzdx6k8ZyfnRfX4i",
+      "name": "On The Block",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1w4UdiWzdx6k8ZyfnRfX4i",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 121760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nj7LIXVa5brqejBI34P5e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nj7LIXVa5brqejBI34P5e",
+      "id": "0nj7LIXVa5brqejBI34P5e",
+      "name": "Crack",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0nj7LIXVa5brqejBI34P5e",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 145613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HHwiZIWbjLPG6QsTlcsVT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HHwiZIWbjLPG6QsTlcsVT",
+      "id": "5HHwiZIWbjLPG6QsTlcsVT",
+      "name": "I Am Legend",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5HHwiZIWbjLPG6QsTlcsVT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 103706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7uZmbbTXNfPtuEGWBMHAAz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7uZmbbTXNfPtuEGWBMHAAz",
+      "id": "7uZmbbTXNfPtuEGWBMHAAz",
+      "name": "Ghetto Supastar",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7uZmbbTXNfPtuEGWBMHAAz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/73bFHfoEbaYEK8s6iQE4Ev"
+      },
+      "href": "https://api.spotify.com/v1/tracks/73bFHfoEbaYEK8s6iQE4Ev",
+      "id": "73bFHfoEbaYEK8s6iQE4Ev",
+      "name": "Supastar (Crack Version)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:73bFHfoEbaYEK8s6iQE4Ev",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DEavAUe4IZOTEtIA7B4lo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DEavAUe4IZOTEtIA7B4lo",
+          "id": "2DEavAUe4IZOTEtIA7B4lo",
+          "name": "Sosa",
+          "type": "artist",
+          "uri": "spotify:artist:2DEavAUe4IZOTEtIA7B4lo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166106,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6IW5RwVjTjJSVrLMVc8yY3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6IW5RwVjTjJSVrLMVc8yY3",
+      "id": "6IW5RwVjTjJSVrLMVc8yY3",
+      "name": "The Re-Up",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6IW5RwVjTjJSVrLMVc8yY3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23AUjbAIOlR1VKIcUKecMm"
+          },
+          "href": "https://api.spotify.com/v1/artists/23AUjbAIOlR1VKIcUKecMm",
+          "id": "23AUjbAIOlR1VKIcUKecMm",
+          "name": "Whoo Kid",
+          "type": "artist",
+          "uri": "spotify:artist:23AUjbAIOlR1VKIcUKecMm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 102706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Szyhel4V6S1w4NV2KryZG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Szyhel4V6S1w4NV2KryZG",
+      "id": "5Szyhel4V6S1w4NV2KryZG",
+      "name": "Overdose Skit",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5Szyhel4V6S1w4NV2KryZG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zrMGaRSRvx67vF4xzvUcu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zrMGaRSRvx67vF4xzvUcu",
+          "id": "1zrMGaRSRvx67vF4xzvUcu",
+          "name": "C-Bo",
+          "type": "artist",
+          "uri": "spotify:artist:1zrMGaRSRvx67vF4xzvUcu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 116026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VtbcWnJBWbCjTxuU7j9bS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VtbcWnJBWbCjTxuU7j9bS",
+      "id": "4VtbcWnJBWbCjTxuU7j9bS",
+      "name": "I Got It Like That",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4VtbcWnJBWbCjTxuU7j9bS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 23040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Q04gT86zD0vw1l1nSbMQa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Q04gT86zD0vw1l1nSbMQa",
+      "id": "1Q04gT86zD0vw1l1nSbMQa",
+      "name": "Skit",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1Q04gT86zD0vw1l1nSbMQa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ddJ8JOJY1Cn9PqzPPPV82"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ddJ8JOJY1Cn9PqzPPPV82",
+      "id": "7ddJ8JOJY1Cn9PqzPPPV82",
+      "name": "2 G's Up",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7ddJ8JOJY1Cn9PqzPPPV82",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5B5btwpGLTSKSou8c1qkoE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5B5btwpGLTSKSou8c1qkoE",
+      "id": "5B5btwpGLTSKSou8c1qkoE",
+      "name": "Luv Me No More",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5B5btwpGLTSKSou8c1qkoE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 144720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HbgB7d2CEsh4cHtcRbDTs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HbgB7d2CEsh4cHtcRbDTs",
+      "id": "5HbgB7d2CEsh4cHtcRbDTs",
+      "name": "Money Rules The World",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5HbgB7d2CEsh4cHtcRbDTs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kortApcf0ntRWexUkJE4H",
+          "id": "3kortApcf0ntRWexUkJE4H",
+          "name": "Uncle Murda",
+          "type": "artist",
+          "uri": "spotify:artist:3kortApcf0ntRWexUkJE4H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 90173,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6MPUf1yhjyuRmsBf8HCCpF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6MPUf1yhjyuRmsBf8HCCpF",
+      "id": "6MPUf1yhjyuRmsBf8HCCpF",
+      "name": "We Grinding",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:6MPUf1yhjyuRmsBf8HCCpF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23AUjbAIOlR1VKIcUKecMm"
+          },
+          "href": "https://api.spotify.com/v1/artists/23AUjbAIOlR1VKIcUKecMm",
+          "id": "23AUjbAIOlR1VKIcUKecMm",
+          "name": "Whoo Kid",
+          "type": "artist",
+          "uri": "spotify:artist:23AUjbAIOlR1VKIcUKecMm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5nRgUKO5xT3lHsuF2emSKd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5nRgUKO5xT3lHsuF2emSKd",
+      "id": "5nRgUKO5xT3lHsuF2emSKd",
+      "name": "Slingin Night N Day",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5nRgUKO5xT3lHsuF2emSKd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23AUjbAIOlR1VKIcUKecMm"
+          },
+          "href": "https://api.spotify.com/v1/artists/23AUjbAIOlR1VKIcUKecMm",
+          "id": "23AUjbAIOlR1VKIcUKecMm",
+          "name": "Whoo Kid",
+          "type": "artist",
+          "uri": "spotify:artist:23AUjbAIOlR1VKIcUKecMm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 99706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0OLvKLm0lA72ZEspV9yeet"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0OLvKLm0lA72ZEspV9yeet",
+      "id": "0OLvKLm0lA72ZEspV9yeet",
+      "name": "Ron Paul Legalizing Heroin Skit",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0OLvKLm0lA72ZEspV9yeet",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 150440,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5iPFlKYtAMAv2G5jeQchyu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5iPFlKYtAMAv2G5jeQchyu",
+      "id": "5iPFlKYtAMAv2G5jeQchyu",
+      "name": "All Eyes On Me",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5iPFlKYtAMAv2G5jeQchyu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SNgjgfHoN3G4iU38n8lQ4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SNgjgfHoN3G4iU38n8lQ4",
+          "id": "3SNgjgfHoN3G4iU38n8lQ4",
+          "name": "BadAss",
+          "type": "artist",
+          "uri": "spotify:artist:3SNgjgfHoN3G4iU38n8lQ4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 174000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lsAg9PIhW1w4BJein2VBB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lsAg9PIhW1w4BJein2VBB",
+      "id": "4lsAg9PIhW1w4BJein2VBB",
+      "name": "Moving Candy",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:4lsAg9PIhW1w4BJein2VBB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23AUjbAIOlR1VKIcUKecMm"
+          },
+          "href": "https://api.spotify.com/v1/artists/23AUjbAIOlR1VKIcUKecMm",
+          "id": "23AUjbAIOlR1VKIcUKecMm",
+          "name": "Whoo Kid",
+          "type": "artist",
+          "uri": "spotify:artist:23AUjbAIOlR1VKIcUKecMm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 27160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7gb3kQ2VOEoqhtjcDi4nBJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7gb3kQ2VOEoqhtjcDi4nBJ",
+      "id": "7gb3kQ2VOEoqhtjcDi4nBJ",
+      "name": "Governor Arnold Schwarzenegger Admits He Smokes Skit",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:7gb3kQ2VOEoqhtjcDi4nBJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15AO16OPhHnCoKOHe3rI0h"
+          },
+          "href": "https://api.spotify.com/v1/artists/15AO16OPhHnCoKOHe3rI0h",
+          "id": "15AO16OPhHnCoKOHe3rI0h",
+          "name": "Slim Da Mobster",
+          "type": "artist",
+          "uri": "spotify:artist:15AO16OPhHnCoKOHe3rI0h"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211546,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Ldq4lEZk7Z2x0vHAiqnUj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Ldq4lEZk7Z2x0vHAiqnUj",
+      "id": "7Ldq4lEZk7Z2x0vHAiqnUj",
+      "name": "1000 Gram Man",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:7Ldq4lEZk7Z2x0vHAiqnUj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 28133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uuwjLB0tIl5TNLspsvIJS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uuwjLB0tIl5TNLspsvIJS",
+      "id": "0uuwjLB0tIl5TNLspsvIJS",
+      "name": "Amsterdam Skit",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:0uuwjLB0tIl5TNLspsvIJS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RV0poOKGzij1Xe9dsO57h",
+          "id": "4RV0poOKGzij1Xe9dsO57h",
+          "name": "Bishop Lamont",
+          "type": "artist",
+          "uri": "spotify:artist:4RV0poOKGzij1Xe9dsO57h"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6DD7k8NhHTUNjMwWOSkVo8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6DD7k8NhHTUNjMwWOSkVo8",
+      "id": "6DD7k8NhHTUNjMwWOSkVo8",
+      "name": "Smokin King Kong",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:6DD7k8NhHTUNjMwWOSkVo8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist",
+          "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3tRUx0SsXJHh9lSKf2yGrT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3tRUx0SsXJHh9lSKf2yGrT",
+      "id": "3tRUx0SsXJHh9lSKf2yGrT",
+      "name": "I Got Money (Paper Chaser)",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:3tRUx0SsXJHh9lSKf2yGrT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+          "id": "3PDMMt0Ip2WHysoAOEAdBq",
+          "name": "Ca$his",
+          "type": "artist",
+          "uri": "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78X4e9PZTdnloeCGV4LgLq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78X4e9PZTdnloeCGV4LgLq",
+      "id": "78X4e9PZTdnloeCGV4LgLq",
+      "name": "I Got That Product",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:78X4e9PZTdnloeCGV4LgLq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist",
+          "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 58000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4qh4MHRmG4dUjx0v2vZnRY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4qh4MHRmG4dUjx0v2vZnRY",
+      "id": "4qh4MHRmG4dUjx0v2vZnRY",
+      "name": "Smoke Crack Skit",
+      "track_number": 26,
+      "type": "track",
+      "uri": "spotify:track:4qh4MHRmG4dUjx0v2vZnRY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist",
+          "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3UuuRq1FVu8uJS943GVcRo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3UuuRq1FVu8uJS943GVcRo",
+      "id": "3UuuRq1FVu8uJS943GVcRo",
+      "name": "Good To You",
+      "track_number": 27,
+      "type": "track",
+      "uri": "spotify:track:3UuuRq1FVu8uJS943GVcRo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5wk2AYsyzmcDLL5Pw45gPT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5wk2AYsyzmcDLL5Pw45gPT",
+          "id": "5wk2AYsyzmcDLL5Pw45gPT",
+          "name": "Yo Gottie",
+          "type": "artist",
+          "uri": "spotify:artist:5wk2AYsyzmcDLL5Pw45gPT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+          "id": "6Uh8uJyN9g7oFjDK16nJgb",
+          "name": "Juelz Santana",
+          "type": "artist",
+          "uri": "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169946,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5t7eQjTBvyB3wLa1BKnNMl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5t7eQjTBvyB3wLa1BKnNMl",
+      "id": "5t7eQjTBvyB3wLa1BKnNMl",
+      "name": "Cocaine",
+      "track_number": 28,
+      "type": "track",
+      "uri": "spotify:track:5t7eQjTBvyB3wLa1BKnNMl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23AUjbAIOlR1VKIcUKecMm"
+          },
+          "href": "https://api.spotify.com/v1/artists/23AUjbAIOlR1VKIcUKecMm",
+          "id": "23AUjbAIOlR1VKIcUKecMm",
+          "name": "Whoo Kid",
+          "type": "artist",
+          "uri": "spotify:artist:23AUjbAIOlR1VKIcUKecMm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 66466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6G7WAhJRbrqlJneTEmn14Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6G7WAhJRbrqlJneTEmn14Y",
+      "id": "6G7WAhJRbrqlJneTEmn14Y",
+      "name": "Burning Drugs Outro",
+      "track_number": 29,
+      "type": "track",
+      "uri": "spotify:track:6G7WAhJRbrqlJneTEmn14Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0WGpnNO9o1yDkXXOKkh6Kp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0WGpnNO9o1yDkXXOKkh6Kp",
+      "id": "0WGpnNO9o1yDkXXOKkh6Kp",
+      "name": "Hood Newz Outro",
+      "track_number": 30,
+      "type": "track",
+      "uri": "spotify:track:0WGpnNO9o1yDkXXOKkh6Kp",
+      "is_local": false
+    }
+  ]
+}

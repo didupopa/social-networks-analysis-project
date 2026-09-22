@@ -1,0 +1,1776 @@
+{
+  "album_id": "1G8H8mYlBXDd17bA9CxWMo",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 654226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7dy832f4fQKIp7Rwo84pz6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7dy832f4fQKIp7Rwo84pz6",
+      "id": "7dy832f4fQKIp7Rwo84pz6",
+      "name": "Prologue of Dionysos",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7dy832f4fQKIp7Rwo84pz6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cnNj77AFfSryAQ3KcqgnW"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cnNj77AFfSryAQ3KcqgnW",
+          "id": "7cnNj77AFfSryAQ3KcqgnW",
+          "name": "Sara Fulgoni",
+          "type": "artist",
+          "uri": "spotify:artist:7cnNj77AFfSryAQ3KcqgnW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 362226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63oYNAjPD5vYA0XVcXdNTQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63oYNAjPD5vYA0XVcXdNTQ",
+      "id": "63oYNAjPD5vYA0XVcXdNTQ",
+      "name": "Song of the Ghost of Carmen",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:63oYNAjPD5vYA0XVcXdNTQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+          "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+          "name": "London Voices",
+          "type": "artist",
+          "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 428413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0CAP26Y70XycjJM5Y0OQpB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0CAP26Y70XycjJM5Y0OQpB",
+      "id": "0CAP26Y70XycjJM5Y0OQpB",
+      "name": "Grand grand freedom",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0CAP26Y70XycjJM5Y0OQpB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3W2Tgi49gFz8aLl0HQP0U3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3W2Tgi49gFz8aLl0HQP0U3",
+      "id": "3W2Tgi49gFz8aLl0HQP0U3",
+      "name": "Unfailing Welcome to the Voice",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3W2Tgi49gFz8aLl0HQP0U3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XKaxzmWLROE1AH1XmaPTm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XKaxzmWLROE1AH1XmaPTm",
+          "id": "0XKaxzmWLROE1AH1XmaPTm",
+          "name": "Nathalie Manfrino",
+          "type": "artist",
+          "uri": "spotify:artist:0XKaxzmWLROE1AH1XmaPTm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170586,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Aff5GX9dmcfimQfaSzZcV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Aff5GX9dmcfimQfaSzZcV",
+      "id": "6Aff5GX9dmcfimQfaSzZcV",
+      "name": "Song of the Ghost of Butterfly",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6Aff5GX9dmcfimQfaSzZcV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40D3Pq5IP1pmi5uTpBBDsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/40D3Pq5IP1pmi5uTpBBDsa",
+          "id": "40D3Pq5IP1pmi5uTpBBDsa",
+          "name": "Amanda Roocroft",
+          "type": "artist",
+          "uri": "spotify:artist:40D3Pq5IP1pmi5uTpBBDsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0cgHglNzKHS2tlUiJXBKB0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0cgHglNzKHS2tlUiJXBKB0",
+      "id": "0cgHglNzKHS2tlUiJXBKB0",
+      "name": "Song of the Ghost of Norma",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0cgHglNzKHS2tlUiJXBKB0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kpMjUQYlc6TxZA6etlB0G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kpMjUQYlc6TxZA6etlB0G",
+      "id": "5kpMjUQYlc6TxZA6etlB0G",
+      "name": "To Be is Strong",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5kpMjUQYlc6TxZA6etlB0G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mi5rSxLkwHWNxSlwV3hPs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mi5rSxLkwHWNxSlwV3hPs",
+      "id": "3mi5rSxLkwHWNxSlwV3hPs",
+      "name": "Perfume Song",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3mi5rSxLkwHWNxSlwV3hPs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0S542xR4052z8IYFCDZUbX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0S542xR4052z8IYFCDZUbX",
+      "id": "0S542xR4052z8IYFCDZUbX",
+      "name": "The Desire of Dionysos",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0S542xR4052z8IYFCDZUbX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+          "id": "2BGRfQgtzikz1pzAD0kaEn",
+          "name": "Elvis Costello",
+          "type": "artist",
+          "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+          "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+          "name": "London Voices",
+          "type": "artist",
+          "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AR0sUwHfzIgNZGUjlE777"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AR0sUwHfzIgNZGUjlE777",
+          "id": "0AR0sUwHfzIgNZGUjlE777",
+          "name": "Les Choeurs des Amis Francais",
+          "type": "artist",
+          "uri": "spotify:artist:0AR0sUwHfzIgNZGUjlE777"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6WhOv85bkexcfX0t7cw4Dr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6WhOv85bkexcfX0t7cw4Dr",
+      "id": "6WhOv85bkexcfX0t7cw4Dr",
+      "name": "Troublemaker",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6WhOv85bkexcfX0t7cw4Dr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 275840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3uoTJ7Y0OoPQozIVh0bT38"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3uoTJ7Y0OoPQozIVh0bT38",
+      "id": "3uoTJ7Y0OoPQozIVh0bT38",
+      "name": "Don't Touch Him",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3uoTJ7Y0OoPQozIVh0bT38",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cnNj77AFfSryAQ3KcqgnW"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cnNj77AFfSryAQ3KcqgnW",
+          "id": "7cnNj77AFfSryAQ3KcqgnW",
+          "name": "Sara Fulgoni",
+          "type": "artist",
+          "uri": "spotify:artist:7cnNj77AFfSryAQ3KcqgnW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XKaxzmWLROE1AH1XmaPTm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XKaxzmWLROE1AH1XmaPTm",
+          "id": "0XKaxzmWLROE1AH1XmaPTm",
+          "name": "Nathalie Manfrino",
+          "type": "artist",
+          "uri": "spotify:artist:0XKaxzmWLROE1AH1XmaPTm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40D3Pq5IP1pmi5uTpBBDsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/40D3Pq5IP1pmi5uTpBBDsa",
+          "id": "40D3Pq5IP1pmi5uTpBBDsa",
+          "name": "Amanda Roocroft",
+          "type": "artist",
+          "uri": "spotify:artist:40D3Pq5IP1pmi5uTpBBDsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+          "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+          "name": "London Voices",
+          "type": "artist",
+          "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AR0sUwHfzIgNZGUjlE777"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AR0sUwHfzIgNZGUjlE777",
+          "id": "0AR0sUwHfzIgNZGUjlE777",
+          "name": "Les Choeurs des Amis Francais",
+          "type": "artist",
+          "uri": "spotify:artist:0AR0sUwHfzIgNZGUjlE777"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 46040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7H5AV5tYyY5NY3UWOoGCdS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7H5AV5tYyY5NY3UWOoGCdS",
+      "id": "7H5AV5tYyY5NY3UWOoGCdS",
+      "name": "Distanciation",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7H5AV5tYyY5NY3UWOoGCdS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WbVhwarm0piCoI88OiGIy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WbVhwarm0piCoI88OiGIy",
+      "id": "2WbVhwarm0piCoI88OiGIy",
+      "name": "Happiness",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2WbVhwarm0piCoI88OiGIy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+          "id": "2BGRfQgtzikz1pzAD0kaEn",
+          "name": "Elvis Costello",
+          "type": "artist",
+          "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XKaxzmWLROE1AH1XmaPTm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XKaxzmWLROE1AH1XmaPTm",
+          "id": "0XKaxzmWLROE1AH1XmaPTm",
+          "name": "Nathalie Manfrino",
+          "type": "artist",
+          "uri": "spotify:artist:0XKaxzmWLROE1AH1XmaPTm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cnNj77AFfSryAQ3KcqgnW"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cnNj77AFfSryAQ3KcqgnW",
+          "id": "7cnNj77AFfSryAQ3KcqgnW",
+          "name": "Sara Fulgoni",
+          "type": "artist",
+          "uri": "spotify:artist:7cnNj77AFfSryAQ3KcqgnW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40D3Pq5IP1pmi5uTpBBDsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/40D3Pq5IP1pmi5uTpBBDsa",
+          "id": "40D3Pq5IP1pmi5uTpBBDsa",
+          "name": "Amanda Roocroft",
+          "type": "artist",
+          "uri": "spotify:artist:40D3Pq5IP1pmi5uTpBBDsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 405640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0u71T9ekOCkpJulpcYKAea"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0u71T9ekOCkpJulpcYKAea",
+      "id": "0u71T9ekOCkpJulpcYKAea",
+      "name": "Despair",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0u71T9ekOCkpJulpcYKAea",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ruzJIaTOKVK23oHruTiEY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ruzJIaTOKVK23oHruTiEY",
+          "id": "6ruzJIaTOKVK23oHruTiEY",
+          "name": "Sarah Fulgoni",
+          "type": "artist",
+          "uri": "spotify:artist:6ruzJIaTOKVK23oHruTiEY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XKaxzmWLROE1AH1XmaPTm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XKaxzmWLROE1AH1XmaPTm",
+          "id": "0XKaxzmWLROE1AH1XmaPTm",
+          "name": "Nathalie Manfrino",
+          "type": "artist",
+          "uri": "spotify:artist:0XKaxzmWLROE1AH1XmaPTm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40D3Pq5IP1pmi5uTpBBDsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/40D3Pq5IP1pmi5uTpBBDsa",
+          "id": "40D3Pq5IP1pmi5uTpBBDsa",
+          "name": "Amanda Roocroft",
+          "type": "artist",
+          "uri": "spotify:artist:40D3Pq5IP1pmi5uTpBBDsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+          "id": "2BGRfQgtzikz1pzAD0kaEn",
+          "name": "Elvis Costello",
+          "type": "artist",
+          "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+          "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+          "name": "London Voices",
+          "type": "artist",
+          "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AR0sUwHfzIgNZGUjlE777"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AR0sUwHfzIgNZGUjlE777",
+          "id": "0AR0sUwHfzIgNZGUjlE777",
+          "name": "Les Choeurs des Amis Francais",
+          "type": "artist",
+          "uri": "spotify:artist:0AR0sUwHfzIgNZGUjlE777"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 296920,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5vNS3FZKbD2wN0CwBVTvgv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5vNS3FZKbD2wN0CwBVTvgv",
+      "id": "5vNS3FZKbD2wN0CwBVTvgv",
+      "name": "The Unlikely Duet",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:5vNS3FZKbD2wN0CwBVTvgv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ruzJIaTOKVK23oHruTiEY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ruzJIaTOKVK23oHruTiEY",
+          "id": "6ruzJIaTOKVK23oHruTiEY",
+          "name": "Sarah Fulgoni",
+          "type": "artist",
+          "uri": "spotify:artist:6ruzJIaTOKVK23oHruTiEY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XKaxzmWLROE1AH1XmaPTm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XKaxzmWLROE1AH1XmaPTm",
+          "id": "0XKaxzmWLROE1AH1XmaPTm",
+          "name": "Nathalie Manfrino",
+          "type": "artist",
+          "uri": "spotify:artist:0XKaxzmWLROE1AH1XmaPTm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40D3Pq5IP1pmi5uTpBBDsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/40D3Pq5IP1pmi5uTpBBDsa",
+          "id": "40D3Pq5IP1pmi5uTpBBDsa",
+          "name": "Amanda Roocroft",
+          "type": "artist",
+          "uri": "spotify:artist:40D3Pq5IP1pmi5uTpBBDsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+          "id": "2BGRfQgtzikz1pzAD0kaEn",
+          "name": "Elvis Costello",
+          "type": "artist",
+          "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+          "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+          "name": "London Voices",
+          "type": "artist",
+          "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AR0sUwHfzIgNZGUjlE777"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AR0sUwHfzIgNZGUjlE777",
+          "id": "0AR0sUwHfzIgNZGUjlE777",
+          "name": "Les Choeurs des Amis Francais",
+          "type": "artist",
+          "uri": "spotify:artist:0AR0sUwHfzIgNZGUjlE777"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 607760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3G8xJOFtzZPTIjb32Y4kwl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3G8xJOFtzZPTIjb32Y4kwl",
+      "id": "3G8xJOFtzZPTIjb32Y4kwl",
+      "name": "track by track",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3G8xJOFtzZPTIjb32Y4kwl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33AbUSgQ9FBb4p86brXc0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/33AbUSgQ9FBb4p86brXc0Z",
+          "id": "33AbUSgQ9FBb4p86brXc0Z",
+          "name": "Muriel Teodori",
+          "type": "artist",
+          "uri": "spotify:artist:33AbUSgQ9FBb4p86brXc0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ruzJIaTOKVK23oHruTiEY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ruzJIaTOKVK23oHruTiEY",
+          "id": "6ruzJIaTOKVK23oHruTiEY",
+          "name": "Sarah Fulgoni",
+          "type": "artist",
+          "uri": "spotify:artist:6ruzJIaTOKVK23oHruTiEY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XKaxzmWLROE1AH1XmaPTm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XKaxzmWLROE1AH1XmaPTm",
+          "id": "0XKaxzmWLROE1AH1XmaPTm",
+          "name": "Nathalie Manfrino",
+          "type": "artist",
+          "uri": "spotify:artist:0XKaxzmWLROE1AH1XmaPTm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40D3Pq5IP1pmi5uTpBBDsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/40D3Pq5IP1pmi5uTpBBDsa",
+          "id": "40D3Pq5IP1pmi5uTpBBDsa",
+          "name": "Amanda Roocroft",
+          "type": "artist",
+          "uri": "spotify:artist:40D3Pq5IP1pmi5uTpBBDsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+          "id": "2BGRfQgtzikz1pzAD0kaEn",
+          "name": "Elvis Costello",
+          "type": "artist",
+          "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          },
+          "href": "https://api.spotify.com/v1/artists/7y3ULlnKKpeZ4JOKMAJQzK",
+          "id": "7y3ULlnKKpeZ4JOKMAJQzK",
+          "name": "London Voices",
+          "type": "artist",
+          "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AR0sUwHfzIgNZGUjlE777"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AR0sUwHfzIgNZGUjlE777",
+          "id": "0AR0sUwHfzIgNZGUjlE777",
+          "name": "Les Choeurs des Amis Francais",
+          "type": "artist",
+          "uri": "spotify:artist:0AR0sUwHfzIgNZGUjlE777"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 617120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77t0itdCKEqEHyiFxXKa4F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/77t0itdCKEqEHyiFxXKa4F",
+      "id": "77t0itdCKEqEHyiFxXKa4F",
+      "name": "air par air",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:77t0itdCKEqEHyiFxXKa4F",
+      "is_local": false
+    }
+  ]
+}
