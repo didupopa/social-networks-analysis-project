@@ -1,0 +1,665 @@
+{
+  "album_id": "6tLz30COU8eCH9enk2Ik3L",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 313733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mbljhNcMa7NrBo9f6zSUW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mbljhNcMa7NrBo9f6zSUW",
+      "id": "4mbljhNcMa7NrBo9f6zSUW",
+      "name": "Two Pieces for String Octet op. 1 no. 1: I. Prelude- Adagio",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4mbljhNcMa7NrBo9f6zSUW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251346,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2p40MJy1RIsvndv4xJl6Mk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2p40MJy1RIsvndv4xJl6Mk",
+      "id": "2p40MJy1RIsvndv4xJl6Mk",
+      "name": "Two Pieces for String Octet op. 1 no. 1: II. Scherzo- Allegro Molto",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2p40MJy1RIsvndv4xJl6Mk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ldO4FQZaxUryI8UpgrtlR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ldO4FQZaxUryI8UpgrtlR",
+      "id": "0ldO4FQZaxUryI8UpgrtlR",
+      "name": "Piano Quintet Op. 57: I. Prelude- Lento",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0ldO4FQZaxUryI8UpgrtlR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 637026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QcZBBtGwAK7dYDpvSplIq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QcZBBtGwAK7dYDpvSplIq",
+      "id": "5QcZBBtGwAK7dYDpvSplIq",
+      "name": "Piano Quintet Op. 57: II. Fugue- Adagio",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5QcZBBtGwAK7dYDpvSplIq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208693,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4vPvPv7wS4uJQh0LLnNGwA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4vPvPv7wS4uJQh0LLnNGwA",
+      "id": "4vPvPv7wS4uJQh0LLnNGwA",
+      "name": "Piano Quintet Op. 57: III. Scherzo- Allegretto",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4vPvPv7wS4uJQh0LLnNGwA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 432266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WDxZyxzMwZdDC2jHJHvYg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WDxZyxzMwZdDC2jHJHvYg",
+      "id": "2WDxZyxzMwZdDC2jHJHvYg",
+      "name": "Piano Quintet Op. 57: IV. Intermezzo- Lento",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2WDxZyxzMwZdDC2jHJHvYg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 488480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1TbzBtDT1ieD9tbUmm6x2l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1TbzBtDT1ieD9tbUmm6x2l",
+      "id": "1TbzBtDT1ieD9tbUmm6x2l",
+      "name": "Piano Quintet Op. 57: V. Finale- Allegretto",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1TbzBtDT1ieD9tbUmm6x2l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1IubmQmIaBoASjd2WypoGQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1IubmQmIaBoASjd2WypoGQ",
+      "id": "1IubmQmIaBoASjd2WypoGQ",
+      "name": "Five pieces for Two Violins and Piano: I. Prelude- Moderato",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1IubmQmIaBoASjd2WypoGQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 100000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2POoRrcLv2pQEYuOVNrCuf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2POoRrcLv2pQEYuOVNrCuf",
+      "id": "2POoRrcLv2pQEYuOVNrCuf",
+      "name": "Five pieces for Two Violins and Piano: II. Gavotte- Tranquillo, molto leggiero",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2POoRrcLv2pQEYuOVNrCuf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5xi7QrdEWKzhWjMfdnK9vj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5xi7QrdEWKzhWjMfdnK9vj",
+      "id": "5xi7QrdEWKzhWjMfdnK9vj",
+      "name": "Five pieces for Two Violins and Piano: III. Elegy- Andantino",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5xi7QrdEWKzhWjMfdnK9vj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 112613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mAWGdHfZ1Kar82FBrNcbt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mAWGdHfZ1Kar82FBrNcbt",
+      "id": "5mAWGdHfZ1Kar82FBrNcbt",
+      "name": "Five pieces for Two Violins and Piano: IV. Waltz- Tempo di Valse. Moderato",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5mAWGdHfZ1Kar82FBrNcbt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 92386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14k1INsY1mp4eWB9GXIsQT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14k1INsY1mp4eWB9GXIsQT",
+      "id": "14k1INsY1mp4eWB9GXIsQT",
+      "name": "Five pieces for Two Violins and Piano: V. Polka- Vivace",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:14k1INsY1mp4eWB9GXIsQT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5vr1gwunEYwScoUTMIJXHN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5vr1gwunEYwScoUTMIJXHN",
+      "id": "5vr1gwunEYwScoUTMIJXHN",
+      "name": "Adagio & Allegretto for String Quartet: Adagio",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5vr1gwunEYwScoUTMIJXHN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56yOrz7J27CetuwbOtkRLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/56yOrz7J27CetuwbOtkRLz",
+          "id": "56yOrz7J27CetuwbOtkRLz",
+          "name": "Christian Blackshaw",
+          "type": "artist",
+          "uri": "spotify:artist:56yOrz7J27CetuwbOtkRLz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rbJR3s011xy9HjBVztZhW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4rbJR3s011xy9HjBVztZhW",
+      "id": "4rbJR3s011xy9HjBVztZhW",
+      "name": "Adagio & Allegretto for String Quartet: Allegretto",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4rbJR3s011xy9HjBVztZhW",
+      "is_local": false
+    }
+  ]
+}

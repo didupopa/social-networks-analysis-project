@@ -1,0 +1,139 @@
+{
+  "artist_id": "47IQuGHsvEJgd0tQEDP5X0",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1bEAXpgbJ7FlhkZQdnEXNZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/1bEAXpgbJ7FlhkZQdnEXNZ",
+      "id": "1bEAXpgbJ7FlhkZQdnEXNZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf0c163991cafe48136d4226",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf0c163991cafe48136d4226",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cf0c163991cafe48136d4226",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Christmas Rhapsody",
+      "release_date": "2007-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1bEAXpgbJ7FlhkZQdnEXNZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47IQuGHsvEJgd0tQEDP5X0"
+          },
+          "href": "https://api.spotify.com/v1/artists/47IQuGHsvEJgd0tQEDP5X0",
+          "id": "47IQuGHsvEJgd0tQEDP5X0",
+          "name": "John Bayless",
+          "type": "artist",
+          "uri": "spotify:artist:47IQuGHsvEJgd0tQEDP5X0"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2pIn17wOB7DTIl98Z5x8Yz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2pIn17wOB7DTIl98Z5x8Yz",
+      "id": "2pIn17wOB7DTIl98Z5x8Yz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27354f33ac49108ec689068763a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0254f33ac49108ec689068763a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485154f33ac49108ec689068763a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bach Meets the Beatles (Revisited)",
+      "release_date": "2004-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2pIn17wOB7DTIl98Z5x8Yz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47IQuGHsvEJgd0tQEDP5X0"
+          },
+          "href": "https://api.spotify.com/v1/artists/47IQuGHsvEJgd0tQEDP5X0",
+          "id": "47IQuGHsvEJgd0tQEDP5X0",
+          "name": "John Bayless",
+          "type": "artist",
+          "uri": "spotify:artist:47IQuGHsvEJgd0tQEDP5X0"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2i45CzWPM6kG3MXi4WXPik"
+      },
+      "href": "https://api.spotify.com/v1/albums/2i45CzWPM6kG3MXi4WXPik",
+      "id": "2i45CzWPM6kG3MXi4WXPik",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d07d9fc576719903a3ccf10",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d07d9fc576719903a3ccf10",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d07d9fc576719903a3ccf10",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Movie Album (Classical Pictures)",
+      "release_date": "1996-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2i45CzWPM6kG3MXi4WXPik",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47IQuGHsvEJgd0tQEDP5X0"
+          },
+          "href": "https://api.spotify.com/v1/artists/47IQuGHsvEJgd0tQEDP5X0",
+          "id": "47IQuGHsvEJgd0tQEDP5X0",
+          "name": "John Bayless",
+          "type": "artist",
+          "uri": "spotify:artist:47IQuGHsvEJgd0tQEDP5X0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "album_id": "43tFHnbfHa8L1afD3uM5S0",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56opha2qSf0RxAeI2IETGd"
+          },
+          "href": "https://api.spotify.com/v1/artists/56opha2qSf0RxAeI2IETGd",
+          "id": "56opha2qSf0RxAeI2IETGd",
+          "name": "Gordon Thornett",
+          "type": "artist",
+          "uri": "spotify:artist:56opha2qSf0RxAeI2IETGd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 474933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1WNQgsePDDuUV2xMX8Eyeq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1WNQgsePDDuUV2xMX8Eyeq",
+      "id": "1WNQgsePDDuUV2xMX8Eyeq",
+      "name": "Festive Overture 'The Joy of Christmas'",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1WNQgsePDDuUV2xMX8Eyeq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ZXkJX29GZJB89aLkckbj0"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ZXkJX29GZJB89aLkckbj0",
+          "id": "6ZXkJX29GZJB89aLkckbj0",
+          "name": "Gian Carlo Menotti",
+          "type": "artist",
+          "uri": "spotify:artist:6ZXkJX29GZJB89aLkckbj0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 92533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6yrYoZswrCDnxX2uNvaMs2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6yrYoZswrCDnxX2uNvaMs2",
+      "id": "6yrYoZswrCDnxX2uNvaMs2",
+      "name": "Amahl and the Night Visitors: I. Introduction",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6yrYoZswrCDnxX2uNvaMs2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ZXkJX29GZJB89aLkckbj0"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ZXkJX29GZJB89aLkckbj0",
+          "id": "6ZXkJX29GZJB89aLkckbj0",
+          "name": "Gian Carlo Menotti",
+          "type": "artist",
+          "uri": "spotify:artist:6ZXkJX29GZJB89aLkckbj0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 72013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0CEgccEgGSsApDHsE7sOsG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0CEgccEgGSsApDHsE7sOsG",
+      "id": "0CEgccEgGSsApDHsE7sOsG",
+      "name": "Amahl and the Night Visitors: II. March",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0CEgccEgGSsApDHsE7sOsG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ZXkJX29GZJB89aLkckbj0"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ZXkJX29GZJB89aLkckbj0",
+          "id": "6ZXkJX29GZJB89aLkckbj0",
+          "name": "Gian Carlo Menotti",
+          "type": "artist",
+          "uri": "spotify:artist:6ZXkJX29GZJB89aLkckbj0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5vxs1vsGaoGNB2aLjDHVUe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5vxs1vsGaoGNB2aLjDHVUe",
+      "id": "5vxs1vsGaoGNB2aLjDHVUe",
+      "name": "Amahl and the Night Visitors: III. Shepherd's Dance",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5vxs1vsGaoGNB2aLjDHVUe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/26EJOdtsKzoO67yCn7kdAU",
+          "id": "26EJOdtsKzoO67yCn7kdAU",
+          "name": "Adam Saunders",
+          "type": "artist",
+          "uri": "spotify:artist:26EJOdtsKzoO67yCn7kdAU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7uzWjTWeArsUe4uII5OZdh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7uzWjTWeArsUe4uII5OZdh",
+          "id": "7uzWjTWeArsUe4uII5OZdh",
+          "name": "Joanna Lumley",
+          "type": "artist",
+          "uri": "spotify:artist:7uzWjTWeArsUe4uII5OZdh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1d3hvlnCOSfQ0Rg1BeROIG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1d3hvlnCOSfQ0Rg1BeROIG",
+          "id": "1d3hvlnCOSfQ0Rg1BeROIG",
+          "name": "John Julius Norwich",
+          "type": "artist",
+          "uri": "spotify:artist:1d3hvlnCOSfQ0Rg1BeROIG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 977360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0sy7lWbs9dVjT2nP7CuTmK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0sy7lWbs9dVjT2nP7CuTmK",
+      "id": "0sy7lWbs9dVjT2nP7CuTmK",
+      "name": "The Twelve Days of Christmas",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0sy7lWbs9dVjT2nP7CuTmK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6YsinAkM0jBHU6umepGAaZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6YsinAkM0jBHU6umepGAaZ",
+          "id": "6YsinAkM0jBHU6umepGAaZ",
+          "name": "Thomas Hewitt Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6YsinAkM0jBHU6umepGAaZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255280,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UxSGHtTIpZcbDAKUrfqPv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UxSGHtTIpZcbDAKUrfqPv",
+      "id": "5UxSGHtTIpZcbDAKUrfqPv",
+      "name": "What Child is this?",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5UxSGHtTIpZcbDAKUrfqPv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wtmjxlktegB6gHE7fyoGy"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wtmjxlktegB6gHE7fyoGy",
+          "id": "2wtmjxlktegB6gHE7fyoGy",
+          "name": "Philip Spratley",
+          "type": "artist",
+          "uri": "spotify:artist:2wtmjxlktegB6gHE7fyoGy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 387186,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41C9PFshXzSL5KUMTn0op7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41C9PFshXzSL5KUMTn0op7",
+      "id": "41C9PFshXzSL5KUMTn0op7",
+      "name": "A Christmas Rondel",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:41C9PFshXzSL5KUMTn0op7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Jpm1vWx3OXiHO4X3mRxHT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Jpm1vWx3OXiHO4X3mRxHT",
+          "id": "1Jpm1vWx3OXiHO4X3mRxHT",
+          "name": "Matthew Curtis",
+          "type": "artist",
+          "uri": "spotify:artist:1Jpm1vWx3OXiHO4X3mRxHT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1e5i0ybo5Kv6IiNzHYfBwB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1e5i0ybo5Kv6IiNzHYfBwB",
+      "id": "1e5i0ybo5Kv6IiNzHYfBwB",
+      "name": "Christmas Spirit",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1e5i0ybo5Kv6IiNzHYfBwB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2sod5ccwwAH8tdvcDO81y5"
+          },
+          "href": "https://api.spotify.com/v1/artists/2sod5ccwwAH8tdvcDO81y5",
+          "id": "2sod5ccwwAH8tdvcDO81y5",
+          "name": "Roy Moore",
+          "type": "artist",
+          "uri": "spotify:artist:2sod5ccwwAH8tdvcDO81y5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 460933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2I2BJ9tsqCoUJ3AqfzuP0w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2I2BJ9tsqCoUJ3AqfzuP0w",
+      "id": "2I2BJ9tsqCoUJ3AqfzuP0w",
+      "name": "A Christmas Medley",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2I2BJ9tsqCoUJ3AqfzuP0w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HUhm1zKJGkJEg4qH88Xfd",
+          "id": "5HUhm1zKJGkJEg4qH88Xfd",
+          "name": "Peter Warlock",
+          "type": "artist",
+          "uri": "spotify:artist:5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lZQHfXiq8p8yMrUT01oAm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lZQHfXiq8p8yMrUT01oAm",
+      "id": "4lZQHfXiq8p8yMrUT01oAm",
+      "name": "Bethlehem Down",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4lZQHfXiq8p8yMrUT01oAm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LGVXeAvqoMwVzb7uqSUK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LGVXeAvqoMwVzb7uqSUK3",
+          "id": "3LGVXeAvqoMwVzb7uqSUK3",
+          "name": "Bryan Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:3LGVXeAvqoMwVzb7uqSUK3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 143680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0v2OVWvTV2aSSFdTvujfHT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0v2OVWvTV2aSSFdTvujfHT",
+      "id": "0v2OVWvTV2aSSFdTvujfHT",
+      "name": "Sir Roger de Coverley",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0v2OVWvTV2aSSFdTvujfHT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LGVXeAvqoMwVzb7uqSUK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LGVXeAvqoMwVzb7uqSUK3",
+          "id": "3LGVXeAvqoMwVzb7uqSUK3",
+          "name": "Bryan Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:3LGVXeAvqoMwVzb7uqSUK3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sjJnaI3YhaO8KylpJk3gN",
+          "id": "5sjJnaI3YhaO8KylpJk3gN",
+          "name": "Barry Wordsworth",
+          "type": "artist",
+          "uri": "spotify:artist:5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KNaVtiiNyzd1d71TqMBbr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KNaVtiiNyzd1d71TqMBbr",
+          "id": "7KNaVtiiNyzd1d71TqMBbr",
+          "name": "Royal Ballet Sinfonia",
+          "type": "artist",
+          "uri": "spotify:artist:7KNaVtiiNyzd1d71TqMBbr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 137946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7rRomLSlWhsh2QKPDP3UMO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7rRomLSlWhsh2QKPDP3UMO",
+      "id": "7rRomLSlWhsh2QKPDP3UMO",
+      "name": "A Christmas Celebration: I. Come, O come, Emanuel",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7rRomLSlWhsh2QKPDP3UMO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LGVXeAvqoMwVzb7uqSUK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LGVXeAvqoMwVzb7uqSUK3",
+          "id": "3LGVXeAvqoMwVzb7uqSUK3",
+          "name": "Bryan Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:3LGVXeAvqoMwVzb7uqSUK3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sjJnaI3YhaO8KylpJk3gN",
+          "id": "5sjJnaI3YhaO8KylpJk3gN",
+          "name": "Barry Wordsworth",
+          "type": "artist",
+          "uri": "spotify:artist:5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KNaVtiiNyzd1d71TqMBbr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KNaVtiiNyzd1d71TqMBbr",
+          "id": "7KNaVtiiNyzd1d71TqMBbr",
+          "name": "Royal Ballet Sinfonia",
+          "type": "artist",
+          "uri": "spotify:artist:7KNaVtiiNyzd1d71TqMBbr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 143880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3baYeuqb34ZxEdQR5oFcVC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3baYeuqb34ZxEdQR5oFcVC",
+      "id": "3baYeuqb34ZxEdQR5oFcVC",
+      "name": "A Christmas Celebration: II. The Holly and the Ivy",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3baYeuqb34ZxEdQR5oFcVC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LGVXeAvqoMwVzb7uqSUK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LGVXeAvqoMwVzb7uqSUK3",
+          "id": "3LGVXeAvqoMwVzb7uqSUK3",
+          "name": "Bryan Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:3LGVXeAvqoMwVzb7uqSUK3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sjJnaI3YhaO8KylpJk3gN",
+          "id": "5sjJnaI3YhaO8KylpJk3gN",
+          "name": "Barry Wordsworth",
+          "type": "artist",
+          "uri": "spotify:artist:5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KNaVtiiNyzd1d71TqMBbr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KNaVtiiNyzd1d71TqMBbr",
+          "id": "7KNaVtiiNyzd1d71TqMBbr",
+          "name": "Royal Ballet Sinfonia",
+          "type": "artist",
+          "uri": "spotify:artist:7KNaVtiiNyzd1d71TqMBbr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 118400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4GIalXgbKxzt6Ngk0sdqc7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4GIalXgbKxzt6Ngk0sdqc7",
+      "id": "4GIalXgbKxzt6Ngk0sdqc7",
+      "name": "A Christmas Celebration: III. A Virgin most pure",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4GIalXgbKxzt6Ngk0sdqc7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LGVXeAvqoMwVzb7uqSUK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LGVXeAvqoMwVzb7uqSUK3",
+          "id": "3LGVXeAvqoMwVzb7uqSUK3",
+          "name": "Bryan Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:3LGVXeAvqoMwVzb7uqSUK3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sjJnaI3YhaO8KylpJk3gN",
+          "id": "5sjJnaI3YhaO8KylpJk3gN",
+          "name": "Barry Wordsworth",
+          "type": "artist",
+          "uri": "spotify:artist:5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KNaVtiiNyzd1d71TqMBbr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KNaVtiiNyzd1d71TqMBbr",
+          "id": "7KNaVtiiNyzd1d71TqMBbr",
+          "name": "Royal Ballet Sinfonia",
+          "type": "artist",
+          "uri": "spotify:artist:7KNaVtiiNyzd1d71TqMBbr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3FETTZGHbKnsIlcJdpoOvR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3FETTZGHbKnsIlcJdpoOvR",
+      "id": "3FETTZGHbKnsIlcJdpoOvR",
+      "name": "A Christmas Celebration: IV. O little one sweet",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3FETTZGHbKnsIlcJdpoOvR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LGVXeAvqoMwVzb7uqSUK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LGVXeAvqoMwVzb7uqSUK3",
+          "id": "3LGVXeAvqoMwVzb7uqSUK3",
+          "name": "Bryan Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:3LGVXeAvqoMwVzb7uqSUK3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sjJnaI3YhaO8KylpJk3gN",
+          "id": "5sjJnaI3YhaO8KylpJk3gN",
+          "name": "Barry Wordsworth",
+          "type": "artist",
+          "uri": "spotify:artist:5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KNaVtiiNyzd1d71TqMBbr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KNaVtiiNyzd1d71TqMBbr",
+          "id": "7KNaVtiiNyzd1d71TqMBbr",
+          "name": "Royal Ballet Sinfonia",
+          "type": "artist",
+          "uri": "spotify:artist:7KNaVtiiNyzd1d71TqMBbr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1XxbdnC4beKzDLmFm2vZCF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1XxbdnC4beKzDLmFm2vZCF",
+      "id": "1XxbdnC4beKzDLmFm2vZCF",
+      "name": "A Christmas Celebration: V. On Christmas Night & Joseph dearest, Joseph mine",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1XxbdnC4beKzDLmFm2vZCF",
+      "is_local": false
+    }
+  ]
+}

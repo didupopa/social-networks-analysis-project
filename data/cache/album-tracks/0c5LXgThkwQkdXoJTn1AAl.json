@@ -1,0 +1,989 @@
+{
+  "album_id": "0c5LXgThkwQkdXoJTn1AAl",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EWKZBfGFV76dr9erMZ6l6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EWKZBfGFV76dr9erMZ6l6",
+          "id": "5EWKZBfGFV76dr9erMZ6l6",
+          "name": "Owen Gilhooley",
+          "type": "artist",
+          "uri": "spotify:artist:5EWKZBfGFV76dr9erMZ6l6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26i7a2a6JwIzVYq9lZeALk"
+          },
+          "href": "https://api.spotify.com/v1/artists/26i7a2a6JwIzVYq9lZeALk",
+          "id": "26i7a2a6JwIzVYq9lZeALk",
+          "name": "Karl Ronan",
+          "type": "artist",
+          "uri": "spotify:artist:26i7a2a6JwIzVYq9lZeALk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39PmrwMqVy57R1oQX4Gf24"
+          },
+          "href": "https://api.spotify.com/v1/artists/39PmrwMqVy57R1oQX4Gf24",
+          "id": "39PmrwMqVy57R1oQX4Gf24",
+          "name": "Thomas Moore",
+          "type": "artist",
+          "uri": "spotify:artist:39PmrwMqVy57R1oQX4Gf24"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176651,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mZIUU2Fj62ExQ4yZO4KhY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mZIUU2Fj62ExQ4yZO4KhY",
+      "id": "7mZIUU2Fj62ExQ4yZO4KhY",
+      "name": "Moore: The Minstrel Boy",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7mZIUU2Fj62ExQ4yZO4KhY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0j87OMkGqV0FY9DzcD8GmJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0j87OMkGqV0FY9DzcD8GmJ",
+          "id": "0j87OMkGqV0FY9DzcD8GmJ",
+          "name": "Frank Dunne",
+          "type": "artist",
+          "uri": "spotify:artist:0j87OMkGqV0FY9DzcD8GmJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NEdB6We5Svi1RHmsb4Cl7"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NEdB6We5Svi1RHmsb4Cl7",
+          "id": "0NEdB6We5Svi1RHmsb4Cl7",
+          "name": "Fred Gilbert",
+          "type": "artist",
+          "uri": "spotify:artist:0NEdB6We5Svi1RHmsb4Cl7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161904,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1D372H2KWitSyIgp7CpO83"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1D372H2KWitSyIgp7CpO83",
+      "id": "1D372H2KWitSyIgp7CpO83",
+      "name": "Gilbert: The Man Who Broke the Bank at Monte Carlo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1D372H2KWitSyIgp7CpO83",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CvBzMMIhELJbO8A8FUqeP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CvBzMMIhELJbO8A8FUqeP",
+          "id": "4CvBzMMIhELJbO8A8FUqeP",
+          "name": "Emmanuel Lawler",
+          "type": "artist",
+          "uri": "spotify:artist:4CvBzMMIhELJbO8A8FUqeP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fiVwfyL3nKnmVz7580kET",
+          "id": "1fiVwfyL3nKnmVz7580kET",
+          "name": "Friedrich von Flotow",
+          "type": "artist",
+          "uri": "spotify:artist:1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HW5erSw4KYrNFfqBMCBm0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HW5erSw4KYrNFfqBMCBm0",
+      "id": "6HW5erSw4KYrNFfqBMCBm0",
+      "name": "Von Flotow: M'appari",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6HW5erSw4KYrNFfqBMCBm0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/72unlo2BMZwtX4B85ESIjL"
+          },
+          "href": "https://api.spotify.com/v1/artists/72unlo2BMZwtX4B85ESIjL",
+          "id": "72unlo2BMZwtX4B85ESIjL",
+          "name": "Henry Rowley Bishop",
+          "type": "artist",
+          "uri": "spotify:artist:72unlo2BMZwtX4B85ESIjL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EWKZBfGFV76dr9erMZ6l6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EWKZBfGFV76dr9erMZ6l6",
+          "id": "5EWKZBfGFV76dr9erMZ6l6",
+          "name": "Owen Gilhooley",
+          "type": "artist",
+          "uri": "spotify:artist:5EWKZBfGFV76dr9erMZ6l6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253277,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78nvo4SKVob3GRZBKGyLmp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78nvo4SKVob3GRZBKGyLmp",
+      "id": "78nvo4SKVob3GRZBKGyLmp",
+      "name": "Bishop: My Pretty Jane (The Bloom is in the Rye)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:78nvo4SKVob3GRZBKGyLmp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1b733p8grQFXuS2SbK0LzZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1b733p8grQFXuS2SbK0LzZ",
+          "id": "1b733p8grQFXuS2SbK0LzZ",
+          "name": "Dáire Halpin",
+          "type": "artist",
+          "uri": "spotify:artist:1b733p8grQFXuS2SbK0LzZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04EgBldiRJ4cmb9z2j2eDc"
+          },
+          "href": "https://api.spotify.com/v1/artists/04EgBldiRJ4cmb9z2j2eDc",
+          "id": "04EgBldiRJ4cmb9z2j2eDc",
+          "name": "James L. Molloy",
+          "type": "artist",
+          "uri": "spotify:artist:04EgBldiRJ4cmb9z2j2eDc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244224,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6CPBaWCbpNpbHvrrZ81P2i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6CPBaWCbpNpbHvrrZ81P2i",
+      "id": "6CPBaWCbpNpbHvrrZ81P2i",
+      "name": "Molloy: Love's Old Sweet Song",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6CPBaWCbpNpbHvrrZ81P2i",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yoOUp2cazfVxBtZzq7zNJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yoOUp2cazfVxBtZzq7zNJ",
+          "id": "4yoOUp2cazfVxBtZzq7zNJ",
+          "name": "Thomas Quigley",
+          "type": "artist",
+          "uri": "spotify:artist:4yoOUp2cazfVxBtZzq7zNJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EWKZBfGFV76dr9erMZ6l6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EWKZBfGFV76dr9erMZ6l6",
+          "id": "5EWKZBfGFV76dr9erMZ6l6",
+          "name": "Owen Gilhooley",
+          "type": "artist",
+          "uri": "spotify:artist:5EWKZBfGFV76dr9erMZ6l6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48UeJFHlktfZ4vhe7oKZkE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48UeJFHlktfZ4vhe7oKZkE",
+      "id": "48UeJFHlktfZ4vhe7oKZkE",
+      "name": "Quigley: The Croppy Boy",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:48UeJFHlktfZ4vhe7oKZkE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0j87OMkGqV0FY9DzcD8GmJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0j87OMkGqV0FY9DzcD8GmJ",
+          "id": "0j87OMkGqV0FY9DzcD8GmJ",
+          "name": "Frank Dunne",
+          "type": "artist",
+          "uri": "spotify:artist:0j87OMkGqV0FY9DzcD8GmJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MZHxAdbR5EL1kqaUymz0u"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MZHxAdbR5EL1kqaUymz0u",
+          "id": "4MZHxAdbR5EL1kqaUymz0u",
+          "name": "George Barker",
+          "type": "artist",
+          "uri": "spotify:artist:4MZHxAdbR5EL1kqaUymz0u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153997,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1pXKPRMJBV5C7oROnFBO09"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1pXKPRMJBV5C7oROnFBO09",
+      "id": "1pXKPRMJBV5C7oROnFBO09",
+      "name": "Barker: Dublin Bay",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1pXKPRMJBV5C7oROnFBO09",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EWKZBfGFV76dr9erMZ6l6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EWKZBfGFV76dr9erMZ6l6",
+          "id": "5EWKZBfGFV76dr9erMZ6l6",
+          "name": "Owen Gilhooley",
+          "type": "artist",
+          "uri": "spotify:artist:5EWKZBfGFV76dr9erMZ6l6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/18kGhCGz4cWeOsOOhOJ7pb"
+          },
+          "href": "https://api.spotify.com/v1/artists/18kGhCGz4cWeOsOOhOJ7pb",
+          "id": "18kGhCGz4cWeOsOOhOJ7pb",
+          "name": "Elizabeth Woods",
+          "type": "artist",
+          "uri": "spotify:artist:18kGhCGz4cWeOsOOhOJ7pb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+          "id": "4NJhFmfw43RLBLjQvxDuRS",
+          "name": "Wolfgang Amadeus Mozart",
+          "type": "artist",
+          "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28xLJEZ7wLF0BROaQcAZtt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/28xLJEZ7wLF0BROaQcAZtt",
+      "id": "28xLJEZ7wLF0BROaQcAZtt",
+      "name": "Mozart: La Ci Darem La Mano",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:28xLJEZ7wLF0BROaQcAZtt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/712ivYVVzxFAldeD8jv3fN"
+          },
+          "href": "https://api.spotify.com/v1/artists/712ivYVVzxFAldeD8jv3fN",
+          "id": "712ivYVVzxFAldeD8jv3fN",
+          "name": "Harry B. Norris",
+          "type": "artist",
+          "uri": "spotify:artist:712ivYVVzxFAldeD8jv3fN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0j87OMkGqV0FY9DzcD8GmJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0j87OMkGqV0FY9DzcD8GmJ",
+          "id": "0j87OMkGqV0FY9DzcD8GmJ",
+          "name": "Frank Dunne",
+          "type": "artist",
+          "uri": "spotify:artist:0j87OMkGqV0FY9DzcD8GmJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211037,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1fmPKz7TzP87mZCISpBkzY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1fmPKz7TzP87mZCISpBkzY",
+      "id": "1fmPKz7TzP87mZCISpBkzY",
+      "name": "Norris: Seaside Girls",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1fmPKz7TzP87mZCISpBkzY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CvBzMMIhELJbO8A8FUqeP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CvBzMMIhELJbO8A8FUqeP",
+          "id": "4CvBzMMIhELJbO8A8FUqeP",
+          "name": "Emmanuel Lawler",
+          "type": "artist",
+          "uri": "spotify:artist:4CvBzMMIhELJbO8A8FUqeP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6z99YIGDMuMBXrhiEjd5vQ",
+          "id": "6z99YIGDMuMBXrhiEjd5vQ",
+          "name": "William Butler Yeats",
+          "type": "artist",
+          "uri": "spotify:artist:6z99YIGDMuMBXrhiEjd5vQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Qaze0dHs7CkHaneWINNFU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Qaze0dHs7CkHaneWINNFU",
+          "id": "2Qaze0dHs7CkHaneWINNFU",
+          "name": "Arr. Thomas Quigley",
+          "type": "artist",
+          "uri": "spotify:artist:2Qaze0dHs7CkHaneWINNFU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 174050,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7yyni7QjCQei2D2flzk5YA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7yyni7QjCQei2D2flzk5YA",
+      "id": "7yyni7QjCQei2D2flzk5YA",
+      "name": "Yeats: The Salley Gardens",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7yyni7QjCQei2D2flzk5YA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EWKZBfGFV76dr9erMZ6l6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EWKZBfGFV76dr9erMZ6l6",
+          "id": "5EWKZBfGFV76dr9erMZ6l6",
+          "name": "Owen Gilhooley",
+          "type": "artist",
+          "uri": "spotify:artist:5EWKZBfGFV76dr9erMZ6l6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Rk3LxgxbxAkRe7wqNYB7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Rk3LxgxbxAkRe7wqNYB7A",
+          "id": "3Rk3LxgxbxAkRe7wqNYB7A",
+          "name": "Leslie Stuart",
+          "type": "artist",
+          "uri": "spotify:artist:3Rk3LxgxbxAkRe7wqNYB7A"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292478,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1KElLj4SfQ7DAagc8F8mnA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1KElLj4SfQ7DAagc8F8mnA",
+      "id": "1KElLj4SfQ7DAagc8F8mnA",
+      "name": "Stuart: The Shade of the Palm",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1KElLj4SfQ7DAagc8F8mnA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/18kGhCGz4cWeOsOOhOJ7pb"
+          },
+          "href": "https://api.spotify.com/v1/artists/18kGhCGz4cWeOsOOhOJ7pb",
+          "id": "18kGhCGz4cWeOsOOhOJ7pb",
+          "name": "Elizabeth Woods",
+          "type": "artist",
+          "uri": "spotify:artist:18kGhCGz4cWeOsOOhOJ7pb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7BOczAIEy4Ri303PnZd9gp"
+          },
+          "href": "https://api.spotify.com/v1/artists/7BOczAIEy4Ri303PnZd9gp",
+          "id": "7BOczAIEy4Ri303PnZd9gp",
+          "name": "Michael Balfe",
+          "type": "artist",
+          "uri": "spotify:artist:7BOczAIEy4Ri303PnZd9gp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236878,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1kMVmR0l7UllIDtAIYKnlp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1kMVmR0l7UllIDtAIYKnlp",
+      "id": "1kMVmR0l7UllIDtAIYKnlp",
+      "name": "Balfe: I Dreamt that I Dwelt in Marble Halls",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1kMVmR0l7UllIDtAIYKnlp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rHIheRMUY0HFmZ3Pfvthg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rHIheRMUY0HFmZ3Pfvthg",
+          "id": "0rHIheRMUY0HFmZ3Pfvthg",
+          "name": "Charles William Murphy",
+          "type": "artist",
+          "uri": "spotify:artist:0rHIheRMUY0HFmZ3Pfvthg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0JpknWRUWSYVTY0M3lHXep"
+          },
+          "href": "https://api.spotify.com/v1/artists/0JpknWRUWSYVTY0M3lHXep",
+          "id": "0JpknWRUWSYVTY0M3lHXep",
+          "name": "Dan Lipton",
+          "type": "artist",
+          "uri": "spotify:artist:0JpknWRUWSYVTY0M3lHXep"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0j87OMkGqV0FY9DzcD8GmJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0j87OMkGqV0FY9DzcD8GmJ",
+          "id": "0j87OMkGqV0FY9DzcD8GmJ",
+          "name": "Frank Dunne",
+          "type": "artist",
+          "uri": "spotify:artist:0j87OMkGqV0FY9DzcD8GmJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221251,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2PshUcu0Vw6eJTbJmBlQJL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2PshUcu0Vw6eJTbJmBlQJL",
+      "id": "2PshUcu0Vw6eJTbJmBlQJL",
+      "name": "Murphy & Lipton: My Girl's a Yorkshire Girl",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2PshUcu0Vw6eJTbJmBlQJL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CvBzMMIhELJbO8A8FUqeP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CvBzMMIhELJbO8A8FUqeP",
+          "id": "4CvBzMMIhELJbO8A8FUqeP",
+          "name": "Emmanuel Lawler",
+          "type": "artist",
+          "uri": "spotify:artist:4CvBzMMIhELJbO8A8FUqeP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7BOczAIEy4Ri303PnZd9gp"
+          },
+          "href": "https://api.spotify.com/v1/artists/7BOczAIEy4Ri303PnZd9gp",
+          "id": "7BOczAIEy4Ri303PnZd9gp",
+          "name": "Michael Balfe",
+          "type": "artist",
+          "uri": "spotify:artist:7BOczAIEy4Ri303PnZd9gp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5b7DO2JA6W9CrgE69fCTmx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5b7DO2JA6W9CrgE69fCTmx",
+      "id": "5b7DO2JA6W9CrgE69fCTmx",
+      "name": "Balfe:'Twas Rank and Fame",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5b7DO2JA6W9CrgE69fCTmx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05EUEfH6ipoC9hobEE5DYY"
+          },
+          "href": "https://api.spotify.com/v1/artists/05EUEfH6ipoC9hobEE5DYY",
+          "id": "05EUEfH6ipoC9hobEE5DYY",
+          "name": "Derek Moloney",
+          "type": "artist",
+          "uri": "spotify:artist:05EUEfH6ipoC9hobEE5DYY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fiVwfyL3nKnmVz7580kET",
+          "id": "1fiVwfyL3nKnmVz7580kET",
+          "name": "Friedrich von Flotow",
+          "type": "artist",
+          "uri": "spotify:artist:1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43eTCwMFh3HergdPgPqpLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/43eTCwMFh3HergdPgPqpLT",
+          "id": "43eTCwMFh3HergdPgPqpLT",
+          "name": "Pádhraic Ó'Cuinneagáin",
+          "type": "artist",
+          "uri": "spotify:artist:43eTCwMFh3HergdPgPqpLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 175653,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ffV73HZjc9qQF6mTueyOt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ffV73HZjc9qQF6mTueyOt",
+      "id": "7ffV73HZjc9qQF6mTueyOt",
+      "name": "VonFlotow: Martha, O Return Love!",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7ffV73HZjc9qQF6mTueyOt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43SENDJENJ61Uiu5JLeASG"
+          },
+          "href": "https://api.spotify.com/v1/artists/43SENDJENJ61Uiu5JLeASG",
+          "id": "43SENDJENJ61Uiu5JLeASG",
+          "name": "Frederick Weatherly",
+          "type": "artist",
+          "uri": "spotify:artist:43SENDJENJ61Uiu5JLeASG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EWKZBfGFV76dr9erMZ6l6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EWKZBfGFV76dr9erMZ6l6",
+          "id": "5EWKZBfGFV76dr9erMZ6l6",
+          "name": "Owen Gilhooley",
+          "type": "artist",
+          "uri": "spotify:artist:5EWKZBfGFV76dr9erMZ6l6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/18kGhCGz4cWeOsOOhOJ7pb"
+          },
+          "href": "https://api.spotify.com/v1/artists/18kGhCGz4cWeOsOOhOJ7pb",
+          "id": "18kGhCGz4cWeOsOOhOJ7pb",
+          "name": "Elizabeth Woods",
+          "type": "artist",
+          "uri": "spotify:artist:18kGhCGz4cWeOsOOhOJ7pb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MLv5WVzSJtQ7102vKnKrQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MLv5WVzSJtQ7102vKnKrQ",
+          "id": "3MLv5WVzSJtQ7102vKnKrQ",
+          "name": "Stephen Adams",
+          "type": "artist",
+          "uri": "spotify:artist:3MLv5WVzSJtQ7102vKnKrQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CvBzMMIhELJbO8A8FUqeP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CvBzMMIhELJbO8A8FUqeP",
+          "id": "4CvBzMMIhELJbO8A8FUqeP",
+          "name": "Emmanuel Lawler",
+          "type": "artist",
+          "uri": "spotify:artist:4CvBzMMIhELJbO8A8FUqeP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GejqauHzKdyqE2GjKrBaf",
+          "id": "1GejqauHzKdyqE2GjKrBaf",
+          "name": "Robert Houlihan",
+          "type": "artist",
+          "uri": "spotify:artist:1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4a5cLNE16KdedIuz7e7Ifr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4a5cLNE16KdedIuz7e7Ifr",
+      "id": "4a5cLNE16KdedIuz7e7Ifr",
+      "name": "Weatherly & Adams: The Holy City",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:4a5cLNE16KdedIuz7e7Ifr",
+      "is_local": false
+    }
+  ]
+}

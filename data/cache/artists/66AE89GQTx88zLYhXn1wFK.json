@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+  },
+  "href": "https://api.spotify.com/v1/artists/66AE89GQTx88zLYhXn1wFK",
+  "id": "66AE89GQTx88zLYhXn1wFK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb927fe864814cda2302f885fd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174927fe864814cda2302f885fd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178927fe864814cda2302f885fd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Sam Martin",
+  "type": "artist",
+  "uri": "spotify:artist:66AE89GQTx88zLYhXn1wFK"
+}

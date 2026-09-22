@@ -1,0 +1,156 @@
+{
+  "artist_id": "6IZ4ctovY9dl7bgHClAvKJ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0YAYI6pK9cbgb9VgSUyCY4"
+      },
+      "href": "https://api.spotify.com/v1/albums/0YAYI6pK9cbgb9VgSUyCY4",
+      "id": "0YAYI6pK9cbgb9VgSUyCY4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a02f27fe62d92c390d6de918",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a02f27fe62d92c390d6de918",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a02f27fe62d92c390d6de918",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LABRINTH, SIA, DIPLO PRESENT... LSD (REMIXES) (feat. Sia, Diplo & Labrinth)",
+      "release_date": "2024-11-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0YAYI6pK9cbgb9VgSUyCY4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6IZ4ctovY9dl7bgHClAvKJ",
+          "id": "6IZ4ctovY9dl7bgHClAvKJ",
+          "name": "LSD",
+          "type": "artist",
+          "uri": "spotify:artist:6IZ4ctovY9dl7bgHClAvKJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "Sia",
+          "type": "artist",
+          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+          "id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "Diplo",
+          "type": "artist",
+          "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          },
+          "href": "https://api.spotify.com/v1/artists/2feDdbD5araYcm6JhFHHw7",
+          "id": "2feDdbD5araYcm6JhFHHw7",
+          "name": "Labrinth",
+          "type": "artist",
+          "uri": "spotify:artist:2feDdbD5araYcm6JhFHHw7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ujHQ5WCLuKJQXOqXpGtpf",
+      "id": "0ujHQ5WCLuKJQXOqXpGtpf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c678def70d9b903a5013ea5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c678def70d9b903a5013ea5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c678def70d9b903a5013ea5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+      "release_date": "2019-04-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ujHQ5WCLuKJQXOqXpGtpf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6IZ4ctovY9dl7bgHClAvKJ",
+          "id": "6IZ4ctovY9dl7bgHClAvKJ",
+          "name": "LSD",
+          "type": "artist",
+          "uri": "spotify:artist:6IZ4ctovY9dl7bgHClAvKJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "Sia",
+          "type": "artist",
+          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+          "id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "Diplo",
+          "type": "artist",
+          "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          },
+          "href": "https://api.spotify.com/v1/artists/2feDdbD5araYcm6JhFHHw7",
+          "id": "2feDdbD5araYcm6JhFHHw7",
+          "name": "Labrinth",
+          "type": "artist",
+          "uri": "spotify:artist:2feDdbD5araYcm6JhFHHw7"
+        }
+      ]
+    }
+  ]
+}

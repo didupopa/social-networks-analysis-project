@@ -1,0 +1,73 @@
+{
+  "artist_id": "6PvvGcCY2XtUcSRld1Wilr",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
+      },
+      "href": "https://api.spotify.com/v1/albums/4VZ7jhV0wHpoNPCB7Vmiml",
+      "id": "4VZ7jhV0wHpoNPCB7Vmiml",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735f19f50677f8ded7021b8229",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025f19f50677f8ded7021b8229",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515f19f50677f8ded7021b8229",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "An Evening With Silk Sonic",
+      "release_date": "2021-11-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4VZ7jhV0wHpoNPCB7Vmiml",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id": "3jK9MiCrA42lLAdMGUZpwa",
+          "name": "Anderson .Paak",
+          "type": "artist",
+          "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+          },
+          "href": "https://api.spotify.com/v1/artists/6PvvGcCY2XtUcSRld1Wilr",
+          "id": "6PvvGcCY2XtUcSRld1Wilr",
+          "name": "Silk Sonic",
+          "type": "artist",
+          "uri": "spotify:artist:6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ]
+    }
+  ]
+}

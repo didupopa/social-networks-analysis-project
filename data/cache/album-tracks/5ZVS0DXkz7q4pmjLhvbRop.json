@@ -1,0 +1,781 @@
+{
+  "album_id": "5ZVS0DXkz7q4pmjLhvbRop",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207842,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3anP7kuhroELSViyqaxVCU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3anP7kuhroELSViyqaxVCU",
+      "id": "3anP7kuhroELSViyqaxVCU",
+      "name": "Hello",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3anP7kuhroELSViyqaxVCU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vFwOt4Nm57LHbJ0Gl4MrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vFwOt4Nm57LHbJ0Gl4MrY",
+          "id": "3vFwOt4Nm57LHbJ0Gl4MrY",
+          "name": "Gipp Goodie",
+          "type": "artist",
+          "uri": "spotify:artist:3vFwOt4Nm57LHbJ0Gl4MrY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2NEZTvyGFwFCcQdcEL43yu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2NEZTvyGFwFCcQdcEL43yu",
+      "id": "2NEZTvyGFwFCcQdcEL43yu",
+      "name": "Forty Below",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2NEZTvyGFwFCcQdcEL43yu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0P8gFUTmPZPaLWNHfEBKwc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0P8gFUTmPZPaLWNHfEBKwc",
+          "id": "0P8gFUTmPZPaLWNHfEBKwc",
+          "name": "Big Tray Deee",
+          "type": "artist",
+          "uri": "spotify:artist:0P8gFUTmPZPaLWNHfEBKwc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7vPLHiyrVGx5OmaSPqJNGw"
+          },
+          "href": "https://api.spotify.com/v1/artists/7vPLHiyrVGx5OmaSPqJNGw",
+          "id": "7vPLHiyrVGx5OmaSPqJNGw",
+          "name": "Tha Chill",
+          "type": "artist",
+          "uri": "spotify:artist:7vPLHiyrVGx5OmaSPqJNGw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7sIqFNQGOcO3pIfI0JE3I0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7sIqFNQGOcO3pIfI0JE3I0",
+          "id": "7sIqFNQGOcO3pIfI0JE3I0",
+          "name": "Big Weazel Loc",
+          "type": "artist",
+          "uri": "spotify:artist:7sIqFNQGOcO3pIfI0JE3I0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15DPNseCtx73lYiiYJ4iSA"
+          },
+          "href": "https://api.spotify.com/v1/artists/15DPNseCtx73lYiiYJ4iSA",
+          "id": "15DPNseCtx73lYiiYJ4iSA",
+          "name": "Diirty OGz",
+          "type": "artist",
+          "uri": "spotify:artist:15DPNseCtx73lYiiYJ4iSA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0HAXQb8XR9CcEHA4YNaXcV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0HAXQb8XR9CcEHA4YNaXcV",
+      "id": "0HAXQb8XR9CcEHA4YNaXcV",
+      "name": "Kokane Presents California Classic",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0HAXQb8XR9CcEHA4YNaXcV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7q8YTP7n8h7EgVFvhW6Ue4"
+          },
+          "href": "https://api.spotify.com/v1/artists/7q8YTP7n8h7EgVFvhW6Ue4",
+          "id": "7q8YTP7n8h7EgVFvhW6Ue4",
+          "name": "Short Khop",
+          "type": "artist",
+          "uri": "spotify:artist:7q8YTP7n8h7EgVFvhW6Ue4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254285,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Nh2Bhq2r3MiXXQe5X40KN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Nh2Bhq2r3MiXXQe5X40KN",
+      "id": "5Nh2Bhq2r3MiXXQe5X40KN",
+      "name": "Plastic Surgery",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5Nh2Bhq2r3MiXXQe5X40KN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233566,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4eLmlCPU0UVSjSEGUwhg8j"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4eLmlCPU0UVSjSEGUwhg8j",
+      "id": "4eLmlCPU0UVSjSEGUwhg8j",
+      "name": "Can I",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4eLmlCPU0UVSjSEGUwhg8j",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309162,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7pKvgNOlz7nIgOSKrRCTga"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7pKvgNOlz7nIgOSKrRCTga",
+      "id": "7pKvgNOlz7nIgOSKrRCTga",
+      "name": "Don't Go",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7pKvgNOlz7nIgOSKrRCTga",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 129431,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5A2mysABVMixenSqHFFSbD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5A2mysABVMixenSqHFFSbD",
+      "id": "5A2mysABVMixenSqHFFSbD",
+      "name": "Blue Aqua Boogie",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5A2mysABVMixenSqHFFSbD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 275568,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0wKcg3aO8NYypirE8Vau6c"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0wKcg3aO8NYypirE8Vau6c",
+      "id": "0wKcg3aO8NYypirE8Vau6c",
+      "name": "I've Been There",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0wKcg3aO8NYypirE8Vau6c",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245075,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5oOnPAhH2UXdydBtj0S09P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5oOnPAhH2UXdydBtj0S09P",
+      "id": "5oOnPAhH2UXdydBtj0S09P",
+      "name": "Come One Day",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5oOnPAhH2UXdydBtj0S09P",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id": "4tujQJicOnuZRLiBFdp3Ou",
+          "name": "Xzibit",
+          "type": "artist",
+          "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01RhtxfIljSaN3L0fHrFUX"
+          },
+          "href": "https://api.spotify.com/v1/artists/01RhtxfIljSaN3L0fHrFUX",
+          "id": "01RhtxfIljSaN3L0fHrFUX",
+          "name": "OG Big Hutch",
+          "type": "artist",
+          "uri": "spotify:artist:01RhtxfIljSaN3L0fHrFUX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0P8gFUTmPZPaLWNHfEBKwc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0P8gFUTmPZPaLWNHfEBKwc",
+          "id": "0P8gFUTmPZPaLWNHfEBKwc",
+          "name": "Big Tray Deee",
+          "type": "artist",
+          "uri": "spotify:artist:0P8gFUTmPZPaLWNHfEBKwc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4S768B5EwtObo9OA5WGZxz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4S768B5EwtObo9OA5WGZxz",
+      "id": "4S768B5EwtObo9OA5WGZxz",
+      "name": "Any Body Killa",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4S768B5EwtObo9OA5WGZxz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uhJHJFmFtFloOhRCDocit"
+          },
+          "href": "https://api.spotify.com/v1/artists/3uhJHJFmFtFloOhRCDocit",
+          "id": "3uhJHJFmFtFloOhRCDocit",
+          "name": "Mitchy Slick",
+          "type": "artist",
+          "uri": "spotify:artist:3uhJHJFmFtFloOhRCDocit"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283115,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UmOnVZ5qJs9qHPor5GCgx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UmOnVZ5qJs9qHPor5GCgx",
+      "id": "1UmOnVZ5qJs9qHPor5GCgx",
+      "name": "Time Keep Moving On",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1UmOnVZ5qJs9qHPor5GCgx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 257838,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/257r2YgY8joBfH5MkTbT3c"
+      },
+      "href": "https://api.spotify.com/v1/tracks/257r2YgY8joBfH5MkTbT3c",
+      "id": "257r2YgY8joBfH5MkTbT3c",
+      "name": "Halla",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:257r2YgY8joBfH5MkTbT3c",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 304809,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/02XDCOPB7pOPERynrKmjJA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/02XDCOPB7pOPERynrKmjJA",
+      "id": "02XDCOPB7pOPERynrKmjJA",
+      "name": "Feel It in the Air",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:02XDCOPB7pOPERynrKmjJA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GVBp7QyHckoOg7rYkLvrA",
+          "id": "2GVBp7QyHckoOg7rYkLvrA",
+          "name": "George Clinton",
+          "type": "artist",
+          "uri": "spotify:artist:2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 257068,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5tTfEolQDulWoj36YiCJW8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5tTfEolQDulWoj36YiCJW8",
+      "id": "5tTfEolQDulWoj36YiCJW8",
+      "name": "Diplomatic",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5tTfEolQDulWoj36YiCJW8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 195998,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6hkBcenbiXClkT8WKxunLx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6hkBcenbiXClkT8WKxunLx",
+      "id": "6hkBcenbiXClkT8WKxunLx",
+      "name": "Made Nigga",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6hkBcenbiXClkT8WKxunLx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5dWe00XlGDAlobJeFeRKzM"
+          },
+          "href": "https://api.spotify.com/v1/artists/5dWe00XlGDAlobJeFeRKzM",
+          "id": "5dWe00XlGDAlobJeFeRKzM",
+          "name": "Babee Loc",
+          "type": "artist",
+          "uri": "spotify:artist:5dWe00XlGDAlobJeFeRKzM"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 195075,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7eRKppMvSnwqX6ItBhH3bq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7eRKppMvSnwqX6ItBhH3bq",
+      "id": "7eRKppMvSnwqX6ItBhH3bq",
+      "name": "Murda in Kingston",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7eRKppMvSnwqX6ItBhH3bq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 225132,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/76zY1OuiY3QO1VOUDyRKVm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/76zY1OuiY3QO1VOUDyRKVm",
+      "id": "76zY1OuiY3QO1VOUDyRKVm",
+      "name": "Strange",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:76zY1OuiY3QO1VOUDyRKVm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 318325,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ir9rZb4OVFU9vQaD1I7RW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ir9rZb4OVFU9vQaD1I7RW",
+      "id": "7ir9rZb4OVFU9vQaD1I7RW",
+      "name": "She Put a Spell on Me",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7ir9rZb4OVFU9vQaD1I7RW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 224861,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/69mV0vt6ZXt45k20u4ATBe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/69mV0vt6ZXt45k20u4ATBe",
+      "id": "69mV0vt6ZXt45k20u4ATBe",
+      "name": "501 Bluez",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:69mV0vt6ZXt45k20u4ATBe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 301986,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/08qdQA7I1XYCDgXV1evJFg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/08qdQA7I1XYCDgXV1evJFg",
+      "id": "08qdQA7I1XYCDgXV1evJFg",
+      "name": "Tryin to Kill Us",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:08qdQA7I1XYCDgXV1evJFg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5WdWJ8tyQNmOlsLtJiz5fY"
+          },
+          "href": "https://api.spotify.com/v1/artists/5WdWJ8tyQNmOlsLtJiz5fY",
+          "id": "5WdWJ8tyQNmOlsLtJiz5fY",
+          "name": "Aanisah",
+          "type": "artist",
+          "uri": "spotify:artist:5WdWJ8tyQNmOlsLtJiz5fY"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 54389,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/11qtaCUAwfGQ5DDwFik2xN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/11qtaCUAwfGQ5DDwFik2xN",
+      "id": "11qtaCUAwfGQ5DDwFik2xN",
+      "name": "Swooping (Commercial)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:11qtaCUAwfGQ5DDwFik2xN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5WdWJ8tyQNmOlsLtJiz5fY"
+          },
+          "href": "https://api.spotify.com/v1/artists/5WdWJ8tyQNmOlsLtJiz5fY",
+          "id": "5WdWJ8tyQNmOlsLtJiz5fY",
+          "name": "Aanisah",
+          "type": "artist",
+          "uri": "spotify:artist:5WdWJ8tyQNmOlsLtJiz5fY"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 284278,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2faYvhr5phf4m5Q6X0Cksz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2faYvhr5phf4m5Q6X0Cksz",
+      "id": "2faYvhr5phf4m5Q6X0Cksz",
+      "name": "Lah Lah Lah",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2faYvhr5phf4m5Q6X0Cksz",
+      "is_local": false
+    }
+  ]
+}

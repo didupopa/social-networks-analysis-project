@@ -1,0 +1,2426 @@
+{
+  "artist_id": "4H0zGQILA7vJKl0ot2OYBf",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 40,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1CkgnjlLYijbjUlUylDLSZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/1CkgnjlLYijbjUlUylDLSZ",
+      "id": "1CkgnjlLYijbjUlUylDLSZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27312837940c39285f4f5fe31c1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0212837940c39285f4f5fe31c1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485112837940c39285f4f5fe31c1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Peter Maxwell Davies: Strathclyde Concerto No. 4 & Clarinet Quintet",
+      "release_date": "2025-12-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1CkgnjlLYijbjUlUylDLSZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+          },
+          "href": "https://api.spotify.com/v1/artists/0IUwZRBFdts7QgNElmqsWR",
+          "id": "0IUwZRBFdts7QgNElmqsWR",
+          "name": "Peter Maxwell Davies",
+          "type": "artist",
+          "uri": "spotify:artist:0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0IdpbpK1frmVas88wCOu4z"
+          },
+          "href": "https://api.spotify.com/v1/artists/0IdpbpK1frmVas88wCOu4z",
+          "id": "0IdpbpK1frmVas88wCOu4z",
+          "name": "Dimitri Ashkenazy",
+          "type": "artist",
+          "uri": "spotify:artist:0IdpbpK1frmVas88wCOu4z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2MT1qesQw8J5k3sl7BP1vB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2MT1qesQw8J5k3sl7BP1vB",
+          "id": "2MT1qesQw8J5k3sl7BP1vB",
+          "name": "Philharmonisches Orchester Hagen",
+          "type": "artist",
+          "uri": "spotify:artist:2MT1qesQw8J5k3sl7BP1vB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yvkYGQIzvL8YJcVDS3bEi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yvkYGQIzvL8YJcVDS3bEi",
+          "id": "3yvkYGQIzvL8YJcVDS3bEi",
+          "name": "Joseph Trafton",
+          "type": "artist",
+          "uri": "spotify:artist:3yvkYGQIzvL8YJcVDS3bEi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7pLNtUqXsRI5L2dPTHTMTM"
+      },
+      "href": "https://api.spotify.com/v1/albums/7pLNtUqXsRI5L2dPTHTMTM",
+      "id": "7pLNtUqXsRI5L2dPTHTMTM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b9348ebc90e85e7577dfc22",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025b9348ebc90e85e7577dfc22",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515b9348ebc90e85e7577dfc22",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Golden Oldies: More Favourite Encores",
+      "release_date": "2023-03-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7pLNtUqXsRI5L2dPTHTMTM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23wZCdNR0NYNW0OHxAjhD0"
+          },
+          "href": "https://api.spotify.com/v1/artists/23wZCdNR0NYNW0OHxAjhD0",
+          "id": "23wZCdNR0NYNW0OHxAjhD0",
+          "name": "Laura van der Heijden",
+          "type": "artist",
+          "uri": "spotify:artist:23wZCdNR0NYNW0OHxAjhD0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62AB37ba4Z1uk7YAFORUxM"
+          },
+          "href": "https://api.spotify.com/v1/artists/62AB37ba4Z1uk7YAFORUxM",
+          "id": "62AB37ba4Z1uk7YAFORUxM",
+          "name": "Julian Jacobson",
+          "type": "artist",
+          "uri": "spotify:artist:62AB37ba4Z1uk7YAFORUxM"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 5,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7nUBs9yK81VRUh6kNyqnVM"
+      },
+      "href": "https://api.spotify.com/v1/albums/7nUBs9yK81VRUh6kNyqnVM",
+      "id": "7nUBs9yK81VRUh6kNyqnVM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a0e15e5541e031dccec76fc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021a0e15e5541e031dccec76fc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511a0e15e5541e031dccec76fc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Schubert: String Quintet, Quartettsatz",
+      "release_date": "2022-09-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7nUBs9yK81VRUh6kNyqnVM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p0UyoPfYfI76PCStuXfOP",
+          "id": "2p0UyoPfYfI76PCStuXfOP",
+          "name": "Franz Schubert",
+          "type": "artist",
+          "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23wZCdNR0NYNW0OHxAjhD0"
+          },
+          "href": "https://api.spotify.com/v1/artists/23wZCdNR0NYNW0OHxAjhD0",
+          "id": "23wZCdNR0NYNW0OHxAjhD0",
+          "name": "Laura van der Heijden",
+          "type": "artist",
+          "uri": "spotify:artist:23wZCdNR0NYNW0OHxAjhD0"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7LHmbcocOshNlxhwRMbr3q"
+      },
+      "href": "https://api.spotify.com/v1/albums/7LHmbcocOshNlxhwRMbr3q",
+      "id": "7LHmbcocOshNlxhwRMbr3q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5b6f66bd49ffb987ee9c806",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5b6f66bd49ffb987ee9c806",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d5b6f66bd49ffb987ee9c806",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rocking Horse Road",
+      "release_date": "2022-01-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7LHmbcocOshNlxhwRMbr3q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19SrjGjKIBSzLbWlE1Pf4i"
+          },
+          "href": "https://api.spotify.com/v1/artists/19SrjGjKIBSzLbWlE1Pf4i",
+          "id": "19SrjGjKIBSzLbWlE1Pf4i",
+          "name": "Jacqui Dankworth",
+          "type": "artist",
+          "uri": "spotify:artist:19SrjGjKIBSzLbWlE1Pf4i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2PSCQxOMlSpECPtEQeaReS"
+      },
+      "href": "https://api.spotify.com/v1/albums/2PSCQxOMlSpECPtEQeaReS",
+      "id": "2PSCQxOMlSpECPtEQeaReS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b3fdad4f44b3a2b8df233c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024b3fdad4f44b3a2b8df233c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514b3fdad4f44b3a2b8df233c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Homage to Bach",
+      "release_date": "2021-05-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2PSCQxOMlSpECPtEQeaReS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          },
+          "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+          "id": "5aIqB5nVVvmFsvSdExz408",
+          "name": "Johann Sebastian Bach",
+          "type": "artist",
+          "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0C0pZnNsMboYF9t4K9LoqI"
+      },
+      "href": "https://api.spotify.com/v1/albums/0C0pZnNsMboYF9t4K9LoqI",
+      "id": "0C0pZnNsMboYF9t4K9LoqI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730960e2d310e574c45345df68",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020960e2d310e574c45345df68",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510960e2d310e574c45345df68",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beethoven: Late String Quartets",
+      "release_date": "2020-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0C0pZnNsMboYF9t4K9LoqI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+          "id": "2wOqMjp9TyABvtHdOSOTUS",
+          "name": "Ludwig van Beethoven",
+          "type": "artist",
+          "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5346mcuxZMrMnf4kk6eh52"
+      },
+      "href": "https://api.spotify.com/v1/albums/5346mcuxZMrMnf4kk6eh52",
+      "id": "5346mcuxZMrMnf4kk6eh52",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b853f480226e85b82ed891c7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b853f480226e85b82ed891c7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b853f480226e85b82ed891c7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Elgar: String Quartet & Piano Quintet",
+      "release_date": "2019-05-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5346mcuxZMrMnf4kk6eh52",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          },
+          "href": "https://api.spotify.com/v1/artists/430byzy0c5bPn5opiu0SRd",
+          "id": "430byzy0c5bPn5opiu0SRd",
+          "name": "Edward Elgar",
+          "type": "artist",
+          "uri": "spotify:artist:430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1OBvHJmcD6MzAWSIIErwPM",
+          "id": "1OBvHJmcD6MzAWSIIErwPM",
+          "name": "Martin Roscoe",
+          "type": "artist",
+          "uri": "spotify:artist:1OBvHJmcD6MzAWSIIErwPM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/138J9Dc2nPb8ZDero46geu"
+      },
+      "href": "https://api.spotify.com/v1/albums/138J9Dc2nPb8ZDero46geu",
+      "id": "138J9Dc2nPb8ZDero46geu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c1771f754ee06f8ab416ae3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c1771f754ee06f8ab416ae3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c1771f754ee06f8ab416ae3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mozart: Flute Quartets",
+      "release_date": "2017-02-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:138J9Dc2nPb8ZDero46geu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+          "id": "4NJhFmfw43RLBLjQvxDuRS",
+          "name": "Wolfgang Amadeus Mozart",
+          "type": "artist",
+          "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04Kk7wH1IXik5IiAJde5VG"
+          },
+          "href": "https://api.spotify.com/v1/artists/04Kk7wH1IXik5IiAJde5VG",
+          "id": "04Kk7wH1IXik5IiAJde5VG",
+          "name": "Lisa Friend",
+          "type": "artist",
+          "uri": "spotify:artist:04Kk7wH1IXik5IiAJde5VG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 60,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ZSeSvqeQBOsLROqYApebh"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ZSeSvqeQBOsLROqYApebh",
+      "id": "6ZSeSvqeQBOsLROqYApebh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735756e3cd376f234589d5cc19",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025756e3cd376f234589d5cc19",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515756e3cd376f234589d5cc19",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shostakovich: Complete String Quartets",
+      "release_date": "2016-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ZSeSvqeQBOsLROqYApebh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0tiLmbWRangrpSJ4wvCQ5w"
+      },
+      "href": "https://api.spotify.com/v1/albums/0tiLmbWRangrpSJ4wvCQ5w",
+      "id": "0tiLmbWRangrpSJ4wvCQ5w",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d1518fd65c8d7742d050e82",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022d1518fd65c8d7742d050e82",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512d1518fd65c8d7742d050e82",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Brahms: String Quartet No. 1 & Piano Quintet",
+      "release_date": "2016-04-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0tiLmbWRangrpSJ4wvCQ5w",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+          "id": "5wTAi7QkpP6kp8a54lmTOq",
+          "name": "Johannes Brahms",
+          "type": "artist",
+          "uri": "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5KaJJswANgBwVWrlxYlYzp"
+          },
+          "href": "https://api.spotify.com/v1/artists/5KaJJswANgBwVWrlxYlYzp",
+          "id": "5KaJJswANgBwVWrlxYlYzp",
+          "name": "Natacha Kudritskaya",
+          "type": "artist",
+          "uri": "spotify:artist:5KaJJswANgBwVWrlxYlYzp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0xVeIpO5JKVOdOITMDTkuC"
+      },
+      "href": "https://api.spotify.com/v1/albums/0xVeIpO5JKVOdOITMDTkuC",
+      "id": "0xVeIpO5JKVOdOITMDTkuC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738efa6fafa3e4535b8f1380c1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028efa6fafa3e4535b8f1380c1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518efa6fafa3e4535b8f1380c1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "With Love and Fury",
+      "release_date": "2016-03-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0xVeIpO5JKVOdOITMDTkuC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ch5DvHFpBlRtZAERVcfHr",
+          "id": "4ch5DvHFpBlRtZAERVcfHr",
+          "name": "Katie Noonan",
+          "type": "artist",
+          "uri": "spotify:artist:4ch5DvHFpBlRtZAERVcfHr"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6yGBEycTMR5Exwi7jNVauX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6yGBEycTMR5Exwi7jNVauX",
+      "id": "6yGBEycTMR5Exwi7jNVauX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733629bcdd6bf61bfada718421",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023629bcdd6bf61bfada718421",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513629bcdd6bf61bfada718421",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trees, Walls, Cities",
+      "release_date": "2016-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6yGBEycTMR5Exwi7jNVauX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ZfBHV0AkNEDRxgE5vgwI2"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ZfBHV0AkNEDRxgE5vgwI2",
+      "id": "3ZfBHV0AkNEDRxgE5vgwI2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273634a954732dd55a25d4214e9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02634a954732dd55a25d4214e9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851634a954732dd55a25d4214e9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Žebeljan: Song of a Traveller in the Night",
+      "release_date": "2015-11-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3ZfBHV0AkNEDRxgE5vgwI2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tj4Og8CR41YmeffC3yskT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tj4Og8CR41YmeffC3yskT",
+          "id": "6Tj4Og8CR41YmeffC3yskT",
+          "name": "Isidora Zebeljan",
+          "type": "artist",
+          "uri": "spotify:artist:6Tj4Og8CR41YmeffC3yskT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/30LUftyUdi5VFHMkzgv0G5"
+      },
+      "href": "https://api.spotify.com/v1/albums/30LUftyUdi5VFHMkzgv0G5",
+      "id": "30LUftyUdi5VFHMkzgv0G5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e6af20581730709c61d10c6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027e6af20581730709c61d10c6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517e6af20581730709c61d10c6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Complete String Quartets",
+      "release_date": "2015-07-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:30LUftyUdi5VFHMkzgv0G5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MJ1pB5d6Vjmzep2zQlorn",
+          "id": "7MJ1pB5d6Vjmzep2zQlorn",
+          "name": "Benjamin Britten",
+          "type": "artist",
+          "uri": "spotify:artist:7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7yI4JekKvW6tUp9Ql8A0CR"
+      },
+      "href": "https://api.spotify.com/v1/albums/7yI4JekKvW6tUp9Ql8A0CR",
+      "id": "7yI4JekKvW6tUp9Ql8A0CR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e7de9c6e203803d6b941817f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e7de9c6e203803d6b941817f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e7de9c6e203803d6b941817f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Zemlinsky: Complete String Quartets",
+      "release_date": "2015-02-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7yI4JekKvW6tUp9Ql8A0CR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5z1DT2Qv5crikZIIJt5uO9"
+          },
+          "href": "https://api.spotify.com/v1/artists/5z1DT2Qv5crikZIIJt5uO9",
+          "id": "5z1DT2Qv5crikZIIJt5uO9",
+          "name": "Alexander von Zemlinsky",
+          "type": "artist",
+          "uri": "spotify:artist:5z1DT2Qv5crikZIIJt5uO9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1j8VxiAS4DtOJ3PqMqWYxR"
+      },
+      "href": "https://api.spotify.com/v1/albums/1j8VxiAS4DtOJ3PqMqWYxR",
+      "id": "1j8VxiAS4DtOJ3PqMqWYxR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f8074eb0858ba2338307bad3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f8074eb0858ba2338307bad3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f8074eb0858ba2338307bad3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sir Andrzej & Roxanna Panufnik: Chamber Works for Strings",
+      "release_date": "2014-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1j8VxiAS4DtOJ3PqMqWYxR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DuDin03HNQkNHHCbxVQmM"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DuDin03HNQkNHHCbxVQmM",
+          "id": "5DuDin03HNQkNHHCbxVQmM",
+          "name": "Andrzej Panufnik",
+          "type": "artist",
+          "uri": "spotify:artist:5DuDin03HNQkNHHCbxVQmM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/752IV2hg0pdKKR7BcQFet5"
+          },
+          "href": "https://api.spotify.com/v1/artists/752IV2hg0pdKKR7BcQFet5",
+          "id": "752IV2hg0pdKKR7BcQFet5",
+          "name": "Robert Smissen",
+          "type": "artist",
+          "uri": "spotify:artist:752IV2hg0pdKKR7BcQFet5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wkiptsc3JABAc0nNK6Uu5"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wkiptsc3JABAc0nNK6Uu5",
+          "id": "3wkiptsc3JABAc0nNK6Uu5",
+          "name": "Richard May",
+          "type": "artist",
+          "uri": "spotify:artist:3wkiptsc3JABAc0nNK6Uu5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0jfYITPsjeU5oxaYFIDhB6"
+      },
+      "href": "https://api.spotify.com/v1/albums/0jfYITPsjeU5oxaYFIDhB6",
+      "id": "0jfYITPsjeU5oxaYFIDhB6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273106de39f4488e5b2fbc42886",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02106de39f4488e5b2fbc42886",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851106de39f4488e5b2fbc42886",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Grundman: A Mortuis Resurgere (The Resurrection of Christ)",
+      "release_date": "2014-06-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0jfYITPsjeU5oxaYFIDhB6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cIoeQKioiklL04GgNOSLl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cIoeQKioiklL04GgNOSLl",
+          "id": "4cIoeQKioiklL04GgNOSLl",
+          "name": "Jorge Grundman",
+          "type": "artist",
+          "uri": "spotify:artist:4cIoeQKioiklL04GgNOSLl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6abOpoCSBAtayOI1YKyg7x"
+          },
+          "href": "https://api.spotify.com/v1/artists/6abOpoCSBAtayOI1YKyg7x",
+          "id": "6abOpoCSBAtayOI1YKyg7x",
+          "name": "Susana Cordon",
+          "type": "artist",
+          "uri": "spotify:artist:6abOpoCSBAtayOI1YKyg7x"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7uKkQdPQQFaxMtb3wE0dLJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/7uKkQdPQQFaxMtb3wE0dLJ",
+      "id": "7uKkQdPQQFaxMtb3wE0dLJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273923efed16cd91ad9a8d040f2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02923efed16cd91ad9a8d040f2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851923efed16cd91ad9a8d040f2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Brahms: String Quartet in A Minor & Clarinet Quintet",
+      "release_date": "2014-03-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7uKkQdPQQFaxMtb3wE0dLJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+          "id": "5wTAi7QkpP6kp8a54lmTOq",
+          "name": "Johannes Brahms",
+          "type": "artist",
+          "uri": "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jwtuGXYddkJm7TSoJuoT2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jwtuGXYddkJm7TSoJuoT2",
+          "id": "7jwtuGXYddkJm7TSoJuoT2",
+          "name": "Michael Collins",
+          "type": "artist",
+          "uri": "spotify:artist:7jwtuGXYddkJm7TSoJuoT2"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5p78SW2rHGFY3SILz6q7s1"
+      },
+      "href": "https://api.spotify.com/v1/albums/5p78SW2rHGFY3SILz6q7s1",
+      "id": "5p78SW2rHGFY3SILz6q7s1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d3061ae251c738027b785e0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021d3061ae251c738027b785e0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511d3061ae251c738027b785e0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Joubert: String Quartets Nos. 1-3",
+      "release_date": "2014-02-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5p78SW2rHGFY3SILz6q7s1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wSr6rNbfHwazFI13TIICe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wSr6rNbfHwazFI13TIICe",
+          "id": "4wSr6rNbfHwazFI13TIICe",
+          "name": "John Joubert",
+          "type": "artist",
+          "uri": "spotify:artist:4wSr6rNbfHwazFI13TIICe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3OvgGdF9vO8u5xOZOKg8hO"
+      },
+      "href": "https://api.spotify.com/v1/albums/3OvgGdF9vO8u5xOZOKg8hO",
+      "id": "3OvgGdF9vO8u5xOZOKg8hO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4b87deba3506f44e9db5749",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4b87deba3506f44e9db5749",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d4b87deba3506f44e9db5749",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "New World Quartets",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3OvgGdF9vO8u5xOZOKg8hO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/15q1DkKRNxfWEmtp5XMaij"
+      },
+      "href": "https://api.spotify.com/v1/albums/15q1DkKRNxfWEmtp5XMaij",
+      "id": "15q1DkKRNxfWEmtp5XMaij",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f8d3e55bed47c51d6d7b332",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029f8d3e55bed47c51d6d7b332",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519f8d3e55bed47c51d6d7b332",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In the South",
+      "release_date": "2013-04-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:15q1DkKRNxfWEmtp5XMaij",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SlbJv0E7TnKxa7bLe6MSx"
+      },
+      "href": "https://api.spotify.com/v1/albums/6SlbJv0E7TnKxa7bLe6MSx",
+      "id": "6SlbJv0E7TnKxa7bLe6MSx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a0be596951be78d430debc20",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a0be596951be78d430debc20",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a0be596951be78d430debc20",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Debussy: String Quartet and Piano Trio",
+      "release_date": "2012-04-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6SlbJv0E7TnKxa7bLe6MSx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+          "id": "1Uff91EOsvd99rtAupatMP",
+          "name": "Claude Debussy",
+          "type": "artist",
+          "uri": "spotify:artist:1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4BcOHdtzeyl8hX3zUId6hZ",
+          "id": "4BcOHdtzeyl8hX3zUId6hZ",
+          "name": "Jean-Efflam Bavouzet",
+          "type": "artist",
+          "uri": "spotify:artist:4BcOHdtzeyl8hX3zUId6hZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PZFbxL7dweZV41V0BDvw2"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PZFbxL7dweZV41V0BDvw2",
+          "id": "5PZFbxL7dweZV41V0BDvw2",
+          "name": "Sioned Williams",
+          "type": "artist",
+          "uri": "spotify:artist:5PZFbxL7dweZV41V0BDvw2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/220ZFsFURhq7WSsiNv3Til"
+          },
+          "href": "https://api.spotify.com/v1/artists/220ZFsFURhq7WSsiNv3Til",
+          "id": "220ZFsFURhq7WSsiNv3Til",
+          "name": "Chris Laurence",
+          "type": "artist",
+          "uri": "spotify:artist:220ZFsFURhq7WSsiNv3Til"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1gWZF5VSABIlDMnhrGXAUi"
+      },
+      "href": "https://api.spotify.com/v1/albums/1gWZF5VSABIlDMnhrGXAUi",
+      "id": "1gWZF5VSABIlDMnhrGXAUi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735fcb8fcf9139b66f4b2ff0d1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025fcb8fcf9139b66f4b2ff0d1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515fcb8fcf9139b66f4b2ff0d1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Woolrich: Lending Wings",
+      "release_date": "2012-04-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1gWZF5VSABIlDMnhrGXAUi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3oOMeiwNSuKrZcfv7HNpTb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3oOMeiwNSuKrZcfv7HNpTb",
+          "id": "3oOMeiwNSuKrZcfv7HNpTb",
+          "name": "John Woolrich",
+          "type": "artist",
+          "uri": "spotify:artist:3oOMeiwNSuKrZcfv7HNpTb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7vBKvMjhWfFAl3dT2IsWNf"
+          },
+          "href": "https://api.spotify.com/v1/artists/7vBKvMjhWfFAl3dT2IsWNf",
+          "id": "7vBKvMjhWfFAl3dT2IsWNf",
+          "name": "Composers Ensemble",
+          "type": "artist",
+          "uri": "spotify:artist:7vBKvMjhWfFAl3dT2IsWNf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xoIodOgdwfa2M8jHE7wF9"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xoIodOgdwfa2M8jHE7wF9",
+          "id": "2xoIodOgdwfa2M8jHE7wF9",
+          "name": "Diego Masson",
+          "type": "artist",
+          "uri": "spotify:artist:2xoIodOgdwfa2M8jHE7wF9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7oq3Mkzwwex94MDF3iTPRG"
+      },
+      "href": "https://api.spotify.com/v1/albums/7oq3Mkzwwex94MDF3iTPRG",
+      "id": "7oq3Mkzwwex94MDF3iTPRG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a2b6dd75136d74ae9de3e485",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a2b6dd75136d74ae9de3e485",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a2b6dd75136d74ae9de3e485",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Petits Fours - Favourite Encores",
+      "release_date": "2012-02-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7oq3Mkzwwex94MDF3iTPRG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/752IV2hg0pdKKR7BcQFet5"
+          },
+          "href": "https://api.spotify.com/v1/artists/752IV2hg0pdKKR7BcQFet5",
+          "id": "752IV2hg0pdKKR7BcQFet5",
+          "name": "Robert Smissen",
+          "type": "artist",
+          "uri": "spotify:artist:752IV2hg0pdKKR7BcQFet5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iEF3lnsArDpnKXvg6Zys7",
+          "id": "3iEF3lnsArDpnKXvg6Zys7",
+          "name": "Philip Edward Fisher",
+          "type": "artist",
+          "uri": "spotify:artist:3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3yrCqT3lE8tXHbZKSq5Jsc"
+      },
+      "href": "https://api.spotify.com/v1/albums/3yrCqT3lE8tXHbZKSq5Jsc",
+      "id": "3yrCqT3lE8tXHbZKSq5Jsc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fba0d33fd766dd76e9eb9038",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fba0d33fd766dd76e9eb9038",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fba0d33fd766dd76e9eb9038",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jorge Grundman: Surviving a Son's Suicide & God's Sketches",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3yrCqT3lE8tXHbZKSq5Jsc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cIoeQKioiklL04GgNOSLl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cIoeQKioiklL04GgNOSLl",
+          "id": "4cIoeQKioiklL04GgNOSLl",
+          "name": "Jorge Grundman",
+          "type": "artist",
+          "uri": "spotify:artist:4cIoeQKioiklL04GgNOSLl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6abOpoCSBAtayOI1YKyg7x"
+          },
+          "href": "https://api.spotify.com/v1/artists/6abOpoCSBAtayOI1YKyg7x",
+          "id": "6abOpoCSBAtayOI1YKyg7x",
+          "name": "Susana Cordon",
+          "type": "artist",
+          "uri": "spotify:artist:6abOpoCSBAtayOI1YKyg7x"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jJt1sHOutCCnd1ZyrYuQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jJt1sHOutCCnd1ZyrYuQp",
+          "id": "2jJt1sHOutCCnd1ZyrYuQp",
+          "name": "Jaime Fernández",
+          "type": "artist",
+          "uri": "spotify:artist:2jJt1sHOutCCnd1ZyrYuQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/174SnxkYGqSfJiqvDLHN8u"
+      },
+      "href": "https://api.spotify.com/v1/albums/174SnxkYGqSfJiqvDLHN8u",
+      "id": "174SnxkYGqSfJiqvDLHN8u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273afb32b9bc4014ac554ba35b6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02afb32b9bc4014ac554ba35b6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851afb32b9bc4014ac554ba35b6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rhythm & Texture",
+      "release_date": "2010-08-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:174SnxkYGqSfJiqvDLHN8u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7sIiG8ptDNzTXR8bSjaHfp"
+      },
+      "href": "https://api.spotify.com/v1/albums/7sIiG8ptDNzTXR8bSjaHfp",
+      "id": "7sIiG8ptDNzTXR8bSjaHfp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6c83aa92064a90eb98c2a0e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6c83aa92064a90eb98c2a0e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e6c83aa92064a90eb98c2a0e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Britten: String Quartets 2 & 3",
+      "release_date": "2007-09-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7sIiG8ptDNzTXR8bSjaHfp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MJ1pB5d6Vjmzep2zQlorn",
+          "id": "7MJ1pB5d6Vjmzep2zQlorn",
+          "name": "Benjamin Britten",
+          "type": "artist",
+          "uri": "spotify:artist:7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5EbxM4bn0rRcUN5g7ygqfH"
+      },
+      "href": "https://api.spotify.com/v1/albums/5EbxM4bn0rRcUN5g7ygqfH",
+      "id": "5EbxM4bn0rRcUN5g7ygqfH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273285a255042dcdda6d8eaee21",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02285a255042dcdda6d8eaee21",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851285a255042dcdda6d8eaee21",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Schoenberg / Webern / Zemlinsky: Music from Vienna 1",
+      "release_date": "2007-09-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5EbxM4bn0rRcUN5g7ygqfH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3JBwwh3TGCEL7pcOBuMZEb"
+      },
+      "href": "https://api.spotify.com/v1/albums/3JBwwh3TGCEL7pcOBuMZEb",
+      "id": "3JBwwh3TGCEL7pcOBuMZEb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbff07ae5025a811ba429f15",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbff07ae5025a811ba429f15",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bbff07ae5025a811ba429f15",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sculthorpe: Island Dreaming - String Quartets",
+      "release_date": "2007-09-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3JBwwh3TGCEL7pcOBuMZEb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+          },
+          "href": "https://api.spotify.com/v1/artists/31rgljsVrzeRFFnJXOYq5J",
+          "id": "31rgljsVrzeRFFnJXOYq5J",
+          "name": "Peter Sculthorpe",
+          "type": "artist",
+          "uri": "spotify:artist:31rgljsVrzeRFFnJXOYq5J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SahgSBFXH1mekMSpnz0vp"
+      },
+      "href": "https://api.spotify.com/v1/albums/6SahgSBFXH1mekMSpnz0vp",
+      "id": "6SahgSBFXH1mekMSpnz0vp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27309cb25e98f5d98ef2da8366e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0209cb25e98f5d98ef2da8366e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485109cb25e98f5d98ef2da8366e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Respighi: Il Tramonto - String Quartets",
+      "release_date": "2007-08-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6SahgSBFXH1mekMSpnz0vp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KkUirCiJZhgRN3NbgG98L",
+          "id": "7KkUirCiJZhgRN3NbgG98L",
+          "name": "Ottorino Respighi",
+          "type": "artist",
+          "uri": "spotify:artist:7KkUirCiJZhgRN3NbgG98L"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tLz30COU8eCH9enk2Ik3L"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tLz30COU8eCH9enk2Ik3L",
+      "id": "6tLz30COU8eCH9enk2Ik3L",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f6eba38daf94486b7781711",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028f6eba38daf94486b7781711",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518f6eba38daf94486b7781711",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shostakovich: Chamber Music",
+      "release_date": "2007-07-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tLz30COU8eCH9enk2Ik3L",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3PteSNw1UPfEwd30BXHVB5"
+      },
+      "href": "https://api.spotify.com/v1/albums/3PteSNw1UPfEwd30BXHVB5",
+      "id": "3PteSNw1UPfEwd30BXHVB5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4b0d6ee016805c5548ebb36",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4b0d6ee016805c5548ebb36",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c4b0d6ee016805c5548ebb36",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tchaikovsky / Britten: String Quartets",
+      "release_date": "2007-07-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3PteSNw1UPfEwd30BXHVB5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ANP4qmbgyC1NTkVvLFgWI"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ANP4qmbgyC1NTkVvLFgWI",
+      "id": "2ANP4qmbgyC1NTkVvLFgWI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27376837d6a81070ffc58071eaf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0276837d6a81070ffc58071eaf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485176837d6a81070ffc58071eaf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Welcome to the Voice",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2ANP4qmbgyC1NTkVvLFgWI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b99MsfdhmMze4rADKlONq",
+          "id": "2b99MsfdhmMze4rADKlONq",
+          "name": "Steve Nieve",
+          "type": "artist",
+          "uri": "spotify:artist:2b99MsfdhmMze4rADKlONq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk",
+          "name": "Sting",
+          "type": "artist",
+          "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+          },
+          "href": "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+          "id": "24fwyM31DLDqYOPvQ0jFFr",
+          "name": "Barbara Bonney",
+          "type": "artist",
+          "uri": "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+          "id": "2BGRfQgtzikz1pzAD0kaEn",
+          "name": "Elvis Costello",
+          "type": "artist",
+          "uri": "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+          "id": "5iksmHDN2qZQcgFfXqIXtT",
+          "name": "Robert Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iPiojms0LEjBg8RqKuChh",
+          "id": "3iPiojms0LEjBg8RqKuChh",
+          "name": "Ned Rothenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jAeRfT8LYCxydM2Y1Egvn",
+          "id": "7jAeRfT8LYCxydM2Y1Egvn",
+          "name": "Marc Ribot",
+          "type": "artist",
+          "uri": "spotify:artist:7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Cnqa9Zt22tEZr73mDDnCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Cnqa9Zt22tEZr73mDDnCw",
+          "id": "5Cnqa9Zt22tEZr73mDDnCw",
+          "name": "Antoine Quessada",
+          "type": "artist",
+          "uri": "spotify:artist:5Cnqa9Zt22tEZr73mDDnCw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0nQwWdMG4ua3s4MmB7es3u"
+      },
+      "href": "https://api.spotify.com/v1/albums/0nQwWdMG4ua3s4MmB7es3u",
+      "id": "0nQwWdMG4ua3s4MmB7es3u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ca99d8eb4a9d281ece85979e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ca99d8eb4a9d281ece85979e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ca99d8eb4a9d281ece85979e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Elegie",
+      "release_date": "2002-09-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0nQwWdMG4ua3s4MmB7es3u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ysWCoVVc7Rft0aKM1pVeO"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ysWCoVVc7Rft0aKM1pVeO",
+      "id": "6ysWCoVVc7Rft0aKM1pVeO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27345e2592c604827219b055f8d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0245e2592c604827219b055f8d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485145e2592c604827219b055f8d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Music from Vienna 2",
+      "release_date": "2001-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ysWCoVVc7Rft0aKM1pVeO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 35,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5fsS2I7ZxYnV1JoLpRMRUL"
+      },
+      "href": "https://api.spotify.com/v1/albums/5fsS2I7ZxYnV1JoLpRMRUL",
+      "id": "5fsS2I7ZxYnV1JoLpRMRUL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273092ac4882239cee004e54a93",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02092ac4882239cee004e54a93",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851092ac4882239cee004e54a93",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beethoven: String Quartets Op. 18",
+      "release_date": "2000",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:5fsS2I7ZxYnV1JoLpRMRUL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 60,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5OMbafnoAMMMq0M51CRuo8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5OMbafnoAMMMq0M51CRuo8",
+      "id": "5OMbafnoAMMMq0M51CRuo8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736219b4964523ed4a1dc099b8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026219b4964523ed4a1dc099b8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516219b4964523ed4a1dc099b8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shostakovich: The String Quartets",
+      "release_date": "1999-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5OMbafnoAMMMq0M51CRuo8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/37XMKh58OntHZtGaaA4QVd"
+      },
+      "href": "https://api.spotify.com/v1/albums/37XMKh58OntHZtGaaA4QVd",
+      "id": "37XMKh58OntHZtGaaA4QVd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e38926237b467aa90e1058c6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e38926237b467aa90e1058c6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e38926237b467aa90e1058c6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Brubeck / Stravinsky / Weill",
+      "release_date": "1997-06-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:37XMKh58OntHZtGaaA4QVd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2waXgYH2auctTQKoDaR3FY"
+      },
+      "href": "https://api.spotify.com/v1/albums/2waXgYH2auctTQKoDaR3FY",
+      "id": "2waXgYH2auctTQKoDaR3FY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27361a9f569b2b7635ad221d082",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0261a9f569b2b7635ad221d082",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485161a9f569b2b7635ad221d082",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mozart / Haydn",
+      "release_date": "1996-08-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2waXgYH2auctTQKoDaR3FY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1oVUf3VYt4uBeUE9avl18q"
+      },
+      "href": "https://api.spotify.com/v1/albums/1oVUf3VYt4uBeUE9avl18q",
+      "id": "1oVUf3VYt4uBeUE9avl18q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273450f32c69d6a06c0bc1e0b4b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02450f32c69d6a06c0bc1e0b4b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851450f32c69d6a06c0bc1e0b4b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mozart: Clarinet Concerto and Clarinet Quintet",
+      "release_date": "1993",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:1oVUf3VYt4uBeUE9avl18q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+          "id": "4NJhFmfw43RLBLjQvxDuRS",
+          "name": "Wolfgang Amadeus Mozart",
+          "type": "artist",
+          "uri": "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/34vvOIeUehZPOvP1NnqAbc"
+          },
+          "href": "https://api.spotify.com/v1/artists/34vvOIeUehZPOvP1NnqAbc",
+          "id": "34vvOIeUehZPOvP1NnqAbc",
+          "name": "Joan Enric Lluna",
+          "type": "artist",
+          "uri": "spotify:artist:34vvOIeUehZPOvP1NnqAbc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5wj8PisRqzqnRWdYXhOHRT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5wj8PisRqzqnRWdYXhOHRT",
+          "id": "5wj8PisRqzqnRWdYXhOHRT",
+          "name": "Antony Pay",
+          "type": "artist",
+          "uri": "spotify:artist:5wj8PisRqzqnRWdYXhOHRT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DO4p3CPDnInsJfg0jFfaF",
+          "id": "2DO4p3CPDnInsJfg0jFfaF",
+          "name": "English Chamber Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IByPO6tdFO5VirxhDkrU2"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IByPO6tdFO5VirxhDkrU2",
+      "id": "4IByPO6tdFO5VirxhDkrU2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a854e94aeef87fff2948d7ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a854e94aeef87fff2948d7ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a854e94aeef87fff2948d7ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shostakovich: String Quartets Nos. 7, 8 & 9",
+      "release_date": "1989-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4IByPO6tdFO5VirxhDkrU2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA",
+          "name": "Dmitri Shostakovich",
+          "type": "artist",
+          "uri": "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35lZlZhviDa2erIDZUOIHr"
+      },
+      "href": "https://api.spotify.com/v1/albums/35lZlZhviDa2erIDZUOIHr",
+      "id": "35lZlZhviDa2erIDZUOIHr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27308c10e746cf458268cba1772",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0208c10e746cf458268cba1772",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485108c10e746cf458268cba1772",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Elgar / Delius: String Quartets",
+      "release_date": "1984-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:35lZlZhviDa2erIDZUOIHr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ]
+    }
+  ]
+}

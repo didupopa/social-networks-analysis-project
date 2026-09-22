@@ -4,7 +4,7 @@
     "include_groups": "album"
   },
   "next_offset": 20,
-  "completed": false,
+  "completed": true,
   "items": [
     {
       "album_type": "album",
@@ -943,6 +943,380 @@
       "release_date_precision": "day",
       "type": "album",
       "uri": "spotify:album:6Zhau1nkX7nkZ9NvJ0Odie",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2EdgPz2xqbF7mv7Ux8ofR0"
+      },
+      "href": "https://api.spotify.com/v1/albums/2EdgPz2xqbF7mv7Ux8ofR0",
+      "id": "2EdgPz2xqbF7mv7Ux8ofR0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273154defcdd1def71ae024d810",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02154defcdd1def71ae024d810",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851154defcdd1def71ae024d810",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kokane Back 2 Tha Clap",
+      "release_date": "2012-01-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2EdgPz2xqbF7mv7Ux8ofR0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/66G3sWywMOaJtFHwhmbT5p"
+      },
+      "href": "https://api.spotify.com/v1/albums/66G3sWywMOaJtFHwhmbT5p",
+      "id": "66G3sWywMOaJtFHwhmbT5p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732be0b01278e99ff1816fd7e2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022be0b01278e99ff1816fd7e2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512be0b01278e99ff1816fd7e2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Legend Continues",
+      "release_date": "2011-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:66G3sWywMOaJtFHwhmbT5p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5uVuEL6r68SsNhKTJPwwDt"
+      },
+      "href": "https://api.spotify.com/v1/albums/5uVuEL6r68SsNhKTJPwwDt",
+      "id": "5uVuEL6r68SsNhKTJPwwDt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f86ff07a4da9714b7c51d71f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f86ff07a4da9714b7c51d71f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f86ff07a4da9714b7c51d71f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "How It All Started",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5uVuEL6r68SsNhKTJPwwDt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Ki96naTQRGrZx1W25L3Dl"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Ki96naTQRGrZx1W25L3Dl",
+      "id": "4Ki96naTQRGrZx1W25L3Dl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a2edc00a54ac0da654af1cb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029a2edc00a54ac0da654af1cb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519a2edc00a54ac0da654af1cb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Hoodmob",
+      "release_date": "2006-03-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Ki96naTQRGrZx1W25L3Dl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/70xh6J73rwCQof230goIrl"
+      },
+      "href": "https://api.spotify.com/v1/albums/70xh6J73rwCQof230goIrl",
+      "id": "70xh6J73rwCQof230goIrl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b760996c3ea5afa4216aa624",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b760996c3ea5afa4216aa624",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b760996c3ea5afa4216aa624",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mr. Kane Part 2",
+      "release_date": "2005-03-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:70xh6J73rwCQof230goIrl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5tTrPyjp0Sd4Dni9KwXZmz"
+      },
+      "href": "https://api.spotify.com/v1/albums/5tTrPyjp0Sd4Dni9KwXZmz",
+      "id": "5tTrPyjp0Sd4Dni9KwXZmz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a602b5877e94ad76a025191c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a602b5877e94ad76a025191c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a602b5877e94ad76a025191c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Young Roscoe Philaphornia",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5tTrPyjp0Sd4Dni9KwXZmz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xFFhK1VYJZ4P6xetMYDWN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xFFhK1VYJZ4P6xetMYDWN",
+          "id": "5xFFhK1VYJZ4P6xetMYDWN",
+          "name": "Roscoe",
+          "type": "artist",
+          "uri": "spotify:artist:5xFFhK1VYJZ4P6xetMYDWN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w71vXwHI2Oz6I5OO41tRM",
+          "id": "6w71vXwHI2Oz6I5OO41tRM",
+          "name": "LaToiya Williams",
+          "type": "artist",
+          "uri": "spotify:artist:6w71vXwHI2Oz6I5OO41tRM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7jzVH8LKS8dIE9XnU0qNlc"
+      },
+      "href": "https://api.spotify.com/v1/albums/7jzVH8LKS8dIE9XnU0qNlc",
+      "id": "7jzVH8LKS8dIE9XnU0qNlc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b075cae7bd0b34f04a7e32c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020b075cae7bd0b34f04a7e32c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510b075cae7bd0b34f04a7e32c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Funk Upon A Rhyme",
+      "release_date": "1994",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:7jzVH8LKS8dIE9XnU0qNlc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/64nqlEsdBQwQbyaXQQGAY3"
+      },
+      "href": "https://api.spotify.com/v1/albums/64nqlEsdBQwQbyaXQQGAY3",
+      "id": "64nqlEsdBQwQbyaXQQGAY3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27342f0261a063655c96386937e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0242f0261a063655c96386937e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485142f0261a063655c96386937e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Addictive Hip Hop Muzick",
+      "release_date": "1991-03-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:64nqlEsdBQwQbyaXQQGAY3",
       "artists": [
         {
           "external_urls": {

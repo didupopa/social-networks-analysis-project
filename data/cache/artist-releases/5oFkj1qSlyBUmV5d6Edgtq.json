@@ -1,0 +1,96 @@
+{
+  "artist_id": "5oFkj1qSlyBUmV5d6Edgtq",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6CNwXxGCLQtWhG2VHOuiib"
+      },
+      "href": "https://api.spotify.com/v1/albums/6CNwXxGCLQtWhG2VHOuiib",
+      "id": "6CNwXxGCLQtWhG2VHOuiib",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738332ef6f54af77c789e58cbe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028332ef6f54af77c789e58cbe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518332ef6f54af77c789e58cbe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Effected",
+      "release_date": "2018-02-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6CNwXxGCLQtWhG2VHOuiib",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oFkj1qSlyBUmV5d6Edgtq",
+          "id": "5oFkj1qSlyBUmV5d6Edgtq",
+          "name": "Cozz",
+          "type": "artist",
+          "uri": "spotify:artist:5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0xSDFYoazvuu40vJgYsx1C"
+      },
+      "href": "https://api.spotify.com/v1/albums/0xSDFYoazvuu40vJgYsx1C",
+      "id": "0xSDFYoazvuu40vJgYsx1C",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731bf793a4344366077d5933b8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021bf793a4344366077d5933b8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511bf793a4344366077d5933b8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Cozz & Effect",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0xSDFYoazvuu40vJgYsx1C",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oFkj1qSlyBUmV5d6Edgtq",
+          "id": "5oFkj1qSlyBUmV5d6Edgtq",
+          "name": "Cozz",
+          "type": "artist",
+          "uri": "spotify:artist:5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ]
+    }
+  ]
+}

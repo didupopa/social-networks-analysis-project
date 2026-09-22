@@ -1,0 +1,648 @@
+{
+  "album_id": "6ssECEcDJ75tzwCbGiYcu0",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 404773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6N1LMUoYPXapZqekNUL1zC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6N1LMUoYPXapZqekNUL1zC",
+      "id": "6N1LMUoYPXapZqekNUL1zC",
+      "name": "Love Child Overture",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6N1LMUoYPXapZqekNUL1zC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Qn5gX2mAbiKJsFIm4h8fq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Qn5gX2mAbiKJsFIm4h8fq",
+      "id": "1Qn5gX2mAbiKJsFIm4h8fq",
+      "name": "Anniversary Intermezzo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1Qn5gX2mAbiKJsFIm4h8fq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JjpVpA9pLSBcuM5W4CtGM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JjpVpA9pLSBcuM5W4CtGM",
+          "id": "4JjpVpA9pLSBcuM5W4CtGM",
+          "name": "Richard Weigall",
+          "type": "artist",
+          "uri": "spotify:artist:4JjpVpA9pLSBcuM5W4CtGM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Mx5QONumEcyDd2THCM6GX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Mx5QONumEcyDd2THCM6GX",
+          "id": "4Mx5QONumEcyDd2THCM6GX",
+          "name": "John Langstaff",
+          "type": "artist",
+          "uri": "spotify:artist:4Mx5QONumEcyDd2THCM6GX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 505066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5IMrGZQFI4ECG003iXcTil"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5IMrGZQFI4ECG003iXcTil",
+      "id": "5IMrGZQFI4ECG003iXcTil",
+      "name": "Oboe Concerto: I Moderato Assai",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5IMrGZQFI4ECG003iXcTil",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JjpVpA9pLSBcuM5W4CtGM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JjpVpA9pLSBcuM5W4CtGM",
+          "id": "4JjpVpA9pLSBcuM5W4CtGM",
+          "name": "Richard Weigall",
+          "type": "artist",
+          "uri": "spotify:artist:4JjpVpA9pLSBcuM5W4CtGM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 433240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6K5lmBFnVnK3qWcHocGBJt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6K5lmBFnVnK3qWcHocGBJt",
+      "id": "6K5lmBFnVnK3qWcHocGBJt",
+      "name": "Oboe Concerto: II Siciliano and Trio",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6K5lmBFnVnK3qWcHocGBJt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JjpVpA9pLSBcuM5W4CtGM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JjpVpA9pLSBcuM5W4CtGM",
+          "id": "4JjpVpA9pLSBcuM5W4CtGM",
+          "name": "Richard Weigall",
+          "type": "artist",
+          "uri": "spotify:artist:4JjpVpA9pLSBcuM5W4CtGM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5sKu9XozeYsX2pHG4ME3EE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5sKu9XozeYsX2pHG4ME3EE",
+      "id": "5sKu9XozeYsX2pHG4ME3EE",
+      "name": "Oboe Concerto: III Rondo",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5sKu9XozeYsX2pHG4ME3EE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iwAeqGzGUnuGq3vSeLgvY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4iwAeqGzGUnuGq3vSeLgvY",
+      "id": "4iwAeqGzGUnuGq3vSeLgvY",
+      "name": "They Will Be Remembered",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4iwAeqGzGUnuGq3vSeLgvY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 325400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1iu6ea1rhlJrfEa1Qg2Zvz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1iu6ea1rhlJrfEa1Qg2Zvz",
+      "id": "1iu6ea1rhlJrfEa1Qg2Zvz",
+      "name": "Edwardian Waltzes",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1iu6ea1rhlJrfEa1Qg2Zvz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 428120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4HhiWZenEpxURVlgV8ejIO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4HhiWZenEpxURVlgV8ejIO",
+      "id": "4HhiWZenEpxURVlgV8ejIO",
+      "name": "Slavonic Variations",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4HhiWZenEpxURVlgV8ejIO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 626493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rVSMO45tuynMHf3Ogw89n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4rVSMO45tuynMHf3Ogw89n",
+      "id": "4rVSMO45tuynMHf3Ogw89n",
+      "name": "Tales From Hebdon Woods",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4rVSMO45tuynMHf3Ogw89n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 350093,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3M4feIsuYEix2EV2YeGMbU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3M4feIsuYEix2EV2YeGMbU",
+      "id": "3M4feIsuYEix2EV2YeGMbU",
+      "name": "Divertissement For Chamber Orchestra",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3M4feIsuYEix2EV2YeGMbU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 304733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51tkMdC4LF3vmJqGLPU9fl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51tkMdC4LF3vmJqGLPU9fl",
+      "id": "51tkMdC4LF3vmJqGLPU9fl",
+      "name": "Lullaby, Homeless Baby",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:51tkMdC4LF3vmJqGLPU9fl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hrMT5rIVrS20YswyQ6nlj",
+          "id": "3hrMT5rIVrS20YswyQ6nlj",
+          "name": "Gavin Sutherland",
+          "type": "artist",
+          "uri": "spotify:artist:3hrMT5rIVrS20YswyQ6nlj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 340866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7o4A0L0pDYfxK2OhfilqDC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7o4A0L0pDYfxK2OhfilqDC",
+      "id": "7o4A0L0pDYfxK2OhfilqDC",
+      "name": "White Rose Serenade",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7o4A0L0pDYfxK2OhfilqDC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FmHd9EfRJ2hjEET4jn7km"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FmHd9EfRJ2hjEET4jn7km",
+          "id": "1FmHd9EfRJ2hjEET4jn7km",
+          "name": "Christopher Irvin",
+          "type": "artist",
+          "uri": "spotify:artist:1FmHd9EfRJ2hjEET4jn7km"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02JF7Z6Qq5jjOVxI12MK0P"
+          },
+          "href": "https://api.spotify.com/v1/artists/02JF7Z6Qq5jjOVxI12MK0P",
+          "id": "02JF7Z6Qq5jjOVxI12MK0P",
+          "name": "John Longstaff",
+          "type": "artist",
+          "uri": "spotify:artist:02JF7Z6Qq5jjOVxI12MK0P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JV4LRW4zooGWJvD2Ek3Tk",
+          "id": "2JV4LRW4zooGWJvD2Ek3Tk",
+          "name": "RTE Concert Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2JV4LRW4zooGWJvD2Ek3Tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/418dEl9PXcgqnqe80ik1Ut"
+      },
+      "href": "https://api.spotify.com/v1/tracks/418dEl9PXcgqnqe80ik1Ut",
+      "id": "418dEl9PXcgqnqe80ik1Ut",
+      "name": "Joie De Vivre Waltz",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:418dEl9PXcgqnqe80ik1Ut",
+      "is_local": false
+    }
+  ]
+}

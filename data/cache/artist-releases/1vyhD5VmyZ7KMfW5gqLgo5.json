@@ -1,0 +1,589 @@
+{
+  "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "href": "https://api.spotify.com/v1/albums/2D5DfOxUu0wzK9wrQK7VjY",
+      "id": "2D5DfOxUu0wzK9wrQK7VjY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc4de5b41b6e91c3dd848082",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc4de5b41b6e91c3dd848082",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fc4de5b41b6e91c3dd848082",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "OMERTA",
+      "release_date": "2026-05-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2D5DfOxUu0wzK9wrQK7VjY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7j6DKwmjbxvpQO8h914uEz",
+          "id": "7j6DKwmjbxvpQO8h914uEz",
+          "name": "Ryan Castro",
+          "type": "artist",
+          "uri": "spotify:artist:7j6DKwmjbxvpQO8h914uEz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ZhcTmzBym8cwsVkNNrHgS",
+      "id": "5ZhcTmzBym8cwsVkNNrHgS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bddf0628aa237031aaf5eb8e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bddf0628aa237031aaf5eb8e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bddf0628aa237031aaf5eb8e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mixteip",
+      "release_date": "2025-08-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ZhcTmzBym8cwsVkNNrHgS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "href": "https://api.spotify.com/v1/albums/1hUqwHvAVIEXMXqIrkHgPo",
+      "id": "1hUqwHvAVIEXMXqIrkHgPo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e8f6d6e91471ec739d963f9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022e8f6d6e91471ec739d963f9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512e8f6d6e91471ec739d963f9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rayo",
+      "release_date": "2024-08-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1hUqwHvAVIEXMXqIrkHgPo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 32,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2gWmgvSUxzX6T8i3pfRrjq"
+      },
+      "href": "https://api.spotify.com/v1/albums/2gWmgvSUxzX6T8i3pfRrjq",
+      "id": "2gWmgvSUxzX6T8i3pfRrjq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e51b602de558c45f54fa3183",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e51b602de558c45f54fa3183",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e51b602de558c45f54fa3183",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "JOSE (Deluxe Edition)",
+      "release_date": "2021-12-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2gWmgvSUxzX6T8i3pfRrjq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "href": "https://api.spotify.com/v1/albums/11GmvpYnbgK0rSryPaV5BP",
+      "id": "11GmvpYnbgK0rSryPaV5BP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273922a7339d969b5f0262580f5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02922a7339d969b5f0262580f5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851922a7339d969b5f0262580f5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "JOSE",
+      "release_date": "2021-09-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:11GmvpYnbgK0rSryPaV5BP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "href": "https://api.spotify.com/v1/albums/2mX8ktJoWvyidWBU9U8Jis",
+      "id": "2mX8ktJoWvyidWBU9U8Jis",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0235692baca45542527d742d0d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485135692baca45542527d742d0d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Colores",
+      "release_date": "2020-03-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2mX8ktJoWvyidWBU9U8Jis",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ylFfzx32ICw4L1A7YWNLN",
+      "id": "6ylFfzx32ICw4L1A7YWNLN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514891d9b25d8919448388f3bb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "OASIS",
+      "release_date": "2019-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ylFfzx32ICw4L1A7YWNLN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist",
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "href": "https://api.spotify.com/v1/albums/5kprdYds6oZb4iSldfflOT",
+      "id": "5kprdYds6oZb4iSldfflOT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dda2b86297d3bfb519f8b785",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dda2b86297d3bfb519f8b785",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dda2b86297d3bfb519f8b785",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Vibras",
+      "release_date": "2018-05-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5kprdYds6oZb4iSldfflOT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/79447qgPdAlZVX0Xx4Fzfv"
+      },
+      "href": "https://api.spotify.com/v1/albums/79447qgPdAlZVX0Xx4Fzfv",
+      "id": "79447qgPdAlZVX0Xx4Fzfv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ac03000e1c34ae37a03ecfa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021ac03000e1c34ae37a03ecfa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511ac03000e1c34ae37a03ecfa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Energía Lado B",
+      "release_date": "2017-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:79447qgPdAlZVX0Xx4Fzfv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "href": "https://api.spotify.com/v1/albums/4cGc9Eeb3Gjff2Aq5ILLEf",
+      "id": "4cGc9Eeb3Gjff2Aq5ILLEf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273734b36a0655aae40d78d70f4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02734b36a0655aae40d78d70f4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851734b36a0655aae40d78d70f4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Energía",
+      "release_date": "2016-06-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4cGc9Eeb3Gjff2Aq5ILLEf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
+      },
+      "href": "https://api.spotify.com/v1/albums/4loQMkHOAbqVdyb59KBbsp",
+      "id": "4loQMkHOAbqVdyb59KBbsp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734277da4c011dcc87f012bbab",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024277da4c011dcc87f012bbab",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514277da4c011dcc87f012bbab",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "La Familia B Sides",
+      "release_date": "2014-09-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4loQMkHOAbqVdyb59KBbsp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "href": "https://api.spotify.com/v1/albums/0eaYHx42IseJf6jfxKi2Nr",
+      "id": "0eaYHx42IseJf6jfxKi2Nr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb748e8ded0f408299326b94",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb748e8ded0f408299326b94",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "La Familia",
+      "release_date": "2013-07-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0eaYHx42IseJf6jfxKi2Nr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1xMq6o4CDAa2X0WquvhHkX",
+      "id": "1xMq6o4CDAa2X0WquvhHkX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734902075042e1fce8ae934d8f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024902075042e1fce8ae934d8f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514902075042e1fce8ae934d8f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "J Balvin Mix Tape",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1xMq6o4CDAa2X0WquvhHkX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist",
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ]
+    }
+  ]
+}

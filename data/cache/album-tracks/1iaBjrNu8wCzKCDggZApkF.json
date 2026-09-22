@@ -1,0 +1,620 @@
+{
+  "album_id": "1iaBjrNu8wCzKCDggZApkF",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6dumFrNwrR69YSHbLUj0z4"
+          },
+          "href": "https://api.spotify.com/v1/artists/6dumFrNwrR69YSHbLUj0z4",
+          "id": "6dumFrNwrR69YSHbLUj0z4",
+          "name": "John Fuggin Dough",
+          "type": "artist",
+          "uri": "spotify:artist:6dumFrNwrR69YSHbLUj0z4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215574,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Qx9Teu2aku7JpOcixQN2K"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Qx9Teu2aku7JpOcixQN2K",
+      "id": "5Qx9Teu2aku7JpOcixQN2K",
+      "name": "I'M SO LIT",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5Qx9Teu2aku7JpOcixQN2K",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7J5yTvdVw3wDSlbwSwac3X"
+          },
+          "href": "https://api.spotify.com/v1/artists/7J5yTvdVw3wDSlbwSwac3X",
+          "id": "7J5yTvdVw3wDSlbwSwac3X",
+          "name": "Shel Fthw",
+          "type": "artist",
+          "uri": "spotify:artist:7J5yTvdVw3wDSlbwSwac3X"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 137176,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5CErocbT89RZ573JatOFEC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5CErocbT89RZ573JatOFEC",
+      "id": "5CErocbT89RZ573JatOFEC",
+      "name": "EVERYBODY",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5CErocbT89RZ573JatOFEC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3M74KRkLywmfJOwXAdgEKU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3M74KRkLywmfJOwXAdgEKU",
+          "id": "3M74KRkLywmfJOwXAdgEKU",
+          "name": "Strange Sounds Outer Space",
+          "type": "artist",
+          "uri": "spotify:artist:3M74KRkLywmfJOwXAdgEKU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162595,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/393dJ9oHNcyVMg8Yse0Mxi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/393dJ9oHNcyVMg8Yse0Mxi",
+      "id": "393dJ9oHNcyVMg8Yse0Mxi",
+      "name": "WHO ARE U",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:393dJ9oHNcyVMg8Yse0Mxi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ndR3yYNWJuG8K7IoKDOe0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ndR3yYNWJuG8K7IoKDOe0",
+          "id": "7ndR3yYNWJuG8K7IoKDOe0",
+          "name": "Duece Marly",
+          "type": "artist",
+          "uri": "spotify:artist:7ndR3yYNWJuG8K7IoKDOe0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206324,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/70nQxO7FoUtRlv1Tgwgd5w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/70nQxO7FoUtRlv1Tgwgd5w",
+      "id": "70nQxO7FoUtRlv1Tgwgd5w",
+      "name": "LESSONS",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:70nQxO7FoUtRlv1Tgwgd5w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3rntxh4szr8Qf6GNHvlUU8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3rntxh4szr8Qf6GNHvlUU8",
+          "id": "3rntxh4szr8Qf6GNHvlUU8",
+          "name": "Sammie Gee",
+          "type": "artist",
+          "uri": "spotify:artist:3rntxh4szr8Qf6GNHvlUU8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 142419,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6IjDE8CSzBuAYeSExSWR4l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6IjDE8CSzBuAYeSExSWR4l",
+      "id": "6IjDE8CSzBuAYeSExSWR4l",
+      "name": "DEXTER",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6IjDE8CSzBuAYeSExSWR4l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nbemIx4YFVvC0wZAjYb1P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nbemIx4YFVvC0wZAjYb1P",
+          "id": "5nbemIx4YFVvC0wZAjYb1P",
+          "name": "JasThePhilo",
+          "type": "artist",
+          "uri": "spotify:artist:5nbemIx4YFVvC0wZAjYb1P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167793,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4V9NV4QciDRD45twneDyOR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4V9NV4QciDRD45twneDyOR",
+      "id": "4V9NV4QciDRD45twneDyOR",
+      "name": "THUNDERING",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4V9NV4QciDRD45twneDyOR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ndR3yYNWJuG8K7IoKDOe0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ndR3yYNWJuG8K7IoKDOe0",
+          "id": "7ndR3yYNWJuG8K7IoKDOe0",
+          "name": "Duece Marly",
+          "type": "artist",
+          "uri": "spotify:artist:7ndR3yYNWJuG8K7IoKDOe0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/711Eq7QGc42yb841h9ynz3"
+          },
+          "href": "https://api.spotify.com/v1/artists/711Eq7QGc42yb841h9ynz3",
+          "id": "711Eq7QGc42yb841h9ynz3",
+          "name": "Mike Devoe",
+          "type": "artist",
+          "uri": "spotify:artist:711Eq7QGc42yb841h9ynz3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164829,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZwBkEoSbrnmkPQeYVRsRj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ZwBkEoSbrnmkPQeYVRsRj",
+      "id": "0ZwBkEoSbrnmkPQeYVRsRj",
+      "name": "FAST LIFE",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0ZwBkEoSbrnmkPQeYVRsRj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3M74KRkLywmfJOwXAdgEKU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3M74KRkLywmfJOwXAdgEKU",
+          "id": "3M74KRkLywmfJOwXAdgEKU",
+          "name": "Strange Sounds Outer Space",
+          "type": "artist",
+          "uri": "spotify:artist:3M74KRkLywmfJOwXAdgEKU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265717,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gfdgwa8QOB0tixRYlilic"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0gfdgwa8QOB0tixRYlilic",
+      "id": "0gfdgwa8QOB0tixRYlilic",
+      "name": "HIGHER LEARNING",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0gfdgwa8QOB0tixRYlilic",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rc5LIA04ZnbiCkW87kT3d"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rc5LIA04ZnbiCkW87kT3d",
+          "id": "4rc5LIA04ZnbiCkW87kT3d",
+          "name": "Deus Lee",
+          "type": "artist",
+          "uri": "spotify:artist:4rc5LIA04ZnbiCkW87kT3d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 185013,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5bhkVKmdlcIHLcY1XYjoH5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5bhkVKmdlcIHLcY1XYjoH5",
+      "id": "5bhkVKmdlcIHLcY1XYjoH5",
+      "name": "RUDE BOY",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5bhkVKmdlcIHLcY1XYjoH5",
+      "is_local": false
+    }
+  ]
+}

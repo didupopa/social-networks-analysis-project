@@ -1,0 +1,53 @@
+{
+  "artist_id": "66AE89GQTx88zLYhXn1wFK",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5yW1oZ4MdVeClCYpL9Mkbm"
+      },
+      "href": "https://api.spotify.com/v1/albums/5yW1oZ4MdVeClCYpL9Mkbm",
+      "id": "5yW1oZ4MdVeClCYpL9Mkbm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273990bf4fa11e8748eb45ff68d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02990bf4fa11e8748eb45ff68d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851990bf4fa11e8748eb45ff68d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Alpha Omega",
+      "release_date": "2019-03-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5yW1oZ4MdVeClCYpL9Mkbm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+          },
+          "href": "https://api.spotify.com/v1/artists/66AE89GQTx88zLYhXn1wFK",
+          "id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "Sam Martin",
+          "type": "artist",
+          "uri": "spotify:artist:66AE89GQTx88zLYhXn1wFK"
+        }
+      ]
+    }
+  ]
+}

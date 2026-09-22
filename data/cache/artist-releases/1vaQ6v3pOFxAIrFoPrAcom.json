@@ -1,0 +1,139 @@
+{
+  "artist_id": "1vaQ6v3pOFxAIrFoPrAcom",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "href": "https://api.spotify.com/v1/albums/2UuTaSOSxTNP6whKrwDqnS",
+      "id": "2UuTaSOSxTNP6whKrwDqnS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735501f37e50ad4c7aaa9498f2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025501f37e50ad4c7aaa9498f2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515501f37e50ad4c7aaa9498f2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Vacancy",
+      "release_date": "2026-01-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2UuTaSOSxTNP6whKrwDqnS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+          "id": "1vaQ6v3pOFxAIrFoPrAcom",
+          "name": "Ari Lennox",
+          "type": "artist",
+          "uri": "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "href": "https://api.spotify.com/v1/albums/7dE9Pf7HRgMOCeVSWnA9ZC",
+      "id": "7dE9Pf7HRgMOCeVSWnA9ZC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad2581186f60e949860d0d84",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ad2581186f60e949860d0d84",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ad2581186f60e949860d0d84",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "age/sex/location",
+      "release_date": "2022-09-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7dE9Pf7HRgMOCeVSWnA9ZC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+          "id": "1vaQ6v3pOFxAIrFoPrAcom",
+          "name": "Ari Lennox",
+          "type": "artist",
+          "uri": "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "href": "https://api.spotify.com/v1/albums/3hejjJbFsinMBc1KBqF71w",
+      "id": "3hejjJbFsinMBc1KBqF71w",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1a1bdd330659e602cb927ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f1a1bdd330659e602cb927ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shea Butter Baby",
+      "release_date": "2019-05-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3hejjJbFsinMBc1KBqF71w",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+          "id": "1vaQ6v3pOFxAIrFoPrAcom",
+          "name": "Ari Lennox",
+          "type": "artist",
+          "uri": "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ]
+    }
+  ]
+}

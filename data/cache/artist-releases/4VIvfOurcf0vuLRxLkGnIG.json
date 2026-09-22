@@ -1,0 +1,189 @@
+{
+  "artist_id": "4VIvfOurcf0vuLRxLkGnIG",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Eu9QPnzZEXpo0BzjWOLC4",
+      "id": "3Eu9QPnzZEXpo0BzjWOLC4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273360fce835371774183130cb9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02360fce835371774183130cb9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851360fce835371774183130cb9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
+      "release_date": "2023-11-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Eu9QPnzZEXpo0BzjWOLC4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          },
+          "href": "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+          "id": "5yxyJsFanEAuwSM5kOuZKc",
+          "name": "London Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LmyJyCF5V1eQyvHgJNbTn",
+          "id": "2LmyJyCF5V1eQyvHgJNbTn",
+          "name": "Leonard Bernstein",
+          "type": "artist",
+          "uri": "spotify:artist:2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZGyCOrODWwaVtLSDjayl5",
+          "id": "5ZGyCOrODWwaVtLSDjayl5",
+          "name": "Yannick Nézet-Séguin",
+          "type": "artist",
+          "uri": "spotify:artist:5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG",
+          "id": "4VIvfOurcf0vuLRxLkGnIG",
+          "name": "Bradley Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 34,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "href": "https://api.spotify.com/v1/albums/4sLtOBOzn4s3GDUv3c5oJD",
+      "id": "4sLtOBOzn4s3GDUv3c5oJD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e2d156fdc691f57900134342",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Star Is Born Soundtrack",
+      "release_date": "2018-10-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4sLtOBOzn4s3GDUv3c5oJD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG",
+          "id": "4VIvfOurcf0vuLRxLkGnIG",
+          "name": "Bradley Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "href": "https://api.spotify.com/v1/albums/3edjzMAVB9RYRd4UcZBchx",
+      "id": "3edjzMAVB9RYRd4UcZBchx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5d4b4ed17ec86c4b3944af2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b5d4b4ed17ec86c4b3944af2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Star Is Born Soundtrack (Without Dialogue)",
+      "release_date": "2018-10-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3edjzMAVB9RYRd4UcZBchx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG",
+          "id": "4VIvfOurcf0vuLRxLkGnIG",
+          "name": "Bradley Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ]
+    }
+  ]
+}

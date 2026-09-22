@@ -1,0 +1,63 @@
+{
+  "artist_id": "3N3tIOGCkXiF8cSbPcavZ3",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0yPLNfI8WPJWFoJugr0KAv"
+      },
+      "href": "https://api.spotify.com/v1/albums/0yPLNfI8WPJWFoJugr0KAv",
+      "id": "0yPLNfI8WPJWFoJugr0KAv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c278e01ece5ea49bf8aba7b7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c278e01ece5ea49bf8aba7b7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c278e01ece5ea49bf8aba7b7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Laika Come Home",
+      "release_date": "2002-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0yPLNfI8WPJWFoJugr0KAv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "type": "artist",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N3tIOGCkXiF8cSbPcavZ3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N3tIOGCkXiF8cSbPcavZ3",
+          "id": "3N3tIOGCkXiF8cSbPcavZ3",
+          "name": "Space Monkeyz",
+          "type": "artist",
+          "uri": "spotify:artist:3N3tIOGCkXiF8cSbPcavZ3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3990 @@
+{
+  "artist_id": "5oNgAs7j5XcBMzWv3HAnHG",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 70,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2w0jwPdSW05hCec0BFdz1T"
+      },
+      "href": "https://api.spotify.com/v1/albums/2w0jwPdSW05hCec0BFdz1T",
+      "id": "2w0jwPdSW05hCec0BFdz1T",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273384b2a4286e4fb0395f44dcd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02384b2a4286e4fb0395f44dcd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851384b2a4286e4fb0395f44dcd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: E.M.N.T - The Credits",
+      "release_date": "2026-01-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2w0jwPdSW05hCec0BFdz1T",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5J0hy1k4Ghvo1iIZ8P7cd4",
+          "id": "5J0hy1k4Ghvo1iIZ8P7cd4",
+          "name": "Mike & Keys",
+          "type": "artist",
+          "uri": "spotify:artist:5J0hy1k4Ghvo1iIZ8P7cd4"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5CQ10cfQmzGYJro9rMTs5s"
+      },
+      "href": "https://api.spotify.com/v1/albums/5CQ10cfQmzGYJro9rMTs5s",
+      "id": "5CQ10cfQmzGYJro9rMTs5s",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cbfa0b125e0ffee10e9c820c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cbfa0b125e0ffee10e9c820c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cbfa0b125e0ffee10e9c820c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Every Movie Needs A Trailer",
+      "release_date": "2025-12-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5CQ10cfQmzGYJro9rMTs5s",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5J0hy1k4Ghvo1iIZ8P7cd4",
+          "id": "5J0hy1k4Ghvo1iIZ8P7cd4",
+          "name": "Mike & Keys",
+          "type": "artist",
+          "uri": "spotify:artist:5J0hy1k4Ghvo1iIZ8P7cd4"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4tCbkETQMoR8CTxk4ca564"
+      },
+      "href": "https://api.spotify.com/v1/albums/4tCbkETQMoR8CTxk4ca564",
+      "id": "4tCbkETQMoR8CTxk4ca564",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27321dca11e3c5b3a69a1914904",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0221dca11e3c5b3a69a1914904",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485121dca11e3c5b3a69a1914904",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Eastside Jace",
+      "release_date": "2025-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4tCbkETQMoR8CTxk4ca564",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vaKiuLwFJLVU664A8GTjE",
+          "id": "0vaKiuLwFJLVU664A8GTjE",
+          "name": "Jace",
+          "type": "artist",
+          "uri": "spotify:artist:0vaKiuLwFJLVU664A8GTjE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3AQaGYyxlx3kHsE0thg5lV"
+      },
+      "href": "https://api.spotify.com/v1/albums/3AQaGYyxlx3kHsE0thg5lV",
+      "id": "3AQaGYyxlx3kHsE0thg5lV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f25fba1cbb479016026a0c31",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f25fba1cbb479016026a0c31",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f25fba1cbb479016026a0c31",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Still Snowin'",
+      "release_date": "2025-09-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3AQaGYyxlx3kHsE0thg5lV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
+      },
+      "href": "https://api.spotify.com/v1/albums/4SO3Yq5zcb3fs2HDEzPZl8",
+      "id": "4SO3Yq5zcb3fs2HDEzPZl8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d771fdb9553e42bed01acc0e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d771fdb9553e42bed01acc0e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d771fdb9553e42bed01acc0e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Grady Baby",
+      "release_date": "2025-07-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4SO3Yq5zcb3fs2HDEzPZl8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+          },
+          "href": "https://api.spotify.com/v1/artists/4bOqkIGQCcuZgjfDxNuX1I",
+          "id": "4bOqkIGQCcuZgjfDxNuX1I",
+          "name": "Anycia",
+          "type": "artist",
+          "uri": "spotify:artist:4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1VSStN46LlSz2tBtVc0zva"
+      },
+      "href": "https://api.spotify.com/v1/albums/1VSStN46LlSz2tBtVc0zva",
+      "id": "1VSStN46LlSz2tBtVc0zva",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273df9a9f424434902272155198",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02df9a9f424434902272155198",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851df9a9f424434902272155198",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LA Gangster: Gangsta Grillz",
+      "release_date": "2025-04-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1VSStN46LlSz2tBtVc0zva",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Q2hTDZYFCohf17D5GvkIb",
+          "id": "4Q2hTDZYFCohf17D5GvkIb",
+          "name": "G Perico",
+          "type": "artist",
+          "uri": "spotify:artist:4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2b85d5r2aLgOYhxbzL9J8e"
+      },
+      "href": "https://api.spotify.com/v1/albums/2b85d5r2aLgOYhxbzL9J8e",
+      "id": "2b85d5r2aLgOYhxbzL9J8e",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c12e3f2f1ad238e19d116918",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c12e3f2f1ad238e19d116918",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c12e3f2f1ad238e19d116918",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Case Dismissed!",
+      "release_date": "2025-01-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2b85d5r2aLgOYhxbzL9J8e",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0iXhSSBfTTH95qZM5ZE8lM"
+      },
+      "href": "https://api.spotify.com/v1/albums/0iXhSSBfTTH95qZM5ZE8lM",
+      "id": "0iXhSSBfTTH95qZM5ZE8lM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27358cc6e7b84c463e9ac76483b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0258cc6e7b84c463e9ac76483b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485158cc6e7b84c463e9ac76483b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Still Praying",
+      "release_date": "2024-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0iXhSSBfTTH95qZM5ZE8lM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ABk515kENDyATUdpCKVfW",
+          "id": "0ABk515kENDyATUdpCKVfW",
+          "name": "Westside Gunn",
+          "type": "artist",
+          "uri": "spotify:artist:0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5hieYbEeYIeL6Snn4NHk1q"
+      },
+      "href": "https://api.spotify.com/v1/albums/5hieYbEeYIeL6Snn4NHk1q",
+      "id": "5hieYbEeYIeL6Snn4NHk1q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ace5d9f79a2ce44ab654d31d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ace5d9f79a2ce44ab654d31d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ace5d9f79a2ce44ab654d31d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Am M Dot Taylor \"Gangsta Grillz\"",
+      "release_date": "2024-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5hieYbEeYIeL6Snn4NHk1q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wHqVn5yltRsHqJtvDT5jU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wHqVn5yltRsHqJtvDT5jU",
+          "id": "1wHqVn5yltRsHqJtvDT5jU",
+          "name": "M Dot Taylor",
+          "type": "artist",
+          "uri": "spotify:artist:1wHqVn5yltRsHqJtvDT5jU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/52QL2dmfC7a39FpAtZBE6u"
+      },
+      "href": "https://api.spotify.com/v1/albums/52QL2dmfC7a39FpAtZBE6u",
+      "id": "52QL2dmfC7a39FpAtZBE6u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b8c1944ef6066ca28e896a62",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b8c1944ef6066ca28e896a62",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b8c1944ef6066ca28e896a62",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Still Stuntin",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:52QL2dmfC7a39FpAtZBE6u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Gsj3FkPmxWlrvS79SWDCF",
+          "id": "5Gsj3FkPmxWlrvS79SWDCF",
+          "name": "C Stunna",
+          "type": "artist",
+          "uri": "spotify:artist:5Gsj3FkPmxWlrvS79SWDCF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "href": "https://api.spotify.com/v1/albums/2kcWf4LiavA3V6quKqSXAB",
+      "id": "2kcWf4LiavA3V6quKqSXAB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27303dfc31d2558aad078b51e36",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0203dfc31d2558aad078b51e36",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485103dfc31d2558aad078b51e36",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "REDRUM Wizard (Gangsta Grillz)",
+      "release_date": "2024-02-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2kcWf4LiavA3V6quKqSXAB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+          },
+          "href": "https://api.spotify.com/v1/artists/372IgXgnCt4wlfumrMTIOs",
+          "id": "372IgXgnCt4wlfumrMTIOs",
+          "name": "Big Boogie",
+          "type": "artist",
+          "uri": "spotify:artist:372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ocMH9xg12XvuLiyaIdP9y"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ocMH9xg12XvuLiyaIdP9y",
+      "id": "6ocMH9xg12XvuLiyaIdP9y",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fcc5457cf0e9f6637f1d6963",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fcc5457cf0e9f6637f1d6963",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fcc5457cf0e9f6637f1d6963",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I'M REALLY LIKE THAT (Chopped Not Slopped)",
+      "release_date": "2024-02-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ocMH9xg12XvuLiyaIdP9y",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1tuRoAZVFzBfDf0Ng7CYrx"
+      },
+      "href": "https://api.spotify.com/v1/albums/1tuRoAZVFzBfDf0Ng7CYrx",
+      "id": "1tuRoAZVFzBfDf0Ng7CYrx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27320ad0194eb2399dd7a226311",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0220ad0194eb2399dd7a226311",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485120ad0194eb2399dd7a226311",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I'M REALLY LIKE THAT (Sped Up)",
+      "release_date": "2024-02-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1tuRoAZVFzBfDf0Ng7CYrx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2KjqTB9g9i5G7HzzbrHaHF"
+      },
+      "href": "https://api.spotify.com/v1/albums/2KjqTB9g9i5G7HzzbrHaHF",
+      "id": "2KjqTB9g9i5G7HzzbrHaHF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735394fe3f5fc3e3e3f2b92ed7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025394fe3f5fc3e3e3f2b92ed7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515394fe3f5fc3e3e3f2b92ed7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "1 Foot In 1 Foot Out (Gangsta Grillz)",
+      "release_date": "2023-11-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2KjqTB9g9i5G7HzzbrHaHF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b"
+          },
+          "href": "https://api.spotify.com/v1/artists/5p2KvjX2qOhaC291qgJc2b",
+          "id": "5p2KvjX2qOhaC291qgJc2b",
+          "name": "BEO Lil Kenny",
+          "type": "artist",
+          "uri": "spotify:artist:5p2KvjX2qOhaC291qgJc2b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21TC7DEEj895lUJthZ0Gl7"
+      },
+      "href": "https://api.spotify.com/v1/albums/21TC7DEEj895lUJthZ0Gl7",
+      "id": "21TC7DEEj895lUJthZ0Gl7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273303e70697b9052dc7a473f02",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02303e70697b9052dc7a473f02",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851303e70697b9052dc7a473f02",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "OMMIO Grillz",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:21TC7DEEj895lUJthZ0Gl7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6kQWPGBItT0oMCHZy3M9DN",
+          "id": "6kQWPGBItT0oMCHZy3M9DN",
+          "name": "RJMrLA",
+          "type": "artist",
+          "uri": "spotify:artist:6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU"
+      },
+      "href": "https://api.spotify.com/v1/albums/4GVyz2cTtsOtCX5Jk1zeaU",
+      "id": "4GVyz2cTtsOtCX5Jk1zeaU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c0a2bdbd7a558abe7091ca0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026c0a2bdbd7a558abe7091ca0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516c0a2bdbd7a558abe7091ca0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Showed U So",
+      "release_date": "2023-08-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4GVyz2cTtsOtCX5Jk1zeaU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+          "id": "6Ha4aES39QiVjR0L2lwuwq",
+          "name": "Yo Gotti",
+          "type": "artist",
+          "uri": "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YkvB4DYktZrdQsawd0BXp"
+      },
+      "href": "https://api.spotify.com/v1/albums/6YkvB4DYktZrdQsawd0BXp",
+      "id": "6YkvB4DYktZrdQsawd0BXp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27338b1f6f579d80b53328cb6f2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0238b1f6f579d80b53328cb6f2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485138b1f6f579d80b53328cb6f2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Mvrda Gvng",
+      "release_date": "2023-05-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6YkvB4DYktZrdQsawd0BXp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aSlfXDn9R60UlbZEboBUy",
+          "id": "4aSlfXDn9R60UlbZEboBUy",
+          "name": "YOVNGCHIMI",
+          "type": "artist",
+          "uri": "spotify:artist:4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4AlDW3X24TV6bpBh4T4bhk"
+      },
+      "href": "https://api.spotify.com/v1/albums/4AlDW3X24TV6bpBh4T4bhk",
+      "id": "4AlDW3X24TV6bpBh4T4bhk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27377a0c8dfe838e52a0edf931f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0277a0c8dfe838e52a0edf931f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485177a0c8dfe838e52a0edf931f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I'M REALLY LIKE THAT",
+      "release_date": "2023-03-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4AlDW3X24TV6bpBh4T4bhk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4rHF6VN1sUUjKHZu2rgVYG"
+      },
+      "href": "https://api.spotify.com/v1/albums/4rHF6VN1sUUjKHZu2rgVYG",
+      "id": "4rHF6VN1sUUjKHZu2rgVYG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27364ae289ab53d970e70f020b2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0264ae289ab53d970e70f020b2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485164ae289ab53d970e70f020b2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hot Shot: Gangsta Grillz",
+      "release_date": "2023-03-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4rHF6VN1sUUjKHZu2rgVYG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Q2hTDZYFCohf17D5GvkIb",
+          "id": "4Q2hTDZYFCohf17D5GvkIb",
+          "name": "G Perico",
+          "type": "artist",
+          "uri": "spotify:artist:4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir"
+      },
+      "href": "https://api.spotify.com/v1/albums/3gJu08yhtYhFrpYqp7sCir",
+      "id": "3gJu08yhtYhFrpYqp7sCir",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27325cadd21cc7d09afa4b81a42",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0225cadd21cc7d09afa4b81a42",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485125cadd21cc7d09afa4b81a42",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+      "release_date": "2023-02-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3gJu08yhtYhFrpYqp7sCir",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3u579Gdap91lMptBSdXTpf",
+          "id": "3u579Gdap91lMptBSdXTpf",
+          "name": "Kash Doll",
+          "type": "artist",
+          "uri": "spotify:artist:3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3qbLEdVigKOMIAG0vWx6XA"
+      },
+      "href": "https://api.spotify.com/v1/albums/3qbLEdVigKOMIAG0vWx6XA",
+      "id": "3qbLEdVigKOMIAG0vWx6XA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e2aba99af46cbf636dd74cda",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e2aba99af46cbf636dd74cda",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e2aba99af46cbf636dd74cda",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Coke Boys 6",
+      "release_date": "2023-01-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3qbLEdVigKOMIAG0vWx6XA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6GeAKnsXX7NF4z5rFB0ZTC"
+      },
+      "href": "https://api.spotify.com/v1/albums/6GeAKnsXX7NF4z5rFB0ZTC",
+      "id": "6GeAKnsXX7NF4z5rFB0ZTC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732eb567b50136f6bfe68b8c58",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022eb567b50136f6bfe68b8c58",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512eb567b50136f6bfe68b8c58",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Coke Boys 6: Money Heist Edition",
+      "release_date": "2023-01-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6GeAKnsXX7NF4z5rFB0ZTC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/25xiljckPhoQtg1wu7gEV7"
+      },
+      "href": "https://api.spotify.com/v1/albums/25xiljckPhoQtg1wu7gEV7",
+      "id": "25xiljckPhoQtg1wu7gEV7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27310c958de8562d32980faf5ae",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0210c958de8562d32980faf5ae",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485110c958de8562d32980faf5ae",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rollin Stone",
+      "release_date": "2023-01-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:25xiljckPhoQtg1wu7gEV7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vIbOHLEq5uLoCRV6ys20U"
+          },
+          "href": "https://api.spotify.com/v1/artists/5vIbOHLEq5uLoCRV6ys20U",
+          "id": "5vIbOHLEq5uLoCRV6ys20U",
+          "name": "J. Stone",
+          "type": "artist",
+          "uri": "spotify:artist:5vIbOHLEq5uLoCRV6ys20U"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1R7I5qt0gopZhgNdTRGo1q"
+      },
+      "href": "https://api.spotify.com/v1/albums/1R7I5qt0gopZhgNdTRGo1q",
+      "id": "1R7I5qt0gopZhgNdTRGo1q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c825c61a1c1f5eaea798e310",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c825c61a1c1f5eaea798e310",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c825c61a1c1f5eaea798e310",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kill us both: Gangsta Grillz",
+      "release_date": "2022-12-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1R7I5qt0gopZhgNdTRGo1q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6lTnZ6QGddAv0Xsmr8NnBC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6lTnZ6QGddAv0Xsmr8NnBC",
+          "id": "6lTnZ6QGddAv0Xsmr8NnBC",
+          "name": "Ayilla",
+          "type": "artist",
+          "uri": "spotify:artist:6lTnZ6QGddAv0Xsmr8NnBC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo"
+      },
+      "href": "https://api.spotify.com/v1/albums/0TCbEBrufEVNfgThlJooIo",
+      "id": "0TCbEBrufEVNfgThlJooIo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dbb15269f1b23cdc7c67593b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dbb15269f1b23cdc7c67593b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dbb15269f1b23cdc7c67593b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Book of David",
+      "release_date": "2022-11-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0TCbEBrufEVNfgThlJooIo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          },
+          "href": "https://api.spotify.com/v1/artists/7e10JUMF7MJmmwYpnTSMI5",
+          "id": "7e10JUMF7MJmmwYpnTSMI5",
+          "name": "Dave East",
+          "type": "artist",
+          "uri": "spotify:artist:7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31LbQp39nE6K73prF65Rj3"
+          },
+          "href": "https://api.spotify.com/v1/artists/31LbQp39nE6K73prF65Rj3",
+          "id": "31LbQp39nE6K73prF65Rj3",
+          "name": "Buda & Grandz",
+          "type": "artist",
+          "uri": "spotify:artist:31LbQp39nE6K73prF65Rj3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6QviaEi8rHkwfYSRAHUZ8I"
+      },
+      "href": "https://api.spotify.com/v1/albums/6QviaEi8rHkwfYSRAHUZ8I",
+      "id": "6QviaEi8rHkwfYSRAHUZ8I",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27397cd9b04fbe34a114f39f467",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0297cd9b04fbe34a114f39f467",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485197cd9b04fbe34a114f39f467",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: DJ Drama Presents David Sabastian God Save The Rave",
+      "release_date": "2022-11-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6QviaEi8rHkwfYSRAHUZ8I",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hb8905DjGbSMnBfrh09rL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hb8905DjGbSMnBfrh09rL",
+          "id": "3hb8905DjGbSMnBfrh09rL",
+          "name": "David Sabastian",
+          "type": "artist",
+          "uri": "spotify:artist:3hb8905DjGbSMnBfrh09rL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
+      },
+      "href": "https://api.spotify.com/v1/albums/57KhbRYV5DpUmnn7nnJhbp",
+      "id": "57KhbRYV5DpUmnn7nnJhbp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee5fb5d0e86ba14b23f19aa6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee5fb5d0e86ba14b23f19aa6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ee5fb5d0e86ba14b23f19aa6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SNOFALL",
+      "release_date": "2022-10-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:57KhbRYV5DpUmnn7nnJhbp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YwpXnqqxbnOqCJLqrxyfb"
+      },
+      "href": "https://api.spotify.com/v1/albums/6YwpXnqqxbnOqCJLqrxyfb",
+      "id": "6YwpXnqqxbnOqCJLqrxyfb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27389398fae3d7b3b212389a95f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0289398fae3d7b3b212389a95f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485189398fae3d7b3b212389a95f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: I Still Got It",
+      "release_date": "2022-10-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6YwpXnqqxbnOqCJLqrxyfb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "href": "https://api.spotify.com/v1/albums/4pbph4ZWAanvsHlqztlFU9",
+      "id": "4pbph4ZWAanvsHlqztlFU9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d15c4c724cf5b110a14bf90d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d15c4c724cf5b110a14bf90d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d15c4c724cf5b110a14bf90d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Results Take Time",
+      "release_date": "2022-09-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4pbph4ZWAanvsHlqztlFU9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
+          },
+          "href": "https://api.spotify.com/v1/artists/6qWkHLpJ0T1fQGbqN1HWtD",
+          "id": "6qWkHLpJ0T1fQGbqN1HWtD",
+          "name": "Symba",
+          "type": "artist",
+          "uri": "spotify:artist:6qWkHLpJ0T1fQGbqN1HWtD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK"
+      },
+      "href": "https://api.spotify.com/v1/albums/6OhEqr0AuYalawV1b3ZkmK",
+      "id": "6OhEqr0AuYalawV1b3ZkmK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27365df260a2b1590079ed4b032",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0265df260a2b1590079ed4b032",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485165df260a2b1590079ed4b032",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Misguided",
+      "release_date": "2022-08-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6OhEqr0AuYalawV1b3ZkmK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QdCkPulANBEZiaiAyLkak",
+          "id": "1QdCkPulANBEZiaiAyLkak",
+          "name": "OMB Peezy",
+          "type": "artist",
+          "uri": "spotify:artist:1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h"
+      },
+      "href": "https://api.spotify.com/v1/albums/2G7OtfI3kpgfQNvnH9Sq9h",
+      "id": "2G7OtfI3kpgfQNvnH9Sq9h",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b986d0c6be99862ff28ae70",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028b986d0c6be99862ff28ae70",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518b986d0c6be99862ff28ae70",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The World Is Yours: Gangsta Grillz",
+      "release_date": "2022-07-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2G7OtfI3kpgfQNvnH9Sq9h",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX"
+          },
+          "href": "https://api.spotify.com/v1/artists/57GHC729HxFYHl1vGe1qaX",
+          "id": "57GHC729HxFYHl1vGe1qaX",
+          "name": "Badda TD",
+          "type": "artist",
+          "uri": "spotify:artist:57GHC729HxFYHl1vGe1qaX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2r8lvARHTS5aivIQd8ZHVq"
+      },
+      "href": "https://api.spotify.com/v1/albums/2r8lvARHTS5aivIQd8ZHVq",
+      "id": "2r8lvARHTS5aivIQd8ZHVq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273051ea7d4c538a19080ebdd89",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02051ea7d4c538a19080ebdd89",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851051ea7d4c538a19080ebdd89",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fame Or Feds 3",
+      "release_date": "2021-07-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2r8lvARHTS5aivIQd8ZHVq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ohrdimoWGwbjGMOnTDoUJ",
+          "id": "3ohrdimoWGwbjGMOnTDoUJ",
+          "name": "Hardo",
+          "type": "artist",
+          "uri": "spotify:artist:3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SxRGAzpOJzrSl1zDYuV94"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SxRGAzpOJzrSl1zDYuV94",
+          "id": "1SxRGAzpOJzrSl1zDYuV94",
+          "name": "Deezlee",
+          "type": "artist",
+          "uri": "spotify:artist:1SxRGAzpOJzrSl1zDYuV94"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1oHpwjgCAiC3GkQxRnfteY"
+      },
+      "href": "https://api.spotify.com/v1/albums/1oHpwjgCAiC3GkQxRnfteY",
+      "id": "1oHpwjgCAiC3GkQxRnfteY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ee83f1e453e3636f107fe09",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ee83f1e453e3636f107fe09",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ee83f1e453e3636f107fe09",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "12 AM in Atlanta 2",
+      "release_date": "2020-04-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1oHpwjgCAiC3GkQxRnfteY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/37Z8bfiiXdGAmHirz6hDEf"
+      },
+      "href": "https://api.spotify.com/v1/albums/37Z8bfiiXdGAmHirz6hDEf",
+      "id": "37Z8bfiiXdGAmHirz6hDEf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd5a81496a7ce28e5893158f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd5a81496a7ce28e5893158f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cd5a81496a7ce28e5893158f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "#Frn2 Gangsta Grillz",
+      "release_date": "2019-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:37Z8bfiiXdGAmHirz6hDEf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0O5yIDcm9tjrFArCHdZfZ7"
+          },
+          "href": "https://api.spotify.com/v1/artists/0O5yIDcm9tjrFArCHdZfZ7",
+          "id": "0O5yIDcm9tjrFArCHdZfZ7",
+          "name": "Too Klean",
+          "type": "artist",
+          "uri": "spotify:artist:0O5yIDcm9tjrFArCHdZfZ7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4GksKxp1G81r5r7zNOGt2K"
+      },
+      "href": "https://api.spotify.com/v1/albums/4GksKxp1G81r5r7zNOGt2K",
+      "id": "4GksKxp1G81r5r7zNOGt2K",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27368244d998fc85a5100b0e34d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0268244d998fc85a5100b0e34d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485168244d998fc85a5100b0e34d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fuck Trump the Mixtape",
+      "release_date": "2017-01-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4GksKxp1G81r5r7zNOGt2K",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Z5vCSzpgufecPOJIXa08d"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Z5vCSzpgufecPOJIXa08d",
+          "id": "3Z5vCSzpgufecPOJIXa08d",
+          "name": "Jae Mansa",
+          "type": "artist",
+          "uri": "spotify:artist:3Z5vCSzpgufecPOJIXa08d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4oR2i3u1kQeNsbQfvUfnwl"
+      },
+      "href": "https://api.spotify.com/v1/albums/4oR2i3u1kQeNsbQfvUfnwl",
+      "id": "4oR2i3u1kQeNsbQfvUfnwl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27360019011a3a1c57678b3f632",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0260019011a3a1c57678b3f632",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485160019011a3a1c57678b3f632",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Quality Street Music 2",
+      "release_date": "2016-07-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4oR2i3u1kQeNsbQfvUfnwl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5gbKDt3m2aTJYlm1nFFqW1"
+      },
+      "href": "https://api.spotify.com/v1/albums/5gbKDt3m2aTJYlm1nFFqW1",
+      "id": "5gbKDt3m2aTJYlm1nFFqW1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b5d7aaeba3490156c1854d0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024b5d7aaeba3490156c1854d0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514b5d7aaeba3490156c1854d0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Election Day",
+      "release_date": "2016-05-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5gbKDt3m2aTJYlm1nFFqW1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WuFJD4s6RdK3yorhRImCQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WuFJD4s6RdK3yorhRImCQ",
+          "id": "1WuFJD4s6RdK3yorhRImCQ",
+          "name": "Slick Pulla",
+          "type": "artist",
+          "uri": "spotify:artist:1WuFJD4s6RdK3yorhRImCQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7eHr6VepmDgDSbtTFoQMlr"
+      },
+      "href": "https://api.spotify.com/v1/albums/7eHr6VepmDgDSbtTFoQMlr",
+      "id": "7eHr6VepmDgDSbtTFoQMlr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27349e9c8e636ad6edb2be33708",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0249e9c8e636ad6edb2be33708",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485149e9c8e636ad6edb2be33708",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Party",
+      "release_date": "2015-05-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7eHr6VepmDgDSbtTFoQMlr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm"
+      },
+      "href": "https://api.spotify.com/v1/albums/7jjLwWQEYdRVChaNXX4EXm",
+      "id": "7jjLwWQEYdRVChaNXX4EXm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27394af37bf31370e0d738a7a24",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0294af37bf31370e0d738a7a24",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485194af37bf31370e0d738a7a24",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Quality Street Music",
+      "release_date": "2012-10-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7jjLwWQEYdRVChaNXX4EXm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6O3w6ZjjQDmltHZfcc816D"
+      },
+      "href": "https://api.spotify.com/v1/albums/6O3w6ZjjQDmltHZfcc816D",
+      "id": "6O3w6ZjjQDmltHZfcc816D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c146fac8ad5d4d87600d8d2d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c146fac8ad5d4d87600d8d2d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c146fac8ad5d4d87600d8d2d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "On The House",
+      "release_date": "2012-08-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6O3w6ZjjQDmltHZfcc816D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rVbcJv0JRfhWLA3mgM73r",
+          "id": "5rVbcJv0JRfhWLA3mgM73r",
+          "name": "Slaughterhouse",
+          "type": "artist",
+          "uri": "spotify:artist:5rVbcJv0JRfhWLA3mgM73r"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 48,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0jjUV8ogFnORTooUckjKj9"
+      },
+      "href": "https://api.spotify.com/v1/albums/0jjUV8ogFnORTooUckjKj9",
+      "id": "0jjUV8ogFnORTooUckjKj9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a0c8b299cd8f806e16304be6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a0c8b299cd8f806e16304be6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a0c8b299cd8f806e16304be6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz Legends Series Unloaded",
+      "release_date": "2012-02-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0jjUV8ogFnORTooUckjKj9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WEbp3cJOSZMDeATozFI6F"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WEbp3cJOSZMDeATozFI6F",
+          "id": "0WEbp3cJOSZMDeATozFI6F",
+          "name": "MDDL FNGZ",
+          "type": "artist",
+          "uri": "spotify:artist:0WEbp3cJOSZMDeATozFI6F"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Ns8misg7U94ehnBeqzaa3"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Ns8misg7U94ehnBeqzaa3",
+      "id": "6Ns8misg7U94ehnBeqzaa3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273067b0d0c5f9d8088181aeeb4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02067b0d0c5f9d8088181aeeb4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851067b0d0c5f9d8088181aeeb4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "There Is No Competition: Death Comes In 3s",
+      "release_date": "2011-12-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Ns8misg7U94ehnBeqzaa3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zZb8oEsx5J9ux1vp2NXdH"
+      },
+      "href": "https://api.spotify.com/v1/albums/5zZb8oEsx5J9ux1vp2NXdH",
+      "id": "5zZb8oEsx5J9ux1vp2NXdH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27369cebf78a7c77c2e64d537d2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0269cebf78a7c77c2e64d537d2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485169cebf78a7c77c2e64d537d2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Third Power",
+      "release_date": "2011-10-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5zZb8oEsx5J9ux1vp2NXdH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6IYwHhNaHYwceREpks0OsP"
+      },
+      "href": "https://api.spotify.com/v1/albums/6IYwHhNaHYwceREpks0OsP",
+      "id": "6IYwHhNaHYwceREpks0OsP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc59b703bae0648f3119bbad",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc59b703bae0648f3119bbad",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dc59b703bae0648f3119bbad",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Real Is Back",
+      "release_date": "2011-05-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6IYwHhNaHYwceREpks0OsP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5G9sJrv3ByJTWrxp1fYcKu"
+      },
+      "href": "https://api.spotify.com/v1/albums/5G9sJrv3ByJTWrxp1fYcKu",
+      "id": "5G9sJrv3ByJTWrxp1fYcKu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736fe716426a04a8807a8cd668",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026fe716426a04a8807a8cd668",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516fe716426a04a8807a8cd668",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Screwed In The Grillz Vol. 1",
+      "release_date": "2011-03-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5G9sJrv3ByJTWrxp1fYcKu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1nHxaRubQsTuoc7PPCwoWt"
+      },
+      "href": "https://api.spotify.com/v1/albums/1nHxaRubQsTuoc7PPCwoWt",
+      "id": "1nHxaRubQsTuoc7PPCwoWt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730a4ce2452873607d2bb3290c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020a4ce2452873607d2bb3290c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510a4ce2452873607d2bb3290c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Natural Born Killa",
+      "release_date": "2010-04-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1nHxaRubQsTuoc7PPCwoWt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uzlfGNw35ha8bszBDhKy7"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uzlfGNw35ha8bszBDhKy7",
+          "id": "0uzlfGNw35ha8bszBDhKy7",
+          "name": "Killa Kyleon",
+          "type": "artist",
+          "uri": "spotify:artist:0uzlfGNw35ha8bszBDhKy7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2FXO5aN9FSbZxf0hGuYE3a"
+      },
+      "href": "https://api.spotify.com/v1/albums/2FXO5aN9FSbZxf0hGuYE3a",
+      "id": "2FXO5aN9FSbZxf0hGuYE3a",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732893e17adf5fac87dff1c728",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022893e17adf5fac87dff1c728",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512893e17adf5fac87dff1c728",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "O.R.A.N.G.E",
+      "release_date": "2010-02-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2FXO5aN9FSbZxf0hGuYE3a",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+          },
+          "href": "https://api.spotify.com/v1/artists/0t5qZrvVCo9YIUT87SQrTn",
+          "id": "0t5qZrvVCo9YIUT87SQrTn",
+          "name": "OJ Da Juiceman",
+          "type": "artist",
+          "uri": "spotify:artist:0t5qZrvVCo9YIUT87SQrTn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0iXyQkc9iWFMNR8i7B9k4a"
+      },
+      "href": "https://api.spotify.com/v1/albums/0iXyQkc9iWFMNR8i7B9k4a",
+      "id": "0iXyQkc9iWFMNR8i7B9k4a",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730768f08bc18395fc0bc68fcf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020768f08bc18395fc0bc68fcf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510768f08bc18395fc0bc68fcf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: The Album Vol. 2",
+      "release_date": "2009-05-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0iXyQkc9iWFMNR8i7B9k4a",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7EUcXcwjoe8Jlw1hpkPC5X"
+      },
+      "href": "https://api.spotify.com/v1/albums/7EUcXcwjoe8Jlw1hpkPC5X",
+      "id": "7EUcXcwjoe8Jlw1hpkPC5X",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ccc3a82bf9891980ade306a8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ccc3a82bf9891980ade306a8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ccc3a82bf9891980ade306a8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Welcome To Saigon",
+      "release_date": "2008-08-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7EUcXcwjoe8Jlw1hpkPC5X",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0mTfntDCCWRozUnyxpGf6E"
+          },
+          "href": "https://api.spotify.com/v1/artists/0mTfntDCCWRozUnyxpGf6E",
+          "id": "0mTfntDCCWRozUnyxpGf6E",
+          "name": "Saigon",
+          "type": "artist",
+          "uri": "spotify:artist:0mTfntDCCWRozUnyxpGf6E"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vijK76bPzkagPoiTgB6WM"
+      },
+      "href": "https://api.spotify.com/v1/albums/0vijK76bPzkagPoiTgB6WM",
+      "id": "0vijK76bPzkagPoiTgB6WM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc4822aad66048af48817430",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc4822aad66048af48817430",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fc4822aad66048af48817430",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hood Generals",
+      "release_date": "2008-07-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0vijK76bPzkagPoiTgB6WM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+          },
+          "href": "https://api.spotify.com/v1/artists/36HvjE9pV91jEjO1qBRidS",
+          "id": "36HvjE9pV91jEjO1qBRidS",
+          "name": "B.G.",
+          "type": "artist",
+          "uri": "spotify:artist:36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ERk4abJGoquyDIO0QdQl7"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ERk4abJGoquyDIO0QdQl7",
+      "id": "5ERk4abJGoquyDIO0QdQl7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273475f7e8eea9d2a4df5d9484c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02475f7e8eea9d2a4df5d9484c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851475f7e8eea9d2a4df5d9484c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Can't Ban the Snowman",
+      "release_date": "2008-07-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ERk4abJGoquyDIO0QdQl7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Y01VPNyus121JHnMsmNzL"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Y01VPNyus121JHnMsmNzL",
+      "id": "1Y01VPNyus121JHnMsmNzL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27341c56dac7867d0ec3f36874a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0241c56dac7867d0ec3f36874a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485141c56dac7867d0ec3f36874a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Underworld Rise",
+      "release_date": "2008-03-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Y01VPNyus121JHnMsmNzL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7qRmWNFeUtlBKUrvy8BS89"
+      },
+      "href": "https://api.spotify.com/v1/albums/7qRmWNFeUtlBKUrvy8BS89",
+      "id": "7qRmWNFeUtlBKUrvy8BS89",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3987148b86dd36aedc5839d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3987148b86dd36aedc5839d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f3987148b86dd36aedc5839d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Follow Me",
+      "release_date": "2008-02-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7qRmWNFeUtlBKUrvy8BS89",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
+      },
+      "href": "https://api.spotify.com/v1/albums/68lSPhhVV4hoe95OIaAwec",
+      "id": "68lSPhhVV4hoe95OIaAwec",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273baa493d8435910fe2e9d1b90",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02baa493d8435910fe2e9d1b90",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851baa493d8435910fe2e9d1b90",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz The Album",
+      "release_date": "2007-12-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:68lSPhhVV4hoe95OIaAwec",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3puRsbwxQsJHoyGZ8MPnUH"
+      },
+      "href": "https://api.spotify.com/v1/albums/3puRsbwxQsJHoyGZ8MPnUH",
+      "id": "3puRsbwxQsJHoyGZ8MPnUH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f68bc9c82ee5e0bd719f8053",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f68bc9c82ee5e0bd719f8053",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f68bc9c82ee5e0bd719f8053",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 9 - The Prince & King Of Crunk The New South",
+      "release_date": "2007-09-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3puRsbwxQsJHoyGZ8MPnUH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2oNn9rCRDjR9EMki0K6UIN"
+      },
+      "href": "https://api.spotify.com/v1/albums/2oNn9rCRDjR9EMki0K6UIN",
+      "id": "2oNn9rCRDjR9EMki0K6UIN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f8d8bebdad3d98a741032a71",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f8d8bebdad3d98a741032a71",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f8d8bebdad3d98a741032a71",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Headcrack Entertainment",
+      "release_date": "2007-05-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2oNn9rCRDjR9EMki0K6UIN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Ad0DmDXUb6JOowZ5IFpmX"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Ad0DmDXUb6JOowZ5IFpmX",
+      "id": "4Ad0DmDXUb6JOowZ5IFpmX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb5a2938e61ebe0b360b8822",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb5a2938e61ebe0b360b8822",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb5a2938e61ebe0b360b8822",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz- Welcome To The Traphouse",
+      "release_date": "2007-04-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Ad0DmDXUb6JOowZ5IFpmX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3p8Wap5pQlEc9m1RoQEUf3"
+      },
+      "href": "https://api.spotify.com/v1/albums/3p8Wap5pQlEc9m1RoQEUf3",
+      "id": "3p8Wap5pQlEc9m1RoQEUf3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c6870ad83d65f68b90e6cce",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020c6870ad83d65f68b90e6cce",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510c6870ad83d65f68b90e6cce",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Leak Unloaded",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3p8Wap5pQlEc9m1RoQEUf3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4KKxWQcENsJSxpwm6lCf7R"
+          },
+          "href": "https://api.spotify.com/v1/artists/4KKxWQcENsJSxpwm6lCf7R",
+          "id": "4KKxWQcENsJSxpwm6lCf7R",
+          "name": "T.I.P",
+          "type": "artist",
+          "uri": "spotify:artist:4KKxWQcENsJSxpwm6lCf7R"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0lO1U5tB3HneyUD22Q1Rv8"
+      },
+      "href": "https://api.spotify.com/v1/albums/0lO1U5tB3HneyUD22Q1Rv8",
+      "id": "0lO1U5tB3HneyUD22Q1Rv8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739d3fb68a89746f0912c9f4d0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029d3fb68a89746f0912c9f4d0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519d3fb68a89746f0912c9f4d0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: I Told U So",
+      "release_date": "2006-11-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0lO1U5tB3HneyUD22Q1Rv8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3KOGsUfpZQdbMtNBVUHZsm"
+      },
+      "href": "https://api.spotify.com/v1/albums/3KOGsUfpZQdbMtNBVUHZsm",
+      "id": "3KOGsUfpZQdbMtNBVUHZsm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273120e6142736aaf6493efeba6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02120e6142736aaf6493efeba6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851120e6142736aaf6493efeba6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Am The Street Dream",
+      "release_date": "2006-11-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3KOGsUfpZQdbMtNBVUHZsm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3w4tKp3OrWM2PfcpFzWLxB"
+      },
+      "href": "https://api.spotify.com/v1/albums/3w4tKp3OrWM2PfcpFzWLxB",
+      "id": "3w4tKp3OrWM2PfcpFzWLxB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273afd202aca92cfea711a50270",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02afd202aca92cfea711a50270",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851afd202aca92cfea711a50270",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Minor Setback For The Major Comeback",
+      "release_date": "2006-11-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3w4tKp3OrWM2PfcpFzWLxB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4q5CWPuBsAwjUFkSriHTc1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4q5CWPuBsAwjUFkSriHTc1",
+      "id": "4q5CWPuBsAwjUFkSriHTc1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e566347ba778f79b0801cbd0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e566347ba778f79b0801cbd0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e566347ba778f79b0801cbd0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Minor Setback for the Major Comeback (Chopped & Screwed)",
+      "release_date": "2006-11-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4q5CWPuBsAwjUFkSriHTc1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5U0IdOWTQNGEI9nLLPfoNV"
+      },
+      "href": "https://api.spotify.com/v1/albums/5U0IdOWTQNGEI9nLLPfoNV",
+      "id": "5U0IdOWTQNGEI9nLLPfoNV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ae9d119837fd6e69571bbd5f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ae9d119837fd6e69571bbd5f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ae9d119837fd6e69571bbd5f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz and The P$C: The Indictment",
+      "release_date": "2006-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5U0IdOWTQNGEI9nLLPfoNV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ZnYWYa2Uy3Osa38O2Uzdk"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ZnYWYa2Uy3Osa38O2Uzdk",
+      "id": "6ZnYWYa2Uy3Osa38O2Uzdk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273005f84ddeafa82fe112f0e2e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02005f84ddeafa82fe112f0e2e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851005f84ddeafa82fe112f0e2e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 6",
+      "release_date": "2006-10-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ZnYWYa2Uy3Osa38O2Uzdk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4t3xWpIeMSB4VWdmpFq5va"
+      },
+      "href": "https://api.spotify.com/v1/albums/4t3xWpIeMSB4VWdmpFq5va",
+      "id": "4t3xWpIeMSB4VWdmpFq5va",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a14f5b9020b3d5f0880474c0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a14f5b9020b3d5f0880474c0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a14f5b9020b3d5f0880474c0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 8",
+      "release_date": "2006-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4t3xWpIeMSB4VWdmpFq5va",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RPYHNSwe3w0mtfJwKIN9P",
+          "id": "3RPYHNSwe3w0mtfJwKIN9P",
+          "name": "Bubba Sparxxx",
+          "type": "artist",
+          "uri": "spotify:artist:3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ABP0z7ryCJhfHMw9g8QgQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ABP0z7ryCJhfHMw9g8QgQ",
+      "id": "0ABP0z7ryCJhfHMw9g8QgQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27347484e909fb169f874051f66",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0247484e909fb169f874051f66",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485147484e909fb169f874051f66",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz Hitz",
+      "release_date": "2006-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ABP0z7ryCJhfHMw9g8QgQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/73EvbERkiGSzGTqnA7PGKg"
+      },
+      "href": "https://api.spotify.com/v1/albums/73EvbERkiGSzGTqnA7PGKg",
+      "id": "73EvbERkiGSzGTqnA7PGKg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b0456523c90472fbdd807c3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025b0456523c90472fbdd807c3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515b0456523c90472fbdd807c3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Legend Series - Gangsta Grillz",
+      "release_date": "2006-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:73EvbERkiGSzGTqnA7PGKg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/06bo3yJMvMcoclt4iejYHe"
+      },
+      "href": "https://api.spotify.com/v1/albums/06bo3yJMvMcoclt4iejYHe",
+      "id": "06bo3yJMvMcoclt4iejYHe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27304cd3847e20f900f2160906a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0204cd3847e20f900f2160906a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485104cd3847e20f900f2160906a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Certified Hustler",
+      "release_date": "2006-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:06bo3yJMvMcoclt4iejYHe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/77jE1xuov4OeyWFbedOxM7"
+      },
+      "href": "https://api.spotify.com/v1/albums/77jE1xuov4OeyWFbedOxM7",
+      "id": "77jE1xuov4OeyWFbedOxM7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27381a9ef680e46e045a7e6429c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0281a9ef680e46e045a7e6429c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485181a9ef680e46e045a7e6429c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: From The Bottom To The Top",
+      "release_date": "2006-08-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:77jE1xuov4OeyWFbedOxM7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2f4BVcRjHux3dLdZdERMii"
+      },
+      "href": "https://api.spotify.com/v1/albums/2f4BVcRjHux3dLdZdERMii",
+      "id": "2f4BVcRjHux3dLdZdERMii",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738513a41d5a82bb7b937d5ddd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028513a41d5a82bb7b937d5ddd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518513a41d5a82bb7b937d5ddd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Bring It To The Block",
+      "release_date": "2006-07-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2f4BVcRjHux3dLdZdERMii",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 27,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2HXxGoPPTJ9NQvTKGSEwPF"
+      },
+      "href": "https://api.spotify.com/v1/albums/2HXxGoPPTJ9NQvTKGSEwPF",
+      "id": "2HXxGoPPTJ9NQvTKGSEwPF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27328b8af8b7fb2a4931873376f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0228b8af8b7fb2a4931873376f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485128b8af8b7fb2a4931873376f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz: Legends Series Volume 3 (The Crown)",
+      "release_date": "2006-07-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2HXxGoPPTJ9NQvTKGSEwPF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4F58O78Ca16lv9etKHRln5"
+      },
+      "href": "https://api.spotify.com/v1/albums/4F58O78Ca16lv9etKHRln5",
+      "id": "4F58O78Ca16lv9etKHRln5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731853ac29ed7af18dda359d5e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021853ac29ed7af18dda359d5e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511853ac29ed7af18dda359d5e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Can't Ban The Snowman",
+      "release_date": "2006-05-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4F58O78Ca16lv9etKHRln5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3l5rCX1m9nTYHcP4f68xyC"
+      },
+      "href": "https://api.spotify.com/v1/albums/3l5rCX1m9nTYHcP4f68xyC",
+      "id": "3l5rCX1m9nTYHcP4f68xyC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273499df597bdda8177d106c2c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02499df597bdda8177d106c2c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851499df597bdda8177d106c2c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 15 (The Welcome Home Party)",
+      "release_date": "2006-02-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3l5rCX1m9nTYHcP4f68xyC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0NpUhYd2oqo4hLvRAzZ4aH"
+      },
+      "href": "https://api.spotify.com/v1/albums/0NpUhYd2oqo4hLvRAzZ4aH",
+      "id": "0NpUhYd2oqo4hLvRAzZ4aH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730f610031fee5478aa1d0575a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020f610031fee5478aa1d0575a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510f610031fee5478aa1d0575a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 14",
+      "release_date": "2005-04-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0NpUhYd2oqo4hLvRAzZ4aH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Kl6Vt57dngcdQNnAkAxpR"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Kl6Vt57dngcdQNnAkAxpR",
+      "id": "6Kl6Vt57dngcdQNnAkAxpR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27364c59e4eecb3ba58cad49796",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0264c59e4eecb3ba58cad49796",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485164c59e4eecb3ba58cad49796",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 13 (Prelude To The DVD)",
+      "release_date": "2004-08-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Kl6Vt57dngcdQNnAkAxpR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7Je68WCNbsbu406xN7doxc"
+      },
+      "href": "https://api.spotify.com/v1/albums/7Je68WCNbsbu406xN7doxc",
+      "id": "7Je68WCNbsbu406xN7doxc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27366e48385d082593f0967b1d9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0266e48385d082593f0967b1d9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485166e48385d082593f0967b1d9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 12: Straight Outta A-Town",
+      "release_date": "2004-06-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7Je68WCNbsbu406xN7doxc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/402hDQukaVpd3ITXgU1rNY"
+      },
+      "href": "https://api.spotify.com/v1/albums/402hDQukaVpd3ITXgU1rNY",
+      "id": "402hDQukaVpd3ITXgU1rNY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe16174f8f907063e378f0cc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe16174f8f907063e378f0cc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fe16174f8f907063e378f0cc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 11: Generation Now",
+      "release_date": "2004-06-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:402hDQukaVpd3ITXgU1rNY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/61cAsh2g4bY3MjawWkgotX"
+      },
+      "href": "https://api.spotify.com/v1/albums/61cAsh2g4bY3MjawWkgotX",
+      "id": "61cAsh2g4bY3MjawWkgotX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273750597c791e1fd52cd403ad3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02750597c791e1fd52cd403ad3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851750597c791e1fd52cd403ad3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz 10",
+      "release_date": "2004-04-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:61cAsh2g4bY3MjawWkgotX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IgFmAT7DDKuloOJk8kpcc"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IgFmAT7DDKuloOJk8kpcc",
+      "id": "4IgFmAT7DDKuloOJk8kpcc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5e31f3c5fd29ac3e6aea46a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5e31f3c5fd29ac3e6aea46a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a5e31f3c5fd29ac3e6aea46a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz pt. 7",
+      "release_date": "2003-12-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4IgFmAT7DDKuloOJk8kpcc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/56MZvED9Tj84QmdCYAI4eu"
+      },
+      "href": "https://api.spotify.com/v1/albums/56MZvED9Tj84QmdCYAI4eu",
+      "id": "56MZvED9Tj84QmdCYAI4eu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731f51cf7fb190ff1d727ab21b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021f51cf7fb190ff1d727ab21b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511f51cf7fb190ff1d727ab21b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangsta Grillz - Meets P$C In The Streets",
+      "release_date": "2003-03-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:56MZvED9Tj84QmdCYAI4eu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ]
+    }
+  ]
+}

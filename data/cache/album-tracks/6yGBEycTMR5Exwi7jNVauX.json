@@ -1,0 +1,716 @@
+{
+  "album_id": "6yGBEycTMR5Exwi7jNVauX",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 137613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RL4Xi99hRPP8JWGF4Q6XW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RL4Xi99hRPP8JWGF4Q6XW",
+      "id": "5RL4Xi99hRPP8JWGF4Q6XW",
+      "name": "Jerusalem to Derry (Prelude)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5RL4Xi99hRPP8JWGF4Q6XW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65LzIRDr5yts6TDitqzl7r"
+          },
+          "href": "https://api.spotify.com/v1/artists/65LzIRDr5yts6TDitqzl7r",
+          "id": "65LzIRDr5yts6TDitqzl7r",
+          "name": "Christopher Norby",
+          "type": "artist",
+          "uri": "spotify:artist:65LzIRDr5yts6TDitqzl7r"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 352979,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/72orxKsdIQ0ppVINKnwXRv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/72orxKsdIQ0ppVINKnwXRv",
+      "id": "72orxKsdIQ0ppVINKnwXRv",
+      "name": "Once There Was an Island",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:72orxKsdIQ0ppVINKnwXRv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 65925,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DDFQkqydtGbTgbXaE1pak"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DDFQkqydtGbTgbXaE1pak",
+      "id": "7DDFQkqydtGbTgbXaE1pak",
+      "name": "Derry to London (Interlude)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7DDFQkqydtGbTgbXaE1pak",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gDsjq3Se2YgMBdiJ88j06",
+          "id": "0gDsjq3Se2YgMBdiJ88j06",
+          "name": "Jocelyn Pook",
+          "type": "artist",
+          "uri": "spotify:artist:0gDsjq3Se2YgMBdiJ88j06"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 402596,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3wpCzRQ228uTPLVlfwjuRS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3wpCzRQ228uTPLVlfwjuRS",
+      "id": "3wpCzRQ228uTPLVlfwjuRS",
+      "name": "Pyramus and Thisbe",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3wpCzRQ228uTPLVlfwjuRS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 58751,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vipMi8d7zpVzBEHhZTdf4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vipMi8d7zpVzBEHhZTdf4",
+      "id": "2vipMi8d7zpVzBEHhZTdf4",
+      "name": "London to Utrecht (Interlude)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2vipMi8d7zpVzBEHhZTdf4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gIMqar2VTAx4AXM0rjdqT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gIMqar2VTAx4AXM0rjdqT",
+          "id": "6gIMqar2VTAx4AXM0rjdqT",
+          "name": "Theo Verbey",
+          "type": "artist",
+          "uri": "spotify:artist:6gIMqar2VTAx4AXM0rjdqT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253797,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/21bKt8dcM4mQFa1BS3u971"
+      },
+      "href": "https://api.spotify.com/v1/tracks/21bKt8dcM4mQFa1BS3u971",
+      "id": "21bKt8dcM4mQFa1BS3u971",
+      "name": "The Garden of Paracelsus",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:21bKt8dcM4mQFa1BS3u971",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 44054,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39LiGKGOpp90osPzuiLjF2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39LiGKGOpp90osPzuiLjF2",
+      "id": "39LiGKGOpp90osPzuiLjF2",
+      "name": "Utrecht to Berlin (Interlude)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:39LiGKGOpp90osPzuiLjF2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Sno6yOWdauontVq8P40Gg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Sno6yOWdauontVq8P40Gg",
+          "id": "2Sno6yOWdauontVq8P40Gg",
+          "name": "Søren Nils Eichberg",
+          "type": "artist",
+          "uri": "spotify:artist:2Sno6yOWdauontVq8P40Gg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204322,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1nCe5uTDKWNbWfaiFvI4op"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1nCe5uTDKWNbWfaiFvI4op",
+      "id": "1nCe5uTDKWNbWfaiFvI4op",
+      "name": "Just outside",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1nCe5uTDKWNbWfaiFvI4op",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 29040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Q8xzMR3bzUXGm7Aaj7LIy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Q8xzMR3bzUXGm7Aaj7LIy",
+      "id": "0Q8xzMR3bzUXGm7Aaj7LIy",
+      "name": "Berlin to Vienna (Interlude)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0Q8xzMR3bzUXGm7Aaj7LIy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pZkZgioYp2syaymWUjPsJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pZkZgioYp2syaymWUjPsJ",
+          "id": "1pZkZgioYp2syaymWUjPsJ",
+          "name": "Gerald Resch",
+          "type": "artist",
+          "uri": "spotify:artist:1pZkZgioYp2syaymWUjPsJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182970,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qyJeLgRt5Y3jExx6hCRO1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qyJeLgRt5Y3jExx6hCRO1",
+      "id": "6qyJeLgRt5Y3jExx6hCRO1",
+      "name": "Flak Tower, Esterhazy Park",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6qyJeLgRt5Y3jExx6hCRO1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 26024,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3E1EiLrr74L1OIDoYOZygl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3E1EiLrr74L1OIDoYOZygl",
+      "id": "3E1EiLrr74L1OIDoYOZygl",
+      "name": "Vienna to Dubrovnik (Interlude)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3E1EiLrr74L1OIDoYOZygl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tj4Og8CR41YmeffC3yskT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tj4Og8CR41YmeffC3yskT",
+          "id": "6Tj4Og8CR41YmeffC3yskT",
+          "name": "Isidora Zebeljan",
+          "type": "artist",
+          "uri": "spotify:artist:6Tj4Og8CR41YmeffC3yskT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194762,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0xenEv4Y9Do26rFAELEl22"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0xenEv4Y9Do26rFAELEl22",
+      "id": "0xenEv4Y9Do26rFAELEl22",
+      "name": "When God was creating Dubrovnik",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0xenEv4Y9Do26rFAELEl22",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 64630,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hChw4ic9LPXk18bzbsL3a"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3hChw4ic9LPXk18bzbsL3a",
+      "id": "3hChw4ic9LPXk18bzbsL3a",
+      "name": "Dubrovnik to Nicosia (Interlude)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3hChw4ic9LPXk18bzbsL3a",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55dCnDTd4VrYzLhkeVECbU"
+          },
+          "href": "https://api.spotify.com/v1/artists/55dCnDTd4VrYzLhkeVECbU",
+          "id": "55dCnDTd4VrYzLhkeVECbU",
+          "name": "Yannis Kyriakides",
+          "type": "artist",
+          "uri": "spotify:artist:55dCnDTd4VrYzLhkeVECbU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182922,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VhvnzI27ZexVyBQ3DWeOl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VhvnzI27ZexVyBQ3DWeOl",
+      "id": "4VhvnzI27ZexVyBQ3DWeOl",
+      "name": "Walls Have Ears",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4VhvnzI27ZexVyBQ3DWeOl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 28129,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2j1Bc3VkTTjxeut8VprbAy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2j1Bc3VkTTjxeut8VprbAy",
+      "id": "2j1Bc3VkTTjxeut8VprbAy",
+      "name": "Nicosia to Jerusalem (Interlude)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2j1Bc3VkTTjxeut8VprbAy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4mNXjUvVfqGr7TFx8rsvSf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4mNXjUvVfqGr7TFx8rsvSf",
+          "id": "4mNXjUvVfqGr7TFx8rsvSf",
+          "name": "Habib Shehadeh Hanna",
+          "type": "artist",
+          "uri": "spotify:artist:4mNXjUvVfqGr7TFx8rsvSf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iIoOdsFlQfU59pby0pdNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3iIoOdsFlQfU59pby0pdNn",
+          "id": "3iIoOdsFlQfU59pby0pdNn",
+          "name": "Loré Lixenberg",
+          "type": "artist",
+          "uri": "spotify:artist:3iIoOdsFlQfU59pby0pdNn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274526,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77jtfsztbSecLuFYhMdqV4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/77jtfsztbSecLuFYhMdqV4",
+      "id": "77jtfsztbSecLuFYhMdqV4",
+      "name": "Song of Songs",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:77jtfsztbSecLuFYhMdqV4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2bdUn8tMwVvNWFEzxTuHvT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2bdUn8tMwVvNWFEzxTuHvT",
+          "id": "2bdUn8tMwVvNWFEzxTuHvT",
+          "name": "Nigel Osborne",
+          "type": "artist",
+          "uri": "spotify:artist:2bdUn8tMwVvNWFEzxTuHvT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4H0zGQILA7vJKl0ot2OYBf",
+          "id": "4H0zGQILA7vJKl0ot2OYBf",
+          "name": "Brodsky Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184157,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25OhQbI6GpvJJLvf7kHQcO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25OhQbI6GpvJJLvf7kHQcO",
+      "id": "25OhQbI6GpvJJLvf7kHQcO",
+      "name": "Jerusalem to Derry (Postlude)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:25OhQbI6GpvJJLvf7kHQcO",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,4852 @@
+{
+  "artist_id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 80,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2hLRqbKFipxAUgEMaV0k4O"
+      },
+      "href": "https://api.spotify.com/v1/albums/2hLRqbKFipxAUgEMaV0k4O",
+      "id": "2hLRqbKFipxAUgEMaV0k4O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27395db34b754e341ed3494e076",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0295db34b754e341ed3494e076",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485195db34b754e341ed3494e076",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "PURPLE ICON (CHOPNOTSLOP REMIX)",
+      "release_date": "2026-06-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2hLRqbKFipxAUgEMaV0k4O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tlXnStJ1fFhdScmQeLpuG",
+          "id": "3tlXnStJ1fFhdScmQeLpuG",
+          "name": "Brent Faiyaz",
+          "type": "artist",
+          "uri": "spotify:artist:3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rUez8y21xlLrYKExcXB1X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rUez8y21xlLrYKExcXB1X",
+          "id": "6rUez8y21xlLrYKExcXB1X",
+          "name": "ISO Supremacy",
+          "type": "artist",
+          "uri": "spotify:artist:6rUez8y21xlLrYKExcXB1X"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7zLvIlnR5A3ZQCFLpjItsK"
+      },
+      "href": "https://api.spotify.com/v1/albums/7zLvIlnR5A3ZQCFLpjItsK",
+      "id": "7zLvIlnR5A3ZQCFLpjItsK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273368833a99c20ddf696a2a8f0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02368833a99c20ddf696a2a8f0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851368833a99c20ddf696a2a8f0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Fine African Man (ChopNotSlop)",
+      "release_date": "2026-05-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7zLvIlnR5A3ZQCFLpjItsK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          },
+          "href": "https://api.spotify.com/v1/artists/6W4vm8P3JFQboO4cvHeqaa",
+          "id": "6W4vm8P3JFQboO4cvHeqaa",
+          "name": "Knucks",
+          "type": "artist",
+          "uri": "spotify:artist:6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3qucg6xEbBVKMM0IFHWbP2"
+      },
+      "href": "https://api.spotify.com/v1/albums/3qucg6xEbBVKMM0IFHWbP2",
+      "id": "3qucg6xEbBVKMM0IFHWbP2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273db5848c7714e6bd9b20189f0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02db5848c7714e6bd9b20189f0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851db5848c7714e6bd9b20189f0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MY MISTAKE (CHOPPED NOT SLOPPED) [CHOPNOTSLOP REMIX]",
+      "release_date": "2026-02-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3qucg6xEbBVKMM0IFHWbP2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rvqZXGtuwusGDvIOImiSD"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rvqZXGtuwusGDvIOImiSD",
+          "id": "6rvqZXGtuwusGDvIOImiSD",
+          "name": "Whereisangel",
+          "type": "artist",
+          "uri": "spotify:artist:6rvqZXGtuwusGDvIOImiSD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oblBvUf2hO1mENdcdnPlc"
+      },
+      "href": "https://api.spotify.com/v1/albums/3oblBvUf2hO1mENdcdnPlc",
+      "id": "3oblBvUf2hO1mENdcdnPlc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27306a7640494dcaaac923ee1c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0206a7640494dcaaac923ee1c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485106a7640494dcaaac923ee1c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "BUILT TO LAST (CHOPPED NOT SLOPPED) [CHOPNOTSLOP REMIX]",
+      "release_date": "2025-12-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3oblBvUf2hO1mENdcdnPlc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wrxQunr5TpVODo4h3XuD5"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wrxQunr5TpVODo4h3XuD5",
+          "id": "3wrxQunr5TpVODo4h3XuD5",
+          "name": "EzMoney Wop",
+          "type": "artist",
+          "uri": "spotify:artist:3wrxQunr5TpVODo4h3XuD5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2hkOA9B0TBp0szvfQma9zi"
+      },
+      "href": "https://api.spotify.com/v1/albums/2hkOA9B0TBp0szvfQma9zi",
+      "id": "2hkOA9B0TBp0szvfQma9zi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27319cad96dbd6ab54f8efcf6bb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0219cad96dbd6ab54f8efcf6bb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485119cad96dbd6ab54f8efcf6bb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "RED (CHOPPED NOT SLOPPED) [CHOPNOTSLOP REMIX]",
+      "release_date": "2025-06-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2hkOA9B0TBp0szvfQma9zi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3urfPe12Dfcv90e1DCL3L8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3urfPe12Dfcv90e1DCL3L8",
+          "id": "3urfPe12Dfcv90e1DCL3L8",
+          "name": "Aishia K",
+          "type": "artist",
+          "uri": "spotify:artist:3urfPe12Dfcv90e1DCL3L8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3oUDn9x4Q2wGSlT3e9nEZa"
+      },
+      "href": "https://api.spotify.com/v1/albums/3oUDn9x4Q2wGSlT3e9nEZa",
+      "id": "3oUDn9x4Q2wGSlT3e9nEZa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c416d0302462eddeee318a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c416d0302462eddeee318a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c416d0302462eddeee318a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "HAPPY HOUR (CHOPNOTSLOP)",
+      "release_date": "2025-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3oUDn9x4Q2wGSlT3e9nEZa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kh5ZYctLCcReMK0QYXs2h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kh5ZYctLCcReMK0QYXs2h",
+          "id": "1kh5ZYctLCcReMK0QYXs2h",
+          "name": "Mr L-BO",
+          "type": "artist",
+          "uri": "spotify:artist:1kh5ZYctLCcReMK0QYXs2h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0k2rk0ijMrfa4h6PrAogWI"
+      },
+      "href": "https://api.spotify.com/v1/albums/0k2rk0ijMrfa4h6PrAogWI",
+      "id": "0k2rk0ijMrfa4h6PrAogWI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b60dd13aa346c9f63cdc0784",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b60dd13aa346c9f63cdc0784",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b60dd13aa346c9f63cdc0784",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Forever Yours (ChopNotSlop Remix)",
+      "release_date": "2024-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0k2rk0ijMrfa4h6PrAogWI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AfDFNOpXAPEPlFFrBMOL3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AfDFNOpXAPEPlFFrBMOL3",
+          "id": "3AfDFNOpXAPEPlFFrBMOL3",
+          "name": "sectiontoo",
+          "type": "artist",
+          "uri": "spotify:artist:3AfDFNOpXAPEPlFFrBMOL3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4W8sIGTIp3sVlISifzYftn"
+      },
+      "href": "https://api.spotify.com/v1/albums/4W8sIGTIp3sVlISifzYftn",
+      "id": "4W8sIGTIp3sVlISifzYftn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a86945c967e4ece9fa68ea7e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a86945c967e4ece9fa68ea7e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a86945c967e4ece9fa68ea7e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Made Mistakes (Chopped Not Slopped)",
+      "release_date": "2024-10-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4W8sIGTIp3sVlISifzYftn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3u65Tx20y4WqxO7W7khEhj",
+          "id": "3u65Tx20y4WqxO7W7khEhj",
+          "name": "Clara La San",
+          "type": "artist",
+          "uri": "spotify:artist:3u65Tx20y4WqxO7W7khEhj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5RvmwcWmyJnqiVbgAhw7lR"
+      },
+      "href": "https://api.spotify.com/v1/albums/5RvmwcWmyJnqiVbgAhw7lR",
+      "id": "5RvmwcWmyJnqiVbgAhw7lR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fa699b90578ddb036bfcb7cf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fa699b90578ddb036bfcb7cf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fa699b90578ddb036bfcb7cf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "PURPLE DUTY HOURS (CHOPNOTSLOP)",
+      "release_date": "2024-09-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5RvmwcWmyJnqiVbgAhw7lR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mlZQm9dFE75vDMVKZ90Md"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mlZQm9dFE75vDMVKZ90Md",
+          "id": "1mlZQm9dFE75vDMVKZ90Md",
+          "name": "C-Red",
+          "type": "artist",
+          "uri": "spotify:artist:1mlZQm9dFE75vDMVKZ90Md"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/77WYxhXbDJIFl3SohWGCvj"
+      },
+      "href": "https://api.spotify.com/v1/albums/77WYxhXbDJIFl3SohWGCvj",
+      "id": "77WYxhXbDJIFl3SohWGCvj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273145a7b22644feb633ae8e52c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02145a7b22644feb633ae8e52c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851145a7b22644feb633ae8e52c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hellhound (ChopNotSlop Remix)",
+      "release_date": "2024-03-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:77WYxhXbDJIFl3SohWGCvj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67GbNlaClUAmqMkGHhkAl4"
+          },
+          "href": "https://api.spotify.com/v1/artists/67GbNlaClUAmqMkGHhkAl4",
+          "id": "67GbNlaClUAmqMkGHhkAl4",
+          "name": "Lou Ridley",
+          "type": "artist",
+          "uri": "spotify:artist:67GbNlaClUAmqMkGHhkAl4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0WOfXFYopQlhF2p3divP2g"
+      },
+      "href": "https://api.spotify.com/v1/albums/0WOfXFYopQlhF2p3divP2g",
+      "id": "0WOfXFYopQlhF2p3divP2g",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736336f7e60ffd7f6f19ce3aa2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026336f7e60ffd7f6f19ce3aa2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516336f7e60ffd7f6f19ce3aa2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Growth & Development II (CHOPPED NOT SLOPPED)",
+      "release_date": "2024-01-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0WOfXFYopQlhF2p3divP2g",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JhbRL6zaItAyzqx4gHTqz",
+          "id": "4JhbRL6zaItAyzqx4gHTqz",
+          "name": "22Gz",
+          "type": "artist",
+          "uri": "spotify:artist:4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6UIiIDQRhUcdGYUB6CbTZV"
+      },
+      "href": "https://api.spotify.com/v1/albums/6UIiIDQRhUcdGYUB6CbTZV",
+      "id": "6UIiIDQRhUcdGYUB6CbTZV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733e62b849a26a7f03a652327f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023e62b849a26a7f03a652327f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513e62b849a26a7f03a652327f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "LARGER THAN LIFE (CHOPPED NOT SLOPPED)",
+      "release_date": "2023-12-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6UIiIDQRhUcdGYUB6CbTZV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tlXnStJ1fFhdScmQeLpuG",
+          "id": "3tlXnStJ1fFhdScmQeLpuG",
+          "name": "Brent Faiyaz",
+          "type": "artist",
+          "uri": "spotify:artist:3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rUez8y21xlLrYKExcXB1X"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rUez8y21xlLrYKExcXB1X",
+          "id": "6rUez8y21xlLrYKExcXB1X",
+          "name": "ISO Supremacy",
+          "type": "artist",
+          "uri": "spotify:artist:6rUez8y21xlLrYKExcXB1X"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 35,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2hcSx6vSpqPOm6oZC4Ocbz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2hcSx6vSpqPOm6oZC4Ocbz",
+      "id": "2hcSx6vSpqPOm6oZC4Ocbz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27395f7a9bc3bb5be91f5ce3878",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0295f7a9bc3bb5be91f5ce3878",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485195f7a9bc3bb5be91f5ce3878",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mixed Emotions (Chopped Not Slopped)",
+      "release_date": "2023-10-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2hcSx6vSpqPOm6oZC4Ocbz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          },
+          "href": "https://api.spotify.com/v1/artists/7mDU6nMUJnOSY2Hkjz5oqM",
+          "id": "7mDU6nMUJnOSY2Hkjz5oqM",
+          "name": "Roy Woods",
+          "type": "artist",
+          "uri": "spotify:artist:7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6XHAOmCPzrdkhizWs70xp4"
+      },
+      "href": "https://api.spotify.com/v1/albums/6XHAOmCPzrdkhizWs70xp4",
+      "id": "6XHAOmCPzrdkhizWs70xp4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730db5ad8149df8415224cc20b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020db5ad8149df8415224cc20b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510db5ad8149df8415224cc20b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Come as You Are (Chopnotslop Remix)",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6XHAOmCPzrdkhizWs70xp4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MxR3Hjf2uTSew9wmKbOwO",
+          "id": "6MxR3Hjf2uTSew9wmKbOwO",
+          "name": "C.S. Armstrong",
+          "type": "artist",
+          "uri": "spotify:artist:6MxR3Hjf2uTSew9wmKbOwO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0orAFHn9ejpTZsaZh9aztY"
+      },
+      "href": "https://api.spotify.com/v1/albums/0orAFHn9ejpTZsaZh9aztY",
+      "id": "0orAFHn9ejpTZsaZh9aztY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273caaad1f7b916358ca45c7f2d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02caaad1f7b916358ca45c7f2d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851caaad1f7b916358ca45c7f2d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "No Wasted Motion (ChopNotSlop Remix)",
+      "release_date": "2023-07-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0orAFHn9ejpTZsaZh9aztY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VHBVh64cAfUWRpWT3pVJh",
+          "id": "1VHBVh64cAfUWRpWT3pVJh",
+          "name": "Will Hill ",
+          "type": "artist",
+          "uri": "spotify:artist:1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3DpamulE7VP1pDprRODb28"
+      },
+      "href": "https://api.spotify.com/v1/albums/3DpamulE7VP1pDprRODb28",
+      "id": "3DpamulE7VP1pDprRODb28",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ab0249971845c27f2dece41",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ab0249971845c27f2dece41",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ab0249971845c27f2dece41",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "WASTELAND - CHOPPED NOT SLOPPED",
+      "release_date": "2023-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3DpamulE7VP1pDprRODb28",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tlXnStJ1fFhdScmQeLpuG",
+          "id": "3tlXnStJ1fFhdScmQeLpuG",
+          "name": "Brent Faiyaz",
+          "type": "artist",
+          "uri": "spotify:artist:3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/51oxcRfbl8U4Nbb1zY18mN"
+      },
+      "href": "https://api.spotify.com/v1/albums/51oxcRfbl8U4Nbb1zY18mN",
+      "id": "51oxcRfbl8U4Nbb1zY18mN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738023cb35166e42482b5646e1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028023cb35166e42482b5646e1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518023cb35166e42482b5646e1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "RUN iT BACK RUNNiNGBACK (ChopNotSlop Remix)",
+      "release_date": "2023-04-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:51oxcRfbl8U4Nbb1zY18mN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15OBnB69T62DBTGcT1XNuE"
+          },
+          "href": "https://api.spotify.com/v1/artists/15OBnB69T62DBTGcT1XNuE",
+          "id": "15OBnB69T62DBTGcT1XNuE",
+          "name": "KiiNGHUNCHO",
+          "type": "artist",
+          "uri": "spotify:artist:15OBnB69T62DBTGcT1XNuE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5nkKP0l5fZQimvNOmpF7MB"
+      },
+      "href": "https://api.spotify.com/v1/albums/5nkKP0l5fZQimvNOmpF7MB",
+      "id": "5nkKP0l5fZQimvNOmpF7MB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e83257b544f126cb6f5e0464",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e83257b544f126cb6f5e0464",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e83257b544f126cb6f5e0464",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "JACKSON (ChopNotSlop Remix)",
+      "release_date": "2023-03-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5nkKP0l5fZQimvNOmpF7MB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5tzAhrvYcF26WX45RxV0XW"
+          },
+          "href": "https://api.spotify.com/v1/artists/5tzAhrvYcF26WX45RxV0XW",
+          "id": "5tzAhrvYcF26WX45RxV0XW",
+          "name": "_JACKSON",
+          "type": "artist",
+          "uri": "spotify:artist:5tzAhrvYcF26WX45RxV0XW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5T7zPK3vNwhmfUcGI9MOm8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5T7zPK3vNwhmfUcGI9MOm8",
+      "id": "5T7zPK3vNwhmfUcGI9MOm8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ec43437156b12ed859237cf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020ec43437156b12ed859237cf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510ec43437156b12ed859237cf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Da Po3t GR8TER (ChopNotSlop Remix)",
+      "release_date": "2022-12-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5T7zPK3vNwhmfUcGI9MOm8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15OBnB69T62DBTGcT1XNuE"
+          },
+          "href": "https://api.spotify.com/v1/artists/15OBnB69T62DBTGcT1XNuE",
+          "id": "15OBnB69T62DBTGcT1XNuE",
+          "name": "KiiNGHUNCHO",
+          "type": "artist",
+          "uri": "spotify:artist:15OBnB69T62DBTGcT1XNuE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4C07j5ziEIok9hZkSYkBkO"
+      },
+      "href": "https://api.spotify.com/v1/albums/4C07j5ziEIok9hZkSYkBkO",
+      "id": "4C07j5ziEIok9hZkSYkBkO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ef7198d8ce00c37e3ece93c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029ef7198d8ce00c37e3ece93c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519ef7198d8ce00c37e3ece93c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "PSEU•DO•NYM (CHOPNOTSLOP REMIX)",
+      "release_date": "2022-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4C07j5ziEIok9hZkSYkBkO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2WYhypP77IhYJQcbTQ3KWS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2WYhypP77IhYJQcbTQ3KWS",
+          "id": "2WYhypP77IhYJQcbTQ3KWS",
+          "name": "Laaawwd",
+          "type": "artist",
+          "uri": "spotify:artist:2WYhypP77IhYJQcbTQ3KWS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7eUMGZ99qwtLggVZlvshyC"
+      },
+      "href": "https://api.spotify.com/v1/albums/7eUMGZ99qwtLggVZlvshyC",
+      "id": "7eUMGZ99qwtLggVZlvshyC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739bc8dec4eb4e7e02d867c64a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029bc8dec4eb4e7e02d867c64a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519bc8dec4eb4e7e02d867c64a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "PLAY MY HAND (CHOPNOTSLOP REMIX)",
+      "release_date": "2022-04-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7eUMGZ99qwtLggVZlvshyC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cL5bXnfoFiPQqNXDAKdmA"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cL5bXnfoFiPQqNXDAKdmA",
+          "id": "1cL5bXnfoFiPQqNXDAKdmA",
+          "name": "Rissell",
+          "type": "artist",
+          "uri": "spotify:artist:1cL5bXnfoFiPQqNXDAKdmA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VSmHQ81ILaTuienSKvzGX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6VSmHQ81ILaTuienSKvzGX",
+      "id": "6VSmHQ81ILaTuienSKvzGX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba7e716d339ac8858728a09e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba7e716d339ac8858728a09e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ba7e716d339ac8858728a09e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SPADES (CHOPNOTSLOP REMIX)",
+      "release_date": "2022-04-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6VSmHQ81ILaTuienSKvzGX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kh5ZYctLCcReMK0QYXs2h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kh5ZYctLCcReMK0QYXs2h",
+          "id": "1kh5ZYctLCcReMK0QYXs2h",
+          "name": "Mr L-BO",
+          "type": "artist",
+          "uri": "spotify:artist:1kh5ZYctLCcReMK0QYXs2h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JM0ilkbDlzQDcXQ7BlQgH"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JM0ilkbDlzQDcXQ7BlQgH",
+          "id": "6JM0ilkbDlzQDcXQ7BlQgH",
+          "name": "Buckets Marciano",
+          "type": "artist",
+          "uri": "spotify:artist:6JM0ilkbDlzQDcXQ7BlQgH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1iaBjrNu8wCzKCDggZApkF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1iaBjrNu8wCzKCDggZApkF",
+      "id": "1iaBjrNu8wCzKCDggZApkF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab4f533bc82865fbfa2a2a9b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab4f533bc82865fbfa2a2a9b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ab4f533bc82865fbfa2a2a9b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "WAVES ON WESTHEIMER",
+      "release_date": "2022-03-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1iaBjrNu8wCzKCDggZApkF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qIM12F2DGErC5wgSinNbC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qIM12F2DGErC5wgSinNbC",
+          "id": "7qIM12F2DGErC5wgSinNbC",
+          "name": "WAVES ON",
+          "type": "artist",
+          "uri": "spotify:artist:7qIM12F2DGErC5wgSinNbC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6srNqOsdlDHpv5HnkNr9nd"
+          },
+          "href": "https://api.spotify.com/v1/artists/6srNqOsdlDHpv5HnkNr9nd",
+          "id": "6srNqOsdlDHpv5HnkNr9nd",
+          "name": "Dj Motivation",
+          "type": "artist",
+          "uri": "spotify:artist:6srNqOsdlDHpv5HnkNr9nd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U3c2X80PG2ICR21MKgEZu"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U3c2X80PG2ICR21MKgEZu",
+          "id": "1U3c2X80PG2ICR21MKgEZu",
+          "name": "DJ Skrechy Skrach",
+          "type": "artist",
+          "uri": "spotify:artist:1U3c2X80PG2ICR21MKgEZu"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3yrkHcE5CaAf1L62JTrwH2"
+      },
+      "href": "https://api.spotify.com/v1/albums/3yrkHcE5CaAf1L62JTrwH2",
+      "id": "3yrkHcE5CaAf1L62JTrwH2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737703193cc859e55cf6e38d4a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027703193cc859e55cf6e38d4a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517703193cc859e55cf6e38d4a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "TEXA$ BOY (CHOPNOTSLOP REMIX)",
+      "release_date": "2021-06-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3yrkHcE5CaAf1L62JTrwH2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7uSI8dxW9E6ajhPq88TAMn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7uSI8dxW9E6ajhPq88TAMn",
+          "id": "7uSI8dxW9E6ajhPq88TAMn",
+          "name": "Yung Matta",
+          "type": "artist",
+          "uri": "spotify:artist:7uSI8dxW9E6ajhPq88TAMn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0MQyA0SSWeyWQ2hchWRSJC"
+      },
+      "href": "https://api.spotify.com/v1/albums/0MQyA0SSWeyWQ2hchWRSJC",
+      "id": "0MQyA0SSWeyWQ2hchWRSJC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f2c504c907be766af941b232",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f2c504c907be766af941b232",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f2c504c907be766af941b232",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "HOLY GOAT (CHOPNOTSLOP REMIX)",
+      "release_date": "2021-04-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0MQyA0SSWeyWQ2hchWRSJC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+          },
+          "href": "https://api.spotify.com/v1/artists/6bS1ddLkqrK5Jl6GyKK4j2",
+          "id": "6bS1ddLkqrK5Jl6GyKK4j2",
+          "name": "OG Bobby Billions",
+          "type": "artist",
+          "uri": "spotify:artist:6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pwB0BWC6Z8Dj3PMkUyMDO"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pwB0BWC6Z8Dj3PMkUyMDO",
+      "id": "3pwB0BWC6Z8Dj3PMkUyMDO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737bf47ed6f0c8f43984aefc69",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027bf47ed6f0c8f43984aefc69",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517bf47ed6f0c8f43984aefc69",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Born to Drip: The ChopNotSlop Remix",
+      "release_date": "2021-04-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3pwB0BWC6Z8Dj3PMkUyMDO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Bj81IbILbuj2uEwWXMdXI",
+          "id": "3Bj81IbILbuj2uEwWXMdXI",
+          "name": "Sosamann",
+          "type": "artist",
+          "uri": "spotify:artist:3Bj81IbILbuj2uEwWXMdXI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7KNFjCxA3CrFRP93GWUWbn"
+      },
+      "href": "https://api.spotify.com/v1/albums/7KNFjCxA3CrFRP93GWUWbn",
+      "id": "7KNFjCxA3CrFRP93GWUWbn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ef11c3358f81ce1969326ab",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024ef11c3358f81ce1969326ab",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514ef11c3358f81ce1969326ab",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Thanks EP (Chopnotslop)",
+      "release_date": "2020-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7KNFjCxA3CrFRP93GWUWbn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vKV4nXsO1RjkkrEWuVmOg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vKV4nXsO1RjkkrEWuVmOg",
+          "id": "2vKV4nXsO1RjkkrEWuVmOg",
+          "name": "LuLu P",
+          "type": "artist",
+          "uri": "spotify:artist:2vKV4nXsO1RjkkrEWuVmOg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5j4r3K26tOpqJuNJEpKdWb"
+      },
+      "href": "https://api.spotify.com/v1/albums/5j4r3K26tOpqJuNJEpKdWb",
+      "id": "5j4r3K26tOpqJuNJEpKdWb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7492c21850fdebd6847dc06",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7492c21850fdebd6847dc06",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a7492c21850fdebd6847dc06",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love Me Not (Chopnotslop)",
+      "release_date": "2020-10-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5j4r3K26tOpqJuNJEpKdWb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XkrdAeIcPbbE2PfPRLYie"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XkrdAeIcPbbE2PfPRLYie",
+          "id": "6XkrdAeIcPbbE2PfPRLYie",
+          "name": "J DaVon Harris",
+          "type": "artist",
+          "uri": "spotify:artist:6XkrdAeIcPbbE2PfPRLYie"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2mh1bZk4kF0hZGf4Z1DolO"
+      },
+      "href": "https://api.spotify.com/v1/albums/2mh1bZk4kF0hZGf4Z1DolO",
+      "id": "2mh1bZk4kF0hZGf4Z1DolO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d295acdc00f53814a282b1a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021d295acdc00f53814a282b1a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511d295acdc00f53814a282b1a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "From Texas, With Love (ChopNotSlop Remix)",
+      "release_date": "2020-09-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2mh1bZk4kF0hZGf4Z1DolO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M9hQI5iiKLFHZ8JRaZafM"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M9hQI5iiKLFHZ8JRaZafM",
+          "id": "5M9hQI5iiKLFHZ8JRaZafM",
+          "name": "Zayland",
+          "type": "artist",
+          "uri": "spotify:artist:5M9hQI5iiKLFHZ8JRaZafM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1RTelI74feaa6YHG8ZfQoy"
+      },
+      "href": "https://api.spotify.com/v1/albums/1RTelI74feaa6YHG8ZfQoy",
+      "id": "1RTelI74feaa6YHG8ZfQoy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5175d13d8ad8845b6d6ef22",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5175d13d8ad8845b6d6ef22",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e5175d13d8ad8845b6d6ef22",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DNG (CHOPNOTSLOP)",
+      "release_date": "2020-08-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1RTelI74feaa6YHG8ZfQoy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4l4ZupT12A0KLHAZgfoGBH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4l4ZupT12A0KLHAZgfoGBH",
+          "id": "4l4ZupT12A0KLHAZgfoGBH",
+          "name": "GTA SAV",
+          "type": "artist",
+          "uri": "spotify:artist:4l4ZupT12A0KLHAZgfoGBH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4PXjIvveYgyWvP1pysG4ru"
+      },
+      "href": "https://api.spotify.com/v1/albums/4PXjIvveYgyWvP1pysG4ru",
+      "id": "4PXjIvveYgyWvP1pysG4ru",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4d4f8bfa31547fcb0001c34",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4d4f8bfa31547fcb0001c34",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d4d4f8bfa31547fcb0001c34",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "(In)visible Man [Chopnotslop]",
+      "release_date": "2020-06-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4PXjIvveYgyWvP1pysG4ru",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/138f59dCUDnrqyW6fw4nIx"
+          },
+          "href": "https://api.spotify.com/v1/artists/138f59dCUDnrqyW6fw4nIx",
+          "id": "138f59dCUDnrqyW6fw4nIx",
+          "name": "Dr. View",
+          "type": "artist",
+          "uri": "spotify:artist:138f59dCUDnrqyW6fw4nIx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3WxJABZqvha49tXYVaOpB8"
+      },
+      "href": "https://api.spotify.com/v1/albums/3WxJABZqvha49tXYVaOpB8",
+      "id": "3WxJABZqvha49tXYVaOpB8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733637db182859a2bf0d74542f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023637db182859a2bf0d74542f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513637db182859a2bf0d74542f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 14 (Chopnotslop)",
+      "release_date": "2020-05-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3WxJABZqvha49tXYVaOpB8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2TQZCfXKXwDKMj4LSbqUwe"
+      },
+      "href": "https://api.spotify.com/v1/albums/2TQZCfXKXwDKMj4LSbqUwe",
+      "id": "2TQZCfXKXwDKMj4LSbqUwe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737288c4f1183210da2c6de265",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027288c4f1183210da2c6de265",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517288c4f1183210da2c6de265",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "All Black (Chopnotslop)",
+      "release_date": "2020-05-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2TQZCfXKXwDKMj4LSbqUwe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6YzOLxHQYC4dI3KrKANnpR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6YzOLxHQYC4dI3KrKANnpR",
+          "id": "6YzOLxHQYC4dI3KrKANnpR",
+          "name": "Mohst",
+          "type": "artist",
+          "uri": "spotify:artist:6YzOLxHQYC4dI3KrKANnpR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/24AUJgXaLlkEgNYXtiDpQk"
+      },
+      "href": "https://api.spotify.com/v1/albums/24AUJgXaLlkEgNYXtiDpQk",
+      "id": "24AUJgXaLlkEgNYXtiDpQk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273248281efaea353bc0151e39d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02248281efaea353bc0151e39d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851248281efaea353bc0151e39d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Veni Vidi Vici (Chopnotslop)",
+      "release_date": "2020-04-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:24AUJgXaLlkEgNYXtiDpQk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2WYhypP77IhYJQcbTQ3KWS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2WYhypP77IhYJQcbTQ3KWS",
+          "id": "2WYhypP77IhYJQcbTQ3KWS",
+          "name": "Laaawwd",
+          "type": "artist",
+          "uri": "spotify:artist:2WYhypP77IhYJQcbTQ3KWS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pNBeXZXS7ClWrhAD3HLDF"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pNBeXZXS7ClWrhAD3HLDF",
+      "id": "0pNBeXZXS7ClWrhAD3HLDF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c026dbe3c79532d0d3d62fa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028c026dbe3c79532d0d3d62fa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518c026dbe3c79532d0d3d62fa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trap Sauce: The ChopNotSlop Remix",
+      "release_date": "2020-03-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0pNBeXZXS7ClWrhAD3HLDF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Bj81IbILbuj2uEwWXMdXI",
+          "id": "3Bj81IbILbuj2uEwWXMdXI",
+          "name": "Sosamann",
+          "type": "artist",
+          "uri": "spotify:artist:3Bj81IbILbuj2uEwWXMdXI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3eeUR5VpTDYcQGM6dsssOZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3eeUR5VpTDYcQGM6dsssOZ",
+      "id": "3eeUR5VpTDYcQGM6dsssOZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b8172fce8cfdc56f1e0233e7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b8172fce8cfdc56f1e0233e7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b8172fce8cfdc56f1e0233e7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fuck The World - ChopNotSlop",
+      "release_date": "2020-02-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3eeUR5VpTDYcQGM6dsssOZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OX5wzwU4oSGGNqcOVDrrL"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OX5wzwU4oSGGNqcOVDrrL",
+          "id": "6OX5wzwU4oSGGNqcOVDrrL",
+          "name": "Lost Kids",
+          "type": "artist",
+          "uri": "spotify:artist:6OX5wzwU4oSGGNqcOVDrrL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tlXnStJ1fFhdScmQeLpuG",
+          "id": "3tlXnStJ1fFhdScmQeLpuG",
+          "name": "Brent Faiyaz",
+          "type": "artist",
+          "uri": "spotify:artist:3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1xSGz737JddxBzK9l1rGu1"
+      },
+      "href": "https://api.spotify.com/v1/albums/1xSGz737JddxBzK9l1rGu1",
+      "id": "1xSGz737JddxBzK9l1rGu1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a4ec3e560ceee03801ca3235",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4ec3e560ceee03801ca3235",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a4ec3e560ceee03801ca3235",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 14",
+      "release_date": "2019-12-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1xSGz737JddxBzK9l1rGu1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/43rENh9ujxcOKZ6vO7HcoW"
+      },
+      "href": "https://api.spotify.com/v1/albums/43rENh9ujxcOKZ6vO7HcoW",
+      "id": "43rENh9ujxcOKZ6vO7HcoW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f53a1418686a60bac4279d86",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f53a1418686a60bac4279d86",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f53a1418686a60bac4279d86",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Big 16 (Chopnotslop)",
+      "release_date": "2019-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:43rENh9ujxcOKZ6vO7HcoW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vKV4nXsO1RjkkrEWuVmOg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vKV4nXsO1RjkkrEWuVmOg",
+          "id": "2vKV4nXsO1RjkkrEWuVmOg",
+          "name": "LuLu P",
+          "type": "artist",
+          "uri": "spotify:artist:2vKV4nXsO1RjkkrEWuVmOg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6QuyBP40V5Q1B6ZUZVI9He"
+      },
+      "href": "https://api.spotify.com/v1/albums/6QuyBP40V5Q1B6ZUZVI9He",
+      "id": "6QuyBP40V5Q1B6ZUZVI9He",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ded391002925c3f7123c88d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ded391002925c3f7123c88d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ded391002925c3f7123c88d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Skittz Season (Chopnotslop)",
+      "release_date": "2019-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6QuyBP40V5Q1B6ZUZVI9He",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78YtaQunPMq0AMrBfhFFNk"
+          },
+          "href": "https://api.spotify.com/v1/artists/78YtaQunPMq0AMrBfhFFNk",
+          "id": "78YtaQunPMq0AMrBfhFFNk",
+          "name": "NeekDaSkittz",
+          "type": "artist",
+          "uri": "spotify:artist:78YtaQunPMq0AMrBfhFFNk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6r6THgdE1vEL8I1BLHrUEC"
+      },
+      "href": "https://api.spotify.com/v1/albums/6r6THgdE1vEL8I1BLHrUEC",
+      "id": "6r6THgdE1vEL8I1BLHrUEC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bcad978d8eb7a841d8d22997",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bcad978d8eb7a841d8d22997",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bcad978d8eb7a841d8d22997",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Little World (Chopnotslop)",
+      "release_date": "2019-07-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6r6THgdE1vEL8I1BLHrUEC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/25OyN1fp9v0kNici6jEKai"
+          },
+          "href": "https://api.spotify.com/v1/artists/25OyN1fp9v0kNici6jEKai",
+          "id": "25OyN1fp9v0kNici6jEKai",
+          "name": "TX",
+          "type": "artist",
+          "uri": "spotify:artist:25OyN1fp9v0kNici6jEKai"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46N4KQK1O3mQffYb11U1fX"
+          },
+          "href": "https://api.spotify.com/v1/artists/46N4KQK1O3mQffYb11U1fX",
+          "id": "46N4KQK1O3mQffYb11U1fX",
+          "name": "The Outfit",
+          "type": "artist",
+          "uri": "spotify:artist:46N4KQK1O3mQffYb11U1fX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BAGcT2PjlJktskNAFZ14t"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BAGcT2PjlJktskNAFZ14t",
+      "id": "7BAGcT2PjlJktskNAFZ14t",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc1ada212a35cd1acc615a77",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc1ada212a35cd1acc615a77",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dc1ada212a35cd1acc615a77",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sweet Dreams (Chopnotslop)",
+      "release_date": "2019-07-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7BAGcT2PjlJktskNAFZ14t",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0V8k3W25JGWGANZYIDZS2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0V8k3W25JGWGANZYIDZS2C",
+          "id": "0V8k3W25JGWGANZYIDZS2C",
+          "name": "Aisha K",
+          "type": "artist",
+          "uri": "spotify:artist:0V8k3W25JGWGANZYIDZS2C"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/69DgOxY5tlA1ZGcgMmVVgp"
+      },
+      "href": "https://api.spotify.com/v1/albums/69DgOxY5tlA1ZGcgMmVVgp",
+      "id": "69DgOxY5tlA1ZGcgMmVVgp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ba09111adcab93d2a8c86a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022ba09111adcab93d2a8c86a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512ba09111adcab93d2a8c86a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wishing You Well (ChopNotSlop Remix)",
+      "release_date": "2019-02-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:69DgOxY5tlA1ZGcgMmVVgp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0J9a0XByb9uW5hzx4IXUPP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0J9a0XByb9uW5hzx4IXUPP",
+          "id": "0J9a0XByb9uW5hzx4IXUPP",
+          "name": "Tony Del Freshco",
+          "type": "artist",
+          "uri": "spotify:artist:0J9a0XByb9uW5hzx4IXUPP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2nLxbdqtEvJrsn6DFw3Adx"
+      },
+      "href": "https://api.spotify.com/v1/albums/2nLxbdqtEvJrsn6DFw3Adx",
+      "id": "2nLxbdqtEvJrsn6DFw3Adx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737381dc0ffb64308b75ee7428",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027381dc0ffb64308b75ee7428",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517381dc0ffb64308b75ee7428",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bad Guy (Chopnotslop Remix)",
+      "release_date": "2019-02-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2nLxbdqtEvJrsn6DFw3Adx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2WfNkFX2liKKethrs7heCc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2WfNkFX2liKKethrs7heCc",
+          "id": "2WfNkFX2liKKethrs7heCc",
+          "name": "Break It Down DC",
+          "type": "artist",
+          "uri": "spotify:artist:2WfNkFX2liKKethrs7heCc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7havMTwbgu38AINnAJmFlP"
+      },
+      "href": "https://api.spotify.com/v1/albums/7havMTwbgu38AINnAJmFlP",
+      "id": "7havMTwbgu38AINnAJmFlP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736d0a36e5c44282c5ebbf3f70",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026d0a36e5c44282c5ebbf3f70",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516d0a36e5c44282c5ebbf3f70",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Equinox (Chopnotslop Remix)",
+      "release_date": "2019-02-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7havMTwbgu38AINnAJmFlP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mFYPb7V01As2ac4sMzXNE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mFYPb7V01As2ac4sMzXNE",
+          "id": "5mFYPb7V01As2ac4sMzXNE",
+          "name": "Candle Joseph",
+          "type": "artist",
+          "uri": "spotify:artist:5mFYPb7V01As2ac4sMzXNE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Tb593feCailRNr434XmxT"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Tb593feCailRNr434XmxT",
+      "id": "0Tb593feCailRNr434XmxT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273de3064223bc232f5d95962c4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02de3064223bc232f5d95962c4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851de3064223bc232f5d95962c4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Greatest Chops, Vol. 1",
+      "release_date": "2018-09-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0Tb593feCailRNr434XmxT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+          },
+          "href": "https://api.spotify.com/v1/artists/31IZdHrCZ5pRhLz4zBxN3o",
+          "id": "31IZdHrCZ5pRhLz4zBxN3o",
+          "name": "Riff Raff",
+          "type": "artist",
+          "uri": "spotify:artist:31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BO3ggtJCLINQJimxovXZV"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BO3ggtJCLINQJimxovXZV",
+      "id": "7BO3ggtJCLINQJimxovXZV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732adb70e66a9f4ab347f0ab79",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022adb70e66a9f4ab347f0ab79",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512adb70e66a9f4ab347f0ab79",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Define Love (ChopNotSlop Remix)",
+      "release_date": "2018-08-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7BO3ggtJCLINQJimxovXZV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0sQ5GaIilKYSsvYlXSgEcl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0sQ5GaIilKYSsvYlXSgEcl",
+          "id": "0sQ5GaIilKYSsvYlXSgEcl",
+          "name": "Jack Freeman",
+          "type": "artist",
+          "uri": "spotify:artist:0sQ5GaIilKYSsvYlXSgEcl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/18L2BxSFrMsC47YZxlSKFu"
+      },
+      "href": "https://api.spotify.com/v1/albums/18L2BxSFrMsC47YZxlSKFu",
+      "id": "18L2BxSFrMsC47YZxlSKFu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27329299033b0a9427946bf7b3a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0229299033b0a9427946bf7b3a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485129299033b0a9427946bf7b3a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Korner Store (ChopNotSlop Remix)",
+      "release_date": "2018-08-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:18L2BxSFrMsC47YZxlSKFu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1jN8jSEK1ODKCfjviN7Hxp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1jN8jSEK1ODKCfjviN7Hxp",
+          "id": "1jN8jSEK1ODKCfjviN7Hxp",
+          "name": "Hoodlum",
+          "type": "artist",
+          "uri": "spotify:artist:1jN8jSEK1ODKCfjviN7Hxp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/603xsc3niYpAppZgmlSJwA"
+      },
+      "href": "https://api.spotify.com/v1/albums/603xsc3niYpAppZgmlSJwA",
+      "id": "603xsc3niYpAppZgmlSJwA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3af631b49d54591e79160ed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3af631b49d54591e79160ed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e3af631b49d54591e79160ed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The World is Yours (Chopnotslop Remix)",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:603xsc3niYpAppZgmlSJwA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0st5vgzw9XkH5ALJiUM1lE",
+          "id": "0st5vgzw9XkH5ALJiUM1lE",
+          "name": "Slim Thug",
+          "type": "artist",
+          "uri": "spotify:artist:0st5vgzw9XkH5ALJiUM1lE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0wxxcA4CEtDkBqYZMCwAvT"
+      },
+      "href": "https://api.spotify.com/v1/albums/0wxxcA4CEtDkBqYZMCwAvT",
+      "id": "0wxxcA4CEtDkBqYZMCwAvT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f8dbc08f9d3fc03465bb30e5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f8dbc08f9d3fc03465bb30e5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f8dbc08f9d3fc03465bb30e5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 13",
+      "release_date": "2018-07-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0wxxcA4CEtDkBqYZMCwAvT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1yPypcCzGULmWNEBNd1NPR"
+      },
+      "href": "https://api.spotify.com/v1/albums/1yPypcCzGULmWNEBNd1NPR",
+      "id": "1yPypcCzGULmWNEBNd1NPR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273716f4beb08fd9793cbe7bf69",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02716f4beb08fd9793cbe7bf69",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851716f4beb08fd9793cbe7bf69",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Radio, Vol. 13",
+      "release_date": "2018-07-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1yPypcCzGULmWNEBNd1NPR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5gwYIvQ7bZKKhua0swujgu"
+      },
+      "href": "https://api.spotify.com/v1/albums/5gwYIvQ7bZKKhua0swujgu",
+      "id": "5gwYIvQ7bZKKhua0swujgu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732384e1a58e93963cb139fea9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022384e1a58e93963cb139fea9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512384e1a58e93963cb139fea9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 12",
+      "release_date": "2018-07-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5gwYIvQ7bZKKhua0swujgu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4WIjLJKPK9MIQPRMmQSp96"
+      },
+      "href": "https://api.spotify.com/v1/albums/4WIjLJKPK9MIQPRMmQSp96",
+      "id": "4WIjLJKPK9MIQPRMmQSp96",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a5579fe91975c9dc7add36b4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a5579fe91975c9dc7add36b4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a5579fe91975c9dc7add36b4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Radio, Vol. 12",
+      "release_date": "2018-07-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4WIjLJKPK9MIQPRMmQSp96",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Oy3o4sgdJykTYh1QfhROH"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Oy3o4sgdJykTYh1QfhROH",
+      "id": "1Oy3o4sgdJykTYh1QfhROH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1b16f00446a54275a8bf4d2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1b16f00446a54275a8bf4d2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c1b16f00446a54275a8bf4d2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 10 (Chopped Not Slopped)",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Oy3o4sgdJykTYh1QfhROH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/09WB9B7MWQl3mMXcscJLQT"
+      },
+      "href": "https://api.spotify.com/v1/albums/09WB9B7MWQl3mMXcscJLQT",
+      "id": "09WB9B7MWQl3mMXcscJLQT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27391b41b5f890e31bf6ad38bd1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0291b41b5f890e31bf6ad38bd1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485191b41b5f890e31bf6ad38bd1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 11",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:09WB9B7MWQl3mMXcscJLQT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5PvebdvpmkMheEvcZIJIhb"
+      },
+      "href": "https://api.spotify.com/v1/albums/5PvebdvpmkMheEvcZIJIhb",
+      "id": "5PvebdvpmkMheEvcZIJIhb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27349db49554704d11f47abd73f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0249db49554704d11f47abd73f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485149db49554704d11f47abd73f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 9",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5PvebdvpmkMheEvcZIJIhb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0nH3zRhRxwKNW6vy1PgKbN"
+      },
+      "href": "https://api.spotify.com/v1/albums/0nH3zRhRxwKNW6vy1PgKbN",
+      "id": "0nH3zRhRxwKNW6vy1PgKbN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734e6629a26cdb4a74e406de12",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024e6629a26cdb4a74e406de12",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514e6629a26cdb4a74e406de12",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 9 (Chopped Not Slopped)",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0nH3zRhRxwKNW6vy1PgKbN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0kGOa3wmnx6GaWOFYNXa8j"
+      },
+      "href": "https://api.spotify.com/v1/albums/0kGOa3wmnx6GaWOFYNXa8j",
+      "id": "0kGOa3wmnx6GaWOFYNXa8j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e92c083caef91bdf8ab3ea2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022e92c083caef91bdf8ab3ea2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512e92c083caef91bdf8ab3ea2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Radio, Vol. 10",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0kGOa3wmnx6GaWOFYNXa8j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7xMeiwGlQlxl8eGkbMFJd3"
+      },
+      "href": "https://api.spotify.com/v1/albums/7xMeiwGlQlxl8eGkbMFJd3",
+      "id": "7xMeiwGlQlxl8eGkbMFJd3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b1def49e4215ef4b834ba0ad",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b1def49e4215ef4b834ba0ad",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b1def49e4215ef4b834ba0ad",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Radio, Vol. 10 (ChopNotSlop)",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7xMeiwGlQlxl8eGkbMFJd3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Bc3ydK9Ed8pAMldzh8rlu"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Bc3ydK9Ed8pAMldzh8rlu",
+      "id": "6Bc3ydK9Ed8pAMldzh8rlu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27301bd33fe649a0e1d3c92232a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0201bd33fe649a0e1d3c92232a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485101bd33fe649a0e1d3c92232a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Radio, Vol. 9",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Bc3ydK9Ed8pAMldzh8rlu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/33YFZhN1ng01zkZAT8qqP1"
+      },
+      "href": "https://api.spotify.com/v1/albums/33YFZhN1ng01zkZAT8qqP1",
+      "id": "33YFZhN1ng01zkZAT8qqP1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27372d0324a144b2aee27c68050",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0272d0324a144b2aee27c68050",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485172d0324a144b2aee27c68050",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Radio, Vol. 9 (ChopNotSlop)",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:33YFZhN1ng01zkZAT8qqP1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3VcRGQCZTCFs0GGqk4NRhF"
+      },
+      "href": "https://api.spotify.com/v1/albums/3VcRGQCZTCFs0GGqk4NRhF",
+      "id": "3VcRGQCZTCFs0GGqk4NRhF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273105ba6fc219f49795a801c3c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02105ba6fc219f49795a801c3c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851105ba6fc219f49795a801c3c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Resolve",
+      "release_date": "2018-06-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3VcRGQCZTCFs0GGqk4NRhF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19WVIq9XOQqW9iFHrftNq5"
+          },
+          "href": "https://api.spotify.com/v1/artists/19WVIq9XOQqW9iFHrftNq5",
+          "id": "19WVIq9XOQqW9iFHrftNq5",
+          "name": "Space Gesus",
+          "type": "artist",
+          "uri": "spotify:artist:19WVIq9XOQqW9iFHrftNq5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/73P5LAZvZquPqD5naqW2Mo"
+      },
+      "href": "https://api.spotify.com/v1/albums/73P5LAZvZquPqD5naqW2Mo",
+      "id": "73P5LAZvZquPqD5naqW2Mo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731bce0a75e1a42451679ff587",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021bce0a75e1a42451679ff587",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511bce0a75e1a42451679ff587",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Drank",
+      "release_date": "2018-02-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:73P5LAZvZquPqD5naqW2Mo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw",
+          "id": "4frXpPxQQZwbCu3eTGnZEw",
+          "name": "Thundercat",
+          "type": "artist",
+          "uri": "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5YU4OseHIYVHCfY47LinoC"
+      },
+      "href": "https://api.spotify.com/v1/albums/5YU4OseHIYVHCfY47LinoC",
+      "id": "5YU4OseHIYVHCfY47LinoC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27353ec4bb85f240ef3375dd481",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0253ec4bb85f240ef3375dd481",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485153ec4bb85f240ef3375dd481",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstar Radio, Vol. 8",
+      "release_date": "2018-01-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5YU4OseHIYVHCfY47LinoC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4HsNJKCL14JdJgx5viHpYd"
+      },
+      "href": "https://api.spotify.com/v1/albums/4HsNJKCL14JdJgx5viHpYd",
+      "id": "4HsNJKCL14JdJgx5viHpYd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1f7ed4bf754d2e51ce0e57a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1f7ed4bf754d2e51ce0e57a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c1f7ed4bf754d2e51ce0e57a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 8",
+      "release_date": "2018-01-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4HsNJKCL14JdJgx5viHpYd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Pei5PRA9kKBkBK6b2G9PB"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Pei5PRA9kKBkBK6b2G9PB",
+      "id": "3Pei5PRA9kKBkBK6b2G9PB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dd20bae829a85ee2ce06352",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021dd20bae829a85ee2ce06352",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511dd20bae829a85ee2ce06352",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 7",
+      "release_date": "2018-01-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Pei5PRA9kKBkBK6b2G9PB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3hHdDjv44b3chhA7a3keO7"
+      },
+      "href": "https://api.spotify.com/v1/albums/3hHdDjv44b3chhA7a3keO7",
+      "id": "3hHdDjv44b3chhA7a3keO7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eaecca15ce39e1f0fadb6b75",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eaecca15ce39e1f0fadb6b75",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eaecca15ce39e1f0fadb6b75",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 7",
+      "release_date": "2018-01-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3hHdDjv44b3chhA7a3keO7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7rcuJreymAZM9jHHF5qTHt"
+      },
+      "href": "https://api.spotify.com/v1/albums/7rcuJreymAZM9jHHF5qTHt",
+      "id": "7rcuJreymAZM9jHHF5qTHt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27355e8a4f0581f44006a10f40a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0255e8a4f0581f44006a10f40a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485155e8a4f0581f44006a10f40a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ChopStars Radio, Vol. 6 (ChopNotSlop Remix)",
+      "release_date": "2017-12-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7rcuJreymAZM9jHHF5qTHt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5JhDbSTyqQ0k9DI00aGF4U"
+      },
+      "href": "https://api.spotify.com/v1/albums/5JhDbSTyqQ0k9DI00aGF4U",
+      "id": "5JhDbSTyqQ0k9DI00aGF4U",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27352805529a09db88bfc9295ac",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0252805529a09db88bfc9295ac",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485152805529a09db88bfc9295ac",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 6",
+      "release_date": "2017-12-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5JhDbSTyqQ0k9DI00aGF4U",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6LQmFnvlyO5q7gYRA8AqkI"
+      },
+      "href": "https://api.spotify.com/v1/albums/6LQmFnvlyO5q7gYRA8AqkI",
+      "id": "6LQmFnvlyO5q7gYRA8AqkI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1cf59ecda8573abef0fec8d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1cf59ecda8573abef0fec8d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c1cf59ecda8573abef0fec8d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 6",
+      "release_date": "2017-12-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6LQmFnvlyO5q7gYRA8AqkI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5eUXbmNC0qS3sf0MAY6l1L"
+      },
+      "href": "https://api.spotify.com/v1/albums/5eUXbmNC0qS3sf0MAY6l1L",
+      "id": "5eUXbmNC0qS3sf0MAY6l1L",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27395b82fc52df22364a1193ee9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0295b82fc52df22364a1193ee9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485195b82fc52df22364a1193ee9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ChopStas Radio, Vol. 5 (ChopNotSlop Remix)",
+      "release_date": "2017-11-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5eUXbmNC0qS3sf0MAY6l1L",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/58ij2asio6aKdoMss5uxY8"
+      },
+      "href": "https://api.spotify.com/v1/albums/58ij2asio6aKdoMss5uxY8",
+      "id": "58ij2asio6aKdoMss5uxY8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a4187224915d4a72a4a93b1b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4187224915d4a72a4a93b1b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a4187224915d4a72a4a93b1b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 5",
+      "release_date": "2017-11-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:58ij2asio6aKdoMss5uxY8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WlFxiIH4CiE9bxqgpxZ3H"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WlFxiIH4CiE9bxqgpxZ3H",
+      "id": "5WlFxiIH4CiE9bxqgpxZ3H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27331b8f01829159b55c182965e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0231b8f01829159b55c182965e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485131b8f01829159b55c182965e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 5",
+      "release_date": "2017-11-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WlFxiIH4CiE9bxqgpxZ3H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zc91i8PAsuqGSA19FK0Ch"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zc91i8PAsuqGSA19FK0Ch",
+      "id": "6zc91i8PAsuqGSA19FK0Ch",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ea2d882e2a46fffef33e86d7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ea2d882e2a46fffef33e86d7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ea2d882e2a46fffef33e86d7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ChopStars Radio, Vol. 4 (ChopNotSlop Remix)",
+      "release_date": "2017-11-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6zc91i8PAsuqGSA19FK0Ch",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1XbSyR6bh1Rxct7DrCmQul"
+      },
+      "href": "https://api.spotify.com/v1/albums/1XbSyR6bh1Rxct7DrCmQul",
+      "id": "1XbSyR6bh1Rxct7DrCmQul",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c8d73e924579f3b7530eae5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028c8d73e924579f3b7530eae5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518c8d73e924579f3b7530eae5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 4",
+      "release_date": "2017-11-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1XbSyR6bh1Rxct7DrCmQul",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/73AturPboIFikwOtlgaUhb"
+      },
+      "href": "https://api.spotify.com/v1/albums/73AturPboIFikwOtlgaUhb",
+      "id": "73AturPboIFikwOtlgaUhb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27399237fc4dd4a8a50d83606bc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0299237fc4dd4a8a50d83606bc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485199237fc4dd4a8a50d83606bc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 4",
+      "release_date": "2017-11-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:73AturPboIFikwOtlgaUhb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1pFut5j0UyjwcgrZ6pV6Nc"
+      },
+      "href": "https://api.spotify.com/v1/albums/1pFut5j0UyjwcgrZ6pV6Nc",
+      "id": "1pFut5j0UyjwcgrZ6pV6Nc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a62e3c8a33fdb632e2443294",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a62e3c8a33fdb632e2443294",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a62e3c8a33fdb632e2443294",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MacGregor Park (ChopNotSlop Remix)",
+      "release_date": "2017-10-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1pFut5j0UyjwcgrZ6pV6Nc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4T5zNnMkfO7fv5OwWn7NaY"
+      },
+      "href": "https://api.spotify.com/v1/albums/4T5zNnMkfO7fv5OwWn7NaY",
+      "id": "4T5zNnMkfO7fv5OwWn7NaY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27329ce03d4c293da5ad4cc569e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0229ce03d4c293da5ad4cc569e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485129ce03d4c293da5ad4cc569e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lorraine Motel (ChopNotSlop Remix)",
+      "release_date": "2017-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4T5zNnMkfO7fv5OwWn7NaY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uzlfGNw35ha8bszBDhKy7"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uzlfGNw35ha8bszBDhKy7",
+          "id": "0uzlfGNw35ha8bszBDhKy7",
+          "name": "Killa Kyleon",
+          "type": "artist",
+          "uri": "spotify:artist:0uzlfGNw35ha8bszBDhKy7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7wNbIJvFRdMGtfn7FfhNhY"
+      },
+      "href": "https://api.spotify.com/v1/albums/7wNbIJvFRdMGtfn7FfhNhY",
+      "id": "7wNbIJvFRdMGtfn7FfhNhY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d2e7d20e3028fc0f9cce65bf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d2e7d20e3028fc0f9cce65bf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d2e7d20e3028fc0f9cce65bf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ChopStars Radio, Vol. 3 (Chopnotslop Remix) [ChopNotSlop Remix]",
+      "release_date": "2017-09-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7wNbIJvFRdMGtfn7FfhNhY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5QWeWbhI16RSzLGZdsTa4A"
+      },
+      "href": "https://api.spotify.com/v1/albums/5QWeWbhI16RSzLGZdsTa4A",
+      "id": "5QWeWbhI16RSzLGZdsTa4A",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27399ca74e166602c9cdb65ce30",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0299ca74e166602c9cdb65ce30",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485199ca74e166602c9cdb65ce30",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 1",
+      "release_date": "2017-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5QWeWbhI16RSzLGZdsTa4A",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WNlLkFRCQmKWvSWtTVPEn"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WNlLkFRCQmKWvSWtTVPEn",
+      "id": "5WNlLkFRCQmKWvSWtTVPEn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f5c7b40730f3ac4993187861",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f5c7b40730f3ac4993187861",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f5c7b40730f3ac4993187861",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 1 (Chopped Not Slopped)",
+      "release_date": "2017-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WNlLkFRCQmKWvSWtTVPEn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/05rFgrCeLgPzc5aJOjzp9j"
+      },
+      "href": "https://api.spotify.com/v1/albums/05rFgrCeLgPzc5aJOjzp9j",
+      "id": "05rFgrCeLgPzc5aJOjzp9j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27324981298ceb87abe3908a9a6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0224981298ceb87abe3908a9a6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485124981298ceb87abe3908a9a6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 2",
+      "release_date": "2017-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:05rFgrCeLgPzc5aJOjzp9j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/26aQDmGtHJO0SfW4GU7B1p"
+      },
+      "href": "https://api.spotify.com/v1/albums/26aQDmGtHJO0SfW4GU7B1p",
+      "id": "26aQDmGtHJO0SfW4GU7B1p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b24ad1756119b9f6518ff602",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b24ad1756119b9f6518ff602",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b24ad1756119b9f6518ff602",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 2",
+      "release_date": "2017-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:26aQDmGtHJO0SfW4GU7B1p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0S3R1pSByRQgTP4ClKe00u"
+      },
+      "href": "https://api.spotify.com/v1/albums/0S3R1pSByRQgTP4ClKe00u",
+      "id": "0S3R1pSByRQgTP4ClKe00u",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eadf3ee4dafcfebef5ea22d0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eadf3ee4dafcfebef5ea22d0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eadf3ee4dafcfebef5ea22d0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars Radio, Vol. 2 (Chopped Not Slopped)",
+      "release_date": "2017-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0S3R1pSByRQgTP4ClKe00u",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1flnYYrdMqrzdi6XarXuJW",
+          "id": "1flnYYrdMqrzdi6XarXuJW",
+          "name": "The Chopstars",
+          "type": "artist",
+          "uri": "spotify:artist:1flnYYrdMqrzdi6XarXuJW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1g4M79nwKQYW4qDbXtK9e0"
+      },
+      "href": "https://api.spotify.com/v1/albums/1g4M79nwKQYW4qDbXtK9e0",
+      "id": "1g4M79nwKQYW4qDbXtK9e0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a096889a4182d2c3c8133c47",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a096889a4182d2c3c8133c47",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a096889a4182d2c3c8133c47",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chopstars, Vol. 2 (Chopped Not Slopped)",
+      "release_date": "2017-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1g4M79nwKQYW4qDbXtK9e0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    }
+  ]
+}

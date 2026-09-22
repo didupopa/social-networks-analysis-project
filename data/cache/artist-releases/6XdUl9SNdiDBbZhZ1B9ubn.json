@@ -1,0 +1,106 @@
+{
+  "artist_id": "6XdUl9SNdiDBbZhZ1B9ubn",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6B24jxmJOdRTaBbjElCBxQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/6B24jxmJOdRTaBbjElCBxQ",
+      "id": "6B24jxmJOdRTaBbjElCBxQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8624abeb694b510056c0a2f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8624abeb694b510056c0a2f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a8624abeb694b510056c0a2f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Greasy, Like Corn On The Cob, Mad Butter and Onion Rings",
+      "release_date": "2021-10-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6B24jxmJOdRTaBbjElCBxQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XdUl9SNdiDBbZhZ1B9ubn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XdUl9SNdiDBbZhZ1B9ubn",
+          "id": "6XdUl9SNdiDBbZhZ1B9ubn",
+          "name": "Chew Fu",
+          "type": "artist",
+          "uri": "spotify:artist:6XdUl9SNdiDBbZhZ1B9ubn"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2LGTxj1JxYUWZmXejoRIfL"
+      },
+      "href": "https://api.spotify.com/v1/albums/2LGTxj1JxYUWZmXejoRIfL",
+      "id": "2LGTxj1JxYUWZmXejoRIfL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e300296d9bdda2a1f70ba413",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e300296d9bdda2a1f70ba413",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e300296d9bdda2a1f70ba413",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sex O'clock (The Remixes)",
+      "release_date": "2015-02-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2LGTxj1JxYUWZmXejoRIfL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7yTMLrr35iDUwaAbsXkIpo"
+          },
+          "href": "https://api.spotify.com/v1/artists/7yTMLrr35iDUwaAbsXkIpo",
+          "id": "7yTMLrr35iDUwaAbsXkIpo",
+          "name": "Breedlove",
+          "type": "artist",
+          "uri": "spotify:artist:7yTMLrr35iDUwaAbsXkIpo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XdUl9SNdiDBbZhZ1B9ubn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XdUl9SNdiDBbZhZ1B9ubn",
+          "id": "6XdUl9SNdiDBbZhZ1B9ubn",
+          "name": "Chew Fu",
+          "type": "artist",
+          "uri": "spotify:artist:6XdUl9SNdiDBbZhZ1B9ubn"
+        }
+      ]
+    }
+  ]
+}

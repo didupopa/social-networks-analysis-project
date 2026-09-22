@@ -1,0 +1,903 @@
+{
+  "album_id": "7kQHV1Onzl869swTQVHVqQ",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xFFhK1VYJZ4P6xetMYDWN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xFFhK1VYJZ4P6xetMYDWN",
+          "id": "5xFFhK1VYJZ4P6xetMYDWN",
+          "name": "Roscoe",
+          "type": "artist",
+          "uri": "spotify:artist:5xFFhK1VYJZ4P6xetMYDWN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vdUVX58YIYBqMIHegBLCc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vdUVX58YIYBqMIHegBLCc",
+      "id": "2vdUVX58YIYBqMIHegBLCc",
+      "name": "I Call Shots",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2vdUVX58YIYBqMIHegBLCc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id": "4tujQJicOnuZRLiBFdp3Ou",
+          "name": "Xzibit",
+          "type": "artist",
+          "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 143133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3VsXjp1BzgDaBV4j6K7shp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3VsXjp1BzgDaBV4j6K7shp",
+      "id": "3VsXjp1BzgDaBV4j6K7shp",
+      "name": "Loose Cannons",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3VsXjp1BzgDaBV4j6K7shp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/44iozutKALNkjNsTF7K48j"
+          },
+          "href": "https://api.spotify.com/v1/artists/44iozutKALNkjNsTF7K48j",
+          "id": "44iozutKALNkjNsTF7K48j",
+          "name": "Blaqthoven",
+          "type": "artist",
+          "uri": "spotify:artist:44iozutKALNkjNsTF7K48j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SNgjgfHoN3G4iU38n8lQ4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SNgjgfHoN3G4iU38n8lQ4",
+          "id": "3SNgjgfHoN3G4iU38n8lQ4",
+          "name": "BadAss",
+          "type": "artist",
+          "uri": "spotify:artist:3SNgjgfHoN3G4iU38n8lQ4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261173,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Q9QGamJUf6y6DU0MJ8jBd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Q9QGamJUf6y6DU0MJ8jBd",
+      "id": "3Q9QGamJUf6y6DU0MJ8jBd",
+      "name": "Who Ride Wit Us",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3Q9QGamJUf6y6DU0MJ8jBd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bqBpcIABLyrGD6e6llQ1S"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bqBpcIABLyrGD6e6llQ1S",
+          "id": "0bqBpcIABLyrGD6e6llQ1S",
+          "name": "Tray Dee",
+          "type": "artist",
+          "uri": "spotify:artist:0bqBpcIABLyrGD6e6llQ1S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3b93EtlrQdE2JqcOctaALD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3b93EtlrQdE2JqcOctaALD",
+          "id": "3b93EtlrQdE2JqcOctaALD",
+          "name": "Jay O",
+          "type": "artist",
+          "uri": "spotify:artist:3b93EtlrQdE2JqcOctaALD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3764RD70VvAcIVKdDvgqQF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3764RD70VvAcIVKdDvgqQF",
+          "id": "3764RD70VvAcIVKdDvgqQF",
+          "name": "Priest \"Soopafly\" Brooks",
+          "type": "artist",
+          "uri": "spotify:artist:3764RD70VvAcIVKdDvgqQF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3uISNNuONokIh21KiNharS",
+          "id": "3uISNNuONokIh21KiNharS",
+          "name": "Butch Cassidy",
+          "type": "artist",
+          "uri": "spotify:artist:3uISNNuONokIh21KiNharS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 306466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/79MkICDim0ROZ6IhUjSpVi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/79MkICDim0ROZ6IhUjSpVi",
+      "id": "79MkICDim0ROZ6IhUjSpVi",
+      "name": "Represent Dat G.C.",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:79MkICDim0ROZ6IhUjSpVi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7eBboOKTqCLqE6LA2WuMYm"
+          },
+          "href": "https://api.spotify.com/v1/artists/7eBboOKTqCLqE6LA2WuMYm",
+          "id": "7eBboOKTqCLqE6LA2WuMYm",
+          "name": "LaToya Williams",
+          "type": "artist",
+          "uri": "spotify:artist:7eBboOKTqCLqE6LA2WuMYm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NtgNhGJGzw1fyZAw3SoQ8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NtgNhGJGzw1fyZAw3SoQ8",
+      "id": "4NtgNhGJGzw1fyZAw3SoQ8",
+      "name": "Welcome Home",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4NtgNhGJGzw1fyZAw3SoQ8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HDGLEA1SEDB0kvSPqn4aO"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HDGLEA1SEDB0kvSPqn4aO",
+          "id": "0HDGLEA1SEDB0kvSPqn4aO",
+          "name": "Nivea Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:0HDGLEA1SEDB0kvSPqn4aO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rWUE3CrkiZEOvqe7KHe0s"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rWUE3CrkiZEOvqe7KHe0s",
+          "id": "4rWUE3CrkiZEOvqe7KHe0s",
+          "name": "Shawn Grove",
+          "type": "artist",
+          "uri": "spotify:artist:4rWUE3CrkiZEOvqe7KHe0s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kC8pQQcljCEFD8O2B8z4r"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kC8pQQcljCEFD8O2B8z4r",
+          "id": "4kC8pQQcljCEFD8O2B8z4r",
+          "name": "Skinny Miracles",
+          "type": "artist",
+          "uri": "spotify:artist:4kC8pQQcljCEFD8O2B8z4r"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0KypbUS7jeqQ4PJOU6Jxtf"
+          },
+          "href": "https://api.spotify.com/v1/artists/0KypbUS7jeqQ4PJOU6Jxtf",
+          "id": "0KypbUS7jeqQ4PJOU6Jxtf",
+          "name": "Niva",
+          "type": "artist",
+          "uri": "spotify:artist:0KypbUS7jeqQ4PJOU6Jxtf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1CMvsxcx7UtObPClwQzlUP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1CMvsxcx7UtObPClwQzlUP",
+      "id": "1CMvsxcx7UtObPClwQzlUP",
+      "name": "Tequila",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1CMvsxcx7UtObPClwQzlUP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 135506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28LskEUYL0n7iMmPf4I2Cg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/28LskEUYL0n7iMmPf4I2Cg",
+      "id": "28LskEUYL0n7iMmPf4I2Cg",
+      "name": "Trylogy",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:28LskEUYL0n7iMmPf4I2Cg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bqBpcIABLyrGD6e6llQ1S"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bqBpcIABLyrGD6e6llQ1S",
+          "id": "0bqBpcIABLyrGD6e6llQ1S",
+          "name": "Tray Dee",
+          "type": "artist",
+          "uri": "spotify:artist:0bqBpcIABLyrGD6e6llQ1S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+          },
+          "href": "https://api.spotify.com/v1/artists/2B4ZHz4QDWJTXPFPgO5peE",
+          "id": "2B4ZHz4QDWJTXPFPgO5peE",
+          "name": "Warren G",
+          "type": "artist",
+          "uri": "spotify:artist:2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3764RD70VvAcIVKdDvgqQF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3764RD70VvAcIVKdDvgqQF",
+          "id": "3764RD70VvAcIVKdDvgqQF",
+          "name": "Priest \"Soopafly\" Brooks",
+          "type": "artist",
+          "uri": "spotify:artist:3764RD70VvAcIVKdDvgqQF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4HFUWx6MDdU8u2j3FOQ48V"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4HFUWx6MDdU8u2j3FOQ48V",
+      "id": "4HFUWx6MDdU8u2j3FOQ48V",
+      "name": "Neva Gonna Give It Up",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4HFUWx6MDdU8u2j3FOQ48V",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59smjaVZ2GBua50zuMQdVB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/59smjaVZ2GBua50zuMQdVB",
+      "id": "59smjaVZ2GBua50zuMQdVB",
+      "name": "Tha Streetz Iz A Mutha",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:59smjaVZ2GBua50zuMQdVB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172626,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0j2lCrceEtq5fosGKIKMZm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0j2lCrceEtq5fosGKIKMZm",
+      "id": "0j2lCrceEtq5fosGKIKMZm",
+      "name": "Ya Can't Trust Nobody",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0j2lCrceEtq5fosGKIKMZm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7eBboOKTqCLqE6LA2WuMYm"
+          },
+          "href": "https://api.spotify.com/v1/artists/7eBboOKTqCLqE6LA2WuMYm",
+          "id": "7eBboOKTqCLqE6LA2WuMYm",
+          "name": "LaToya Williams",
+          "type": "artist",
+          "uri": "spotify:artist:7eBboOKTqCLqE6LA2WuMYm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bqBpcIABLyrGD6e6llQ1S"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bqBpcIABLyrGD6e6llQ1S",
+          "id": "0bqBpcIABLyrGD6e6llQ1S",
+          "name": "Tray Dee",
+          "type": "artist",
+          "uri": "spotify:artist:0bqBpcIABLyrGD6e6llQ1S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3764RD70VvAcIVKdDvgqQF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3764RD70VvAcIVKdDvgqQF",
+          "id": "3764RD70VvAcIVKdDvgqQF",
+          "name": "Priest \"Soopafly\" Brooks",
+          "type": "artist",
+          "uri": "spotify:artist:3764RD70VvAcIVKdDvgqQF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 287333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ASaVwnvT1O5FXQ5IYWuD3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ASaVwnvT1O5FXQ5IYWuD3",
+      "id": "7ASaVwnvT1O5FXQ5IYWuD3",
+      "name": "It Ain't About You",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7ASaVwnvT1O5FXQ5IYWuD3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xFFhK1VYJZ4P6xetMYDWN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xFFhK1VYJZ4P6xetMYDWN",
+          "id": "5xFFhK1VYJZ4P6xetMYDWN",
+          "name": "Roscoe",
+          "type": "artist",
+          "uri": "spotify:artist:5xFFhK1VYJZ4P6xetMYDWN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Z7mzqSik40hPKbOeUHMIB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Z7mzqSik40hPKbOeUHMIB",
+      "id": "4Z7mzqSik40hPKbOeUHMIB",
+      "name": "Girls All Pause",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4Z7mzqSik40hPKbOeUHMIB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 247066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7p0AojooC5haJZM3IFebMv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7p0AojooC5haJZM3IFebMv",
+      "id": "7p0AojooC5haJZM3IFebMv",
+      "name": "Your Gyrl Friend",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:7p0AojooC5haJZM3IFebMv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7",
+          "name": "Dr. Dre",
+          "type": "artist",
+          "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+          "id": "3np2OYRZAgI4e6lxeGmGr8",
+          "name": "Hittman",
+          "type": "artist",
+          "uri": "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284106,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0WzbNHlRedvxFWzegChwJc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0WzbNHlRedvxFWzegChwJc",
+      "id": "0WzbNHlRedvxFWzegChwJc",
+      "name": "Ho's A Housewife",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0WzbNHlRedvxFWzegChwJc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xah6FnJ2N7gEeI5mbvMvC"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Xah6FnJ2N7gEeI5mbvMvC",
+          "id": "1Xah6FnJ2N7gEeI5mbvMvC",
+          "name": "Baby S",
+          "type": "artist",
+          "uri": "spotify:artist:1Xah6FnJ2N7gEeI5mbvMvC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
+          },
+          "href": "https://api.spotify.com/v1/artists/6fFfnKGVI6X3lkCr8Qw1g1",
+          "id": "6fFfnKGVI6X3lkCr8Qw1g1",
+          "name": "KXNG Crooked",
+          "type": "artist",
+          "uri": "spotify:artist:6fFfnKGVI6X3lkCr8Qw1g1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277733,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3FXf5aCYcsoEvi8j3V2Y3b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3FXf5aCYcsoEvi8j3V2Y3b",
+      "id": "3FXf5aCYcsoEvi8j3V2Y3b",
+      "name": "I Ain't Shit Without My Homeboyz",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3FXf5aCYcsoEvi8j3V2Y3b",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oywmZ7vl6A3bQPTsN66Rm",
+          "id": "0oywmZ7vl6A3bQPTsN66Rm",
+          "name": "DJ Battlecat",
+          "type": "artist",
+          "uri": "spotify:artist:0oywmZ7vl6A3bQPTsN66Rm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
+          },
+          "href": "https://api.spotify.com/v1/artists/6fFfnKGVI6X3lkCr8Qw1g1",
+          "id": "6fFfnKGVI6X3lkCr8Qw1g1",
+          "name": "KXNG Crooked",
+          "type": "artist",
+          "uri": "spotify:artist:6fFfnKGVI6X3lkCr8Qw1g1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id": "4tujQJicOnuZRLiBFdp3Ou",
+          "name": "Xzibit",
+          "type": "artist",
+          "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 293093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ywXvKoyYKpfT7mq133pEv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ywXvKoyYKpfT7mq133pEv",
+      "id": "6ywXvKoyYKpfT7mq133pEv",
+      "name": "Step Up",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6ywXvKoyYKpfT7mq133pEv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+          "id": "2gINJ8xw86xawPyGvx1bla",
+          "name": "KRS-One",
+          "type": "artist",
+          "uri": "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 328306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mF0K0KXjrsIrhZpq0ScoY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1mF0K0KXjrsIrhZpq0ScoY",
+      "id": "1mF0K0KXjrsIrhZpq0ScoY",
+      "name": "Live On The Mic",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:1mF0K0KXjrsIrhZpq0ScoY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id": "4tujQJicOnuZRLiBFdp3Ou",
+          "name": "Xzibit",
+          "type": "artist",
+          "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4WvWg9Wzeknes6hSu0tGL1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4WvWg9Wzeknes6hSu0tGL1",
+      "id": "4WvWg9Wzeknes6hSu0tGL1",
+      "name": "Calling Out Names",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4WvWg9Wzeknes6hSu0tGL1",
+      "is_local": false
+    }
+  ]
+}

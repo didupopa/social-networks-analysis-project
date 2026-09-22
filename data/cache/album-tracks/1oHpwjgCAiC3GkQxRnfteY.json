@@ -1,0 +1,769 @@
+{
+  "album_id": "1oHpwjgCAiC3GkQxRnfteY",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5yPzzu25VzEk8qrGTLIrE1",
+          "id": "5yPzzu25VzEk8qrGTLIrE1",
+          "name": "Young Nudy",
+          "type": "artist",
+          "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2H03Z2yYmmzztZT82JRtrn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2H03Z2yYmmzztZT82JRtrn",
+          "id": "2H03Z2yYmmzztZT82JRtrn",
+          "name": "SlickLaFlare",
+          "type": "artist",
+          "uri": "spotify:artist:2H03Z2yYmmzztZT82JRtrn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2FctLLWbYFdu4VDxgZ5jgT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2FctLLWbYFdu4VDxgZ5jgT",
+      "id": "2FctLLWbYFdu4VDxgZ5jgT",
+      "name": "Boujee Bitches (feat. Young Nudy, SlickLaFlare)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2FctLLWbYFdu4VDxgZ5jgT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IjT5tY6VFilG6TqDKFKMV"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IjT5tY6VFilG6TqDKFKMV",
+          "id": "4IjT5tY6VFilG6TqDKFKMV",
+          "name": "Seddy Hendrix",
+          "type": "artist",
+          "uri": "spotify:artist:4IjT5tY6VFilG6TqDKFKMV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252474,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QuL5eukNKcQZWwfbN3fD7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QuL5eukNKcQZWwfbN3fD7",
+      "id": "5QuL5eukNKcQZWwfbN3fD7",
+      "name": "Cheap Phone (feat. Seddy Hendrix)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5QuL5eukNKcQZWwfbN3fD7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 83354,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3attuVwf9VaN9DTQgmn6An"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3attuVwf9VaN9DTQgmn6An",
+      "id": "3attuVwf9VaN9DTQgmn6An",
+      "name": "Benz Freestyle",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3attuVwf9VaN9DTQgmn6An",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JvU33PZ8MtZyeFTESr09O",
+          "id": "6JvU33PZ8MtZyeFTESr09O",
+          "name": "Kap G",
+          "type": "artist",
+          "uri": "spotify:artist:6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 157500,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fer4SUpwCtdDFLsbRbX3v"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fer4SUpwCtdDFLsbRbX3v",
+      "id": "6fer4SUpwCtdDFLsbRbX3v",
+      "name": "Phipps Plaza (feat. Kap G)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6fer4SUpwCtdDFLsbRbX3v",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 149621,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4bsgZsAKBSZO3xVvETQ5EA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4bsgZsAKBSZO3xVvETQ5EA",
+      "id": "4bsgZsAKBSZO3xVvETQ5EA",
+      "name": "Selfies",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4bsgZsAKBSZO3xVvETQ5EA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bgfj5zUoWpyeVatGDjn6H",
+          "id": "5bgfj5zUoWpyeVatGDjn6H",
+          "name": "K CAMP",
+          "type": "artist",
+          "uri": "spotify:artist:5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2H03Z2yYmmzztZT82JRtrn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2H03Z2yYmmzztZT82JRtrn",
+          "id": "2H03Z2yYmmzztZT82JRtrn",
+          "name": "SlickLaFlare",
+          "type": "artist",
+          "uri": "spotify:artist:2H03Z2yYmmzztZT82JRtrn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5SyGEPymt1G2uto47tVWvZ",
+          "id": "5SyGEPymt1G2uto47tVWvZ",
+          "name": "MadeinTYO",
+          "type": "artist",
+          "uri": "spotify:artist:5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215258,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yU3We9MqUE9kG7YEPgGOn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yU3We9MqUE9kG7YEPgGOn",
+      "id": "5yU3We9MqUE9kG7YEPgGOn",
+      "name": "Candy Shop (feat. MadeinTYO, SlickLaFlare)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5yU3We9MqUE9kG7YEPgGOn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nhrSIBO7uf6WWFkmkrQkf"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nhrSIBO7uf6WWFkmkrQkf",
+          "id": "6nhrSIBO7uf6WWFkmkrQkf",
+          "name": "Guap Tarantino",
+          "type": "artist",
+          "uri": "spotify:artist:6nhrSIBO7uf6WWFkmkrQkf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gZzlLNQJuNWj2EIqtnZNd"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gZzlLNQJuNWj2EIqtnZNd",
+          "id": "1gZzlLNQJuNWj2EIqtnZNd",
+          "name": "CashOnly",
+          "type": "artist",
+          "uri": "spotify:artist:1gZzlLNQJuNWj2EIqtnZNd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232746,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2GYHSSdYcEJna7JnTouF3r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2GYHSSdYcEJna7JnTouF3r",
+      "id": "2GYHSSdYcEJna7JnTouF3r",
+      "name": "Birthday (feat. Guap Tarantino, CashOnly)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2GYHSSdYcEJna7JnTouF3r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160512,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4oigMQxfhoOYDM7QYjWLxB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4oigMQxfhoOYDM7QYjWLxB",
+      "id": "4oigMQxfhoOYDM7QYjWLxB",
+      "name": "OTW",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4oigMQxfhoOYDM7QYjWLxB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
+          },
+          "href": "https://api.spotify.com/v1/artists/6POMCYQE1sq1BJ8FnAvTA8",
+          "id": "6POMCYQE1sq1BJ8FnAvTA8",
+          "name": "Nessly",
+          "type": "artist",
+          "uri": "spotify:artist:6POMCYQE1sq1BJ8FnAvTA8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181882,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6a7knVjZdwA3QIlGa1Xxki"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6a7knVjZdwA3QIlGa1Xxki",
+      "id": "6a7knVjZdwA3QIlGa1Xxki",
+      "name": "Love Atlanta (feat. Nessly)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6a7knVjZdwA3QIlGa1Xxki",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bgfj5zUoWpyeVatGDjn6H",
+          "id": "5bgfj5zUoWpyeVatGDjn6H",
+          "name": "K CAMP",
+          "type": "artist",
+          "uri": "spotify:artist:5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2H03Z2yYmmzztZT82JRtrn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2H03Z2yYmmzztZT82JRtrn",
+          "id": "2H03Z2yYmmzztZT82JRtrn",
+          "name": "SlickLaFlare",
+          "type": "artist",
+          "uri": "spotify:artist:2H03Z2yYmmzztZT82JRtrn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177498,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4s4ZbQFOxJDeqArf4Zz1CZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4s4ZbQFOxJDeqArf4Zz1CZ",
+      "id": "4s4ZbQFOxJDeqArf4Zz1CZ",
+      "name": "Pass Em Round (feat. K Camp, SlickLaFlare)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4s4ZbQFOxJDeqArf4Zz1CZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 100810,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3S5iOOF6ZWv7npwGE4XNfi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3S5iOOF6ZWv7npwGE4XNfi",
+      "id": "3S5iOOF6ZWv7npwGE4XNfi",
+      "name": "Hang Onto Me",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3S5iOOF6ZWv7npwGE4XNfi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iaZOlGG0PTqhN8qTM2qaD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iaZOlGG0PTqhN8qTM2qaD",
+          "id": "2iaZOlGG0PTqhN8qTM2qaD",
+          "name": "K Swisha",
+          "type": "artist",
+          "uri": "spotify:artist:2iaZOlGG0PTqhN8qTM2qaD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 141770,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2UWEL8zWsw8ryeOrBUpKt1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2UWEL8zWsw8ryeOrBUpKt1",
+      "id": "2UWEL8zWsw8ryeOrBUpKt1",
+      "name": "Content (feat. Wiz Khalifa, K Swisha)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2UWEL8zWsw8ryeOrBUpKt1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          },
+          "href": "https://api.spotify.com/v1/artists/5einkgXXrjhfYCyac1FANB",
+          "id": "5einkgXXrjhfYCyac1FANB",
+          "name": "Lil Scrappy",
+          "type": "artist",
+          "uri": "spotify:artist:5einkgXXrjhfYCyac1FANB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2AJwnQkzOh4Qg2ldxY8J1U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2AJwnQkzOh4Qg2ldxY8J1U",
+      "id": "2AJwnQkzOh4Qg2ldxY8J1U",
+      "name": "Check Da Mail (feat. Lil Scrappy)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2AJwnQkzOh4Qg2ldxY8J1U",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 138746,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Is76mkaehOGPbVzNuNcIy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Is76mkaehOGPbVzNuNcIy",
+      "id": "6Is76mkaehOGPbVzNuNcIy",
+      "name": "Freddy",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6Is76mkaehOGPbVzNuNcIy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219442,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1riDWFdyKhXY8FLdrvPlb9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1riDWFdyKhXY8FLdrvPlb9",
+      "id": "1riDWFdyKhXY8FLdrvPlb9",
+      "name": "Superstar",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1riDWFdyKhXY8FLdrvPlb9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/4isewEHTP7Az2QheDdBQ6J",
+          "id": "4isewEHTP7Az2QheDdBQ6J",
+          "name": "24hrs",
+          "type": "artist",
+          "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          },
+          "href": "https://api.spotify.com/v1/artists/5oNgAs7j5XcBMzWv3HAnHG",
+          "id": "5oNgAs7j5XcBMzWv3HAnHG",
+          "name": "DJ Drama",
+          "type": "artist",
+          "uri": "spotify:artist:5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2H03Z2yYmmzztZT82JRtrn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2H03Z2yYmmzztZT82JRtrn",
+          "id": "2H03Z2yYmmzztZT82JRtrn",
+          "name": "SlickLaFlare",
+          "type": "artist",
+          "uri": "spotify:artist:2H03Z2yYmmzztZT82JRtrn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163522,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7rF35Gn5SFQKvOT3qYK49w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7rF35Gn5SFQKvOT3qYK49w",
+      "id": "7rF35Gn5SFQKvOT3qYK49w",
+      "name": "Curtis Snow (feat. SlickLaFlare)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:7rF35Gn5SFQKvOT3qYK49w",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "artist_id": "1Oa0bMld0A3u5OTYfMzp5h",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zuUdzjhJbLJLf2wGJEcFq"
+      },
+      "href": "https://api.spotify.com/v1/albums/5zuUdzjhJbLJLf2wGJEcFq",
+      "id": "5zuUdzjhJbLJLf2wGJEcFq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737a6f010513cb873940a751be",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027a6f010513cb873940a751be",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517a6f010513cb873940a751be",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Still Together",
+      "release_date": "2019-08-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5zuUdzjhJbLJLf2wGJEcFq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+          },
+          "href": "https://api.spotify.com/v1/artists/2B4ZHz4QDWJTXPFPgO5peE",
+          "id": "2B4ZHz4QDWJTXPFPgO5peE",
+          "name": "Warren G",
+          "type": "artist",
+          "uri": "spotify:artist:2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7KWH3BXW7Umo93uOAdSv0R"
+      },
+      "href": "https://api.spotify.com/v1/albums/7KWH3BXW7Umo93uOAdSv0R",
+      "id": "7KWH3BXW7Umo93uOAdSv0R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a620029161b03d2815693006",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a620029161b03d2815693006",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a620029161b03d2815693006",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "There Will Never Be Another Nate Dogg",
+      "release_date": "2018-08-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7KWH3BXW7Umo93uOAdSv0R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/52JCc4dN1K02gO5XGdaxmu"
+      },
+      "href": "https://api.spotify.com/v1/albums/52JCc4dN1K02gO5XGdaxmu",
+      "id": "52JCc4dN1K02gO5XGdaxmu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab1801265455a143f397fe74",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab1801265455a143f397fe74",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ab1801265455a143f397fe74",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "No Matter Where I Go",
+      "release_date": "2016-04-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:52JCc4dN1K02gO5XGdaxmu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ZzHqyeQGSflmKMndyNxYH"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ZzHqyeQGSflmKMndyNxYH",
+      "id": "6ZzHqyeQGSflmKMndyNxYH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273005ab409fde5da2a9e4b776d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02005ab409fde5da2a9e4b776d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851005ab409fde5da2a9e4b776d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Prodigal Son (Digitally Remastered)",
+      "release_date": "2015-05-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ZzHqyeQGSflmKMndyNxYH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ZnyBuM29ICNdJBgfukyWl"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ZnyBuM29ICNdJBgfukyWl",
+      "id": "4ZnyBuM29ICNdJBgfukyWl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273af1fc861e6fb97a5b5c42569",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02af1fc861e6fb97a5b5c42569",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851af1fc861e6fb97a5b5c42569",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ghetto Preacher (Digitally Remastered)",
+      "release_date": "2015-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ZnyBuM29ICNdJBgfukyWl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ywcaC1ZZbg4Zpj18DPIam"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ywcaC1ZZbg4Zpj18DPIam",
+      "id": "5ywcaC1ZZbg4Zpj18DPIam",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dcc39f6b91ca2087d62df6c3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dcc39f6b91ca2087d62df6c3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dcc39f6b91ca2087d62df6c3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The G-Years, Vol. 2",
+      "release_date": "2014-11-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ywcaC1ZZbg4Zpj18DPIam",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7LNDBcMPR5O1riSmyXq91f"
+      },
+      "href": "https://api.spotify.com/v1/albums/7LNDBcMPR5O1riSmyXq91f",
+      "id": "7LNDBcMPR5O1riSmyXq91f",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27390e99a0ee8a8ab1b2bb5811c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0290e99a0ee8a8ab1b2bb5811c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485190e99a0ee8a8ab1b2bb5811c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nate Dogg (The G-Years, Vol. 1)",
+      "release_date": "2014-08-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7LNDBcMPR5O1riSmyXq91f",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4EoJXq8tU5cH64XEQkDZoD"
+      },
+      "href": "https://api.spotify.com/v1/albums/4EoJXq8tU5cH64XEQkDZoD",
+      "id": "4EoJXq8tU5cH64XEQkDZoD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf79c922725467b327d4c9e2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf79c922725467b327d4c9e2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cf79c922725467b327d4c9e2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "G Funk Classics, Vols. 1 & 2",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4EoJXq8tU5cH64XEQkDZoD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1AChEyio9zL7UG4M8aEoSO"
+      },
+      "href": "https://api.spotify.com/v1/albums/1AChEyio9zL7UG4M8aEoSO",
+      "id": "1AChEyio9zL7UG4M8aEoSO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273988e48b8e6b5f63391f7ea1c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02988e48b8e6b5f63391f7ea1c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851988e48b8e6b5f63391f7ea1c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "G-Funk Mix",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1AChEyio9zL7UG4M8aEoSO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
+      },
+      "href": "https://api.spotify.com/v1/albums/1MCA50GzswxscAouRWnrES",
+      "id": "1MCA50GzswxscAouRWnrES",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f481503c07dd81ebfe003c9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029f481503c07dd81ebfe003c9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519f481503c07dd81ebfe003c9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Music and Me",
+      "release_date": "2001-12-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1MCA50GzswxscAouRWnrES",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ]
+    }
+  ]
+}

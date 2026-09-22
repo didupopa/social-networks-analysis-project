@@ -1,0 +1,96 @@
+{
+  "artist_id": "5lzPV4EKWYxEUk38UcFBVH",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5u2plU9Jdl2sHKWKQp2NT8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5u2plU9Jdl2sHKWKQp2NT8",
+      "id": "5u2plU9Jdl2sHKWKQp2NT8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b19f9938adb25b4c3aa0285",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024b19f9938adb25b4c3aa0285",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514b19f9938adb25b4c3aa0285",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tribe",
+      "release_date": "1987-01-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5u2plU9Jdl2sHKWKQp2NT8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lzPV4EKWYxEUk38UcFBVH"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lzPV4EKWYxEUk38UcFBVH",
+          "id": "5lzPV4EKWYxEUk38UcFBVH",
+          "name": "Bernie Taupin",
+          "type": "artist",
+          "uri": "spotify:artist:5lzPV4EKWYxEUk38UcFBVH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7bqLlItOqZF1Nmk1f9xaKB"
+      },
+      "href": "https://api.spotify.com/v1/albums/7bqLlItOqZF1Nmk1f9xaKB",
+      "id": "7bqLlItOqZF1Nmk1f9xaKB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731abc163ce5bb49b322ec7477",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021abc163ce5bb49b322ec7477",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511abc163ce5bb49b322ec7477",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "He Who Rides The Tiger",
+      "release_date": "1980-06-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7bqLlItOqZF1Nmk1f9xaKB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lzPV4EKWYxEUk38UcFBVH"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lzPV4EKWYxEUk38UcFBVH",
+          "id": "5lzPV4EKWYxEUk38UcFBVH",
+          "name": "Bernie Taupin",
+          "type": "artist",
+          "uri": "spotify:artist:5lzPV4EKWYxEUk38UcFBVH"
+        }
+      ]
+    }
+  ]
+}

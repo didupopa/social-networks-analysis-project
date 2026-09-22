@@ -1,0 +1,559 @@
+{
+  "album_id": "6WP2OcxKfKSpZINvLKgTLH",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist",
+          "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GwxXgEc6oxCKQ5wykWXFs",
+          "id": "1GwxXgEc6oxCKQ5wykWXFs",
+          "name": "Prodigy",
+          "type": "artist",
+          "uri": "spotify:artist:1GwxXgEc6oxCKQ5wykWXFs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4LWOizonzWdvRPhEgmbih4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4LWOizonzWdvRPhEgmbih4",
+      "id": "4LWOizonzWdvRPhEgmbih4",
+      "name": "Rotten Apple",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4LWOizonzWdvRPhEgmbih4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ynrj2j9IC0pQlIUEuWVqX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ynrj2j9IC0pQlIUEuWVqX",
+      "id": "5ynrj2j9IC0pQlIUEuWVqX",
+      "name": "Survival",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5ynrj2j9IC0pQlIUEuWVqX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224173,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4kHG84xHJFAcsegdSUbXB8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4kHG84xHJFAcsegdSUbXB8",
+      "id": "4kHG84xHJFAcsegdSUbXB8",
+      "name": "Playboy 2",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4kHG84xHJFAcsegdSUbXB8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3V6WV8np9H3mArWp7NGJIc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3V6WV8np9H3mArWp7NGJIc",
+      "id": "3V6WV8np9H3mArWp7NGJIc",
+      "name": "Cake",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3V6WV8np9H3mArWp7NGJIc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gHcVDC4qfgkmsdPb6OHDn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0gHcVDC4qfgkmsdPb6OHDn",
+      "id": "0gHcVDC4qfgkmsdPb6OHDn",
+      "name": "Make A Move",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0gHcVDC4qfgkmsdPb6OHDn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist",
+          "uri": "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2GlhJyZRWP3MnSXOvnovIa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2GlhJyZRWP3MnSXOvnovIa",
+      "id": "2GlhJyZRWP3MnSXOvnovIa",
+      "name": "Hands Up",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2GlhJyZRWP3MnSXOvnovIa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+          },
+          "href": "https://api.spotify.com/v1/artists/63wjoROpeh5f11Qm93UiJ1",
+          "id": "63wjoROpeh5f11Qm93UiJ1",
+          "name": "Keri Hilson",
+          "type": "artist",
+          "uri": "spotify:artist:63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2d4zccfa2PvIF4dkjRfTD0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2d4zccfa2PvIF4dkjRfTD0",
+      "id": "2d4zccfa2PvIF4dkjRfTD0",
+      "name": "Help",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2d4zccfa2PvIF4dkjRfTD0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kiH8QwJSfcRfV2AfpMN1E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kiH8QwJSfcRfV2AfpMN1E",
+      "id": "0kiH8QwJSfcRfV2AfpMN1E",
+      "name": "Addicted",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0kiH8QwJSfcRfV2AfpMN1E",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+          "id": "3PyWEKLWI0vHPmoNrIX0QE",
+          "name": "Rakim",
+          "type": "artist",
+          "uri": "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6n0UQgY8xR7Bei6SWkz62q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6n0UQgY8xR7Bei6SWkz62q",
+      "id": "6n0UQgY8xR7Bei6SWkz62q",
+      "name": "You Know The Deal",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6n0UQgY8xR7Bei6SWkz62q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          },
+          "href": "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+          "id": "6O2zJ0tId7g07yzHtX0yap",
+          "name": "Mobb Deep",
+          "type": "artist",
+          "uri": "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 301040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5i5Oxf8MgybcyNdnyDcRHF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5i5Oxf8MgybcyNdnyDcRHF",
+      "id": "5i5Oxf8MgybcyNdnyDcRHF",
+      "name": "Get Clapped",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5i5Oxf8MgybcyNdnyDcRHF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6SZTXUVjGxdXZgYvF3SSY4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6SZTXUVjGxdXZgYvF3SSY4",
+      "id": "6SZTXUVjGxdXZgYvF3SSY4",
+      "name": "Stranger",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6SZTXUVjGxdXZgYvF3SSY4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215173,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ZgOPnc0mT44pjC5bynvzS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ZgOPnc0mT44pjC5bynvzS",
+      "id": "6ZgOPnc0mT44pjC5bynvzS",
+      "name": "Change",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6ZgOPnc0mT44pjC5bynvzS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+          },
+          "href": "https://api.spotify.com/v1/artists/50UMTib697JJ44le8DO2Va",
+          "id": "50UMTib697JJ44le8DO2Va",
+          "name": "Tony Yayo",
+          "type": "artist",
+          "uri": "spotify:artist:50UMTib697JJ44le8DO2Va"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/29JrxhfHe2lxiuWPbfln0S"
+      },
+      "href": "https://api.spotify.com/v1/tracks/29JrxhfHe2lxiuWPbfln0S",
+      "id": "29JrxhfHe2lxiuWPbfln0S",
+      "name": "NY NY",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:29JrxhfHe2lxiuWPbfln0S",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aoCuY6OJl2puP2hX6Fal0",
+          "id": "7aoCuY6OJl2puP2hX6Fal0",
+          "name": "Keon Bryce",
+          "type": "artist",
+          "uri": "spotify:artist:7aoCuY6OJl2puP2hX6Fal0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5MVlXbk30JRw4YuAEqxuIC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5MVlXbk30JRw4YuAEqxuIC",
+      "id": "5MVlXbk30JRw4YuAEqxuIC",
+      "name": "One Night Stand",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5MVlXbk30JRw4YuAEqxuIC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+          },
+          "href": "https://api.spotify.com/v1/artists/19KwjzvIL92r29IINtlPNP",
+          "id": "19KwjzvIL92r29IINtlPNP",
+          "name": "Scarface",
+          "type": "artist",
+          "uri": "spotify:artist:19KwjzvIL92r29IINtlPNP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda"
+          },
+          "href": "https://api.spotify.com/v1/artists/6B16XZWuJ9VERn7pXxCIda",
+          "id": "6B16XZWuJ9VERn7pXxCIda",
+          "name": "8Ball",
+          "type": "artist",
+          "uri": "spotify:artist:6B16XZWuJ9VERn7pXxCIda"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 326600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BsLJt6Iac1ipXz9ZZk3MN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BsLJt6Iac1ipXz9ZZk3MN",
+      "id": "7BsLJt6Iac1ipXz9ZZk3MN",
+      "name": "Iceman",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7BsLJt6Iac1ipXz9ZZk3MN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name": "Lloyd Banks",
+          "type": "artist",
+          "uri": "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6XGRnGYx3PBZ6H058nid4x"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6XGRnGYx3PBZ6H058nid4x",
+      "id": "6XGRnGYx3PBZ6H058nid4x",
+      "name": "Gilmore's",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6XGRnGYx3PBZ6H058nid4x",
+      "is_local": false
+    }
+  ]
+}

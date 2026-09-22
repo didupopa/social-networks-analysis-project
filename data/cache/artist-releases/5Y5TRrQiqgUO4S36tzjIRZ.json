@@ -1,0 +1,533 @@
+{
+  "artist_id": "5Y5TRrQiqgUO4S36tzjIRZ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "href": "https://api.spotify.com/v1/albums/0YwFC9K2Xqgz9DsLOuZuMn",
+      "id": "0YwFC9K2Xqgz9DsLOuZuMn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738044ca65f0b347711fcb047c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028044ca65f0b347711fcb047c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518044ca65f0b347711fcb047c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Resurrection",
+      "release_date": "2026-06-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0YwFC9K2Xqgz9DsLOuZuMn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FtBEIWAwvw5ymBen5GICR",
+          "id": "1FtBEIWAwvw5ymBen5GICR",
+          "name": "Chlöe",
+          "type": "artist",
+          "uri": "spotify:artist:1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/70u6cm5Wp983688TTctIGW"
+      },
+      "href": "https://api.spotify.com/v1/albums/70u6cm5Wp983688TTctIGW",
+      "id": "70u6cm5Wp983688TTctIGW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1a95b515bb5debf00cff27f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1a95b515bb5debf00cff27f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a1a95b515bb5debf00cff27f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "TIMBO PROGRESSION",
+      "release_date": "2025-03-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:70u6cm5Wp983688TTctIGW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp"
+      },
+      "href": "https://api.spotify.com/v1/albums/1oL6jSjfCVu2ugtzFK7dYp",
+      "id": "1oL6jSjfCVu2ugtzFK7dYp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27322d3913c41f5e580e1193026",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0222d3913c41f5e580e1193026",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485122d3913c41f5e580e1193026",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Yellow",
+      "release_date": "2024-12-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1oL6jSjfCVu2ugtzFK7dYp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gmfGQKmOr9z7GTYK7ecEj",
+          "id": "6gmfGQKmOr9z7GTYK7ecEj",
+          "name": "Malte Marten",
+          "type": "artist",
+          "uri": "spotify:artist:6gmfGQKmOr9z7GTYK7ecEj"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
+      },
+      "href": "https://api.spotify.com/v1/albums/5FK6borHO8QcztXhXCPn5H",
+      "id": "5FK6borHO8QcztXhXCPn5H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27384dfebb7e9c44520e69482de",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0284dfebb7e9c44520e69482de",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485184dfebb7e9c44520e69482de",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shock Value II",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5FK6borHO8QcztXhXCPn5H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5SBgnF3UEmSMaPjJ7ww5yO"
+      },
+      "href": "https://api.spotify.com/v1/albums/5SBgnF3UEmSMaPjJ7ww5yO",
+      "id": "5SBgnF3UEmSMaPjJ7ww5yO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273820345c32b60d9be884d8b0b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02820345c32b60d9be884d8b0b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851820345c32b60d9be884d8b0b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shock Value II (International Deluxe version)",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5SBgnF3UEmSMaPjJ7ww5yO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5sIENLYGYSEQzPhpURh5Jt"
+      },
+      "href": "https://api.spotify.com/v1/albums/5sIENLYGYSEQzPhpURh5Jt",
+      "id": "5sIENLYGYSEQzPhpURh5Jt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bc9aee64bdca004ce82c10bc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bc9aee64bdca004ce82c10bc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bc9aee64bdca004ce82c10bc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shock Value",
+      "release_date": "2007-04-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5sIENLYGYSEQzPhpURh5Jt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5gHtwgh9wTdWilWhCmUcYr"
+      },
+      "href": "https://api.spotify.com/v1/albums/5gHtwgh9wTdWilWhCmUcYr",
+      "id": "5gHtwgh9wTdWilWhCmUcYr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbb7938604b8ec9d328bea1d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbb7938604b8ec9d328bea1d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fbb7938604b8ec9d328bea1d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shock Value (Instrumental Version)",
+      "release_date": "2007-04-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5gHtwgh9wTdWilWhCmUcYr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0MDZpYt4wX8ngzwoJsQL5D"
+      },
+      "href": "https://api.spotify.com/v1/albums/0MDZpYt4wX8ngzwoJsQL5D",
+      "id": "0MDZpYt4wX8ngzwoJsQL5D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734717db7c6d9429d433a7d55c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024717db7c6d9429d433a7d55c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514717db7c6d9429d433a7d55c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Under Construction, Pt. II",
+      "release_date": "2003-11-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0MDZpYt4wX8ngzwoJsQL5D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pv3MRGkgkXa9Qn8sMctxT",
+          "id": "7pv3MRGkgkXa9Qn8sMctxT",
+          "name": "Magoo",
+          "type": "artist",
+          "uri": "spotify:artist:7pv3MRGkgkXa9Qn8sMctxT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/43awirSZN3OKKegJYghKgX"
+      },
+      "href": "https://api.spotify.com/v1/albums/43awirSZN3OKKegJYghKgX",
+      "id": "43awirSZN3OKKegJYghKgX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c2f14096a20ba3c94d34d678",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c2f14096a20ba3c94d34d678",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c2f14096a20ba3c94d34d678",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Indecent Proposal",
+      "release_date": "2001-11-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:43awirSZN3OKKegJYghKgX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pv3MRGkgkXa9Qn8sMctxT",
+          "id": "7pv3MRGkgkXa9Qn8sMctxT",
+          "name": "Magoo",
+          "type": "artist",
+          "uri": "spotify:artist:7pv3MRGkgkXa9Qn8sMctxT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2cQlaugijwts2vZlYw5xg7"
+      },
+      "href": "https://api.spotify.com/v1/albums/2cQlaugijwts2vZlYw5xg7",
+      "id": "2cQlaugijwts2vZlYw5xg7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730dd41242cf79296d324ab7b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020dd41242cf79296d324ab7b5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510dd41242cf79296d324ab7b5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tim's Bio: From The Motion Picture - Life From Da Bassment",
+      "release_date": "1998-11-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2cQlaugijwts2vZlYw5xg7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/26ugzomGsgADdMdcRxHk1o"
+      },
+      "href": "https://api.spotify.com/v1/albums/26ugzomGsgADdMdcRxHk1o",
+      "id": "26ugzomGsgADdMdcRxHk1o",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b3fcfd35bfee2955a07b803a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b3fcfd35bfee2955a07b803a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b3fcfd35bfee2955a07b803a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Welcome To Our World",
+      "release_date": "1997-11-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:26ugzomGsgADdMdcRxHk1o",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pv3MRGkgkXa9Qn8sMctxT",
+          "id": "7pv3MRGkgkXa9Qn8sMctxT",
+          "name": "Magoo",
+          "type": "artist",
+          "uri": "spotify:artist:7pv3MRGkgkXa9Qn8sMctxT"
+        }
+      ]
+    }
+  ]
+}
