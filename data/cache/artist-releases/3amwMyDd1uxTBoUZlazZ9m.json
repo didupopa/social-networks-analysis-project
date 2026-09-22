@@ -1,0 +1,139 @@
+{
+  "artist_id": "3amwMyDd1uxTBoUZlazZ9m",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/45w2zop89lJbVUMJpXVsm1"
+      },
+      "href": "https://api.spotify.com/v1/albums/45w2zop89lJbVUMJpXVsm1",
+      "id": "45w2zop89lJbVUMJpXVsm1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ddea652b398591654a32e803",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ddea652b398591654a32e803",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ddea652b398591654a32e803",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SPIRAL",
+      "release_date": "2024-10-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:45w2zop89lJbVUMJpXVsm1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+          },
+          "href": "https://api.spotify.com/v1/artists/3amwMyDd1uxTBoUZlazZ9m",
+          "id": "3amwMyDd1uxTBoUZlazZ9m",
+          "name": "Brooke Candy",
+          "type": "artist",
+          "uri": "spotify:artist:3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5x66WKP9t9d4uUcU5An4Vu"
+      },
+      "href": "https://api.spotify.com/v1/albums/5x66WKP9t9d4uUcU5An4Vu",
+      "id": "5x66WKP9t9d4uUcU5An4Vu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d13c000c4bebd59358c110c0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d13c000c4bebd59358c110c0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d13c000c4bebd59358c110c0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CANDYLAND",
+      "release_date": "2024-07-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5x66WKP9t9d4uUcU5An4Vu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+          },
+          "href": "https://api.spotify.com/v1/artists/3amwMyDd1uxTBoUZlazZ9m",
+          "id": "3amwMyDd1uxTBoUZlazZ9m",
+          "name": "Brooke Candy",
+          "type": "artist",
+          "uri": "spotify:artist:3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1bkFxtCHscmeP8JpGGIkqI"
+      },
+      "href": "https://api.spotify.com/v1/albums/1bkFxtCHscmeP8JpGGIkqI",
+      "id": "1bkFxtCHscmeP8JpGGIkqI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27311c23803cb98efa1a4db4806",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0211c23803cb98efa1a4db4806",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485111c23803cb98efa1a4db4806",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SEXORCISM",
+      "release_date": "2019-10-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1bkFxtCHscmeP8JpGGIkqI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+          },
+          "href": "https://api.spotify.com/v1/artists/3amwMyDd1uxTBoUZlazZ9m",
+          "id": "3amwMyDd1uxTBoUZlazZ9m",
+          "name": "Brooke Candy",
+          "type": "artist",
+          "uri": "spotify:artist:3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ]
+    }
+  ]
+}

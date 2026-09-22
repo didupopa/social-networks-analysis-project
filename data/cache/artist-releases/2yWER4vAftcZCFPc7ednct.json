@@ -1,0 +1,106 @@
+{
+  "artist_id": "2yWER4vAftcZCFPc7ednct",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/554dVi4cqQp3Z4nqAByU7H"
+      },
+      "href": "https://api.spotify.com/v1/albums/554dVi4cqQp3Z4nqAByU7H",
+      "id": "554dVi4cqQp3Z4nqAByU7H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273163c0107f99ea5522934c220",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02163c0107f99ea5522934c220",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851163c0107f99ea5522934c220",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Need a Miracle (Remixes II)",
+      "release_date": "2020-06-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:554dVi4cqQp3Z4nqAByU7H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yWER4vAftcZCFPc7ednct",
+          "id": "2yWER4vAftcZCFPc7ednct",
+          "name": "Tara Mcdonald",
+          "type": "artist",
+          "uri": "spotify:artist:2yWER4vAftcZCFPc7ednct"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74HsZwKoJ4m9J2QAb4hZzD"
+      },
+      "href": "https://api.spotify.com/v1/albums/74HsZwKoJ4m9J2QAb4hZzD",
+      "id": "74HsZwKoJ4m9J2QAb4hZzD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27348b6d28eebab2eb1c9e850fa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0248b6d28eebab2eb1c9e850fa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485148b6d28eebab2eb1c9e850fa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nympho (The Remixes)",
+      "release_date": "2006-07-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:74HsZwKoJ4m9J2QAb4hZzD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+          "id": "3cQA9WH8liZfeja1DxcDYE",
+          "name": "Armand Van Helden",
+          "type": "artist",
+          "uri": "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yWER4vAftcZCFPc7ednct",
+          "id": "2yWER4vAftcZCFPc7ednct",
+          "name": "Tara Mcdonald",
+          "type": "artist",
+          "uri": "spotify:artist:2yWER4vAftcZCFPc7ednct"
+        }
+      ]
+    }
+  ]
+}

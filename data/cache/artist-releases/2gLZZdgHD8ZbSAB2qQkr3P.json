@@ -1,0 +1,106 @@
+{
+  "artist_id": "2gLZZdgHD8ZbSAB2qQkr3P",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6THiAm3yZPYqGPuRi41I2D"
+      },
+      "href": "https://api.spotify.com/v1/albums/6THiAm3yZPYqGPuRi41I2D",
+      "id": "6THiAm3yZPYqGPuRi41I2D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273224fdf324b8246baf12498e0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02224fdf324b8246baf12498e0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851224fdf324b8246baf12498e0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lituatie 2",
+      "release_date": "2017-09-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6THiAm3yZPYqGPuRi41I2D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
+      },
+      "href": "https://api.spotify.com/v1/albums/7EFLpuRbwruKlDJpbMZcsG",
+      "id": "7EFLpuRbwruKlDJpbMZcsG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273153eae6c436af5965560b9a5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02153eae6c436af5965560b9a5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851153eae6c436af5965560b9a5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lituatie",
+      "release_date": "2016-05-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7EFLpuRbwruKlDJpbMZcsG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ]
+    }
+  ]
+}

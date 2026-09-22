@@ -1,0 +1,53 @@
+{
+  "artist_id": "4bXUaTjc7TQTvLqqCAlfYt",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/24ZUK0Ryka6Zgtr5QBxxEG"
+      },
+      "href": "https://api.spotify.com/v1/albums/24ZUK0Ryka6Zgtr5QBxxEG",
+      "id": "24ZUK0Ryka6Zgtr5QBxxEG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e9c4c7e60732c28ecd7ef356",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e9c4c7e60732c28ecd7ef356",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e9c4c7e60732c28ecd7ef356",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jack Back Mixtape (DJ Mix)",
+      "release_date": "2018-09-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:24ZUK0Ryka6Zgtr5QBxxEG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4bXUaTjc7TQTvLqqCAlfYt",
+          "id": "4bXUaTjc7TQTvLqqCAlfYt",
+          "name": "Jack Back",
+          "type": "artist",
+          "uri": "spotify:artist:4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ]
+    }
+  ]
+}

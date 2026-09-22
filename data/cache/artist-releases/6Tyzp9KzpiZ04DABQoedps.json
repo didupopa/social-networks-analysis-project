@@ -1,0 +1,417 @@
+{
+  "artist_id": "6Tyzp9KzpiZ04DABQoedps",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/23JGOUVZWY6hPFjRcOyQkS"
+      },
+      "href": "https://api.spotify.com/v1/albums/23JGOUVZWY6hPFjRcOyQkS",
+      "id": "23JGOUVZWY6hPFjRcOyQkS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d2f052d66ac22ed227820beb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d2f052d66ac22ed227820beb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d2f052d66ac22ed227820beb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Funny Weather",
+      "release_date": "2025-10-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:23JGOUVZWY6hPFjRcOyQkS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55"
+          },
+          "href": "https://api.spotify.com/v1/artists/43VCHVPxVOUh4TkN7Qcj55",
+          "id": "43VCHVPxVOUh4TkN7Qcj55",
+          "name": "Funny Weather",
+          "type": "artist",
+          "uri": "spotify:artist:43VCHVPxVOUh4TkN7Qcj55"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC"
+      },
+      "href": "https://api.spotify.com/v1/albums/5J4McIA9reqqfM5nopbWHC",
+      "id": "5J4McIA9reqqfM5nopbWHC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27378a114aa23583b7c8de68567",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0278a114aa23583b7c8de68567",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485178a114aa23583b7c8de68567",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "For You",
+      "release_date": "2025-03-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5J4McIA9reqqfM5nopbWHC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2T87tqNRh6ZRDPw0qj2ZGo",
+          "id": "2T87tqNRh6ZRDPw0qj2ZGo",
+          "name": "Yukimi",
+          "type": "artist",
+          "uri": "spotify:artist:2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
+      },
+      "href": "https://api.spotify.com/v1/albums/0HwZfZGf6SB9AwwEKi7bDY",
+      "id": "0HwZfZGf6SB9AwwEKi7bDY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733e3cbba4425ac12ae61ff8e0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023e3cbba4425ac12ae61ff8e0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513e3cbba4425ac12ae61ff8e0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Slugs of Love",
+      "release_date": "2023-07-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0HwZfZGf6SB9AwwEKi7bDY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "href": "https://api.spotify.com/v1/albums/3PuofR78j1BFBGBrNCCYUF",
+      "id": "3PuofR78j1BFBGBrNCCYUF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c96e174ffc6c2517558b415",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028c96e174ffc6c2517558b415",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518c96e174ffc6c2517558b415",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "New Me, Same Us",
+      "release_date": "2020-03-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3PuofR78j1BFBGBrNCCYUF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WQJ8sVhjbhhQ0ReiilyO2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WQJ8sVhjbhhQ0ReiilyO2",
+      "id": "5WQJ8sVhjbhhQ0ReiilyO2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3cb30ea968afd598d080da2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3cb30ea968afd598d080da2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f3cb30ea968afd598d080da2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Season High",
+      "release_date": "2017-04-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WQJ8sVhjbhhQ0ReiilyO2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2xraUs1k7Hct24Jg2C2QR5"
+      },
+      "href": "https://api.spotify.com/v1/albums/2xraUs1k7Hct24Jg2C2QR5",
+      "id": "2xraUs1k7Hct24Jg2C2QR5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e4f7ee2962094f0b78f9e159",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e4f7ee2962094f0b78f9e159",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e4f7ee2962094f0b78f9e159",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nabuma Rubberband",
+      "release_date": "2014-05-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2xraUs1k7Hct24Jg2C2QR5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
+      },
+      "href": "https://api.spotify.com/v1/albums/1BQVdofe7ROnSoaiC9418p",
+      "id": "1BQVdofe7ROnSoaiC9418p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27328e09280f58ca88eb9a5bbb1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0228e09280f58ca88eb9a5bbb1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485128e09280f58ca88eb9a5bbb1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ritual Union",
+      "release_date": "2011-07-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1BQVdofe7ROnSoaiC9418p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
+      },
+      "href": "https://api.spotify.com/v1/albums/1223HNo18fRbvEKxMgiSa7",
+      "id": "1223HNo18fRbvEKxMgiSa7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c076ea0cdcc6b473c72d885e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c076ea0cdcc6b473c72d885e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c076ea0cdcc6b473c72d885e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Machine Dreams",
+      "release_date": "2009-08-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1223HNo18fRbvEKxMgiSa7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
+      },
+      "href": "https://api.spotify.com/v1/albums/34AtsFexhxnKPVJFtLIN1I",
+      "id": "34AtsFexhxnKPVJFtLIN1I",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731dc0244f4f6244f99f26740e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021dc0244f4f6244f99f26740e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511dc0244f4f6244f99f26740e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Little Dragon",
+      "release_date": "2007-08-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:34AtsFexhxnKPVJFtLIN1I",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ]
+    }
+  ]
+}

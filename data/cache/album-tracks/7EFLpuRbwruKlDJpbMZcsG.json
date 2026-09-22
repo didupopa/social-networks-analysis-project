@@ -1,0 +1,611 @@
+{
+  "album_id": "7EFLpuRbwruKlDJpbMZcsG",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193846,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mLzET4ujcSU2uDTEbOdQH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mLzET4ujcSU2uDTEbOdQH",
+      "id": "7mLzET4ujcSU2uDTEbOdQH",
+      "name": "Wat Doe Jij",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7mLzET4ujcSU2uDTEbOdQH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178028,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7CBUVUE3uoSoxNdreybxB2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7CBUVUE3uoSoxNdreybxB2",
+      "id": "7CBUVUE3uoSoxNdreybxB2",
+      "name": "Onderweg Naar Morgen",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7CBUVUE3uoSoxNdreybxB2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6m1LYS5NQonxjOcQFPQOb5",
+          "id": "6m1LYS5NQonxjOcQFPQOb5",
+          "name": "Frenna",
+          "type": "artist",
+          "uri": "spotify:artist:6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MSYpagcvnSP2o91Ji2OCw",
+          "id": "0MSYpagcvnSP2o91Ji2OCw",
+          "name": "KM",
+          "type": "artist",
+          "uri": "spotify:artist:0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164900,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1QQQEsgRzhUirI0vdKDz66",
+      "id": "1QQQEsgRzhUirI0vdKDz66",
+      "name": "Dansen Op Labanta",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1QQQEsgRzhUirI0vdKDz66",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220673,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0jVX56XeRtzbW8HelwDlOl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0jVX56XeRtzbW8HelwDlOl",
+      "id": "0jVX56XeRtzbW8HelwDlOl",
+      "name": "Elleke Keer",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0jVX56XeRtzbW8HelwDlOl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5eir5zFJpES4j7gsymbVyl",
+          "id": "5eir5zFJpES4j7gsymbVyl",
+          "name": "Ronnie Flex",
+          "type": "artist",
+          "uri": "spotify:artist:5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203305,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PAcXxX1Oejm1IwW8Icdpy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PAcXxX1Oejm1IwW8Icdpy",
+      "id": "6PAcXxX1Oejm1IwW8Icdpy",
+      "name": "Met Je Zijn",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6PAcXxX1Oejm1IwW8Icdpy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AlRiyjMywTVNzTcHbf9QT",
+          "id": "3AlRiyjMywTVNzTcHbf9QT",
+          "name": "Lil Kleine",
+          "type": "artist",
+          "uri": "spotify:artist:3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197172,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OCNNhXYWLEwie1WGkN4Tr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OCNNhXYWLEwie1WGkN4Tr",
+      "id": "2OCNNhXYWLEwie1WGkN4Tr",
+      "name": "Belazerd",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2OCNNhXYWLEwie1WGkN4Tr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195721,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3g8ms4c7rLTaEKrBqvEIkj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3g8ms4c7rLTaEKrBqvEIkj",
+      "id": "3g8ms4c7rLTaEKrBqvEIkj",
+      "name": "Wekker",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3g8ms4c7rLTaEKrBqvEIkj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 149088,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/75ImCbeAzfz3bJAcO8Qllw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/75ImCbeAzfz3bJAcO8Qllw",
+      "id": "75ImCbeAzfz3bJAcO8Qllw",
+      "name": "Ow Shit",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:75ImCbeAzfz3bJAcO8Qllw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6m1LYS5NQonxjOcQFPQOb5",
+          "id": "6m1LYS5NQonxjOcQFPQOb5",
+          "name": "Frenna",
+          "type": "artist",
+          "uri": "spotify:artist:6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MSYpagcvnSP2o91Ji2OCw",
+          "id": "0MSYpagcvnSP2o91Ji2OCw",
+          "name": "KM",
+          "type": "artist",
+          "uri": "spotify:artist:0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AkaK2DXdBUWYjpwOHoKs2",
+          "id": "2AkaK2DXdBUWYjpwOHoKs2",
+          "name": "Emms",
+          "type": "artist",
+          "uri": "spotify:artist:2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4FogtnE7DiigjsausPXwY4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4FogtnE7DiigjsausPXwY4",
+      "id": "4FogtnE7DiigjsausPXwY4",
+      "name": "Anders",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4FogtnE7DiigjsausPXwY4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5eir5zFJpES4j7gsymbVyl",
+          "id": "5eir5zFJpES4j7gsymbVyl",
+          "name": "Ronnie Flex",
+          "type": "artist",
+          "uri": "spotify:artist:5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223609,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nI2H5MQXyhlowjfdk81pU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nI2H5MQXyhlowjfdk81pU",
+      "id": "0nI2H5MQXyhlowjfdk81pU",
+      "name": "Credo Santana",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0nI2H5MQXyhlowjfdk81pU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GL6hDzc8ltMMIl6gOTWIT",
+          "id": "3GL6hDzc8ltMMIl6gOTWIT",
+          "name": "Philly Moré",
+          "type": "artist",
+          "uri": "spotify:artist:3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242075,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0E8GrrViligiyFUj5JXE7C"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0E8GrrViligiyFUj5JXE7C",
+      "id": "0E8GrrViligiyFUj5JXE7C",
+      "name": "Ik Kom Eraan",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0E8GrrViligiyFUj5JXE7C",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gLZZdgHD8ZbSAB2qQkr3P",
+          "id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "GLOWINTHEDARK",
+          "type": "artist",
+          "uri": "spotify:artist:2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          },
+          "href": "https://api.spotify.com/v1/artists/50mdotNCJ2PcoZiAgsh8dY",
+          "id": "50mdotNCJ2PcoZiAgsh8dY",
+          "name": "SFB",
+          "type": "artist",
+          "uri": "spotify:artist:50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UnmMQgWYM7l6ecLsiUHqb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UnmMQgWYM7l6ecLsiUHqb",
+      "id": "5UnmMQgWYM7l6ecLsiUHqb",
+      "name": "Fine China",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5UnmMQgWYM7l6ecLsiUHqb",
+      "is_local": false
+    }
+  ]
+}

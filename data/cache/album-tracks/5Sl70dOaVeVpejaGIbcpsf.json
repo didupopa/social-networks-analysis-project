@@ -1,0 +1,610 @@
+{
+  "album_id": "5Sl70dOaVeVpejaGIbcpsf",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3JV9Hs3iTF4UhTIkN054i4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3JV9Hs3iTF4UhTIkN054i4",
+      "id": "3JV9Hs3iTF4UhTIkN054i4",
+      "name": "Playa's Only (feat. The Game)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3JV9Hs3iTF4UhTIkN054i4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1sVWMLqlYqOmd4praL4HxN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1sVWMLqlYqOmd4praL4HxN",
+      "id": "1sVWMLqlYqOmd4praL4HxN",
+      "name": "Happy Summertime (feat. Snoop Dogg)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1sVWMLqlYqOmd4praL4HxN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bn8fjxuCLfnAaXZDx1tof"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bn8fjxuCLfnAaXZDx1tof",
+      "id": "1bn8fjxuCLfnAaXZDx1tof",
+      "name": "In the Kitchen",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1bn8fjxuCLfnAaXZDx1tof",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6bzfP9oPj6rCjD2TR9oCSH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6bzfP9oPj6rCjD2TR9oCSH",
+      "id": "6bzfP9oPj6rCjD2TR9oCSH",
+      "name": "Slow Wind",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6bzfP9oPj6rCjD2TR9oCSH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270173,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5y9CW9OPadtoQmEHc3KAMO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5y9CW9OPadtoQmEHc3KAMO",
+      "id": "5y9CW9OPadtoQmEHc3KAMO",
+      "name": "Put My T-Shirt On",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5y9CW9OPadtoQmEHc3KAMO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 319426,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1So6isxjgZWhqXwIToVDCK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1So6isxjgZWhqXwIToVDCK",
+      "id": "1So6isxjgZWhqXwIToVDCK",
+      "name": "Remote Control",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1So6isxjgZWhqXwIToVDCK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7LFydEIPPlhA7cb775wlku"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7LFydEIPPlhA7cb775wlku",
+      "id": "7LFydEIPPlhA7cb775wlku",
+      "name": "Kickin' It With Your Girlfriend",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7LFydEIPPlhA7cb775wlku",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NOvBZrkd83MSD51xkq4on",
+          "id": "6NOvBZrkd83MSD51xkq4on",
+          "name": "Elephant Man",
+          "type": "artist",
+          "uri": "spotify:artist:6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 321573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5KGnKdnjIdxye2nCuDWu8D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5KGnKdnjIdxye2nCuDWu8D",
+      "id": "5KGnKdnjIdxye2nCuDWu8D",
+      "name": "Reggae Bump Bump (feat. Elephant Man)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5KGnKdnjIdxye2nCuDWu8D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN"
+          },
+          "href": "https://api.spotify.com/v1/artists/15Dh5PvHQj909E0RgAe0aN",
+          "id": "15Dh5PvHQj909E0RgAe0aN",
+          "name": "Nivea",
+          "type": "artist",
+          "uri": "spotify:artist:15Dh5PvHQj909E0RgAe0aN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/62Fb5BwqUgl3lc9Lg6BVPP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/62Fb5BwqUgl3lc9Lg6BVPP",
+      "id": "62Fb5BwqUgl3lc9Lg6BVPP",
+      "name": "Touchin (feat. Nivea)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:62Fb5BwqUgl3lc9Lg6BVPP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7E1r06wbRiF2soZtFoc62z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7E1r06wbRiF2soZtFoc62z",
+          "id": "7E1r06wbRiF2soZtFoc62z",
+          "name": "Baby",
+          "type": "artist",
+          "uri": "spotify:artist:7E1r06wbRiF2soZtFoc62z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yXGwm3xWgXgDOAoZ1Hfvs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yXGwm3xWgXgDOAoZ1Hfvs",
+      "id": "5yXGwm3xWgXgDOAoZ1Hfvs",
+      "name": "Girls Go Crazy (feat. Baby)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5yXGwm3xWgXgDOAoZ1Hfvs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vbY3hOaCAhC7VjucswgdS",
+          "id": "6vbY3hOaCAhC7VjucswgdS",
+          "name": "Twista",
+          "type": "artist",
+          "uri": "spotify:artist:6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0u6b6Qa5VJEvr3SgzzeVOB",
+          "id": "0u6b6Qa5VJEvr3SgzzeVOB",
+          "name": "Do Or Die",
+          "type": "artist",
+          "uri": "spotify:artist:0u6b6Qa5VJEvr3SgzzeVOB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6OCWElvToOk32LNzjkw7zJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6OCWElvToOk32LNzjkw7zJ",
+      "id": "6OCWElvToOk32LNzjkw7zJ",
+      "name": "Hit It Til the Mornin (feat. Do or Die)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6OCWElvToOk32LNzjkw7zJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5zOUeD2a4lOU9V4FxsuGEO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5zOUeD2a4lOU9V4FxsuGEO",
+      "id": "5zOUeD2a4lOU9V4FxsuGEO",
+      "name": "Sex Weed",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5zOUeD2a4lOU9V4FxsuGEO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77PpZtHXsP6ZVpuDf8XGWB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/77PpZtHXsP6ZVpuDf8XGWB",
+      "id": "77PpZtHXsP6ZVpuDf8XGWB",
+      "name": "(Sex) Love Is What We Makin",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:77PpZtHXsP6ZVpuDf8XGWB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PgZnA5KiqwJ0y0xoCoYkR"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PgZnA5KiqwJ0y0xoCoYkR",
+          "id": "3PgZnA5KiqwJ0y0xoCoYkR",
+          "name": "Wysin",
+          "type": "artist",
+          "uri": "spotify:artist:3PgZnA5KiqwJ0y0xoCoYkR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lrtFg6QFykBegbAVbEvtC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lrtFg6QFykBegbAVbEvtC",
+          "id": "3lrtFg6QFykBegbAVbEvtC",
+          "name": "Yandell",
+          "type": "artist",
+          "uri": "spotify:artist:3lrtFg6QFykBegbAVbEvtC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ONZZmVuEVAAHvj0OWuVU1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ONZZmVuEVAAHvj0OWuVU1",
+      "id": "6ONZZmVuEVAAHvj0OWuVU1",
+      "name": "Burn It Up (feat. Wysin & Yandell)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6ONZZmVuEVAAHvj0OWuVU1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205560,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tEagno8vjhL5mQ4DgkoXw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2tEagno8vjhL5mQ4DgkoXw",
+      "id": "2tEagno8vjhL5mQ4DgkoXw",
+      "name": "Trapped In the Closet Chapter 1",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2tEagno8vjhL5mQ4DgkoXw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ndUTiIRmiXx63cDykfgBv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ndUTiIRmiXx63cDykfgBv",
+      "id": "5ndUTiIRmiXx63cDykfgBv",
+      "name": "Trapped In the Closet Chapter 2",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5ndUTiIRmiXx63cDykfgBv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195560,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/797A44VOZu17j9FQHIopru"
+      },
+      "href": "https://api.spotify.com/v1/tracks/797A44VOZu17j9FQHIopru",
+      "id": "797A44VOZu17j9FQHIopru",
+      "name": "Trapped In the Closet Chapter 3",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:797A44VOZu17j9FQHIopru",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195533,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BluyuTtMAzTJNMAvynGEM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5BluyuTtMAzTJNMAvynGEM",
+      "id": "5BluyuTtMAzTJNMAvynGEM",
+      "name": "Trapped In the Closet Chapter 4",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5BluyuTtMAzTJNMAvynGEM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+          "id": "2mxe0TnaNL039ysAj51xPQ",
+          "name": "R. Kelly",
+          "type": "artist",
+          "uri": "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5KW5rF3pJndcX7VCNSu2Pz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5KW5rF3pJndcX7VCNSu2Pz",
+      "id": "5KW5rF3pJndcX7VCNSu2Pz",
+      "name": "Trapped In the Closet Chapter 5",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:5KW5rF3pJndcX7VCNSu2Pz",
+      "is_local": false
+    }
+  ]
+}

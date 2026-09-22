@@ -1,0 +1,365 @@
+{
+  "artist_id": "4Vt6rW97rpUAJmi3MZT5la",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3BIXMkrET5VAdYvrp6uLnJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3BIXMkrET5VAdYvrp6uLnJ",
+      "id": "3BIXMkrET5VAdYvrp6uLnJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27388c92c0f389098cf27a580a6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0288c92c0f389098cf27a580a6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485188c92c0f389098cf27a580a6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love's Joy",
+      "release_date": "2025-01-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3BIXMkrET5VAdYvrp6uLnJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ZKUZXG2zNCyGKnmpfNkFS"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ZKUZXG2zNCyGKnmpfNkFS",
+      "id": "1ZKUZXG2zNCyGKnmpfNkFS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ada3b0357605d17f01d62ef",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021ada3b0357605d17f01d62ef",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511ada3b0357605d17f01d62ef",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wieniawski, Kreisler & Others: Works for Violin & Orchestra",
+      "release_date": "2019-04-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1ZKUZXG2zNCyGKnmpfNkFS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0SJh0PnUfyS9NZAXwNxIpk"
+      },
+      "href": "https://api.spotify.com/v1/albums/0SJh0PnUfyS9NZAXwNxIpk",
+      "id": "0SJh0PnUfyS9NZAXwNxIpk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e081811b8ab9bfae3edbfc1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029e081811b8ab9bfae3edbfc1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519e081811b8ab9bfae3edbfc1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Anfossi: La morte di San Filippo Neri",
+      "release_date": "2018-04-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0SJh0PnUfyS9NZAXwNxIpk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ASAcfLQK0TxF5ZcGbyvI2"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ASAcfLQK0TxF5ZcGbyvI2",
+          "id": "0ASAcfLQK0TxF5ZcGbyvI2",
+          "name": "Pasquale Anfossi",
+          "type": "artist",
+          "uri": "spotify:artist:0ASAcfLQK0TxF5ZcGbyvI2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qjjjExNPtqJwuQS2to9ln"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qjjjExNPtqJwuQS2to9ln",
+          "id": "0qjjjExNPtqJwuQS2to9ln",
+          "name": "Poznań Chamber Choir",
+          "type": "artist",
+          "uri": "spotify:artist:0qjjjExNPtqJwuQS2to9ln"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45z0LwQ2t1uXG3OzrER2Sw"
+          },
+          "href": "https://api.spotify.com/v1/artists/45z0LwQ2t1uXG3OzrER2Sw",
+          "id": "45z0LwQ2t1uXG3OzrER2Sw",
+          "name": "Rafal Bartminski",
+          "type": "artist",
+          "uri": "spotify:artist:45z0LwQ2t1uXG3OzrER2Sw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Wy20ABSySbrkhklHahvHw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Wy20ABSySbrkhklHahvHw",
+          "id": "4Wy20ABSySbrkhklHahvHw",
+          "name": "Anna Mikołajczyk-Niewiedział",
+          "type": "artist",
+          "uri": "spotify:artist:4Wy20ABSySbrkhklHahvHw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4qLID5gBNLCqIzqaGr0yAZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4qLID5gBNLCqIzqaGr0yAZ",
+          "id": "4qLID5gBNLCqIzqaGr0yAZ",
+          "name": "Iwona Hossa",
+          "type": "artist",
+          "uri": "spotify:artist:4qLID5gBNLCqIzqaGr0yAZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Q12AcbdihRHrLs8woijmn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Q12AcbdihRHrLs8woijmn",
+          "id": "2Q12AcbdihRHrLs8woijmn",
+          "name": "Agnieszka Rehlis",
+          "type": "artist",
+          "uri": "spotify:artist:2Q12AcbdihRHrLs8woijmn"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0dYeMdJbsY4JR5DRNPTAsS"
+      },
+      "href": "https://api.spotify.com/v1/albums/0dYeMdJbsY4JR5DRNPTAsS",
+      "id": "0dYeMdJbsY4JR5DRNPTAsS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8cd8ed91ff20a64e472949d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8cd8ed91ff20a64e472949d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e8cd8ed91ff20a64e472949d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Musica Sacramontana",
+      "release_date": "2014-06-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0dYeMdJbsY4JR5DRNPTAsS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21HRJPtvfVAdob1sAq9Nvu"
+          },
+          "href": "https://api.spotify.com/v1/artists/21HRJPtvfVAdob1sAq9Nvu",
+          "id": "21HRJPtvfVAdob1sAq9Nvu",
+          "name": "Piotr Niestrawski",
+          "type": "artist",
+          "uri": "spotify:artist:21HRJPtvfVAdob1sAq9Nvu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0yGFUYWYeINqWkUAEuIM5O"
+      },
+      "href": "https://api.spotify.com/v1/albums/0yGFUYWYeINqWkUAEuIM5O",
+      "id": "0yGFUYWYeINqWkUAEuIM5O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a2aba2f94f990509ee99169d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a2aba2f94f990509ee99169d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a2aba2f94f990509ee99169d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tango",
+      "release_date": "2013-08-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0yGFUYWYeINqWkUAEuIM5O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ]
+    }
+  ]
+}

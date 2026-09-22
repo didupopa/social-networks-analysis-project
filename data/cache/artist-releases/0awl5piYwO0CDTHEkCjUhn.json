@@ -1,0 +1,53 @@
+{
+  "artist_id": "0awl5piYwO0CDTHEkCjUhn",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zXb9FQMzawvY2Au8Kxky3",
+      "id": "6zXb9FQMzawvY2Au8Kxky3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb3c078694b007169dab4a4f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb3c078694b007169dab4a4f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb3c078694b007169dab4a4f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Black Star Elephant",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:6zXb9FQMzawvY2Au8Kxky3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+          },
+          "href": "https://api.spotify.com/v1/artists/0awl5piYwO0CDTHEkCjUhn",
+          "id": "0awl5piYwO0CDTHEkCjUhn",
+          "name": "Nico & Vinz",
+          "type": "artist",
+          "uri": "spotify:artist:0awl5piYwO0CDTHEkCjUhn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "artist_id": "57ZTzIn5GLxNLzWgnTTcHj",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/54mmRTnUxos6o4AiyyzCHY"
+      },
+      "href": "https://api.spotify.com/v1/albums/54mmRTnUxos6o4AiyyzCHY",
+      "id": "54mmRTnUxos6o4AiyyzCHY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ef1e127de1da0a61161b51b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ef1e127de1da0a61161b51b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ef1e127de1da0a61161b51b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Star Stuff",
+      "release_date": "2017-03-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:54mmRTnUxos6o4AiyyzCHY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj"
+          },
+          "href": "https://api.spotify.com/v1/artists/57ZTzIn5GLxNLzWgnTTcHj",
+          "id": "57ZTzIn5GLxNLzWgnTTcHj",
+          "name": "Chaz Bundick",
+          "type": "artist",
+          "uri": "spotify:artist:57ZTzIn5GLxNLzWgnTTcHj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3YoL2CCR3wyqJndcEDBwBH",
+          "id": "3YoL2CCR3wyqJndcEDBwBH",
+          "name": "The Mattson 2",
+          "type": "artist",
+          "uri": "spotify:artist:3YoL2CCR3wyqJndcEDBwBH"
+        }
+      ]
+    }
+  ]
+}

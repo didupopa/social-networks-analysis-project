@@ -1,0 +1,824 @@
+{
+  "album_id": "6slkiHeFK3wW2D1mao0TX3",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152263,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46hDiH4YvAWXE04GskkIHS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/46hDiH4YvAWXE04GskkIHS",
+      "id": "46hDiH4YvAWXE04GskkIHS",
+      "name": "Why Would I Stop?",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:46hDiH4YvAWXE04GskkIHS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248359,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wVnQMRXd1z2iPEo24f9db"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wVnQMRXd1z2iPEo24f9db",
+      "id": "6wVnQMRXd1z2iPEo24f9db",
+      "name": "Lucky Me",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6wVnQMRXd1z2iPEo24f9db",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EeQBlQJFiAfJeVN2vT9s0",
+          "id": "0EeQBlQJFiAfJeVN2vT9s0",
+          "name": "Nipsey Hussle",
+          "type": "artist",
+          "uri": "spotify:artist:0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231351,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2CDcXWYWilHTXrsOXJza8n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2CDcXWYWilHTXrsOXJza8n",
+      "id": "2CDcXWYWilHTXrsOXJza8n",
+      "name": "Deep Reverence (feat. Nipsey Hussle)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2CDcXWYWilHTXrsOXJza8n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          },
+          "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "type": "artist",
+          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199758,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/33gwZOGJWEZ7dRWPqPxBEZ",
+      "id": "33gwZOGJWEZ7dRWPqPxBEZ",
+      "name": "Wolves (feat. Post Malone)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:33gwZOGJWEZ7dRWPqPxBEZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+          "id": "5ZS223C6JyBfXasXxrRqOk",
+          "name": "Jhené Aiko",
+          "type": "artist",
+          "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224770,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FXsrAH7Zol1jusSeJIoYA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6FXsrAH7Zol1jusSeJIoYA",
+      "id": "6FXsrAH7Zol1jusSeJIoYA",
+      "name": "Body Language (feat. Ty Dolla $ign, and Jhené Aiko)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6FXsrAH7Zol1jusSeJIoYA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155166,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5rtUKt6YbKTBb8hVIbsMsv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5rtUKt6YbKTBb8hVIbsMsv",
+      "id": "5rtUKt6YbKTBb8hVIbsMsv",
+      "name": "Story By Dave Chappelle",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5rtUKt6YbKTBb8hVIbsMsv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 131274,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/23XTYrwfHXY8H1PuQYJbDA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/23XTYrwfHXY8H1PuQYJbDA",
+      "id": "23XTYrwfHXY8H1PuQYJbDA",
+      "name": "Harder Than My Demons",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:23XTYrwfHXY8H1PuQYJbDA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7u6LfVyYpEzMpHLL7jTyvU",
+          "id": "7u6LfVyYpEzMpHLL7jTyvU",
+          "name": "Dwele",
+          "type": "artist",
+          "uri": "spotify:artist:7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194051,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2LxudmRpMzYTsb37Oi1RWD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2LxudmRpMzYTsb37Oi1RWD",
+      "id": "2LxudmRpMzYTsb37Oi1RWD",
+      "name": "Everything That's Missing (feat. Dwele)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2LxudmRpMzYTsb37Oi1RWD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 136461,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0z36JaXXoFXuPuQucKEsdx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0z36JaXXoFXuPuQucKEsdx",
+      "id": "0z36JaXXoFXuPuQucKEsdx",
+      "name": "ZTFO",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0z36JaXXoFXuPuQucKEsdx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id": "3jK9MiCrA42lLAdMGUZpwa",
+          "name": "Anderson .Paak",
+          "type": "artist",
+          "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MnzlETJZuQb3EcK8mugEQ",
+          "id": "7MnzlETJZuQb3EcK8mugEQ",
+          "name": "Earlly Mac",
+          "type": "artist",
+          "uri": "spotify:artist:7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          },
+          "href": "https://api.spotify.com/v1/artists/67nwj3Y5sZQLl72VNUHEYE",
+          "id": "67nwj3Y5sZQLl72VNUHEYE",
+          "name": "Wale",
+          "type": "artist",
+          "uri": "spotify:artist:67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258112,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7LYgVPxRvlN7OavmyrnOGe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7LYgVPxRvlN7OavmyrnOGe",
+      "id": "7LYgVPxRvlN7OavmyrnOGe",
+      "name": "Guard Your Heart (feat. Anderson .Paak, Earlly Mac, and Wale)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7LYgVPxRvlN7OavmyrnOGe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207243,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4QqTDl0Po7cbaZMcGsZmBg",
+      "id": "4QqTDl0Po7cbaZMcGsZmBg",
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4QqTDl0Po7cbaZMcGsZmBg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199250,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VLTxHOyFX5FRtkpsFm5Pc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VLTxHOyFX5FRtkpsFm5Pc",
+      "id": "4VLTxHOyFX5FRtkpsFm5Pc",
+      "name": "Lithuania (feat. Travis Scott)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4VLTxHOyFX5FRtkpsFm5Pc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4njwwcumLelgJjjlQB4eYl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4njwwcumLelgJjjlQB4eYl",
+          "id": "4njwwcumLelgJjjlQB4eYl",
+          "name": "Key Wane",
+          "type": "artist",
+          "uri": "spotify:artist:4njwwcumLelgJjjlQB4eYl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          },
+          "href": "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+          "id": "59wfkuBoNyhDMQGCljbUbA",
+          "name": "Diddy",
+          "type": "artist",
+          "uri": "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178852,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Na2Xo5yQCr5ucwfg8EGIQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Na2Xo5yQCr5ucwfg8EGIQ",
+      "id": "4Na2Xo5yQCr5ucwfg8EGIQ",
+      "name": "Full Circle (feat. Key Wane, and Diddy)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4Na2Xo5yQCr5ucwfg8EGIQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6g8AmloI8egfrr3dm3SnUL"
+          },
+          "href": "https://api.spotify.com/v1/artists/6g8AmloI8egfrr3dm3SnUL",
+          "id": "6g8AmloI8egfrr3dm3SnUL",
+          "name": "TWENTY88",
+          "type": "artist",
+          "uri": "spotify:artist:6g8AmloI8egfrr3dm3SnUL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177424,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lfXTKmZ7fZC6LEPRRC9YL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lfXTKmZ7fZC6LEPRRC9YL",
+      "id": "4lfXTKmZ7fZC6LEPRRC9YL",
+      "name": "Time In",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4lfXTKmZ7fZC6LEPRRC9YL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130408,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jiNZ1WUAzCpAYlWW1EY5B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jiNZ1WUAzCpAYlWW1EY5B",
+      "id": "3jiNZ1WUAzCpAYlWW1EY5B",
+      "name": "Story By Erykah Badu",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3jiNZ1WUAzCpAYlWW1EY5B",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182992,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2UnYYdvyWndHU4yPdoyAtZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2UnYYdvyWndHU4yPdoyAtZ",
+      "id": "2UnYYdvyWndHU4yPdoyAtZ",
+      "name": "FEED",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:2UnYYdvyWndHU4yPdoyAtZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189055,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6UQkEcZNvGORn3R9oGi9c9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6UQkEcZNvGORn3R9oGi9c9",
+      "id": "6UQkEcZNvGORn3R9oGi9c9",
+      "name": "The Baddest",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6UQkEcZNvGORn3R9oGi9c9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194637,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5lxQ9BW2xOzgRIxQAZzHSK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5lxQ9BW2xOzgRIxQAZzHSK",
+      "id": "5lxQ9BW2xOzgRIxQAZzHSK",
+      "name": "Don Life (feat. Lil Wayne)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5lxQ9BW2xOzgRIxQAZzHSK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AUl0ykLLpvTktob97x9hO",
+          "id": "6AUl0ykLLpvTktob97x9hO",
+          "name": "Tee Grizzley",
+          "type": "artist",
+          "uri": "spotify:artist:6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3u579Gdap91lMptBSdXTpf",
+          "id": "3u579Gdap91lMptBSdXTpf",
+          "name": "Kash Doll",
+          "type": "artist",
+          "uri": "spotify:artist:3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+          },
+          "href": "https://api.spotify.com/v1/artists/26qmuJTgE3g67pPClBQ3Iu",
+          "id": "26qmuJTgE3g67pPClBQ3Iu",
+          "name": "Cash Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q2peHL8h2vUGvWNbsIjii",
+          "id": "6q2peHL8h2vUGvWNbsIjii",
+          "name": "Payroll Giovanni",
+          "type": "artist",
+          "uri": "spotify:artist:6q2peHL8h2vUGvWNbsIjii"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          },
+          "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+          "id": "45gHcnDnMC15sgx3VL7ROG",
+          "name": "42 Dugg",
+          "type": "artist",
+          "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4fpwOzxFRMVGfd197dKIdY",
+          "id": "4fpwOzxFRMVGfd197dKIdY",
+          "name": "Boldy James",
+          "type": "artist",
+          "uri": "spotify:artist:4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79y9wOe73QinG3vsi3vLqK"
+          },
+          "href": "https://api.spotify.com/v1/artists/79y9wOe73QinG3vsi3vLqK",
+          "id": "79y9wOe73QinG3vsi3vLqK",
+          "name": "Drego",
+          "type": "artist",
+          "uri": "spotify:artist:79y9wOe73QinG3vsi3vLqK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JSwnwAT1BupAQkhqcRCUw",
+          "id": "2JSwnwAT1BupAQkhqcRCUw",
+          "name": "Sada Baby",
+          "type": "artist",
+          "uri": "spotify:artist:2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+          },
+          "href": "https://api.spotify.com/v1/artists/6DVipHzYsPlIoA0DW8Gmns",
+          "id": "6DVipHzYsPlIoA0DW8Gmns",
+          "name": "Royce Da 5'9\"",
+          "type": "artist",
+          "uri": "spotify:artist:6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 568129,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2kY2ROHIGdp3aA6ahqaUKm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2kY2ROHIGdp3aA6ahqaUKm",
+      "id": "2kY2ROHIGdp3aA6ahqaUKm",
+      "name": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\", and Eminem)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:2kY2ROHIGdp3aA6ahqaUKm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 133882,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ZrKeaqGjiC2GeFBia8q9Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ZrKeaqGjiC2GeFBia8q9Z",
+      "id": "4ZrKeaqGjiC2GeFBia8q9Z",
+      "name": "Story By Stevie Wonder",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:4ZrKeaqGjiC2GeFBia8q9Z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187865,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/17tJRMOZ181DjZMT4eIbSp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/17tJRMOZ181DjZMT4eIbSp",
+      "id": "17tJRMOZ181DjZMT4eIbSp",
+      "name": "Still I Rise (feat. Dom Kennedy)",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:17tJRMOZ181DjZMT4eIbSp",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "artist_id": "6TmyW7nE5HAbg23fG7OOGJ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2hcUDCHKZYg30zNlbHdEsv"
+      },
+      "href": "https://api.spotify.com/v1/albums/2hcUDCHKZYg30zNlbHdEsv",
+      "id": "2hcUDCHKZYg30zNlbHdEsv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737bd8884c14ee0c172924943a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027bd8884c14ee0c172924943a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517bd8884c14ee0c172924943a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Classic",
+      "release_date": "2023-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2hcUDCHKZYg30zNlbHdEsv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TmyW7nE5HAbg23fG7OOGJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TmyW7nE5HAbg23fG7OOGJ",
+          "id": "6TmyW7nE5HAbg23fG7OOGJ",
+          "name": "Tay Dizm",
+          "type": "artist",
+          "uri": "spotify:artist:6TmyW7nE5HAbg23fG7OOGJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2qUuRq9U43X6B3XjTjhuhO"
+      },
+      "href": "https://api.spotify.com/v1/albums/2qUuRq9U43X6B3XjTjhuhO",
+      "id": "2qUuRq9U43X6B3XjTjhuhO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27351b3842ecf9da1eef7e7180f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0251b3842ecf9da1eef7e7180f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485151b3842ecf9da1eef7e7180f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "BOUNCE BACK",
+      "release_date": "2022-06-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2qUuRq9U43X6B3XjTjhuhO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TmyW7nE5HAbg23fG7OOGJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TmyW7nE5HAbg23fG7OOGJ",
+          "id": "6TmyW7nE5HAbg23fG7OOGJ",
+          "name": "Tay Dizm",
+          "type": "artist",
+          "uri": "spotify:artist:6TmyW7nE5HAbg23fG7OOGJ"
+        }
+      ]
+    }
+  ]
+}

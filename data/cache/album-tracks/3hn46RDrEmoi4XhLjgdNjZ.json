@@ -1,0 +1,892 @@
+{
+  "album_id": "3hn46RDrEmoi4XhLjgdNjZ",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 103004,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BsLJzWYhZln2QClCcwUVi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BsLJzWYhZln2QClCcwUVi",
+      "id": "7BsLJzWYhZln2QClCcwUVi",
+      "name": "introduction",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7BsLJzWYhZln2QClCcwUVi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 121671,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/40KuvsFD0zpUFuCcmt5Xm0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/40KuvsFD0zpUFuCcmt5Xm0",
+      "id": "40KuvsFD0zpUFuCcmt5Xm0",
+      "name": "Ex Bitch",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:40KuvsFD0zpUFuCcmt5Xm0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 91800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2QfkJ9lURgRpcFT2Y0B1e3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2QfkJ9lURgRpcFT2Y0B1e3",
+      "id": "2QfkJ9lURgRpcFT2Y0B1e3",
+      "name": "UGLY",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2QfkJ9lURgRpcFT2Y0B1e3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+          },
+          "href": "https://api.spotify.com/v1/artists/21WS9wngs9AqFckK7yYJPM",
+          "id": "21WS9wngs9AqFckK7yYJPM",
+          "name": "PnB Rock",
+          "type": "artist",
+          "uri": "spotify:artist:21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+          "id": "6Xgp2XMz1fhVYe7i6yNAax",
+          "name": "Trippie Redd",
+          "type": "artist",
+          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 150475,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03eJ2DclFWXYU8GWgANdmZ",
+      "id": "03eJ2DclFWXYU8GWgANdmZ",
+      "name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:03eJ2DclFWXYU8GWgANdmZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 93913,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0DWrG09StYVhLbeNLwAJ5w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0DWrG09StYVhLbeNLwAJ5w",
+      "id": "0DWrG09StYVhLbeNLwAJ5w",
+      "name": "School Shooters (feat. Lil Wayne)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0DWrG09StYVhLbeNLwAJ5w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 108213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SaxT2eggG2xalUM21tUSw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SaxT2eggG2xalUM21tUSw",
+      "id": "1SaxT2eggG2xalUM21tUSw",
+      "name": "I Changed Her Life (feat. Rick Ross)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1SaxT2eggG2xalUM21tUSw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166032,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3arQDLbkZnujJVfhoyEDlM",
+      "id": "3arQDLbkZnujJVfhoyEDlM",
+      "name": "Triumph",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3arQDLbkZnujJVfhoyEDlM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zPILh9oEH0fDagpkHTQQ8",
+          "id": "0zPILh9oEH0fDagpkHTQQ8",
+          "name": "Killstation",
+          "type": "artist",
+          "uri": "spotify:artist:0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194608,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hv3PVAj6KKDOVNhyRfjeG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hv3PVAj6KKDOVNhyRfjeG",
+      "id": "2hv3PVAj6KKDOVNhyRfjeG",
+      "name": "LIMBO (feat. Killstation)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2hv3PVAj6KKDOVNhyRfjeG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 94786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lLR14DyqhM5LBj6iHI0Al"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lLR14DyqhM5LBj6iHI0Al",
+      "id": "4lLR14DyqhM5LBj6iHI0Al",
+      "name": "before i realize",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4lLR14DyqhM5LBj6iHI0Al",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          },
+          "href": "https://api.spotify.com/v1/artists/55fhWPvDiMpLnE4ZzNXZyW",
+          "id": "55fhWPvDiMpLnE4ZzNXZyW",
+          "name": "Noah Cyrus",
+          "type": "artist",
+          "uri": "spotify:artist:55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240068,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4s7U2mS26ab7GFtgeUcwKA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4s7U2mS26ab7GFtgeUcwKA",
+      "id": "4s7U2mS26ab7GFtgeUcwKA",
+      "name": "Ecstasy (feat. Noah Cyrus)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4s7U2mS26ab7GFtgeUcwKA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75q3USMHhXwAcZWZnl9fGi"
+          },
+          "href": "https://api.spotify.com/v1/artists/75q3USMHhXwAcZWZnl9fGi",
+          "id": "75q3USMHhXwAcZWZnl9fGi",
+          "name": "Tom. G",
+          "type": "artist",
+          "uri": "spotify:artist:75q3USMHhXwAcZWZnl9fGi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 128039,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3KJ7n1lICe3OZuuwZQlWDQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3KJ7n1lICe3OZuuwZQlWDQ",
+      "id": "3KJ7n1lICe3OZuuwZQlWDQ",
+      "name": "Kill My Vibe (feat. Tom G)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3KJ7n1lICe3OZuuwZQlWDQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "type": "artist",
+          "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eezS9KmhdjGN436RdTIXu",
+          "id": "0eezS9KmhdjGN436RdTIXu",
+          "name": "Mavado",
+          "type": "artist",
+          "uri": "spotify:artist:0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 134400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2sssyogPeYk581LqeMZOQu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2sssyogPeYk581LqeMZOQu",
+      "id": "2sssyogPeYk581LqeMZOQu",
+      "name": "Hot Gyal (feat. Tory Lanez & Mavado)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2sssyogPeYk581LqeMZOQu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bCwYvvFvWOEXtO9W7p0Iv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bCwYvvFvWOEXtO9W7p0Iv",
+          "id": "5bCwYvvFvWOEXtO9W7p0Iv",
+          "name": "Craig Xen",
+          "type": "artist",
+          "uri": "spotify:artist:5bCwYvvFvWOEXtO9W7p0Iv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163591,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/71hGntRHMOByPYua7WbnGG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/71hGntRHMOByPYua7WbnGG",
+      "id": "71hGntRHMOByPYua7WbnGG",
+      "name": "THE ONLY TIME I FEEL ALIVE",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:71hGntRHMOByPYua7WbnGG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 148759,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Q0KBExmZVG7KVoFA8CRag"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Q0KBExmZVG7KVoFA8CRag",
+      "id": "6Q0KBExmZVG7KVoFA8CRag",
+      "name": "the interlude that never ends",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6Q0KBExmZVG7KVoFA8CRag",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oZASNXz7lmZGoXFh8GnZM",
+          "id": "0oZASNXz7lmZGoXFh8GnZM",
+          "name": "Kemba",
+          "type": "artist",
+          "uri": "spotify:artist:0oZASNXz7lmZGoXFh8GnZM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2P5sC9cVZDToPxyomzF1UH",
+          "id": "2P5sC9cVZDToPxyomzF1UH",
+          "name": "Joey Bada$$",
+          "type": "artist",
+          "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172242,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4CuxcBpQnw3Itmp5VQoCHj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4CuxcBpQnw3Itmp5VQoCHj",
+      "id": "4CuxcBpQnw3Itmp5VQoCHj",
+      "name": "Daemons (feat. Joey Bada$$)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4CuxcBpQnw3Itmp5VQoCHj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 120055,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0RjJSBBEolCDJ6wDiuVCmh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0RjJSBBEolCDJ6wDiuVCmh",
+      "id": "0RjJSBBEolCDJ6wDiuVCmh",
+      "name": "ATTENTION!",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0RjJSBBEolCDJ6wDiuVCmh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 105210,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1WGRoqWrqDkXifw5JBayUi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1WGRoqWrqDkXifw5JBayUi",
+      "id": "1WGRoqWrqDkXifw5JBayUi",
+      "name": "Eat It Up",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:1WGRoqWrqDkXifw5JBayUi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+          },
+          "href": "https://api.spotify.com/v1/artists/42yf4QkiE9a252krn9OUCb",
+          "id": "42yf4QkiE9a252krn9OUCb",
+          "name": "Sauce Walka",
+          "type": "artist",
+          "uri": "spotify:artist:42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7CCjtD0hCK005Bvg2WG1a7",
+          "id": "7CCjtD0hCK005Bvg2WG1a7",
+          "name": "Carnage",
+          "type": "artist",
+          "uri": "spotify:artist:7CCjtD0hCK005Bvg2WG1a7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 107061,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6crBVhm5d0JnAJhVHYkJTZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6crBVhm5d0JnAJhVHYkJTZ",
+      "id": "6crBVhm5d0JnAJhVHYkJTZ",
+      "name": "Voss (feat. Sauce Walka & Carnage)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:6crBVhm5d0JnAJhVHYkJTZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XTGADISSMRf8B4TcVGYUC",
+          "id": "1XTGADISSMRf8B4TcVGYUC",
+          "name": "Ky-Mani Marley",
+          "type": "artist",
+          "uri": "spotify:artist:1XTGADISSMRf8B4TcVGYUC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ExGrw6XpbtUAJHTLtUXUD",
+          "id": "2ExGrw6XpbtUAJHTLtUXUD",
+          "name": "Stefflon Don",
+          "type": "artist",
+          "uri": "spotify:artist:2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          },
+          "href": "https://api.spotify.com/v1/artists/2NUz5P42WqkxilbI8ocN76",
+          "id": "2NUz5P42WqkxilbI8ocN76",
+          "name": "Vybz Kartel",
+          "type": "artist",
+          "uri": "spotify:artist:2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203519,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5n9O3DqswW3Vm5b3Z07zcB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5n9O3DqswW3Vm5b3Z07zcB",
+      "id": "5n9O3DqswW3Vm5b3Z07zcB",
+      "name": "Royalty (feat. Ky-Mani Marley, Stefflon Don & Vybz Kartel)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:5n9O3DqswW3Vm5b3Z07zcB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IWWEdcjhQ3aU6WIk7XdgZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IWWEdcjhQ3aU6WIk7XdgZ",
+          "id": "3IWWEdcjhQ3aU6WIk7XdgZ",
+          "name": "Jimmy Levy",
+          "type": "artist",
+          "uri": "spotify:artist:3IWWEdcjhQ3aU6WIk7XdgZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 131214,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RZt3aBokyH2EEqWBef7uS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RZt3aBokyH2EEqWBef7uS",
+      "id": "5RZt3aBokyH2EEqWBef7uS",
+      "name": "wanna grow old (i won't let go) (feat. Jimmy Levy)",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:5RZt3aBokyH2EEqWBef7uS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 136357,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0MW5zwGXciXyVdFwQbvBq8",
+      "id": "0MW5zwGXciXyVdFwQbvBq8",
+      "name": "HEARTEATER",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:0MW5zwGXciXyVdFwQbvBq8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          },
+          "href": "https://api.spotify.com/v1/artists/6C1ohJrd5VydigQtaGy5Wa",
+          "id": "6C1ohJrd5VydigQtaGy5Wa",
+          "name": "Joyner Lucas",
+          "type": "artist",
+          "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166406,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7t27DLlJCOCt0Y3XTUGAbc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7t27DLlJCOCt0Y3XTUGAbc",
+      "id": "7t27DLlJCOCt0Y3XTUGAbc",
+      "name": "NorthStar (feat. Joyner Lucas) - Remix",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:7t27DLlJCOCt0Y3XTUGAbc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rG2LxSJpps1aGz2w14UI6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rG2LxSJpps1aGz2w14UI6",
+          "id": "4rG2LxSJpps1aGz2w14UI6",
+          "name": "ikabodVEINS",
+          "type": "artist",
+          "uri": "spotify:artist:4rG2LxSJpps1aGz2w14UI6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 138590,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/62VGbS3xXFRGDBD8F2ZgPl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/62VGbS3xXFRGDBD8F2ZgPl",
+      "id": "62VGbS3xXFRGDBD8F2ZgPl",
+      "name": "CHASE / glass shards (feat. ikabodVEINS)",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:62VGbS3xXFRGDBD8F2ZgPl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 82470,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4rhr8LgQoPtWkQaXVPSNOO",
+      "id": "4rhr8LgQoPtWkQaXVPSNOO",
+      "name": "numb the pain",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:4rhr8LgQoPtWkQaXVPSNOO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          },
+          "href": "https://api.spotify.com/v1/artists/15UsOTVnJzReFVN1VCnxy4",
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "type": "artist",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+          "id": "6FBDaR13swtiWwGhX1WQsP",
+          "name": "blink-182",
+          "type": "artist",
+          "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151683,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0R6dvBlNevqkzioHLoygbI",
+      "id": "0R6dvBlNevqkzioHLoygbI",
+      "name": "IT'S ALL FADING TO BLACK (feat. blink-182)",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:0R6dvBlNevqkzioHLoygbI",
+      "is_local": false
+    }
+  ]
+}

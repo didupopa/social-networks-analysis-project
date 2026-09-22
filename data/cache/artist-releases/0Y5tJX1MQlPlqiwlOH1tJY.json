@@ -1,0 +1,394 @@
+{
+  "artist_id": "0Y5tJX1MQlPlqiwlOH1tJY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "href": "https://api.spotify.com/v1/albums/32lGAqeVkdJxEj2iv2Q01B",
+      "id": "32lGAqeVkdJxEj2iv2Q01B",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d0f8a4c3623e02a79928288",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025d0f8a4c3623e02a79928288",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515d0f8a4c3623e02a79928288",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "JACKBOYS 2",
+      "release_date": "2025-07-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:32lGAqeVkdJxEj2iv2Q01B",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7A8S43ryYdbWpJKeHRZRcq",
+          "id": "7A8S43ryYdbWpJKeHRZRcq",
+          "name": "JACKBOYS",
+          "type": "artist",
+          "uri": "spotify:artist:7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/18NOKLkZETa4sWwLMIm0UZ",
+      "id": "18NOKLkZETa4sWwLMIm0UZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0204481c826dd292e5e4983b3f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485104481c826dd292e5e4983b3f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "UTOPIA",
+      "release_date": "2023-07-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:18NOKLkZETa4sWwLMIm0UZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Sf8GsXG32t0jNrX11xqWx",
+      "id": "1Sf8GsXG32t0jNrX11xqWx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b920fc01c37be38130418a34",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b920fc01c37be38130418a34",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "JACKBOYS",
+      "release_date": "2019-12-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Sf8GsXG32t0jNrX11xqWx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7A8S43ryYdbWpJKeHRZRcq",
+          "id": "7A8S43ryYdbWpJKeHRZRcq",
+          "name": "JACKBOYS",
+          "type": "artist",
+          "uri": "spotify:artist:7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "href": "https://api.spotify.com/v1/albums/41GuZcammIkupMPKH2OJ6I",
+      "id": "41GuZcammIkupMPKH2OJ6I",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851daec894c14c0ca42d76eeb32",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ASTROWORLD",
+      "release_date": "2018-08-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
+      },
+      "href": "https://api.spotify.com/v1/albums/6FED8aeieEnUWwQqAO9zT1",
+      "id": "6FED8aeieEnUWwQqAO9zT1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02631973893e94d01cfcdf0e5e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851631973893e94d01cfcdf0e5e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Huncho Jack, Jack Huncho",
+      "release_date": "2017-12-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6FED8aeieEnUWwQqAO9zT1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6extd4B6hl8VTmnlhpl2bY",
+          "id": "6extd4B6hl8VTmnlhpl2bY",
+          "name": "Huncho Jack",
+          "type": "artist",
+          "uri": "spotify:artist:6extd4B6hl8VTmnlhpl2bY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "type": "artist",
+          "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "href": "https://api.spotify.com/v1/albums/42WVQWuf1teDysXiOupIZt",
+      "id": "42WVQWuf1teDysXiOupIZt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028752a7355996e64709247c53",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518752a7355996e64709247c53",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Birds In The Trap Sing McKnight",
+      "release_date": "2016-09-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:42WVQWuf1teDysXiOupIZt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "href": "https://api.spotify.com/v1/albums/4PWBTB6NYSKQwfo79I3prg",
+      "id": "4PWBTB6NYSKQwfo79I3prg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3b5affd8824b4ed301b7137",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3b5affd8824b4ed301b7137",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rodeo",
+      "release_date": "2015-09-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4PWBTB6NYSKQwfo79I3prg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "href": "https://api.spotify.com/v1/albums/54Y471E7GNBSOXjZtqONId",
+      "id": "54Y471E7GNBSOXjZtqONId",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a2a7386de6494fc9275e1abb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a2a7386de6494fc9275e1abb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a2a7386de6494fc9275e1abb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DAYS BEFORE RODEO",
+      "release_date": "2014-08-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:54Y471E7GNBSOXjZtqONId",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ]
+    }
+  ]
+}

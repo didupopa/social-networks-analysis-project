@@ -1,0 +1,96 @@
+{
+  "artist_id": "4FqPRilb0Ja0TKG3RS3y4s",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/28qORmS5JCCsIEXzXnuzVO"
+      },
+      "href": "https://api.spotify.com/v1/albums/28qORmS5JCCsIEXzXnuzVO",
+      "id": "28qORmS5JCCsIEXzXnuzVO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273aae780d2a6c99ccf37fd2884",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02aae780d2a6c99ccf37fd2884",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851aae780d2a6c99ccf37fd2884",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "HUMAN",
+      "release_date": "2018-04-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:28qORmS5JCCsIEXzXnuzVO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+          "id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "Steve Angello",
+          "type": "artist",
+          "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2H4BesBBUG1SOuUdQugfLf"
+      },
+      "href": "https://api.spotify.com/v1/albums/2H4BesBBUG1SOuUdQugfLf",
+      "id": "2H4BesBBUG1SOuUdQugfLf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731d8963a0ca974049575bcb8a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021d8963a0ca974049575bcb8a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511d8963a0ca974049575bcb8a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wild Youth",
+      "release_date": "2016-01-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2H4BesBBUG1SOuUdQugfLf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FqPRilb0Ja0TKG3RS3y4s",
+          "id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "Steve Angello",
+          "type": "artist",
+          "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ]
+    }
+  ]
+}

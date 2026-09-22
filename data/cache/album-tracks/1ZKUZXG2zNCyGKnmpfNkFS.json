@@ -1,0 +1,805 @@
+{
+  "album_id": "1ZKUZXG2zNCyGKnmpfNkFS",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+          },
+          "href": "https://api.spotify.com/v1/artists/3L1iFJfRzE7yzilr2yGl6t",
+          "id": "3L1iFJfRzE7yzilr2yGl6t",
+          "name": "Pablo de Sarasate",
+          "type": "artist",
+          "uri": "spotify:artist:3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 282440,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4oCImCmh9nKEq3gGUmUFAP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4oCImCmh9nKEq3gGUmUFAP",
+      "id": "4oCImCmh9nKEq3gGUmUFAP",
+      "name": "Spanish Dances, Op. 22: No. 1, Romanza andaluza (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4oCImCmh9nKEq3gGUmUFAP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AoIc5YFH0aSFc4mKqBEeB",
+          "id": "1AoIc5YFH0aSFc4mKqBEeB",
+          "name": "Jules Massenet",
+          "type": "artist",
+          "uri": "spotify:artist:1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 312026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0LZQ8RoPxfw90uFsaAuaOx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0LZQ8RoPxfw90uFsaAuaOx",
+      "id": "0LZQ8RoPxfw90uFsaAuaOx",
+      "name": "Thaïs: Méditation (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0LZQ8RoPxfw90uFsaAuaOx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KWHPc1PwBkXVNzJNlQvkC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KWHPc1PwBkXVNzJNlQvkC",
+          "id": "6KWHPc1PwBkXVNzJNlQvkC",
+          "name": "William Kroll",
+          "type": "artist",
+          "uri": "spotify:artist:6KWHPc1PwBkXVNzJNlQvkC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37pCmvOtl2tNc6P1FwdTq1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37pCmvOtl2tNc6P1FwdTq1",
+      "id": "37pCmvOtl2tNc6P1FwdTq1",
+      "name": "Banjo and Fiddle (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:37pCmvOtl2tNc6P1FwdTq1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HdNDZaNm7xLt18v9aWDfe",
+          "id": "0HdNDZaNm7xLt18v9aWDfe",
+          "name": "Fritz Kreisler",
+          "type": "artist",
+          "uri": "spotify:artist:0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236253,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6xpuRHJlGS0CWGEsFeyokh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6xpuRHJlGS0CWGEsFeyokh",
+      "id": "6xpuRHJlGS0CWGEsFeyokh",
+      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6xpuRHJlGS0CWGEsFeyokh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+          },
+          "href": "https://api.spotify.com/v1/artists/3L1iFJfRzE7yzilr2yGl6t",
+          "id": "3L1iFJfRzE7yzilr2yGl6t",
+          "name": "Pablo de Sarasate",
+          "type": "artist",
+          "uri": "spotify:artist:3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 362266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4GslZW7yOBRhTipRDnK3fO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4GslZW7yOBRhTipRDnK3fO",
+      "id": "4GslZW7yOBRhTipRDnK3fO",
+      "name": "Introduction et tarantelle, Op. 43 (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4GslZW7yOBRhTipRDnK3fO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wEcQTGkugQxXzikls4izh",
+          "id": "7wEcQTGkugQxXzikls4izh",
+          "name": "Henryk Wieniawski",
+          "type": "artist",
+          "uri": "spotify:artist:7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 472093,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ZqkJjtSUTzlNrYjvDP7H9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ZqkJjtSUTzlNrYjvDP7H9",
+      "id": "5ZqkJjtSUTzlNrYjvDP7H9",
+      "name": "Légende, Op. 17 (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5ZqkJjtSUTzlNrYjvDP7H9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wEcQTGkugQxXzikls4izh",
+          "id": "7wEcQTGkugQxXzikls4izh",
+          "name": "Henryk Wieniawski",
+          "type": "artist",
+          "uri": "spotify:artist:7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 148293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1sIQjjyk4ty8cQZgjCg46n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1sIQjjyk4ty8cQZgjCg46n",
+      "id": "1sIQjjyk4ty8cQZgjCg46n",
+      "name": "8 Etudes for 2 Violins, Op. 18: No. 3, Allegro moderato (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1sIQjjyk4ty8cQZgjCg46n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3I44VeFiybukkBmSwfSCAI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3I44VeFiybukkBmSwfSCAI",
+          "id": "3I44VeFiybukkBmSwfSCAI",
+          "name": "Alfons Szczerbiński",
+          "type": "artist",
+          "uri": "spotify:artist:3I44VeFiybukkBmSwfSCAI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 406413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2w8G5zpqakAaRIUerBBddw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2w8G5zpqakAaRIUerBBddw",
+      "id": "2w8G5zpqakAaRIUerBBddw",
+      "name": "Andante cantabile (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2w8G5zpqakAaRIUerBBddw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HdNDZaNm7xLt18v9aWDfe",
+          "id": "0HdNDZaNm7xLt18v9aWDfe",
+          "name": "Fritz Kreisler",
+          "type": "artist",
+          "uri": "spotify:artist:0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5IBjOqifWcpBQoKu0WrKEy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5IBjOqifWcpBQoKu0WrKEy",
+      "id": "5IBjOqifWcpBQoKu0WrKEy",
+      "name": "Marche miniature viennoise (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5IBjOqifWcpBQoKu0WrKEy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wEcQTGkugQxXzikls4izh",
+          "id": "7wEcQTGkugQxXzikls4izh",
+          "name": "Henryk Wieniawski",
+          "type": "artist",
+          "uri": "spotify:artist:7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 332400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6J5cS8zHCUNyQ0BgWuncAO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6J5cS8zHCUNyQ0BgWuncAO",
+      "id": "6J5cS8zHCUNyQ0BgWuncAO",
+      "name": "Scherzo tarantelle, Op. 16 (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6J5cS8zHCUNyQ0BgWuncAO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HdNDZaNm7xLt18v9aWDfe",
+          "id": "0HdNDZaNm7xLt18v9aWDfe",
+          "name": "Fritz Kreisler",
+          "type": "artist",
+          "uri": "spotify:artist:0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GwP5WuuJj0g5ZQhygR3pn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GwP5WuuJj0g5ZQhygR3pn",
+      "id": "1GwP5WuuJj0g5ZQhygR3pn",
+      "name": "3 Old Viennese Dances: No. 3, Schön Rosmarin (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1GwP5WuuJj0g5ZQhygR3pn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sEsUFw7kqyONzRHzknbsK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sEsUFw7kqyONzRHzknbsK",
+          "id": "5sEsUFw7kqyONzRHzknbsK",
+          "name": "Jenő Hubay",
+          "type": "artist",
+          "uri": "spotify:artist:5sEsUFw7kqyONzRHzknbsK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 335893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/11kr9g9iaw8yO3DkFqbwL8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/11kr9g9iaw8yO3DkFqbwL8",
+      "id": "11kr9g9iaw8yO3DkFqbwL8",
+      "name": "Scènes de la Csárda No. 5, Op. 33 \"Hullámzó Balaton\" (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:11kr9g9iaw8yO3DkFqbwL8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wEcQTGkugQxXzikls4izh",
+          "id": "7wEcQTGkugQxXzikls4izh",
+          "name": "Henryk Wieniawski",
+          "type": "artist",
+          "uri": "spotify:artist:7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261186,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0AUCAmPqiVZmIX6xTYLcD4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0AUCAmPqiVZmIX6xTYLcD4",
+      "id": "0AUCAmPqiVZmIX6xTYLcD4",
+      "name": "Souvenir de Posen, Op. 3 (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0AUCAmPqiVZmIX6xTYLcD4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HdNDZaNm7xLt18v9aWDfe",
+          "id": "0HdNDZaNm7xLt18v9aWDfe",
+          "name": "Fritz Kreisler",
+          "type": "artist",
+          "uri": "spotify:artist:0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HyghV248jFHHKbNUuY8cE"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HyghV248jFHHKbNUuY8cE",
+          "id": "3HyghV248jFHHKbNUuY8cE",
+          "name": "Gabriela Balcerek",
+          "type": "artist",
+          "uri": "spotify:artist:3HyghV248jFHHKbNUuY8cE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Vt6rW97rpUAJmi3MZT5la"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Vt6rW97rpUAJmi3MZT5la",
+          "id": "4Vt6rW97rpUAJmi3MZT5la",
+          "name": "Sinfonia ViVa",
+          "type": "artist",
+          "uri": "spotify:artist:4Vt6rW97rpUAJmi3MZT5la"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gD42NhPeezhwvwePO7LnX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gD42NhPeezhwvwePO7LnX",
+          "id": "2gD42NhPeezhwvwePO7LnX",
+          "name": "Tomasz Radziwonowicz",
+          "type": "artist",
+          "uri": "spotify:artist:2gD42NhPeezhwvwePO7LnX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 333360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25zwb1WY9CpPmyTwQ2hVQk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/25zwb1WY9CpPmyTwQ2hVQk",
+      "id": "25zwb1WY9CpPmyTwQ2hVQk",
+      "name": "Praeludium & Allegro in the Style of Pugnani (Arr. for Violin & Orchestra by Tomasz Radziwonowicz)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:25zwb1WY9CpPmyTwQ2hVQk",
+      "is_local": false
+    }
+  ]
+}
