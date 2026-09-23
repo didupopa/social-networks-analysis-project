@@ -14,7 +14,7 @@
 
 ### Create and populate .env file
 
-In the root of the repository, create a ``.env`` file and add the following:
+In the root of the repository, create a `.env` file and add the following:
 ```
 SPOTIFY_CLIENT_ID=YOUR_CLIENT_ID
 SPOTIFY_CLIENT_SECRET=YOUR_CLIENT_SECRET
@@ -26,24 +26,24 @@ SPOTIFY_REDIRECT_URI=YOUR_REDIRECT_URI
 Run all commands in root of repository!
 
 1. Create new Python virtual environment:
-```
+```bash
 python -m venv .venv
 ```
 
 2. Activate the virtual environment:
-```
+```bash
 source .venv/bin/activate
 ```
 
 3. To kill virtual environment, run
-```
+```bash
 deactivate
 ```
 
 ### Install required Python packages
 
 After the virtual environment is running, install the required packages with the following command:
-```
+```bash
 pip install -r requirements.txt
 ```
 
