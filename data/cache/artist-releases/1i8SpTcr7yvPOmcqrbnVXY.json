@@ -1,0 +1,460 @@
+{
+  "artist_id": "1i8SpTcr7yvPOmcqrbnVXY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq"
+      },
+      "href": "https://api.spotify.com/v1/albums/6iUfdDevy7HR3zYPj2BRTq",
+      "id": "6iUfdDevy7HR3zYPj2BRTq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27374bd70a59c05019131743e2c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0274bd70a59c05019131743e2c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485174bd70a59c05019131743e2c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Stendhal",
+      "release_date": "2025-12-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6iUfdDevy7HR3zYPj2BRTq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7a0XAaPaK2aDSqa8p3QnC7",
+          "id": "7a0XAaPaK2aDSqa8p3QnC7",
+          "name": "Beéle",
+          "type": "artist",
+          "uri": "spotify:artist:7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "href": "https://api.spotify.com/v1/albums/3nEa7WJXcruywRIZXu6qRE",
+      "id": "3nEa7WJXcruywRIZXu6qRE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f583dbe85a995819e69b8bb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029f583dbe85a995819e69b8bb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519f583dbe85a995819e69b8bb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Cosmo",
+      "release_date": "2023-11-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3nEa7WJXcruywRIZXu6qRE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "href": "https://api.spotify.com/v1/albums/4UB2nT0IAEunpdUFiuFUxA",
+      "id": "4UB2nT0IAEunpdUFiuFUxA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273791d76abc6a152ac90c9b140",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02791d76abc6a152ac90c9b140",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851791d76abc6a152ac90c9b140",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Afro",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4UB2nT0IAEunpdUFiuFUxA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+      },
+      "href": "https://api.spotify.com/v1/albums/1fPeBvEYIUS91OTh6lu65O",
+      "id": "1fPeBvEYIUS91OTh6lu65O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273baeb95fd8bf559e73a0d8d35",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02baeb95fd8bf559e73a0d8d35",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851baeb95fd8bf559e73a0d8d35",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ozu Vivo (Live)",
+      "release_date": "2023-02-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1fPeBvEYIUS91OTh6lu65O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1kjfMVBNhsDeRyAu9zbLfF",
+      "id": "1kjfMVBNhsDeRyAu9zbLfF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02125624f2e04f5a1ccb0dfb45",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851125624f2e04f5a1ccb0dfb45",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "OzuTochi",
+      "release_date": "2022-10-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1kjfMVBNhsDeRyAu9zbLfF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "href": "https://api.spotify.com/v1/albums/28adqly9V7wm5DFr7hlqtK",
+      "id": "28adqly9V7wm5DFr7hlqtK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734cd780c0568c9798bb2e461b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024cd780c0568c9798bb2e461b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514cd780c0568c9798bb2e461b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Los Dioses",
+      "release_date": "2021-01-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:28adqly9V7wm5DFr7hlqtK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
+          "id": "2R21vXR83lH98kGeO99Y66",
+          "name": "Anuel AA",
+          "type": "artist",
+          "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "href": "https://api.spotify.com/v1/albums/69iuPQsXel3luOSDNF0q2Q",
+      "id": "69iuPQsXel3luOSDNF0q2Q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b1717c201d31ad8e43dedc55",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b1717c201d31ad8e43dedc55",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ENOC",
+      "release_date": "2020-09-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:69iuPQsXel3luOSDNF0q2Q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "href": "https://api.spotify.com/v1/albums/7f6r6ijWtMJ0QYydwuCYvH",
+      "id": "7f6r6ijWtMJ0QYydwuCYvH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27359814794af144d08dae50672",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0259814794af144d08dae50672",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485159814794af144d08dae50672",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nibiru",
+      "release_date": "2019-11-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7f6r6ijWtMJ0QYydwuCYvH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "href": "https://api.spotify.com/v1/albums/0SukGZiXMtmsZoxstkBtNR",
+      "id": "0SukGZiXMtmsZoxstkBtNR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27366ab16a0f75d517304f18efd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0266ab16a0f75d517304f18efd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485166ab16a0f75d517304f18efd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Aura",
+      "release_date": "2018-08-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0SukGZiXMtmsZoxstkBtNR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "href": "https://api.spotify.com/v1/albums/4s05NbwGgw5SO42AdsN5Oo",
+      "id": "4s05NbwGgw5SO42AdsN5Oo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0a875d7f1bfe4ec4aaffa48",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b0a875d7f1bfe4ec4aaffa48",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Odisea",
+      "release_date": "2017-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4s05NbwGgw5SO42AdsN5Oo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "type": "artist",
+          "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ]
+    }
+  ]
+}

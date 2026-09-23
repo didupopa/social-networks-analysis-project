@@ -1,0 +1,63 @@
+{
+  "artist_id": "1HnPX6Hyou4IeAb0GlQYFk",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/082799WEr35cLoezLmvrYH"
+      },
+      "href": "https://api.spotify.com/v1/albums/082799WEr35cLoezLmvrYH",
+      "id": "082799WEr35cLoezLmvrYH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273194e34d9d88c8d4aca1ffafa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02194e34d9d88c8d4aca1ffafa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851194e34d9d88c8d4aca1ffafa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fairytale Aliens",
+      "release_date": "2020-03-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:082799WEr35cLoezLmvrYH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ]
+    }
+  ]
+}

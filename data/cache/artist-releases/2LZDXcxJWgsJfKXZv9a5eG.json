@@ -1,0 +1,96 @@
+{
+  "artist_id": "2LZDXcxJWgsJfKXZv9a5eG",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh"
+      },
+      "href": "https://api.spotify.com/v1/albums/5DFEo8Nh5N6BYScoCDKvkh",
+      "id": "5DFEo8Nh5N6BYScoCDKvkh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c11e3963948503048884e05",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c11e3963948503048884e05",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c11e3963948503048884e05",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "PRINCESS CATGIRL",
+      "release_date": "2019-09-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5DFEo8Nh5N6BYScoCDKvkh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LZDXcxJWgsJfKXZv9a5eG",
+          "id": "2LZDXcxJWgsJfKXZv9a5eG",
+          "name": "Cashmere Cat",
+          "type": "artist",
+          "uri": "spotify:artist:2LZDXcxJWgsJfKXZv9a5eG"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9"
+      },
+      "href": "https://api.spotify.com/v1/albums/5HR24TLfeGpDT860C7qka9",
+      "id": "5HR24TLfeGpDT860C7qka9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273747de7362e80274878719786",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02747de7362e80274878719786",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851747de7362e80274878719786",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "9",
+      "release_date": "2017-04-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5HR24TLfeGpDT860C7qka9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LZDXcxJWgsJfKXZv9a5eG",
+          "id": "2LZDXcxJWgsJfKXZv9a5eG",
+          "name": "Cashmere Cat",
+          "type": "artist",
+          "uri": "spotify:artist:2LZDXcxJWgsJfKXZv9a5eG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "artist_id": "0HCeK90YUyjWi0utTPYXw1",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3HKi3gzM574v45oFvoJhuC"
+      },
+      "href": "https://api.spotify.com/v1/albums/3HKi3gzM574v45oFvoJhuC",
+      "id": "3HKi3gzM574v45oFvoJhuC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273676617d96e9b5b0b99f88b00",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02676617d96e9b5b0b99f88b00",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851676617d96e9b5b0b99f88b00",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ready Now",
+      "release_date": "2024-03-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3HKi3gzM574v45oFvoJhuC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HCeK90YUyjWi0utTPYXw1",
+          "id": "0HCeK90YUyjWi0utTPYXw1",
+          "name": "Truth Hurts",
+          "type": "artist",
+          "uri": "spotify:artist:0HCeK90YUyjWi0utTPYXw1"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+      },
+      "href": "https://api.spotify.com/v1/albums/2qDd6KcV4L5MfBSIrjDWZ0",
+      "id": "2qDd6KcV4L5MfBSIrjDWZ0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731819b419a6b7db3edb0cbbac",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021819b419a6b7db3edb0cbbac",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511819b419a6b7db3edb0cbbac",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Truthfully Speaking",
+      "release_date": "2002-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2qDd6KcV4L5MfBSIrjDWZ0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0HCeK90YUyjWi0utTPYXw1",
+          "id": "0HCeK90YUyjWi0utTPYXw1",
+          "name": "Truth Hurts",
+          "type": "artist",
+          "uri": "spotify:artist:0HCeK90YUyjWi0utTPYXw1"
+        }
+      ]
+    }
+  ]
+}

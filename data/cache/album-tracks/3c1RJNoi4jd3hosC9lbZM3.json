@@ -1,0 +1,478 @@
+{
+  "album_id": "3c1RJNoi4jd3hosC9lbZM3",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PhdYoQGH8s1xee81dqQOO",
+          "id": "4PhdYoQGH8s1xee81dqQOO",
+          "name": "Natiruts",
+          "type": "artist",
+          "uri": "spotify:artist:4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7I04AnYSyyWSvI67K4PJIF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7I04AnYSyyWSvI67K4PJIF",
+          "id": "7I04AnYSyyWSvI67K4PJIF",
+          "name": "Rayko B.",
+          "type": "artist",
+          "uri": "spotify:artist:7I04AnYSyyWSvI67K4PJIF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3TkUK0EOLajGoxUsoc19gr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3TkUK0EOLajGoxUsoc19gr",
+      "id": "3TkUK0EOLajGoxUsoc19gr",
+      "name": "Para Sentirme Libre (feat. Rayko B.)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3TkUK0EOLajGoxUsoc19gr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222902,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7D6V3x19PdOqfmh7jh0lkp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7D6V3x19PdOqfmh7jh0lkp",
+      "id": "7D6V3x19PdOqfmh7jh0lkp",
+      "name": "Puedo Ser Yo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7D6V3x19PdOqfmh7jh0lkp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KTldaJ8tHSkYU3nigfwP",
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "type": "artist",
+          "uri": "spotify:artist:53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199753,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wrLvVZi0ZsRsAjabepEDV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wrLvVZi0ZsRsAjabepEDV",
+      "id": "2wrLvVZi0ZsRsAjabepEDV",
+      "name": "Este Corazón",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2wrLvVZi0ZsRsAjabepEDV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          },
+          "href": "https://api.spotify.com/v1/artists/7mUBMaZW1MXGswaneb0JTT",
+          "id": "7mUBMaZW1MXGswaneb0JTT",
+          "name": "Macaco",
+          "type": "artist",
+          "uri": "spotify:artist:7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zPWcnruZBNnrd22uS8UBy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zPWcnruZBNnrd22uS8UBy",
+          "id": "3zPWcnruZBNnrd22uS8UBy",
+          "name": "Jorge Villamizar",
+          "type": "artist",
+          "uri": "spotify:artist:3zPWcnruZBNnrd22uS8UBy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2eWiATMtcOCS8vAjRJp9iY",
+          "id": "2eWiATMtcOCS8vAjRJp9iY",
+          "name": "Catalina García",
+          "type": "artist",
+          "uri": "spotify:artist:2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210065,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/10sGmWSBmXJP6Q8YlrXJRp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/10sGmWSBmXJP6Q8YlrXJRp",
+      "id": "10sGmWSBmXJP6Q8YlrXJRp",
+      "name": "Amanece (feat. Catalina García)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:10sGmWSBmXJP6Q8YlrXJRp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208708,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mSmAT5DKKgiCCKepK9Qis"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mSmAT5DKKgiCCKepK9Qis",
+      "id": "4mSmAT5DKKgiCCKepK9Qis",
+      "name": "Atlántico a Pie",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4mSmAT5DKKgiCCKepK9Qis",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+          },
+          "href": "https://api.spotify.com/v1/artists/0g7hZVprd3orBpMrSLWeJ9",
+          "id": "0g7hZVprd3orBpMrSLWeJ9",
+          "name": "Florent Pagny",
+          "type": "artist",
+          "uri": "spotify:artist:0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202576,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Aai39SE7pa8QK2rOJhfqJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Aai39SE7pa8QK2rOJhfqJ",
+      "id": "1Aai39SE7pa8QK2rOJhfqJ",
+      "name": "El Rinconcito",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1Aai39SE7pa8QK2rOJhfqJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gbXoccc8bjK8eUh92mILy",
+          "id": "1gbXoccc8bjK8eUh92mILy",
+          "name": "Buika",
+          "type": "artist",
+          "uri": "spotify:artist:1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221205,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vX5bnoPVsbRbZP00nYnnZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vX5bnoPVsbRbZP00nYnnZ",
+      "id": "2vX5bnoPVsbRbZP00nYnnZ",
+      "name": "Veneno",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2vX5bnoPVsbRbZP00nYnnZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186853,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3aWCkmStzGLDDmlwxJtQrU",
+      "id": "3aWCkmStzGLDDmlwxJtQrU",
+      "name": "Un Poquito",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3aWCkmStzGLDDmlwxJtQrU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dzq55YG3wjViqexDwiycQ",
+          "id": "7dzq55YG3wjViqexDwiycQ",
+          "name": "Ivete Sangalo",
+          "type": "artist",
+          "uri": "spotify:artist:7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219567,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7KUZZp1xGxGawVIQKLbXuo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7KUZZp1xGxGawVIQKLbXuo",
+      "id": "7KUZZp1xGxGawVIQKLbXuo",
+      "name": "Hoy",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7KUZZp1xGxGawVIQKLbXuo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200418,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1IfroddLpQ8li9iXebd4IM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1IfroddLpQ8li9iXebd4IM",
+      "id": "1IfroddLpQ8li9iXebd4IM",
+      "name": "Del Otro Lado",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1IfroddLpQ8li9iXebd4IM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193501,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1nD3WPcYnwmAMq8WsvtrPa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1nD3WPcYnwmAMq8WsvtrPa",
+      "id": "1nD3WPcYnwmAMq8WsvtrPa",
+      "name": "Esa Mujer",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1nD3WPcYnwmAMq8WsvtrPa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188309,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JK0fIWV8cusZDTLT5oAk7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JK0fIWV8cusZDTLT5oAk7",
+      "id": "5JK0fIWV8cusZDTLT5oAk7",
+      "name": "Amanece Acústico",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5JK0fIWV8cusZDTLT5oAk7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+          "id": "0LALueHEQunQ2d61fXGeZh",
+          "name": "Diego Torres",
+          "type": "artist",
+          "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7I04AnYSyyWSvI67K4PJIF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7I04AnYSyyWSvI67K4PJIF",
+          "id": "7I04AnYSyyWSvI67K4PJIF",
+          "name": "Rayko B.",
+          "type": "artist",
+          "uri": "spotify:artist:7I04AnYSyyWSvI67K4PJIF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7nvFTzhdrfXBwFK0lZ3KJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/7nvFTzhdrfXBwFK0lZ3KJf",
+          "id": "7nvFTzhdrfXBwFK0lZ3KJf",
+          "name": "GAIYA",
+          "type": "artist",
+          "uri": "spotify:artist:7nvFTzhdrfXBwFK0lZ3KJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225916,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/06Al7gBGOzA687Rq6mMxOv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/06Al7gBGOzA687Rq6mMxOv",
+      "id": "06Al7gBGOzA687Rq6mMxOv",
+      "name": "Un Poquito - Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:06Al7gBGOzA687Rq6mMxOv",
+      "is_local": false
+    }
+  ]
+}

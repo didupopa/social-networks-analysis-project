@@ -1,0 +1,555 @@
+{
+  "album_id": "72CZUEea4x8LmbmvozgKw1",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Dg2kRoNyueNh6e393eM9N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Dg2kRoNyueNh6e393eM9N",
+      "id": "6Dg2kRoNyueNh6e393eM9N",
+      "name": "Back On My B.S. Intro / Wheel Of Fortune",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Dg2kRoNyueNh6e393eM9N",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6RM4ymqHw1GOZ1BJpynsA7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6RM4ymqHw1GOZ1BJpynsA7",
+      "id": "6RM4ymqHw1GOZ1BJpynsA7",
+      "name": "Give Em What They Askin For",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6RM4ymqHw1GOZ1BJpynsA7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pnbUBPifNnlusY8kTBivi",
+          "id": "5pnbUBPifNnlusY8kTBivi",
+          "name": "Jadakiss",
+          "type": "artist",
+          "uri": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6y0UHi7IYWK18BXezmr01G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6y0UHi7IYWK18BXezmr01G",
+      "id": "6y0UHi7IYWK18BXezmr01G",
+      "name": "Respect My Conglomerate",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6y0UHi7IYWK18BXezmr01G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200173,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RK1AxnDkkknvTThUT5PDD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RK1AxnDkkknvTThUT5PDD",
+      "id": "1RK1AxnDkkknvTThUT5PDD",
+      "name": "Shoot For The Moon",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1RK1AxnDkkknvTThUT5PDD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+          "id": "3aQeKQSyrW4qWr35idm0cy",
+          "name": "T-Pain",
+          "type": "artist",
+          "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3QVYsVR0mwWiGTt3F8uSv7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3QVYsVR0mwWiGTt3F8uSv7",
+      "id": "3QVYsVR0mwWiGTt3F8uSv7",
+      "name": "Hustler's Anthem 09",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3QVYsVR0mwWiGTt3F8uSv7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uYbQa5Cr28SUZg39V3yVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uYbQa5Cr28SUZg39V3yVi",
+          "id": "0uYbQa5Cr28SUZg39V3yVi",
+          "name": "Tosh",
+          "type": "artist",
+          "uri": "spotify:artist:0uYbQa5Cr28SUZg39V3yVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FSSDblc5Io5CH1oLQQYRk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6FSSDblc5Io5CH1oLQQYRk",
+      "id": "6FSSDblc5Io5CH1oLQQYRk",
+      "name": "Kill Dem",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6FSSDblc5Io5CH1oLQQYRk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1iqf0x89oxmmAFv9w9hiJM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1iqf0x89oxmmAFv9w9hiJM",
+          "id": "1iqf0x89oxmmAFv9w9hiJM",
+          "name": "Ron Browz",
+          "type": "artist",
+          "uri": "spotify:artist:1iqf0x89oxmmAFv9w9hiJM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 165213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6X0U1NIujkYExpcho01OXG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6X0U1NIujkYExpcho01OXG",
+      "id": "6X0U1NIujkYExpcho01OXG",
+      "name": "Arab Money - Dirty",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6X0U1NIujkYExpcho01OXG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2j9o2nPQjfuSyGgeqAn6q4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2j9o2nPQjfuSyGgeqAn6q4",
+          "id": "2j9o2nPQjfuSyGgeqAn6q4",
+          "name": "Mike Epps",
+          "type": "artist",
+          "uri": "spotify:artist:2j9o2nPQjfuSyGgeqAn6q4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 294026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Bj01g4DPkT3hv4fXzJUyU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Bj01g4DPkT3hv4fXzJUyU",
+      "id": "7Bj01g4DPkT3hv4fXzJUyU",
+      "name": "I'm A Go And Get My...",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7Bj01g4DPkT3hv4fXzJUyU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6uZPyApDdQrwjkqCVS2tJu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6uZPyApDdQrwjkqCVS2tJu",
+      "id": "6uZPyApDdQrwjkqCVS2tJu",
+      "name": "We Want In",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6uZPyApDdQrwjkqCVS2tJu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+          },
+          "href": "https://api.spotify.com/v1/artists/0af5VM6xubf8EXKvoG35x6",
+          "id": "0af5VM6xubf8EXKvoG35x6",
+          "name": "Demarco",
+          "type": "artist",
+          "uri": "spotify:artist:0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          },
+          "href": "https://api.spotify.com/v1/artists/19k8AgwwTSxeaxkOuCQEJs",
+          "id": "19k8AgwwTSxeaxkOuCQEJs",
+          "name": "Jelly Roll",
+          "type": "artist",
+          "uri": "spotify:artist:19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 301720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1IjEbTewJzIj2Z9lVwD0xD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1IjEbTewJzIj2Z9lVwD0xD",
+      "id": "1IjEbTewJzIj2Z9lVwD0xD",
+      "name": "We Miss You",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1IjEbTewJzIj2Z9lVwD0xD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          },
+          "href": "https://api.spotify.com/v1/artists/19k8AgwwTSxeaxkOuCQEJs",
+          "id": "19k8AgwwTSxeaxkOuCQEJs",
+          "name": "Jelly Roll",
+          "type": "artist",
+          "uri": "spotify:artist:19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244733,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7d7LpL9oJUBxdoIO8P8Qdq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7d7LpL9oJUBxdoIO8P8Qdq",
+      "id": "7d7LpL9oJUBxdoIO8P8Qdq",
+      "name": "Sugar",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7d7LpL9oJUBxdoIO8P8Qdq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ajsHJVZtBAnJcPxP2rhO8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ajsHJVZtBAnJcPxP2rhO8",
+      "id": "1ajsHJVZtBAnJcPxP2rhO8",
+      "name": "Don't Believe Em",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1ajsHJVZtBAnJcPxP2rhO8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          },
+          "href": "https://api.spotify.com/v1/artists/7LnaAXbDVIL75IVPnndf7w",
+          "id": "7LnaAXbDVIL75IVPnndf7w",
+          "name": "Jamie Foxx",
+          "type": "artist",
+          "uri": "spotify:artist:7LnaAXbDVIL75IVPnndf7w"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+          "id": "2GHclqNVjqGuiE5mA7BEoc",
+          "name": "Common",
+          "type": "artist",
+          "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bjiAV4h47qf9yY5LDl8dp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bjiAV4h47qf9yY5LDl8dp",
+      "id": "1bjiAV4h47qf9yY5LDl8dp",
+      "name": "Decision",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:1bjiAV4h47qf9yY5LDl8dp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist",
+          "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          },
+          "href": "https://api.spotify.com/v1/artists/5T0MSzX9RC5NA6gAI6irSn",
+          "id": "5T0MSzX9RC5NA6gAI6irSn",
+          "name": "Estelle",
+          "type": "artist",
+          "uri": "spotify:artist:5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230733,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7m9A21T7kdmkUajK4gd6Ee"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7m9A21T7kdmkUajK4gd6Ee",
+      "id": "7m9A21T7kdmkUajK4gd6Ee",
+      "name": "World Go Round",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7m9A21T7kdmkUajK4gd6Ee",
+      "is_local": false
+    }
+  ]
+}

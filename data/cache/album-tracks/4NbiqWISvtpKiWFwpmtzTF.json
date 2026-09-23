@@ -1,0 +1,455 @@
+{
+  "album_id": "4NbiqWISvtpKiWFwpmtzTF",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 298573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7IX1XFoYc8QtGMYUCHG4bm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7IX1XFoYc8QtGMYUCHG4bm",
+      "id": "7IX1XFoYc8QtGMYUCHG4bm",
+      "name": "Love Yourself",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7IX1XFoYc8QtGMYUCHG4bm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241920,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/09j5G3cPZQdRIv0VhVLAZz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/09j5G3cPZQdRIv0VhVLAZz",
+      "id": "09j5G3cPZQdRIv0VhVLAZz",
+      "name": "Thick Of It",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:09j5G3cPZQdRIv0VhVLAZz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tKeQL8Z0kFLr8rZ5gh91C"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7tKeQL8Z0kFLr8rZ5gh91C",
+      "id": "7tKeQL8Z0kFLr8rZ5gh91C",
+      "name": "Set Me Free",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7tKeQL8Z0kFLr8rZ5gh91C",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0lITQpaDtzpSUlVabqXCr2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0lITQpaDtzpSUlVabqXCr2",
+      "id": "0lITQpaDtzpSUlVabqXCr2",
+      "name": "It's Me",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0lITQpaDtzpSUlVabqXCr2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "type": "artist",
+          "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk",
+          "id": "2wIVse2owClT7go1WT98tk",
+          "name": "Missy Elliott",
+          "type": "artist",
+          "uri": "spotify:artist:2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/17gYZsdNpiDhYmnqaELimP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/17gYZsdNpiDhYmnqaELimP",
+      "id": "17gYZsdNpiDhYmnqaELimP",
+      "name": "Glow Up",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:17gYZsdNpiDhYmnqaELimP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 296800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XRzEkfnlOUgLO0YAenSCe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2XRzEkfnlOUgLO0YAenSCe",
+      "id": "2XRzEkfnlOUgLO0YAenSCe",
+      "name": "U + Me (Love Lesson)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2XRzEkfnlOUgLO0YAenSCe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283786,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EfioL7gSa7URn35dlJgnE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EfioL7gSa7URn35dlJgnE",
+      "id": "6EfioL7gSa7URn35dlJgnE",
+      "name": "Indestructible",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6EfioL7gSa7URn35dlJgnE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6D3gA6XHRRyNQ5zuBqGL0u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6D3gA6XHRRyNQ5zuBqGL0u",
+      "id": "6D3gA6XHRRyNQ5zuBqGL0u",
+      "name": "Thank You",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6D3gA6XHRRyNQ5zuBqGL0u",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4GAFtQ9sAKhj8l8MYEV1h0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4GAFtQ9sAKhj8l8MYEV1h0",
+      "id": "4GAFtQ9sAKhj8l8MYEV1h0",
+      "name": "Survivor",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4GAFtQ9sAKhj8l8MYEV1h0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2IvqNGdGT86q2iq8keGGLE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2IvqNGdGT86q2iq8keGGLE",
+      "id": "2IvqNGdGT86q2iq8keGGLE",
+      "name": "Find The Love",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2IvqNGdGT86q2iq8keGGLE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5XdlnBpFPFPuvIAINOxOHv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5XdlnBpFPFPuvIAINOxOHv",
+          "id": "5XdlnBpFPFPuvIAINOxOHv",
+          "name": "Prince Charlez",
+          "type": "artist",
+          "uri": "spotify:artist:5XdlnBpFPFPuvIAINOxOHv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5GOpTdwJmgicZolrWQvfet"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5GOpTdwJmgicZolrWQvfet",
+      "id": "5GOpTdwJmgicZolrWQvfet",
+      "name": "Smile",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5GOpTdwJmgicZolrWQvfet",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          },
+          "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+          "id": "6qgnBH6iDM91ipVXv28OMu",
+          "name": "KAYTRANADA",
+          "type": "artist",
+          "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+          "id": "65dGLGjkw3UbddUg2GKQoZ",
+          "name": "BADBADNOTGOOD",
+          "type": "artist",
+          "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6LOWgH9NaSheAz0U4b7uQL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6LOWgH9NaSheAz0U4b7uQL",
+      "id": "6LOWgH9NaSheAz0U4b7uQL",
+      "name": "Telling The Truth",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6LOWgH9NaSheAz0U4b7uQL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2rfGzbN5FmhHhIx6mI694l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2rfGzbN5FmhHhIx6mI694l",
+      "id": "2rfGzbN5FmhHhIx6mI694l",
+      "name": "Strength Of A Woman",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2rfGzbN5FmhHhIx6mI694l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qVXdAwnSAbDgGRNN584Jq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qVXdAwnSAbDgGRNN584Jq",
+      "id": "6qVXdAwnSAbDgGRNN584Jq",
+      "name": "Hello Father",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6qVXdAwnSAbDgGRNN584Jq",
+      "is_local": false
+    }
+  ]
+}

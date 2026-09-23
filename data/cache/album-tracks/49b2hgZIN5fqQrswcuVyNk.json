@@ -1,0 +1,786 @@
+{
+  "album_id": "49b2hgZIN5fqQrswcuVyNk",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6U9tpWpcJavMJEi6XuC5Ez"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6U9tpWpcJavMJEi6XuC5Ez",
+      "id": "6U9tpWpcJavMJEi6XuC5Ez",
+      "name": "Wonderful Christmastime",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6U9tpWpcJavMJEi6XuC5Ez",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3AHBxUAtygM2sgeJdOocc0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3AHBxUAtygM2sgeJdOocc0",
+      "id": "3AHBxUAtygM2sgeJdOocc0",
+      "name": "Thankful",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3AHBxUAtygM2sgeJdOocc0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mnpw3ZChfpjGoK0WjgJLB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1mnpw3ZChfpjGoK0WjgJLB",
+      "id": "1mnpw3ZChfpjGoK0WjgJLB",
+      "name": "Christmas Time Is Here",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1mnpw3ZChfpjGoK0WjgJLB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ytRi2sEdco1skc4uXqqqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ytRi2sEdco1skc4uXqqqU",
+          "id": "0ytRi2sEdco1skc4uXqqqU",
+          "name": "Nayib Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:0ytRi2sEdco1skc4uXqqqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cxm3WE2vpc5GE6F3gmzmb"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cxm3WE2vpc5GE6F3gmzmb",
+          "id": "2cxm3WE2vpc5GE6F3gmzmb",
+          "name": "Lara Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:2cxm3WE2vpc5GE6F3gmzmb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6vrptNDO2F9O1L0DlPiEks"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6vrptNDO2F9O1L0DlPiEks",
+      "id": "6vrptNDO2F9O1L0DlPiEks",
+      "name": "I Saw Mommy Kissing Santa Claus (feat. Nayib Estefan & Lara Estefan-Coppola)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6vrptNDO2F9O1L0DlPiEks",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6XUg9tttaT2JRgIJIplGYl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6XUg9tttaT2JRgIJIplGYl",
+      "id": "6XUg9tttaT2JRgIJIplGYl",
+      "name": "Please Come Home for Christmas",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6XUg9tttaT2JRgIJIplGYl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6j4bc1DLzLoUqGztsvG5KT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6j4bc1DLzLoUqGztsvG5KT",
+          "id": "6j4bc1DLzLoUqGztsvG5KT",
+          "name": "Emilio Estefan, Jr.",
+          "type": "artist",
+          "uri": "spotify:artist:6j4bc1DLzLoUqGztsvG5KT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/01VESo6Z3QFmkXuOSh4jg3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/01VESo6Z3QFmkXuOSh4jg3",
+      "id": "01VESo6Z3QFmkXuOSh4jg3",
+      "name": "I Wish I Could Be Santa Claus",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:01VESo6Z3QFmkXuOSh4jg3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5moK5fAsxbHUayfdBwEfNS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5moK5fAsxbHUayfdBwEfNS",
+      "id": "5moK5fAsxbHUayfdBwEfNS",
+      "name": "My Favorite Things",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5moK5fAsxbHUayfdBwEfNS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5EvWDa17pySG9RQZ3OoN2z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5EvWDa17pySG9RQZ3OoN2z",
+      "id": "5EvWDa17pySG9RQZ3OoN2z",
+      "name": "Run, Little St. Nick",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5EvWDa17pySG9RQZ3OoN2z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6j4bc1DLzLoUqGztsvG5KT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6j4bc1DLzLoUqGztsvG5KT",
+          "id": "6j4bc1DLzLoUqGztsvG5KT",
+          "name": "Emilio Estefan, Jr.",
+          "type": "artist",
+          "uri": "spotify:artist:6j4bc1DLzLoUqGztsvG5KT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lhfpjkmZcZPQ4yemTenK1"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lhfpjkmZcZPQ4yemTenK1",
+          "id": "1lhfpjkmZcZPQ4yemTenK1",
+          "name": "Leona",
+          "type": "artist",
+          "uri": "spotify:artist:1lhfpjkmZcZPQ4yemTenK1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hrGZw9SA472cYcLlknHDr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hrGZw9SA472cYcLlknHDr",
+          "id": "0hrGZw9SA472cYcLlknHDr",
+          "name": "Quincy",
+          "type": "artist",
+          "uri": "spotify:artist:0hrGZw9SA472cYcLlknHDr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/73eYLaXqySCYlfryS4uXO4"
+          },
+          "href": "https://api.spotify.com/v1/artists/73eYLaXqySCYlfryS4uXO4",
+          "id": "73eYLaXqySCYlfryS4uXO4",
+          "name": "Nôva",
+          "type": "artist",
+          "uri": "spotify:artist:73eYLaXqySCYlfryS4uXO4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ufmjjP8X7lWp3ykHffTIe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ufmjjP8X7lWp3ykHffTIe",
+          "id": "6ufmjjP8X7lWp3ykHffTIe",
+          "name": "Alula",
+          "type": "artist",
+          "uri": "spotify:artist:6ufmjjP8X7lWp3ykHffTIe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55vlVBi5aXtBjoxVsEqUBE"
+          },
+          "href": "https://api.spotify.com/v1/artists/55vlVBi5aXtBjoxVsEqUBE",
+          "id": "55vlVBi5aXtBjoxVsEqUBE",
+          "name": "Bowser",
+          "type": "artist",
+          "uri": "spotify:artist:55vlVBi5aXtBjoxVsEqUBE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0C1yeOJW3kNsDjXl9zg1fj"
+          },
+          "href": "https://api.spotify.com/v1/artists/0C1yeOJW3kNsDjXl9zg1fj",
+          "id": "0C1yeOJW3kNsDjXl9zg1fj",
+          "name": "Daisy",
+          "type": "artist",
+          "uri": "spotify:artist:0C1yeOJW3kNsDjXl9zg1fj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56xde3bnvx5G7v6Grx4985"
+          },
+          "href": "https://api.spotify.com/v1/artists/56xde3bnvx5G7v6Grx4985",
+          "id": "56xde3bnvx5G7v6Grx4985",
+          "name": "Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:56xde3bnvx5G7v6Grx4985"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hOnytw7PSMAHOYLFNa3lU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hOnytw7PSMAHOYLFNa3lU",
+          "id": "7hOnytw7PSMAHOYLFNa3lU",
+          "name": "Mathlida",
+          "type": "artist",
+          "uri": "spotify:artist:7hOnytw7PSMAHOYLFNa3lU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2RG471oKZpmizoQVF8wUOG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2RG471oKZpmizoQVF8wUOG",
+      "id": "2RG471oKZpmizoQVF8wUOG",
+      "name": "The Chipmunk Song (Christmas Don't Be Late) (feat. Emilio Estefan, Jr., Leona, Quincy, Nova, Alula, Bowser, Daisy, Hamilton & Mathlida)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2RG471oKZpmizoQVF8wUOG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237653,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3d1eoFrvSGue8n9NqS84wB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3d1eoFrvSGue8n9NqS84wB",
+      "id": "3d1eoFrvSGue8n9NqS84wB",
+      "name": "Last Christmas",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3d1eoFrvSGue8n9NqS84wB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 142666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Ks0BYg2ADqZUF4IbjjXXO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Ks0BYg2ADqZUF4IbjjXXO",
+      "id": "5Ks0BYg2ADqZUF4IbjjXXO",
+      "name": "It's a Marshmallow World",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5Ks0BYg2ADqZUF4IbjjXXO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OuZt2j7JohlfwzGjofrpU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OuZt2j7JohlfwzGjofrpU",
+      "id": "2OuZt2j7JohlfwzGjofrpU",
+      "name": "When I Miss You Most",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2OuZt2j7JohlfwzGjofrpU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5VNLxXMTIgmKD8UpLechmf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5VNLxXMTIgmKD8UpLechmf",
+      "id": "5VNLxXMTIgmKD8UpLechmf",
+      "name": "Happy Xmas (War Is Over)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5VNLxXMTIgmKD8UpLechmf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6j4bc1DLzLoUqGztsvG5KT"
+          },
+          "href": "https://api.spotify.com/v1/artists/6j4bc1DLzLoUqGztsvG5KT",
+          "id": "6j4bc1DLzLoUqGztsvG5KT",
+          "name": "Emilio Estefan, Jr.",
+          "type": "artist",
+          "uri": "spotify:artist:6j4bc1DLzLoUqGztsvG5KT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/76xdnv2ZPyvwLKXwncCrhe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/76xdnv2ZPyvwLKXwncCrhe",
+      "id": "76xdnv2ZPyvwLKXwncCrhe",
+      "name": "Quisiera Yo Ser Santa Claus",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:76xdnv2ZPyvwLKXwncCrhe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IFCkqu9J6xdWeYMk5I889",
+          "id": "5IFCkqu9J6xdWeYMk5I889",
+          "name": "Gloria Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZPAfGIvoOpPi3ozCqVg0L",
+      "id": "2ZPAfGIvoOpPi3ozCqVg0L",
+      "name": "Doy Gracias Por Ti",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2ZPAfGIvoOpPi3ozCqVg0L",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Lsvn2Czg57zGPvQ7pR0ya",
+          "id": "4Lsvn2Czg57zGPvQ7pR0ya",
+          "name": "Emily Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:4Lsvn2Czg57zGPvQ7pR0ya"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y6tiZ2YBfd9CALJlHSgki"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3y6tiZ2YBfd9CALJlHSgki",
+      "id": "3y6tiZ2YBfd9CALJlHSgki",
+      "name": "Cuando Te Extraño Mas",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3y6tiZ2YBfd9CALJlHSgki",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l7jIxHLw66B0NAK5VcdoN",
+          "id": "6l7jIxHLw66B0NAK5VcdoN",
+          "name": "Sasha Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:6l7jIxHLw66B0NAK5VcdoN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ytRi2sEdco1skc4uXqqqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ytRi2sEdco1skc4uXqqqU",
+          "id": "0ytRi2sEdco1skc4uXqqqU",
+          "name": "Nayib Estefan",
+          "type": "artist",
+          "uri": "spotify:artist:0ytRi2sEdco1skc4uXqqqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cxm3WE2vpc5GE6F3gmzmb"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cxm3WE2vpc5GE6F3gmzmb",
+          "id": "2cxm3WE2vpc5GE6F3gmzmb",
+          "name": "Lara Estefan-Coppola",
+          "type": "artist",
+          "uri": "spotify:artist:2cxm3WE2vpc5GE6F3gmzmb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2prxxezgHEHf80AnHlQP9u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2prxxezgHEHf80AnHlQP9u",
+      "id": "2prxxezgHEHf80AnHlQP9u",
+      "name": "I Saw Mommy Kissing Santa Claus (feat. Nayib Estefan & Lara Estefan-Coppola) - Sasha's Edit",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:2prxxezgHEHf80AnHlQP9u",
+      "is_local": false
+    }
+  ]
+}

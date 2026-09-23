@@ -1,0 +1,96 @@
+{
+  "artist_id": "4fp0N4WchcumIW5HNGpPwa",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4pEo7CZruPh3t241z5c0Bc"
+      },
+      "href": "https://api.spotify.com/v1/albums/4pEo7CZruPh3t241z5c0Bc",
+      "id": "4pEo7CZruPh3t241z5c0Bc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27354a0d7f6015f7755c49be50b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0254a0d7f6015f7755c49be50b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485154a0d7f6015f7755c49be50b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rosa",
+      "release_date": "2024-06-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4pEo7CZruPh3t241z5c0Bc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/4fp0N4WchcumIW5HNGpPwa",
+          "id": "4fp0N4WchcumIW5HNGpPwa",
+          "name": "Samuel Rosa",
+          "type": "artist",
+          "uri": "spotify:artist:4fp0N4WchcumIW5HNGpPwa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/63WXvLNHXKeqaLrbjwT4og"
+      },
+      "href": "https://api.spotify.com/v1/albums/63WXvLNHXKeqaLrbjwT4og",
+      "id": "63WXvLNHXKeqaLrbjwT4og",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b84d373f399703852f2a607",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027b84d373f399703852f2a607",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517b84d373f399703852f2a607",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Suíte Branca (Trilha Sonora Original do Espetáculo do Grupo Corpo)",
+      "release_date": "2015-08-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:63WXvLNHXKeqaLrbjwT4og",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/4fp0N4WchcumIW5HNGpPwa",
+          "id": "4fp0N4WchcumIW5HNGpPwa",
+          "name": "Samuel Rosa",
+          "type": "artist",
+          "uri": "spotify:artist:4fp0N4WchcumIW5HNGpPwa"
+        }
+      ]
+    }
+  ]
+}

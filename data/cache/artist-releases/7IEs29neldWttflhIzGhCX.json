@@ -1,0 +1,96 @@
+{
+  "artist_id": "7IEs29neldWttflhIzGhCX",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4VeO5UFy1tQ8h6qarNd93Y"
+      },
+      "href": "https://api.spotify.com/v1/albums/4VeO5UFy1tQ8h6qarNd93Y",
+      "id": "4VeO5UFy1tQ8h6qarNd93Y",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbaf32156e2a0feb5add4c9c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbaf32156e2a0feb5add4c9c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fbaf32156e2a0feb5add4c9c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Synthesizer Background Music for Home Office and Lockdown",
+      "release_date": "2021-12-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4VeO5UFy1tQ8h6qarNd93Y",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7IEs29neldWttflhIzGhCX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7IEs29neldWttflhIzGhCX",
+          "id": "7IEs29neldWttflhIzGhCX",
+          "name": "Space Cowboy",
+          "type": "artist",
+          "uri": "spotify:artist:7IEs29neldWttflhIzGhCX"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7xos7j5jv30VfoNFwgvo9Z"
+      },
+      "href": "https://api.spotify.com/v1/albums/7xos7j5jv30VfoNFwgvo9Z",
+      "id": "7xos7j5jv30VfoNFwgvo9Z",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b91740af083af9e932103a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025b91740af083af9e932103a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515b91740af083af9e932103a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Big City Nights",
+      "release_date": "2010",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:7xos7j5jv30VfoNFwgvo9Z",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7IEs29neldWttflhIzGhCX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7IEs29neldWttflhIzGhCX",
+          "id": "7IEs29neldWttflhIzGhCX",
+          "name": "Space Cowboy",
+          "type": "artist",
+          "uri": "spotify:artist:7IEs29neldWttflhIzGhCX"
+        }
+      ]
+    }
+  ]
+}

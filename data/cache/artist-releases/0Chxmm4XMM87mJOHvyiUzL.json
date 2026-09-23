@@ -1,0 +1,139 @@
+{
+  "artist_id": "0Chxmm4XMM87mJOHvyiUzL",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QZvx6Dot5bKvOFYXJi2Gc"
+      },
+      "href": "https://api.spotify.com/v1/albums/2QZvx6Dot5bKvOFYXJi2Gc",
+      "id": "2QZvx6Dot5bKvOFYXJi2Gc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273361e977a9d5cdd70a1465803",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02361e977a9d5cdd70a1465803",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851361e977a9d5cdd70a1465803",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Against The Wall (Vol. 1)",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2QZvx6Dot5bKvOFYXJi2Gc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Chxmm4XMM87mJOHvyiUzL",
+          "id": "0Chxmm4XMM87mJOHvyiUzL",
+          "name": "Kevin Rudolf",
+          "type": "artist",
+          "uri": "spotify:artist:0Chxmm4XMM87mJOHvyiUzL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/09z9vmYEO8levsGRqEgg8P"
+      },
+      "href": "https://api.spotify.com/v1/albums/09z9vmYEO8levsGRqEgg8P",
+      "id": "09z9vmYEO8levsGRqEgg8P",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27332f80abc1076a3ab0f68fac4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0232f80abc1076a3ab0f68fac4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485132f80abc1076a3ab0f68fac4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "To The Sky",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:09z9vmYEO8levsGRqEgg8P",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Chxmm4XMM87mJOHvyiUzL",
+          "id": "0Chxmm4XMM87mJOHvyiUzL",
+          "name": "Kevin Rudolf",
+          "type": "artist",
+          "uri": "spotify:artist:0Chxmm4XMM87mJOHvyiUzL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5v6X4tHxuXmnewdP1F6cx2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5v6X4tHxuXmnewdP1F6cx2",
+      "id": "5v6X4tHxuXmnewdP1F6cx2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27375dd9036b10f422288b23c4d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0275dd9036b10f422288b23c4d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485175dd9036b10f422288b23c4d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In The City",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5v6X4tHxuXmnewdP1F6cx2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Chxmm4XMM87mJOHvyiUzL",
+          "id": "0Chxmm4XMM87mJOHvyiUzL",
+          "name": "Kevin Rudolf",
+          "type": "artist",
+          "uri": "spotify:artist:0Chxmm4XMM87mJOHvyiUzL"
+        }
+      ]
+    }
+  ]
+}

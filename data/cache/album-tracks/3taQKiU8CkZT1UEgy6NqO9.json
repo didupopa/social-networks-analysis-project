@@ -1,0 +1,541 @@
+{
+  "album_id": "3taQKiU8CkZT1UEgy6NqO9",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0isq0T851tBgpJagOHHYHQ",
+          "id": "0isq0T851tBgpJagOHHYHQ",
+          "name": "Skylar Gudasz",
+          "type": "artist",
+          "uri": "spotify:artist:0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171645,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jPI3QS7aUtAVvj6q0qQiQ",
+      "id": "1jPI3QS7aUtAVvj6q0qQiQ",
+      "name": "Blue Chills",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1jPI3QS7aUtAVvj6q0qQiQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172023,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0v8HKx7pfToMOp5j1K5Dww",
+      "id": "0v8HKx7pfToMOp5j1K5Dww",
+      "name": "Rushmore Pack",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0v8HKx7pfToMOp5j1K5Dww",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zZ88AwlTwfCJkowsFCvLA",
+          "id": "3zZ88AwlTwfCJkowsFCvLA",
+          "name": "Babyface Ray",
+          "type": "artist",
+          "uri": "spotify:artist:3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221094,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BKRYvg6qSELPFXpu7YELt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BKRYvg6qSELPFXpu7YELt",
+      "id": "6BKRYvg6qSELPFXpu7YELt",
+      "name": "Drive By",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6BKRYvg6qSELPFXpu7YELt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FlG0V0jhLO4qGpayFOphj",
+          "id": "4FlG0V0jhLO4qGpayFOphj",
+          "name": "EST Gee",
+          "type": "artist",
+          "uri": "spotify:artist:4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227096,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6UX9WrpJFv5LZW4hTH6svZ",
+      "id": "6UX9WrpJFv5LZW4hTH6svZ",
+      "name": "Keep It Real",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6UX9WrpJFv5LZW4hTH6svZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177788,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39HH3TTdJOxcklLvocgemQ",
+      "id": "39HH3TTdJOxcklLvocgemQ",
+      "name": "Kind of Girl",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:39HH3TTdJOxcklLvocgemQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257677,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0li6r1fCRcFObrkTdzcVk9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0li6r1fCRcFObrkTdzcVk9",
+      "id": "0li6r1fCRcFObrkTdzcVk9",
+      "name": "Higher",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0li6r1fCRcFObrkTdzcVk9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pnbUBPifNnlusY8kTBivi",
+          "id": "5pnbUBPifNnlusY8kTBivi",
+          "name": "Jadakiss",
+          "type": "artist",
+          "uri": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Matrg5du62bXwer29cU5T",
+          "id": "5Matrg5du62bXwer29cU5T",
+          "name": "Benny The Butcher",
+          "type": "artist",
+          "uri": "spotify:artist:5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222307,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XhRkia2pZ0apnY1Yp2DfK",
+      "id": "3XhRkia2pZ0apnY1Yp2DfK",
+      "name": "Bricks & Bags",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3XhRkia2pZ0apnY1Yp2DfK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169810,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zWBfYcc3pdO915qrVJF1l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zWBfYcc3pdO915qrVJF1l",
+      "id": "2zWBfYcc3pdO915qrVJF1l",
+      "name": "Poetic With No Justice",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2zWBfYcc3pdO915qrVJF1l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "type": "artist",
+          "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153125,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4wkt6K2gvjGG7lmHwp1K0p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4wkt6K2gvjGG7lmHwp1K0p",
+      "id": "4wkt6K2gvjGG7lmHwp1K0p",
+      "name": "Drop Top",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4wkt6K2gvjGG7lmHwp1K0p",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153191,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0g3GlhfGbBIzCLhsGjxJkg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0g3GlhfGbBIzCLhsGjxJkg",
+      "id": "0g3GlhfGbBIzCLhsGjxJkg",
+      "name": "Shorty So Bad",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0g3GlhfGbBIzCLhsGjxJkg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DctCFD8X80VeY7WLC86PS",
+          "id": "2DctCFD8X80VeY7WLC86PS",
+          "name": "Chinx",
+          "type": "artist",
+          "uri": "spotify:artist:2DctCFD8X80VeY7WLC86PS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169192,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/119UCVIuWCke5bb18rUNPk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/119UCVIuWCke5bb18rUNPk",
+      "id": "119UCVIuWCke5bb18rUNPk",
+      "name": "Drunk Words, Sober Thoughts",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:119UCVIuWCke5bb18rUNPk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          },
+          "href": "https://api.spotify.com/v1/artists/37ASGd4rWpHjuVonnYAN6S",
+          "id": "37ASGd4rWpHjuVonnYAN6S",
+          "name": "Harry Fraud",
+          "type": "artist",
+          "uri": "spotify:artist:37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+          },
+          "href": "https://api.spotify.com/v1/artists/647D92XNDYTUt5A0idePJ4",
+          "id": "647D92XNDYTUt5A0idePJ4",
+          "name": "Fleurie",
+          "type": "artist",
+          "uri": "spotify:artist:647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193246,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0rKt4A4mIEzPkF33RYEWNa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0rKt4A4mIEzPkF33RYEWNa",
+      "id": "0rKt4A4mIEzPkF33RYEWNa",
+      "name": "Bronx Mecca",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0rKt4A4mIEzPkF33RYEWNa",
+      "is_local": false
+    }
+  ]
+}

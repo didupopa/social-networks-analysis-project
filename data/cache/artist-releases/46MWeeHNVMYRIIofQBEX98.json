@@ -1,0 +1,96 @@
+{
+  "artist_id": "46MWeeHNVMYRIIofQBEX98",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
+      },
+      "href": "https://api.spotify.com/v1/albums/6To6T5lr8PLhCQ8ik3vPdv",
+      "id": "6To6T5lr8PLhCQ8ik3vPdv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273844bfd6d1c3938420c6d9a5e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02844bfd6d1c3938420c6d9a5e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851844bfd6d1c3938420c6d9a5e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ALIEN",
+      "release_date": "2022-02-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6To6T5lr8PLhCQ8ik3vPdv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          },
+          "href": "https://api.spotify.com/v1/artists/46MWeeHNVMYRIIofQBEX98",
+          "id": "46MWeeHNVMYRIIofQBEX98",
+          "name": "BEAM",
+          "type": "artist",
+          "uri": "spotify:artist:46MWeeHNVMYRIIofQBEX98"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/00oRZEMdefGTngzxWArYfs"
+      },
+      "href": "https://api.spotify.com/v1/albums/00oRZEMdefGTngzxWArYfs",
+      "id": "00oRZEMdefGTngzxWArYfs",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27348a7ec93961f6a41617cf07e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0248a7ec93961f6a41617cf07e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485148a7ec93961f6a41617cf07e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "95",
+      "release_date": "2019-10-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:00oRZEMdefGTngzxWArYfs",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          },
+          "href": "https://api.spotify.com/v1/artists/46MWeeHNVMYRIIofQBEX98",
+          "id": "46MWeeHNVMYRIIofQBEX98",
+          "name": "BEAM",
+          "type": "artist",
+          "uri": "spotify:artist:46MWeeHNVMYRIIofQBEX98"
+        }
+      ]
+    }
+  ]
+}

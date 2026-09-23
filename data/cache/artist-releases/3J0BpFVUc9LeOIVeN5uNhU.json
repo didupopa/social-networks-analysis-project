@@ -1,0 +1,96 @@
+{
+  "artist_id": "3J0BpFVUc9LeOIVeN5uNhU",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA"
+      },
+      "href": "https://api.spotify.com/v1/albums/0rfdzpUAMNtYie0qZCg8XA",
+      "id": "0rfdzpUAMNtYie0qZCg8XA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27334a4b378c543dd0ab667c741",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0234a4b378c543dd0ab667c741",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485134a4b378c543dd0ab667c741",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In Between",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0rfdzpUAMNtYie0qZCg8XA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3J0BpFVUc9LeOIVeN5uNhU",
+          "id": "3J0BpFVUc9LeOIVeN5uNhU",
+          "name": "Lauren Jauregui",
+          "type": "artist",
+          "uri": "spotify:artist:3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1VyjfHh3e4KfYGubN70nuv"
+      },
+      "href": "https://api.spotify.com/v1/albums/1VyjfHh3e4KfYGubN70nuv",
+      "id": "1VyjfHh3e4KfYGubN70nuv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b5e0ca77b8872718794b06e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029b5e0ca77b8872718794b06e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519b5e0ca77b8872718794b06e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "PRELUDE",
+      "release_date": "2021-11-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1VyjfHh3e4KfYGubN70nuv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3J0BpFVUc9LeOIVeN5uNhU",
+          "id": "3J0BpFVUc9LeOIVeN5uNhU",
+          "name": "Lauren Jauregui",
+          "type": "artist",
+          "uri": "spotify:artist:3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ]
+    }
+  ]
+}

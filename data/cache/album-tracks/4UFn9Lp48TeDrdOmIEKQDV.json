@@ -1,0 +1,902 @@
+{
+  "album_id": "4UFn9Lp48TeDrdOmIEKQDV",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "type": "artist",
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 103943,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4IjMZNMQKXCjC37Pdk4OBA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4IjMZNMQKXCjC37Pdk4OBA",
+      "id": "4IjMZNMQKXCjC37Pdk4OBA",
+      "name": "City of Sin",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4IjMZNMQKXCjC37Pdk4OBA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          },
+          "href": "https://api.spotify.com/v1/artists/360IAlyVv4PCEVjgyMZrxK",
+          "id": "360IAlyVv4PCEVjgyMZrxK",
+          "name": "Miguel",
+          "type": "artist",
+          "uri": "spotify:artist:360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4exLIFE8sISLr28sqG1qNX",
+          "id": "4exLIFE8sISLr28sqG1qNX",
+          "name": "Travis Barker",
+          "type": "artist",
+          "uri": "spotify:artist:4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199927,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6g2cmwJPfGr6JMQdiAgULm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6g2cmwJPfGr6JMQdiAgULm",
+      "id": "6g2cmwJPfGr6JMQdiAgULm",
+      "name": "No Smoke",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6g2cmwJPfGr6JMQdiAgULm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 287689,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3snDXJ0J0PNIhzGK00p0lJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3snDXJ0J0PNIhzGK00p0lJ",
+      "id": "3snDXJ0J0PNIhzGK00p0lJ",
+      "name": "Five Hundred Dollar Candles",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3snDXJ0J0PNIhzGK00p0lJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198995,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2H6QDqoOR3SzRrajEc5Nmd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2H6QDqoOR3SzRrajEc5Nmd",
+      "id": "2H6QDqoOR3SzRrajEc5Nmd",
+      "name": "The Light",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2H6QDqoOR3SzRrajEc5Nmd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AA474G2hRfrHyGrfyDseO",
+          "id": "4AA474G2hRfrHyGrfyDseO",
+          "name": "Mozzy",
+          "type": "artist",
+          "uri": "spotify:artist:4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uR85BiASPMWtdV8UwYXSD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uR85BiASPMWtdV8UwYXSD",
+          "id": "5uR85BiASPMWtdV8UwYXSD",
+          "name": "Osbe Chill",
+          "type": "artist",
+          "uri": "spotify:artist:5uR85BiASPMWtdV8UwYXSD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          },
+          "href": "https://api.spotify.com/v1/artists/0P54cVemq1DCHUfUMlWAoN",
+          "id": "0P54cVemq1DCHUfUMlWAoN",
+          "name": "TOBi",
+          "type": "artist",
+          "uri": "spotify:artist:0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256053,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0yTj1LE4Iwe0B0jjVt5Lyl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0yTj1LE4Iwe0B0jjVt5Lyl",
+      "id": "0yTj1LE4Iwe0B0jjVt5Lyl",
+      "name": "Carmen Electra",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0yTj1LE4Iwe0B0jjVt5Lyl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B"
+          },
+          "href": "https://api.spotify.com/v1/artists/4BWn7qje7L2bGp79bupn3B",
+          "id": "4BWn7qje7L2bGp79bupn3B",
+          "name": "Red Cafe",
+          "type": "artist",
+          "uri": "spotify:artist:4BWn7qje7L2bGp79bupn3B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173226,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vWx7QGk0DFezANtRi6eN2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vWx7QGk0DFezANtRi6eN2",
+      "id": "2vWx7QGk0DFezANtRi6eN2",
+      "name": "Dead Homies",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2vWx7QGk0DFezANtRi6eN2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 157341,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1KXKYryT56kWVlbsOQlNZf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1KXKYryT56kWVlbsOQlNZf",
+      "id": "1KXKYryT56kWVlbsOQlNZf",
+      "name": "Gold Daytonas",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1KXKYryT56kWVlbsOQlNZf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170397,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Jq914z9JRamLh6PAqFB0Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Jq914z9JRamLh6PAqFB0Q",
+      "id": "4Jq914z9JRamLh6PAqFB0Q",
+      "name": "West Side",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4Jq914z9JRamLh6PAqFB0Q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TkJwaDSQ3kVhCxEPX0wey"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TkJwaDSQ3kVhCxEPX0wey",
+          "id": "0TkJwaDSQ3kVhCxEPX0wey",
+          "name": "Just Liv",
+          "type": "artist",
+          "uri": "spotify:artist:0TkJwaDSQ3kVhCxEPX0wey"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177623,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4wywCmLfwHnIUD6dO8FAHN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4wywCmLfwHnIUD6dO8FAHN",
+      "id": "4wywCmLfwHnIUD6dO8FAHN",
+      "name": "40 Ounce Love",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4wywCmLfwHnIUD6dO8FAHN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223271,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/352V7FZbtMih0FPSYjVncr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/352V7FZbtMih0FPSYjVncr",
+      "id": "352V7FZbtMih0FPSYjVncr",
+      "name": "Gucci Flip Flops",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:352V7FZbtMih0FPSYjVncr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XzK6S9hKeLVo7wJOTXFta"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2XzK6S9hKeLVo7wJOTXFta",
+      "id": "2XzK6S9hKeLVo7wJOTXFta",
+      "name": "Born 2 Rap",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2XzK6S9hKeLVo7wJOTXFta",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EeQBlQJFiAfJeVN2vT9s0",
+          "id": "0EeQBlQJFiAfJeVN2vT9s0",
+          "name": "Nipsey Hussle",
+          "type": "artist",
+          "uri": "spotify:artist:0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273718,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4AHebDFjQrv3ApKg13aVfP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4AHebDFjQrv3ApKg13aVfP",
+      "id": "4AHebDFjQrv3ApKg13aVfP",
+      "name": "Welcome Home",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4AHebDFjQrv3ApKg13aVfP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZolvLSgStG9XHh18DWsqj"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZolvLSgStG9XHh18DWsqj",
+          "id": "0ZolvLSgStG9XHh18DWsqj",
+          "name": "Sly",
+          "type": "artist",
+          "uri": "spotify:artist:0ZolvLSgStG9XHh18DWsqj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 138183,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6RRa3GBgI0navRIE7IDce4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6RRa3GBgI0navRIE7IDce4",
+      "id": "6RRa3GBgI0navRIE7IDce4",
+      "name": "Help Me - Interlude",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6RRa3GBgI0navRIE7IDce4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+          },
+          "href": "https://api.spotify.com/v1/artists/46VWDbmWmzvPBTmkSr25gM",
+          "id": "46VWDbmWmzvPBTmkSr25gM",
+          "name": "Marsha Ambrosius",
+          "type": "artist",
+          "uri": "spotify:artist:46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261907,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kbUCALLhamwxvI4PUDiya"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kbUCALLhamwxvI4PUDiya",
+      "id": "0kbUCALLhamwxvI4PUDiya",
+      "name": "I Didn’t Wanna Write This Song",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0kbUCALLhamwxvI4PUDiya",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 349264,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Zt9KMRidgdk0N5y4kLbSA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Zt9KMRidgdk0N5y4kLbSA",
+      "id": "1Zt9KMRidgdk0N5y4kLbSA",
+      "name": "The Code",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1Zt9KMRidgdk0N5y4kLbSA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          },
+          "href": "https://api.spotify.com/v1/artists/2EMAnMvWE2eb56ToJVfCWs",
+          "id": "2EMAnMvWE2eb56ToJVfCWs",
+          "name": "Bryson Tiller",
+          "type": "artist",
+          "uri": "spotify:artist:2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216243,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qj1BAkQD9UtCcHOCiEmIl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qj1BAkQD9UtCcHOCiEmIl",
+      "id": "2qj1BAkQD9UtCcHOCiEmIl",
+      "name": "Stay Down",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:2qj1BAkQD9UtCcHOCiEmIl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297612,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7D57ywoQBDy3Dl0i0QUjMf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7D57ywoQBDy3Dl0i0QUjMf",
+      "id": "7D57ywoQBDy3Dl0i0QUjMf",
+      "name": "Hug The Block",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:7D57ywoQBDy3Dl0i0QUjMf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 158013,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4eM2kof0V2m6lFFfg7T5Sw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4eM2kof0V2m6lFFfg7T5Sw",
+      "id": "4eM2kof0V2m6lFFfg7T5Sw",
+      "name": "Ask For Me",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4eM2kof0V2m6lFFfg7T5Sw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id": "3jK9MiCrA42lLAdMGUZpwa",
+          "name": "Anderson .Paak",
+          "type": "artist",
+          "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239660,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0jLgloFUx2CCkUkx1hA0yP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0jLgloFUx2CCkUkx1hA0yP",
+      "id": "0jLgloFUx2CCkUkx1hA0yP",
+      "name": "Stainless",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:0jLgloFUx2CCkUkx1hA0yP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168404,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/57PRjnYbfWIKQCSfmrw94p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/57PRjnYbfWIKQCSfmrw94p",
+      "id": "57PRjnYbfWIKQCSfmrw94p",
+      "name": "Gangstas Make The Girls Go Wild",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:57PRjnYbfWIKQCSfmrw94p",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227754,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Po5MCpYmb1BK4pF5emF1D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Po5MCpYmb1BK4pF5emF1D",
+      "id": "3Po5MCpYmb1BK4pF5emF1D",
+      "name": "Blood Thicker Than Water",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:3Po5MCpYmb1BK4pF5emF1D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 144768,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6bYkZIj1Hz0IUafK0heGbo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6bYkZIj1Hz0IUafK0heGbo",
+      "id": "6bYkZIj1Hz0IUafK0heGbo",
+      "name": "Rewind II",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:6bYkZIj1Hz0IUafK0heGbo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vIbOHLEq5uLoCRV6ys20U"
+          },
+          "href": "https://api.spotify.com/v1/artists/5vIbOHLEq5uLoCRV6ys20U",
+          "id": "5vIbOHLEq5uLoCRV6ys20U",
+          "name": "J. Stone",
+          "type": "artist",
+          "uri": "spotify:artist:5vIbOHLEq5uLoCRV6ys20U"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ycxRkcZ67ALN3GQJ57Vig",
+          "id": "3ycxRkcZ67ALN3GQJ57Vig",
+          "name": "Masego",
+          "type": "artist",
+          "uri": "spotify:artist:3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 314262,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hKkbHoxUV0wWF0RWQIYyi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hKkbHoxUV0wWF0RWQIYyi",
+      "id": "2hKkbHoxUV0wWF0RWQIYyi",
+      "name": "One Life",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:2hKkbHoxUV0wWF0RWQIYyi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+          },
+          "href": "https://api.spotify.com/v1/artists/23rK0hajv5ix2yPM4IIgOo",
+          "id": "23rK0hajv5ix2yPM4IIgOo",
+          "name": "D Smoke",
+          "type": "artist",
+          "uri": "spotify:artist:23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208754,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/22ruxBjJX2GcB28rgZ27mC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/22ruxBjJX2GcB28rgZ27mC",
+      "id": "22ruxBjJX2GcB28rgZ27mC",
+      "name": "Cross On Jesus Back",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:22ruxBjJX2GcB28rgZ27mC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "type": "artist",
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233955,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/34tuirEYqFPl0yWY3tUlel"
+      },
+      "href": "https://api.spotify.com/v1/tracks/34tuirEYqFPl0yWY3tUlel",
+      "id": "34tuirEYqFPl0yWY3tUlel",
+      "name": "Roadside",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:34tuirEYqFPl0yWY3tUlel",
+      "is_local": false
+    }
+  ]
+}

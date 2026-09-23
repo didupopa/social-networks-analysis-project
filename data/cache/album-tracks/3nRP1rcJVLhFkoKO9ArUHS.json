@@ -1,0 +1,921 @@
+{
+  "album_id": "3nRP1rcJVLhFkoKO9ArUHS",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2VB1LQssS5MWzMidVD2Dqq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2VB1LQssS5MWzMidVD2Dqq",
+          "id": "2VB1LQssS5MWzMidVD2Dqq",
+          "name": "French Montana & Max B",
+          "type": "artist",
+          "uri": "spotify:artist:2VB1LQssS5MWzMidVD2Dqq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0UY6rZpZAAFV65tWhUXdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0UY6rZpZAAFV65tWhUXdlY",
+          "id": "0UY6rZpZAAFV65tWhUXdlY",
+          "name": "Evil Empire & Dame Grease",
+          "type": "artist",
+          "uri": "spotify:artist:0UY6rZpZAAFV65tWhUXdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 39262,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/74E933lz3Gwy2HyPzpa8RZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/74E933lz3Gwy2HyPzpa8RZ",
+      "id": "74E933lz3Gwy2HyPzpa8RZ",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:74E933lz3Gwy2HyPzpa8RZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152555,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qRuHid2giZVxbPusDV60n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qRuHid2giZVxbPusDV60n",
+      "id": "6qRuHid2giZVxbPusDV60n",
+      "name": "Playing in the Wind",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6qRuHid2giZVxbPusDV60n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24IeQOkTkPI6N4Kdin5dZS"
+          },
+          "href": "https://api.spotify.com/v1/artists/24IeQOkTkPI6N4Kdin5dZS",
+          "id": "24IeQOkTkPI6N4Kdin5dZS",
+          "name": "Dame Grease",
+          "type": "artist",
+          "uri": "spotify:artist:24IeQOkTkPI6N4Kdin5dZS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 387239,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5TLcuDDKlfTlbwP60bwtXs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5TLcuDDKlfTlbwP60bwtXs",
+      "id": "5TLcuDDKlfTlbwP60bwtXs",
+      "name": "Wave Gang",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5TLcuDDKlfTlbwP60bwtXs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184999,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y7MEVqa8EZfjUmZo4hQNl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3y7MEVqa8EZfjUmZo4hQNl",
+      "id": "3y7MEVqa8EZfjUmZo4hQNl",
+      "name": "Dead Solver",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3y7MEVqa8EZfjUmZo4hQNl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37ukWQdx7I64HxSls4H2m8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37ukWQdx7I64HxSls4H2m8",
+      "id": "37ukWQdx7I64HxSls4H2m8",
+      "name": "First of the Month",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:37ukWQdx7I64HxSls4H2m8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14ejEUaU0wE2iAenbbv9b8"
+          },
+          "href": "https://api.spotify.com/v1/artists/14ejEUaU0wE2iAenbbv9b8",
+          "id": "14ejEUaU0wE2iAenbbv9b8",
+          "name": "Sheek Louch",
+          "type": "artist",
+          "uri": "spotify:artist:14ejEUaU0wE2iAenbbv9b8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193985,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1TD7na0aKG1ApieZgQ5WKP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1TD7na0aKG1ApieZgQ5WKP",
+      "id": "1TD7na0aKG1ApieZgQ5WKP",
+      "name": "My Style",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1TD7na0aKG1ApieZgQ5WKP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24IeQOkTkPI6N4Kdin5dZS"
+          },
+          "href": "https://api.spotify.com/v1/artists/24IeQOkTkPI6N4Kdin5dZS",
+          "id": "24IeQOkTkPI6N4Kdin5dZS",
+          "name": "Dame Grease",
+          "type": "artist",
+          "uri": "spotify:artist:24IeQOkTkPI6N4Kdin5dZS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 63425,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mAhnXfNT1HVglEFSnLOZt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mAhnXfNT1HVglEFSnLOZt",
+      "id": "4mAhnXfNT1HVglEFSnLOZt",
+      "name": "Blanket Jackson",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4mAhnXfNT1HVglEFSnLOZt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163500,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7vfHsWqXECvGbucYpw6lZg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7vfHsWqXECvGbucYpw6lZg",
+      "id": "7vfHsWqXECvGbucYpw6lZg",
+      "name": "Life of an O.G.",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7vfHsWqXECvGbucYpw6lZg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200594,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2nhHKYvTiy7OwQbKIXcqyI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2nhHKYvTiy7OwQbKIXcqyI",
+      "id": "2nhHKYvTiy7OwQbKIXcqyI",
+      "name": "So Soulful",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2nhHKYvTiy7OwQbKIXcqyI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0UY6rZpZAAFV65tWhUXdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0UY6rZpZAAFV65tWhUXdlY",
+          "id": "0UY6rZpZAAFV65tWhUXdlY",
+          "name": "Evil Empire & Dame Grease",
+          "type": "artist",
+          "uri": "spotify:artist:0UY6rZpZAAFV65tWhUXdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 25521,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4CggRrMQCvyGZyblyf9KoG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4CggRrMQCvyGZyblyf9KoG",
+      "id": "4CggRrMQCvyGZyblyf9KoG",
+      "name": "Skit",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4CggRrMQCvyGZyblyf9KoG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161097,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1NI7iotQ0wYO7M4manvwYI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1NI7iotQ0wYO7M4manvwYI",
+      "id": "1NI7iotQ0wYO7M4manvwYI",
+      "name": "Bury Me With My Grand Cru",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1NI7iotQ0wYO7M4manvwYI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qWtta2AJnHQITmWvhcehs",
+          "id": "0qWtta2AJnHQITmWvhcehs",
+          "name": "Jae Millz",
+          "type": "artist",
+          "uri": "spotify:artist:0qWtta2AJnHQITmWvhcehs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193410,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hDv5vSeZ2DA5tOkcGhhDc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hDv5vSeZ2DA5tOkcGhhDc",
+      "id": "2hDv5vSeZ2DA5tOkcGhhDc",
+      "name": "No Defeat",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2hDv5vSeZ2DA5tOkcGhhDc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 13087,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gthU2A1D2AINNMWU7Lyys"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6gthU2A1D2AINNMWU7Lyys",
+      "id": "6gthU2A1D2AINNMWU7Lyys",
+      "name": "Message From the Boss Don",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6gthU2A1D2AINNMWU7Lyys",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gNJAsnKbGhcSxDQ2HgF7j"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gNJAsnKbGhcSxDQ2HgF7j",
+          "id": "2gNJAsnKbGhcSxDQ2HgF7j",
+          "name": "Alpac",
+          "type": "artist",
+          "uri": "spotify:artist:2gNJAsnKbGhcSxDQ2HgF7j"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172904,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kc9BNfZkPOpkWXHkIlUmx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7kc9BNfZkPOpkWXHkIlUmx",
+      "id": "7kc9BNfZkPOpkWXHkIlUmx",
+      "name": "Get Money",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7kc9BNfZkPOpkWXHkIlUmx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4o1AOCb53LydZawlj7jcrf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4o1AOCb53LydZawlj7jcrf",
+          "id": "4o1AOCb53LydZawlj7jcrf",
+          "name": "Meeno",
+          "type": "artist",
+          "uri": "spotify:artist:4o1AOCb53LydZawlj7jcrf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2abrwDd2Rj2znUBfwAZMWv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2abrwDd2Rj2znUBfwAZMWv",
+      "id": "2abrwDd2Rj2znUBfwAZMWv",
+      "name": "Heroin",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2abrwDd2Rj2znUBfwAZMWv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0UY6rZpZAAFV65tWhUXdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0UY6rZpZAAFV65tWhUXdlY",
+          "id": "0UY6rZpZAAFV65tWhUXdlY",
+          "name": "Evil Empire & Dame Grease",
+          "type": "artist",
+          "uri": "spotify:artist:0UY6rZpZAAFV65tWhUXdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 32130,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4RyAYpHRD97MCdJXqGaOcS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4RyAYpHRD97MCdJXqGaOcS",
+      "id": "4RyAYpHRD97MCdJXqGaOcS",
+      "name": "Shorty Face",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:4RyAYpHRD97MCdJXqGaOcS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qWtta2AJnHQITmWvhcehs",
+          "id": "0qWtta2AJnHQITmWvhcehs",
+          "name": "Jae Millz",
+          "type": "artist",
+          "uri": "spotify:artist:0qWtta2AJnHQITmWvhcehs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207412,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0eiUCRHIkB3tXRz1pdzpfE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0eiUCRHIkB3tXRz1pdzpfE",
+      "id": "0eiUCRHIkB3tXRz1pdzpfE",
+      "name": "Stuck in the Middle",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0eiUCRHIkB3tXRz1pdzpfE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261799,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MM9q9iNzH0Mh7dGpmL7ur"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MM9q9iNzH0Mh7dGpmL7ur",
+      "id": "2MM9q9iNzH0Mh7dGpmL7ur",
+      "name": "What We Want",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:2MM9q9iNzH0Mh7dGpmL7ur",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195291,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2CgbFIR77pwqdqhxXKaRPI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2CgbFIR77pwqdqhxXKaRPI",
+      "id": "2CgbFIR77pwqdqhxXKaRPI",
+      "name": "One Day At a Time",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:2CgbFIR77pwqdqhxXKaRPI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239203,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4fZAW5S1CX9CTDObd6ufVT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4fZAW5S1CX9CTDObd6ufVT",
+      "id": "4fZAW5S1CX9CTDObd6ufVT",
+      "name": "Pluto",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:4fZAW5S1CX9CTDObd6ufVT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tCtGc5vt29zFZp6KXzN50",
+          "id": "0tCtGc5vt29zFZp6KXzN50",
+          "name": "Beanie Sigel",
+          "type": "artist",
+          "uri": "spotify:artist:0tCtGc5vt29zFZp6KXzN50"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262817,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ma7gkUdYfp7mwPgLqzWPW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ma7gkUdYfp7mwPgLqzWPW",
+      "id": "2ma7gkUdYfp7mwPgLqzWPW",
+      "name": "What You Want From Me",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:2ma7gkUdYfp7mwPgLqzWPW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 361717,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4OZd1Y2mHLK9d6hIX1gTD4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4OZd1Y2mHLK9d6hIX1gTD4",
+      "id": "4OZd1Y2mHLK9d6hIX1gTD4",
+      "name": "Never Wanna Go Back",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:4OZd1Y2mHLK9d6hIX1gTD4",
+      "is_local": false
+    }
+  ]
+}

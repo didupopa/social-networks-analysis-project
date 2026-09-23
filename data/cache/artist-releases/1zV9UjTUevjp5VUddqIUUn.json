@@ -1,0 +1,139 @@
+{
+  "artist_id": "1zV9UjTUevjp5VUddqIUUn",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2FjtogVI6hDNFHtZ9yaD9Z"
+      },
+      "href": "https://api.spotify.com/v1/albums/2FjtogVI6hDNFHtZ9yaD9Z",
+      "id": "2FjtogVI6hDNFHtZ9yaD9Z",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273452a31f304ba25d1e2e842bb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02452a31f304ba25d1e2e842bb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851452a31f304ba25d1e2e842bb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "WHEN THE MACHINE STOPS",
+      "release_date": "2019-06-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2FjtogVI6hDNFHtZ9yaD9Z",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zV9UjTUevjp5VUddqIUUn",
+          "id": "1zV9UjTUevjp5VUddqIUUn",
+          "name": "Mr Hudson",
+          "type": "artist",
+          "uri": "spotify:artist:1zV9UjTUevjp5VUddqIUUn"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/56PVzKqut05MbJY1Oz2t2G"
+      },
+      "href": "https://api.spotify.com/v1/albums/56PVzKqut05MbJY1Oz2t2G",
+      "id": "56PVzKqut05MbJY1Oz2t2G",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273320d70f5f00819814e3232e8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02320d70f5f00819814e3232e8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851320d70f5f00819814e3232e8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Straight No Chaser (eAlbum)",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:56PVzKqut05MbJY1Oz2t2G",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zV9UjTUevjp5VUddqIUUn",
+          "id": "1zV9UjTUevjp5VUddqIUUn",
+          "name": "Mr Hudson",
+          "type": "artist",
+          "uri": "spotify:artist:1zV9UjTUevjp5VUddqIUUn"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0FFYJup53ExkbgIHF1ewMr"
+      },
+      "href": "https://api.spotify.com/v1/albums/0FFYJup53ExkbgIHF1ewMr",
+      "id": "0FFYJup53ExkbgIHF1ewMr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d0512ca6aca9d4fa6df317a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028d0512ca6aca9d4fa6df317a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518d0512ca6aca9d4fa6df317a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Tale Of Two Cities",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0FFYJup53ExkbgIHF1ewMr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zV9UjTUevjp5VUddqIUUn",
+          "id": "1zV9UjTUevjp5VUddqIUUn",
+          "name": "Mr Hudson",
+          "type": "artist",
+          "uri": "spotify:artist:1zV9UjTUevjp5VUddqIUUn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "album_id": "0T6QxdJZwYrXPHd829SnqK",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rDm6pSGkc0yXt3JtgYF52"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rDm6pSGkc0yXt3JtgYF52",
+          "id": "6rDm6pSGkc0yXt3JtgYF52",
+          "name": "Oneill",
+          "type": "artist",
+          "uri": "spotify:artist:6rDm6pSGkc0yXt3JtgYF52"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/25oUtJqi5r9Du51exhtAoe"
+          },
+          "href": "https://api.spotify.com/v1/artists/25oUtJqi5r9Du51exhtAoe",
+          "id": "25oUtJqi5r9Du51exhtAoe",
+          "name": "Daniel Habif",
+          "type": "artist",
+          "uri": "spotify:artist:25oUtJqi5r9Du51exhtAoe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1yaEZwbabqGa9BYXIRa0ua"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1yaEZwbabqGa9BYXIRa0ua",
+      "id": "1yaEZwbabqGa9BYXIRa0ua",
+      "name": "Ki (feat. Daniel Habif)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1yaEZwbabqGa9BYXIRa0ua",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Crx42VpbY4h4qrz2q9DuH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Crx42VpbY4h4qrz2q9DuH",
+      "id": "7Crx42VpbY4h4qrz2q9DuH",
+      "name": "La Tóxica",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7Crx42VpbY4h4qrz2q9DuH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 287120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2B4GHvToeLTOBB4QLzW3Ni",
+      "id": "2B4GHvToeLTOBB4QLzW3Ni",
+      "name": "Pepas",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2B4GHvToeLTOBB4QLzW3Ni",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cPqdH7XMvwaBJEVjheH8g",
+          "id": "2cPqdH7XMvwaBJEVjheH8g",
+          "name": "Jay Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5oHfcw6iiDUt4Ls5QPuQiB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5oHfcw6iiDUt4Ls5QPuQiB",
+      "id": "5oHfcw6iiDUt4Ls5QPuQiB",
+      "name": "GPS",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5oHfcw6iiDUt4Ls5QPuQiB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          },
+          "href": "https://api.spotify.com/v1/artists/3fZk3Gm5dN5v5yfYMQ04Bx",
+          "id": "3fZk3Gm5dN5v5yfYMQ04Bx",
+          "name": "Dímelo Flow",
+          "type": "artist",
+          "uri": "spotify:artist:3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JfbHWZ07sSBjbojTU2hAt",
+          "id": "3JfbHWZ07sSBjbojTU2hAt",
+          "name": "Dj Adoni",
+          "type": "artist",
+          "uri": "spotify:artist:3JfbHWZ07sSBjbojTU2hAt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/12NHbTJ9lbrKqlAdHYhvxM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/12NHbTJ9lbrKqlAdHYhvxM",
+      "id": "12NHbTJ9lbrKqlAdHYhvxM",
+      "name": "F*LOVE (feat. Dímelo Flow & Dj Adoni)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:12NHbTJ9lbrKqlAdHYhvxM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          },
+          "href": "https://api.spotify.com/v1/artists/12vb80Km0Ew53ABfJOepVz",
+          "id": "12vb80Km0Ew53ABfJOepVz",
+          "name": "Ñengo Flow",
+          "type": "artist",
+          "uri": "spotify:artist:12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209666,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Lkt1xGzHXV6bEsmtJNEyn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Lkt1xGzHXV6bEsmtJNEyn",
+      "id": "3Lkt1xGzHXV6bEsmtJNEyn",
+      "name": "Cucaracha",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3Lkt1xGzHXV6bEsmtJNEyn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162946,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5i157UDeVbKnJPH7Qgvsue"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5i157UDeVbKnJPH7Qgvsue",
+      "id": "5i157UDeVbKnJPH7Qgvsue",
+      "name": "Lambo",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5i157UDeVbKnJPH7Qgvsue",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4yh9gq9h7nh3EmtGcnRVZg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4yh9gq9h7nh3EmtGcnRVZg",
+      "id": "4yh9gq9h7nh3EmtGcnRVZg",
+      "name": "My Lova",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4yh9gq9h7nh3EmtGcnRVZg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tfwsBGuptKpIxQu0QtTMj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7tfwsBGuptKpIxQu0QtTMj",
+      "id": "7tfwsBGuptKpIxQu0QtTMj",
+      "name": "Baja Cali",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7tfwsBGuptKpIxQu0QtTMj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188053,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0qvPIxxhD7xDNKV7g9twQd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0qvPIxxhD7xDNKV7g9twQd",
+      "id": "0qvPIxxhD7xDNKV7g9twQd",
+      "name": "La Perla",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0qvPIxxhD7xDNKV7g9twQd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4RmWcTKIeTxhEAAOcjyUTM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4RmWcTKIeTxhEAAOcjyUTM",
+      "id": "4RmWcTKIeTxhEAAOcjyUTM",
+      "name": "Cuervos",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4RmWcTKIeTxhEAAOcjyUTM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+          },
+          "href": "https://api.spotify.com/v1/artists/00CMSJdbf36zOzKB3z8JrR",
+          "id": "00CMSJdbf36zOzKB3z8JrR",
+          "name": "Victor Cardenas",
+          "type": "artist",
+          "uri": "spotify:artist:00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JfbHWZ07sSBjbojTU2hAt",
+          "id": "3JfbHWZ07sSBjbojTU2hAt",
+          "name": "Dj Adoni",
+          "type": "artist",
+          "uri": "spotify:artist:3JfbHWZ07sSBjbojTU2hAt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 267546,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2mL37yB3f3Lfy4iiXV02Qf",
+      "id": "2mL37yB3f3Lfy4iiXV02Qf",
+      "name": "El Incomprendido",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2mL37yB3f3Lfy4iiXV02Qf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70nM9ixtEAtdmEQrmxgMHf"
+          },
+          "href": "https://api.spotify.com/v1/artists/70nM9ixtEAtdmEQrmxgMHf",
+          "id": "70nM9ixtEAtdmEQrmxgMHf",
+          "name": "White Star",
+          "type": "artist",
+          "uri": "spotify:artist:70nM9ixtEAtdmEQrmxgMHf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+          },
+          "href": "https://api.spotify.com/v1/artists/68N3vrc89eDm581F9vqzXd",
+          "id": "68N3vrc89eDm581F9vqzXd",
+          "name": "J. Cross",
+          "type": "artist",
+          "uri": "spotify:artist:68N3vrc89eDm581F9vqzXd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zqu322VOEfj7i6lLsrADL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zqu322VOEfj7i6lLsrADL",
+      "id": "4zqu322VOEfj7i6lLsrADL",
+      "name": "Embalao",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4zqu322VOEfj7i6lLsrADL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QVBYiagIaa6ZGSPMbybpy",
+          "id": "4QVBYiagIaa6ZGSPMbybpy",
+          "name": "Pedro Capó",
+          "type": "artist",
+          "uri": "spotify:artist:4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BxtSpUt1DPBE3GCHezgB6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BxtSpUt1DPBE3GCHezgB6",
+      "id": "7BxtSpUt1DPBE3GCHezgB6",
+      "name": "Jíbaro",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7BxtSpUt1DPBE3GCHezgB6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0RfR52Id3VEhcL7CnJLPlQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0RfR52Id3VEhcL7CnJLPlQ",
+      "id": "0RfR52Id3VEhcL7CnJLPlQ",
+      "name": "$",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0RfR52Id3VEhcL7CnJLPlQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OSBmvZI9Tp1GWRUNuW0MH"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OSBmvZI9Tp1GWRUNuW0MH",
+          "id": "5OSBmvZI9Tp1GWRUNuW0MH",
+          "name": "Gallego",
+          "type": "artist",
+          "uri": "spotify:artist:5OSBmvZI9Tp1GWRUNuW0MH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 406973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3s9ZziCBN0DTIEc7LQpJh3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3s9ZziCBN0DTIEc7LQpJh3",
+      "id": "3s9ZziCBN0DTIEc7LQpJh3",
+      "name": "167",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3s9ZziCBN0DTIEc7LQpJh3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4myAXQmMuS1lZe8T6Y7eBg",
+          "id": "4myAXQmMuS1lZe8T6Y7eBg",
+          "name": "Yomo",
+          "type": "artist",
+          "uri": "spotify:artist:4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215124,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0cux7pJXDRjT7UBlwIx0DZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0cux7pJXDRjT7UBlwIx0DZ",
+      "id": "0cux7pJXDRjT7UBlwIx0DZ",
+      "name": "Baya",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0cux7pJXDRjT7UBlwIx0DZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GKIlPFdcewHtpDVCQ8zmJ",
+          "id": "1GKIlPFdcewHtpDVCQ8zmJ",
+          "name": "Brray",
+          "type": "artist",
+          "uri": "spotify:artist:1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RtNN1VnooWEn3KQk03DUL",
+          "id": "3RtNN1VnooWEn3KQk03DUL",
+          "name": "Noriel",
+          "type": "artist",
+          "uri": "spotify:artist:3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mBQaDxxH0vn7jAuraDI47"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mBQaDxxH0vn7jAuraDI47",
+      "id": "4mBQaDxxH0vn7jAuraDI47",
+      "name": "Doble L",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4mBQaDxxH0vn7jAuraDI47",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4axKuDPr6WKcDCyh8vueTY",
+          "id": "4axKuDPr6WKcDCyh8vueTY",
+          "name": "Luar La L",
+          "type": "artist",
+          "uri": "spotify:artist:4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 357586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DI7dvTUDVB50Kfvu6LA9E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DI7dvTUDVB50Kfvu6LA9E",
+      "id": "2DI7dvTUDVB50Kfvu6LA9E",
+      "name": "Guerrero (feat. Luar La L)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:2DI7dvTUDVB50Kfvu6LA9E",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t"
+          },
+          "href": "https://api.spotify.com/v1/artists/0y5H4Nr7bNWfBINIh8671t",
+          "id": "0y5H4Nr7bNWfBINIh8671t",
+          "name": "Fresy Franklin",
+          "type": "artist",
+          "uri": "spotify:artist:0y5H4Nr7bNWfBINIh8671t"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226426,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0r26glBtmEsa07vIQeZ4U8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0r26glBtmEsa07vIQeZ4U8",
+      "id": "0r26glBtmEsa07vIQeZ4U8",
+      "name": "Amigos Nuevos No",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:0r26glBtmEsa07vIQeZ4U8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4zWFlKgU4j7ryWg5nsOmU6",
+          "id": "4zWFlKgU4j7ryWg5nsOmU6",
+          "name": "Lenier",
+          "type": "artist",
+          "uri": "spotify:artist:4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ZxjpNp7yCTxcbnkeyj0i6",
+      "id": "4ZxjpNp7yCTxcbnkeyj0i6",
+      "name": "La Bendición",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:4ZxjpNp7yCTxcbnkeyj0i6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eezS9KmhdjGN436RdTIXu",
+          "id": "0eezS9KmhdjGN436RdTIXu",
+          "name": "Mavado",
+          "type": "artist",
+          "uri": "spotify:artist:0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DQ2B7C1tpoteQfJW2mbXY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DQ2B7C1tpoteQfJW2mbXY",
+      "id": "7DQ2B7C1tpoteQfJW2mbXY",
+      "name": "W.F.M.",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:7DQ2B7C1tpoteQfJW2mbXY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FOpWOxsjQxKEbLiJpU1xV",
+          "id": "6FOpWOxsjQxKEbLiJpU1xV",
+          "name": "India Martinez",
+          "type": "artist",
+          "uri": "spotify:artist:6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zgbk1EdcU6tt6QUOnCC5o",
+          "id": "0zgbk1EdcU6tt6QUOnCC5o",
+          "name": "Lito MC Cassidy",
+          "type": "artist",
+          "uri": "spotify:artist:0zgbk1EdcU6tt6QUOnCC5o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0RqVRO6pICdEky6ai9UcWO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0RqVRO6pICdEky6ai9UcWO",
+      "id": "0RqVRO6pICdEky6ai9UcWO",
+      "name": "Apunta y Dispara",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:0RqVRO6pICdEky6ai9UcWO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+          "id": "7iK8PXO48WeuP03g8YR51W",
+          "name": "Myke Towers",
+          "type": "artist",
+          "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+          },
+          "href": "https://api.spotify.com/v1/artists/76whng5pl9msPkkjFUtWYn",
+          "id": "76whng5pl9msPkkjFUtWYn",
+          "name": "Tempo",
+          "type": "artist",
+          "uri": "spotify:artist:76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+          },
+          "href": "https://api.spotify.com/v1/artists/37UACiDcdzEYii0iU0QpAf",
+          "id": "37UACiDcdzEYii0iU0QpAf",
+          "name": "Secreto \"El Famoso Biberon\"",
+          "type": "artist",
+          "uri": "spotify:artist:37UACiDcdzEYii0iU0QpAf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+          },
+          "href": "https://api.spotify.com/v1/artists/03Enzet8KLMkjdeQnbqbmn",
+          "id": "03Enzet8KLMkjdeQnbqbmn",
+          "name": "Pacho El Antifeka",
+          "type": "artist",
+          "uri": "spotify:artist:03Enzet8KLMkjdeQnbqbmn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 398280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3AbJqOEvApkTuFKl1cIzTK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3AbJqOEvApkTuFKl1cIzTK",
+      "id": "3AbJqOEvApkTuFKl1cIzTK",
+      "name": "Siempre Seré (feat. Secreto El Famoso Biberón & Pacho El Antifeka)",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:3AbJqOEvApkTuFKl1cIzTK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226546,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PpwwiaSqIzLyzboENB4QO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PpwwiaSqIzLyzboENB4QO",
+      "id": "5PpwwiaSqIzLyzboENB4QO",
+      "name": "Helicóptero",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:5PpwwiaSqIzLyzboENB4QO",
+      "is_local": false
+    }
+  ]
+}

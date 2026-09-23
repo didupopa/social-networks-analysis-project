@@ -1,0 +1,632 @@
+{
+  "artist_id": "329e4yvIujISKGKz1BZZbO",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6wJ61YVrC8GtqMWziylvsW"
+      },
+      "href": "https://api.spotify.com/v1/albums/6wJ61YVrC8GtqMWziylvsW",
+      "id": "6wJ61YVrC8GtqMWziylvsW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735850522405486466584341fe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025850522405486466584341fe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515850522405486466584341fe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Manda La Plena Moh",
+      "release_date": "2026-04-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6wJ61YVrC8GtqMWziylvsW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tcE9j1tiIFATerMXsZKna"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tcE9j1tiIFATerMXsZKna",
+      "id": "6tcE9j1tiIFATerMXsZKna",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27305c40e62df67c4ddffa1729a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0205c40e62df67c4ddffa1729a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485105c40e62df67c4ddffa1729a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "167BPM (Live from PTY)",
+      "release_date": "2025-10-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tcE9j1tiIFATerMXsZKna",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+          },
+          "href": "https://api.spotify.com/v1/artists/54NBSkiOmMBEfacGfefPq0",
+          "id": "54NBSkiOmMBEfacGfefPq0",
+          "name": "Louis BPM",
+          "type": "artist",
+          "uri": "spotify:artist:54NBSkiOmMBEfacGfefPq0"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3S6fxijIqlBoh1o7BYGgyw"
+      },
+      "href": "https://api.spotify.com/v1/albums/3S6fxijIqlBoh1o7BYGgyw",
+      "id": "3S6fxijIqlBoh1o7BYGgyw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732327bea90d09c0cf1e999e85",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022327bea90d09c0cf1e999e85",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512327bea90d09c0cf1e999e85",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "167BPM",
+      "release_date": "2025-09-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3S6fxijIqlBoh1o7BYGgyw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+          },
+          "href": "https://api.spotify.com/v1/artists/54NBSkiOmMBEfacGfefPq0",
+          "id": "54NBSkiOmMBEfacGfefPq0",
+          "name": "Louis BPM",
+          "type": "artist",
+          "uri": "spotify:artist:54NBSkiOmMBEfacGfefPq0"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ZOlDViNpY9CrAXTNZMffm",
+      "id": "4ZOlDViNpY9CrAXTNZMffm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c124620930c6c7b8012d8e2f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c124620930c6c7b8012d8e2f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c124620930c6c7b8012d8e2f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CVRBON VRMOR",
+      "release_date": "2024-10-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ZOlDViNpY9CrAXTNZMffm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "href": "https://api.spotify.com/v1/albums/3zaBxuBf9zSlxZ20ZRHXXE",
+      "id": "3zaBxuBf9zSlxZ20ZRHXXE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8ffd9f6ca8ef1b97e80a36e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8ffd9f6ca8ef1b97e80a36e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a8ffd9f6ca8ef1b97e80a36e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+      "release_date": "2024-05-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3zaBxuBf9zSlxZ20ZRHXXE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "href": "https://api.spotify.com/v1/albums/0T6QxdJZwYrXPHd829SnqK",
+      "id": "0T6QxdJZwYrXPHd829SnqK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b71557ea8911ae076ecf94fa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b71557ea8911ae076ecf94fa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b71557ea8911ae076ecf94fa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "La 167",
+      "release_date": "2021-10-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0T6QxdJZwYrXPHd829SnqK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4lsdX5CimNaabkZUxX6rx8"
+      },
+      "href": "https://api.spotify.com/v1/albums/4lsdX5CimNaabkZUxX6rx8",
+      "id": "4lsdX5CimNaabkZUxX6rx8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f571c8ec65bc1009382fdce1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f571c8ec65bc1009382fdce1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f571c8ec65bc1009382fdce1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "En Letra de Otro",
+      "release_date": "2019-08-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4lsdX5CimNaabkZUxX6rx8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
+      },
+      "href": "https://api.spotify.com/v1/albums/1PgFsarDcIwCvLX32DpcxB",
+      "id": "1PgFsarDcIwCvLX32DpcxB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac59e2dcb49dcd943c980e64",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac59e2dcb49dcd943c980e64",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ac59e2dcb49dcd943c980e64",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gangalee",
+      "release_date": "2019-04-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1PgFsarDcIwCvLX32DpcxB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "href": "https://api.spotify.com/v1/albums/0v94MG5nbp4w6xdeFkfQrA",
+      "id": "0v94MG5nbp4w6xdeFkfQrA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e73eb711c3039d27e63d60b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e73eb711c3039d27e63d60b5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e73eb711c3039d27e63d60b5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "TrapXficante",
+      "release_date": "2017-09-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0v94MG5nbp4w6xdeFkfQrA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1zFp5Q3Dgo8wmKsmfZ23QX",
+      "id": "1zFp5Q3Dgo8wmKsmfZ23QX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1767b0bd14e65c34ef7c25d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1767b0bd14e65c34ef7c25d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f1767b0bd14e65c34ef7c25d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Visionary",
+      "release_date": "2015-10-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1zFp5Q3Dgo8wmKsmfZ23QX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5NJGjIRAG9KMFibBfsLhpz"
+      },
+      "href": "https://api.spotify.com/v1/albums/5NJGjIRAG9KMFibBfsLhpz",
+      "id": "5NJGjIRAG9KMFibBfsLhpz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a8fcd3f378fe62aec071958",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029a8fcd3f378fe62aec071958",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519a8fcd3f378fe62aec071958",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Farruko Presents Los Menores",
+      "release_date": "2014-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5NJGjIRAG9KMFibBfsLhpz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0IqAFwI9pd7ZpV8JR5v1II"
+      },
+      "href": "https://api.spotify.com/v1/albums/0IqAFwI9pd7ZpV8JR5v1II",
+      "id": "0IqAFwI9pd7ZpV8JR5v1II",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273aec344fa19368d1d55f432fb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02aec344fa19368d1d55f432fb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851aec344fa19368d1d55f432fb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Imperio Nazza (Farruko Edition)",
+      "release_date": "2013-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0IqAFwI9pd7ZpV8JR5v1II",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5bbdOmhFAI5ymXrCSFVYfl"
+      },
+      "href": "https://api.spotify.com/v1/albums/5bbdOmhFAI5ymXrCSFVYfl",
+      "id": "5bbdOmhFAI5ymXrCSFVYfl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273be6350308ab5d2286cfdbd5f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02be6350308ab5d2286cfdbd5f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851be6350308ab5d2286cfdbd5f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "TMPR The Most Powerful Rookie",
+      "release_date": "2012-05-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5bbdOmhFAI5ymXrCSFVYfl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5S9odoF4USM3THo6TyNfgj"
+      },
+      "href": "https://api.spotify.com/v1/albums/5S9odoF4USM3THo6TyNfgj",
+      "id": "5S9odoF4USM3THo6TyNfgj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27376c1fd9ef2c8953629cb1af0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0276c1fd9ef2c8953629cb1af0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485176c1fd9ef2c8953629cb1af0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "El Talento del Bloque",
+      "release_date": "2010-05-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5S9odoF4USM3THo6TyNfgj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "artist_id": "2zJoKYyLmhvsq3ORbXE7xF",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Eeum8oIHNLlc8LQrrHjWE"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Eeum8oIHNLlc8LQrrHjWE",
+      "id": "3Eeum8oIHNLlc8LQrrHjWE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731938664af9b991618690953f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021938664af9b991618690953f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511938664af9b991618690953f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Street Fame",
+      "release_date": "2023-04-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Eeum8oIHNLlc8LQrrHjWE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0el6EYsPdwaQTD51SGcPRY"
+      },
+      "href": "https://api.spotify.com/v1/albums/0el6EYsPdwaQTD51SGcPRY",
+      "id": "0el6EYsPdwaQTD51SGcPRY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273869091065ad81298958bebe9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02869091065ad81298958bebe9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851869091065ad81298958bebe9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "N.O.S.C.",
+      "release_date": "2022-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0el6EYsPdwaQTD51SGcPRY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Kl8RxPPyvfoVKmxpXIKvX"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Kl8RxPPyvfoVKmxpXIKvX",
+          "id": "1Kl8RxPPyvfoVKmxpXIKvX",
+          "name": "Ron G SC",
+          "type": "artist",
+          "uri": "spotify:artist:1Kl8RxPPyvfoVKmxpXIKvX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6I1TVawwhAdvasz0hzA0Kp"
+      },
+      "href": "https://api.spotify.com/v1/albums/6I1TVawwhAdvasz0hzA0Kp",
+      "id": "6I1TVawwhAdvasz0hzA0Kp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c6c3d4947d78b00d43d26c9b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c6c3d4947d78b00d43d26c9b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c6c3d4947d78b00d43d26c9b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Real Is Rare",
+      "release_date": "2021-09-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6I1TVawwhAdvasz0hzA0Kp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1oUVlhOn0M92rOPFLfANFV"
+      },
+      "href": "https://api.spotify.com/v1/albums/1oUVlhOn0M92rOPFLfANFV",
+      "id": "1oUVlhOn0M92rOPFLfANFV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8510c196e23b3a5ac4fa615",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8510c196e23b3a5ac4fa615",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d8510c196e23b3a5ac4fa615",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fuk da Fame: American Trapstar",
+      "release_date": "2020-11-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1oUVlhOn0M92rOPFLfANFV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Chrfjnc8CqWjRg90nYi1a"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Chrfjnc8CqWjRg90nYi1a",
+      "id": "6Chrfjnc8CqWjRg90nYi1a",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cbf5966ecaf24cc1953cb984",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cbf5966ecaf24cc1953cb984",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cbf5966ecaf24cc1953cb984",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fuk Da Fame",
+      "release_date": "2020-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Chrfjnc8CqWjRg90nYi1a",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7wW5xQMgptzKwzdXDjkbGf"
+      },
+      "href": "https://api.spotify.com/v1/albums/7wW5xQMgptzKwzdXDjkbGf",
+      "id": "7wW5xQMgptzKwzdXDjkbGf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b87f1ab093fb9b4f79e184ae",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b87f1ab093fb9b4f79e184ae",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b87f1ab093fb9b4f79e184ae",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "2014 Mazant Street",
+      "release_date": "2020-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7wW5xQMgptzKwzdXDjkbGf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3fJOpB2UxG6KVhQXtKFGlo"
+      },
+      "href": "https://api.spotify.com/v1/albums/3fJOpB2UxG6KVhQXtKFGlo",
+      "id": "3fJOpB2UxG6KVhQXtKFGlo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a006aa6a68b27572755fc36f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a006aa6a68b27572755fc36f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a006aa6a68b27572755fc36f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Undeniable",
+      "release_date": "2019-09-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3fJOpB2UxG6KVhQXtKFGlo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0UMleOnWcFyIo3mBzSwXlh"
+      },
+      "href": "https://api.spotify.com/v1/albums/0UMleOnWcFyIo3mBzSwXlh",
+      "id": "0UMleOnWcFyIo3mBzSwXlh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef3c2e770cbec831dd8fafa6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef3c2e770cbec831dd8fafa6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ef3c2e770cbec831dd8fafa6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "To Yall from Me",
+      "release_date": "2019-06-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0UMleOnWcFyIo3mBzSwXlh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4SJ0rppdQ2aDNDQXRoQI0f"
+      },
+      "href": "https://api.spotify.com/v1/albums/4SJ0rppdQ2aDNDQXRoQI0f",
+      "id": "4SJ0rppdQ2aDNDQXRoQI0f",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c10a1fc407ae08d68439f9aa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c10a1fc407ae08d68439f9aa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c10a1fc407ae08d68439f9aa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Uptown to Downtown",
+      "release_date": "2018-12-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4SJ0rppdQ2aDNDQXRoQI0f",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Nma6HP5R8dyqCsGHWxPDi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Nma6HP5R8dyqCsGHWxPDi",
+          "id": "0Nma6HP5R8dyqCsGHWxPDi",
+          "name": "Diezel DaBeast",
+          "type": "artist",
+          "uri": "spotify:artist:0Nma6HP5R8dyqCsGHWxPDi"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/78RGIdvLWN75jBOcgWC1h4"
+      },
+      "href": "https://api.spotify.com/v1/albums/78RGIdvLWN75jBOcgWC1h4",
+      "id": "78RGIdvLWN75jBOcgWC1h4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ba295769394a196ca8d1b61",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ba295769394a196ca8d1b61",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ba295769394a196ca8d1b61",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hustle or Hate",
+      "release_date": "2018-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:78RGIdvLWN75jBOcgWC1h4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5G1zHwZgEo2O4YCrRhoiUy"
+      },
+      "href": "https://api.spotify.com/v1/albums/5G1zHwZgEo2O4YCrRhoiUy",
+      "id": "5G1zHwZgEo2O4YCrRhoiUy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8057ca30cf8524e108c7d4d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8057ca30cf8524e108c7d4d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c8057ca30cf8524e108c7d4d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Unquestionable",
+      "release_date": "2018-01-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5G1zHwZgEo2O4YCrRhoiUy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SJWh6Sh0T4gwFCB3ixM5r"
+      },
+      "href": "https://api.spotify.com/v1/albums/6SJWh6Sh0T4gwFCB3ixM5r",
+      "id": "6SJWh6Sh0T4gwFCB3ixM5r",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737121627cc2b6c874982c5958",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027121627cc2b6c874982c5958",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517121627cc2b6c874982c5958",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Reallionaire",
+      "release_date": "2011-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6SJWh6Sh0T4gwFCB3ixM5r",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+          "id": "2zJoKYyLmhvsq3ORbXE7xF",
+          "name": "Kidd Kidd",
+          "type": "artist",
+          "uri": "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ]
+    }
+  ]
+}

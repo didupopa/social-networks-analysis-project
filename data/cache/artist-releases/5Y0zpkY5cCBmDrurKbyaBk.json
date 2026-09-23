@@ -1,0 +1,139 @@
+{
+  "artist_id": "5Y0zpkY5cCBmDrurKbyaBk",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7jCNGGrYi88nSg8TRcVBeC"
+      },
+      "href": "https://api.spotify.com/v1/albums/7jCNGGrYi88nSg8TRcVBeC",
+      "id": "7jCNGGrYi88nSg8TRcVBeC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739061251c6d6dde3c0b2778c1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029061251c6d6dde3c0b2778c1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519061251c6d6dde3c0b2778c1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Monstroso",
+      "release_date": "2012-03-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7jCNGGrYi88nSg8TRcVBeC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y0zpkY5cCBmDrurKbyaBk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y0zpkY5cCBmDrurKbyaBk",
+          "id": "5Y0zpkY5cCBmDrurKbyaBk",
+          "name": "Reel",
+          "type": "artist",
+          "uri": "spotify:artist:5Y0zpkY5cCBmDrurKbyaBk"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3D08McLkhlNkfYCQ9ic1P9"
+      },
+      "href": "https://api.spotify.com/v1/albums/3D08McLkhlNkfYCQ9ic1P9",
+      "id": "3D08McLkhlNkfYCQ9ic1P9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d159f598bbfc1955171c7d09",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d159f598bbfc1955171c7d09",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d159f598bbfc1955171c7d09",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dominion",
+      "release_date": "2007-10-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3D08McLkhlNkfYCQ9ic1P9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y0zpkY5cCBmDrurKbyaBk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y0zpkY5cCBmDrurKbyaBk",
+          "id": "5Y0zpkY5cCBmDrurKbyaBk",
+          "name": "Reel",
+          "type": "artist",
+          "uri": "spotify:artist:5Y0zpkY5cCBmDrurKbyaBk"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7D2ptJs09pI9XBRyDUSEEo"
+      },
+      "href": "https://api.spotify.com/v1/albums/7D2ptJs09pI9XBRyDUSEEo",
+      "id": "7D2ptJs09pI9XBRyDUSEEo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738a477f3302f61b11435509d4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028a477f3302f61b11435509d4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518a477f3302f61b11435509d4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lithium",
+      "release_date": "2006-01-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7D2ptJs09pI9XBRyDUSEEo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y0zpkY5cCBmDrurKbyaBk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y0zpkY5cCBmDrurKbyaBk",
+          "id": "5Y0zpkY5cCBmDrurKbyaBk",
+          "name": "Reel",
+          "type": "artist",
+          "uri": "spotify:artist:5Y0zpkY5cCBmDrurKbyaBk"
+        }
+      ]
+    }
+  ]
+}

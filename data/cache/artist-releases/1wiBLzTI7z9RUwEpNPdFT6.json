@@ -1,0 +1,139 @@
+{
+  "artist_id": "1wiBLzTI7z9RUwEpNPdFT6",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Mb97a181fWxWHlGQGHTPO"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Mb97a181fWxWHlGQGHTPO",
+      "id": "3Mb97a181fWxWHlGQGHTPO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273502c8b939032d419e06550e9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02502c8b939032d419e06550e9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851502c8b939032d419e06550e9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Welcome Back",
+      "release_date": "2005-10-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Mb97a181fWxWHlGQGHTPO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+          "id": "1wiBLzTI7z9RUwEpNPdFT6",
+          "name": "Mase",
+          "type": "artist",
+          "uri": "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW"
+      },
+      "href": "https://api.spotify.com/v1/albums/0DTOpcrISuUBmpHknsAJlW",
+      "id": "0DTOpcrISuUBmpHknsAJlW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b3cdec7290f697aaa1f63035",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b3cdec7290f697aaa1f63035",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b3cdec7290f697aaa1f63035",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Double Up",
+      "release_date": "1999",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:0DTOpcrISuUBmpHknsAJlW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+          "id": "1wiBLzTI7z9RUwEpNPdFT6",
+          "name": "Mase",
+          "type": "artist",
+          "uri": "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "href": "https://api.spotify.com/v1/albums/21YtqAiqXNGuvWNBS0JvOy",
+      "id": "21YtqAiqXNGuvWNBS0JvOy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1fded9d9960898bd8e604a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1fded9d9960898bd8e604a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f1fded9d9960898bd8e604a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Harlem World",
+      "release_date": "1997",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:21YtqAiqXNGuvWNBS0JvOy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+          "id": "1wiBLzTI7z9RUwEpNPdFT6",
+          "name": "Mase",
+          "type": "artist",
+          "uri": "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ]
+    }
+  ]
+}

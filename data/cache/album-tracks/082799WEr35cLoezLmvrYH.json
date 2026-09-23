@@ -1,0 +1,605 @@
+{
+  "album_id": "082799WEr35cLoezLmvrYH",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 416571,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3osMvYZNYMEP27mEcDgFWz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3osMvYZNYMEP27mEcDgFWz",
+      "id": "3osMvYZNYMEP27mEcDgFWz",
+      "name": "You Really Got Me",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3osMvYZNYMEP27mEcDgFWz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238208,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2VgmCfWstoScFSWOoduKB1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2VgmCfWstoScFSWOoduKB1",
+      "id": "2VgmCfWstoScFSWOoduKB1",
+      "name": "El Chupacabra",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2VgmCfWstoScFSWOoduKB1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aBGGQuF4hT8qIwFpEBjos"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aBGGQuF4hT8qIwFpEBjos",
+          "id": "3aBGGQuF4hT8qIwFpEBjos",
+          "name": "Cecil Young",
+          "type": "artist",
+          "uri": "spotify:artist:3aBGGQuF4hT8qIwFpEBjos"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228987,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5jjUBIxfU6vMan1nMK5TBc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5jjUBIxfU6vMan1nMK5TBc",
+      "id": "5jjUBIxfU6vMan1nMK5TBc",
+      "name": "The New Generation",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5jjUBIxfU6vMan1nMK5TBc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 326603,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6L4FxCe0G9O0GoBLpc0xem"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6L4FxCe0G9O0GoBLpc0xem",
+      "id": "6L4FxCe0G9O0GoBLpc0xem",
+      "name": "In The Meantime",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6L4FxCe0G9O0GoBLpc0xem",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uArv9bmv9JsdpJJ3xgKGt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3uArv9bmv9JsdpJJ3xgKGt",
+          "id": "3uArv9bmv9JsdpJJ3xgKGt",
+          "name": "Jarek Szczyglak",
+          "type": "artist",
+          "uri": "spotify:artist:3uArv9bmv9JsdpJJ3xgKGt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130410,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2toGku2yJc6ciFBftv6nGO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2toGku2yJc6ciFBftv6nGO",
+      "id": "2toGku2yJc6ciFBftv6nGO",
+      "name": "King Of The Moon",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2toGku2yJc6ciFBftv6nGO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5hQjKEBCjMBf2MmiPNBEf3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5hQjKEBCjMBf2MmiPNBEf3",
+          "id": "5hQjKEBCjMBf2MmiPNBEf3",
+          "name": "Dalia Maltese",
+          "type": "artist",
+          "uri": "spotify:artist:5hQjKEBCjMBf2MmiPNBEf3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vGyXlWnWT8YY1oEPJfmOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vGyXlWnWT8YY1oEPJfmOp",
+          "id": "3vGyXlWnWT8YY1oEPJfmOp",
+          "name": "Yael Dray",
+          "type": "artist",
+          "uri": "spotify:artist:3vGyXlWnWT8YY1oEPJfmOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kUxH2HR1HhYsoNK8GEmE6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kUxH2HR1HhYsoNK8GEmE6",
+      "id": "5kUxH2HR1HhYsoNK8GEmE6",
+      "name": "Cars",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5kUxH2HR1HhYsoNK8GEmE6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203388,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mVweptBmLOQOMX4VLCa13"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mVweptBmLOQOMX4VLCa13",
+      "id": "4mVweptBmLOQOMX4VLCa13",
+      "name": "The Wonders Of Rice",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4mVweptBmLOQOMX4VLCa13",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 304800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5y2deFr24thfuxFH839HGm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5y2deFr24thfuxFH839HGm",
+      "id": "5y2deFr24thfuxFH839HGm",
+      "name": "The Cowboy's Prayer",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5y2deFr24thfuxFH839HGm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tFb8vIjilRuCFjdAaJrXU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tFb8vIjilRuCFjdAaJrXU",
+          "id": "4tFb8vIjilRuCFjdAaJrXU",
+          "name": "James Mclean",
+          "type": "artist",
+          "uri": "spotify:artist:4tFb8vIjilRuCFjdAaJrXU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WaXaaMR9qygYEID59D1lM"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WaXaaMR9qygYEID59D1lM",
+          "id": "0WaXaaMR9qygYEID59D1lM",
+          "name": "Maureen O'Connor",
+          "type": "artist",
+          "uri": "spotify:artist:0WaXaaMR9qygYEID59D1lM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164113,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6jALGNLcjYbXHeDqLnu243"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6jALGNLcjYbXHeDqLnu243",
+      "id": "6jALGNLcjYbXHeDqLnu243",
+      "name": "Nuclear Fiesta",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6jALGNLcjYbXHeDqLnu243",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BRrCQ8TlxEgUdpBS9qJhT"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BRrCQ8TlxEgUdpBS9qJhT",
+          "id": "3BRrCQ8TlxEgUdpBS9qJhT",
+          "name": "Baul Shafi Mondol",
+          "type": "artist",
+          "uri": "spotify:artist:3BRrCQ8TlxEgUdpBS9qJhT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 357803,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7uSoI7EMbFbnBEORLFroAU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7uSoI7EMbFbnBEORLFroAU",
+      "id": "7uSoI7EMbFbnBEORLFroAU",
+      "name": "Journey Out Of Your Mind",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7uSoI7EMbFbnBEORLFroAU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 302666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cPWvXnl9JQp9isYExV7Z0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cPWvXnl9JQp9isYExV7Z0",
+      "id": "3cPWvXnl9JQp9isYExV7Z0",
+      "name": "The Sound In The Future",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3cPWvXnl9JQp9isYExV7Z0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 402525,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/222Pe9LaZR3LWNZJDT5EVQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/222Pe9LaZR3LWNZJDT5EVQ",
+      "id": "222Pe9LaZR3LWNZJDT5EVQ",
+      "name": "Strawberry Fields Forever",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:222Pe9LaZR3LWNZJDT5EVQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6I1zY9OTD7gs40DT2vmJnc"
+          },
+          "href": "https://api.spotify.com/v1/artists/6I1zY9OTD7gs40DT2vmJnc",
+          "id": "6I1zY9OTD7gs40DT2vmJnc",
+          "name": "Vincent Veloso",
+          "type": "artist",
+          "uri": "spotify:artist:6I1zY9OTD7gs40DT2vmJnc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195980,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6NyomS7mGyqkaHkC1yQ3z5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6NyomS7mGyqkaHkC1yQ3z5",
+      "id": "6NyomS7mGyqkaHkC1yQ3z5",
+      "name": "Living In A House Of Cards",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6NyomS7mGyqkaHkC1yQ3z5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xhMsKKbUmAiYO2rTKW3qZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xhMsKKbUmAiYO2rTKW3qZ",
+          "id": "5xhMsKKbUmAiYO2rTKW3qZ",
+          "name": "M'lumbo",
+          "type": "artist",
+          "uri": "spotify:artist:5xhMsKKbUmAiYO2rTKW3qZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HnPX6Hyou4IeAb0GlQYFk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HnPX6Hyou4IeAb0GlQYFk",
+          "id": "1HnPX6Hyou4IeAb0GlQYFk",
+          "name": "Page Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:1HnPX6Hyou4IeAb0GlQYFk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 489130,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2GDXrNDmJqBsjrYMdSiNa5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2GDXrNDmJqBsjrYMdSiNa5",
+      "id": "2GDXrNDmJqBsjrYMdSiNa5",
+      "name": "Sleep Walk",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2GDXrNDmJqBsjrYMdSiNa5",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "artist_id": "2ExGrw6XpbtUAJHTLtUXUD",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
+      },
+      "href": "https://api.spotify.com/v1/albums/07n3iriTEHGIDuJtYysdtB",
+      "id": "07n3iriTEHGIDuJtYysdtB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c210579b29621a88d2d9aee9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c210579b29621a88d2d9aee9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c210579b29621a88d2d9aee9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Island 54",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:07n3iriTEHGIDuJtYysdtB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ExGrw6XpbtUAJHTLtUXUD",
+          "id": "2ExGrw6XpbtUAJHTLtUXUD",
+          "name": "Stefflon Don",
+          "type": "artist",
+          "uri": "spotify:artist:2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5asFxV5BYQsPkI1IaIOGAU"
+      },
+      "href": "https://api.spotify.com/v1/albums/5asFxV5BYQsPkI1IaIOGAU",
+      "id": "5asFxV5BYQsPkI1IaIOGAU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273adf3854b5e7aadca0319b07f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02adf3854b5e7aadca0319b07f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851adf3854b5e7aadca0319b07f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SECURE",
+      "release_date": "2018-08-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5asFxV5BYQsPkI1IaIOGAU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ExGrw6XpbtUAJHTLtUXUD",
+          "id": "2ExGrw6XpbtUAJHTLtUXUD",
+          "name": "Stefflon Don",
+          "type": "artist",
+          "uri": "spotify:artist:2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0GU9HTZM4UMFAdyrYob9WP"
+      },
+      "href": "https://api.spotify.com/v1/albums/0GU9HTZM4UMFAdyrYob9WP",
+      "id": "0GU9HTZM4UMFAdyrYob9WP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ecc15a12ad9fa380bb99b36",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027ecc15a12ad9fa380bb99b36",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517ecc15a12ad9fa380bb99b36",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Real Ting Mixtape",
+      "release_date": "2016-12-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0GU9HTZM4UMFAdyrYob9WP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ExGrw6XpbtUAJHTLtUXUD",
+          "id": "2ExGrw6XpbtUAJHTLtUXUD",
+          "name": "Stefflon Don",
+          "type": "artist",
+          "uri": "spotify:artist:2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ]
+    }
+  ]
+}

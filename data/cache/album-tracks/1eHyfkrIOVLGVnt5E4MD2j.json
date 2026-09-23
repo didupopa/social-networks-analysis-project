@@ -1,0 +1,435 @@
+{
+  "album_id": "1eHyfkrIOVLGVnt5E4MD2j",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0n4bITAu0Y0nigrz3MFJMb",
+      "id": "0n4bITAu0Y0nigrz3MFJMb",
+      "name": "Blurred Lines",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0n4bITAu0Y0nigrz3MFJMb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/586utOiRsVlUZq9SCBMwXm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/586utOiRsVlUZq9SCBMwXm",
+      "id": "586utOiRsVlUZq9SCBMwXm",
+      "name": "Take It Easy On Me",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:586utOiRsVlUZq9SCBMwXm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278920,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3WW5uU5C5ytrZs1ekvcEyB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3WW5uU5C5ytrZs1ekvcEyB",
+      "id": "3WW5uU5C5ytrZs1ekvcEyB",
+      "name": "Ooo La La",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3WW5uU5C5ytrZs1ekvcEyB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1DdYlujfj7sUd6HxJF1Pa0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1DdYlujfj7sUd6HxJF1Pa0",
+      "id": "1DdYlujfj7sUd6HxJF1Pa0",
+      "name": "Ain’t No Hat 4 That",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1DdYlujfj7sUd6HxJF1Pa0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rskmzp8zXh3lbCMFI5KGZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4rskmzp8zXh3lbCMFI5KGZ",
+      "id": "4rskmzp8zXh3lbCMFI5KGZ",
+      "name": "Get In My Way",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4rskmzp8zXh3lbCMFI5KGZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229666,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5zDQlhcJ5KOoXeSMGwiuJY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5zDQlhcJ5KOoXeSMGwiuJY",
+      "id": "5zDQlhcJ5KOoXeSMGwiuJY",
+      "name": "Give It 2 U",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5zDQlhcJ5KOoXeSMGwiuJY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VpeYLZwCsPpR5yVjE41c9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VpeYLZwCsPpR5yVjE41c9",
+      "id": "1VpeYLZwCsPpR5yVjE41c9",
+      "name": "Feel Good",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1VpeYLZwCsPpR5yVjE41c9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0g4VCRlnKJA7HqyyFSofyl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0g4VCRlnKJA7HqyyFSofyl",
+      "id": "0g4VCRlnKJA7HqyyFSofyl",
+      "name": "Go Stupid 4 U",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0g4VCRlnKJA7HqyyFSofyl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5lA1fhy1gsIBqOOWTRFvjQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5lA1fhy1gsIBqOOWTRFvjQ",
+      "id": "5lA1fhy1gsIBqOOWTRFvjQ",
+      "name": "4 The Rest Of My Life",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5lA1fhy1gsIBqOOWTRFvjQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0bmfxrA509K5EgUYROXTji"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0bmfxrA509K5EgUYROXTji",
+      "id": "0bmfxrA509K5EgUYROXTji",
+      "name": "Top Of The World",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0bmfxrA509K5EgUYROXTji",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PIPSy5jvrYr1b2bYwimRr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PIPSy5jvrYr1b2bYwimRr",
+      "id": "6PIPSy5jvrYr1b2bYwimRr",
+      "name": "The Good Life",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6PIPSy5jvrYr1b2bYwimRr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4UI3YUu7AL7gz9bA6JSJVl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4UI3YUu7AL7gz9bA6JSJVl",
+      "id": "4UI3YUu7AL7gz9bA6JSJVl",
+      "name": "Pressure",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4UI3YUu7AL7gz9bA6JSJVl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3pTg6tluPRlpFb13RjuHlX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3pTg6tluPRlpFb13RjuHlX",
+      "id": "3pTg6tluPRlpFb13RjuHlX",
+      "name": "Put Your Lovin On Me",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3pTg6tluPRlpFb13RjuHlX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6SB2sufUkTTb3Ovjw6TELT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6SB2sufUkTTb3Ovjw6TELT",
+      "id": "6SB2sufUkTTb3Ovjw6TELT",
+      "name": "Give It 2 U - Remix",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6SB2sufUkTTb3Ovjw6TELT",
+      "is_local": false
+    }
+  ]
+}

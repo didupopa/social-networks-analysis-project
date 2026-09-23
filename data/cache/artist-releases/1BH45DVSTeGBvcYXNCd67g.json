@@ -1,0 +1,503 @@
+{
+  "artist_id": "1BH45DVSTeGBvcYXNCd67g",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3EUNRrY9mQaIYByWQHTmKg"
+      },
+      "href": "https://api.spotify.com/v1/albums/3EUNRrY9mQaIYByWQHTmKg",
+      "id": "3EUNRrY9mQaIYByWQHTmKg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27383f18a2f7908c63b0362822f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0283f18a2f7908c63b0362822f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485183f18a2f7908c63b0362822f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Street Certified",
+      "release_date": "2014-11-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3EUNRrY9mQaIYByWQHTmKg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4fAzzQqs2YXqkBTJYX6R3Z"
+      },
+      "href": "https://api.spotify.com/v1/albums/4fAzzQqs2YXqkBTJYX6R3Z",
+      "id": "4fAzzQqs2YXqkBTJYX6R3Z",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a88bd1e5aef4b940c536f802",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a88bd1e5aef4b940c536f802",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a88bd1e5aef4b940c536f802",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sparta (Instrumentals)",
+      "release_date": "2012-03-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4fAzzQqs2YXqkBTJYX6R3Z",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cTfr9nU9kwlKrVxwghbxN"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cTfr9nU9kwlKrVxwghbxN",
+          "id": "7cTfr9nU9kwlKrVxwghbxN",
+          "name": "Snowgoons",
+          "type": "artist",
+          "uri": "spotify:artist:7cTfr9nU9kwlKrVxwghbxN"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2o1kV4zYZ6X5YnmM0KQqfd"
+      },
+      "href": "https://api.spotify.com/v1/albums/2o1kV4zYZ6X5YnmM0KQqfd",
+      "id": "2o1kV4zYZ6X5YnmM0KQqfd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730e146719079f909e90916ead",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020e146719079f909e90916ead",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510e146719079f909e90916ead",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sparta",
+      "release_date": "2011-11-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2o1kV4zYZ6X5YnmM0KQqfd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cTfr9nU9kwlKrVxwghbxN"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cTfr9nU9kwlKrVxwghbxN",
+          "id": "7cTfr9nU9kwlKrVxwghbxN",
+          "name": "Snowgoons",
+          "type": "artist",
+          "uri": "spotify:artist:7cTfr9nU9kwlKrVxwghbxN"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zH6mCv1VPhzPmPrBw0adW"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zH6mCv1VPhzPmPrBw0adW",
+      "id": "6zH6mCv1VPhzPmPrBw0adW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3c5d068896c4e7fc0b79480",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3c5d068896c4e7fc0b79480",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a3c5d068896c4e7fc0b79480",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Foundation",
+      "release_date": "2009-09-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6zH6mCv1VPhzPmPrBw0adW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4aCGWGpChmsK4urkFgpkZQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/4aCGWGpChmsK4urkFgpkZQ",
+      "id": "4aCGWGpChmsK4urkFgpkZQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ee016dcc8b044d6e7cf04be",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020ee016dcc8b044d6e7cf04be",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510ee016dcc8b044d6e7cf04be",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mash Out Posse",
+      "release_date": "2004-06-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4aCGWGpChmsK4urkFgpkZQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ESg9ohukUBy7ZI7AttnoL"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ESg9ohukUBy7ZI7AttnoL",
+      "id": "6ESg9ohukUBy7ZI7AttnoL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c75e31543bfd1c506b9eb5d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026c75e31543bfd1c506b9eb5d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516c75e31543bfd1c506b9eb5d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Presents The Marxmen: Marxmen Cinema",
+      "release_date": "2004-01-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ESg9ohukUBy7ZI7AttnoL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ToPAwXXUmRJeAeKJRv2Rp"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ToPAwXXUmRJeAeKJRv2Rp",
+      "id": "0ToPAwXXUmRJeAeKJRv2Rp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737869cf4e75f8c36c0ac46c7f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027869cf4e75f8c36c0ac46c7f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517869cf4e75f8c36c0ac46c7f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mash out Posse",
+      "release_date": "2004-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ToPAwXXUmRJeAeKJRv2Rp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j"
+      },
+      "href": "https://api.spotify.com/v1/albums/0mw0v424Ribwwrt0oMVB1j",
+      "id": "0mw0v424Ribwwrt0oMVB1j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27399d5e13356b05f244af52d78",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0299d5e13356b05f244af52d78",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485199d5e13356b05f244af52d78",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Warriorz",
+      "release_date": "2000-08-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0mw0v424Ribwwrt0oMVB1j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3kaX938EVrZuYE1JpNhZIW"
+      },
+      "href": "https://api.spotify.com/v1/albums/3kaX938EVrZuYE1JpNhZIW",
+      "id": "3kaX938EVrZuYE1JpNhZIW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27345ad5b825f5401329c7f1616",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0245ad5b825f5401329c7f1616",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485145ad5b825f5401329c7f1616",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "First Family 4 Life",
+      "release_date": "1998-08-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3kaX938EVrZuYE1JpNhZIW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Coc0GdOw4FXgEggnVyywb"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Coc0GdOw4FXgEggnVyywb",
+      "id": "1Coc0GdOw4FXgEggnVyywb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27389e320dbf497b1bcedad1aa1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0289e320dbf497b1bcedad1aa1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485189e320dbf497b1bcedad1aa1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Firing Squad",
+      "release_date": "1996-07-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Coc0GdOw4FXgEggnVyywb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7C5dROhh5yucsv8z91ZRvP"
+      },
+      "href": "https://api.spotify.com/v1/albums/7C5dROhh5yucsv8z91ZRvP",
+      "id": "7C5dROhh5yucsv8z91ZRvP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733a6a44595de46f2e3c003e08",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023a6a44595de46f2e3c003e08",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513a6a44595de46f2e3c003e08",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "To The Death",
+      "release_date": "1994-04-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7C5dROhh5yucsv8z91ZRvP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ]
+    }
+  ]
+}
