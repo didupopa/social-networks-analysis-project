@@ -1,0 +1,737 @@
+{
+  "album_id": "2OA8KceUAUy2HVFRjSDydW",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+          },
+          "href": "https://api.spotify.com/v1/artists/50OApTJurDusIo9dGTqSU4",
+          "id": "50OApTJurDusIo9dGTqSU4",
+          "name": "Lilly Wood and The Prick",
+          "type": "artist",
+          "uri": "spotify:artist:50OApTJurDusIo9dGTqSU4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 324866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4fST5rqz2g3pxTuHmKVSjR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4fST5rqz2g3pxTuHmKVSjR",
+      "id": "4fST5rqz2g3pxTuHmKVSjR",
+      "name": "Prayer in C - Robin Schulz Remix",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4fST5rqz2g3pxTuHmKVSjR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0r0R5nIjDY04TfxRM10Bcb",
+          "id": "0r0R5nIjDY04TfxRM10Bcb",
+          "name": "Alligatoah",
+          "type": "artist",
+          "uri": "spotify:artist:0r0R5nIjDY04TfxRM10Bcb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 386053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DpXP0WHblsnHow2VCNV01"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DpXP0WHblsnHow2VCNV01",
+      "id": "5DpXP0WHblsnHow2VCNV01",
+      "name": "Willst du",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5DpXP0WHblsnHow2VCNV01",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2TL8gYTNgD6nXkyuUdDrMg",
+          "id": "2TL8gYTNgD6nXkyuUdDrMg",
+          "name": "Jasmine Thompson",
+          "type": "artist",
+          "uri": "spotify:artist:2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 347108,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4MGKXVZrERqB4eKZfGUSis"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4MGKXVZrERqB4eKZfGUSis",
+      "id": "4MGKXVZrERqB4eKZfGUSis",
+      "name": "Sun Goes Down (feat. Jasmine Thompson) - Extended Vocal Mix",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4MGKXVZrERqB4eKZfGUSis",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          },
+          "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+          "id": "6oBm8HB0yfrIc9IHbxs6in",
+          "name": "Lykke Li",
+          "type": "artist",
+          "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 380250,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/587zFbpzDHM4UmoOTz34DD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/587zFbpzDHM4UmoOTz34DD",
+      "id": "587zFbpzDHM4UmoOTz34DD",
+      "name": "No Rest for the Wicked - Robin Schulz Remix",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:587zFbpzDHM4UmoOTz34DD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MDME20pz9RveH9rEXvrOM",
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "type": "artist",
+          "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ScCswdRlyA23odg9thgIO",
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne",
+          "type": "artist",
+          "uri": "spotify:artist:4ScCswdRlyA23odg9thgIO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 385920,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BT3aXOonScQky26rmqljc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BT3aXOonScQky26rmqljc",
+      "id": "7BT3aXOonScQky26rmqljc",
+      "name": "Rather Be (feat. Jess Glynne) - Robin Schulz Remix",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7BT3aXOonScQky26rmqljc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vDXLZ9mI3CdTPPIzFUKlY",
+          "id": "2vDXLZ9mI3CdTPPIzFUKlY",
+          "name": "Lexer",
+          "type": "artist",
+          "uri": "spotify:artist:2vDXLZ9mI3CdTPPIzFUKlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6mbgZyWRlDKMVMALyV28sl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6mbgZyWRlDKMVMALyV28sl",
+          "id": "6mbgZyWRlDKMVMALyV28sl",
+          "name": "Nico Pusch",
+          "type": "artist",
+          "uri": "spotify:artist:6mbgZyWRlDKMVMALyV28sl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 404688,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mVTQ6Gv0QFdfuHjuhg8QH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mVTQ6Gv0QFdfuHjuhg8QH",
+      "id": "3mVTQ6Gv0QFdfuHjuhg8QH",
+      "name": "We Don't Have to Take Our Clothes Off",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3mVTQ6Gv0QFdfuHjuhg8QH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EMh3FRNqN0Ita4o40Y439"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EMh3FRNqN0Ita4o40Y439",
+          "id": "0EMh3FRNqN0Ita4o40Y439",
+          "name": "Me & My Monkey",
+          "type": "artist",
+          "uri": "spotify:artist:0EMh3FRNqN0Ita4o40Y439"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 444264,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7y5GqQn0edsIUf2VHoMvNj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7y5GqQn0edsIUf2VHoMvNj",
+      "id": "7y5GqQn0edsIUf2VHoMvNj",
+      "name": "House on Fire",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7y5GqQn0edsIUf2VHoMvNj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24BPgqZQVZlbduy3mHRUug"
+          },
+          "href": "https://api.spotify.com/v1/artists/24BPgqZQVZlbduy3mHRUug",
+          "id": "24BPgqZQVZlbduy3mHRUug",
+          "name": "HEYHEY",
+          "type": "artist",
+          "uri": "spotify:artist:24BPgqZQVZlbduy3mHRUug"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 399545,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5z92s094wo335GNsEQ81sz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5z92s094wo335GNsEQ81sz",
+      "id": "5z92s094wo335GNsEQ81sz",
+      "name": "Taking Me Home",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5z92s094wo335GNsEQ81sz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hOnQvDvaSheX72lD6rlF7"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hOnQvDvaSheX72lD6rlF7",
+          "id": "2hOnQvDvaSheX72lD6rlF7",
+          "name": "Dansir",
+          "type": "artist",
+          "uri": "spotify:artist:2hOnQvDvaSheX72lD6rlF7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 404956,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7aB1VKWtyFEgDEw2MNRdpP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7aB1VKWtyFEgDEw2MNRdpP",
+      "id": "7aB1VKWtyFEgDEw2MNRdpP",
+      "name": "Never Know Me",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7aB1VKWtyFEgDEw2MNRdpP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/38QgRkXw5Wm0RUrkFSh2z7"
+          },
+          "href": "https://api.spotify.com/v1/artists/38QgRkXw5Wm0RUrkFSh2z7",
+          "id": "38QgRkXw5Wm0RUrkFSh2z7",
+          "name": "Pingpong",
+          "type": "artist",
+          "uri": "spotify:artist:38QgRkXw5Wm0RUrkFSh2z7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 472000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6mLFweFiiZGfSCvFL1mxRn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6mLFweFiiZGfSCvFL1mxRn",
+      "id": "6mLFweFiiZGfSCvFL1mxRn",
+      "name": "Snowflakes - Club Mix",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6mLFweFiiZGfSCvFL1mxRn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+          },
+          "href": "https://api.spotify.com/v1/artists/33W1pnW9zScZtYTnAoWnOT",
+          "id": "33W1pnW9zScZtYTnAoWnOT",
+          "name": "Mr. Probz",
+          "type": "artist",
+          "uri": "spotify:artist:33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 431973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1TIN7TwWc3RaWPGwcxwboY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1TIN7TwWc3RaWPGwcxwboY",
+      "id": "1TIN7TwWc3RaWPGwcxwboY",
+      "restrictions": {
+        "reason": "market"
+      },
+      "name": "Waves - Robin Schulz Remix",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1TIN7TwWc3RaWPGwcxwboY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 368403,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WVU6wZwg8mM3RMbLZWQqh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5WVU6wZwg8mM3RMbLZWQqh",
+      "id": "5WVU6wZwg8mM3RMbLZWQqh",
+      "name": "Warm Minds",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5WVU6wZwg8mM3RMbLZWQqh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 390238,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3t941NpJZT7fKL8x7l5yth"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3t941NpJZT7fKL8x7l5yth",
+      "id": "3t941NpJZT7fKL8x7l5yth",
+      "name": "Wrong",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3t941NpJZT7fKL8x7l5yth",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1V7BhnZpY3khae9xpS1LfV",
+          "id": "1V7BhnZpY3khae9xpS1LfV",
+          "name": "Scheinizzl",
+          "type": "artist",
+          "uri": "spotify:artist:1V7BhnZpY3khae9xpS1LfV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ggXYWJAhm2icEEu1BcKwZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ggXYWJAhm2icEEu1BcKwZ",
+          "id": "7ggXYWJAhm2icEEu1BcKwZ",
+          "name": "Chroph",
+          "type": "artist",
+          "uri": "spotify:artist:7ggXYWJAhm2icEEu1BcKwZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31bgrWMoZoxqEO0t3krPPq"
+          },
+          "href": "https://api.spotify.com/v1/artists/31bgrWMoZoxqEO0t3krPPq",
+          "id": "31bgrWMoZoxqEO0t3krPPq",
+          "name": "David Lageder",
+          "type": "artist",
+          "uri": "spotify:artist:31bgrWMoZoxqEO0t3krPPq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295238,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/34cA8s7U6ATzNMDyrCX0Bx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/34cA8s7U6ATzNMDyrCX0Bx",
+      "id": "34cA8s7U6ATzNMDyrCX0Bx",
+      "name": "Summer Nights (feat. David Lageder)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:34cA8s7U6ATzNMDyrCX0Bx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WqAx7kpPz11g54zvpcOuU",
+          "id": "6WqAx7kpPz11g54zvpcOuU",
+          "name": "Thomas Lizzara",
+          "type": "artist",
+          "uri": "spotify:artist:6WqAx7kpPz11g54zvpcOuU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NnkeeHKsgrwWKS6NmbFAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NnkeeHKsgrwWKS6NmbFAC",
+          "id": "0NnkeeHKsgrwWKS6NmbFAC",
+          "name": "Steven Coulter",
+          "type": "artist",
+          "uri": "spotify:artist:0NnkeeHKsgrwWKS6NmbFAC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 340505,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7gFjBE7HjUYaEBhffAlFb5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7gFjBE7HjUYaEBhffAlFb5",
+      "id": "7gFjBE7HjUYaEBhffAlFb5",
+      "name": "Spree Ahoi (feat. Steven Coulter)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7gFjBE7HjUYaEBhffAlFb5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AIhFHkc00F054w0fFEFWj"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AIhFHkc00F054w0fFEFWj",
+          "id": "7AIhFHkc00F054w0fFEFWj",
+          "name": "Tom Thaler & Basil",
+          "type": "artist",
+          "uri": "spotify:artist:7AIhFHkc00F054w0fFEFWj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 396694,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0OwRxcANG8X47NjUIoHoF9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0OwRxcANG8X47NjUIoHoF9",
+      "id": "0OwRxcANG8X47NjUIoHoF9",
+      "name": "Hier mit dir - Robin Schulz Remix",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0OwRxcANG8X47NjUIoHoF9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HUm6AHJE0oisACMN6NNJ5",
+          "id": "6HUm6AHJE0oisACMN6NNJ5",
+          "name": "Faul & Wad",
+          "type": "artist",
+          "uri": "spotify:artist:6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          },
+          "href": "https://api.spotify.com/v1/artists/6n28c9qs9hNGriNa72b26u",
+          "id": "6n28c9qs9hNGriNa72b26u",
+          "name": "PNAU",
+          "type": "artist",
+          "uri": "spotify:artist:6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 411428,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3WWnszDw3jfIQDRckHjIj4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3WWnszDw3jfIQDRckHjIj4",
+      "id": "3WWnszDw3jfIQDRckHjIj4",
+      "name": "Changes - Robin Schulz Remix",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:3WWnszDw3jfIQDRckHjIj4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "type": "artist",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 363020,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3I8l7rlYrVfwQiJPghjbSO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3I8l7rlYrVfwQiJPghjbSO",
+      "id": "3I8l7rlYrVfwQiJPghjbSO",
+      "name": "A Sky Full of Stars - Robin Schulz Remix",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:3I8l7rlYrVfwQiJPghjbSO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nuJOwgBqKBIWyCr0dQgEH",
+          "id": "5nuJOwgBqKBIWyCr0dQgEH",
+          "name": "Stil & Bense",
+          "type": "artist",
+          "uri": "spotify:artist:5nuJOwgBqKBIWyCr0dQgEH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327096,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VJy9VtI0RNaoIwz5Qmun3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VJy9VtI0RNaoIwz5Qmun3",
+      "id": "1VJy9VtI0RNaoIwz5Qmun3",
+      "name": "Whatever",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:1VJy9VtI0RNaoIwz5Qmun3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OReTeTBZ578sj07hDS0x7",
+          "id": "5OReTeTBZ578sj07hDS0x7",
+          "name": "Alex Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:5OReTeTBZ578sj07hDS0x7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283468,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5cKdAjqCJMzfwWOihrkXH0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5cKdAjqCJMzfwWOihrkXH0",
+      "id": "5cKdAjqCJMzfwWOihrkXH0",
+      "name": "In the Morning Light",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:5cKdAjqCJMzfwWOihrkXH0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist",
+          "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 353280,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3tXMxAJxk7nnntXtL8dvPq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3tXMxAJxk7nnntXtL8dvPq",
+      "id": "3tXMxAJxk7nnntXtL8dvPq",
+      "name": "Sunset",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:3tXMxAJxk7nnntXtL8dvPq",
+      "is_local": false
+    }
+  ]
+}

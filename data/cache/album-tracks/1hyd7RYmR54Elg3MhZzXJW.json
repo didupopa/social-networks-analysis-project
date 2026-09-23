@@ -1,0 +1,601 @@
+{
+  "album_id": "1hyd7RYmR54Elg3MhZzXJW",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
+          },
+          "href": "https://api.spotify.com/v1/artists/1peH5tSqnYm8W6Bo3I5egE",
+          "id": "1peH5tSqnYm8W6Bo3I5egE",
+          "name": "Kat Dahlia",
+          "type": "artist",
+          "uri": "spotify:artist:1peH5tSqnYm8W6Bo3I5egE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216645,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pyz6ffBbja7adVBAhW8zh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pyz6ffBbja7adVBAhW8zh",
+      "id": "4pyz6ffBbja7adVBAhW8zh",
+      "name": "Warning (feat. Kat Dahlia)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4pyz6ffBbja7adVBAhW8zh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jHBxvZ9gbBkZ17wKUqVsO",
+          "id": "3jHBxvZ9gbBkZ17wKUqVsO",
+          "name": "Kent Jones",
+          "type": "artist",
+          "uri": "spotify:artist:3jHBxvZ9gbBkZ17wKUqVsO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203584,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41GGExrW5XGYiRRsZYtTPg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41GGExrW5XGYiRRsZYtTPg",
+      "id": "41GGExrW5XGYiRRsZYtTPg",
+      "name": "Swear to God (feat. Kent Jones)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:41GGExrW5XGYiRRsZYtTPg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jHBxvZ9gbBkZ17wKUqVsO",
+          "id": "3jHBxvZ9gbBkZ17wKUqVsO",
+          "name": "Kent Jones",
+          "type": "artist",
+          "uri": "spotify:artist:3jHBxvZ9gbBkZ17wKUqVsO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wHYWpARN7jexaHQAFd79J"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wHYWpARN7jexaHQAFd79J",
+      "id": "6wHYWpARN7jexaHQAFd79J",
+      "name": "Spaghetti (feat. Kent Jones)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6wHYWpARN7jexaHQAFd79J",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4R529xQ7WQfRpSEXaHFbRg",
+          "id": "4R529xQ7WQfRpSEXaHFbRg",
+          "name": "InfaRed",
+          "type": "artist",
+          "uri": "spotify:artist:4R529xQ7WQfRpSEXaHFbRg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191900,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Ezwtgfw7khBrpvaNPtMoT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Ezwtgfw7khBrpvaNPtMoT",
+      "id": "7Ezwtgfw7khBrpvaNPtMoT",
+      "name": "All The Way Up (feat. Infared)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7Ezwtgfw7khBrpvaNPtMoT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jHBxvZ9gbBkZ17wKUqVsO",
+          "id": "3jHBxvZ9gbBkZ17wKUqVsO",
+          "name": "Kent Jones",
+          "type": "artist",
+          "uri": "spotify:artist:3jHBxvZ9gbBkZ17wKUqVsO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265592,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7necy9QyYkUW605Nbn91zt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7necy9QyYkUW605Nbn91zt",
+      "id": "7necy9QyYkUW605Nbn91zt",
+      "name": "How Can I Forget (feat. Kent Jones)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7necy9QyYkUW605Nbn91zt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206564,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63cjlpUxX4lhXLHvvZtxQa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63cjlpUxX4lhXLHvvZtxQa",
+      "id": "63cjlpUxX4lhXLHvvZtxQa",
+      "name": "How Long",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:63cjlpUxX4lhXLHvvZtxQa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+          },
+          "href": "https://api.spotify.com/v1/artists/6If57j6e3TXXk0HiLcIZca",
+          "id": "6If57j6e3TXXk0HiLcIZca",
+          "name": "Sevyn Streeter",
+          "type": "artist",
+          "uri": "spotify:artist:6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+          },
+          "href": "https://api.spotify.com/v1/artists/07d5etnpjriczFBB8pxmRe",
+          "id": "07d5etnpjriczFBB8pxmRe",
+          "name": "BJ The Chicago Kid",
+          "type": "artist",
+          "uri": "spotify:artist:07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252772,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2J3AF2fWFt2nkLRn1LymOJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2J3AF2fWFt2nkLRn1LymOJ",
+      "id": "2J3AF2fWFt2nkLRn1LymOJ",
+      "name": "Go Crazy (feat. Sevyn Streeter & BJ the Chicago Kid)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2J3AF2fWFt2nkLRn1LymOJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          },
+          "href": "https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz",
+          "id": "1W3FSF1BLpY3hlVIgvenLz",
+          "name": "THE-DREAM",
+          "type": "artist",
+          "uri": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Vxf1UfzcxqzqItoOA0DDT",
+          "id": "1Vxf1UfzcxqzqItoOA0DDT",
+          "name": "Vindata",
+          "type": "artist",
+          "uri": "spotify:artist:1Vxf1UfzcxqzqItoOA0DDT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QdyqVGmNIEqxIMTFXvvO3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0QdyqVGmNIEqxIMTFXvvO3",
+      "id": "0QdyqVGmNIEqxIMTFXvvO3",
+      "name": "Heartbreak (feat. The-Dream & Vindata)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0QdyqVGmNIEqxIMTFXvvO3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00cBuzAI2Q4HirerswLYUT"
+          },
+          "href": "https://api.spotify.com/v1/artists/00cBuzAI2Q4HirerswLYUT",
+          "id": "00cBuzAI2Q4HirerswLYUT",
+          "name": "Ry SO Valid",
+          "type": "artist",
+          "uri": "spotify:artist:00cBuzAI2Q4HirerswLYUT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226178,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6MtWTKkTqk2Tg2IdTSUdAW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6MtWTKkTqk2Tg2IdTSUdAW",
+      "id": "6MtWTKkTqk2Tg2IdTSUdAW",
+      "name": "Cookin (feat. French Montana & RySoValid)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6MtWTKkTqk2Tg2IdTSUdAW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225346,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6zabCn2cZNwyWBmuBRyQzZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6zabCn2cZNwyWBmuBRyQzZ",
+      "id": "6zabCn2cZNwyWBmuBRyQzZ",
+      "name": "Money Showers (feat. Ty Dolla $ign)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6zabCn2cZNwyWBmuBRyQzZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rxY1WqsHZQLmTwiSwNTNH"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rxY1WqsHZQLmTwiSwNTNH",
+          "id": "0rxY1WqsHZQLmTwiSwNTNH",
+          "name": "Kingston",
+          "type": "artist",
+          "uri": "spotify:artist:0rxY1WqsHZQLmTwiSwNTNH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236976,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0bSwyJQCQxtSKHtkkHsmAX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0bSwyJQCQxtSKHtkkHsmAX",
+      "id": "0bSwyJQCQxtSKHtkkHsmAX",
+      "name": "Too Quick (feat. Kingston)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0bSwyJQCQxtSKHtkkHsmAX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          },
+          "href": "https://api.spotify.com/v1/artists/0PcIlEZa7rreM7729ot05g",
+          "id": "0PcIlEZa7rreM7729ot05g",
+          "name": "Stephanie Mills",
+          "type": "artist",
+          "uri": "spotify:artist:0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232257,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/069HzxNlNcLGklOT9EHpkd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/069HzxNlNcLGklOT9EHpkd",
+      "id": "069HzxNlNcLGklOT9EHpkd",
+      "name": "Dreamin (feat. Stephanie Mills)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:069HzxNlNcLGklOT9EHpkd",
+      "is_local": false
+    }
+  ]
+}

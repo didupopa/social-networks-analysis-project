@@ -1,0 +1,53 @@
+{
+  "artist_id": "0qmUElN0l9LfpXv3i4qIyR",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3z0tN12lbj9LhUTcaC0UiZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3z0tN12lbj9LhUTcaC0UiZ",
+      "id": "3z0tN12lbj9LhUTcaC0UiZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27396a8312b2a3787ab11f342f6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0296a8312b2a3787ab11f342f6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485196a8312b2a3787ab11f342f6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Poppin Soul (Remastered)",
+      "release_date": "2019-01-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3z0tN12lbj9LhUTcaC0UiZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qmUElN0l9LfpXv3i4qIyR",
+          "id": "0qmUElN0l9LfpXv3i4qIyR",
+          "name": "Uncle Chucc",
+          "type": "artist",
+          "uri": "spotify:artist:0qmUElN0l9LfpXv3i4qIyR"
+        }
+      ]
+    }
+  ]
+}

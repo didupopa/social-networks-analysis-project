@@ -1,0 +1,614 @@
+{
+  "album_id": "0t7Qejz1FLo5a7EZRcXJrk",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QkusyyiLCVP97x3TADKV9",
+          "id": "1QkusyyiLCVP97x3TADKV9",
+          "name": "Jazze Pha",
+          "type": "artist",
+          "uri": "spotify:artist:1QkusyyiLCVP97x3TADKV9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0st5vgzw9XkH5ALJiUM1lE",
+          "id": "0st5vgzw9XkH5ALJiUM1lE",
+          "name": "Slim Thug",
+          "type": "artist",
+          "uri": "spotify:artist:0st5vgzw9XkH5ALJiUM1lE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 404778,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/17vhpsEGtncuMejOptdNNK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/17vhpsEGtncuMejOptdNNK",
+      "id": "17vhpsEGtncuMejOptdNNK",
+      "name": "Mo Trill - Chop Not Slop Remix",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:17vhpsEGtncuMejOptdNNK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+          },
+          "href": "https://api.spotify.com/v1/artists/49vCIUW46QY3L5vo1xVFoy",
+          "id": "49vCIUW46QY3L5vo1xVFoy",
+          "name": "Trae Tha Truth",
+          "type": "artist",
+          "uri": "spotify:artist:49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300689,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6hWkFxq0Vh8BT5Q2viqYQJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6hWkFxq0Vh8BT5Q2viqYQJ",
+      "id": "6hWkFxq0Vh8BT5Q2viqYQJ",
+      "name": "This World - Chop Not Slop Remix",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6hWkFxq0Vh8BT5Q2viqYQJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ZmB5bz27Hxgc6aUgwJQto"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ZmB5bz27Hxgc6aUgwJQto",
+          "id": "1ZmB5bz27Hxgc6aUgwJQto",
+          "name": "Mattie B",
+          "type": "artist",
+          "uri": "spotify:artist:1ZmB5bz27Hxgc6aUgwJQto"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 334332,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5YTtlmLSXvYc73UHSxc2Yc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5YTtlmLSXvYc73UHSxc2Yc",
+      "id": "5YTtlmLSXvYc73UHSxc2Yc",
+      "name": "Feel Good - Chop Not Slop Remix",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5YTtlmLSXvYc73UHSxc2Yc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 57472,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4cU3owvAyzRVDjYKGowE27"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4cU3owvAyzRVDjYKGowE27",
+      "id": "4cU3owvAyzRVDjYKGowE27",
+      "name": "Queenie Keepin It Trill (Skit) - Chop Not Slop Remix",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4cU3owvAyzRVDjYKGowE27",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          },
+          "href": "https://api.spotify.com/v1/artists/67nwj3Y5sZQLl72VNUHEYE",
+          "id": "67nwj3Y5sZQLl72VNUHEYE",
+          "name": "Wale",
+          "type": "artist",
+          "uri": "spotify:artist:67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8",
+          "id": "5nLYd9ST4Cnwy6NHaCxbj8",
+          "name": "CeeLo Green",
+          "type": "artist",
+          "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278822,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3nvIl3XrNXanC7U1KMm1dw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3nvIl3XrNXanC7U1KMm1dw",
+      "id": "3nvIl3XrNXanC7U1KMm1dw",
+      "name": "My Queen - Chop Not Slop Remix",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3nvIl3XrNXanC7U1KMm1dw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZhFCxPekpmV12n2xMeF2z",
+          "id": "4ZhFCxPekpmV12n2xMeF2z",
+          "name": "Ink",
+          "type": "artist",
+          "uri": "spotify:artist:4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271947,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oiC4iOfeOF9bwxIpehhLB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oiC4iOfeOF9bwxIpehhLB",
+      "id": "3oiC4iOfeOF9bwxIpehhLB",
+      "name": "The Streets - Chop Not Slop Remix",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3oiC4iOfeOF9bwxIpehhLB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Matrg5du62bXwer29cU5T",
+          "id": "5Matrg5du62bXwer29cU5T",
+          "name": "Benny The Butcher",
+          "type": "artist",
+          "uri": "spotify:artist:5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217233,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kb2lPov3RwC67A8bGKYg3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7kb2lPov3RwC67A8bGKYg3",
+      "id": "7kb2lPov3RwC67A8bGKYg3",
+      "name": "Theme Song - Chop Not Slop Remix",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7kb2lPov3RwC67A8bGKYg3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grN0519h2zYqpRtYbDZAl",
+          "id": "1grN0519h2zYqpRtYbDZAl",
+          "name": "Larry June",
+          "type": "artist",
+          "uri": "spotify:artist:1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+          },
+          "href": "https://api.spotify.com/v1/artists/7rikNLN4AV6SQn9ryQFaMw",
+          "id": "7rikNLN4AV6SQn9ryQFaMw",
+          "name": "Le$",
+          "type": "artist",
+          "uri": "spotify:artist:7rikNLN4AV6SQn9ryQFaMw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216296,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28v5kJ0iVMm2O5JNXHk4V7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/28v5kJ0iVMm2O5JNXHk4V7",
+      "id": "28v5kJ0iVMm2O5JNXHk4V7",
+      "name": "Duces In The Wind - Chop Not Slop Remix",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:28v5kJ0iVMm2O5JNXHk4V7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rMZc4xpXCMYUdnWfdTcCw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rMZc4xpXCMYUdnWfdTcCw",
+          "id": "4rMZc4xpXCMYUdnWfdTcCw",
+          "name": "Y'Anna Crawley",
+          "type": "artist",
+          "uri": "spotify:artist:4rMZc4xpXCMYUdnWfdTcCw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238610,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NbMrkGwlGicp1XYlvzHNJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NbMrkGwlGicp1XYlvzHNJ",
+      "id": "4NbMrkGwlGicp1XYlvzHNJ",
+      "name": "Pot Of Gold - Chop Not Slop Remix",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4NbMrkGwlGicp1XYlvzHNJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MrdwyCIKbpXmTKQBlG3uq",
+          "id": "6MrdwyCIKbpXmTKQBlG3uq",
+          "name": "Z-Ro",
+          "type": "artist",
+          "uri": "spotify:artist:6MrdwyCIKbpXmTKQBlG3uq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222140,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0KWto97EJ3mt8IkmdwrFPd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0KWto97EJ3mt8IkmdwrFPd",
+      "id": "0KWto97EJ3mt8IkmdwrFPd",
+      "name": "The Geto - Chop Not Slop Remix",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0KWto97EJ3mt8IkmdwrFPd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+          "id": "0lEssBAxQl2In4RpaB1C2Y",
+          "name": "Talib Kweli",
+          "type": "artist",
+          "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Qh89pgJeZq6d8uM1bTot3",
+          "id": "3Qh89pgJeZq6d8uM1bTot3",
+          "name": "Tobe Nwigwe",
+          "type": "artist",
+          "uri": "spotify:artist:3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jFaoqWPhYLrKzjzlpXmUO",
+          "id": "7jFaoqWPhYLrKzjzlpXmUO",
+          "name": "David Banner",
+          "type": "artist",
+          "uri": "spotify:artist:7jFaoqWPhYLrKzjzlpXmUO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261716,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rzBS1firDUxP20lAiQH9m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4rzBS1firDUxP20lAiQH9m",
+      "id": "4rzBS1firDUxP20lAiQH9m",
+      "name": "Hesitate - Chop Not Slop Remix",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4rzBS1firDUxP20lAiQH9m",
+      "is_local": false
+    }
+  ]
+}

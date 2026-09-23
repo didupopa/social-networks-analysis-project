@@ -1,0 +1,760 @@
+{
+  "album_id": "4fc7JlRAPSomc521Vhl7sX",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16YWrwkiY8IIvv9WjSdyIP"
+          },
+          "href": "https://api.spotify.com/v1/artists/16YWrwkiY8IIvv9WjSdyIP",
+          "id": "16YWrwkiY8IIvv9WjSdyIP",
+          "name": "James Bean",
+          "type": "artist",
+          "uri": "spotify:artist:16YWrwkiY8IIvv9WjSdyIP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ejMdb0bcj8AvPW3FubJXy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ejMdb0bcj8AvPW3FubJXy",
+          "id": "3ejMdb0bcj8AvPW3FubJXy",
+          "name": "Hiro Tahara",
+          "type": "artist",
+          "uri": "spotify:artist:3ejMdb0bcj8AvPW3FubJXy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60P5HNpZv5i8b8432kKB3k"
+          },
+          "href": "https://api.spotify.com/v1/artists/60P5HNpZv5i8b8432kKB3k",
+          "id": "60P5HNpZv5i8b8432kKB3k",
+          "name": "Varshini Soobiah",
+          "type": "artist",
+          "uri": "spotify:artist:60P5HNpZv5i8b8432kKB3k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 112906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3dAF0A51oUYx6nq76m3YUx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3dAF0A51oUYx6nq76m3YUx",
+      "id": "3dAF0A51oUYx6nq76m3YUx",
+      "name": "Columbia Records (feat. James Bean, Hiro Tahara & Varshini Soobiah)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3dAF0A51oUYx6nq76m3YUx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228346,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1zYWSJZiwYwf6tqA6dSN5m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1zYWSJZiwYwf6tqA6dSN5m",
+      "id": "1zYWSJZiwYwf6tqA6dSN5m",
+      "name": "Where Fugees At?",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1zYWSJZiwYwf6tqA6dSN5m",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tw2Lmn9tTPUv7Gy7mVPI4",
+          "id": "4tw2Lmn9tTPUv7Gy7mVPI4",
+          "name": "Kenny Rogers",
+          "type": "artist",
+          "uri": "spotify:artist:4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DKuVtlpDH0agZQUFDy8O7",
+          "id": "5DKuVtlpDH0agZQUFDy8O7",
+          "name": "Pharoahe Monch",
+          "type": "artist",
+          "uri": "spotify:artist:5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7dIZfeBvgBVtarFsLt9FZ6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7dIZfeBvgBVtarFsLt9FZ6",
+      "id": "7dIZfeBvgBVtarFsLt9FZ6",
+      "name": "Kenny Rogers - Pharoahe Monch Dub Plate (feat. Kenny Rogers & Pharoahe Monch)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7dIZfeBvgBVtarFsLt9FZ6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59"
+          },
+          "href": "https://api.spotify.com/v1/artists/1d6bpJp3mEcOPPuYJ79p59",
+          "id": "1d6bpJp3mEcOPPuYJ79p59",
+          "name": "Small World",
+          "type": "artist",
+          "uri": "spotify:artist:1d6bpJp3mEcOPPuYJ79p59"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 395880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RSstBbtiElktPKy9SyPql"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RSstBbtiElktPKy9SyPql",
+      "id": "5RSstBbtiElktPKy9SyPql",
+      "name": "Thug Angels (feat. Small World)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5RSstBbtiElktPKy9SyPql",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yhBq92hQJr39wL4iSfpRT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yhBq92hQJr39wL4iSfpRT",
+          "id": "2yhBq92hQJr39wL4iSfpRT",
+          "name": "Dwayne Johnson",
+          "type": "artist",
+          "uri": "spotify:artist:2yhBq92hQJr39wL4iSfpRT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06FpQ15V33WjLiayEL3rNW"
+          },
+          "href": "https://api.spotify.com/v1/artists/06FpQ15V33WjLiayEL3rNW",
+          "id": "06FpQ15V33WjLiayEL3rNW",
+          "name": "Melky Sedeck",
+          "type": "artist",
+          "uri": "spotify:artist:06FpQ15V33WjLiayEL3rNW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237786,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pjlmyo6JuYSU6A9debL69"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5pjlmyo6JuYSU6A9debL69",
+      "id": "5pjlmyo6JuYSU6A9debL69",
+      "name": "It Doesn't Matter (feat. Dwayne Johnson & Melky Sedeck)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5pjlmyo6JuYSU6A9debL69",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259346,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Ov4E4nE7E0yzeqpbhEE5g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Ov4E4nE7E0yzeqpbhEE5g",
+      "id": "1Ov4E4nE7E0yzeqpbhEE5g",
+      "name": "911 (feat. Mary J. Blige)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1Ov4E4nE7E0yzeqpbhEE5g",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278853,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/38zipTYo1H603Pf1le9x4H"
+      },
+      "href": "https://api.spotify.com/v1/tracks/38zipTYo1H603Pf1le9x4H",
+      "id": "38zipTYo1H603Pf1le9x4H",
+      "name": "Pullin' Me In",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:38zipTYo1H603Pf1le9x4H",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iipvhlLLqKjg98Ef8D9AL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iipvhlLLqKjg98Ef8D9AL",
+          "id": "0iipvhlLLqKjg98Ef8D9AL",
+          "name": "Supreme C",
+          "type": "artist",
+          "uri": "spotify:artist:0iipvhlLLqKjg98Ef8D9AL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RLu4kdv42oSiL2cMWSSy7"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RLu4kdv42oSiL2cMWSSy7",
+          "id": "2RLu4kdv42oSiL2cMWSSy7",
+          "name": "Marie Antoinette",
+          "type": "artist",
+          "uri": "spotify:artist:2RLu4kdv42oSiL2cMWSSy7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3QAsuMXk4Iv6GFrImYkGWp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3QAsuMXk4Iv6GFrImYkGWp",
+          "id": "3QAsuMXk4Iv6GFrImYkGWp",
+          "name": "Hope",
+          "type": "artist",
+          "uri": "spotify:artist:3QAsuMXk4Iv6GFrImYkGWp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ou6XtTdwsK1evM7oMcuQf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ou6XtTdwsK1evM7oMcuQf",
+      "id": "2ou6XtTdwsK1evM7oMcuQf",
+      "name": "Da Cypha (feat. Supreme C, Marie Antoinette & Hope)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2ou6XtTdwsK1evM7oMcuQf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+          "id": "4QQgXkCYTt3BlENzhyNETg",
+          "name": "Earth, Wind & Fire",
+          "type": "artist",
+          "uri": "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+          },
+          "href": "https://api.spotify.com/v1/artists/782IpIScTpnDhYb9hyxOu1",
+          "id": "782IpIScTpnDhYb9hyxOu1",
+          "name": "The Product G&B",
+          "type": "artist",
+          "uri": "spotify:artist:782IpIScTpnDhYb9hyxOu1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 296413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7meTKQIh6kw2xwamHYHrGI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7meTKQIh6kw2xwamHYHrGI",
+      "id": "7meTKQIh6kw2xwamHYHrGI",
+      "name": "Runaway (feat. Earth, Wind & Fire & The Product G&B)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7meTKQIh6kw2xwamHYHrGI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3gpWewgFjfgDE7KKItA0cU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3gpWewgFjfgDE7KKItA0cU",
+          "id": "3gpWewgFjfgDE7KKItA0cU",
+          "name": "Andy Grassi",
+          "type": "artist",
+          "uri": "spotify:artist:3gpWewgFjfgDE7KKItA0cU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60P5HNpZv5i8b8432kKB3k"
+          },
+          "href": "https://api.spotify.com/v1/artists/60P5HNpZv5i8b8432kKB3k",
+          "id": "60P5HNpZv5i8b8432kKB3k",
+          "name": "Varshini Soobiah",
+          "type": "artist",
+          "uri": "spotify:artist:60P5HNpZv5i8b8432kKB3k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 40120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7y2rfHtX2xfEz4oOfko9cT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7y2rfHtX2xfEz4oOfko9cT",
+      "id": "7y2rfHtX2xfEz4oOfko9cT",
+      "name": "Red Light District (feat. Andy Grassi & Varshini Soobiah)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7y2rfHtX2xfEz4oOfko9cT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3QAsuMXk4Iv6GFrImYkGWp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3QAsuMXk4Iv6GFrImYkGWp",
+          "id": "3QAsuMXk4Iv6GFrImYkGWp",
+          "name": "Hope",
+          "type": "artist",
+          "uri": "spotify:artist:3QAsuMXk4Iv6GFrImYkGWp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3kJrESsM3ISObFTfBQfJ8H"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3kJrESsM3ISObFTfBQfJ8H",
+      "id": "3kJrESsM3ISObFTfBQfJ8H",
+      "name": "Perfect Gentleman (feat. Hope)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3kJrESsM3ISObFTfBQfJ8H",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30ohtRM0VTfXIRsYJ86mTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/30ohtRM0VTfXIRsYJ86mTz",
+          "id": "30ohtRM0VTfXIRsYJ86mTz",
+          "name": "Beast",
+          "type": "artist",
+          "uri": "spotify:artist:30ohtRM0VTfXIRsYJ86mTz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/767SaUjzPi5AwUa1CLeHKL"
+          },
+          "href": "https://api.spotify.com/v1/artists/767SaUjzPi5AwUa1CLeHKL",
+          "id": "767SaUjzPi5AwUa1CLeHKL",
+          "name": "718 Crew",
+          "type": "artist",
+          "uri": "spotify:artist:767SaUjzPi5AwUa1CLeHKL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2TPA4mACeB1wovLef3Hpx4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2TPA4mACeB1wovLef3Hpx4",
+      "id": "2TPA4mACeB1wovLef3Hpx4",
+      "name": "Low Income (feat. Beast & 718 Crew)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2TPA4mACeB1wovLef3Hpx4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+          "id": "6XpaIBNiVzIetEPCWDvAFP",
+          "name": "Whitney Houston",
+          "type": "artist",
+          "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 102760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4r8Nj9gf2lA4nc4ip5jiWD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4r8Nj9gf2lA4nc4ip5jiWD",
+      "id": "4r8Nj9gf2lA4nc4ip5jiWD",
+      "name": "Whitney Houston Dub Plate (feat. Whitney Houston)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4r8Nj9gf2lA4nc4ip5jiWD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OB0f0OxSEDjpd6ohW2Aal"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OB0f0OxSEDjpd6ohW2Aal",
+      "id": "2OB0f0OxSEDjpd6ohW2Aal",
+      "name": "However You Want It",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2OB0f0OxSEDjpd6ohW2Aal",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59"
+          },
+          "href": "https://api.spotify.com/v1/artists/1d6bpJp3mEcOPPuYJ79p59",
+          "id": "1d6bpJp3mEcOPPuYJ79p59",
+          "name": "Small World",
+          "type": "artist",
+          "uri": "spotify:artist:1d6bpJp3mEcOPPuYJ79p59"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0DZGksc0yOL4XTsMGeEDf2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0DZGksc0yOL4XTsMGeEDf2",
+      "id": "0DZGksc0yOL4XTsMGeEDf2",
+      "name": "Hollyhood to Hollywood (feat. Small World)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0DZGksc0yOL4XTsMGeEDf2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+          },
+          "href": "https://api.spotify.com/v1/artists/77zlytAFjPFjUKda8TNIDY",
+          "id": "77zlytAFjPFjUKda8TNIDY",
+          "name": "Youssou N'Dour",
+          "type": "artist",
+          "uri": "spotify:artist:77zlytAFjPFjUKda8TNIDY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6S9xiQkEnNm62eCnPm9Taw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6S9xiQkEnNm62eCnPm9Taw",
+          "id": "6S9xiQkEnNm62eCnPm9Taw",
+          "name": "Mb2",
+          "type": "artist",
+          "uri": "spotify:artist:6S9xiQkEnNm62eCnPm9Taw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 442093,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0LsCBQgFqjTp2hs9m33dT3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0LsCBQgFqjTp2hs9m33dT3",
+      "id": "0LsCBQgFqjTp2hs9m33dT3",
+      "name": "Diallo (feat. Youssou N'Dour & MB2)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0LsCBQgFqjTp2hs9m33dT3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 319986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MHE3SArfXm4RDiUE7HvaK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MHE3SArfXm4RDiUE7HvaK",
+      "id": "2MHE3SArfXm4RDiUE7HvaK",
+      "name": "Something About Mary",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:2MHE3SArfXm4RDiUE7HvaK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3gpWewgFjfgDE7KKItA0cU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3gpWewgFjfgDE7KKItA0cU",
+          "id": "3gpWewgFjfgDE7KKItA0cU",
+          "name": "Andy Grassi",
+          "type": "artist",
+          "uri": "spotify:artist:3gpWewgFjfgDE7KKItA0cU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 47680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0c07A4o7YJKVbPDh4M2fvz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0c07A4o7YJKVbPDh4M2fvz",
+      "id": "0c07A4o7YJKVbPDh4M2fvz",
+      "name": "Bus Search (feat. Andy Grassi)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:0c07A4o7YJKVbPDh4M2fvz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Qye5mopKdm3F83ebKp6tQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Qye5mopKdm3F83ebKp6tQ",
+      "id": "5Qye5mopKdm3F83ebKp6tQ",
+      "name": "Wish You Were Here",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:5Qye5mopKdm3F83ebKp6tQ",
+      "is_local": false
+    }
+  ]
+}

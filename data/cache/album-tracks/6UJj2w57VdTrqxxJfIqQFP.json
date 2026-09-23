@@ -1,0 +1,731 @@
+{
+  "album_id": "6UJj2w57VdTrqxxJfIqQFP",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173871,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3dwOUpgik5gWvf7HgaJPm0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3dwOUpgik5gWvf7HgaJPm0",
+      "id": "3dwOUpgik5gWvf7HgaJPm0",
+      "name": "Having Fun",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3dwOUpgik5gWvf7HgaJPm0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6v3dceBczwmv6OiIvkFQOV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6v3dceBczwmv6OiIvkFQOV",
+      "id": "6v3dceBczwmv6OiIvkFQOV",
+      "name": "Yardie",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6v3dceBczwmv6OiIvkFQOV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+          },
+          "href": "https://api.spotify.com/v1/artists/72T7x96EAqN2UWvAgobYfv",
+          "id": "72T7x96EAqN2UWvAgobYfv",
+          "name": "Sizzla",
+          "type": "artist",
+          "uri": "spotify:artist:72T7x96EAqN2UWvAgobYfv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CiLVKp7LJTm0c8jdUmQNy",
+          "id": "0CiLVKp7LJTm0c8jdUmQNy",
+          "name": "Agent Sasco (Assassin)",
+          "type": "artist",
+          "uri": "spotify:artist:0CiLVKp7LJTm0c8jdUmQNy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242230,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0xaXGddRjrGCEbQtr5OJlx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0xaXGddRjrGCEbQtr5OJlx",
+      "id": "0xaXGddRjrGCEbQtr5OJlx",
+      "name": "Call the Crew",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0xaXGddRjrGCEbQtr5OJlx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170890,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gzDxs8dFbzvIHlJR2a2E8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gzDxs8dFbzvIHlJR2a2E8",
+      "id": "5gzDxs8dFbzvIHlJR2a2E8",
+      "name": "I'm the King",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5gzDxs8dFbzvIHlJR2a2E8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209536,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZYHBDcBcZQ0idMhToGH61"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZYHBDcBcZQ0idMhToGH61",
+      "id": "2ZYHBDcBcZQ0idMhToGH61",
+      "name": "Love University",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2ZYHBDcBcZQ0idMhToGH61",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6IMQojSCiroosDWTBOd34V"
+          },
+          "href": "https://api.spotify.com/v1/artists/6IMQojSCiroosDWTBOd34V",
+          "id": "6IMQojSCiroosDWTBOd34V",
+          "name": "DeeBuzz",
+          "type": "artist",
+          "uri": "spotify:artist:6IMQojSCiroosDWTBOd34V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Ldb6y3br1T8JH1yrpV3nH"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Ldb6y3br1T8JH1yrpV3nH",
+          "id": "5Ldb6y3br1T8JH1yrpV3nH",
+          "name": "Hard2def",
+          "type": "artist",
+          "uri": "spotify:artist:5Ldb6y3br1T8JH1yrpV3nH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7fnD6AIf3xmaiTgWzLRVJl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7fnD6AIf3xmaiTgWzLRVJl",
+      "id": "7fnD6AIf3xmaiTgWzLRVJl",
+      "name": "Million More",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7fnD6AIf3xmaiTgWzLRVJl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ngzQ1RaSIKNC3myfvOKfv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ngzQ1RaSIKNC3myfvOKfv",
+      "id": "7ngzQ1RaSIKNC3myfvOKfv",
+      "name": "All Eyes",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7ngzQ1RaSIKNC3myfvOKfv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199101,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2iyJt2dbHCM243ebwwg5b6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2iyJt2dbHCM243ebwwg5b6",
+      "id": "2iyJt2dbHCM243ebwwg5b6",
+      "name": "Play",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2iyJt2dbHCM243ebwwg5b6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EgUow5z0SXVA9lunNSB1q"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EgUow5z0SXVA9lunNSB1q",
+          "id": "0EgUow5z0SXVA9lunNSB1q",
+          "name": "Verse Simmonds",
+          "type": "artist",
+          "uri": "spotify:artist:0EgUow5z0SXVA9lunNSB1q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222911,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XDSwjBbkssD8KzPhQvC72"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2XDSwjBbkssD8KzPhQvC72",
+      "id": "2XDSwjBbkssD8KzPhQvC72",
+      "name": "Stuck on You",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2XDSwjBbkssD8KzPhQvC72",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dXC1YPbnQPsfHPVkm1ipj",
+          "id": "3dXC1YPbnQPsfHPVkm1ipj",
+          "name": "Christopher Martin",
+          "type": "artist",
+          "uri": "spotify:artist:3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191617,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OYcsgZukN1jiFrH2VMTs2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OYcsgZukN1jiFrH2VMTs2",
+      "id": "2OYcsgZukN1jiFrH2VMTs2",
+      "name": "Me and You",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2OYcsgZukN1jiFrH2VMTs2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252598,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SXXPPboKgifjObJqR14DR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SXXPPboKgifjObJqR14DR",
+      "id": "1SXXPPboKgifjObJqR14DR",
+      "name": "Come to Me",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1SXXPPboKgifjObJqR14DR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+          },
+          "href": "https://api.spotify.com/v1/artists/6UuT0BJZ9vF8Y1sxXnJl2s",
+          "id": "6UuT0BJZ9vF8Y1sxXnJl2s",
+          "name": "Bounty Killer",
+          "type": "artist",
+          "uri": "spotify:artist:6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210394,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/29ILOnS8SbAoWJRcrSPknA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/29ILOnS8SbAoWJRcrSPknA",
+      "id": "29ILOnS8SbAoWJRcrSPknA",
+      "name": "Blue Light",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:29ILOnS8SbAoWJRcrSPknA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6S2eNxdYrvL7f4uUNRILYQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6S2eNxdYrvL7f4uUNRILYQ",
+          "id": "6S2eNxdYrvL7f4uUNRILYQ",
+          "name": "J. Gunn",
+          "type": "artist",
+          "uri": "spotify:artist:6S2eNxdYrvL7f4uUNRILYQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233314,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Q2LlU86AZuDVkoHH4FqSG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Q2LlU86AZuDVkoHH4FqSG",
+      "id": "3Q2LlU86AZuDVkoHH4FqSG",
+      "name": "We Run Road - Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3Q2LlU86AZuDVkoHH4FqSG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0DBiYEhzqnHvfSt3kHggR3"
+          },
+          "href": "https://api.spotify.com/v1/artists/0DBiYEhzqnHvfSt3kHggR3",
+          "id": "0DBiYEhzqnHvfSt3kHggR3",
+          "name": "Rory Stonelove",
+          "type": "artist",
+          "uri": "spotify:artist:0DBiYEhzqnHvfSt3kHggR3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aNtGpaCGrxz6bswrP5hCn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aNtGpaCGrxz6bswrP5hCn",
+      "id": "0aNtGpaCGrxz6bswrP5hCn",
+      "name": "Mash It Up",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0aNtGpaCGrxz6bswrP5hCn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          },
+          "href": "https://api.spotify.com/v1/artists/47z7ZrgFoBvVpCnElCE3Zh",
+          "id": "47z7ZrgFoBvVpCnElCE3Zh",
+          "name": "Yellow Claw",
+          "type": "artist",
+          "uri": "spotify:artist:47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172350,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1T8ZQ6Iwi8TNwxWOz1Y3Z1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1T8ZQ6Iwi8TNwxWOz1Y3Z1",
+      "id": "1T8ZQ6Iwi8TNwxWOz1Y3Z1",
+      "name": "Bun It Up",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1T8ZQ6Iwi8TNwxWOz1Y3Z1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+          },
+          "href": "https://api.spotify.com/v1/artists/4frHO7KPcfMjhnVdIMJ98c",
+          "id": "4frHO7KPcfMjhnVdIMJ98c",
+          "name": "Tarrus Riley",
+          "type": "artist",
+          "uri": "spotify:artist:4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231793,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5uq5K81qJMgxZr11XSlFt2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5uq5K81qJMgxZr11XSlFt2",
+      "id": "5uq5K81qJMgxZr11XSlFt2",
+      "name": "Dancing Mood",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5uq5K81qJMgxZr11XSlFt2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203557,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3zPOR7HiPbs1jf8ErJWNLT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3zPOR7HiPbs1jf8ErJWNLT",
+      "id": "3zPOR7HiPbs1jf8ErJWNLT",
+      "name": "Hold Me in Your Arms",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:3zPOR7HiPbs1jf8ErJWNLT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vm2P3hJ1w06k1xIZNJqA3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5vm2P3hJ1w06k1xIZNJqA3",
+          "id": "5vm2P3hJ1w06k1xIZNJqA3",
+          "name": "Mario C",
+          "type": "artist",
+          "uri": "spotify:artist:5vm2P3hJ1w06k1xIZNJqA3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187210,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tjMTCHS1PCxQm3ETKpBRz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4tjMTCHS1PCxQm3ETKpBRz",
+      "id": "4tjMTCHS1PCxQm3ETKpBRz",
+      "name": "Ready to Party",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4tjMTCHS1PCxQm3ETKpBRz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/45OTnA9eWlfMcpx2QXxqR9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/45OTnA9eWlfMcpx2QXxqR9",
+      "id": "45OTnA9eWlfMcpx2QXxqR9",
+      "name": "People All Around the World",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:45OTnA9eWlfMcpx2QXxqR9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188698,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2VCuqlGwuXZflH2RiCRCPR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2VCuqlGwuXZflH2RiCRCPR",
+      "id": "2VCuqlGwuXZflH2RiCRCPR",
+      "name": "Real Youth",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:2VCuqlGwuXZflH2RiCRCPR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ysPUd90ZRPbbtU9buJIUA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ysPUd90ZRPbbtU9buJIUA",
+      "id": "4ysPUd90ZRPbbtU9buJIUA",
+      "name": "Unstoppable",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:4ysPUd90ZRPbbtU9buJIUA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          },
+          "href": "https://api.spotify.com/v1/artists/4L3GTE04bW5N7azA9QPhjA",
+          "id": "4L3GTE04bW5N7azA9QPhjA",
+          "name": "Beenie Man",
+          "type": "artist",
+          "uri": "spotify:artist:4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7E4YrhbZiihgWVOuZY1OOG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7E4YrhbZiihgWVOuZY1OOG",
+      "id": "7E4YrhbZiihgWVOuZY1OOG",
+      "name": "Love Story",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:7E4YrhbZiihgWVOuZY1OOG",
+      "is_local": false
+    }
+  ]
+}

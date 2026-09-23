@@ -1,0 +1,589 @@
+{
+  "album_id": "5aLTYIjHs4gctDSfsNosvb",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DNIqvEpIiS8XCOa9nYS0f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DNIqvEpIiS8XCOa9nYS0f",
+          "id": "3DNIqvEpIiS8XCOa9nYS0f",
+          "name": "Noah",
+          "type": "artist",
+          "uri": "spotify:artist:3DNIqvEpIiS8XCOa9nYS0f"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2s4xMAs9H9j56JNGdvwvNn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2s4xMAs9H9j56JNGdvwvNn",
+      "id": "2s4xMAs9H9j56JNGdvwvNn",
+      "name": "It's On",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2s4xMAs9H9j56JNGdvwvNn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4qUUpz3EPAKtSrXKL2JeBs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4qUUpz3EPAKtSrXKL2JeBs",
+      "id": "4qUUpz3EPAKtSrXKL2JeBs",
+      "name": "Hold Me Down",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4qUUpz3EPAKtSrXKL2JeBs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47qOecnSdFN91g1S9vhSVj"
+          },
+          "href": "https://api.spotify.com/v1/artists/47qOecnSdFN91g1S9vhSVj",
+          "id": "47qOecnSdFN91g1S9vhSVj",
+          "name": "Big Duke",
+          "type": "artist",
+          "uri": "spotify:artist:47qOecnSdFN91g1S9vhSVj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4s2PD3KA8F7UPoa6MBbIlK"
+          },
+          "href": "https://api.spotify.com/v1/artists/4s2PD3KA8F7UPoa6MBbIlK",
+          "id": "4s2PD3KA8F7UPoa6MBbIlK",
+          "name": "Cinque",
+          "type": "artist",
+          "uri": "spotify:artist:4s2PD3KA8F7UPoa6MBbIlK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1DGMY4bzKP54AwIlQesbel"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1DGMY4bzKP54AwIlQesbel",
+      "id": "1DGMY4bzKP54AwIlQesbel",
+      "name": "Get That Bread",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1DGMY4bzKP54AwIlQesbel",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 69026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/22JPTMLj6aw99Gsvr2IDQW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/22JPTMLj6aw99Gsvr2IDQW",
+      "id": "22JPTMLj6aw99Gsvr2IDQW",
+      "name": "Skit",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:22JPTMLj6aw99Gsvr2IDQW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+          },
+          "href": "https://api.spotify.com/v1/artists/2MGT7CYlixSPxAnnkhLpaA",
+          "id": "2MGT7CYlixSPxAnnkhLpaA",
+          "name": "Next",
+          "type": "artist",
+          "uri": "spotify:artist:2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6YvvZFYRHyehqH59nQZnyM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6YvvZFYRHyehqH59nQZnyM",
+      "id": "6YvvZFYRHyehqH59nQZnyM",
+      "name": "Street Love",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6YvvZFYRHyehqH59nQZnyM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DNIqvEpIiS8XCOa9nYS0f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DNIqvEpIiS8XCOa9nYS0f",
+          "id": "3DNIqvEpIiS8XCOa9nYS0f",
+          "name": "Noah",
+          "type": "artist",
+          "uri": "spotify:artist:3DNIqvEpIiS8XCOa9nYS0f"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6iorQvLunBlbBjYIVF71Zr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6iorQvLunBlbBjYIVF71Zr",
+      "id": "6iorQvLunBlbBjYIVF71Zr",
+      "name": "Strapped",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6iorQvLunBlbBjYIVF71Zr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78BmYl1yiYj2dP2BUZPMrU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78BmYl1yiYj2dP2BUZPMrU",
+      "id": "78BmYl1yiYj2dP2BUZPMrU",
+      "name": "Prove Me Wrong",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:78BmYl1yiYj2dP2BUZPMrU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DNIqvEpIiS8XCOa9nYS0f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DNIqvEpIiS8XCOa9nYS0f",
+          "id": "3DNIqvEpIiS8XCOa9nYS0f",
+          "name": "Noah",
+          "type": "artist",
+          "uri": "spotify:artist:3DNIqvEpIiS8XCOa9nYS0f"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0M0bQwQPtovIKzJoF97yxd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0M0bQwQPtovIKzJoF97yxd",
+      "id": "0M0bQwQPtovIKzJoF97yxd",
+      "name": "Bird Bath - Feat. Noah",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0M0bQwQPtovIKzJoF97yxd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+          "id": "2J257euzcjnDLipsyJH3F2",
+          "name": "Clipse",
+          "type": "artist",
+          "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6yLrm0qobB6vvTXGekPgRS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6yLrm0qobB6vvTXGekPgRS",
+      "id": "6yLrm0qobB6vvTXGekPgRS",
+      "name": "B.L.O.W.",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6yLrm0qobB6vvTXGekPgRS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE"
+          },
+          "href": "https://api.spotify.com/v1/artists/467NioAq9fvSiEnANCOGzE",
+          "id": "467NioAq9fvSiEnANCOGzE",
+          "name": "Gillie Da Kid",
+          "type": "artist",
+          "uri": "spotify:artist:467NioAq9fvSiEnANCOGzE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3e5ZMdlKgrkm3nekphmJKD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3e5ZMdlKgrkm3nekphmJKD",
+          "id": "3e5ZMdlKgrkm3nekphmJKD",
+          "name": "Reed Dollarz",
+          "type": "artist",
+          "uri": "spotify:artist:3e5ZMdlKgrkm3nekphmJKD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0FZx398hGmvMcabikOSxKn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0FZx398hGmvMcabikOSxKn",
+      "id": "0FZx398hGmvMcabikOSxKn",
+      "name": "Realest Ni**as",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0FZx398hGmvMcabikOSxKn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y7WUJkrrcNgY3SDwQwY5a"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3y7WUJkrrcNgY3SDwQwY5a",
+      "id": "3y7WUJkrrcNgY3SDwQwY5a",
+      "name": "Simple And Plain",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3y7WUJkrrcNgY3SDwQwY5a",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+          },
+          "href": "https://api.spotify.com/v1/artists/19KwjzvIL92r29IINtlPNP",
+          "id": "19KwjzvIL92r29IINtlPNP",
+          "name": "Scarface",
+          "type": "artist",
+          "uri": "spotify:artist:19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gtvpN0r8QlNWm4xldIb1r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gtvpN0r8QlNWm4xldIb1r",
+      "id": "5gtvpN0r8QlNWm4xldIb1r",
+      "name": "Dear Lord",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5gtvpN0r8QlNWm4xldIb1r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 28720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39bsONDQF9akaCPI67YepV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/39bsONDQF9akaCPI67YepV",
+      "id": "39bsONDQF9akaCPI67YepV",
+      "name": "Skit",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:39bsONDQF9akaCPI67YepV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2kq8NnNPK5ELhHO9jrCHoO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2kq8NnNPK5ELhHO9jrCHoO",
+      "id": "2kq8NnNPK5ELhHO9jrCHoO",
+      "name": "Been",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2kq8NnNPK5ELhHO9jrCHoO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Y0iua242B9tlf2ecCm4ny"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Y0iua242B9tlf2ecCm4ny",
+      "id": "6Y0iua242B9tlf2ecCm4ny",
+      "name": "Breathe In, Breathe Out",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:6Y0iua242B9tlf2ecCm4ny",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ddCtXHDKh0LrHHTOTmHQV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ddCtXHDKh0LrHHTOTmHQV",
+          "id": "1ddCtXHDKh0LrHHTOTmHQV",
+          "name": "Jiggolo",
+          "type": "artist",
+          "uri": "spotify:artist:1ddCtXHDKh0LrHHTOTmHQV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZneSDXPDLhxC9GQXotTDa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ZneSDXPDLhxC9GQXotTDa",
+      "id": "0ZneSDXPDLhxC9GQXotTDa",
+      "name": "737",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0ZneSDXPDLhxC9GQXotTDa",
+      "is_local": false
+    }
+  ]
+}

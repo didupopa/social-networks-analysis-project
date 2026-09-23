@@ -1,0 +1,693 @@
+{
+  "album_id": "2vXwHm1zpHt2ADDabnzzhX",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MrdwyCIKbpXmTKQBlG3uq",
+          "id": "6MrdwyCIKbpXmTKQBlG3uq",
+          "name": "Z-Ro",
+          "type": "artist",
+          "uri": "spotify:artist:6MrdwyCIKbpXmTKQBlG3uq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OpKR6ZFvrIZOSwo8OvMPR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OpKR6ZFvrIZOSwo8OvMPR",
+          "id": "4OpKR6ZFvrIZOSwo8OvMPR",
+          "name": "J. Prince",
+          "type": "artist",
+          "uri": "spotify:artist:4OpKR6ZFvrIZOSwo8OvMPR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259426,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Isr7uX7Z5xi10KHEvdL3R"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Isr7uX7Z5xi10KHEvdL3R",
+      "id": "1Isr7uX7Z5xi10KHEvdL3R",
+      "name": "II Trill",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1Isr7uX7Z5xi10KHEvdL3R",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+          },
+          "href": "https://api.spotify.com/v1/artists/6S0dmVVn4udvppDhZIWxCr",
+          "id": "6S0dmVVn4udvppDhZIWxCr",
+          "name": "Sean Kingston",
+          "type": "artist",
+          "uri": "spotify:artist:6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Bs8x9MgBMLu8LgUMfBI4j"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Bs8x9MgBMLu8LgUMfBI4j",
+      "id": "0Bs8x9MgBMLu8LgUMfBI4j",
+      "name": "That's Gangsta",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0Bs8x9MgBMLu8LgUMfBI4j",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4JZfFfzdZi1Y7hdzLLrIYE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4JZfFfzdZi1Y7hdzLLrIYE",
+      "id": "4JZfFfzdZi1Y7hdzLLrIYE",
+      "name": "Damn I'm Cold",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4JZfFfzdZi1Y7hdzLLrIYE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jFaoqWPhYLrKzjzlpXmUO",
+          "id": "7jFaoqWPhYLrKzjzlpXmUO",
+          "name": "David Banner",
+          "type": "artist",
+          "uri": "spotify:artist:7jFaoqWPhYLrKzjzlpXmUO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iUhmKPNkkPPS6FCQxqtNq",
+          "id": "7iUhmKPNkkPPS6FCQxqtNq",
+          "name": "8Ball & MJG",
+          "type": "artist",
+          "uri": "spotify:artist:7iUhmKPNkkPPS6FCQxqtNq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3KcsLyF3wQgtgo17crlUjo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3KcsLyF3wQgtgo17crlUjo",
+      "id": "3KcsLyF3wQgtgo17crlUjo",
+      "name": "You're Everything",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3KcsLyF3wQgtgo17crlUjo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QBkC4mRDdUOmwlHxeDyi9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QBkC4mRDdUOmwlHxeDyi9",
+      "id": "5QBkC4mRDdUOmwlHxeDyi9",
+      "name": "I Luv That",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5QBkC4mRDdUOmwlHxeDyi9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZRi2GJoSUSwfyRfx0wPzn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ZRi2GJoSUSwfyRfx0wPzn",
+      "id": "0ZRi2GJoSUSwfyRfx0wPzn",
+      "name": "Swang on Em",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0ZRi2GJoSUSwfyRfx0wPzn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QkusyyiLCVP97x3TADKV9",
+          "id": "1QkusyyiLCVP97x3TADKV9",
+          "name": "Jazze Pha",
+          "type": "artist",
+          "uri": "spotify:artist:1QkusyyiLCVP97x3TADKV9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6JlLHynBwL0G2UuMEjLoeA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6JlLHynBwL0G2UuMEjLoeA",
+      "id": "6JlLHynBwL0G2UuMEjLoeA",
+      "name": "My Block",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6JlLHynBwL0G2UuMEjLoeA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CBqHzaMYxUHjsFM3YYPKh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CBqHzaMYxUHjsFM3YYPKh",
+      "id": "3CBqHzaMYxUHjsFM3YYPKh",
+      "name": "Get Cha Issue",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3CBqHzaMYxUHjsFM3YYPKh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+          "id": "0rG0AZBscc8S8q1ahIsasI",
+          "name": "JUVENILE",
+          "type": "artist",
+          "uri": "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aIm51fHkokqlJn2vzNTH8",
+          "id": "6aIm51fHkokqlJn2vzNTH8",
+          "name": "Webbie",
+          "type": "artist",
+          "uri": "spotify:artist:6aIm51fHkokqlJn2vzNTH8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7bxlj2xUBF6fioGta1NlyZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7bxlj2xUBF6fioGta1NlyZ",
+      "id": "7bxlj2xUBF6fioGta1NlyZ",
+      "name": "Pop It 4 Pimp",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7bxlj2xUBF6fioGta1NlyZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+          },
+          "href": "https://api.spotify.com/v1/artists/6lHL3ubAMgSasKjNqKb8HF",
+          "id": "6lHL3ubAMgSasKjNqKb8HF",
+          "name": "Mýa",
+          "type": "artist",
+          "uri": "spotify:artist:6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288986,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cjyrqLQ0LiLWhv65dR7GI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cjyrqLQ0LiLWhv65dR7GI",
+      "id": "3cjyrqLQ0LiLWhv65dR7GI",
+      "name": "Good II Me",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3cjyrqLQ0LiLWhv65dR7GI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7v9bFXCdSMA2o3gS4nvp0F"
+          },
+          "href": "https://api.spotify.com/v1/artists/7v9bFXCdSMA2o3gS4nvp0F",
+          "id": "7v9bFXCdSMA2o3gS4nvp0F",
+          "name": "Pimp C",
+          "type": "artist",
+          "uri": "spotify:artist:7v9bFXCdSMA2o3gS4nvp0F"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vdMPayKk8YJxxeNP5oMCb",
+          "id": "6vdMPayKk8YJxxeNP5oMCb",
+          "name": "Chamillionaire",
+          "type": "artist",
+          "uri": "spotify:artist:6vdMPayKk8YJxxeNP5oMCb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ZVV81TkpMjViA5FTJNyCk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ZVV81TkpMjViA5FTJNyCk",
+      "id": "3ZVV81TkpMjViA5FTJNyCk",
+      "name": "Underground Thang",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3ZVV81TkpMjViA5FTJNyCk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id": "4pr7J7wzgObkE3DD3Izi7q",
+          "name": "Young Buck",
+          "type": "artist",
+          "uri": "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+          },
+          "href": "https://api.spotify.com/v1/artists/33C3ByGk9NCrjTIXr6npqf",
+          "id": "33C3ByGk9NCrjTIXr6npqf",
+          "name": "Lyfe Jennings",
+          "type": "artist",
+          "uri": "spotify:artist:33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/20ng2m925mPJVnNVUhuxC3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/20ng2m925mPJVnNVUhuxC3",
+      "id": "20ng2m925mPJVnNVUhuxC3",
+      "name": "If I Die II Night",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:20ng2m925mPJVnNVUhuxC3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zlaCD7DLc2VAkMVBDRVfC"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zlaCD7DLc2VAkMVBDRVfC",
+          "id": "2zlaCD7DLc2VAkMVBDRVfC",
+          "name": "Mddl Fngz",
+          "type": "artist",
+          "uri": "spotify:artist:2zlaCD7DLc2VAkMVBDRVfC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XNFcPvkDxMDRFnLz0vjZk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XNFcPvkDxMDRFnLz0vjZk",
+          "id": "1XNFcPvkDxMDRFnLz0vjZk",
+          "name": "Kobe",
+          "type": "artist",
+          "uri": "spotify:artist:1XNFcPvkDxMDRFnLz0vjZk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2HOharUQ5EknllogmzmPjr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2HOharUQ5EknllogmzmPjr",
+      "id": "2HOharUQ5EknllogmzmPjr",
+      "name": "Another Soldier",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2HOharUQ5EknllogmzmPjr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qPUDOVD0aYR2lmCilnscs"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qPUDOVD0aYR2lmCilnscs",
+          "id": "0qPUDOVD0aYR2lmCilnscs",
+          "name": "Junior Reid",
+          "type": "artist",
+          "uri": "spotify:artist:0qPUDOVD0aYR2lmCilnscs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5vP25nUSid1wiboXP5V6v4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5vP25nUSid1wiboXP5V6v4",
+      "id": "5vP25nUSid1wiboXP5V6v4",
+      "name": "If It Was Up II Me",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5vP25nUSid1wiboXP5V6v4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 14613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6CmGNSXDaF9okMqGtmggsU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6CmGNSXDaF9okMqGtmggsU",
+      "id": "6CmGNSXDaF9okMqGtmggsU",
+      "name": "Trill Talk",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:6CmGNSXDaF9okMqGtmggsU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4XcwMKme2BazeCD9CzWhLE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4XcwMKme2BazeCD9CzWhLE",
+          "id": "4XcwMKme2BazeCD9CzWhLE",
+          "name": "Lil Razah",
+          "type": "artist",
+          "uri": "spotify:artist:4XcwMKme2BazeCD9CzWhLE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297546,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/42MPw7SpaxvzFBYSkVTlZW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/42MPw7SpaxvzFBYSkVTlZW",
+      "id": "42MPw7SpaxvzFBYSkVTlZW",
+      "name": "Angel in the Sky",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:42MPw7SpaxvzFBYSkVTlZW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 7813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/627GcY34l8egLJARjkB6Oh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/627GcY34l8egLJARjkB6Oh",
+      "id": "627GcY34l8egLJARjkB6Oh",
+      "name": "II Trill Talk",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:627GcY34l8egLJARjkB6Oh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276533,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y677uRLFVoDkmqhWruZoP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3y677uRLFVoDkmqhWruZoP",
+      "id": "3y677uRLFVoDkmqhWruZoP",
+      "name": "Keep It 100",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:3y677uRLFVoDkmqhWruZoP",
+      "is_local": false
+    }
+  ]
+}

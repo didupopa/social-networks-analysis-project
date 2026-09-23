@@ -1,0 +1,522 @@
+{
+  "album_id": "12QC8onTLUMGt0ExsSP674",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5a4ZtVIIv7tXhpSniKoUdv",
+          "id": "5a4ZtVIIv7tXhpSniKoUdv",
+          "name": "Mateus Aleluia",
+          "type": "artist",
+          "uri": "spotify:artist:5a4ZtVIIv7tXhpSniKoUdv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CSZMV16BjcsK0LttyHTky"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CSZMV16BjcsK0LttyHTky",
+          "id": "2CSZMV16BjcsK0LttyHTky",
+          "name": "Walter Blanding",
+          "type": "artist",
+          "uri": "spotify:artist:2CSZMV16BjcsK0LttyHTky"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276129,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5whLJAHDFMQZqGx9tcmIdY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5whLJAHDFMQZqGx9tcmIdY",
+      "id": "5whLJAHDFMQZqGx9tcmIdY",
+      "name": "Deus Mestiço",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5whLJAHDFMQZqGx9tcmIdY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237387,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1i8mH7ymN6nC5tXFOkgdA1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1i8mH7ymN6nC5tXFOkgdA1",
+      "id": "1i8mH7ymN6nC5tXFOkgdA1",
+      "name": "Derivado Petrolífero",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1i8mH7ymN6nC5tXFOkgdA1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162409,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ciUinGXCYxLNKACYBcF7G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ciUinGXCYxLNKACYBcF7G",
+      "id": "3ciUinGXCYxLNKACYBcF7G",
+      "name": "Carreirinha",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3ciUinGXCYxLNKACYBcF7G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208447,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1maEvffrFpVn4DpNqoJtvM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1maEvffrFpVn4DpNqoJtvM",
+      "id": "1maEvffrFpVn4DpNqoJtvM",
+      "name": "Vaza de Mim",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1maEvffrFpVn4DpNqoJtvM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+          "id": "7FNnA9vBm6EKceENgCGRMb",
+          "name": "Anitta",
+          "type": "artist",
+          "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203437,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3L6QhlXSDcVFGvlTrDSrby"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3L6QhlXSDcVFGvlTrDSrby",
+      "id": "3L6QhlXSDcVFGvlTrDSrby",
+      "name": "Africanitta",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3L6QhlXSDcVFGvlTrDSrby",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179667,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0hboH3mgazJkj0VGqKjoCk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0hboH3mgazJkj0VGqKjoCk",
+      "id": "0hboH3mgazJkj0VGqKjoCk",
+      "name": "Orgulho de Nós Dois",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0hboH3mgazJkj0VGqKjoCk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 61154,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0dG3pDlFycXx8dKueyvQxc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0dG3pDlFycXx8dKueyvQxc",
+      "id": "0dG3pDlFycXx8dKueyvQxc",
+      "name": "Semelhantes",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0dG3pDlFycXx8dKueyvQxc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FLAgXq2c8VXemdJXHE0OF"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FLAgXq2c8VXemdJXHE0OF",
+          "id": "0FLAgXq2c8VXemdJXHE0OF",
+          "name": "Nanda Garcia",
+          "type": "artist",
+          "uri": "spotify:artist:0FLAgXq2c8VXemdJXHE0OF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202605,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3NDgq2gsqqm34MRokEatUi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3NDgq2gsqqm34MRokEatUi",
+      "id": "3NDgq2gsqqm34MRokEatUi",
+      "name": "Ilustres",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3NDgq2gsqqm34MRokEatUi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208685,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UGfMAQ69eywqOnhM24hNf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UGfMAQ69eywqOnhM24hNf",
+      "id": "1UGfMAQ69eywqOnhM24hNf",
+      "name": "Houve",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1UGfMAQ69eywqOnhM24hNf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3d3K43XsOWZ8ccw6xWKpVt",
+          "id": "3d3K43XsOWZ8ccw6xWKpVt",
+          "name": "Clara Buarque",
+          "type": "artist",
+          "uri": "spotify:artist:3d3K43XsOWZ8ccw6xWKpVt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ssUf5gLb1GBLxi1BhPrVt",
+          "id": "4ssUf5gLb1GBLxi1BhPrVt",
+          "name": "Jorge Drexler",
+          "type": "artist",
+          "uri": "spotify:artist:4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205845,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36XMRwt6g0hnl2Kae7HXDY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36XMRwt6g0hnl2Kae7HXDY",
+      "id": "36XMRwt6g0hnl2Kae7HXDY",
+      "name": "Paladar",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:36XMRwt6g0hnl2Kae7HXDY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191843,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CKenUPR3JUVIOTKhogrDL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CKenUPR3JUVIOTKhogrDL",
+      "id": "3CKenUPR3JUVIOTKhogrDL",
+      "name": "Ironia",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3CKenUPR3JUVIOTKhogrDL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6YToYAWMQNmOzqzKK2uygU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6YToYAWMQNmOzqzKK2uygU",
+      "id": "6YToYAWMQNmOzqzKK2uygU",
+      "name": "Sacrilégio",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6YToYAWMQNmOzqzKK2uygU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212992,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NTlyRoDGYJc2nMeNKXx3J"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NTlyRoDGYJc2nMeNKXx3J",
+      "id": "4NTlyRoDGYJc2nMeNKXx3J",
+      "name": "Beijo de Língua",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4NTlyRoDGYJc2nMeNKXx3J",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+          "id": "7FNnA9vBm6EKceENgCGRMb",
+          "name": "Anitta",
+          "type": "artist",
+          "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bitILn8c1VCsYwoT2ZQmY",
+          "id": "7bitILn8c1VCsYwoT2ZQmY",
+          "name": "Deeplick",
+          "type": "artist",
+          "uri": "spotify:artist:7bitILn8c1VCsYwoT2ZQmY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202942,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hlO7Rx7a5dBAaJHrnDIsD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1hlO7Rx7a5dBAaJHrnDIsD",
+      "id": "1hlO7Rx7a5dBAaJHrnDIsD",
+      "name": "Africanitta (Deeplick Remix)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1hlO7Rx7a5dBAaJHrnDIsD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+          "id": "5jvQoouPSDvUEwynz5KPpv",
+          "name": "Carlinhos Brown",
+          "type": "artist",
+          "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3d3K43XsOWZ8ccw6xWKpVt",
+          "id": "3d3K43XsOWZ8ccw6xWKpVt",
+          "name": "Clara Buarque",
+          "type": "artist",
+          "uri": "spotify:artist:3d3K43XsOWZ8ccw6xWKpVt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bitILn8c1VCsYwoT2ZQmY",
+          "id": "7bitILn8c1VCsYwoT2ZQmY",
+          "name": "Deeplick",
+          "type": "artist",
+          "uri": "spotify:artist:7bitILn8c1VCsYwoT2ZQmY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ssUf5gLb1GBLxi1BhPrVt",
+          "id": "4ssUf5gLb1GBLxi1BhPrVt",
+          "name": "Jorge Drexler",
+          "type": "artist",
+          "uri": "spotify:artist:4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262548,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Yh7qjRhhsN43vTBNx1Nvo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Yh7qjRhhsN43vTBNx1Nvo",
+      "id": "0Yh7qjRhhsN43vTBNx1Nvo",
+      "name": "Paladar (Deeplick Remix)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0Yh7qjRhhsN43vTBNx1Nvo",
+      "is_local": false
+    }
+  ]
+}

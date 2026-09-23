@@ -1,0 +1,920 @@
+{
+  "album_id": "3xLHmuNmS8tl9TaSlKrMJJ",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 144888,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DRqkD2CRyszmGd8XXOcxp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DRqkD2CRyszmGd8XXOcxp",
+      "id": "7DRqkD2CRyszmGd8XXOcxp",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7DRqkD2CRyszmGd8XXOcxp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00UOluVoYY4F2blO5DmgRj"
+          },
+          "href": "https://api.spotify.com/v1/artists/00UOluVoYY4F2blO5DmgRj",
+          "id": "00UOluVoYY4F2blO5DmgRj",
+          "name": "Kebo Gotti",
+          "type": "artist",
+          "uri": "spotify:artist:00UOluVoYY4F2blO5DmgRj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AtWMBis5Rh02sFv4LgXtP",
+          "id": "0AtWMBis5Rh02sFv4LgXtP",
+          "name": "YG Hootie",
+          "type": "artist",
+          "uri": "spotify:artist:0AtWMBis5Rh02sFv4LgXtP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286560,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/771mYZNEc93ywP1ySn48te"
+      },
+      "href": "https://api.spotify.com/v1/tracks/771mYZNEc93ywP1ySn48te",
+      "id": "771mYZNEc93ywP1ySn48te",
+      "name": "Koolin It",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:771mYZNEc93ywP1ySn48te",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201768,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3m7A6BwWc7xX6hJPTHF5f7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3m7A6BwWc7xX6hJPTHF5f7",
+      "id": "3m7A6BwWc7xX6hJPTHF5f7",
+      "name": "Wrong One ta Try",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3m7A6BwWc7xX6hJPTHF5f7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nN9D9SsO2pzESHPOABwLS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nN9D9SsO2pzESHPOABwLS",
+          "id": "5nN9D9SsO2pzESHPOABwLS",
+          "name": "Quez",
+          "type": "artist",
+          "uri": "spotify:artist:5nN9D9SsO2pzESHPOABwLS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 195648,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ReIyUzUd2LlwFrDqZldFv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ReIyUzUd2LlwFrDqZldFv",
+      "id": "2ReIyUzUd2LlwFrDqZldFv",
+      "name": "Atlanta Girl",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2ReIyUzUd2LlwFrDqZldFv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262968,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZVexFUu9CNdDDOQLxQeuV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZVexFUu9CNdDDOQLxQeuV",
+      "id": "2ZVexFUu9CNdDDOQLxQeuV",
+      "name": "Lightz On",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2ZVexFUu9CNdDDOQLxQeuV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5SVUoQZyGyyAcL4yh28MNF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5SVUoQZyGyyAcL4yh28MNF",
+          "id": "5SVUoQZyGyyAcL4yh28MNF",
+          "name": "D-Bo",
+          "type": "artist",
+          "uri": "spotify:artist:5SVUoQZyGyyAcL4yh28MNF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198888,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qlNFsqj5w0oM54NRwBkTF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qlNFsqj5w0oM54NRwBkTF",
+      "id": "5qlNFsqj5w0oM54NRwBkTF",
+      "name": "BMW",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5qlNFsqj5w0oM54NRwBkTF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RYoN2Xx4WF2DcHXYYm6zn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RYoN2Xx4WF2DcHXYYm6zn",
+          "id": "3RYoN2Xx4WF2DcHXYYm6zn",
+          "name": "Wooh Da Kid",
+          "type": "artist",
+          "uri": "spotify:artist:3RYoN2Xx4WF2DcHXYYm6zn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295968,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4xRKZvbUt4xcYkB09tWmZe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4xRKZvbUt4xcYkB09tWmZe",
+      "id": "4xRKZvbUt4xcYkB09tWmZe",
+      "name": "Let Me See You Do It",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4xRKZvbUt4xcYkB09tWmZe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7bUj1L2k98U4tD6ahKpnfR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7bUj1L2k98U4tD6ahKpnfR",
+      "id": "7bUj1L2k98U4tD6ahKpnfR",
+      "name": "Blindside",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7bUj1L2k98U4tD6ahKpnfR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03AqIom3B6U5Ru4lH3rlmA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03AqIom3B6U5Ru4lH3rlmA",
+      "id": "03AqIom3B6U5Ru4lH3rlmA",
+      "name": "Band Pop",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:03AqIom3B6U5Ru4lH3rlmA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5SVUoQZyGyyAcL4yh28MNF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5SVUoQZyGyyAcL4yh28MNF",
+          "id": "5SVUoQZyGyyAcL4yh28MNF",
+          "name": "D-Bo",
+          "type": "artist",
+          "uri": "spotify:artist:5SVUoQZyGyyAcL4yh28MNF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SLjW4mwIdTZ7A4yy6ngWq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SLjW4mwIdTZ7A4yy6ngWq",
+          "id": "6SLjW4mwIdTZ7A4yy6ngWq",
+          "name": "Lil Capp",
+          "type": "artist",
+          "uri": "spotify:artist:6SLjW4mwIdTZ7A4yy6ngWq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200424,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7knf2v56csFQp4sNCrcap9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7knf2v56csFQp4sNCrcap9",
+      "id": "7knf2v56csFQp4sNCrcap9",
+      "name": "Flex",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7knf2v56csFQp4sNCrcap9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207264,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DCGH0519YAuJDAGVtf4lz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DCGH0519YAuJDAGVtf4lz",
+      "id": "2DCGH0519YAuJDAGVtf4lz",
+      "name": "Hi-Jackin Planez",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2DCGH0519YAuJDAGVtf4lz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bryCYKu25csK5lp2y64fK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bryCYKu25csK5lp2y64fK",
+          "id": "5bryCYKu25csK5lp2y64fK",
+          "name": "Gates",
+          "type": "artist",
+          "uri": "spotify:artist:5bryCYKu25csK5lp2y64fK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6SLjW4mwIdTZ7A4yy6ngWq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6SLjW4mwIdTZ7A4yy6ngWq",
+          "id": "6SLjW4mwIdTZ7A4yy6ngWq",
+          "name": "Lil Capp",
+          "type": "artist",
+          "uri": "spotify:artist:6SLjW4mwIdTZ7A4yy6ngWq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Ij1E1t2bgJKMxbqTWJBiC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Ij1E1t2bgJKMxbqTWJBiC",
+          "id": "6Ij1E1t2bgJKMxbqTWJBiC",
+          "name": "P Ceeze",
+          "type": "artist",
+          "uri": "spotify:artist:6Ij1E1t2bgJKMxbqTWJBiC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 298584,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NdWoCfvV7l1DSEyu9vLk5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NdWoCfvV7l1DSEyu9vLk5",
+      "id": "4NdWoCfvV7l1DSEyu9vLk5",
+      "name": "Drop It Girl",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4NdWoCfvV7l1DSEyu9vLk5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EhTqKk7NYx1PeVqKn7JoO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EhTqKk7NYx1PeVqKn7JoO",
+      "id": "6EhTqKk7NYx1PeVqKn7JoO",
+      "name": "Fresh as Fuck",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6EhTqKk7NYx1PeVqKn7JoO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0IQvFUPc6CTOu387l9TV2J"
+          },
+          "href": "https://api.spotify.com/v1/artists/0IQvFUPc6CTOu387l9TV2J",
+          "id": "0IQvFUPc6CTOu387l9TV2J",
+          "name": "Yung Joey",
+          "type": "artist",
+          "uri": "spotify:artist:0IQvFUPc6CTOu387l9TV2J"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198648,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7sVPrReorFTonzzwmmCcW4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7sVPrReorFTonzzwmmCcW4",
+      "id": "7sVPrReorFTonzzwmmCcW4",
+      "name": "Banned from the Club",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7sVPrReorFTonzzwmmCcW4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uuOLt8VuEptgaeK5xpzPd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uuOLt8VuEptgaeK5xpzPd",
+          "id": "5uuOLt8VuEptgaeK5xpzPd",
+          "name": "Alley Boy",
+          "type": "artist",
+          "uri": "spotify:artist:5uuOLt8VuEptgaeK5xpzPd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+          },
+          "href": "https://api.spotify.com/v1/artists/0701LAQrkY5Il5vt06uNnC",
+          "id": "0701LAQrkY5Il5vt06uNnC",
+          "name": "Trouble",
+          "type": "artist",
+          "uri": "spotify:artist:0701LAQrkY5Il5vt06uNnC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252096,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41dB0KyxANAMpGBcMsMZ3D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41dB0KyxANAMpGBcMsMZ3D",
+      "id": "41dB0KyxANAMpGBcMsMZ3D",
+      "name": "R.I.P.",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:41dB0KyxANAMpGBcMsMZ3D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181488,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1NyBVsJlljGLnmOCeA18eo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1NyBVsJlljGLnmOCeA18eo",
+      "id": "1NyBVsJlljGLnmOCeA18eo",
+      "name": "Baddest in the Room",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:1NyBVsJlljGLnmOCeA18eo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2WCSTqqMwguiIpPSzuE5UF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2WCSTqqMwguiIpPSzuE5UF",
+          "id": "2WCSTqqMwguiIpPSzuE5UF",
+          "name": "Rich Kidz",
+          "type": "artist",
+          "uri": "spotify:artist:2WCSTqqMwguiIpPSzuE5UF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190368,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3LfobrlonJcKJD3hLRh7Hs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3LfobrlonJcKJD3hLRh7Hs",
+      "id": "3LfobrlonJcKJD3hLRh7Hs",
+      "name": "No Pressure",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:3LfobrlonJcKJD3hLRh7Hs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PACq2ZcgnzS5MrVTbcm09"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PACq2ZcgnzS5MrVTbcm09",
+          "id": "2PACq2ZcgnzS5MrVTbcm09",
+          "name": "Jody Breeze",
+          "type": "artist",
+          "uri": "spotify:artist:2PACq2ZcgnzS5MrVTbcm09"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4utmqQVLD5gB15ezM0mYuI"
+          },
+          "href": "https://api.spotify.com/v1/artists/4utmqQVLD5gB15ezM0mYuI",
+          "id": "4utmqQVLD5gB15ezM0mYuI",
+          "name": "YC",
+          "type": "artist",
+          "uri": "spotify:artist:4utmqQVLD5gB15ezM0mYuI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255336,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7dajAtCcS1kFEaYxlLGPrA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7dajAtCcS1kFEaYxlLGPrA",
+      "id": "7dajAtCcS1kFEaYxlLGPrA",
+      "name": "100's",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:7dajAtCcS1kFEaYxlLGPrA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WtdfoG5trsNYaV3rkBQQ6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WtdfoG5trsNYaV3rkBQQ6",
+          "id": "6WtdfoG5trsNYaV3rkBQQ6",
+          "name": "Bezo Dame",
+          "type": "artist",
+          "uri": "spotify:artist:6WtdfoG5trsNYaV3rkBQQ6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225936,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2K8gbpigWLmrymgiqUnLOs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2K8gbpigWLmrymgiqUnLOs",
+      "id": "2K8gbpigWLmrymgiqUnLOs",
+      "name": "Double up Freestyle",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:2K8gbpigWLmrymgiqUnLOs",
+      "is_local": false
+    }
+  ]
+}

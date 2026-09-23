@@ -1,0 +1,679 @@
+{
+  "album_id": "7l2xWlmPvINqPkWuScAThe",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28nxXgzACyOfLKdMkTxHhg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/28nxXgzACyOfLKdMkTxHhg",
+      "id": "28nxXgzACyOfLKdMkTxHhg",
+      "name": "Inner - Planetary - Funksmanship",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:28nxXgzACyOfLKdMkTxHhg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33x1juS3GMXmg2USPcriOa"
+          },
+          "href": "https://api.spotify.com/v1/artists/33x1juS3GMXmg2USPcriOa",
+          "id": "33x1juS3GMXmg2USPcriOa",
+          "name": "Kelli Ali",
+          "type": "artist",
+          "uri": "spotify:artist:33x1juS3GMXmg2USPcriOa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0xCZftEDBO2dYgXtSJjxiL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0xCZftEDBO2dYgXtSJjxiL",
+          "id": "0xCZftEDBO2dYgXtSJjxiL",
+          "name": "Peppermint Jam",
+          "type": "artist",
+          "uri": "spotify:artist:0xCZftEDBO2dYgXtSJjxiL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48hhZHOiEGtS0WyMvDWkR8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48hhZHOiEGtS0WyMvDWkR8",
+      "id": "48hhZHOiEGtS0WyMvDWkR8",
+      "name": "Play with Bootsy (feat. Kelli Ali)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:48hhZHOiEGtS0WyMvDWkR8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/095Jryyx4HsI4rThGkcncQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/095Jryyx4HsI4rThGkcncQ",
+          "id": "095Jryyx4HsI4rThGkcncQ",
+          "name": "Colin Rich",
+          "type": "artist",
+          "uri": "spotify:artist:095Jryyx4HsI4rThGkcncQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zG9OumN6gTl6rE4SSubwu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zG9OumN6gTl6rE4SSubwu",
+          "id": "2zG9OumN6gTl6rE4SSubwu",
+          "name": "Dazz",
+          "type": "artist",
+          "uri": "spotify:artist:2zG9OumN6gTl6rE4SSubwu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7fYzFDW6tTgjBy7P525BnN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7fYzFDW6tTgjBy7P525BnN",
+      "id": "7fYzFDW6tTgjBy7P525BnN",
+      "name": "Love Gangsta (feat. Snoop Dogg, Dazz & Colin Rich)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7fYzFDW6tTgjBy7P525BnN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1d5nqaOa3PXgjrHv7hEQg4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1d5nqaOa3PXgjrHv7hEQg4",
+          "id": "1d5nqaOa3PXgjrHv7hEQg4",
+          "name": "Cherine Anderson",
+          "type": "artist",
+          "uri": "spotify:artist:1d5nqaOa3PXgjrHv7hEQg4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/61AMBFvyybJoTyFdL48tCT"
+          },
+          "href": "https://api.spotify.com/v1/artists/61AMBFvyybJoTyFdL48tCT",
+          "id": "61AMBFvyybJoTyFdL48tCT",
+          "name": "Will Guice",
+          "type": "artist",
+          "uri": "spotify:artist:61AMBFvyybJoTyFdL48tCT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4wRxciiW6ZHBwmIeylb2bU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4wRxciiW6ZHBwmIeylb2bU",
+      "id": "4wRxciiW6ZHBwmIeylb2bU",
+      "name": "Soul Sista (feat. Fat Joe, Cherine Anderson & Will Guice)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4wRxciiW6ZHBwmIeylb2bU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
+          },
+          "href": "https://api.spotify.com/v1/artists/1HRiWIhV7rgiL74L2AqZ5W",
+          "id": "1HRiWIhV7rgiL74L2AqZ5W",
+          "name": "Rosie Gaines",
+          "type": "artist",
+          "uri": "spotify:artist:1HRiWIhV7rgiL74L2AqZ5W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Q4xYZ2ZuFaAsZZyjPIfc8",
+          "id": "3Q4xYZ2ZuFaAsZZyjPIfc8",
+          "name": "Till Brönner",
+          "type": "artist",
+          "uri": "spotify:artist:3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 332973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6JBVhGBrnMeBLuLGiiW0mO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6JBVhGBrnMeBLuLGiiW0mO",
+      "id": "6JBVhGBrnMeBLuLGiiW0mO",
+      "name": "Don't Let 'Em (feat. Rosie Gaines, Snoop Dogg, Till Bronner)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6JBVhGBrnMeBLuLGiiW0mO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uBC72uHR7aPf1FRIEYgt0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uBC72uHR7aPf1FRIEYgt0",
+          "id": "0uBC72uHR7aPf1FRIEYgt0",
+          "name": "Eased",
+          "type": "artist",
+          "uri": "spotify:artist:0uBC72uHR7aPf1FRIEYgt0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1kHaaluvrbD5HmEsRaKoWb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1kHaaluvrbD5HmEsRaKoWb",
+      "id": "1kHaaluvrbD5HmEsRaKoWb",
+      "name": "A Life for Da Sweet Ting (feat. Eased)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1kHaaluvrbD5HmEsRaKoWb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vqkz1b2qBkoYrGMj2CUWq",
+          "id": "0vqkz1b2qBkoYrGMj2CUWq",
+          "name": "Bobby Womack",
+          "type": "artist",
+          "uri": "spotify:artist:0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TOtbvTIA0HyES8S8ioZKd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TOtbvTIA0HyES8S8ioZKd",
+          "id": "3TOtbvTIA0HyES8S8ioZKd",
+          "name": "One",
+          "type": "artist",
+          "uri": "spotify:artist:3TOtbvTIA0HyES8S8ioZKd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 383666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1CVrid3QsfM8keCSAI50C4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1CVrid3QsfM8keCSAI50C4",
+      "id": "1CVrid3QsfM8keCSAI50C4",
+      "name": "Groove Eternal (feat. One & Bobby Womack)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1CVrid3QsfM8keCSAI50C4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TOtbvTIA0HyES8S8ioZKd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TOtbvTIA0HyES8S8ioZKd",
+          "id": "3TOtbvTIA0HyES8S8ioZKd",
+          "name": "One",
+          "type": "artist",
+          "uri": "spotify:artist:3TOtbvTIA0HyES8S8ioZKd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1R8wUhXE7YKMTUyxTE7NrX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1R8wUhXE7YKMTUyxTE7NrX",
+      "id": "1R8wUhXE7YKMTUyxTE7NrX",
+      "name": "Dance to the Music (feat. One)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1R8wUhXE7YKMTUyxTE7NrX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vSfjPjAbekoehCpmy1RV1",
+          "id": "0vSfjPjAbekoehCpmy1RV1",
+          "name": "Shakedown",
+          "type": "artist",
+          "uri": "spotify:artist:0vSfjPjAbekoehCpmy1RV1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0qY04QabKu8KLIQh1O7SHp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0qY04QabKu8KLIQh1O7SHp",
+      "id": "0qY04QabKu8KLIQh1O7SHp",
+      "name": "Funky and You Know It (feat. Shakedown)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0qY04QabKu8KLIQh1O7SHp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EnQ902sUjgJYPpOXtVYLD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EnQ902sUjgJYPpOXtVYLD",
+          "id": "3EnQ902sUjgJYPpOXtVYLD",
+          "name": "Lady Miss Kier",
+          "type": "artist",
+          "uri": "spotify:artist:3EnQ902sUjgJYPpOXtVYLD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SJqodYI465ukjzXoxDUB2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SJqodYI465ukjzXoxDUB2",
+      "id": "1SJqodYI465ukjzXoxDUB2",
+      "name": "I'm Tired of Good, I'm Trying Bad (feat. Lady Miss Kier)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1SJqodYI465ukjzXoxDUB2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7eVY9a9LOOrgIwszKa8XUY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7eVY9a9LOOrgIwszKa8XUY",
+          "id": "7eVY9a9LOOrgIwszKa8XUY",
+          "name": "Can 7",
+          "type": "artist",
+          "uri": "spotify:artist:7eVY9a9LOOrgIwszKa8XUY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EnQ902sUjgJYPpOXtVYLD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EnQ902sUjgJYPpOXtVYLD",
+          "id": "3EnQ902sUjgJYPpOXtVYLD",
+          "name": "Lady Miss Kier",
+          "type": "artist",
+          "uri": "spotify:artist:3EnQ902sUjgJYPpOXtVYLD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 337773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2aqgO63VJLcQ3lXdMF1eKW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2aqgO63VJLcQ3lXdMF1eKW",
+      "id": "2aqgO63VJLcQ3lXdMF1eKW",
+      "name": "All Star Funk (feat. Lady Miss Kier & Can 7)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2aqgO63VJLcQ3lXdMF1eKW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Y7tXHSEejGu1vQ9bwDdXW",
+          "id": "4Y7tXHSEejGu1vQ9bwDdXW",
+          "name": "Fatboy Slim",
+          "type": "artist",
+          "uri": "spotify:artist:4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7wX6yGItwdqZkKSNhuoSlJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7wX6yGItwdqZkKSNhuoSlJ",
+      "id": "7wX6yGItwdqZkKSNhuoSlJ",
+      "name": "The Bomb (feat. Fatboy Slim)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7wX6yGItwdqZkKSNhuoSlJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 62040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kntVTw6WSeWdaGzPtx0MH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kntVTw6WSeWdaGzPtx0MH",
+      "id": "6kntVTw6WSeWdaGzPtx0MH",
+      "name": "Funkship",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6kntVTw6WSeWdaGzPtx0MH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33x1juS3GMXmg2USPcriOa"
+          },
+          "href": "https://api.spotify.com/v1/artists/33x1juS3GMXmg2USPcriOa",
+          "id": "33x1juS3GMXmg2USPcriOa",
+          "name": "Kelli Ali",
+          "type": "artist",
+          "uri": "spotify:artist:33x1juS3GMXmg2USPcriOa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ADS8B9CUYtbFLvjT99Ktw",
+          "id": "0ADS8B9CUYtbFLvjT99Ktw",
+          "name": "Alex Gopher",
+          "type": "artist",
+          "uri": "spotify:artist:0ADS8B9CUYtbFLvjT99Ktw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 316733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/30XSQqow3gHrfF0FpmQKR6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/30XSQqow3gHrfF0FpmQKR6",
+      "id": "30XSQqow3gHrfF0FpmQKR6",
+      "name": "Play with Bootsy (feat. Kelli Ali) - Alex Gopher Remix",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:30XSQqow3gHrfF0FpmQKR6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+          },
+          "href": "https://api.spotify.com/v1/artists/1JfH8gevkDviqs50A5NO0L",
+          "id": "1JfH8gevkDviqs50A5NO0L",
+          "name": "Chuck D",
+          "type": "artist",
+          "uri": "spotify:artist:1JfH8gevkDviqs50A5NO0L"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/38zoCuCSXrOFkynvaP1jLq"
+          },
+          "href": "https://api.spotify.com/v1/artists/38zoCuCSXrOFkynvaP1jLq",
+          "id": "38zoCuCSXrOFkynvaP1jLq",
+          "name": "Professor Griff",
+          "type": "artist",
+          "uri": "spotify:artist:38zoCuCSXrOFkynvaP1jLq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tyH4fEjasSsDPAEMIFl38"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4tyH4fEjasSsDPAEMIFl38",
+      "id": "4tyH4fEjasSsDPAEMIFl38",
+      "name": "Pressin' On (feat. Professor Griff and Chuck D.)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4tyH4fEjasSsDPAEMIFl38",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 440466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PIvAU4L1GVNV9yNwkjFPZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PIvAU4L1GVNV9yNwkjFPZ",
+      "id": "5PIvAU4L1GVNV9yNwkjFPZ",
+      "name": "The Mothership",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5PIvAU4L1GVNV9yNwkjFPZ",
+      "is_local": false
+    }
+  ]
+}

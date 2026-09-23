@@ -1,0 +1,88 @@
+{
+  "album_id": "5LZRcS16ivkyCRgH2XE1Kn",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zdn1nNmOZXHZ9K28FvcFp",
+          "id": "0zdn1nNmOZXHZ9K28FvcFp",
+          "name": "Matthew Herbert",
+          "type": "artist",
+          "uri": "spotify:artist:0zdn1nNmOZXHZ9K28FvcFp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 1451320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jmVH3Z7NSvIKKpFEvHWxg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jmVH3Z7NSvIKKpFEvHWxg",
+      "id": "2jmVH3Z7NSvIKKpFEvHWxg",
+      "name": "Part 1",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2jmVH3Z7NSvIKKpFEvHWxg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zdn1nNmOZXHZ9K28FvcFp",
+          "id": "0zdn1nNmOZXHZ9K28FvcFp",
+          "name": "Matthew Herbert",
+          "type": "artist",
+          "uri": "spotify:artist:0zdn1nNmOZXHZ9K28FvcFp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 604000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4FPFXUfxZGKCitWAjwB8im"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4FPFXUfxZGKCitWAjwB8im",
+      "id": "4FPFXUfxZGKCitWAjwB8im",
+      "name": "Part 2",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4FPFXUfxZGKCitWAjwB8im",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zdn1nNmOZXHZ9K28FvcFp",
+          "id": "0zdn1nNmOZXHZ9K28FvcFp",
+          "name": "Matthew Herbert",
+          "type": "artist",
+          "uri": "spotify:artist:0zdn1nNmOZXHZ9K28FvcFp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 1092000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4L7SsfrYyv6NrUyCUkV5ga"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4L7SsfrYyv6NrUyCUkV5ga",
+      "id": "4L7SsfrYyv6NrUyCUkV5ga",
+      "name": "Part 3",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4L7SsfrYyv6NrUyCUkV5ga",
+      "is_local": false
+    }
+  ]
+}

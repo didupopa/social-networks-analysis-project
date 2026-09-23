@@ -1,0 +1,53 @@
+{
+  "artist_id": "0CliOhi161ZCRIVw60prp0",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5PYTGsiwNaUuGzeZGzuJBk"
+      },
+      "href": "https://api.spotify.com/v1/albums/5PYTGsiwNaUuGzeZGzuJBk",
+      "id": "5PYTGsiwNaUuGzeZGzuJBk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273298bf2f69ff53bafbf6ff343",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02298bf2f69ff53bafbf6ff343",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851298bf2f69ff53bafbf6ff343",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Listen To The Water",
+      "release_date": "2022-05-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5PYTGsiwNaUuGzeZGzuJBk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CliOhi161ZCRIVw60prp0",
+          "id": "0CliOhi161ZCRIVw60prp0",
+          "name": "Luke Steele",
+          "type": "artist",
+          "uri": "spotify:artist:0CliOhi161ZCRIVw60prp0"
+        }
+      ]
+    }
+  ]
+}

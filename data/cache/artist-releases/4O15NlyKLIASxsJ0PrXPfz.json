@@ -1,0 +1,503 @@
+{
+  "artist_id": "4O15NlyKLIASxsJ0PrXPfz",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "href": "https://api.spotify.com/v1/albums/7awBKnBq0qRLNyD5lI47R0",
+      "id": "7awBKnBq0qRLNyD5lI47R0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d0e180ed5e8ebe84010fdd19",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d0e180ed5e8ebe84010fdd19",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d0e180ed5e8ebe84010fdd19",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Eternal Atake 2",
+      "release_date": "2024-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7awBKnBq0qRLNyD5lI47R0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ua5bFkZLZl1lIgKWtYZIz",
+      "id": "2ua5bFkZLZl1lIgKWtYZIz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d7f97f84ffeaf2077813ef24",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d7f97f84ffeaf2077813ef24",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d7f97f84ffeaf2077813ef24",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pink Tape",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2ua5bFkZLZl1lIgKWtYZIz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt"
+      },
+      "href": "https://api.spotify.com/v1/albums/48xpWR8K6CGpy3ETAym3pt",
+      "id": "48xpWR8K6CGpy3ETAym3pt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738e4e22aaf61c8717bdb7442c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028e4e22aaf61c8717bdb7442c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518e4e22aaf61c8717bdb7442c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pluto x Baby Pluto",
+      "release_date": "2020-11-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:48xpWR8K6CGpy3ETAym3pt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
+      },
+      "href": "https://api.spotify.com/v1/albums/3aITAVBURujVe8fhI2seeR",
+      "id": "3aITAVBURujVe8fhI2seeR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d78a9573e04175b6ffe114dd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d78a9573e04175b6ffe114dd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d78a9573e04175b6ffe114dd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pluto x Baby Pluto (Deluxe)",
+      "release_date": "2020-11-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3aITAVBURujVe8fhI2seeR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 32,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
+      },
+      "href": "https://api.spotify.com/v1/albums/0fEO7g2c5onkaXsybEtuD2",
+      "id": "0fEO7g2c5onkaXsybEtuD2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273128d95d09561d556c65bc08b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02128d95d09561d556c65bc08b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851128d95d09561d556c65bc08b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+      "release_date": "2020-03-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0fEO7g2c5onkaXsybEtuD2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
+      },
+      "href": "https://api.spotify.com/v1/albums/7IyoGB8J31fvQDwGtHAq9m",
+      "id": "7IyoGB8J31fvQDwGtHAq9m",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025267529d83ab73cf102fcbbd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515267529d83ab73cf102fcbbd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Eternal Atake",
+      "release_date": "2020-03-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7IyoGB8J31fvQDwGtHAq9m",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "href": "https://api.spotify.com/v1/albums/733e1ZfktLSwj96X5rsMeE",
+      "id": "733e1ZfktLSwj96X5rsMeE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f23aee9d3be9fcbca1bc6352",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f23aee9d3be9fcbca1bc6352",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Luv Is Rage 2",
+      "release_date": "2017-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:733e1ZfktLSwj96X5rsMeE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
+      },
+      "href": "https://api.spotify.com/v1/albums/0zicd2mBV8HTzSubByj4vP",
+      "id": "0zicd2mBV8HTzSubByj4vP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d7e1c68ed8e464b03095afda",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d7e1c68ed8e464b03095afda",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d7e1c68ed8e464b03095afda",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Luv Is Rage 2 (Deluxe)",
+      "release_date": "2017-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0zicd2mBV8HTzSubByj4vP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
+      },
+      "href": "https://api.spotify.com/v1/albums/6LX75kNicFqjjiAOeZgN67",
+      "id": "6LX75kNicFqjjiAOeZgN67",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737efae18357229ecafd0eb31e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027efae18357229ecafd0eb31e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517efae18357229ecafd0eb31e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Perfect LUV Tape",
+      "release_date": "2016-08-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6LX75kNicFqjjiAOeZgN67",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
+      },
+      "href": "https://api.spotify.com/v1/albums/7mgdTKTCdfnLoa1HXHvLYM",
+      "id": "7mgdTKTCdfnLoa1HXHvLYM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc3a56b8b1c442030716c98b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc3a56b8b1c442030716c98b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fc3a56b8b1c442030716c98b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lil Uzi Vert vs. The World",
+      "release_date": "2016-05-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7mgdTKTCdfnLoa1HXHvLYM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WrbKW1nRN4vSsu70uizxX",
+      "id": "5WrbKW1nRN4vSsu70uizxX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b9e2cd3c76bc7e3c1c52f95",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026b9e2cd3c76bc7e3c1c52f95",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516b9e2cd3c76bc7e3c1c52f95",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Luv Is Rage",
+      "release_date": "2015-12-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WrbKW1nRN4vSsu70uizxX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ]
+    }
+  ]
+}

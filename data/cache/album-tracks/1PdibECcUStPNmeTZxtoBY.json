@@ -1,0 +1,774 @@
+{
+  "album_id": "1PdibECcUStPNmeTZxtoBY",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 123350,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3j84JcEML5C0cna51BR1jN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3j84JcEML5C0cna51BR1jN",
+      "id": "3j84JcEML5C0cna51BR1jN",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3j84JcEML5C0cna51BR1jN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222824,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Ix9xz5rnS4sVpMAUmKBBt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Ix9xz5rnS4sVpMAUmKBBt",
+      "id": "3Ix9xz5rnS4sVpMAUmKBBt",
+      "name": "Head Shots",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3Ix9xz5rnS4sVpMAUmKBBt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178050,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7s8LjURv3d1kZNCraXtNrH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7s8LjURv3d1kZNCraXtNrH",
+      "id": "7s8LjURv3d1kZNCraXtNrH",
+      "name": "Money Habits",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7s8LjURv3d1kZNCraXtNrH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200594,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0XjT3yORG2hD9dwKHUdNnk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0XjT3yORG2hD9dwKHUdNnk",
+      "id": "0XjT3yORG2hD9dwKHUdNnk",
+      "name": "Crazy",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0XjT3yORG2hD9dwKHUdNnk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          },
+          "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241972,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/73Ylfpw1nyepxGaQ5R6oPA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/73Ylfpw1nyepxGaQ5R6oPA",
+      "id": "73Ylfpw1nyepxGaQ5R6oPA",
+      "name": "Get Money Ni**a",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:73Ylfpw1nyepxGaQ5R6oPA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2naY9lFKCHLTW4xeWyfLbn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2naY9lFKCHLTW4xeWyfLbn",
+      "id": "2naY9lFKCHLTW4xeWyfLbn",
+      "name": "Rolly Up",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2naY9lFKCHLTW4xeWyfLbn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229041,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RsCs0SdSK91vp0Ng8IUai"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3RsCs0SdSK91vp0Ng8IUai",
+      "id": "3RsCs0SdSK91vp0Ng8IUai",
+      "name": "Fuck the World",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3RsCs0SdSK91vp0Ng8IUai",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+          "id": "3aQeKQSyrW4qWr35idm0cy",
+          "name": "T-Pain",
+          "type": "artist",
+          "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160862,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48DmycuS4cOVnj67ynwNoZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48DmycuS4cOVnj67ynwNoZ",
+      "id": "48DmycuS4cOVnj67ynwNoZ",
+      "name": "Act Up",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:48DmycuS4cOVnj67ynwNoZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EgUow5z0SXVA9lunNSB1q"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EgUow5z0SXVA9lunNSB1q",
+          "id": "0EgUow5z0SXVA9lunNSB1q",
+          "name": "Verse Simmonds",
+          "type": "artist",
+          "uri": "spotify:artist:0EgUow5z0SXVA9lunNSB1q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204251,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5q6rqaXlvcXPXAQYnLIunu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5q6rqaXlvcXPXAQYnLIunu",
+      "id": "5q6rqaXlvcXPXAQYnLIunu",
+      "name": "Never See",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5q6rqaXlvcXPXAQYnLIunu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
+          },
+          "href": "https://api.spotify.com/v1/artists/2teIxF2qgr0rYmTTMKiZ7s",
+          "id": "2teIxF2qgr0rYmTTMKiZ7s",
+          "name": "Kevin McCall",
+          "type": "artist",
+          "uri": "spotify:artist:2teIxF2qgr0rYmTTMKiZ7s"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 174654,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Lwne8JMJjwV8qN2Z30sS6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Lwne8JMJjwV8qN2Z30sS6",
+      "id": "2Lwne8JMJjwV8qN2Z30sS6",
+      "name": "That's That",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2Lwne8JMJjwV8qN2Z30sS6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167601,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1vfokRWk3lJE41A8yEht4K"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1vfokRWk3lJE41A8yEht4K",
+      "id": "1vfokRWk3lJE41A8yEht4K",
+      "name": "Servin",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1vfokRWk3lJE41A8yEht4K",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ldQL0icSoMz9OOZcWG8Zt",
+          "id": "0ldQL0icSoMz9OOZcWG8Zt",
+          "name": "Yung Fresh",
+          "type": "artist",
+          "uri": "spotify:artist:0ldQL0icSoMz9OOZcWG8Zt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237557,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1eG6v3whKB8o1GWOnC2A4n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1eG6v3whKB8o1GWOnC2A4n",
+      "id": "1eG6v3whKB8o1GWOnC2A4n",
+      "name": "Shooter",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1eG6v3whKB8o1GWOnC2A4n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+          },
+          "href": "https://api.spotify.com/v1/artists/49vCIUW46QY3L5vo1xVFoy",
+          "id": "49vCIUW46QY3L5vo1xVFoy",
+          "name": "Trae Tha Truth",
+          "type": "artist",
+          "uri": "spotify:artist:49vCIUW46QY3L5vo1xVFoy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233404,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5rIuTIDNTq1ey5DqTgg4Xz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5rIuTIDNTq1ey5DqTgg4Xz",
+      "id": "5rIuTIDNTq1ey5DqTgg4Xz",
+      "name": "Dead Man",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5rIuTIDNTq1ey5DqTgg4Xz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197955,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2fP7cj8LkeI1BYFqIl3Onk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2fP7cj8LkeI1BYFqIl3Onk",
+      "id": "2fP7cj8LkeI1BYFqIl3Onk",
+      "name": "Baby Wipes",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2fP7cj8LkeI1BYFqIl3Onk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268852,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/73P1DhtzIjPFq1ip7XdBHk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/73P1DhtzIjPFq1ip7XdBHk",
+      "id": "73P1DhtzIjPFq1ip7XdBHk",
+      "name": "Don't Trust",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:73P1DhtzIjPFq1ip7XdBHk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187689,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6KshyiBpgwRxk5PKuYToi1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6KshyiBpgwRxk5PKuYToi1",
+      "id": "6KshyiBpgwRxk5PKuYToi1",
+      "name": "Suckaz",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6KshyiBpgwRxk5PKuYToi1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231392,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pkivQGFJ13LUntisA8Ed7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5pkivQGFJ13LUntisA8Ed7",
+      "id": "5pkivQGFJ13LUntisA8Ed7",
+      "name": "Gas and Mud",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:5pkivQGFJ13LUntisA8Ed7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2r8r62VGJKGi463aH1HJUZ",
+          "id": "2r8r62VGJKGi463aH1HJUZ",
+          "name": "Kirko Bangz",
+          "type": "artist",
+          "uri": "spotify:artist:2r8r62VGJKGi463aH1HJUZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6f4XkbvYlXMH0QgVRzW0sM",
+          "id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "Waka Flocka Flame",
+          "type": "artist",
+          "uri": "spotify:artist:6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231209,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7KAys15fczJQLz6F5f8KSt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7KAys15fczJQLz6F5f8KSt",
+      "id": "7KAys15fczJQLz6F5f8KSt",
+      "name": "Fuck Something",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:7KAys15fczJQLz6F5f8KSt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217234,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0iqTkPRUQ0i3WD3V7bcORd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0iqTkPRUQ0i3WD3V7bcORd",
+      "id": "0iqTkPRUQ0i3WD3V7bcORd",
+      "name": "I Fuck With That",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:0iqTkPRUQ0i3WD3V7bcORd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286223,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58DA217PIK8cPI3bezhpa0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58DA217PIK8cPI3bezhpa0",
+      "id": "58DA217PIK8cPI3bezhpa0",
+      "name": "Get Lost",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:58DA217PIK8cPI3bezhpa0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260728,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/06EihCiDiAwnlVZQ1p6uBc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/06EihCiDiAwnlVZQ1p6uBc",
+      "id": "06EihCiDiAwnlVZQ1p6uBc",
+      "name": "Truth",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:06EihCiDiAwnlVZQ1p6uBc",
+      "is_local": false
+    }
+  ]
+}

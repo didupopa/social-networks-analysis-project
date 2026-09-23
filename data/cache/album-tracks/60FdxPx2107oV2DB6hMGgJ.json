@@ -1,0 +1,934 @@
+{
+  "album_id": "60FdxPx2107oV2DB6hMGgJ",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 26320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/60j8r55NkDPwhgimp2CgOl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/60j8r55NkDPwhgimp2CgOl",
+      "id": "60j8r55NkDPwhgimp2CgOl",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:60j8r55NkDPwhgimp2CgOl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+          },
+          "href": "https://api.spotify.com/v1/artists/0BEI7i5sgUuivcfwXLzFmM",
+          "id": "0BEI7i5sgUuivcfwXLzFmM",
+          "name": "Serj Tankian",
+          "type": "artist",
+          "uri": "spotify:artist:0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+          },
+          "href": "https://api.spotify.com/v1/artists/72T7x96EAqN2UWvAgobYfv",
+          "id": "72T7x96EAqN2UWvAgobYfv",
+          "name": "Sizzla",
+          "type": "artist",
+          "uri": "spotify:artist:72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 315520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0p0WbNnbng1olodxSiw1XF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0p0WbNnbng1olodxSiw1XF",
+      "id": "0p0WbNnbng1olodxSiw1XF",
+      "name": "Riot (feat. Serj Tankian & Sizzla)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0p0WbNnbng1olodxSiw1XF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KlUwB6uFECMC3zzvFvykx",
+          "id": "1KlUwB6uFECMC3zzvFvykx",
+          "name": "Niia",
+          "type": "artist",
+          "uri": "spotify:artist:1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239440,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0dOuP18lbOrj3jDchYCnIS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0dOuP18lbOrj3jDchYCnIS",
+      "id": "0dOuP18lbOrj3jDchYCnIS",
+      "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0dOuP18lbOrj3jDchYCnIS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+          },
+          "href": "https://api.spotify.com/v1/artists/72T7x96EAqN2UWvAgobYfv",
+          "id": "72T7x96EAqN2UWvAgobYfv",
+          "name": "Sizzla",
+          "type": "artist",
+          "uri": "spotify:artist:72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2bXTAyVmuv7zSXGRBx1EhJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2bXTAyVmuv7zSXGRBx1EhJ",
+      "id": "2bXTAyVmuv7zSXGRBx1EhJ",
+      "name": "Welcome To The East (feat. Sizzla)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2bXTAyVmuv7zSXGRBx1EhJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 317466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1sRVsUWAnnlrCmsUi6NuBK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1sRVsUWAnnlrCmsUi6NuBK",
+      "id": "1sRVsUWAnnlrCmsUi6NuBK",
+      "name": "Slow Down (feat. T.I.)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1sRVsUWAnnlrCmsUi6NuBK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0srOuj1IuWI0TBfyjzmQZz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0srOuj1IuWI0TBfyjzmQZz",
+      "id": "0srOuj1IuWI0TBfyjzmQZz",
+      "name": "King & Queen (feat. Shakira)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0srOuj1IuWI0TBfyjzmQZz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI",
+          "name": "Paul Simon",
+          "type": "artist",
+          "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FngQDsPMuQaidi8YGNW7w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6FngQDsPMuQaidi8YGNW7w",
+      "id": "6FngQDsPMuQaidi8YGNW7w",
+      "name": "Fast Car (feat. Paul Simon)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6FngQDsPMuQaidi8YGNW7w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+          "id": "1XkoF8ryArs86LZvFOkbyr",
+          "name": "Mary J. Blige",
+          "type": "artist",
+          "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4aTNcpr3CsyKzQzC2ETpjk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4aTNcpr3CsyKzQzC2ETpjk",
+      "id": "4aTNcpr3CsyKzQzC2ETpjk",
+      "name": "What About The Baby (feat. Mary J. Blige)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4aTNcpr3CsyKzQzC2ETpjk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vdMPayKk8YJxxeNP5oMCb",
+          "id": "6vdMPayKk8YJxxeNP5oMCb",
+          "name": "Chamillionaire",
+          "type": "artist",
+          "uri": "spotify:artist:6vdMPayKk8YJxxeNP5oMCb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tma2wxDchrifG8Pflic4Q",
+          "id": "4tma2wxDchrifG8Pflic4Q",
+          "name": "Aadesh Shrivastava",
+          "type": "artist",
+          "uri": "spotify:artist:4tma2wxDchrifG8Pflic4Q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 293053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6xPoWgsh8szVsOkeuPMyrF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6xPoWgsh8szVsOkeuPMyrF",
+      "id": "6xPoWgsh8szVsOkeuPMyrF",
+      "name": "Hollywood Meets Bollywood (Immigration) (feat. Chamillionaire & Aadesh Shrivastava)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6xPoWgsh8szVsOkeuPMyrF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Kx7MNY7cI1ENniW7vT30N",
+          "id": "2Kx7MNY7cI1ENniW7vT30N",
+          "name": "Norah Jones",
+          "type": "artist",
+          "uri": "spotify:artist:2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6C9ZHxhHx9pRsQTgYPZOsI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6C9ZHxhHx9pRsQTgYPZOsI",
+      "id": "6C9ZHxhHx9pRsQTgYPZOsI",
+      "name": "Any Other Day (feat. Norah Jones)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6C9ZHxhHx9pRsQTgYPZOsI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 287506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1HLHOJdCAbUVXLC51tEDCR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1HLHOJdCAbUVXLC51tEDCR",
+      "id": "1HLHOJdCAbUVXLC51tEDCR",
+      "name": "Heaven's In New York",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1HLHOJdCAbUVXLC51tEDCR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nNADjkJmLkLPnDAzUV612"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nNADjkJmLkLPnDAzUV612",
+          "id": "1nNADjkJmLkLPnDAzUV612",
+          "name": "Melissa Jimenez",
+          "type": "artist",
+          "uri": "spotify:artist:1nNADjkJmLkLPnDAzUV612"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244786,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HofQWkrmQpKEzYQyBvrlm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HofQWkrmQpKEzYQyBvrlm",
+      "id": "3HofQWkrmQpKEzYQyBvrlm",
+      "name": "Selena (feat. Melissa Jimenez)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3HofQWkrmQpKEzYQyBvrlm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          },
+          "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
+          "id": "085pc2PYOi8bGKj0PNjekA",
+          "name": "will.i.am",
+          "type": "artist",
+          "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nNADjkJmLkLPnDAzUV612"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nNADjkJmLkLPnDAzUV612",
+          "id": "1nNADjkJmLkLPnDAzUV612",
+          "name": "Melissa Jimenez",
+          "type": "artist",
+          "uri": "spotify:artist:1nNADjkJmLkLPnDAzUV612"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+          "id": "6wxP7SSzfvi21Cnl8JicdQ",
+          "name": "Machel Montano",
+          "type": "artist",
+          "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2krrkKvM52JgvfGu2Uewbg",
+          "id": "2krrkKvM52JgvfGu2Uewbg",
+          "name": "Daniela Mercury",
+          "type": "artist",
+          "uri": "spotify:artist:2krrkKvM52JgvfGu2Uewbg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4h9F4B1Fwa5WuSEJy1ene9"
+          },
+          "href": "https://api.spotify.com/v1/artists/4h9F4B1Fwa5WuSEJy1ene9",
+          "id": "4h9F4B1Fwa5WuSEJy1ene9",
+          "name": "Black Alex",
+          "type": "artist",
+          "uri": "spotify:artist:4h9F4B1Fwa5WuSEJy1ene9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6V5n3LkJ2sTG6PfvnSjRPe",
+          "id": "6V5n3LkJ2sTG6PfvnSjRPe",
+          "name": "Djakout Mizik",
+          "type": "artist",
+          "uri": "spotify:artist:6V5n3LkJ2sTG6PfvnSjRPe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 809586,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3dPLy0dV2E2n9fZVlY02Re"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3dPLy0dV2E2n9fZVlY02Re",
+      "id": "3dPLy0dV2E2n9fZVlY02Re",
+      "name": "Touch Your Button Carnival Jam (feat. will.i.am, Melissa Jimenez, Machel Montano, Daniela Mercury, Black Alex & Djakout Mizik)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3dPLy0dV2E2n9fZVlY02Re",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 22106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pn6lxnR9GZJ4UMl02rF8Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pn6lxnR9GZJ4UMl02rF8Z",
+      "id": "4pn6lxnR9GZJ4UMl02rF8Z",
+      "name": "Outro",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4pn6lxnR9GZJ4UMl02rF8Z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nbhCNXWLMuNiXyPwTK0ud",
+          "id": "5nbhCNXWLMuNiXyPwTK0ud",
+          "name": "African Children's Choir",
+          "type": "artist",
+          "uri": "spotify:artist:5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0WcP7xBo8ah0cdyOv8qY7S"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0WcP7xBo8ah0cdyOv8qY7S",
+      "id": "0WcP7xBo8ah0cdyOv8qY7S",
+      "name": "Million Voices (feat. African Children's Choir)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0WcP7xBo8ah0cdyOv8qY7S",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218093,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mQCMEc2u61kMKFOpr9Hxn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mQCMEc2u61kMKFOpr9Hxn",
+      "id": "4mQCMEc2u61kMKFOpr9Hxn",
+      "name": "Emmanuelle",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:4mQCMEc2u61kMKFOpr9Hxn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+          "id": "2yQf6b8hxahZaT5dHlWaB1",
+          "name": "Raekwon",
+          "type": "artist",
+          "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KlUwB6uFECMC3zzvFvykx",
+          "id": "1KlUwB6uFECMC3zzvFvykx",
+          "name": "Niia",
+          "type": "artist",
+          "uri": "spotify:artist:1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3E70jOhAYb9zJYZpqhOQVb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3E70jOhAYb9zJYZpqhOQVb",
+      "id": "3E70jOhAYb9zJYZpqhOQVb",
+      "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil Wayne, Raekwon & Niia) - Remix",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:3E70jOhAYb9zJYZpqhOQVb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/60OcSkDXUznixDpkykCnx1"
+          },
+          "href": "https://api.spotify.com/v1/artists/60OcSkDXUznixDpkykCnx1",
+          "id": "60OcSkDXUznixDpkykCnx1",
+          "name": "Sun",
+          "type": "artist",
+          "uri": "spotify:artist:60OcSkDXUznixDpkykCnx1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NOvBZrkd83MSD51xkq4on",
+          "id": "6NOvBZrkd83MSD51xkq4on",
+          "name": "Elephant Man",
+          "type": "artist",
+          "uri": "spotify:artist:6NOvBZrkd83MSD51xkq4on"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+          },
+          "href": "https://api.spotify.com/v1/artists/6taesTUSevB9eK8bm5Y7b9",
+          "id": "6taesTUSevB9eK8bm5Y7b9",
+          "name": "Tony Matterhorn",
+          "type": "artist",
+          "uri": "spotify:artist:6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/11HaDAyqRGRA0mwkPcwFF2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/11HaDAyqRGRA0mwkPcwFF2",
+      "id": "11HaDAyqRGRA0mwkPcwFF2",
+      "name": "China Wine (feat. Sun, Elephant Man & Tony Matterhorn)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:11HaDAyqRGRA0mwkPcwFF2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3fQb1jncmsPw6EuZGTuYHV"
+          },
+          "href": "https://api.spotify.com/v1/artists/3fQb1jncmsPw6EuZGTuYHV",
+          "id": "3fQb1jncmsPw6EuZGTuYHV",
+          "name": "Lucina",
+          "type": "artist",
+          "uri": "spotify:artist:3fQb1jncmsPw6EuZGTuYHV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3OXXkhLNELRhJJWiMyoOu2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3OXXkhLNELRhJJWiMyoOu2",
+      "id": "3OXXkhLNELRhJJWiMyoOu2",
+      "name": "On Tour (feat. Lucina)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:3OXXkhLNELRhJJWiMyoOu2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KlUwB6uFECMC3zzvFvykx",
+          "id": "1KlUwB6uFECMC3zzvFvykx",
+          "name": "Niia",
+          "type": "artist",
+          "uri": "spotify:artist:1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5QRb6xxfxoWxMWys2rURNW"
+          },
+          "href": "https://api.spotify.com/v1/artists/5QRb6xxfxoWxMWys2rURNW",
+          "id": "5QRb6xxfxoWxMWys2rURNW",
+          "name": "George Mena",
+          "type": "artist",
+          "uri": "spotify:artist:5QRb6xxfxoWxMWys2rURNW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/690p2zl6AXo2drH0ap9T2y"
+          },
+          "href": "https://api.spotify.com/v1/artists/690p2zl6AXo2drH0ap9T2y",
+          "id": "690p2zl6AXo2drH0ap9T2y",
+          "name": "Franke Estevez",
+          "type": "artist",
+          "uri": "spotify:artist:690p2zl6AXo2drH0ap9T2y"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 372160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4pSR1qcZyrnC0ThKhZY8c5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4pSR1qcZyrnC0ThKhZY8c5",
+      "id": "4pSR1qcZyrnC0ThKhZY8c5",
+      "name": "Sweetest Girl (Dollar Bill) (feat. Akon & Niia) - George Mena & Franke Estevez Fuzion Remix",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:4pSR1qcZyrnC0ThKhZY8c5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KlUwB6uFECMC3zzvFvykx",
+          "id": "1KlUwB6uFECMC3zzvFvykx",
+          "name": "Niia",
+          "type": "artist",
+          "uri": "spotify:artist:1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+          },
+          "href": "https://api.spotify.com/v1/artists/19T6vS2Umo5usI9wOVnKMd",
+          "id": "19T6vS2Umo5usI9wOVnKMd",
+          "name": "Maurice Joshua",
+          "type": "artist",
+          "uri": "spotify:artist:19T6vS2Umo5usI9wOVnKMd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 450720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5F3T3caFMsFgnrYRxAhFQn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5F3T3caFMsFgnrYRxAhFQn",
+      "id": "5F3T3caFMsFgnrYRxAhFQn",
+      "name": "Sweetest Girl (Dollar Bill) (feat. Akon & Niia) - Maurice's NuSoul Remix",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:5F3T3caFMsFgnrYRxAhFQn",
+      "is_local": false
+    }
+  ]
+}

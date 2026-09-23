@@ -1,0 +1,73 @@
+{
+  "artist_id": "3fCQnw6VSudXBTN5d2QP2z",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/66LQDThXv6sqONyHFTJkNy"
+      },
+      "href": "https://api.spotify.com/v1/albums/66LQDThXv6sqONyHFTJkNy",
+      "id": "66LQDThXv6sqONyHFTJkNy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec6168fcbbb11f3b9588161b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec6168fcbbb11f3b9588161b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ec6168fcbbb11f3b9588161b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "How To Get To Heaven From Belfast (Soundtrack from the Netflix Series)",
+      "release_date": "2026-02-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:66LQDThXv6sqONyHFTJkNy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt"
+          },
+          "href": "https://api.spotify.com/v1/artists/2a5yyDrTuWCLGXOIGLpnBt",
+          "id": "2a5yyDrTuWCLGXOIGLpnBt",
+          "name": "Sion Trefor",
+          "type": "artist",
+          "uri": "spotify:artist:2a5yyDrTuWCLGXOIGLpnBt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z"
+          },
+          "href": "https://api.spotify.com/v1/artists/3fCQnw6VSudXBTN5d2QP2z",
+          "id": "3fCQnw6VSudXBTN5d2QP2z",
+          "name": "Gary Lightbody",
+          "type": "artist",
+          "uri": "spotify:artist:3fCQnw6VSudXBTN5d2QP2z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HjQF3JxGmwvLYz06WemNn"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HjQF3JxGmwvLYz06WemNn",
+          "id": "5HjQF3JxGmwvLYz06WemNn",
+          "name": "Iain Archer",
+          "type": "artist",
+          "uri": "spotify:artist:5HjQF3JxGmwvLYz06WemNn"
+        }
+      ]
+    }
+  ]
+}

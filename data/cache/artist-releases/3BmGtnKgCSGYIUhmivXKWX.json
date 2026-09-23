@@ -4,7 +4,7 @@
     "include_groups": "album"
   },
   "next_offset": 10,
-  "completed": false,
+  "completed": true,
   "items": [
     {
       "album_type": "album",
@@ -423,6 +423,135 @@
       "release_date_precision": "day",
       "type": "album",
       "uri": "spotify:album:4h8seeFAi6iYhslcWIxTSG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+          "id": "3BmGtnKgCSGYIUhmivXKWX",
+          "name": "Kelly Clarkson",
+          "type": "artist",
+          "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4LgTmVlUlNWsfriBJ0jury"
+      },
+      "href": "https://api.spotify.com/v1/albums/4LgTmVlUlNWsfriBJ0jury",
+      "id": "4LgTmVlUlNWsfriBJ0jury",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ded83be3055a4884d131009",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024ded83be3055a4884d131009",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514ded83be3055a4884d131009",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "My December",
+      "release_date": "2007",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:4LgTmVlUlNWsfriBJ0jury",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+          "id": "3BmGtnKgCSGYIUhmivXKWX",
+          "name": "Kelly Clarkson",
+          "type": "artist",
+          "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5qGoSeemjTGVwviJL10w0r"
+      },
+      "href": "https://api.spotify.com/v1/albums/5qGoSeemjTGVwviJL10w0r",
+      "id": "5qGoSeemjTGVwviJL10w0r",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec7178dacb8672fbbcef48c9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec7178dacb8672fbbcef48c9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ec7178dacb8672fbbcef48c9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Breakaway",
+      "release_date": "2004",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:5qGoSeemjTGVwviJL10w0r",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+          "id": "3BmGtnKgCSGYIUhmivXKWX",
+          "name": "Kelly Clarkson",
+          "type": "artist",
+          "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hD5StpsTxDFzP9vMcIJBz"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hD5StpsTxDFzP9vMcIJBz",
+      "id": "0hD5StpsTxDFzP9vMcIJBz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d7397bdbebcfaaf3abd9c5f0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d7397bdbebcfaaf3abd9c5f0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d7397bdbebcfaaf3abd9c5f0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Thankful",
+      "release_date": "2003-09-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0hD5StpsTxDFzP9vMcIJBz",
       "artists": [
         {
           "external_urls": {

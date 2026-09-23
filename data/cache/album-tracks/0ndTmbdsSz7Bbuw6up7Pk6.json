@@ -1,0 +1,742 @@
+{
+  "album_id": "0ndTmbdsSz7Bbuw6up7Pk6",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip"
+          },
+          "href": "https://api.spotify.com/v1/artists/7xN8vFwslE67EC3DhgB9Ip",
+          "id": "7xN8vFwslE67EC3DhgB9Ip",
+          "name": "Doug E. Fresh",
+          "type": "artist",
+          "uri": "spotify:artist:7xN8vFwslE67EC3DhgB9Ip"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fDF0jjmdouCIeWhNnblwV",
+          "id": "0fDF0jjmdouCIeWhNnblwV",
+          "name": "Buckethead",
+          "type": "artist",
+          "uri": "spotify:artist:0fDF0jjmdouCIeWhNnblwV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51sw8ONhN2evyzLeal8ZjB"
+          },
+          "href": "https://api.spotify.com/v1/artists/51sw8ONhN2evyzLeal8ZjB",
+          "id": "51sw8ONhN2evyzLeal8ZjB",
+          "name": "Alissia Benveniste",
+          "type": "artist",
+          "uri": "spotify:artist:51sw8ONhN2evyzLeal8ZjB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 319960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2znnomJ9xtQPix2tYsnBke"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2znnomJ9xtQPix2tYsnBke",
+      "id": "2znnomJ9xtQPix2tYsnBke",
+      "name": "World Wide Funk",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2znnomJ9xtQPix2tYsnBke",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+          },
+          "href": "https://api.spotify.com/v1/artists/2STVYmc2T02GlvvWZl7umj",
+          "id": "2STVYmc2T02GlvvWZl7umj",
+          "name": "Victor Wooten",
+          "type": "artist",
+          "uri": "spotify:artist:2STVYmc2T02GlvvWZl7umj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lGt9WgdYGpMnmwGkcCm05",
+          "id": "1lGt9WgdYGpMnmwGkcCm05",
+          "name": "Stanley Clarke",
+          "type": "artist",
+          "uri": "spotify:artist:1lGt9WgdYGpMnmwGkcCm05"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dkbTeaqv4OmF0f3cwwAa4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dkbTeaqv4OmF0f3cwwAa4",
+          "id": "4dkbTeaqv4OmF0f3cwwAa4",
+          "name": "Manou Gallo",
+          "type": "artist",
+          "uri": "spotify:artist:4dkbTeaqv4OmF0f3cwwAa4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51sw8ONhN2evyzLeal8ZjB"
+          },
+          "href": "https://api.spotify.com/v1/artists/51sw8ONhN2evyzLeal8ZjB",
+          "id": "51sw8ONhN2evyzLeal8ZjB",
+          "name": "Alissia Benveniste",
+          "type": "artist",
+          "uri": "spotify:artist:51sw8ONhN2evyzLeal8ZjB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KIcAColMq4C5Mu4QMQt9y"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KIcAColMq4C5Mu4QMQt9y",
+          "id": "6KIcAColMq4C5Mu4QMQt9y",
+          "name": "World-Wide-Funkdrive",
+          "type": "artist",
+          "uri": "spotify:artist:6KIcAColMq4C5Mu4QMQt9y"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WTFegdC6GhgbL7s6EhR4Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WTFegdC6GhgbL7s6EhR4Y",
+      "id": "2WTFegdC6GhgbL7s6EhR4Y",
+      "name": "Bass-Rigged-System",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2WTFegdC6GhgbL7s6EhR4Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WbeGaye1H1KUdYWzYlTmk",
+          "id": "0WbeGaye1H1KUdYWzYlTmk",
+          "name": "Dru Down",
+          "type": "artist",
+          "uri": "spotify:artist:0WbeGaye1H1KUdYWzYlTmk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RTO4q7rJf9K18w35ASak0"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RTO4q7rJf9K18w35ASak0",
+          "id": "3RTO4q7rJf9K18w35ASak0",
+          "name": "BlvckSeeds",
+          "type": "artist",
+          "uri": "spotify:artist:3RTO4q7rJf9K18w35ASak0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZGbMG70LcEEo7SBIE3jMH",
+          "id": "3ZGbMG70LcEEo7SBIE3jMH",
+          "name": "Mr. Talkbox",
+          "type": "artist",
+          "uri": "spotify:artist:3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 390520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4V57QQNl5BsC6SGgVQGyzK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4V57QQNl5BsC6SGgVQGyzK",
+      "id": "4V57QQNl5BsC6SGgVQGyzK",
+      "name": "Pusherman",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4V57QQNl5BsC6SGgVQGyzK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0p3RZJJ925jC5iUznKjxDJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0p3RZJJ925jC5iUznKjxDJ",
+          "id": "0p3RZJJ925jC5iUznKjxDJ",
+          "name": "Tyshawn Colquitt",
+          "type": "artist",
+          "uri": "spotify:artist:0p3RZJJ925jC5iUznKjxDJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51sw8ONhN2evyzLeal8ZjB"
+          },
+          "href": "https://api.spotify.com/v1/artists/51sw8ONhN2evyzLeal8ZjB",
+          "id": "51sw8ONhN2evyzLeal8ZjB",
+          "name": "Alissia Benveniste",
+          "type": "artist",
+          "uri": "spotify:artist:51sw8ONhN2evyzLeal8ZjB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0FkCJy8HgVdqolTKg8lIDG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0FkCJy8HgVdqolTKg8lIDG",
+      "id": "0FkCJy8HgVdqolTKg8lIDG",
+      "name": "Thera-P",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0FkCJy8HgVdqolTKg8lIDG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+          },
+          "href": "https://api.spotify.com/v1/artists/6futYSDVulYR2PktBjTB5W",
+          "id": "6futYSDVulYR2PktBjTB5W",
+          "name": "Big Daddy Kane",
+          "type": "artist",
+          "uri": "spotify:artist:6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 294400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61jPuSarAcUOpHOO19P5er"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61jPuSarAcUOpHOO19P5er",
+      "id": "61jPuSarAcUOpHOO19P5er",
+      "name": "Hot Saucer",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:61jPuSarAcUOpHOO19P5er",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1NrDuTlxzPEjXcpKQHis5z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1NrDuTlxzPEjXcpKQHis5z",
+      "id": "1NrDuTlxzPEjXcpKQHis5z",
+      "name": "Heaven Yes",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1NrDuTlxzPEjXcpKQHis5z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+          },
+          "href": "https://api.spotify.com/v1/artists/4XqfpACObRB5AsBcUYjL8X",
+          "id": "4XqfpACObRB5AsBcUYjL8X",
+          "name": "MC Eiht",
+          "type": "artist",
+          "uri": "spotify:artist:4XqfpACObRB5AsBcUYjL8X"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RTO4q7rJf9K18w35ASak0"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RTO4q7rJf9K18w35ASak0",
+          "id": "3RTO4q7rJf9K18w35ASak0",
+          "name": "BlvckSeeds",
+          "type": "artist",
+          "uri": "spotify:artist:3RTO4q7rJf9K18w35ASak0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0NZbaW8camNQ50wr4FjRJc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0NZbaW8camNQ50wr4FjRJc",
+      "id": "0NZbaW8camNQ50wr4FjRJc",
+      "name": "Ladies Nite",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0NZbaW8camNQ50wr4FjRJc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RIDkJZA8B5iUOqc9aabF6"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RIDkJZA8B5iUOqc9aabF6",
+          "id": "2RIDkJZA8B5iUOqc9aabF6",
+          "name": "X-Zact",
+          "type": "artist",
+          "uri": "spotify:artist:2RIDkJZA8B5iUOqc9aabF6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "type": "artist",
+          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KIcAColMq4C5Mu4QMQt9y"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KIcAColMq4C5Mu4QMQt9y",
+          "id": "6KIcAColMq4C5Mu4QMQt9y",
+          "name": "World-Wide-Funkdrive",
+          "type": "artist",
+          "uri": "spotify:artist:6KIcAColMq4C5Mu4QMQt9y"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2cTZgMRkkqNvNHZQRRcmC2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2cTZgMRkkqNvNHZQRRcmC2",
+      "id": "2cTZgMRkkqNvNHZQRRcmC2",
+      "name": "Candy Coated Lover",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2cTZgMRkkqNvNHZQRRcmC2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0p3RZJJ925jC5iUznKjxDJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0p3RZJJ925jC5iUznKjxDJ",
+          "id": "0p3RZJJ925jC5iUznKjxDJ",
+          "name": "Tyshawn Colquitt",
+          "type": "artist",
+          "uri": "spotify:artist:0p3RZJJ925jC5iUznKjxDJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fbkzjo8o3xKr7qQ9647uN"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fbkzjo8o3xKr7qQ9647uN",
+          "id": "1fbkzjo8o3xKr7qQ9647uN",
+          "name": "Snowbunny",
+          "type": "artist",
+          "uri": "spotify:artist:1fbkzjo8o3xKr7qQ9647uN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KIcAColMq4C5Mu4QMQt9y"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KIcAColMq4C5Mu4QMQt9y",
+          "id": "6KIcAColMq4C5Mu4QMQt9y",
+          "name": "World-Wide-Funkdrive",
+          "type": "artist",
+          "uri": "spotify:artist:6KIcAColMq4C5Mu4QMQt9y"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253320,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0GbrykeJokmauXW8gXrqxe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0GbrykeJokmauXW8gXrqxe",
+      "id": "0GbrykeJokmauXW8gXrqxe",
+      "name": "Snow Bunny",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0GbrykeJokmauXW8gXrqxe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4d5P6Zvu8cCjJRosOJFS0Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4d5P6Zvu8cCjJRosOJFS0Y",
+      "id": "4d5P6Zvu8cCjJRosOJFS0Y",
+      "name": "Hi-On-Heels - October London",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4d5P6Zvu8cCjJRosOJFS0Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QXw9SQfVfNmu4nSjj5qBr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QXw9SQfVfNmu4nSjj5qBr",
+          "id": "1QXw9SQfVfNmu4nSjj5qBr",
+          "name": "Dr. G.",
+          "type": "artist",
+          "uri": "spotify:artist:1QXw9SQfVfNmu4nSjj5qBr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vB7T6czx1Jh89YEnzM0UF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vB7T6czx1Jh89YEnzM0UF",
+          "id": "3vB7T6czx1Jh89YEnzM0UF",
+          "name": "Bernie Worrell",
+          "type": "artist",
+          "uri": "spotify:artist:3vB7T6czx1Jh89YEnzM0UF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 315053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/44aaGCIgagADrYD9jiQ7SW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/44aaGCIgagADrYD9jiQ7SW",
+      "id": "44aaGCIgagADrYD9jiQ7SW",
+      "name": "A Salute To Bernie",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:44aaGCIgagADrYD9jiQ7SW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
+          },
+          "href": "https://api.spotify.com/v1/artists/151RUyDTIDJM8gXwGJbv7z",
+          "id": "151RUyDTIDJM8gXwGJbv7z",
+          "name": "Justin Johnson",
+          "type": "artist",
+          "uri": "spotify:artist:151RUyDTIDJM8gXwGJbv7z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/768dLGpgPcZEgoBUZ5pkQV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/768dLGpgPcZEgoBUZ5pkQV",
+      "id": "768dLGpgPcZEgoBUZ5pkQV",
+      "name": "Boomerang",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:768dLGpgPcZEgoBUZ5pkQV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "type": "artist",
+          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327253,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0cFEEOlL7AkGLO17qGRFSQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0cFEEOlL7AkGLO17qGRFSQ",
+      "id": "0cFEEOlL7AkGLO17qGRFSQ",
+      "name": "Worth My While",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0cFEEOlL7AkGLO17qGRFSQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          },
+          "href": "https://api.spotify.com/v1/artists/3x8RBu8okCCBLi5vnY4UyV",
+          "id": "3x8RBu8okCCBLi5vnY4UyV",
+          "name": "Eric Gales",
+          "type": "artist",
+          "uri": "spotify:artist:3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn"
+          },
+          "href": "https://api.spotify.com/v1/artists/5tdGXBxRVers4lWxUqRMzn",
+          "id": "5tdGXBxRVers4lWxUqRMzn",
+          "name": "Dennis Chambers",
+          "type": "artist",
+          "uri": "spotify:artist:5tdGXBxRVers4lWxUqRMzn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KIcAColMq4C5Mu4QMQt9y"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KIcAColMq4C5Mu4QMQt9y",
+          "id": "6KIcAColMq4C5Mu4QMQt9y",
+          "name": "World-Wide-Funkdrive",
+          "type": "artist",
+          "uri": "spotify:artist:6KIcAColMq4C5Mu4QMQt9y"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 440520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18Q6IudI6zoAt6amJBxn1G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18Q6IudI6zoAt6amJBxn1G",
+      "id": "18Q6IudI6zoAt6amJBxn1G",
+      "name": "Come Back Bootsy",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:18Q6IudI6zoAt6amJBxn1G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K0rbdBrs2tNXe5LeWMATT",
+          "id": "5K0rbdBrs2tNXe5LeWMATT",
+          "name": "Bootsy Collins",
+          "type": "artist",
+          "uri": "spotify:artist:5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+          },
+          "href": "https://api.spotify.com/v1/artists/1JfH8gevkDviqs50A5NO0L",
+          "id": "1JfH8gevkDviqs50A5NO0L",
+          "name": "Chuck D",
+          "type": "artist",
+          "uri": "spotify:artist:1JfH8gevkDviqs50A5NO0L"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fDF0jjmdouCIeWhNnblwV",
+          "id": "0fDF0jjmdouCIeWhNnblwV",
+          "name": "Buckethead",
+          "type": "artist",
+          "uri": "spotify:artist:0fDF0jjmdouCIeWhNnblwV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RTO4q7rJf9K18w35ASak0"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RTO4q7rJf9K18w35ASak0",
+          "id": "3RTO4q7rJf9K18w35ASak0",
+          "name": "BlvckSeeds",
+          "type": "artist",
+          "uri": "spotify:artist:3RTO4q7rJf9K18w35ASak0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 366400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/50rhr4Co5vYRXCyNYM7c3c"
+      },
+      "href": "https://api.spotify.com/v1/tracks/50rhr4Co5vYRXCyNYM7c3c",
+      "id": "50rhr4Co5vYRXCyNYM7c3c",
+      "name": "Illusions",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:50rhr4Co5vYRXCyNYM7c3c",
+      "is_local": false
+    }
+  ]
+}

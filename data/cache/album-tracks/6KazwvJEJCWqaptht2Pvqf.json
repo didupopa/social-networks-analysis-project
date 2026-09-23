@@ -1,0 +1,605 @@
+{
+  "album_id": "6KazwvJEJCWqaptht2Pvqf",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cmA2QDPdzh8W2ytpyUGes",
+          "id": "4cmA2QDPdzh8W2ytpyUGes",
+          "name": "Young Scooter",
+          "type": "artist",
+          "uri": "spotify:artist:4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 122540,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mPsX4b5sNZkRnKG33MyY1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mPsX4b5sNZkRnKG33MyY1",
+      "id": "7mPsX4b5sNZkRnKG33MyY1",
+      "name": "East Atlanta (feat. Young Scooter)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7mPsX4b5sNZkRnKG33MyY1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HiuzBlSW7pGDXlSFMhO2g",
+          "id": "3HiuzBlSW7pGDXlSFMhO2g",
+          "name": "Young Dolph",
+          "type": "artist",
+          "uri": "spotify:artist:3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202135,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cN8i6jWHo1FbTJlbyqfD9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cN8i6jWHo1FbTJlbyqfD9",
+      "id": "3cN8i6jWHo1FbTJlbyqfD9",
+      "name": "New Gun (feat. Young Dolph)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3cN8i6jWHo1FbTJlbyqfD9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pnbUBPifNnlusY8kTBivi",
+          "id": "5pnbUBPifNnlusY8kTBivi",
+          "name": "Jadakiss",
+          "type": "artist",
+          "uri": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          },
+          "href": "https://api.spotify.com/v1/artists/6PXS4YHDkKvl1wkIl4V8DL",
+          "id": "6PXS4YHDkKvl1wkIl4V8DL",
+          "name": "Fetty Wap",
+          "type": "artist",
+          "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277838,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2yIHiRDv4Pvfxes6Fy8P8G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2yIHiRDv4Pvfxes6Fy8P8G",
+      "id": "2yIHiRDv4Pvfxes6Fy8P8G",
+      "name": "Young Niggas (feat. Jadakiss & Fetty Wap)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2yIHiRDv4Pvfxes6Fy8P8G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204643,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4XhRJ28VKKnEtIqqMxd6b4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4XhRJ28VKKnEtIqqMxd6b4",
+      "id": "4XhRJ28VKKnEtIqqMxd6b4",
+      "name": "Parking Lot (feat. Snoop Dogg)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4XhRJ28VKKnEtIqqMxd6b4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GMYJwaziB4ekv1Y6wCDWS",
+          "id": "6GMYJwaziB4ekv1Y6wCDWS",
+          "name": "Soulja Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183823,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4674VZziXkv4W0OayFVP2X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4674VZziXkv4W0OayFVP2X",
+      "id": "4674VZziXkv4W0OayFVP2X",
+      "name": "Born with It (feat. Soulja Boy)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4674VZziXkv4W0OayFVP2X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EgUow5z0SXVA9lunNSB1q"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EgUow5z0SXVA9lunNSB1q",
+          "id": "0EgUow5z0SXVA9lunNSB1q",
+          "name": "Verse Simmonds",
+          "type": "artist",
+          "uri": "spotify:artist:0EgUow5z0SXVA9lunNSB1q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199262,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2P6ZfzDJjUAlVuJ8DBvalg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2P6ZfzDJjUAlVuJ8DBvalg",
+      "id": "2P6ZfzDJjUAlVuJ8DBvalg",
+      "name": "Ass Everywhere (feat. Verse Simmonds)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2P6ZfzDJjUAlVuJ8DBvalg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3R3Tot9oz13A0b1xSN0Dgj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3R3Tot9oz13A0b1xSN0Dgj",
+          "id": "3R3Tot9oz13A0b1xSN0Dgj",
+          "name": "Chaz Gotti",
+          "type": "artist",
+          "uri": "spotify:artist:3R3Tot9oz13A0b1xSN0Dgj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6dEAROpleN7MH8MzqPEenS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6dEAROpleN7MH8MzqPEenS",
+          "id": "6dEAROpleN7MH8MzqPEenS",
+          "name": "K'So",
+          "type": "artist",
+          "uri": "spotify:artist:6dEAROpleN7MH8MzqPEenS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RYoN2Xx4WF2DcHXYYm6zn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RYoN2Xx4WF2DcHXYYm6zn",
+          "id": "3RYoN2Xx4WF2DcHXYYm6zn",
+          "name": "Wooh Da Kid",
+          "type": "artist",
+          "uri": "spotify:artist:3RYoN2Xx4WF2DcHXYYm6zn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259996,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5MqzRXlsWfK7gRnOS6OnUC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5MqzRXlsWfK7gRnOS6OnUC",
+      "id": "5MqzRXlsWfK7gRnOS6OnUC",
+      "name": "All in a Day (feat. Chaz Gotti, K-So & Wooh Da Kid)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5MqzRXlsWfK7gRnOS6OnUC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1X2jtj4eWSgcN5PzBCftT7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1X2jtj4eWSgcN5PzBCftT7",
+          "id": "1X2jtj4eWSgcN5PzBCftT7",
+          "name": "Lil B",
+          "type": "artist",
+          "uri": "spotify:artist:1X2jtj4eWSgcN5PzBCftT7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+          },
+          "href": "https://api.spotify.com/v1/artists/31IZdHrCZ5pRhLz4zBxN3o",
+          "id": "31IZdHrCZ5pRhLz4zBxN3o",
+          "name": "Riff Raff",
+          "type": "artist",
+          "uri": "spotify:artist:31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZI5pbnKxA6Qy1fVNsjCp0",
+          "id": "5ZI5pbnKxA6Qy1fVNsjCp0",
+          "name": "Sy Ari Da Kid",
+          "type": "artist",
+          "uri": "spotify:artist:5ZI5pbnKxA6Qy1fVNsjCp0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 304692,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/38Wg0fAugYiS8AAQ5AV4xv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/38Wg0fAugYiS8AAQ5AV4xv",
+      "id": "38Wg0fAugYiS8AAQ5AV4xv",
+      "name": "Bitches Ain't Shit (feat. Lil B, Riff Raff & Sy Ari Da Kid)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:38Wg0fAugYiS8AAQ5AV4xv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+          "id": "5Jz9kKRnCRLTodCH58MyB4",
+          "name": "Daz Dillinger",
+          "type": "artist",
+          "uri": "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZI5pbnKxA6Qy1fVNsjCp0",
+          "id": "5ZI5pbnKxA6Qy1fVNsjCp0",
+          "name": "Sy Ari Da Kid",
+          "type": "artist",
+          "uri": "spotify:artist:5ZI5pbnKxA6Qy1fVNsjCp0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194847,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NCrp50MjBLCMWaXPqgzGz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NCrp50MjBLCMWaXPqgzGz",
+      "id": "4NCrp50MjBLCMWaXPqgzGz",
+      "name": "Break Down (feat. Daz Dillinger & Sy Ari Da Kid)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4NCrp50MjBLCMWaXPqgzGz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ZbmerOthZbxz5eR3c9Mn1",
+          "id": "1ZbmerOthZbxz5eR3c9Mn1",
+          "name": "Icewear Vezzo",
+          "type": "artist",
+          "uri": "spotify:artist:1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/069qBEK34YGoX7nSIT74Eg"
+          },
+          "href": "https://api.spotify.com/v1/artists/069qBEK34YGoX7nSIT74Eg",
+          "id": "069qBEK34YGoX7nSIT74Eg",
+          "name": "Lil Flash",
+          "type": "artist",
+          "uri": "spotify:artist:069qBEK34YGoX7nSIT74Eg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210076,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XbpIsYRwHr7ddHcVWApA7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XbpIsYRwHr7ddHcVWApA7",
+      "id": "3XbpIsYRwHr7ddHcVWApA7",
+      "name": "Brick Phone (feat. Icewear Vezzo & Lil Flash)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3XbpIsYRwHr7ddHcVWApA7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/069qBEK34YGoX7nSIT74Eg"
+          },
+          "href": "https://api.spotify.com/v1/artists/069qBEK34YGoX7nSIT74Eg",
+          "id": "069qBEK34YGoX7nSIT74Eg",
+          "name": "Lil Flash",
+          "type": "artist",
+          "uri": "spotify:artist:069qBEK34YGoX7nSIT74Eg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180035,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZOu8koyiRbEaj5bZMkIya"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ZOu8koyiRbEaj5bZMkIya",
+      "id": "0ZOu8koyiRbEaj5bZMkIya",
+      "name": "Pari (feat. Lil Flash)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0ZOu8koyiRbEaj5bZMkIya",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Q4MFlysvdbBeEhoKgAUbY",
+          "id": "6Q4MFlysvdbBeEhoKgAUbY",
+          "name": "DJ Holiday",
+          "type": "artist",
+          "uri": "spotify:artist:6Q4MFlysvdbBeEhoKgAUbY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0kBk1XTLVxtEcg0lHS6G55"
+          },
+          "href": "https://api.spotify.com/v1/artists/0kBk1XTLVxtEcg0lHS6G55",
+          "id": "0kBk1XTLVxtEcg0lHS6G55",
+          "name": "Deray",
+          "type": "artist",
+          "uri": "spotify:artist:0kBk1XTLVxtEcg0lHS6G55"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190824,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jScEnJHlrx1hqcICtdi7Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jScEnJHlrx1hqcICtdi7Z",
+      "id": "1jScEnJHlrx1hqcICtdi7Z",
+      "name": "I Get so High (feat. DJ Holiday & Deray)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1jScEnJHlrx1hqcICtdi7Z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+          },
+          "href": "https://api.spotify.com/v1/artists/31IZdHrCZ5pRhLz4zBxN3o",
+          "id": "31IZdHrCZ5pRhLz4zBxN3o",
+          "name": "Riff Raff",
+          "type": "artist",
+          "uri": "spotify:artist:31IZdHrCZ5pRhLz4zBxN3o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ulKArAatBQB62pF6TIQc9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ulKArAatBQB62pF6TIQc9",
+      "id": "5ulKArAatBQB62pF6TIQc9",
+      "name": "Scared of the Dark (feat. Riff Raff)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5ulKArAatBQB62pF6TIQc9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+          },
+          "href": "https://api.spotify.com/v1/artists/31IZdHrCZ5pRhLz4zBxN3o",
+          "id": "31IZdHrCZ5pRhLz4zBxN3o",
+          "name": "Riff Raff",
+          "type": "artist",
+          "uri": "spotify:artist:31IZdHrCZ5pRhLz4zBxN3o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212584,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1W8safodR98q0c3LXpFZGw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1W8safodR98q0c3LXpFZGw",
+      "id": "1W8safodR98q0c3LXpFZGw",
+      "name": "We so Fly (feat. Riff Raff)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1W8safodR98q0c3LXpFZGw",
+      "is_local": false
+    }
+  ]
+}

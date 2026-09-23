@@ -1,0 +1,53 @@
+{
+  "artist_id": "7fObcBw9VM3x7ntWKCYl0z",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4kHHtfsZ0mr9STYtkVsYq9"
+      },
+      "href": "https://api.spotify.com/v1/albums/4kHHtfsZ0mr9STYtkVsYq9",
+      "id": "4kHHtfsZ0mr9STYtkVsYq9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273de79e65156c08fe0fa02204e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02de79e65156c08fe0fa02204e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851de79e65156c08fe0fa02204e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Colby O",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4kHHtfsZ0mr9STYtkVsYq9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fObcBw9VM3x7ntWKCYl0z",
+          "id": "7fObcBw9VM3x7ntWKCYl0z",
+          "name": "Colby O'Donis",
+          "type": "artist",
+          "uri": "spotify:artist:7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ]
+    }
+  ]
+}

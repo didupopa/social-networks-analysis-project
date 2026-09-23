@@ -1,0 +1,96 @@
+{
+  "artist_id": "3sgFRtyBnxXD5ESfmbK4dl",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R"
+      },
+      "href": "https://api.spotify.com/v1/albums/0D49RvtlLCKyxeDKDnBU2R",
+      "id": "0D49RvtlLCKyxeDKDnBU2R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731db908d5f66645cb158837ca",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021db908d5f66645cb158837ca",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511db908d5f66645cb158837ca",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sorry For Party Rocking",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0D49RvtlLCKyxeDKDnBU2R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+          },
+          "href": "https://api.spotify.com/v1/artists/3sgFRtyBnxXD5ESfmbK4dl",
+          "id": "3sgFRtyBnxXD5ESfmbK4dl",
+          "name": "LMFAO",
+          "type": "artist",
+          "uri": "spotify:artist:3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+      },
+      "href": "https://api.spotify.com/v1/albums/7qtQYJc0H6s3CK4c7Gp8GR",
+      "id": "7qtQYJc0H6s3CK4c7Gp8GR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736a0f2bf4749bddc11f4ba8dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026a0f2bf4749bddc11f4ba8dc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516a0f2bf4749bddc11f4ba8dc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Party Rock",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7qtQYJc0H6s3CK4c7Gp8GR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+          },
+          "href": "https://api.spotify.com/v1/artists/3sgFRtyBnxXD5ESfmbK4dl",
+          "id": "3sgFRtyBnxXD5ESfmbK4dl",
+          "name": "LMFAO",
+          "type": "artist",
+          "uri": "spotify:artist:3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ]
+    }
+  ]
+}

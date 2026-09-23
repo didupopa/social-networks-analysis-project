@@ -1,0 +1,536 @@
+{
+  "artist_id": "2KsP6tYLJlTBvSUxnwlVWa",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Uy5319iFlPvzKtUGCwUrQ",
+      "id": "3Uy5319iFlPvzKtUGCwUrQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a94a0b19c913180643e8a1b7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a94a0b19c913180643e8a1b7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a94a0b19c913180643e8a1b7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Beginning",
+      "release_date": "2025-02-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Uy5319iFlPvzKtUGCwUrQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6YGWlDpe9n3spk3akJd0WN"
+      },
+      "href": "https://api.spotify.com/v1/albums/6YGWlDpe9n3spk3akJd0WN",
+      "id": "6YGWlDpe9n3spk3akJd0WN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f066c94496426b9fe804a679",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f066c94496426b9fe804a679",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f066c94496426b9fe804a679",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Operation: Wake Up",
+      "release_date": "2020-12-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6YGWlDpe9n3spk3akJd0WN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7LMPvMtvi02jBM47lrBEMk"
+      },
+      "href": "https://api.spotify.com/v1/albums/7LMPvMtvi02jBM47lrBEMk",
+      "id": "7LMPvMtvi02jBM47lrBEMk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bec3e61c7729579ab4ca55d9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bec3e61c7729579ab4ca55d9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bec3e61c7729579ab4ca55d9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Keep Going",
+      "release_date": "2019-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7LMPvMtvi02jBM47lrBEMk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Ud6qdjOiGsrryFeZOVmkT"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Ud6qdjOiGsrryFeZOVmkT",
+      "id": "4Ud6qdjOiGsrryFeZOVmkT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ebb5ae1006e13f70019c3ee7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ebb5ae1006e13f70019c3ee7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ebb5ae1006e13f70019c3ee7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Real Good Kid",
+      "release_date": "2019-01-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Ud6qdjOiGsrryFeZOVmkT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 33,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Neg41qXHsWHsA6Q7KY44P"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Neg41qXHsWHsA6Q7KY44P",
+      "id": "0Neg41qXHsWHsA6Q7KY44P",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a845633d30f777e167f92bf6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a845633d30f777e167f92bf6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a845633d30f777e167f92bf6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tear Drops and Balloons",
+      "release_date": "2018-03-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0Neg41qXHsWHsA6Q7KY44P",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ONK4W1seR3xnhK1SHtkwi"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ONK4W1seR3xnhK1SHtkwi",
+      "id": "6ONK4W1seR3xnhK1SHtkwi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273585b6a14e9c8aae12f4cdd8e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02585b6a14e9c8aae12f4cdd8e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851585b6a14e9c8aae12f4cdd8e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "i was born in detroit on a very very very very very very very cold day",
+      "release_date": "2018-01-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ONK4W1seR3xnhK1SHtkwi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Z4CdbFTk5fAoSO1hN147b"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Z4CdbFTk5fAoSO1hN147b",
+          "id": "4Z4CdbFTk5fAoSO1hN147b",
+          "name": "The Legendary Mike Posner Band",
+          "type": "artist",
+          "uri": "spotify:artist:4Z4CdbFTk5fAoSO1hN147b"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Phl1V5P0sPrWJytXHGFeO",
+      "id": "6Phl1V5P0sPrWJytXHGFeO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731db27fa11dbafa67857da8f3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021db27fa11dbafa67857da8f3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511db27fa11dbafa67857da8f3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "At Night, Alone.",
+      "release_date": "2016-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Phl1V5P0sPrWJytXHGFeO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3V6dvka55d13dxFB3Mz9eV"
+      },
+      "href": "https://api.spotify.com/v1/albums/3V6dvka55d13dxFB3Mz9eV",
+      "id": "3V6dvka55d13dxFB3Mz9eV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27332e4bffd94689ab199ecd1f0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0232e4bffd94689ab199ecd1f0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485132e4bffd94689ab199ecd1f0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "At Night, Alone. (Expanded Edition)",
+      "release_date": "2016-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3V6dvka55d13dxFB3Mz9eV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/49XLJ6XYJj7j2m1NWchu30"
+      },
+      "href": "https://api.spotify.com/v1/albums/49XLJ6XYJj7j2m1NWchu30",
+      "id": "49XLJ6XYJj7j2m1NWchu30",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f30fdc48c91809e0711de5a8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f30fdc48c91809e0711de5a8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f30fdc48c91809e0711de5a8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Layover",
+      "release_date": "2011-11-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:49XLJ6XYJj7j2m1NWchu30",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Hmmcy5kIXlXoDqKgaHslu"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Hmmcy5kIXlXoDqKgaHslu",
+      "id": "3Hmmcy5kIXlXoDqKgaHslu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731eab208d89ed868f1903ad62",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021eab208d89ed868f1903ad62",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511eab208d89ed868f1903ad62",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "31 Minutes to Takeoff",
+      "release_date": "2010-09-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Hmmcy5kIXlXoDqKgaHslu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0oxxs8JLFwTbbTzSf0wrZI"
+      },
+      "href": "https://api.spotify.com/v1/albums/0oxxs8JLFwTbbTzSf0wrZI",
+      "id": "0oxxs8JLFwTbbTzSf0wrZI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bc05176bd590f21af14ad9bf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bc05176bd590f21af14ad9bf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bc05176bd590f21af14ad9bf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "One Foot Out The Door",
+      "release_date": "2009-10-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0oxxs8JLFwTbbTzSf0wrZI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3YqbqVW4Rz8DCPxL2WBCvc"
+      },
+      "href": "https://api.spotify.com/v1/albums/3YqbqVW4Rz8DCPxL2WBCvc",
+      "id": "3YqbqVW4Rz8DCPxL2WBCvc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738721ba65c221028ae006ff7a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028721ba65c221028ae006ff7a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518721ba65c221028ae006ff7a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Matter Of Time",
+      "release_date": "2009-02-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3YqbqVW4Rz8DCPxL2WBCvc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ]
+    }
+  ]
+}

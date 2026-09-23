@@ -1,0 +1,96 @@
+{
+  "artist_id": "0CbeG1224FS58EUx4tPevZ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hg6v0yILMEOH3SgbY29yY"
+      },
+      "href": "https://api.spotify.com/v1/albums/1hg6v0yILMEOH3SgbY29yY",
+      "id": "1hg6v0yILMEOH3SgbY29yY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273846e71fd3645ed9a1a8e7e8e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02846e71fd3645ed9a1a8e7e8e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851846e71fd3645ed9a1a8e7e8e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mad World",
+      "release_date": "2020-12-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1hg6v0yILMEOH3SgbY29yY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+          "id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "Timmy Trumpet",
+          "type": "artist",
+          "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+      },
+      "href": "https://api.spotify.com/v1/albums/35LVfE1wsiXr4tdKnYliJ8",
+      "id": "35LVfE1wsiXr4tdKnYliJ8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27379f86f908d70926a0537d806",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0279f86f908d70926a0537d806",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485179f86f908d70926a0537d806",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mad World",
+      "release_date": "2020-12-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:35LVfE1wsiXr4tdKnYliJ8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+          "id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "Timmy Trumpet",
+          "type": "artist",
+          "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+        }
+      ]
+    }
+  ]
+}

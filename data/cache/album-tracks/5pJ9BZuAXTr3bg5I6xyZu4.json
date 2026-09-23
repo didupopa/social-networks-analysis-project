@@ -1,0 +1,491 @@
+{
+  "album_id": "5pJ9BZuAXTr3bg5I6xyZu4",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jqyhdFTZe6Je3NkbY9BTG"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jqyhdFTZe6Je3NkbY9BTG",
+          "id": "2jqyhdFTZe6Je3NkbY9BTG",
+          "name": "P2theLA",
+          "type": "artist",
+          "uri": "spotify:artist:2jqyhdFTZe6Je3NkbY9BTG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232986,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4UMJnzwgxZUagNNIpouOkW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4UMJnzwgxZUagNNIpouOkW",
+      "id": "4UMJnzwgxZUagNNIpouOkW",
+      "name": "Whip Appeal (feat. P2theLA)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4UMJnzwgxZUagNNIpouOkW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jnqEpuOPfAZK4aUIeKBRr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jnqEpuOPfAZK4aUIeKBRr",
+      "id": "3jnqEpuOPfAZK4aUIeKBRr",
+      "name": "Loaded (feat. Mr. Fab)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3jnqEpuOPfAZK4aUIeKBRr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0M0NnvliEsDMHVvg38y9HX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0M0NnvliEsDMHVvg38y9HX",
+      "id": "0M0NnvliEsDMHVvg38y9HX",
+      "name": "Let's Get Faded",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0M0NnvliEsDMHVvg38y9HX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5FqKnUxqa0OF2Na08tTOPF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5FqKnUxqa0OF2Na08tTOPF",
+      "id": "5FqKnUxqa0OF2Na08tTOPF",
+      "name": "White Girl",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5FqKnUxqa0OF2Na08tTOPF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279840,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WztGF0fQBuHrfuqlaGkIK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WztGF0fQBuHrfuqlaGkIK",
+      "id": "2WztGF0fQBuHrfuqlaGkIK",
+      "name": "Push Ups (feat. Slim Dunkin)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2WztGF0fQBuHrfuqlaGkIK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2lrtGWxNXWjd0JzDLKXubI",
+          "id": "2lrtGWxNXWjd0JzDLKXubI",
+          "name": "Berner",
+          "type": "artist",
+          "uri": "spotify:artist:2lrtGWxNXWjd0JzDLKXubI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BOvVzLVmsB9K89KZAxxrH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BOvVzLVmsB9K89KZAxxrH",
+      "id": "6BOvVzLVmsB9K89KZAxxrH",
+      "name": "Food Plug (feat. Berner)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6BOvVzLVmsB9K89KZAxxrH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58xYw50E3c5tqdK8C8Pij2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58xYw50E3c5tqdK8C8Pij2",
+      "id": "58xYw50E3c5tqdK8C8Pij2",
+      "name": "Out My Circle",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:58xYw50E3c5tqdK8C8Pij2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268746,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GTwjeaUPmais5zLrElmPd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GTwjeaUPmais5zLrElmPd",
+      "id": "1GTwjeaUPmais5zLrElmPd",
+      "name": "Hate Me Some More",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1GTwjeaUPmais5zLrElmPd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6vwZrIUoS86snAte0ibiFH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6vwZrIUoS86snAte0ibiFH",
+      "id": "6vwZrIUoS86snAte0ibiFH",
+      "name": "Millions Every Month",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6vwZrIUoS86snAte0ibiFH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 271760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7uc9ADXeH8Z7dSAOkEMxtT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7uc9ADXeH8Z7dSAOkEMxtT",
+      "id": "7uc9ADXeH8Z7dSAOkEMxtT",
+      "name": "Fill My Shoes",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7uc9ADXeH8Z7dSAOkEMxtT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1j9teSUrqJuPSWtXmgpbO3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1j9teSUrqJuPSWtXmgpbO3",
+          "id": "1j9teSUrqJuPSWtXmgpbO3",
+          "name": "Slim Dunkin",
+          "type": "artist",
+          "uri": "spotify:artist:1j9teSUrqJuPSWtXmgpbO3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Yvrb1UtnMjbEUMt7Go0Ny"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Yvrb1UtnMjbEUMt7Go0Ny",
+      "id": "3Yvrb1UtnMjbEUMt7Go0Ny",
+      "name": "Fuck You (feat. Slim Dunkin)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3Yvrb1UtnMjbEUMt7Go0Ny",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hf8UwFbyfEYZsy1wHttpF"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hf8UwFbyfEYZsy1wHttpF",
+          "id": "7hf8UwFbyfEYZsy1wHttpF",
+          "name": "V-Nasty",
+          "type": "artist",
+          "uri": "spotify:artist:7hf8UwFbyfEYZsy1wHttpF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 137773,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0fAPYTI5IsU3jWNyNT40KV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0fAPYTI5IsU3jWNyNT40KV",
+      "id": "0fAPYTI5IsU3jWNyNT40KV",
+      "name": "Sick Swag",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0fAPYTI5IsU3jWNyNT40KV",
+      "is_local": false
+    }
+  ]
+}

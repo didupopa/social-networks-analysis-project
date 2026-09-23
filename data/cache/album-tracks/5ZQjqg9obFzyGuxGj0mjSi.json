@@ -1,0 +1,488 @@
+{
+  "album_id": "5ZQjqg9obFzyGuxGj0mjSi",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 111430,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NxgsMKJwLKFtPbTqVjl1p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NxgsMKJwLKFtPbTqVjl1p",
+      "id": "4NxgsMKJwLKFtPbTqVjl1p",
+      "name": "King's Disease",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4NxgsMKJwLKFtPbTqVjl1p",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 141000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3UvFztmDlqUaq1Q7vLk66j"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3UvFztmDlqUaq1Q7vLk66j",
+      "id": "3UvFztmDlqUaq1Q7vLk66j",
+      "name": "Blue Benz",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3UvFztmDlqUaq1Q7vLk66j",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          },
+          "href": "https://api.spotify.com/v1/artists/6CxZzQFUTM6AzgluGwtq5w",
+          "id": "6CxZzQFUTM6AzgluGwtq5w",
+          "name": "Charlie Wilson",
+          "type": "artist",
+          "uri": "spotify:artist:6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208630,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1oQLzryECAAeX7GmddL6jn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1oQLzryECAAeX7GmddL6jn",
+      "id": "1oQLzryECAAeX7GmddL6jn",
+      "name": "Car #85 (feat. Charlie Wilson)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1oQLzryECAAeX7GmddL6jn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198391,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1iapnxbK1ZDsuTL3jMoOtJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1iapnxbK1ZDsuTL3jMoOtJ",
+      "id": "1iapnxbK1ZDsuTL3jMoOtJ",
+      "name": "Ultra Black (feat. Hit-Boy)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1iapnxbK1ZDsuTL3jMoOtJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 102798,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1FHKdoJN3MemqZyD1ArZwc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1FHKdoJN3MemqZyD1ArZwc",
+      "id": "1FHKdoJN3MemqZyD1ArZwc",
+      "name": "27 Summers",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1FHKdoJN3MemqZyD1ArZwc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+          "id": "4Gso3d4CscCijv0lmajZWs",
+          "name": "Don Toliver",
+          "type": "artist",
+          "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1uJ5X7MrxTr21lG5ssm5fT",
+      "id": "1uJ5X7MrxTr21lG5ssm5fT",
+      "name": "Replace Me (feat. Big Sean & Don Toliver)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1uJ5X7MrxTr21lG5ssm5fT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+          "id": "3hcs9uc56yIGFCSy9leWe7",
+          "name": "Lil Durk",
+          "type": "artist",
+          "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201827,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1j5jNib6j2xLSXwohGOeiH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1j5jNib6j2xLSXwohGOeiH",
+      "id": "1j5jNib6j2xLSXwohGOeiH",
+      "name": "Til The War Is Won (feat. Lil Durk)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1j5jNib6j2xLSXwohGOeiH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id": "3jK9MiCrA42lLAdMGUZpwa",
+          "name": "Anderson .Paak",
+          "type": "artist",
+          "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228504,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3w11abq9POHzWef5Hz1LDI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3w11abq9POHzWef5Hz1LDI",
+      "id": "3w11abq9POHzWef5Hz1LDI",
+      "name": "All Bad (feat. Anderson .Paak)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3w11abq9POHzWef5Hz1LDI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2b8rTcytSdlhGSUwpWAk2P"
+          },
+          "href": "https://api.spotify.com/v1/artists/2b8rTcytSdlhGSUwpWAk2P",
+          "id": "2b8rTcytSdlhGSUwpWAk2P",
+          "name": "Brucie B.",
+          "type": "artist",
+          "uri": "spotify:artist:2b8rTcytSdlhGSUwpWAk2P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 121300,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5HCPqll3QeQz3SVCWMxJuC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5HCPqll3QeQz3SVCWMxJuC",
+      "id": "5HCPqll3QeQz3SVCWMxJuC",
+      "name": "The Definition (feat. Brucie B.)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5HCPqll3QeQz3SVCWMxJuC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Sk9ARejPHclTzcpuOqj0O"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Sk9ARejPHclTzcpuOqj0O",
+          "id": "2Sk9ARejPHclTzcpuOqj0O",
+          "name": "The Firm",
+          "type": "artist",
+          "uri": "spotify:artist:2Sk9ARejPHclTzcpuOqj0O"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HqrSDuI9lHuH1CDismTFg",
+          "id": "7HqrSDuI9lHuH1CDismTFg",
+          "name": "AZ",
+          "type": "artist",
+          "uri": "spotify:artist:7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wvlC6NwleHt1iRD6d5X2C",
+          "id": "1wvlC6NwleHt1iRD6d5X2C",
+          "name": "Foxy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vQLu6vYK0hp8k0fsAzsU8",
+          "id": "4vQLu6vYK0hp8k0fsAzsU8",
+          "name": "Cormega",
+          "type": "artist",
+          "uri": "spotify:artist:4vQLu6vYK0hp8k0fsAzsU8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231472,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bNXPxxnbEoGQxEzS0N9NK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3bNXPxxnbEoGQxEzS0N9NK",
+      "id": "3bNXPxxnbEoGQxEzS0N9NK",
+      "name": "Full Circle (feat. The Firm, AZ, Foxy Brown & Cormega)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3bNXPxxnbEoGQxEzS0N9NK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184911,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Zo2mEmX2k2LhHTdPSqpZq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Zo2mEmX2k2LhHTdPSqpZq",
+      "id": "6Zo2mEmX2k2LhHTdPSqpZq",
+      "name": "10 Points",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6Zo2mEmX2k2LhHTdPSqpZq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232443,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5s5uXmeBIDEX7OKLlNjeI6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5s5uXmeBIDEX7OKLlNjeI6",
+      "id": "5s5uXmeBIDEX7OKLlNjeI6",
+      "name": "The Cure",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5s5uXmeBIDEX7OKLlNjeI6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          },
+          "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+          "id": "14CHVeJGrR5xgUGQFV5BVM",
+          "name": "Fivio Foreign",
+          "type": "artist",
+          "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5dHt1vcEm9qb8fCyLcB3HL",
+          "id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "A$AP Ferg",
+          "type": "artist",
+          "uri": "spotify:artist:5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166523,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/661wc0CTq5MbppEG6zYP5n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/661wc0CTq5MbppEG6zYP5n",
+      "id": "661wc0CTq5MbppEG6zYP5n",
+      "name": "Spicy (feat. Fivio Foreign & A$AP Ferg)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:661wc0CTq5MbppEG6zYP5n",
+      "is_local": false
+    }
+  ]
+}

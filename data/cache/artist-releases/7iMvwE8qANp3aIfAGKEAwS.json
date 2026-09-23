@@ -1,0 +1,708 @@
+{
+  "artist_id": "7iMvwE8qANp3aIfAGKEAwS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/57rXcOVtzZf2OLMCEvzAL9"
+      },
+      "href": "https://api.spotify.com/v1/albums/57rXcOVtzZf2OLMCEvzAL9",
+      "id": "57rXcOVtzZf2OLMCEvzAL9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a82c697c38c6243966f1d11e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a82c697c38c6243966f1d11e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a82c697c38c6243966f1d11e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Lost Files: Vol. 1",
+      "release_date": "2023-09-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:57rXcOVtzZf2OLMCEvzAL9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0wFHZCTh0GBBxa1RzvfL6b"
+      },
+      "href": "https://api.spotify.com/v1/albums/0wFHZCTh0GBBxa1RzvfL6b",
+      "id": "0wFHZCTh0GBBxa1RzvfL6b",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f45cf50c709a35bd97495823",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f45cf50c709a35bd97495823",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f45cf50c709a35bd97495823",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "U Wasn't There",
+      "release_date": "2022-09-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0wFHZCTh0GBBxa1RzvfL6b",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+          "id": "3TaUSUXn41GixL7zbvrIDt",
+          "name": "A-Trak",
+          "type": "artist",
+          "uri": "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2yxDtBWH8KdOI2cQTkQ4Tr"
+      },
+      "href": "https://api.spotify.com/v1/albums/2yxDtBWH8KdOI2cQTkQ4Tr",
+      "id": "2yxDtBWH8KdOI2cQTkQ4Tr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b224c52d4ea745439f5fa053",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b224c52d4ea745439f5fa053",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b224c52d4ea745439f5fa053",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Purple Haze 2",
+      "release_date": "2019-12-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2yxDtBWH8KdOI2cQTkQ4Tr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Vv4t4ad2YenYXIWmjT4en"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Vv4t4ad2YenYXIWmjT4en",
+      "id": "0Vv4t4ad2YenYXIWmjT4en",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f2e807c45a0d0c99665eb6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f2e807c45a0d0c99665eb6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485113f2e807c45a0d0c99665eb6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Program",
+      "release_date": "2017-11-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0Vv4t4ad2YenYXIWmjT4en",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ZgGPgiXll2nWKRqaWAKrB"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ZgGPgiXll2nWKRqaWAKrB",
+      "id": "4ZgGPgiXll2nWKRqaWAKrB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c218162612cd033c94a9d455",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c218162612cd033c94a9d455",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c218162612cd033c94a9d455",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "1st Of The Month: Box Set (Deluxe Edition)",
+      "release_date": "2014-12-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ZgGPgiXll2nWKRqaWAKrB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3TPHfb1hhAQLmnnBZUbPSt"
+      },
+      "href": "https://api.spotify.com/v1/albums/3TPHfb1hhAQLmnnBZUbPSt",
+      "id": "3TPHfb1hhAQLmnnBZUbPSt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27378c7e9b83039a0734f478ad6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0278c7e9b83039a0734f478ad6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485178c7e9b83039a0734f478ad6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ghetto Heaven, Vol.1",
+      "release_date": "2013-10-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3TPHfb1hhAQLmnnBZUbPSt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3YdHr22ovh1GuwtOBpVtwQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3YdHr22ovh1GuwtOBpVtwQ",
+      "id": "3YdHr22ovh1GuwtOBpVtwQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e41305fd0fb8f8a57b773043",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e41305fd0fb8f8a57b773043",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e41305fd0fb8f8a57b773043",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Boss of All Bosses 2",
+      "release_date": "2012-01-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3YdHr22ovh1GuwtOBpVtwQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5xdIARa26TeL26vrTYABAx"
+      },
+      "href": "https://api.spotify.com/v1/albums/5xdIARa26TeL26vrTYABAx",
+      "id": "5xdIARa26TeL26vrTYABAx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a24a9e037a47e80fd3d3ec5b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a24a9e037a47e80fd3d3ec5b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a24a9e037a47e80fd3d3ec5b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Crime Pays",
+      "release_date": "2009-05-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5xdIARa26TeL26vrTYABAx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 29,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1NfvWMq934Ot9GuV390UHm"
+      },
+      "href": "https://api.spotify.com/v1/albums/1NfvWMq934Ot9GuV390UHm",
+      "id": "1NfvWMq934Ot9GuV390UHm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273984736cb99335cb3d96805a1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02984736cb99335cb3d96805a1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851984736cb99335cb3d96805a1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Public Enemy #1",
+      "release_date": "2007-11-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1NfvWMq934Ot9GuV390UHm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2J922meYaviE5ZltBWrzsl"
+      },
+      "href": "https://api.spotify.com/v1/albums/2J922meYaviE5ZltBWrzsl",
+      "id": "2J922meYaviE5ZltBWrzsl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba4ee160115437fb2cb3033c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba4ee160115437fb2cb3033c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ba4ee160115437fb2cb3033c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Killa Season",
+      "release_date": "2006-05-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2J922meYaviE5ZltBWrzsl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
+      },
+      "href": "https://api.spotify.com/v1/albums/4k6ci0PJUSV8CeQDTBfm44",
+      "id": "4k6ci0PJUSV8CeQDTBfm44",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27341378d36f9f76bc8e6950f89",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0241378d36f9f76bc8e6950f89",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485141378d36f9f76bc8e6950f89",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Purple Haze",
+      "release_date": "2004-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4k6ci0PJUSV8CeQDTBfm44",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
+      },
+      "href": "https://api.spotify.com/v1/albums/1lEkQcVvPwNZmkBIEJPSrv",
+      "id": "1lEkQcVvPwNZmkBIEJPSrv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273df5352d458100973dbb329cc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02df5352d458100973dbb329cc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851df5352d458100973dbb329cc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Come Home With Me",
+      "release_date": "2002-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1lEkQcVvPwNZmkBIEJPSrv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0E5IITIjNswG0KNamd8t6j"
+      },
+      "href": "https://api.spotify.com/v1/albums/0E5IITIjNswG0KNamd8t6j",
+      "id": "0E5IITIjNswG0KNamd8t6j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737866d38a2b9a05c29915a67b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027866d38a2b9a05c29915a67b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517866d38a2b9a05c29915a67b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "S.D.E.",
+      "release_date": "2000-09-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0E5IITIjNswG0KNamd8t6j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4RedRmaos0Jjm9xAXtKzJi"
+      },
+      "href": "https://api.spotify.com/v1/albums/4RedRmaos0Jjm9xAXtKzJi",
+      "id": "4RedRmaos0Jjm9xAXtKzJi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733abaaea03d888a227cd1db40",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023abaaea03d888a227cd1db40",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513abaaea03d888a227cd1db40",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "S.D.E.",
+      "release_date": "2000-09-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4RedRmaos0Jjm9xAXtKzJi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/652rJ4mE81IQDTUGxbopIU"
+      },
+      "href": "https://api.spotify.com/v1/albums/652rJ4mE81IQDTUGxbopIU",
+      "id": "652rJ4mE81IQDTUGxbopIU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f7cf9ef9cf97581e8beef86e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f7cf9ef9cf97581e8beef86e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f7cf9ef9cf97581e8beef86e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Confessions Of Fire (CLEAN VERSION)",
+      "release_date": "1998-07-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:652rJ4mE81IQDTUGxbopIU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2pIL8lbz2cz2Zg2Da3p9DF"
+      },
+      "href": "https://api.spotify.com/v1/albums/2pIL8lbz2cz2Zg2Da3p9DF",
+      "id": "2pIL8lbz2cz2Zg2Da3p9DF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27326749b0fcf435ac70718fad1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0226749b0fcf435ac70718fad1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485126749b0fcf435ac70718fad1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Confessions Of Fire",
+      "release_date": "1998-06-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2pIL8lbz2cz2Zg2Da3p9DF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ]
+    }
+  ]
+}

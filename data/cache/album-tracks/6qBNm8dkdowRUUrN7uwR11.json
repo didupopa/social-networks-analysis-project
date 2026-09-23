@@ -1,0 +1,623 @@
+{
+  "album_id": "6qBNm8dkdowRUUrN7uwR11",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GCcR23J4crjdOfdScSwoZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GCcR23J4crjdOfdScSwoZ",
+      "id": "1GCcR23J4crjdOfdScSwoZ",
+      "name": "Hello World",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1GCcR23J4crjdOfdScSwoZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1gbJ3A4nsRqDnkXYvZAsrG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1gbJ3A4nsRqDnkXYvZAsrG",
+      "id": "1gbJ3A4nsRqDnkXYvZAsrG",
+      "name": "The Movement",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1gbJ3A4nsRqDnkXYvZAsrG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4q6dqyGM25sKFU8nYAGRe4",
+      "id": "4q6dqyGM25sKFU8nYAGRe4",
+      "name": "Show Me (feat. Chris Brown)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4q6dqyGM25sKFU8nYAGRe4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          },
+          "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+          "id": "5LHRHt1k9lMyONurDHEdrp",
+          "name": "Tyga",
+          "type": "artist",
+          "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/71E26auPyjYJDuHzDI48EO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/71E26auPyjYJDuHzDI48EO",
+      "id": "71E26auPyjYJDuHzDI48EO",
+      "name": "Iz U Down (feat. Tyga)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:71E26auPyjYJDuHzDI48EO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+          },
+          "href": "https://api.spotify.com/v1/artists/19Fi1Rj7kk8kyiwxpXy3yM",
+          "id": "19Fi1Rj7kk8kyiwxpXy3yM",
+          "name": "August Alsina",
+          "type": "artist",
+          "uri": "spotify:artist:19Fi1Rj7kk8kyiwxpXy3yM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1EhsvuB5erYIuaXCsxql6e"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1EhsvuB5erYIuaXCsxql6e",
+      "id": "1EhsvuB5erYIuaXCsxql6e",
+      "name": "We Just Came to Party (feat. August Alsina)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1EhsvuB5erYIuaXCsxql6e",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2asIUjALYhUbH8hvLUhDWo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2asIUjALYhUbH8hvLUhDWo",
+      "id": "2asIUjALYhUbH8hvLUhDWo",
+      "name": "Main Chick (feat. Chris Brown)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2asIUjALYhUbH8hvLUhDWo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC"
+          },
+          "href": "https://api.spotify.com/v1/artists/29M3C4IzWXrztUr4cV2umC",
+          "id": "29M3C4IzWXrztUr4cV2umC",
+          "name": "King Los",
+          "type": "artist",
+          "uri": "spotify:artist:29M3C4IzWXrztUr4cV2umC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xVFNELtBZULVWNNJnyFQC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xVFNELtBZULVWNNJnyFQC",
+      "id": "3xVFNELtBZULVWNNJnyFQC",
+      "name": "No Option (feat. King Los)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3xVFNELtBZULVWNNJnyFQC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist",
+          "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1BpJq6GrMDaYhJPg5IZQ8l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1BpJq6GrMDaYhJPg5IZQ8l",
+      "id": "1BpJq6GrMDaYhJPg5IZQ8l",
+      "name": "Murda (feat. Pusha T)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1BpJq6GrMDaYhJPg5IZQ8l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193533,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58HwS21miL7EmTcq3gpEYJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58HwS21miL7EmTcq3gpEYJ",
+      "id": "58HwS21miL7EmTcq3gpEYJ",
+      "name": "Rollin'",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:58HwS21miL7EmTcq3gpEYJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208840,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4G6CjiLNKP3ZaexxCodMj0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4G6CjiLNKP3ZaexxCodMj0",
+      "id": "4G6CjiLNKP3ZaexxCodMj0",
+      "name": "Tattoo of My Name",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4G6CjiLNKP3ZaexxCodMj0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zmk5lkmCMVvfvwF3H8FWC",
+          "id": "7zmk5lkmCMVvfvwF3H8FWC",
+          "name": "Elle Varner",
+          "type": "artist",
+          "uri": "spotify:artist:7zmk5lkmCMVvfvwF3H8FWC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+          "id": "6TIYQ3jFPwQSRmorSezPxX",
+          "name": "mgk",
+          "type": "artist",
+          "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4hryAskv7zqhUIPDvF4N22"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4hryAskv7zqhUIPDvF4N22",
+      "id": "4hryAskv7zqhUIPDvF4N22",
+      "name": "No Miracles (feat. Elle Varner & mgk)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4hryAskv7zqhUIPDvF4N22",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+          },
+          "href": "https://api.spotify.com/v1/artists/3XcCT5MPlQPWFTJyzXbfuX",
+          "id": "3XcCT5MPlQPWFTJyzXbfuX",
+          "name": "Maejor",
+          "type": "artist",
+          "uri": "spotify:artist:3XcCT5MPlQPWFTJyzXbfuX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242346,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5A8k0TuHy1AgEo34dgtStw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5A8k0TuHy1AgEo34dgtStw",
+      "id": "5A8k0TuHy1AgEo34dgtStw",
+      "name": "I Don't Care (feat. Maejor)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5A8k0TuHy1AgEo34dgtStw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6bowAQdS7UN5bYi5FQrwTH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6bowAQdS7UN5bYi5FQrwTH",
+      "id": "6bowAQdS7UN5bYi5FQrwTH",
+      "name": "More Than a King",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6bowAQdS7UN5bYi5FQrwTH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lTKhiuJ5T3eCdjKSzZU2M"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lTKhiuJ5T3eCdjKSzZU2M",
+      "id": "7lTKhiuJ5T3eCdjKSzZU2M",
+      "name": "Star Player",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7lTKhiuJ5T3eCdjKSzZU2M",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3eJMMewAXSC6Mn5TR5fqOW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3eJMMewAXSC6Mn5TR5fqOW",
+      "id": "3eJMMewAXSC6Mn5TR5fqOW",
+      "name": "My System",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3eJMMewAXSC6Mn5TR5fqOW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Altlm3kLPob56k2qqR4i2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Altlm3kLPob56k2qqR4i2",
+      "id": "0Altlm3kLPob56k2qqR4i2",
+      "name": "Money and the Power",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0Altlm3kLPob56k2qqR4i2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          },
+          "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          },
+          "href": "https://api.spotify.com/v1/artists/67nwj3Y5sZQLl72VNUHEYE",
+          "id": "67nwj3Y5sZQLl72VNUHEYE",
+          "name": "Wale",
+          "type": "artist",
+          "uri": "spotify:artist:67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 298360,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7fyXwRFTlBroXfsN5ybIPX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7fyXwRFTlBroXfsN5ybIPX",
+      "id": "7fyXwRFTlBroXfsN5ybIPX",
+      "name": "Bad Ass (feat. Meek Mill & Wale)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:7fyXwRFTlBroXfsN5ybIPX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+          "id": "6KZDXtSj0SzGOV705nNeh3",
+          "name": "Kid Ink",
+          "type": "artist",
+          "uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5dHt1vcEm9qb8fCyLcB3HL",
+          "id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "A$AP Ferg",
+          "type": "artist",
+          "uri": "spotify:artist:5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 410053,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48a33wXs82UkWtHThtmllc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48a33wXs82UkWtHThtmllc",
+      "id": "48a33wXs82UkWtHThtmllc",
+      "name": "Bossin' Up (feat. A$AP Ferg & French Montana)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:48a33wXs82UkWtHThtmllc",
+      "is_local": false
+    }
+  ]
+}

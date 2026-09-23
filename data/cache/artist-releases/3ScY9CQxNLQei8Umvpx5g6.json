@@ -1,0 +1,632 @@
+{
+  "artist_id": "3ScY9CQxNLQei8Umvpx5g6",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/12MfkdCBMrCygPAsVCusr6"
+      },
+      "href": "https://api.spotify.com/v1/albums/12MfkdCBMrCygPAsVCusr6",
+      "id": "12MfkdCBMrCygPAsVCusr6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d389664645afdf9a0fac04a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028d389664645afdf9a0fac04a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518d389664645afdf9a0fac04a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Organized Rhyme",
+      "release_date": "2026-08-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:12MfkdCBMrCygPAsVCusr6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60"
+      },
+      "href": "https://api.spotify.com/v1/albums/11ftxdclHX02L9kfuzFG60",
+      "id": "11ftxdclHX02L9kfuzFG60",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27336e30ba671937ef64348899c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0236e30ba671937ef64348899c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485136e30ba671937ef64348899c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The World Changed On Me",
+      "release_date": "2024-12-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:11ftxdclHX02L9kfuzFG60",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3H4fSwQCPxXkVS10z9er8t"
+      },
+      "href": "https://api.spotify.com/v1/albums/3H4fSwQCPxXkVS10z9er8t",
+      "id": "3H4fSwQCPxXkVS10z9er8t",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6336d02449777aee4631a84",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6336d02449777aee4631a84",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d6336d02449777aee4631a84",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Family Ties",
+      "release_date": "2019-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3H4fSwQCPxXkVS10z9er8t",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YKqI0pz6dY15GpzxT66HD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YKqI0pz6dY15GpzxT66HD",
+          "id": "2YKqI0pz6dY15GpzxT66HD",
+          "name": "Dre",
+          "type": "artist",
+          "uri": "spotify:artist:2YKqI0pz6dY15GpzxT66HD"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hyd7RYmR54Elg3MhZzXJW"
+      },
+      "href": "https://api.spotify.com/v1/albums/1hyd7RYmR54Elg3MhZzXJW",
+      "id": "1hyd7RYmR54Elg3MhZzXJW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb0a799a6441249426c15eed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb0a799a6441249426c15eed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fb0a799a6441249426c15eed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Plata O Plomo",
+      "release_date": "2017-02-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1hyd7RYmR54Elg3MhZzXJW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+          },
+          "href": "https://api.spotify.com/v1/artists/39mHYiNmLR7p8PXNG8Wll6",
+          "id": "39mHYiNmLR7p8PXNG8Wll6",
+          "name": "Remy Ma",
+          "type": "artist",
+          "uri": "spotify:artist:39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0AXG0tC4o5iUEnFTLxla6U"
+      },
+      "href": "https://api.spotify.com/v1/albums/0AXG0tC4o5iUEnFTLxla6U",
+      "id": "0AXG0tC4o5iUEnFTLxla6U",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273acc96e5b55876f72b2123ed9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02acc96e5b55876f72b2123ed9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851acc96e5b55876f72b2123ed9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Darkside, Vol. 1",
+      "release_date": "2010-07-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0AXG0tC4o5iUEnFTLxla6U",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3FOWGe0Au6EtgtTNE18noA"
+      },
+      "href": "https://api.spotify.com/v1/albums/3FOWGe0Au6EtgtTNE18noA",
+      "id": "3FOWGe0Au6EtgtTNE18noA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c23d9849b29939659577d687",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c23d9849b29939659577d687",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c23d9849b29939659577d687",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jealous Ones Still Envy 2 (J.O.S.E. 2)",
+      "release_date": "2009-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3FOWGe0Au6EtgtTNE18noA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3GhkdbzUQStvq7G85tmhyY"
+      },
+      "href": "https://api.spotify.com/v1/albums/3GhkdbzUQStvq7G85tmhyY",
+      "id": "3GhkdbzUQStvq7G85tmhyY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8d9b7694ad3699a46c73986",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8d9b7694ad3699a46c73986",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d8d9b7694ad3699a46c73986",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Elephant In The Room",
+      "release_date": "2008-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3GhkdbzUQStvq7G85tmhyY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1C0VKd8EDvZy5PuavgOetA"
+      },
+      "href": "https://api.spotify.com/v1/albums/1C0VKd8EDvZy5PuavgOetA",
+      "id": "1C0VKd8EDvZy5PuavgOetA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d2dc47fbd13502a4ed971e5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d2dc47fbd13502a4ed971e5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d2dc47fbd13502a4ed971e5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Me, Myself & I",
+      "release_date": "2006-11-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1C0VKd8EDvZy5PuavgOetA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1daamdMx4wmSEC3mfiCN37"
+      },
+      "href": "https://api.spotify.com/v1/albums/1daamdMx4wmSEC3mfiCN37",
+      "id": "1daamdMx4wmSEC3mfiCN37",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c3cc3ebad3a4e8ab2a30795d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c3cc3ebad3a4e8ab2a30795d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c3cc3ebad3a4e8ab2a30795d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "All Or Nothing",
+      "release_date": "2005-06-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1daamdMx4wmSEC3mfiCN37",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/06yAhOf53Gc1t74fLryTg8"
+      },
+      "href": "https://api.spotify.com/v1/albums/06yAhOf53Gc1t74fLryTg8",
+      "id": "06yAhOf53Gc1t74fLryTg8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739548ca02cc2327fbbbafe46c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029548ca02cc2327fbbbafe46c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519548ca02cc2327fbbbafe46c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Loyalty",
+      "release_date": "2002-11-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:06yAhOf53Gc1t74fLryTg8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
+      },
+      "href": "https://api.spotify.com/v1/albums/6vMgb2mih3pPiWUxF8VEdI",
+      "id": "6vMgb2mih3pPiWUxF8VEdI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/35bc49f45c244fa7a8611c9a8975702c298e84b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/f4c27bdef2f490acfb10db788d2873afe28d95be",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/7bb3a0b50c9c42572efd9772628c14140f70980a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jealous Ones Still Envy (J.O.S.E)",
+      "release_date": "2001-12-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6vMgb2mih3pPiWUxF8VEdI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Qaicj7ce34Ltp5b9j9ICE"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Qaicj7ce34Ltp5b9j9ICE",
+      "id": "3Qaicj7ce34Ltp5b9j9ICE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbfa81586885a6efe879fea8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbfa81586885a6efe879fea8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bbfa81586885a6efe879fea8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Don Cartagena",
+      "release_date": "1998-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Qaicj7ce34Ltp5b9j9ICE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/52wo63yrO3Cl4DPVGvDZVN"
+      },
+      "href": "https://api.spotify.com/v1/albums/52wo63yrO3Cl4DPVGvDZVN",
+      "id": "52wo63yrO3Cl4DPVGvDZVN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c21c45bfbb53328e130e4cb8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c21c45bfbb53328e130e4cb8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c21c45bfbb53328e130e4cb8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jealous One's Envy",
+      "release_date": "1995",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:52wo63yrO3Cl4DPVGvDZVN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6WZdfi2NcBRfx31kVxZhJe"
+      },
+      "href": "https://api.spotify.com/v1/albums/6WZdfi2NcBRfx31kVxZhJe",
+      "id": "6WZdfi2NcBRfx31kVxZhJe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1fbd6f7e05c33dd43248743",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1fbd6f7e05c33dd43248743",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d1fbd6f7e05c33dd43248743",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Represent",
+      "release_date": "1993",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:6WZdfi2NcBRfx31kVxZhJe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ]
+    }
+  ]
+}

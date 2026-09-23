@@ -1,0 +1,126 @@
+{
+  "artist_id": "6w71vXwHI2Oz6I5OO41tRM",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0BBq4QyaBIiyUOZ6U7LjM9"
+      },
+      "href": "https://api.spotify.com/v1/albums/0BBq4QyaBIiyUOZ6U7LjM9",
+      "id": "0BBq4QyaBIiyUOZ6U7LjM9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f1710ebb5e80f83369e40e97",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f1710ebb5e80f83369e40e97",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f1710ebb5e80f83369e40e97",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Blue Rose",
+      "release_date": "2018-10-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0BBq4QyaBIiyUOZ6U7LjM9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w71vXwHI2Oz6I5OO41tRM",
+          "id": "6w71vXwHI2Oz6I5OO41tRM",
+          "name": "LaToiya Williams",
+          "type": "artist",
+          "uri": "spotify:artist:6w71vXwHI2Oz6I5OO41tRM"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5tTrPyjp0Sd4Dni9KwXZmz"
+      },
+      "href": "https://api.spotify.com/v1/albums/5tTrPyjp0Sd4Dni9KwXZmz",
+      "id": "5tTrPyjp0Sd4Dni9KwXZmz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a602b5877e94ad76a025191c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a602b5877e94ad76a025191c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a602b5877e94ad76a025191c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Young Roscoe Philaphornia",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5tTrPyjp0Sd4Dni9KwXZmz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xFFhK1VYJZ4P6xetMYDWN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xFFhK1VYJZ4P6xetMYDWN",
+          "id": "5xFFhK1VYJZ4P6xetMYDWN",
+          "name": "Roscoe",
+          "type": "artist",
+          "uri": "spotify:artist:5xFFhK1VYJZ4P6xetMYDWN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6w71vXwHI2Oz6I5OO41tRM",
+          "id": "6w71vXwHI2Oz6I5OO41tRM",
+          "name": "LaToiya Williams",
+          "type": "artist",
+          "uri": "spotify:artist:6w71vXwHI2Oz6I5OO41tRM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tZrWfaCLVG6ijO3C2ocbQ",
+          "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+          "name": "Kokane",
+          "type": "artist",
+          "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "artist_id": "5Igpc9iLZ3YGtKeYfSrrOE",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
+      },
+      "href": "https://api.spotify.com/v1/albums/3DmcV2cmZdX9olNRHcRUZ2",
+      "id": "3DmcV2cmZdX9olNRHcRUZ2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eef1231340b1f14dde4816f0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eef1231340b1f14dde4816f0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chemistry",
+      "release_date": "2025-07-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3DmcV2cmZdX9olNRHcRUZ2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/74E19vt4CK4rHhIzw1hBAC"
+      },
+      "href": "https://api.spotify.com/v1/albums/74E19vt4CK4rHhIzw1hBAC",
+      "id": "74E19vt4CK4rHhIzw1hBAC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a44224af15c17cb531cc1006",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a44224af15c17cb531cc1006",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a44224af15c17cb531cc1006",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Running Out",
+      "release_date": "2010-12-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:74E19vt4CK4rHhIzw1hBAC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake",
+          "type": "artist",
+          "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5WiohqjMNs7MtChjoHE9D1",
+          "id": "5WiohqjMNs7MtChjoHE9D1",
+          "name": "Marco Lys",
+          "type": "artist",
+          "uri": "spotify:artist:5WiohqjMNs7MtChjoHE9D1"
+        }
+      ]
+    }
+  ]
+}

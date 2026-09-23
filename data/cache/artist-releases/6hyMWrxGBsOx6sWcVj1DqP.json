@@ -1,0 +1,73 @@
+{
+  "artist_id": "6hyMWrxGBsOx6sWcVj1DqP",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2iuPf9ZWfno8GqJYnO90BY"
+      },
+      "href": "https://api.spotify.com/v1/albums/2iuPf9ZWfno8GqJYnO90BY",
+      "id": "2iuPf9ZWfno8GqJYnO90BY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ae37147b85589c58582ee681",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ae37147b85589c58582ee681",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ae37147b85589c58582ee681",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "More Than You Know",
+      "release_date": "2017-07-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2iuPf9ZWfno8GqJYnO90BY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/2XnBwblw31dfGnspMIwgWz",
+          "id": "2XnBwblw31dfGnspMIwgWz",
+          "name": "Axwell /\\ Ingrosso",
+          "type": "artist",
+          "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xNmvlEiICkRlRGqlNFZ43",
+          "id": "1xNmvlEiICkRlRGqlNFZ43",
+          "name": "Axwell",
+          "type": "artist",
+          "uri": "spotify:artist:1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6hyMWrxGBsOx6sWcVj1DqP",
+          "id": "6hyMWrxGBsOx6sWcVj1DqP",
+          "name": "Sebastian Ingrosso",
+          "type": "artist",
+          "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "artist_id": "3uISNNuONokIh21KiNharS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4csRYsXQ1hPrVlvL9Gzo8w"
+      },
+      "href": "https://api.spotify.com/v1/albums/4csRYsXQ1hPrVlvL9Gzo8w",
+      "id": "4csRYsXQ1hPrVlvL9Gzo8w",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac0ce8820f112e16eb9f4f47",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac0ce8820f112e16eb9f4f47",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ac0ce8820f112e16eb9f4f47",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Back b4 you're Lonely",
+      "release_date": "2007-04-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4csRYsXQ1hPrVlvL9Gzo8w",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3uISNNuONokIh21KiNharS",
+          "id": "3uISNNuONokIh21KiNharS",
+          "name": "Butch Cassidy",
+          "type": "artist",
+          "uri": "spotify:artist:3uISNNuONokIh21KiNharS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/153DSc5aP292d50HWp2SfF"
+          },
+          "href": "https://api.spotify.com/v1/artists/153DSc5aP292d50HWp2SfF",
+          "id": "153DSc5aP292d50HWp2SfF",
+          "name": "Damizza",
+          "type": "artist",
+          "uri": "spotify:artist:153DSc5aP292d50HWp2SfF"
+        }
+      ]
+    }
+  ]
+}
