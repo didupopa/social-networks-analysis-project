@@ -1,0 +1,192 @@
+{
+  "artist_id": "31ZNfGVEEcI9CyicPVJQni",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2gfW572QymdGUQJqybXEkJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/2gfW572QymdGUQJqybXEkJ",
+      "id": "2gfW572QymdGUQJqybXEkJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b6cd1126381da1f5986c05ad",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b6cd1126381da1f5986c05ad",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b6cd1126381da1f5986c05ad",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Songprints, Vol. 1",
+      "release_date": "2024-08-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2gfW572QymdGUQJqybXEkJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+          },
+          "href": "https://api.spotify.com/v1/artists/31ZNfGVEEcI9CyicPVJQni",
+          "id": "31ZNfGVEEcI9CyicPVJQni",
+          "name": "Junior Sanchez",
+          "type": "artist",
+          "uri": "spotify:artist:31ZNfGVEEcI9CyicPVJQni"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 5,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5nN9smyyfaofvdknp4iK9v"
+      },
+      "href": "https://api.spotify.com/v1/albums/5nN9smyyfaofvdknp4iK9v",
+      "id": "5nN9smyyfaofvdknp4iK9v",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d20c11759cb5f3210a1d327",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025d20c11759cb5f3210a1d327",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515d20c11759cb5f3210a1d327",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Da Kultur",
+      "release_date": "2020-04-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5nN9smyyfaofvdknp4iK9v",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+          },
+          "href": "https://api.spotify.com/v1/artists/31ZNfGVEEcI9CyicPVJQni",
+          "id": "31ZNfGVEEcI9CyicPVJQni",
+          "name": "Junior Sanchez",
+          "type": "artist",
+          "uri": "spotify:artist:31ZNfGVEEcI9CyicPVJQni"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57fp8oZ2P90tIcOpmAtZEi"
+          },
+          "href": "https://api.spotify.com/v1/artists/57fp8oZ2P90tIcOpmAtZEi",
+          "id": "57fp8oZ2P90tIcOpmAtZEi",
+          "name": "Demuir",
+          "type": "artist",
+          "uri": "spotify:artist:57fp8oZ2P90tIcOpmAtZEi"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/11aAIYoZr5YmijepvOqz2a"
+      },
+      "href": "https://api.spotify.com/v1/albums/11aAIYoZr5YmijepvOqz2a",
+      "id": "11aAIYoZr5YmijepvOqz2a",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c601a5010879ce06d7ccfacb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c601a5010879ce06d7ccfacb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c601a5010879ce06d7ccfacb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Under The Influence",
+      "release_date": "2017-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:11aAIYoZr5YmijepvOqz2a",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+          },
+          "href": "https://api.spotify.com/v1/artists/31ZNfGVEEcI9CyicPVJQni",
+          "id": "31ZNfGVEEcI9CyicPVJQni",
+          "name": "Junior Sanchez",
+          "type": "artist",
+          "uri": "spotify:artist:31ZNfGVEEcI9CyicPVJQni"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Uf7dohx6talCVa91D16Yn"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Uf7dohx6talCVa91D16Yn",
+      "id": "4Uf7dohx6talCVa91D16Yn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732180287f2cae76bdf2d19780",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022180287f2cae76bdf2d19780",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512180287f2cae76bdf2d19780",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Seize The Fewcha",
+      "release_date": "2011-01-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Uf7dohx6talCVa91D16Yn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+          },
+          "href": "https://api.spotify.com/v1/artists/31ZNfGVEEcI9CyicPVJQni",
+          "id": "31ZNfGVEEcI9CyicPVJQni",
+          "name": "Junior Sanchez",
+          "type": "artist",
+          "uri": "spotify:artist:31ZNfGVEEcI9CyicPVJQni"
+        }
+      ]
+    }
+  ]
+}

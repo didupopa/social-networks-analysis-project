@@ -1,0 +1,53 @@
+{
+  "artist_id": "0DoRa03IPuPzfAlD8aMgn9",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tBrOBz0JyOop8p9kA5GNT"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tBrOBz0JyOop8p9kA5GNT",
+      "id": "6tBrOBz0JyOop8p9kA5GNT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273829490ebbe3dd42442c100ed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02829490ebbe3dd42442c100ed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851829490ebbe3dd42442c100ed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Silent Movie",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tBrOBz0JyOop8p9kA5GNT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0DoRa03IPuPzfAlD8aMgn9"
+          },
+          "href": "https://api.spotify.com/v1/artists/0DoRa03IPuPzfAlD8aMgn9",
+          "id": "0DoRa03IPuPzfAlD8aMgn9",
+          "name": "Quiet Village",
+          "type": "artist",
+          "uri": "spotify:artist:0DoRa03IPuPzfAlD8aMgn9"
+        }
+      ]
+    }
+  ]
+}

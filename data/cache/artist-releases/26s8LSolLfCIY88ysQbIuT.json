@@ -1,0 +1,933 @@
+{
+  "artist_id": "26s8LSolLfCIY88ysQbIuT",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 20,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7eqMZNcCDoMXeEaQEMgcuX"
+      },
+      "href": "https://api.spotify.com/v1/albums/7eqMZNcCDoMXeEaQEMgcuX",
+      "id": "7eqMZNcCDoMXeEaQEMgcuX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27308b33782f9268c0581b2a7a8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0208b33782f9268c0581b2a7a8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485108b33782f9268c0581b2a7a8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Drugs & Liquor (Special Edition)",
+      "release_date": "2022-11-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7eqMZNcCDoMXeEaQEMgcuX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq"
+          },
+          "href": "https://api.spotify.com/v1/artists/21O7WwRkik43ErKppxDKJq",
+          "id": "21O7WwRkik43ErKppxDKJq",
+          "name": "Lil Wyte",
+          "type": "artist",
+          "uri": "spotify:artist:21O7WwRkik43ErKppxDKJq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Ev9arbgfDps5Ih69SBjOU"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Ev9arbgfDps5Ih69SBjOU",
+      "id": "2Ev9arbgfDps5Ih69SBjOU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273517e2abc81feabdc3edcc433",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02517e2abc81feabdc3edcc433",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851517e2abc81feabdc3edcc433",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Last 2 Walk",
+      "release_date": "2008-06-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Ev9arbgfDps5Ih69SBjOU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BCFGP220d01MbPISgnkJV"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BCFGP220d01MbPISgnkJV",
+      "id": "7BCFGP220d01MbPISgnkJV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fafb7f15c170580fa17598e7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fafb7f15c170580fa17598e7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fafb7f15c170580fa17598e7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Last 2 Walk: Chopped & Screwed",
+      "release_date": "2008-06-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7BCFGP220d01MbPISgnkJV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Pe9KCcaFK7CkeZPWXCuaB",
+      "id": "0Pe9KCcaFK7CkeZPWXCuaB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1dd764730dca1f388454e5e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1dd764730dca1f388454e5e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c1dd764730dca1f388454e5e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Most Known Unknown",
+      "release_date": "2006-06-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0Pe9KCcaFK7CkeZPWXCuaB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3a4s5MUsqBF5ip6tSextsq"
+      },
+      "href": "https://api.spotify.com/v1/albums/3a4s5MUsqBF5ip6tSextsq",
+      "id": "3a4s5MUsqBF5ip6tSextsq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738a55a52da5dd0b16df9f8ed0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028a55a52da5dd0b16df9f8ed0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518a55a52da5dd0b16df9f8ed0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Most Known Unknown (Clean)",
+      "release_date": "2005-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3a4s5MUsqBF5ip6tSextsq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7Jztd4BbYsmFuOwZSQmCBV"
+      },
+      "href": "https://api.spotify.com/v1/albums/7Jztd4BbYsmFuOwZSQmCBV",
+      "id": "7Jztd4BbYsmFuOwZSQmCBV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732edcae5b63acc3a335ea5e9e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022edcae5b63acc3a335ea5e9e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512edcae5b63acc3a335ea5e9e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Most Known Unknown (Screwed and Chopped)",
+      "release_date": "2005-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7Jztd4BbYsmFuOwZSQmCBV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1qXMUcOrHnZMSvJVZmaAdg"
+      },
+      "href": "https://api.spotify.com/v1/albums/1qXMUcOrHnZMSvJVZmaAdg",
+      "id": "1qXMUcOrHnZMSvJVZmaAdg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732706e7533116956fd437c4cc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022706e7533116956fd437c4cc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512706e7533116956fd437c4cc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Choices II: The Setup (Soundtrack)",
+      "release_date": "2005-04-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1qXMUcOrHnZMSvJVZmaAdg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6jrSpsh1oV0KQE7MLVsS42"
+      },
+      "href": "https://api.spotify.com/v1/albums/6jrSpsh1oV0KQE7MLVsS42",
+      "id": "6jrSpsh1oV0KQE7MLVsS42",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731c32d9600024a594923d4b22",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021c32d9600024a594923d4b22",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511c32d9600024a594923d4b22",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Da Unbreakables: Screwed & Chopped",
+      "release_date": "2003-12-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6jrSpsh1oV0KQE7MLVsS42",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ooWUQ5rqc0nTluqoH2y27"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ooWUQ5rqc0nTluqoH2y27",
+      "id": "4ooWUQ5rqc0nTluqoH2y27",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273728db1324f4f8aa7e68a23a1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02728db1324f4f8aa7e68a23a1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851728db1324f4f8aa7e68a23a1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Da Unbreakables (Explicit Version)",
+      "release_date": "2003-06-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ooWUQ5rqc0nTluqoH2y27",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ZQUtLS92F6KpXOguu25UX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ZQUtLS92F6KpXOguu25UX",
+      "id": "6ZQUtLS92F6KpXOguu25UX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ce094b5746c0f522a7d72a1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022ce094b5746c0f522a7d72a1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512ce094b5746c0f522a7d72a1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Choices: The Album",
+      "release_date": "2001-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ZQUtLS92F6KpXOguu25UX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0UkKpqa0G6CpgFIpsiIgsX"
+      },
+      "href": "https://api.spotify.com/v1/albums/0UkKpqa0G6CpgFIpsiIgsX",
+      "id": "0UkKpqa0G6CpgFIpsiIgsX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734efceb6fbf4db94db0162b8c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024efceb6fbf4db94db0162b8c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514efceb6fbf4db94db0162b8c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mystic Stylez: The First Album",
+      "release_date": "2001-04-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0UkKpqa0G6CpgFIpsiIgsX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7c2vgd6qltoG2fAGZN2Bpz"
+      },
+      "href": "https://api.spotify.com/v1/albums/7c2vgd6qltoG2fAGZN2Bpz",
+      "id": "7c2vgd6qltoG2fAGZN2Bpz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d84fe29f9290e1cae9aebef",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023d84fe29f9290e1cae9aebef",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513d84fe29f9290e1cae9aebef",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Crazyndalazdayz",
+      "release_date": "2000-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7c2vgd6qltoG2fAGZN2Bpz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6EXX0GpVsILp9TGCfu7AVG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6EXX0GpVsILp9TGCfu7AVG",
+          "id": "6EXX0GpVsILp9TGCfu7AVG",
+          "name": "Tear Da Club Up Thugs",
+          "type": "artist",
+          "uri": "spotify:artist:6EXX0GpVsILp9TGCfu7AVG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Dmq9SPWo3s1VU0pfkNkbz"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Dmq9SPWo3s1VU0pfkNkbz",
+      "id": "6Dmq9SPWo3s1VU0pfkNkbz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273051e7e095eefbfc845fce3dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02051e7e095eefbfc845fce3dc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851051e7e095eefbfc845fce3dc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kings Of Memphis: Underground, Vol. 3",
+      "release_date": "2000-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Dmq9SPWo3s1VU0pfkNkbz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
+      },
+      "href": "https://api.spotify.com/v1/albums/16T5Usl6Qs24qps5ZwIeVI",
+      "id": "16T5Usl6Qs24qps5ZwIeVI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d1e3fb810a8c4a1271425fd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d1e3fb810a8c4a1271425fd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d1e3fb810a8c4a1271425fd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "When the Smoke Clears: Sixty 6, Sixty 1",
+      "release_date": "2000-06-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:16T5Usl6Qs24qps5ZwIeVI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2makWi6Ev6N4qSc09eRZL3"
+      },
+      "href": "https://api.spotify.com/v1/albums/2makWi6Ev6N4qSc09eRZL3",
+      "id": "2makWi6Ev6N4qSc09eRZL3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27385a20d2a049772d1e9a46575",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0285a20d2a049772d1e9a46575",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485185a20d2a049772d1e9a46575",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Club Memphis - Underground Volume 2",
+      "release_date": "1999-08-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2makWi6Ev6N4qSc09eRZL3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7HtwhXnLsFRihgnP3PMUUR"
+      },
+      "href": "https://api.spotify.com/v1/albums/7HtwhXnLsFRihgnP3PMUUR",
+      "id": "7HtwhXnLsFRihgnP3PMUUR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d72171870635b39a60c966b8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d72171870635b39a60c966b8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d72171870635b39a60c966b8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Underground Vol. I",
+      "release_date": "1999-03-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7HtwhXnLsFRihgnP3PMUUR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ElGT0oRsmXHf63td4IEbj"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ElGT0oRsmXHf63td4IEbj",
+      "id": "6ElGT0oRsmXHf63td4IEbj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0c508d6b9fbd230c61cd9ad",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0c508d6b9fbd230c61cd9ad",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b0c508d6b9fbd230c61cd9ad",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Late Nite Tip",
+      "release_date": "1997-11-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ElGT0oRsmXHf63td4IEbj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3mdsJ6WjtODV8Wax7xntBB"
+      },
+      "href": "https://api.spotify.com/v1/albums/3mdsJ6WjtODV8Wax7xntBB",
+      "id": "3mdsJ6WjtODV8Wax7xntBB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f9cdd04ce76355cb59747818",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f9cdd04ce76355cb59747818",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f9cdd04ce76355cb59747818",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chapter 2: World Domination",
+      "release_date": "1997-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3mdsJ6WjtODV8Wax7xntBB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6wNLWje01aFgHlHrdCd1jv"
+      },
+      "href": "https://api.spotify.com/v1/albums/6wNLWje01aFgHlHrdCd1jv",
+      "id": "6wNLWje01aFgHlHrdCd1jv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e576d4f541f17afece75db9e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e576d4f541f17afece75db9e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e576d4f541f17afece75db9e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The End",
+      "release_date": "1997-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6wNLWje01aFgHlHrdCd1jv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Qjiv90Jq6ux1mKEru9Rq6"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Qjiv90Jq6ux1mKEru9Rq6",
+      "id": "5Qjiv90Jq6ux1mKEru9Rq6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cef458898212a3fdaa2bf102",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cef458898212a3fdaa2bf102",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cef458898212a3fdaa2bf102",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live By Yo Rep(Bone Dis)",
+      "release_date": "1995-11-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Qjiv90Jq6ux1mKEru9Rq6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/03dao4rkv9ZZ95IJrnugVM"
+      },
+      "href": "https://api.spotify.com/v1/albums/03dao4rkv9ZZ95IJrnugVM",
+      "id": "03dao4rkv9ZZ95IJrnugVM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3518360cc393a18c409dcae",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3518360cc393a18c409dcae",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3518360cc393a18c409dcae",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mystic Stylez",
+      "release_date": "1995-05-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:03dao4rkv9ZZ95IJrnugVM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          },
+          "href": "https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT",
+          "id": "26s8LSolLfCIY88ysQbIuT",
+          "name": "Three 6 Mafia",
+          "type": "artist",
+          "uri": "spotify:artist:26s8LSolLfCIY88ysQbIuT"
+        }
+      ]
+    }
+  ]
+}

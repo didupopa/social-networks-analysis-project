@@ -1,0 +1,53 @@
+{
+  "artist_id": "6mljSBQ36CJgNZBKAUAo8L",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4isFwXTib9FNr3rptqpesV"
+      },
+      "href": "https://api.spotify.com/v1/albums/4isFwXTib9FNr3rptqpesV",
+      "id": "4isFwXTib9FNr3rptqpesV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fa355264f70dece2be6f6e54",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fa355264f70dece2be6f6e54",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fa355264f70dece2be6f6e54",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Change the World",
+      "release_date": "2011-06-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4isFwXTib9FNr3rptqpesV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6mljSBQ36CJgNZBKAUAo8L"
+          },
+          "href": "https://api.spotify.com/v1/artists/6mljSBQ36CJgNZBKAUAo8L",
+          "id": "6mljSBQ36CJgNZBKAUAo8L",
+          "name": "Play & Win",
+          "type": "artist",
+          "uri": "spotify:artist:6mljSBQ36CJgNZBKAUAo8L"
+        }
+      ]
+    }
+  ]
+}

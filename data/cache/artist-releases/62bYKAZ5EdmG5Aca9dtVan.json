@@ -1,0 +1,73 @@
+{
+  "artist_id": "62bYKAZ5EdmG5Aca9dtVan",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3RCgdIR6ApOpv36STNGj6k"
+      },
+      "href": "https://api.spotify.com/v1/albums/3RCgdIR6ApOpv36STNGj6k",
+      "id": "3RCgdIR6ApOpv36STNGj6k",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b85cbacef0a75265cf121c4d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b85cbacef0a75265cf121c4d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b85cbacef0a75265cf121c4d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Can We Do Tomorrow Another Day?",
+      "release_date": "2023-05-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3RCgdIR6ApOpv36STNGj6k",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3odcbVRgKE0GhIqHh7miu4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3odcbVRgKE0GhIqHh7miu4",
+          "id": "3odcbVRgKE0GhIqHh7miu4",
+          "name": "Galen & Paul",
+          "type": "artist",
+          "uri": "spotify:artist:3odcbVRgKE0GhIqHh7miu4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7DjUShIwwYG9UeXsnl14NN"
+          },
+          "href": "https://api.spotify.com/v1/artists/7DjUShIwwYG9UeXsnl14NN",
+          "id": "7DjUShIwwYG9UeXsnl14NN",
+          "name": "Galen Ayers",
+          "type": "artist",
+          "uri": "spotify:artist:7DjUShIwwYG9UeXsnl14NN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
+          },
+          "href": "https://api.spotify.com/v1/artists/62bYKAZ5EdmG5Aca9dtVan",
+          "id": "62bYKAZ5EdmG5Aca9dtVan",
+          "name": "Paul Simonon",
+          "type": "artist",
+          "uri": "spotify:artist:62bYKAZ5EdmG5Aca9dtVan"
+        }
+      ]
+    }
+  ]
+}

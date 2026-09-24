@@ -1,0 +1,458 @@
+{
+  "album_id": "7Eq9kjeFYGjUAlEgDrAiOU",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PIQZvIu0HUtkP0LfWMfcF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PIQZvIu0HUtkP0LfWMfcF",
+      "id": "5PIQZvIu0HUtkP0LfWMfcF",
+      "name": "Embraceable You",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5PIQZvIu0HUtkP0LfWMfcF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ZcJXldoq09BRIMl0Qh1Vm",
+          "id": "0ZcJXldoq09BRIMl0Qh1Vm",
+          "name": "Dave Koz",
+          "type": "artist",
+          "uri": "spotify:artist:0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PLdXQnXbMtY8Ut7cvAYUE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PLdXQnXbMtY8Ut7cvAYUE",
+      "id": "6PLdXQnXbMtY8Ut7cvAYUE",
+      "name": "For Sentimental Reasons (feat. Dave Koz)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6PLdXQnXbMtY8Ut7cvAYUE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          },
+          "href": "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+          "id": "6PAt558ZEZl0DmdXlnjMgD",
+          "name": "Eric Clapton",
+          "type": "artist",
+          "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aSXlyZpJ0brh17ty4JNMB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0aSXlyZpJ0brh17ty4JNMB",
+      "id": "0aSXlyZpJ0brh17ty4JNMB",
+      "restrictions": {
+        "reason": "market"
+      },
+      "name": "Blue Moon (feat. Eric Clapton)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0aSXlyZpJ0brh17ty4JNMB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          },
+          "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+          "id": "7guDJrEfX3qb6FEbdPA5qi",
+          "name": "Stevie Wonder",
+          "type": "artist",
+          "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5AgBvCkNGaJ3hwale3QSDj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5AgBvCkNGaJ3hwale3QSDj",
+      "id": "5AgBvCkNGaJ3hwale3QSDj",
+      "name": "What A Wonderful World (feat. Stevie Wonder)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5AgBvCkNGaJ3hwale3QSDj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6W2kTdZu9nMDLRltwNhiBD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6W2kTdZu9nMDLRltwNhiBD",
+      "id": "6W2kTdZu9nMDLRltwNhiBD",
+      "name": "Stardust",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6W2kTdZu9nMDLRltwNhiBD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y0kncDD4J9wxCyfKr10W",
+          "id": "13y0kncDD4J9wxCyfKr10W",
+          "name": "Bette Midler",
+          "type": "artist",
+          "uri": "spotify:artist:13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KpDQz5SrJQOCx8fVf6mDf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4KpDQz5SrJQOCx8fVf6mDf",
+      "id": "4KpDQz5SrJQOCx8fVf6mDf",
+      "name": "Manhattan (feat. Bette Midler)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4KpDQz5SrJQOCx8fVf6mDf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0SPkat5bgfP5wo2kbqZIwu",
+          "id": "0SPkat5bgfP5wo2kbqZIwu",
+          "name": "Dave Grusin",
+          "type": "artist",
+          "uri": "spotify:artist:0SPkat5bgfP5wo2kbqZIwu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/55pQPRerkQoaraCQaRAihu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/55pQPRerkQoaraCQaRAihu",
+      "id": "55pQPRerkQoaraCQaRAihu",
+      "name": "'S Wonderful (feat. Dave Grusin)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:55pQPRerkQoaraCQaRAihu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/56lnXV8vtaIBVIYUQtlv42"
+      },
+      "href": "https://api.spotify.com/v1/tracks/56lnXV8vtaIBVIYUQtlv42",
+      "id": "56lnXV8vtaIBVIYUQtlv42",
+      "name": "Isn't It Romantic",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:56lnXV8vtaIBVIYUQtlv42",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1e2kkWNEwJcOv39aKMTuEP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1e2kkWNEwJcOv39aKMTuEP",
+      "id": "1e2kkWNEwJcOv39aKMTuEP",
+      "name": "I Can't Get Started",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1e2kkWNEwJcOv39aKMTuEP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3pCKlcAtgRCZsT4wRTVYDS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3pCKlcAtgRCZsT4wRTVYDS",
+      "id": "3pCKlcAtgRCZsT4wRTVYDS",
+      "name": "But Not For Me",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3pCKlcAtgRCZsT4wRTVYDS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MGQZNEMaEICyku3cSDrnJ",
+          "id": "0MGQZNEMaEICyku3cSDrnJ",
+          "name": "Arturo Sandoval",
+          "type": "artist",
+          "uri": "spotify:artist:0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FvPdpmM0oogDvlrlvlxhN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6FvPdpmM0oogDvlrlvlxhN",
+      "id": "6FvPdpmM0oogDvlrlvlxhN",
+      "name": "A Kiss To Build A Dream On (feat. Arturo Sandoval)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6FvPdpmM0oogDvlrlvlxhN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          },
+          "href": "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU",
+          "name": "Dolly Parton",
+          "type": "artist",
+          "uri": "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/71BWL5JvJLFCgy91mOcFUt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/71BWL5JvJLFCgy91mOcFUt",
+      "id": "71BWL5JvJLFCgy91mOcFUt",
+      "name": "Baby, It's Cold Outside (feat. Dolly Parton)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:71BWL5JvJLFCgy91mOcFUt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/65cIgw9x1CGjpn1ar351Rl",
+      "id": "65cIgw9x1CGjpn1ar351Rl",
+      "name": "Night And Day",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:65cIgw9x1CGjpn1ar351Rl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+          "name": "Rod Stewart",
+          "type": "artist",
+          "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/21aXpBy0nWs9qx92z4y4J0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/21aXpBy0nWs9qx92z4y4J0",
+      "id": "21aXpBy0nWs9qx92z4y4J0",
+      "name": "A Nightingale Sang In Berkeley Square",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:21aXpBy0nWs9qx92z4y4J0",
+      "is_local": false
+    }
+  ]
+}

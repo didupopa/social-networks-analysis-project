@@ -1,0 +1,53 @@
+{
+  "artist_id": "0Dc2rdPzleezxhvQhQbXuS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6s34yhSVggqpF7CMaLWZks"
+      },
+      "href": "https://api.spotify.com/v1/albums/6s34yhSVggqpF7CMaLWZks",
+      "id": "6s34yhSVggqpF7CMaLWZks",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738bd6e7d684a03e8389978a09",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028bd6e7d684a03e8389978a09",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518bd6e7d684a03e8389978a09",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Idris Elba Presents mi Mandela",
+      "release_date": "2014-11-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6s34yhSVggqpF7CMaLWZks",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS",
+          "id": "0Dc2rdPzleezxhvQhQbXuS",
+          "name": "IDRIS",
+          "type": "artist",
+          "uri": "spotify:artist:0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ]
+    }
+  ]
+}

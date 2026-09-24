@@ -1,0 +1,622 @@
+{
+  "album_id": "5blwKJLiGwjUFczg0PB1Nu",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 56737,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SIn5ceOc6ufNgXSQPciQk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SIn5ceOc6ufNgXSQPciQk",
+      "id": "1SIn5ceOc6ufNgXSQPciQk",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1SIn5ceOc6ufNgXSQPciQk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+          "id": "0lEssBAxQl2In4RpaB1C2Y",
+          "name": "Talib Kweli",
+          "type": "artist",
+          "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164533,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0d8ulm0Hh0JVyypDVOaHHB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0d8ulm0Hh0JVyypDVOaHHB",
+      "id": "0d8ulm0Hh0JVyypDVOaHHB",
+      "name": "Ladies & Gentlemen",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0d8ulm0Hh0JVyypDVOaHHB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160528,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7i9hPGYOeVOV3WfgpZ7suo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7i9hPGYOeVOV3WfgpZ7suo",
+      "id": "7i9hPGYOeVOV3WfgpZ7suo",
+      "name": "Starlight Glitz",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7i9hPGYOeVOV3WfgpZ7suo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kortApcf0ntRWexUkJE4H",
+          "id": "3kortApcf0ntRWexUkJE4H",
+          "name": "Uncle Murda",
+          "type": "artist",
+          "uri": "spotify:artist:3kortApcf0ntRWexUkJE4H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250634,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6J0WFaWMlaob7Fv1txEASu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6J0WFaWMlaob7Fv1txEASu",
+      "id": "6J0WFaWMlaob7Fv1txEASu",
+      "name": "Clean Getaway",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6J0WFaWMlaob7Fv1txEASu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+          "id": "1BH45DVSTeGBvcYXNCd67g",
+          "name": "M.O.P.",
+          "type": "artist",
+          "uri": "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260144,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2bonJ4kd3tnGlTnQvLY6y1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2bonJ4kd3tnGlTnQvLY6y1",
+      "id": "2bonJ4kd3tnGlTnQvLY6y1",
+      "name": "No Uniform",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2bonJ4kd3tnGlTnQvLY6y1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 342672,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6vJjtCrZwsGjI6D0oG5pWC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6vJjtCrZwsGjI6D0oG5pWC",
+      "id": "6vJjtCrZwsGjI6D0oG5pWC",
+      "name": "Meagan Good",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6vJjtCrZwsGjI6D0oG5pWC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252281,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0MdfALHKvEZ8sz7ABYxDr7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0MdfALHKvEZ8sz7ABYxDr7",
+      "id": "0MdfALHKvEZ8sz7ABYxDr7",
+      "name": "Let's Toast",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0MdfALHKvEZ8sz7ABYxDr7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+          },
+          "href": "https://api.spotify.com/v1/artists/0g9vAlRPK9Gt3FKCekk4TW",
+          "id": "0g9vAlRPK9Gt3FKCekk4TW",
+          "name": "Ab-Soul",
+          "type": "artist",
+          "uri": "spotify:artist:0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182322,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0JgNqQhDVewkHMFi6OgGeM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0JgNqQhDVewkHMFi6OgGeM",
+      "id": "0JgNqQhDVewkHMFi6OgGeM",
+      "name": "Don't You Just Love It",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0JgNqQhDVewkHMFi6OgGeM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 113851,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BgF916tauy8YWSTMl6A7E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5BgF916tauy8YWSTMl6A7E",
+      "id": "5BgF916tauy8YWSTMl6A7E",
+      "name": "You Never See A City Like (The Bronx)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5BgF916tauy8YWSTMl6A7E",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rkRbT9GLNwFftxEiTpCMX"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rkRbT9GLNwFftxEiTpCMX",
+          "id": "4rkRbT9GLNwFftxEiTpCMX",
+          "name": "Tyler Woods",
+          "type": "artist",
+          "uri": "spotify:artist:4rkRbT9GLNwFftxEiTpCMX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262589,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2KQj0HEQvcd081lTz6kPRB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2KQj0HEQvcd081lTz6kPRB",
+      "id": "2KQj0HEQvcd081lTz6kPRB",
+      "name": "Love Traps",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2KQj0HEQvcd081lTz6kPRB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243369,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1suWSpqD2JjNNAEYKf5aSn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1suWSpqD2JjNNAEYKf5aSn",
+      "id": "1suWSpqD2JjNNAEYKf5aSn",
+      "name": "80 Blocks From Tiffany's",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1suWSpqD2JjNNAEYKf5aSn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 140630,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HuWSZYbStXkUidcoBZnP8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HuWSZYbStXkUidcoBZnP8",
+      "id": "6HuWSZYbStXkUidcoBZnP8",
+      "name": "Glitter & Gold",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6HuWSZYbStXkUidcoBZnP8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203222,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2lTVo5jzTSg7k6AEGG5dEH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2lTVo5jzTSg7k6AEGG5dEH",
+      "id": "2lTVo5jzTSg7k6AEGG5dEH",
+      "name": "Dream Journey",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2lTVo5jzTSg7k6AEGG5dEH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 158480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qs3wrLTeBEru8G7fl2QIV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qs3wrLTeBEru8G7fl2QIV",
+      "id": "2qs3wrLTeBEru8G7fl2QIV",
+      "name": "Pot A Butta",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2qs3wrLTeBEru8G7fl2QIV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+          "id": "3BeQqzKdlARoOd6y30kCO2",
+          "name": "Pete Rock",
+          "type": "artist",
+          "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4oLZx5FplbgfM8DEe9U8LB",
+          "id": "4oLZx5FplbgfM8DEe9U8LB",
+          "name": "Camp Lo",
+          "type": "artist",
+          "uri": "spotify:artist:4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 31683,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51EvtFBt9HtXyq26OHrqAN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51EvtFBt9HtXyq26OHrqAN",
+      "id": "51EvtFBt9HtXyq26OHrqAN",
+      "name": "Outro",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:51EvtFBt9HtXyq26OHrqAN",
+      "is_local": false
+    }
+  ]
+}

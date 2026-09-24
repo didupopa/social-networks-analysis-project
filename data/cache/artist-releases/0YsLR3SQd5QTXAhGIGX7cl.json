@@ -1,0 +1,626 @@
+{
+  "artist_id": "0YsLR3SQd5QTXAhGIGX7cl",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ARlyjAssp1yxC3q6OPKAi"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ARlyjAssp1yxC3q6OPKAi",
+      "id": "5ARlyjAssp1yxC3q6OPKAi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27335f0ee863af012e80ee56697",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0235f0ee863af012e80ee56697",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485135f0ee863af012e80ee56697",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "This Just In!",
+      "release_date": "2025-04-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ARlyjAssp1yxC3q6OPKAi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LbffXMGzToms1PsLmJqFK"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LbffXMGzToms1PsLmJqFK",
+          "id": "2LbffXMGzToms1PsLmJqFK",
+          "name": "thegoodnews.",
+          "type": "artist",
+          "uri": "spotify:artist:2LbffXMGzToms1PsLmJqFK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Iws2CSQQ8wj8kSfjo8Oov"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Iws2CSQQ8wj8kSfjo8Oov",
+          "id": "5Iws2CSQQ8wj8kSfjo8Oov",
+          "name": "Po3 & CTZN",
+          "type": "artist",
+          "uri": "spotify:artist:5Iws2CSQQ8wj8kSfjo8Oov"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Ur6PUIIlgbD9P2WOXSGnE"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Ur6PUIIlgbD9P2WOXSGnE",
+      "id": "3Ur6PUIIlgbD9P2WOXSGnE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735f164ced8c8aed2629996d59",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025f164ced8c8aed2629996d59",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515f164ced8c8aed2629996d59",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Subatomic",
+      "release_date": "2021-07-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Ur6PUIIlgbD9P2WOXSGnE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zFaWPA8Jobgf5egh38KD2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zFaWPA8Jobgf5egh38KD2",
+          "id": "3zFaWPA8Jobgf5egh38KD2",
+          "name": "Kool Keith",
+          "type": "artist",
+          "uri": "spotify:artist:3zFaWPA8Jobgf5egh38KD2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0kuVV38Mxbg4yg4xFskXbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/0kuVV38Mxbg4yg4xFskXbG",
+          "id": "0kuVV38Mxbg4yg4xFskXbG",
+          "name": "FNKPMPN",
+          "type": "artist",
+          "uri": "spotify:artist:0kuVV38Mxbg4yg4xFskXbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4yTJAieNM6t5ZTXxFZw8SA"
+      },
+      "href": "https://api.spotify.com/v1/albums/4yTJAieNM6t5ZTXxFZw8SA",
+      "id": "4yTJAieNM6t5ZTXxFZw8SA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732dfc0b0d05cf29f79481c764",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022dfc0b0d05cf29f79481c764",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512dfc0b0d05cf29f79481c764",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gate 13 Remix",
+      "release_date": "2020-02-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4yTJAieNM6t5ZTXxFZw8SA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WoeMzXhDQyoFCKdji4FlL",
+          "id": "4WoeMzXhDQyoFCKdji4FlL",
+          "name": "Amp Live",
+          "type": "artist",
+          "uri": "spotify:artist:4WoeMzXhDQyoFCKdji4FlL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5bzYJkMHCGD25yG9XxMzcy"
+      },
+      "href": "https://api.spotify.com/v1/albums/5bzYJkMHCGD25yG9XxMzcy",
+      "id": "5bzYJkMHCGD25yG9XxMzcy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f01ef276b9a29b0e592d58be",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f01ef276b9a29b0e592d58be",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f01ef276b9a29b0e592d58be",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gate 13",
+      "release_date": "2018-04-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5bzYJkMHCGD25yG9XxMzcy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WoeMzXhDQyoFCKdji4FlL",
+          "id": "4WoeMzXhDQyoFCKdji4FlL",
+          "name": "Amp Live",
+          "type": "artist",
+          "uri": "spotify:artist:4WoeMzXhDQyoFCKdji4FlL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2yhGHm3uwHkH4P6V5FDQRL"
+      },
+      "href": "https://api.spotify.com/v1/albums/2yhGHm3uwHkH4P6V5FDQRL",
+      "id": "2yhGHm3uwHkH4P6V5FDQRL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273220fb44e1c2d5214544da4c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851220fb44e1c2d5214544da4c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gate 13",
+      "release_date": "2018",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:2yhGHm3uwHkH4P6V5FDQRL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WoeMzXhDQyoFCKdji4FlL",
+          "id": "4WoeMzXhDQyoFCKdji4FlL",
+          "name": "Amp Live",
+          "type": "artist",
+          "uri": "spotify:artist:4WoeMzXhDQyoFCKdji4FlL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7KXvYosCPj2mFArNTXUFeo"
+      },
+      "href": "https://api.spotify.com/v1/albums/7KXvYosCPj2mFArNTXUFeo",
+      "id": "7KXvYosCPj2mFArNTXUFeo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730a630c53bf7b0b688a9e7c1c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020a630c53bf7b0b688a9e7c1c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510a630c53bf7b0b688a9e7c1c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Parallel Uni-Verses (Anniversary Edition)",
+      "release_date": "2017-10-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7KXvYosCPj2mFArNTXUFeo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1EoI42jrKtZiXtti5YormP"
+          },
+          "href": "https://api.spotify.com/v1/artists/1EoI42jrKtZiXtti5YormP",
+          "id": "1EoI42jrKtZiXtti5YormP",
+          "name": "Tame One",
+          "type": "artist",
+          "uri": "spotify:artist:1EoI42jrKtZiXtti5YormP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0W5ekxj9nuUDTWWCHQXUWT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0W5ekxj9nuUDTWWCHQXUWT",
+          "id": "0W5ekxj9nuUDTWWCHQXUWT",
+          "name": "Parallel Thought",
+          "type": "artist",
+          "uri": "spotify:artist:0W5ekxj9nuUDTWWCHQXUWT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7EtEyLikYkV0YqaasFJhWc"
+      },
+      "href": "https://api.spotify.com/v1/albums/7EtEyLikYkV0YqaasFJhWc",
+      "id": "7EtEyLikYkV0YqaasFJhWc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c6491aa1ccea27f1eff1c84a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c6491aa1ccea27f1eff1c84a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c6491aa1ccea27f1eff1c84a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Attractive Sin",
+      "release_date": "2012-06-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7EtEyLikYkV0YqaasFJhWc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0W5ekxj9nuUDTWWCHQXUWT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0W5ekxj9nuUDTWWCHQXUWT",
+          "id": "0W5ekxj9nuUDTWWCHQXUWT",
+          "name": "Parallel Thought",
+          "type": "artist",
+          "uri": "spotify:artist:0W5ekxj9nuUDTWWCHQXUWT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/688rHtijOARWulxLV08ewi"
+      },
+      "href": "https://api.spotify.com/v1/albums/688rHtijOARWulxLV08ewi",
+      "id": "688rHtijOARWulxLV08ewi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f98c1109f51630df65045ddb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f98c1109f51630df65045ddb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f98c1109f51630df65045ddb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "If You Must 12\"",
+      "release_date": "2004-10-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:688rHtijOARWulxLV08ewi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6DHCRrWGl9f57G4JBu4AVv"
+      },
+      "href": "https://api.spotify.com/v1/albums/6DHCRrWGl9f57G4JBu4AVv",
+      "id": "6DHCRrWGl9f57G4JBu4AVv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273635be3a071797b75510800d9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02635be3a071797b75510800d9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851635be3a071797b75510800d9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Both Sides Of The Brain",
+      "release_date": "2000-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6DHCRrWGl9f57G4JBu4AVv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6z1G1z83OlcdFBxAoHML3H"
+      },
+      "href": "https://api.spotify.com/v1/albums/6z1G1z83OlcdFBxAoHML3H",
+      "id": "6z1G1z83OlcdFBxAoHML3H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273aafc8647846661b4d4f14749",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02aafc8647846661b4d4f14749",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851aafc8647846661b4d4f14749",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Future Development",
+      "release_date": "1998",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:6z1G1z83OlcdFBxAoHML3H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3spPMkueLuatXNwReFv25r"
+      },
+      "href": "https://api.spotify.com/v1/albums/3spPMkueLuatXNwReFv25r",
+      "id": "3spPMkueLuatXNwReFv25r",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737929c682510ec8a561a489f9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027929c682510ec8a561a489f9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517929c682510ec8a561a489f9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "No Need For Alarm",
+      "release_date": "1993-11-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3spPMkueLuatXNwReFv25r",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor"
+      },
+      "href": "https://api.spotify.com/v1/albums/0AK7woKmcPwiCyv3SDiKor",
+      "id": "0AK7woKmcPwiCyv3SDiKor",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27374b173cf1edea5e19963431d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0274b173cf1edea5e19963431d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485174b173cf1edea5e19963431d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Wish My Brother George Was Here",
+      "release_date": "1991-10-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0AK7woKmcPwiCyv3SDiKor",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YsLR3SQd5QTXAhGIGX7cl",
+          "id": "0YsLR3SQd5QTXAhGIGX7cl",
+          "name": "Del The Funky Homosapien",
+          "type": "artist",
+          "uri": "spotify:artist:0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ]
+    }
+  ]
+}

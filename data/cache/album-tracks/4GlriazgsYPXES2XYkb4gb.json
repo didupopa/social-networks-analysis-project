@@ -1,0 +1,683 @@
+{
+  "album_id": "4GlriazgsYPXES2XYkb4gb",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqTCXbnpkMutsNHe9nsdR",
+          "id": "7pqTCXbnpkMutsNHe9nsdR",
+          "name": "Principe Baru",
+          "type": "artist",
+          "uri": "spotify:artist:7pqTCXbnpkMutsNHe9nsdR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187881,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xLgzOnXUBgvIkzqqMBvd7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2xLgzOnXUBgvIkzqqMBvd7",
+      "id": "2xLgzOnXUBgvIkzqqMBvd7",
+      "name": "Suenala",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2xLgzOnXUBgvIkzqqMBvd7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Yw1hzqrJkVzGIliYmCKvF",
+          "id": "3Yw1hzqrJkVzGIliYmCKvF",
+          "name": "DJ Kiko El De Lo Alka",
+          "type": "artist",
+          "uri": "spotify:artist:3Yw1hzqrJkVzGIliYmCKvF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 128265,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4i8VDZE0NAFljxhxsqm6Lp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4i8VDZE0NAFljxhxsqm6Lp",
+      "id": "4i8VDZE0NAFljxhxsqm6Lp",
+      "name": "El Tubo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4i8VDZE0NAFljxhxsqm6Lp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+          "id": "0A0FS04o6zMoto8OKPsDwY",
+          "name": "YG",
+          "type": "artist",
+          "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+          },
+          "href": "https://api.spotify.com/v1/artists/6P6GTRTigHBp8ZesNtpCKH",
+          "id": "6P6GTRTigHBp8ZesNtpCKH",
+          "name": "Almighty",
+          "type": "artist",
+          "uri": "spotify:artist:6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+          },
+          "href": "https://api.spotify.com/v1/artists/0XXR1ghu7pFEcfdmhq52E9",
+          "id": "0XXR1ghu7pFEcfdmhq52E9",
+          "name": "Braulio Fogon",
+          "type": "artist",
+          "uri": "spotify:artist:0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+          },
+          "href": "https://api.spotify.com/v1/artists/39FKVjqhZLz4E1iG77d5AO",
+          "id": "39FKVjqhZLz4E1iG77d5AO",
+          "name": "Dowba Montana",
+          "type": "artist",
+          "uri": "spotify:artist:39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 341578,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0yAAwSTtc60mLGsRiulDpZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0yAAwSTtc60mLGsRiulDpZ",
+      "id": "0yAAwSTtc60mLGsRiulDpZ",
+      "name": "Ma Nigga",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0yAAwSTtc60mLGsRiulDpZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206422,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UBkVDuBcuNpx3WGRbMjW9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UBkVDuBcuNpx3WGRbMjW9",
+      "id": "5UBkVDuBcuNpx3WGRbMjW9",
+      "name": "Problema",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5UBkVDuBcuNpx3WGRbMjW9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ezBKqi9gOB2jt9OUw2cmc",
+          "id": "4ezBKqi9gOB2jt9OUw2cmc",
+          "name": "Pablo Piddy",
+          "type": "artist",
+          "uri": "spotify:artist:4ezBKqi9gOB2jt9OUw2cmc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iI5KWXLjw1tqLQsdjuo0e",
+          "id": "2iI5KWXLjw1tqLQsdjuo0e",
+          "name": "Chael Produciendo",
+          "type": "artist",
+          "uri": "spotify:artist:2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224482,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6hL2ueGsHbV7SgMSwMmTcR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6hL2ueGsHbV7SgMSwMmTcR",
+      "id": "6hL2ueGsHbV7SgMSwMmTcR",
+      "name": "Paketum",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6hL2ueGsHbV7SgMSwMmTcR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 124615,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Fq7NizRrGBo31ktNQg91n"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Fq7NizRrGBo31ktNQg91n",
+      "id": "7Fq7NizRrGBo31ktNQg91n",
+      "name": "La Rama",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7Fq7NizRrGBo31ktNQg91n",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190695,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wyflV0vgduTpXuBZKYTxq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wyflV0vgduTpXuBZKYTxq",
+      "id": "2wyflV0vgduTpXuBZKYTxq",
+      "name": "Un Selfie Con 3 Millones",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2wyflV0vgduTpXuBZKYTxq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qPRgWcEOGRzoIST0sHAiI",
+          "id": "5qPRgWcEOGRzoIST0sHAiI",
+          "name": "Angel Dior",
+          "type": "artist",
+          "uri": "spotify:artist:5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184444,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/09myFvCOp6kftqb9tb18uI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/09myFvCOp6kftqb9tb18uI",
+      "id": "09myFvCOp6kftqb9tb18uI",
+      "name": "Un Besito Pikito",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:09myFvCOp6kftqb9tb18uI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0RrPEBKU2lI31tNcY8f938"
+          },
+          "href": "https://api.spotify.com/v1/artists/0RrPEBKU2lI31tNcY8f938",
+          "id": "0RrPEBKU2lI31tNcY8f938",
+          "name": "Los Crazy RD",
+          "type": "artist",
+          "uri": "spotify:artist:0RrPEBKU2lI31tNcY8f938"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 281637,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1c5dEfeLOGqAlMKdMC0LoU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1c5dEfeLOGqAlMKdMC0LoU",
+      "id": "1c5dEfeLOGqAlMKdMC0LoU",
+      "name": "Pila de Mueck",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1c5dEfeLOGqAlMKdMC0LoU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166099,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6J8DI5a1cx3D8Qd77jemIu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6J8DI5a1cx3D8Qd77jemIu",
+      "id": "6J8DI5a1cx3D8Qd77jemIu",
+      "name": "Consejo o Efectivo",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6J8DI5a1cx3D8Qd77jemIu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205217,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3kttZPwKgs2LzR5WYxt5i2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3kttZPwKgs2LzR5WYxt5i2",
+      "id": "3kttZPwKgs2LzR5WYxt5i2",
+      "name": "El Locu",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3kttZPwKgs2LzR5WYxt5i2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6BeoccEchFEQCVpi66gsun"
+          },
+          "href": "https://api.spotify.com/v1/artists/6BeoccEchFEQCVpi66gsun",
+          "id": "6BeoccEchFEQCVpi66gsun",
+          "name": "Brayitan",
+          "type": "artist",
+          "uri": "spotify:artist:6BeoccEchFEQCVpi66gsun"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0xHo0MXpUml7nIkS7L3ysR"
+          },
+          "href": "https://api.spotify.com/v1/artists/0xHo0MXpUml7nIkS7L3ysR",
+          "id": "0xHo0MXpUml7nIkS7L3ysR",
+          "name": "Pancho Rap",
+          "type": "artist",
+          "uri": "spotify:artist:0xHo0MXpUml7nIkS7L3ysR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187502,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2aceXgOt7PFxSlZY66A9lW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2aceXgOt7PFxSlZY66A9lW",
+      "id": "2aceXgOt7PFxSlZY66A9lW",
+      "name": "Pa Tukiti",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2aceXgOt7PFxSlZY66A9lW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tfhFc2Y8iplDKCteuXjCY",
+          "id": "1tfhFc2Y8iplDKCteuXjCY",
+          "name": "El Cherry Scom",
+          "type": "artist",
+          "uri": "spotify:artist:1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+          },
+          "href": "https://api.spotify.com/v1/artists/7arQA31aZVS8yS6zUveWzb",
+          "id": "7arQA31aZVS8yS6zUveWzb",
+          "name": "CJ",
+          "type": "artist",
+          "uri": "spotify:artist:7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zTSSrtsaVVjT3RZKQ1Gqn",
+      "id": "4zTSSrtsaVVjT3RZKQ1Gqn",
+      "name": "La Mamá de la Mamá",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4zTSSrtsaVVjT3RZKQ1Gqn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RtNN1VnooWEn3KQk03DUL",
+          "id": "3RtNN1VnooWEn3KQk03DUL",
+          "name": "Noriel",
+          "type": "artist",
+          "uri": "spotify:artist:3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          },
+          "href": "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+          "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+          "name": "Trueno",
+          "type": "artist",
+          "uri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232843,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4b6KA8SAIvDy9wT12Emzfc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4b6KA8SAIvDy9wT12Emzfc",
+      "id": "4b6KA8SAIvDy9wT12Emzfc",
+      "name": "Los Aparatos",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4b6KA8SAIvDy9wT12Emzfc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kF83E9c7WmW5XdqwUrJd2",
+          "id": "2kF83E9c7WmW5XdqwUrJd2",
+          "name": "Chocoleyrol",
+          "type": "artist",
+          "uri": "spotify:artist:2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pL4JCQ5E6AxnT10xuaojk",
+          "id": "5pL4JCQ5E6AxnT10xuaojk",
+          "name": "Bluemoney",
+          "type": "artist",
+          "uri": "spotify:artist:5pL4JCQ5E6AxnT10xuaojk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228629,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2KAhXaeFVAcGZMFSFe3aXU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2KAhXaeFVAcGZMFSFe3aXU",
+      "id": "2KAhXaeFVAcGZMFSFe3aXU",
+      "name": "Que No - Remix",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2KAhXaeFVAcGZMFSFe3aXU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/12sXa8kHc5AXXOpZjyG0Gj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/12sXa8kHc5AXXOpZjyG0Gj",
+      "id": "12sXa8kHc5AXXOpZjyG0Gj",
+      "name": "Alibaba",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:12sXa8kHc5AXXOpZjyG0Gj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171355,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qKeoMU4r7mlXEY1U9TIqT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qKeoMU4r7mlXEY1U9TIqT",
+      "id": "2qKeoMU4r7mlXEY1U9TIqT",
+      "name": "Arrebatao",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:2qKeoMU4r7mlXEY1U9TIqT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          },
+          "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+          "id": "329e4yvIujISKGKz1BZZbO",
+          "name": "Farruko",
+          "type": "artist",
+          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VO6rhOKPyH6RogCTPeQqO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VO6rhOKPyH6RogCTPeQqO",
+      "id": "4VO6rhOKPyH6RogCTPeQqO",
+      "name": "Curazao",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4VO6rhOKPyH6RogCTPeQqO",
+      "is_local": false
+    }
+  ]
+}

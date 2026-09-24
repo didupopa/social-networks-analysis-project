@@ -1,0 +1,759 @@
+{
+  "album_id": "3aKCz2SXI9hFX29rqDrskb",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MEZhJCV2uLCrhZoCzfjVs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MEZhJCV2uLCrhZoCzfjVs",
+          "id": "4MEZhJCV2uLCrhZoCzfjVs",
+          "name": "Marius de Vries",
+          "type": "artist",
+          "uri": "spotify:artist:4MEZhJCV2uLCrhZoCzfjVs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Ok0JtS4TneP4ta2xgIfu1"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Ok0JtS4TneP4ta2xgIfu1",
+          "id": "1Ok0JtS4TneP4ta2xgIfu1",
+          "name": "Sian Phillips",
+          "type": "artist",
+          "uri": "spotify:artist:1Ok0JtS4TneP4ta2xgIfu1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 72933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ZePL2bXX6OuTSe8EWz0XW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ZePL2bXX6OuTSe8EWz0XW",
+      "id": "4ZePL2bXX6OuTSe8EWz0XW",
+      "name": "Sonnet 43",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4ZePL2bXX6OuTSe8EWz0XW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70o1Ov3xdbsyLMC1SENiSg"
+          },
+          "href": "https://api.spotify.com/v1/artists/70o1Ov3xdbsyLMC1SENiSg",
+          "id": "70o1Ov3xdbsyLMC1SENiSg",
+          "name": "Anna Prohaska",
+          "type": "artist",
+          "uri": "spotify:artist:70o1Ov3xdbsyLMC1SENiSg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ywt7YhLb6TUpyCsqMga4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ywt7YhLb6TUpyCsqMga4W",
+          "id": "3ywt7YhLb6TUpyCsqMga4W",
+          "name": "Jayce Ogren",
+          "type": "artist",
+          "uri": "spotify:artist:3ywt7YhLb6TUpyCsqMga4W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wCtD2ZiY9c1qcVYrxdnjJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wCtD2ZiY9c1qcVYrxdnjJ",
+          "id": "3wCtD2ZiY9c1qcVYrxdnjJ",
+          "name": "Susanna Stranders",
+          "type": "artist",
+          "uri": "spotify:artist:3wCtD2ZiY9c1qcVYrxdnjJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+          },
+          "href": "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+          "id": "23BiSNXm5UaRFuusoWisYO",
+          "name": "BBC Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vJ5XBsdN1mrBzz98kRjoy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vJ5XBsdN1mrBzz98kRjoy",
+      "id": "2vJ5XBsdN1mrBzz98kRjoy",
+      "name": "When Most I Wink (Sonnet 43)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2vJ5XBsdN1mrBzz98kRjoy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MEZhJCV2uLCrhZoCzfjVs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MEZhJCV2uLCrhZoCzfjVs",
+          "id": "4MEZhJCV2uLCrhZoCzfjVs",
+          "name": "Marius de Vries",
+          "type": "artist",
+          "uri": "spotify:artist:4MEZhJCV2uLCrhZoCzfjVs"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 386266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jEqJSElA5kAA2n2g7igPh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jEqJSElA5kAA2n2g7igPh",
+      "id": "3jEqJSElA5kAA2n2g7igPh",
+      "name": "Take All My Loves (Sonnet 40)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3jEqJSElA5kAA2n2g7igPh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ctoOERXGCQftObR2XYQUX"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ctoOERXGCQftObR2XYQUX",
+          "id": "6ctoOERXGCQftObR2XYQUX",
+          "name": "Frally Hynes",
+          "type": "artist",
+          "uri": "spotify:artist:6ctoOERXGCQftObR2XYQUX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 51826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QnRmZrkAwmprmywWh3fLd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0QnRmZrkAwmprmywWh3fLd",
+      "id": "0QnRmZrkAwmprmywWh3fLd",
+      "name": "Sonnet 20",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0QnRmZrkAwmprmywWh3fLd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70o1Ov3xdbsyLMC1SENiSg"
+          },
+          "href": "https://api.spotify.com/v1/artists/70o1Ov3xdbsyLMC1SENiSg",
+          "id": "70o1Ov3xdbsyLMC1SENiSg",
+          "name": "Anna Prohaska",
+          "type": "artist",
+          "uri": "spotify:artist:70o1Ov3xdbsyLMC1SENiSg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ywt7YhLb6TUpyCsqMga4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ywt7YhLb6TUpyCsqMga4W",
+          "id": "3ywt7YhLb6TUpyCsqMga4W",
+          "name": "Jayce Ogren",
+          "type": "artist",
+          "uri": "spotify:artist:3ywt7YhLb6TUpyCsqMga4W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wCtD2ZiY9c1qcVYrxdnjJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wCtD2ZiY9c1qcVYrxdnjJ",
+          "id": "3wCtD2ZiY9c1qcVYrxdnjJ",
+          "name": "Susanna Stranders",
+          "type": "artist",
+          "uri": "spotify:artist:3wCtD2ZiY9c1qcVYrxdnjJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+          },
+          "href": "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+          "id": "23BiSNXm5UaRFuusoWisYO",
+          "name": "BBC Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1zH9nKFJnpk01gOKnKBITG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1zH9nKFJnpk01gOKnKBITG",
+      "id": "1zH9nKFJnpk01gOKnKBITG",
+      "name": "A Woman's Face (Sonnet 20)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1zH9nKFJnpk01gOKnKBITG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70o1Ov3xdbsyLMC1SENiSg"
+          },
+          "href": "https://api.spotify.com/v1/artists/70o1Ov3xdbsyLMC1SENiSg",
+          "id": "70o1Ov3xdbsyLMC1SENiSg",
+          "name": "Anna Prohaska",
+          "type": "artist",
+          "uri": "spotify:artist:70o1Ov3xdbsyLMC1SENiSg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ywt7YhLb6TUpyCsqMga4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ywt7YhLb6TUpyCsqMga4W",
+          "id": "3ywt7YhLb6TUpyCsqMga4W",
+          "name": "Jayce Ogren",
+          "type": "artist",
+          "uri": "spotify:artist:3ywt7YhLb6TUpyCsqMga4W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wCtD2ZiY9c1qcVYrxdnjJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wCtD2ZiY9c1qcVYrxdnjJ",
+          "id": "3wCtD2ZiY9c1qcVYrxdnjJ",
+          "name": "Susanna Stranders",
+          "type": "artist",
+          "uri": "spotify:artist:3wCtD2ZiY9c1qcVYrxdnjJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+          },
+          "href": "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+          "id": "23BiSNXm5UaRFuusoWisYO",
+          "name": "BBC Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dhIFSPXPPQS5VXvJqN5yT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4dhIFSPXPPQS5VXvJqN5yT",
+      "id": "4dhIFSPXPPQS5VXvJqN5yT",
+      "name": "For Shame (Sonnet 10)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4dhIFSPXPPQS5VXvJqN5yT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14hwyxsI6rFMl60LslEuo7"
+          },
+          "href": "https://api.spotify.com/v1/artists/14hwyxsI6rFMl60LslEuo7",
+          "id": "14hwyxsI6rFMl60LslEuo7",
+          "name": "Ben de Vries",
+          "type": "artist",
+          "uri": "spotify:artist:14hwyxsI6rFMl60LslEuo7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MEZhJCV2uLCrhZoCzfjVs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MEZhJCV2uLCrhZoCzfjVs",
+          "id": "4MEZhJCV2uLCrhZoCzfjVs",
+          "name": "Marius de Vries",
+          "type": "artist",
+          "uri": "spotify:artist:4MEZhJCV2uLCrhZoCzfjVs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f8BuxtN9EAt1pn7QdoM80"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f8BuxtN9EAt1pn7QdoM80",
+          "id": "5f8BuxtN9EAt1pn7QdoM80",
+          "name": "Peter Eyre",
+          "type": "artist",
+          "uri": "spotify:artist:5f8BuxtN9EAt1pn7QdoM80"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 58373,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wX5j2dclwdtiwS3LdLiB5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wX5j2dclwdtiwS3LdLiB5",
+      "id": "6wX5j2dclwdtiwS3LdLiB5",
+      "name": "Sonnet 10",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6wX5j2dclwdtiwS3LdLiB5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7gX22Ua3mEH2KXTCpIfoOP",
+          "id": "7gX22Ua3mEH2KXTCpIfoOP",
+          "name": "Helena Bonham Carter",
+          "type": "artist",
+          "uri": "spotify:artist:7gX22Ua3mEH2KXTCpIfoOP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+          },
+          "href": "https://api.spotify.com/v1/artists/67pQ8Yr09zDDzzwWw3EG9R",
+          "id": "67pQ8Yr09zDDzzwWw3EG9R",
+          "name": "Martha Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:67pQ8Yr09zDDzzwWw3EG9R"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24QvceifTouzwMcD4fets9"
+          },
+          "href": "https://api.spotify.com/v1/artists/24QvceifTouzwMcD4fets9",
+          "id": "24QvceifTouzwMcD4fets9",
+          "name": "Fiora Cutler",
+          "type": "artist",
+          "uri": "spotify:artist:24QvceifTouzwMcD4fets9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 345200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6uLyzgIz0JHMZZ4dXCvrgB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6uLyzgIz0JHMZZ4dXCvrgB",
+      "id": "6uLyzgIz0JHMZZ4dXCvrgB",
+      "name": "Unperfect Actor (Sonnet 23)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6uLyzgIz0JHMZZ4dXCvrgB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1GGAxlILxGZ02ZCI8Elk80"
+          },
+          "href": "https://api.spotify.com/v1/artists/1GGAxlILxGZ02ZCI8Elk80",
+          "id": "1GGAxlILxGZ02ZCI8Elk80",
+          "name": "Carrie Fisher",
+          "type": "artist",
+          "uri": "spotify:artist:1GGAxlILxGZ02ZCI8Elk80"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 61933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1upcXoYeL5XNLBsqkNbwgs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1upcXoYeL5XNLBsqkNbwgs",
+      "id": "1upcXoYeL5XNLBsqkNbwgs",
+      "name": "Sonnet 29",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1upcXoYeL5XNLBsqkNbwgs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0IROOdQ2fQUcoaEPqt1Isg",
+          "id": "0IROOdQ2fQUcoaEPqt1Isg",
+          "name": "Florence Welch",
+          "type": "artist",
+          "uri": "spotify:artist:0IROOdQ2fQUcoaEPqt1Isg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4QWkcvHlKakVLwvV4e8wAb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4QWkcvHlKakVLwvV4e8wAb",
+      "id": "4QWkcvHlKakVLwvV4e8wAb",
+      "name": "When In Disgrace With Fortune And Men's Eyes (Sonnet 29)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4QWkcvHlKakVLwvV4e8wAb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MEZhJCV2uLCrhZoCzfjVs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MEZhJCV2uLCrhZoCzfjVs",
+          "id": "4MEZhJCV2uLCrhZoCzfjVs",
+          "name": "Marius de Vries",
+          "type": "artist",
+          "uri": "spotify:artist:4MEZhJCV2uLCrhZoCzfjVs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14hwyxsI6rFMl60LslEuo7"
+          },
+          "href": "https://api.spotify.com/v1/artists/14hwyxsI6rFMl60LslEuo7",
+          "id": "14hwyxsI6rFMl60LslEuo7",
+          "name": "Ben de Vries",
+          "type": "artist",
+          "uri": "spotify:artist:14hwyxsI6rFMl60LslEuo7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+          },
+          "href": "https://api.spotify.com/v1/artists/2dPqql8xbby3nWuf98mAza",
+          "id": "2dPqql8xbby3nWuf98mAza",
+          "name": "William Shatner",
+          "type": "artist",
+          "uri": "spotify:artist:2dPqql8xbby3nWuf98mAza"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 63400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XgkAnLsP9ofpqlZcL9rzc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XgkAnLsP9ofpqlZcL9rzc",
+      "id": "3XgkAnLsP9ofpqlZcL9rzc",
+      "name": "Sonnet 129",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3XgkAnLsP9ofpqlZcL9rzc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70o1Ov3xdbsyLMC1SENiSg"
+          },
+          "href": "https://api.spotify.com/v1/artists/70o1Ov3xdbsyLMC1SENiSg",
+          "id": "70o1Ov3xdbsyLMC1SENiSg",
+          "name": "Anna Prohaska",
+          "type": "artist",
+          "uri": "spotify:artist:70o1Ov3xdbsyLMC1SENiSg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ywt7YhLb6TUpyCsqMga4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ywt7YhLb6TUpyCsqMga4W",
+          "id": "3ywt7YhLb6TUpyCsqMga4W",
+          "name": "Jayce Ogren",
+          "type": "artist",
+          "uri": "spotify:artist:3ywt7YhLb6TUpyCsqMga4W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wCtD2ZiY9c1qcVYrxdnjJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wCtD2ZiY9c1qcVYrxdnjJ",
+          "id": "3wCtD2ZiY9c1qcVYrxdnjJ",
+          "name": "Susanna Stranders",
+          "type": "artist",
+          "uri": "spotify:artist:3wCtD2ZiY9c1qcVYrxdnjJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+          },
+          "href": "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+          "id": "23BiSNXm5UaRFuusoWisYO",
+          "name": "BBC Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168186,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1tIEnjdbZ3FzrFUDItJ0XS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1tIEnjdbZ3FzrFUDItJ0XS",
+      "id": "1tIEnjdbZ3FzrFUDItJ0XS",
+      "name": "Th'Expense Of Spirit In A Waste Of Shame (Sonnet 129)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1tIEnjdbZ3FzrFUDItJ0XS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7JGSQAIquh2oaHbpyitxRh"
+          },
+          "href": "https://api.spotify.com/v1/artists/7JGSQAIquh2oaHbpyitxRh",
+          "id": "7JGSQAIquh2oaHbpyitxRh",
+          "name": "Jürgen Holtz",
+          "type": "artist",
+          "uri": "spotify:artist:7JGSQAIquh2oaHbpyitxRh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jN7CPgUiox33g3PSPtVAA"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jN7CPgUiox33g3PSPtVAA",
+          "id": "7jN7CPgUiox33g3PSPtVAA",
+          "name": "Christopher Nell",
+          "type": "artist",
+          "uri": "spotify:artist:7jN7CPgUiox33g3PSPtVAA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 502813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3f51NDeGWFBGVPGuuVVATX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3f51NDeGWFBGVPGuuVVATX",
+      "id": "3f51NDeGWFBGVPGuuVVATX",
+      "name": "All dessen müd (Sonnet 66)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3f51NDeGWFBGVPGuuVVATX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5D12h7kioqQdCKzoDiUfvJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5D12h7kioqQdCKzoDiUfvJ",
+      "id": "5D12h7kioqQdCKzoDiUfvJ",
+      "name": "A Woman's Face - Reprise (Sonnet 20)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5D12h7kioqQdCKzoDiUfvJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1uPnPpZyfJFvLAQfrW2UIZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1uPnPpZyfJFvLAQfrW2UIZ",
+          "id": "1uPnPpZyfJFvLAQfrW2UIZ",
+          "name": "Inge Keller",
+          "type": "artist",
+          "uri": "spotify:artist:1uPnPpZyfJFvLAQfrW2UIZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 77266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3VaJC8Q5gEtObnyyWK91Ym"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3VaJC8Q5gEtObnyyWK91Ym",
+      "id": "3VaJC8Q5gEtObnyyWK91Ym",
+      "name": "Sonnet 87",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3VaJC8Q5gEtObnyyWK91Ym",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+          "id": "2PfBzriIMRsCXPDtSy9vg8",
+          "name": "Rufus Wainwright",
+          "type": "artist",
+          "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70o1Ov3xdbsyLMC1SENiSg"
+          },
+          "href": "https://api.spotify.com/v1/artists/70o1Ov3xdbsyLMC1SENiSg",
+          "id": "70o1Ov3xdbsyLMC1SENiSg",
+          "name": "Anna Prohaska",
+          "type": "artist",
+          "uri": "spotify:artist:70o1Ov3xdbsyLMC1SENiSg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ywt7YhLb6TUpyCsqMga4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ywt7YhLb6TUpyCsqMga4W",
+          "id": "3ywt7YhLb6TUpyCsqMga4W",
+          "name": "Jayce Ogren",
+          "type": "artist",
+          "uri": "spotify:artist:3ywt7YhLb6TUpyCsqMga4W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wCtD2ZiY9c1qcVYrxdnjJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3wCtD2ZiY9c1qcVYrxdnjJ",
+          "id": "3wCtD2ZiY9c1qcVYrxdnjJ",
+          "name": "Susanna Stranders",
+          "type": "artist",
+          "uri": "spotify:artist:3wCtD2ZiY9c1qcVYrxdnjJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+          },
+          "href": "https://api.spotify.com/v1/artists/23BiSNXm5UaRFuusoWisYO",
+          "id": "23BiSNXm5UaRFuusoWisYO",
+          "name": "BBC Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 387360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/50aDFgOu3JVAoSEG4Z9lfE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/50aDFgOu3JVAoSEG4Z9lfE",
+      "id": "50aDFgOu3JVAoSEG4Z9lfE",
+      "name": "Farewell (Sonnet 87)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:50aDFgOu3JVAoSEG4Z9lfE",
+      "is_local": false
+    }
+  ]
+}

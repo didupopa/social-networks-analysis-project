@@ -1,0 +1,994 @@
+{
+  "album_id": "7t881Szy1fTOJgQNycarWy",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 107355,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6wz2AttY8rjrAxI4YLM2uV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6wz2AttY8rjrAxI4YLM2uV",
+      "id": "6wz2AttY8rjrAxI4YLM2uV",
+      "name": "Prologue",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6wz2AttY8rjrAxI4YLM2uV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 430467,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yZQKe7iDZOUMxdTtuqixa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yZQKe7iDZOUMxdTtuqixa",
+      "id": "5yZQKe7iDZOUMxdTtuqixa",
+      "name": "The Grind",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5yZQKe7iDZOUMxdTtuqixa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7i9QVAcVCmxSGEB0HVXuyr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7i9QVAcVCmxSGEB0HVXuyr",
+      "id": "7i9QVAcVCmxSGEB0HVXuyr",
+      "name": "The Challenge",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7i9QVAcVCmxSGEB0HVXuyr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 129680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/681Zw0O8OxClzj83ZS7ZYv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/681Zw0O8OxClzj83ZS7ZYv",
+      "id": "681Zw0O8OxClzj83ZS7ZYv",
+      "name": "Help Me",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:681Zw0O8OxClzj83ZS7ZYv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 330907,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qnB9boBF0vk6zP7k8AlaY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qnB9boBF0vk6zP7k8AlaY",
+      "id": "5qnB9boBF0vk6zP7k8AlaY",
+      "name": "Risk",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5qnB9boBF0vk6zP7k8AlaY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Q6IGfDBrKOnKLepXNvDX6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Q6IGfDBrKOnKLepXNvDX6",
+      "id": "1Q6IGfDBrKOnKLepXNvDX6",
+      "name": "Physical Jerks",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1Q6IGfDBrKOnKLepXNvDX6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 406627,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ICa2JIW5bHlfSImHp8RAY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ICa2JIW5bHlfSImHp8RAY",
+      "id": "7ICa2JIW5bHlfSImHp8RAY",
+      "name": "The Competition",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7ICa2JIW5bHlfSImHp8RAY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7nIosPaPsYLUiH2gsRNfBF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7nIosPaPsYLUiH2gsRNfBF",
+      "id": "7nIosPaPsYLUiH2gsRNfBF",
+      "name": "The Meeting",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7nIosPaPsYLUiH2gsRNfBF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 347080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0N88dYw98IOeUP2jYFnZjb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0N88dYw98IOeUP2jYFnZjb",
+      "id": "0N88dYw98IOeUP2jYFnZjb",
+      "name": "The Clock 1/2/3",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0N88dYw98IOeUP2jYFnZjb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gTaTcfP5AZsh26n0Q4svJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gTaTcfP5AZsh26n0Q4svJ",
+      "id": "5gTaTcfP5AZsh26n0Q4svJ",
+      "name": "The Clock 4/5/6",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5gTaTcfP5AZsh26n0Q4svJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 384067,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3TOJEKsyDQLmfIKTdEVqcG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3TOJEKsyDQLmfIKTdEVqcG",
+      "id": "3TOJEKsyDQLmfIKTdEVqcG",
+      "name": "The Clock 7/8/9",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3TOJEKsyDQLmfIKTdEVqcG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 389027,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1GuRgtNfWvvkNSNMoUesMq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1GuRgtNfWvvkNSNMoUesMq",
+      "id": "1GuRgtNfWvvkNSNMoUesMq",
+      "name": "The Clock 10/11/12",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1GuRgtNfWvvkNSNMoUesMq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 135080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2fLMPWXyoKpAUUpeyuxrcb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2fLMPWXyoKpAUUpeyuxrcb",
+      "id": "2fLMPWXyoKpAUUpeyuxrcb",
+      "name": "The Winner",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2fLMPWXyoKpAUUpeyuxrcb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250933,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7D8mBWMqJD0H4Rq4WWpEg1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7D8mBWMqJD0H4Rq4WWpEg1",
+      "id": "7D8mBWMqJD0H4Rq4WWpEg1",
+      "name": "Destruction",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7D8mBWMqJD0H4Rq4WWpEg1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 318143,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6xov9VaaeKGYkVmNCXd5Bg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6xov9VaaeKGYkVmNCXd5Bg",
+      "id": "6xov9VaaeKGYkVmNCXd5Bg",
+      "name": "Back to the Grind",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6xov9VaaeKGYkVmNCXd5Bg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 108000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xpyKsSTHjhjMB4oSFLWFK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2xpyKsSTHjhjMB4oSFLWFK",
+      "id": "2xpyKsSTHjhjMB4oSFLWFK",
+      "name": "The Miracle - Ceremony",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2xpyKsSTHjhjMB4oSFLWFK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 165440,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kXX53PNhLymthNIQipZaD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kXX53PNhLymthNIQipZaD",
+      "id": "0kXX53PNhLymthNIQipZaD",
+      "name": "The Miracle - Revolution",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0kXX53PNhLymthNIQipZaD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 136613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/40mpCKrlSkNTSFEe5TGKHj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/40mpCKrlSkNTSFEe5TGKHj",
+      "id": "40mpCKrlSkNTSFEe5TGKHj",
+      "name": "The Miracle - Resurrection",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:40mpCKrlSkNTSFEe5TGKHj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 179587,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1clqfJYhx0Mw3P3jkXixGP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1clqfJYhx0Mw3P3jkXixGP",
+      "id": "1clqfJYhx0Mw3P3jkXixGP",
+      "name": "The Miracle - Colour and Light",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1clqfJYhx0Mw3P3jkXixGP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 120400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/55T9mEUJs6Z2KROi390fEU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/55T9mEUJs6Z2KROi390fEU",
+      "id": "55T9mEUJs6Z2KROi390fEU",
+      "name": "The Miracle - The Meeting (Reprise)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:55T9mEUJs6Z2KROi390fEU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+          "id": "2ycnb8Er79LoH2AsR5ldjh",
+          "name": "Pet Shop Boys",
+          "type": "artist",
+          "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lvLz9yvZKihTTkA5nt7qb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3lvLz9yvZKihTTkA5nt7qb",
+          "id": "3lvLz9yvZKihTTkA5nt7qb",
+          "name": "Dominic Wheeler",
+          "type": "artist",
+          "uri": "spotify:artist:3lvLz9yvZKihTTkA5nt7qb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12r8XJ9pi1WcrUO4KNQZMf"
+          },
+          "href": "https://api.spotify.com/v1/artists/12r8XJ9pi1WcrUO4KNQZMf",
+          "id": "12r8XJ9pi1WcrUO4KNQZMf",
+          "name": "Wroclaw Score Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:12r8XJ9pi1WcrUO4KNQZMf"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 202413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7msK0Of9SayE6VtZ4k384L"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7msK0Of9SayE6VtZ4k384L",
+      "id": "7msK0Of9SayE6VtZ4k384L",
+      "name": "The Wedding",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7msK0Of9SayE6VtZ4k384L",
+      "is_local": false
+    }
+  ]
+}

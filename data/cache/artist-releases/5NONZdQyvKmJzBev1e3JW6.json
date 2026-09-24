@@ -1,0 +1,53 @@
+{
+  "artist_id": "5NONZdQyvKmJzBev1e3JW6",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2LDLXRKCrCrT5n71w3HOW7"
+      },
+      "href": "https://api.spotify.com/v1/albums/2LDLXRKCrCrT5n71w3HOW7",
+      "id": "2LDLXRKCrCrT5n71w3HOW7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733610eb9ee8978b82a0d013ed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023610eb9ee8978b82a0d013ed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513610eb9ee8978b82a0d013ed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Revive of This World",
+      "release_date": "2013-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2LDLXRKCrCrT5n71w3HOW7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NONZdQyvKmJzBev1e3JW6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NONZdQyvKmJzBev1e3JW6",
+          "id": "5NONZdQyvKmJzBev1e3JW6",
+          "name": "Dante Santiago",
+          "type": "artist",
+          "uri": "spotify:artist:5NONZdQyvKmJzBev1e3JW6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "artist_id": "6GEykX11lQqp92UVOQQCC7",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B"
+      },
+      "href": "https://api.spotify.com/v1/albums/3uDMOY194FBxufCH0dYN3B",
+      "id": "3uDMOY194FBxufCH0dYN3B",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273506e27ceab6e52aa7a492974",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02506e27ceab6e52aa7a492974",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851506e27ceab6e52aa7a492974",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Light-Years",
+      "release_date": "2025-12-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3uDMOY194FBxufCH0dYN3B",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0KU9QIIHIK1v11G67tPPmO"
+      },
+      "href": "https://api.spotify.com/v1/albums/0KU9QIIHIK1v11G67tPPmO",
+      "id": "0KU9QIIHIK1v11G67tPPmO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273efde25e112cddf2fa40f55de",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02efde25e112cddf2fa40f55de",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851efde25e112cddf2fa40f55de",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Reinvention",
+      "release_date": "2025-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0KU9QIIHIK1v11G67tPPmO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          },
+          "href": "https://api.spotify.com/v1/artists/0wZbdAcNn6AjGlNUZek9j4",
+          "id": "0wZbdAcNn6AjGlNUZek9j4",
+          "name": "Ransom",
+          "type": "artist",
+          "uri": "spotify:artist:0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP"
+      },
+      "href": "https://api.spotify.com/v1/albums/2OdOZpcFXPAIAhJMgBglIP",
+      "id": "2OdOZpcFXPAIAhJMgBglIP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a55d195ea1908c6e3a9d3626",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a55d195ea1908c6e3a9d3626",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a55d195ea1908c6e3a9d3626",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Coldest Profession",
+      "release_date": "2025-08-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2OdOZpcFXPAIAhJMgBglIP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          },
+          "href": "https://api.spotify.com/v1/artists/5X0V59ipZnbvnubW0rQVri",
+          "id": "5X0V59ipZnbvnubW0rQVri",
+          "name": "Roc Marciano",
+          "type": "artist",
+          "uri": "spotify:artist:5X0V59ipZnbvnubW0rQVri"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6C8tse6StUu6S1WSjhiyXb"
+      },
+      "href": "https://api.spotify.com/v1/albums/6C8tse6StUu6S1WSjhiyXb",
+      "id": "6C8tse6StUu6S1WSjhiyXb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273159dd7ae542ec3e1397b2ef2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02159dd7ae542ec3e1397b2ef2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851159dd7ae542ec3e1397b2ef2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "2 Sides To Every Story (Instrumentals)",
+      "release_date": "2025-05-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6C8tse6StUu6S1WSjhiyXb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51"
+          },
+          "href": "https://api.spotify.com/v1/artists/7362Tj1IkoHp7oWveGTf51",
+          "id": "7362Tj1IkoHp7oWveGTf51",
+          "name": "Teflon",
+          "type": "artist",
+          "uri": "spotify:artist:7362Tj1IkoHp7oWveGTf51"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vMLfmYn0O2VMW8ieqfGC9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vMLfmYn0O2VMW8ieqfGC9",
+          "id": "3vMLfmYn0O2VMW8ieqfGC9",
+          "name": "Jazimoto",
+          "type": "artist",
+          "uri": "spotify:artist:3vMLfmYn0O2VMW8ieqfGC9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JmbVrGouPFyjMbXTsDb5k"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JmbVrGouPFyjMbXTsDb5k",
+      "id": "6JmbVrGouPFyjMbXTsDb5k",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c613c8b2fd7817fde2dc4a9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026c613c8b2fd7817fde2dc4a9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516c613c8b2fd7817fde2dc4a9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beats That Collected Dust, Vol. 3 (Instrumental)",
+      "release_date": "2023-09-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6JmbVrGouPFyjMbXTsDb5k",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1LzHKQ6GKXeSN7DYyhO76V"
+      },
+      "href": "https://api.spotify.com/v1/albums/1LzHKQ6GKXeSN7DYyhO76V",
+      "id": "1LzHKQ6GKXeSN7DYyhO76V",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27320e120af403978143544104c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0220e120af403978143544104c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485120e120af403978143544104c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "2 Sides To Every Story",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1LzHKQ6GKXeSN7DYyhO76V",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51"
+          },
+          "href": "https://api.spotify.com/v1/artists/7362Tj1IkoHp7oWveGTf51",
+          "id": "7362Tj1IkoHp7oWveGTf51",
+          "name": "Teflon",
+          "type": "artist",
+          "uri": "spotify:artist:7362Tj1IkoHp7oWveGTf51"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vMLfmYn0O2VMW8ieqfGC9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vMLfmYn0O2VMW8ieqfGC9",
+          "id": "3vMLfmYn0O2VMW8ieqfGC9",
+          "name": "Jazimoto",
+          "type": "artist",
+          "uri": "spotify:artist:3vMLfmYn0O2VMW8ieqfGC9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4RFlGEeCWTWZYGbzIZZErR"
+      },
+      "href": "https://api.spotify.com/v1/albums/4RFlGEeCWTWZYGbzIZZErR",
+      "id": "4RFlGEeCWTWZYGbzIZZErR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734fe661af316a5a718bedcce4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024fe661af316a5a718bedcce4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514fe661af316a5a718bedcce4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "KoleXXXion",
+      "release_date": "2022-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4RFlGEeCWTWZYGbzIZZErR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pqZVedlsryCmpMGf9L9zV"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pqZVedlsryCmpMGf9L9zV",
+          "id": "7pqZVedlsryCmpMGf9L9zV",
+          "name": "Bumpy Knuckles",
+          "type": "artist",
+          "uri": "spotify:artist:7pqZVedlsryCmpMGf9L9zV"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6VDSvx3Z6cfz6GXkFBNYLX",
+      "id": "6VDSvx3Z6cfz6GXkFBNYLX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273191c05e014d23c12a2d77a21",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02191c05e014d23c12a2d77a21",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851191c05e014d23c12a2d77a21",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beats That Collected Dust Vol. 2",
+      "release_date": "2011-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6VDSvx3Z6cfz6GXkFBNYLX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7yvltQ0EqPUJJYadzC8vUI"
+      },
+      "href": "https://api.spotify.com/v1/albums/7yvltQ0EqPUJJYadzC8vUI",
+      "id": "7yvltQ0EqPUJJYadzC8vUI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ba1e9b8eb623e30d97c7aa3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022ba1e9b8eb623e30d97c7aa3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512ba1e9b8eb623e30d97c7aa3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tha Blaqprint",
+      "release_date": "2009-07-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7yvltQ0EqPUJJYadzC8vUI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/38XpIVUn0Gv9Qtqs3ote2W"
+          },
+          "href": "https://api.spotify.com/v1/artists/38XpIVUn0Gv9Qtqs3ote2W",
+          "id": "38XpIVUn0Gv9Qtqs3ote2W",
+          "name": "Blaq Poet",
+          "type": "artist",
+          "uri": "spotify:artist:38XpIVUn0Gv9Qtqs3ote2W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3buJUyDEiZPgqThdeqruDG"
+      },
+      "href": "https://api.spotify.com/v1/albums/3buJUyDEiZPgqThdeqruDG",
+      "id": "3buJUyDEiZPgqThdeqruDG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27394f68ed908d8677e5f155ee0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0294f68ed908d8677e5f155ee0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485194f68ed908d8677e5f155ee0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tha Blaqprint (Instrumental Album)",
+      "release_date": "2009-06-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3buJUyDEiZPgqThdeqruDG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/38XpIVUn0Gv9Qtqs3ote2W"
+          },
+          "href": "https://api.spotify.com/v1/artists/38XpIVUn0Gv9Qtqs3ote2W",
+          "id": "38XpIVUn0Gv9Qtqs3ote2W",
+          "name": "Blaq Poet",
+          "type": "artist",
+          "uri": "spotify:artist:38XpIVUn0Gv9Qtqs3ote2W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4q3cIrNOyRvuB6zhrCDLSZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/4q3cIrNOyRvuB6zhrCDLSZ",
+      "id": "4q3cIrNOyRvuB6zhrCDLSZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4be605a267df4e9a09f6245",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4be605a267df4e9a09f6245",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d4be605a267df4e9a09f6245",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beats That Collected Dust Vol. 1",
+      "release_date": "2008-09-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4q3cIrNOyRvuB6zhrCDLSZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6GEykX11lQqp92UVOQQCC7",
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist",
+          "uri": "spotify:artist:6GEykX11lQqp92UVOQQCC7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "artist_id": "1VmTG1NmumTwTIOGbew6gH",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0v1RnpzjJohIFAbUZYfzvm"
+      },
+      "href": "https://api.spotify.com/v1/albums/0v1RnpzjJohIFAbUZYfzvm",
+      "id": "0v1RnpzjJohIFAbUZYfzvm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b4a55013ad7fb60f8626851",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025b4a55013ad7fb60f8626851",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515b4a55013ad7fb60f8626851",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Everything Is Expensive",
+      "release_date": "2012-10-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0v1RnpzjJohIFAbUZYfzvm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VmTG1NmumTwTIOGbew6gH",
+          "id": "1VmTG1NmumTwTIOGbew6gH",
+          "name": "Esthero",
+          "type": "artist",
+          "uri": "spotify:artist:1VmTG1NmumTwTIOGbew6gH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4T8jxBtBlu3h4nF88zPt6N"
+      },
+      "href": "https://api.spotify.com/v1/albums/4T8jxBtBlu3h4nF88zPt6N",
+      "id": "4T8jxBtBlu3h4nF88zPt6N",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27330793560fe084a20016a9958",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0230793560fe084a20016a9958",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485130793560fe084a20016a9958",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wikked Lil' Grrrls (U.S. Release)",
+      "release_date": "2005-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4T8jxBtBlu3h4nF88zPt6N",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VmTG1NmumTwTIOGbew6gH",
+          "id": "1VmTG1NmumTwTIOGbew6gH",
+          "name": "Esthero",
+          "type": "artist",
+          "uri": "spotify:artist:1VmTG1NmumTwTIOGbew6gH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+      },
+      "href": "https://api.spotify.com/v1/albums/5IjiTlH5NjwgFjfCxXlY0S",
+      "id": "5IjiTlH5NjwgFjfCxXlY0S",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273456b5c223b220f3bbbe9fa9f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02456b5c223b220f3bbbe9fa9f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851456b5c223b220f3bbbe9fa9f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Breath From Another",
+      "release_date": "1998-04-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5IjiTlH5NjwgFjfCxXlY0S",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VmTG1NmumTwTIOGbew6gH",
+          "id": "1VmTG1NmumTwTIOGbew6gH",
+          "name": "Esthero",
+          "type": "artist",
+          "uri": "spotify:artist:1VmTG1NmumTwTIOGbew6gH"
+        }
+      ]
+    }
+  ]
+}

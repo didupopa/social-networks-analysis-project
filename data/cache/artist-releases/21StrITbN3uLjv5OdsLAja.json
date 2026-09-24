@@ -1,0 +1,96 @@
+{
+  "artist_id": "21StrITbN3uLjv5OdsLAja",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4gzxCLUSK6zyNNOeu8pJlm"
+      },
+      "href": "https://api.spotify.com/v1/albums/4gzxCLUSK6zyNNOeu8pJlm",
+      "id": "4gzxCLUSK6zyNNOeu8pJlm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a531adb1d10af52a1a88f567",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a531adb1d10af52a1a88f567",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a531adb1d10af52a1a88f567",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Between Isekai and Slice of Life ～異世界と日常の間に～",
+      "release_date": "2021-01-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4gzxCLUSK6zyNNOeu8pJlm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+          },
+          "href": "https://api.spotify.com/v1/artists/21StrITbN3uLjv5OdsLAja",
+          "id": "21StrITbN3uLjv5OdsLAja",
+          "name": "Miho Hatori",
+          "type": "artist",
+          "uri": "spotify:artist:21StrITbN3uLjv5OdsLAja"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3o45B472qHzVurWhZ4wSVb"
+      },
+      "href": "https://api.spotify.com/v1/albums/3o45B472qHzVurWhZ4wSVb",
+      "id": "3o45B472qHzVurWhZ4wSVb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3b3a3514eec44f66cad1937",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3b3a3514eec44f66cad1937",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3b3a3514eec44f66cad1937",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ecdysis",
+      "release_date": "2006-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3o45B472qHzVurWhZ4wSVb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+          },
+          "href": "https://api.spotify.com/v1/artists/21StrITbN3uLjv5OdsLAja",
+          "id": "21StrITbN3uLjv5OdsLAja",
+          "name": "Miho Hatori",
+          "type": "artist",
+          "uri": "spotify:artist:21StrITbN3uLjv5OdsLAja"
+        }
+      ]
+    }
+  ]
+}

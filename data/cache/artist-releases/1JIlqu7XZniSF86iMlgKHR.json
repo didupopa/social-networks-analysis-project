@@ -1,0 +1,156 @@
+{
+  "artist_id": "1JIlqu7XZniSF86iMlgKHR",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 5,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1WF8dD3YNC569lDthKrT7E"
+      },
+      "href": "https://api.spotify.com/v1/albums/1WF8dD3YNC569lDthKrT7E",
+      "id": "1WF8dD3YNC569lDthKrT7E",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27341dc6cd6053baf2e0ffa70c4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0241dc6cd6053baf2e0ffa70c4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485141dc6cd6053baf2e0ffa70c4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love Drive",
+      "release_date": "2007-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1WF8dD3YNC569lDthKrT7E",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+          },
+          "href": "https://api.spotify.com/v1/artists/3E0hcDz3BQfblBm7PU4Ghr",
+          "id": "3E0hcDz3BQfblBm7PU4Ghr",
+          "name": "Alex",
+          "type": "artist",
+          "uri": "spotify:artist:3E0hcDz3BQfblBm7PU4Ghr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7JanqqBqXrGoZQiaf0xoGn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7JanqqBqXrGoZQiaf0xoGn",
+          "id": "7JanqqBqXrGoZQiaf0xoGn",
+          "name": "Voice One",
+          "type": "artist",
+          "uri": "spotify:artist:7JanqqBqXrGoZQiaf0xoGn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FY6b8FV3KmqbQnY07T1f0",
+          "id": "1FY6b8FV3KmqbQnY07T1f0",
+          "name": "Jisun",
+          "type": "artist",
+          "uri": "spotify:artist:1FY6b8FV3KmqbQnY07T1f0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
+          },
+          "href": "https://api.spotify.com/v1/artists/1JIlqu7XZniSF86iMlgKHR",
+          "id": "1JIlqu7XZniSF86iMlgKHR",
+          "name": "ZoPD",
+          "type": "artist",
+          "uri": "spotify:artist:1JIlqu7XZniSF86iMlgKHR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3uM3JsGPRmmi4x2GNWPlw7"
+      },
+      "href": "https://api.spotify.com/v1/albums/3uM3JsGPRmmi4x2GNWPlw7",
+      "id": "3uM3JsGPRmmi4x2GNWPlw7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eda3518d4c89b6e3d7d3d4c8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eda3518d4c89b6e3d7d3d4c8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eda3518d4c89b6e3d7d3d4c8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "해변의 여인 (Original Television Soundtrack)",
+      "release_date": "2006-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3uM3JsGPRmmi4x2GNWPlw7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14FdRKBm8X7nnC22ieAJza"
+          },
+          "href": "https://api.spotify.com/v1/artists/14FdRKBm8X7nnC22ieAJza",
+          "id": "14FdRKBm8X7nnC22ieAJza",
+          "name": "Yongjin Jung",
+          "type": "artist",
+          "uri": "spotify:artist:14FdRKBm8X7nnC22ieAJza"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
+          },
+          "href": "https://api.spotify.com/v1/artists/1JIlqu7XZniSF86iMlgKHR",
+          "id": "1JIlqu7XZniSF86iMlgKHR",
+          "name": "ZoPD",
+          "type": "artist",
+          "uri": "spotify:artist:1JIlqu7XZniSF86iMlgKHR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TiQECvFFvnqd5hs6viUsK"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TiQECvFFvnqd5hs6viUsK",
+          "id": "3TiQECvFFvnqd5hs6viUsK",
+          "name": "Lee Jae Hoon",
+          "type": "artist",
+          "uri": "spotify:artist:3TiQECvFFvnqd5hs6viUsK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6sh83WYdSAzKOuDCEaLQ71"
+          },
+          "href": "https://api.spotify.com/v1/artists/6sh83WYdSAzKOuDCEaLQ71",
+          "id": "6sh83WYdSAzKOuDCEaLQ71",
+          "name": "Yuri",
+          "type": "artist",
+          "uri": "spotify:artist:6sh83WYdSAzKOuDCEaLQ71"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "artist_id": "3qBKjEOanahMxlRojwCzhI",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/273G5nf7G44BxNW0IuXzZr"
+      },
+      "href": "https://api.spotify.com/v1/albums/273G5nf7G44BxNW0IuXzZr",
+      "id": "273G5nf7G44BxNW0IuXzZr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b4df5e27860555659b4e725",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022b4df5e27860555659b4e725",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512b4df5e27860555659b4e725",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bliss",
+      "release_date": "2024-07-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:273G5nf7G44BxNW0IuXzZr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qBKjEOanahMxlRojwCzhI",
+          "id": "3qBKjEOanahMxlRojwCzhI",
+          "name": "Zacari",
+          "type": "artist",
+          "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tTIwDAjHvL2d3PV2fg1Vh"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tTIwDAjHvL2d3PV2fg1Vh",
+      "id": "6tTIwDAjHvL2d3PV2fg1Vh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c56e6cfbd580fa696c6ad1f6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c56e6cfbd580fa696c6ad1f6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c56e6cfbd580fa696c6ad1f6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Run Wild Run Free",
+      "release_date": "2019-03-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tTIwDAjHvL2d3PV2fg1Vh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qBKjEOanahMxlRojwCzhI",
+          "id": "3qBKjEOanahMxlRojwCzhI",
+          "name": "Zacari",
+          "type": "artist",
+          "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI"
+        }
+      ]
+    }
+  ]
+}

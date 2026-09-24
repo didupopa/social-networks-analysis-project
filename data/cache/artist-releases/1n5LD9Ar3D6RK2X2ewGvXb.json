@@ -1,0 +1,96 @@
+{
+  "artist_id": "1n5LD9Ar3D6RK2X2ewGvXb",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/17nkMuRLEPUTt9xt3gQOgy"
+      },
+      "href": "https://api.spotify.com/v1/albums/17nkMuRLEPUTt9xt3gQOgy",
+      "id": "17nkMuRLEPUTt9xt3gQOgy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738cb919b4f26d3a0d663fd6a0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028cb919b4f26d3a0d663fd6a0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518cb919b4f26d3a0d663fd6a0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Antiexemplu",
+      "release_date": "2017-05-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:17nkMuRLEPUTt9xt3gQOgy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb"
+          },
+          "href": "https://api.spotify.com/v1/artists/1n5LD9Ar3D6RK2X2ewGvXb",
+          "id": "1n5LD9Ar3D6RK2X2ewGvXb",
+          "name": "Carla's Dreams",
+          "type": "artist",
+          "uri": "spotify:artist:1n5LD9Ar3D6RK2X2ewGvXb"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3z7A1LFhxzmOGwTZtSWQ1D"
+      },
+      "href": "https://api.spotify.com/v1/albums/3z7A1LFhxzmOGwTZtSWQ1D",
+      "id": "3z7A1LFhxzmOGwTZtSWQ1D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273213d9424796690df42271d6b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02213d9424796690df42271d6b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851213d9424796690df42271d6b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ngoc",
+      "release_date": "2016-05-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3z7A1LFhxzmOGwTZtSWQ1D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb"
+          },
+          "href": "https://api.spotify.com/v1/artists/1n5LD9Ar3D6RK2X2ewGvXb",
+          "id": "1n5LD9Ar3D6RK2X2ewGvXb",
+          "name": "Carla's Dreams",
+          "type": "artist",
+          "uri": "spotify:artist:1n5LD9Ar3D6RK2X2ewGvXb"
+        }
+      ]
+    }
+  ]
+}

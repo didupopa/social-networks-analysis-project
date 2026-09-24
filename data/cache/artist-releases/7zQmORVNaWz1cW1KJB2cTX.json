@@ -1,0 +1,53 @@
+{
+  "artist_id": "7zQmORVNaWz1cW1KJB2cTX",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0"
+      },
+      "href": "https://api.spotify.com/v1/albums/5geCRg9dV7n6cYTtVtbtr0",
+      "id": "5geCRg9dV7n6cYTtVtbtr0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736d9e590bce0ccebf76550354",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026d9e590bce0ccebf76550354",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516d9e590bce0ccebf76550354",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mick Jones",
+      "release_date": "1989",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:5geCRg9dV7n6cYTtVtbtr0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zQmORVNaWz1cW1KJB2cTX",
+          "id": "7zQmORVNaWz1cW1KJB2cTX",
+          "name": "Mick Jones",
+          "type": "artist",
+          "uri": "spotify:artist:7zQmORVNaWz1cW1KJB2cTX"
+        }
+      ]
+    }
+  ]
+}
