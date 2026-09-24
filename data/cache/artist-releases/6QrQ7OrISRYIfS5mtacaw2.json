@@ -1,0 +1,96 @@
+{
+  "artist_id": "6QrQ7OrISRYIfS5mtacaw2",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
+      },
+      "href": "https://api.spotify.com/v1/albums/5NE8n9E4dMUFvOUZo0tv6p",
+      "id": "5NE8n9E4dMUFvOUZo0tv6p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b66accda0ff6a75cdf12a2c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026b66accda0ff6a75cdf12a2c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516b66accda0ff6a75cdf12a2c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Feel Something (Deluxe)",
+      "release_date": "2022-01-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5NE8n9E4dMUFvOUZo0tv6p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          },
+          "href": "https://api.spotify.com/v1/artists/6QrQ7OrISRYIfS5mtacaw2",
+          "id": "6QrQ7OrISRYIfS5mtacaw2",
+          "name": "Jaymes Young",
+          "type": "artist",
+          "uri": "spotify:artist:6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "href": "https://api.spotify.com/v1/albums/6MuWCR3WPjwyKhqsTKLZ3z",
+      "id": "6MuWCR3WPjwyKhqsTKLZ3z",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a9897f65d1ead1be10a51e3f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a9897f65d1ead1be10a51e3f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Feel Something",
+      "release_date": "2017-06-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6MuWCR3WPjwyKhqsTKLZ3z",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          },
+          "href": "https://api.spotify.com/v1/artists/6QrQ7OrISRYIfS5mtacaw2",
+          "id": "6QrQ7OrISRYIfS5mtacaw2",
+          "name": "Jaymes Young",
+          "type": "artist",
+          "uri": "spotify:artist:6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ]
+    }
+  ]
+}

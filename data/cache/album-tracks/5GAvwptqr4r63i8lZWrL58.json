@@ -1,0 +1,826 @@
+{
+  "album_id": "5GAvwptqr4r63i8lZWrL58",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155832,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1xXRsaPQDHm0LBu9k5M9Gx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1xXRsaPQDHm0LBu9k5M9Gx",
+      "id": "1xXRsaPQDHm0LBu9k5M9Gx",
+      "name": "Get Ugly",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1xXRsaPQDHm0LBu9k5M9Gx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "type": "artist",
+          "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177314,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ecBpKN02kcskxhv9zU36y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ecBpKN02kcskxhv9zU36y",
+      "id": "0ecBpKN02kcskxhv9zU36y",
+      "name": "Heatin Up (feat. Gunna)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0ecBpKN02kcskxhv9zU36y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181999,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mDAISPtlXMieqR4tQcxuk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mDAISPtlXMieqR4tQcxuk",
+      "id": "5mDAISPtlXMieqR4tQcxuk",
+      "name": "How",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5mDAISPtlXMieqR4tQcxuk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          },
+          "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+          "id": "45gHcnDnMC15sgx3VL7ROG",
+          "name": "42 Dugg",
+          "type": "artist",
+          "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203438,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kbOml6Nn57pChvRrzankW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kbOml6Nn57pChvRrzankW",
+      "id": "5kbOml6Nn57pChvRrzankW",
+      "name": "Grace (feat. 42 Dugg)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5kbOml6Nn57pChvRrzankW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183011,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kK6Tz8esTt3pqSaNiM1qB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kK6Tz8esTt3pqSaNiM1qB",
+      "id": "6kK6Tz8esTt3pqSaNiM1qB",
+      "name": "Woah",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6kK6Tz8esTt3pqSaNiM1qB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173061,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6iZewhgNhJ3TW23kUAF2nD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6iZewhgNhJ3TW23kUAF2nD",
+      "id": "6iZewhgNhJ3TW23kUAF2nD",
+      "name": "Live Off My Closet (feat. Future)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6iZewhgNhJ3TW23kUAF2nD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162791,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3lb4Kpzc4bqOQ2l11ffolw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3lb4Kpzc4bqOQ2l11ffolw",
+      "id": "3lb4Kpzc4bqOQ2l11ffolw",
+      "name": "Same Thing",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3lb4Kpzc4bqOQ2l11ffolw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197529,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LDs1JQo0frXXFPTDZ7WBg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LDs1JQo0frXXFPTDZ7WBg",
+      "id": "5LDs1JQo0frXXFPTDZ7WBg",
+      "name": "Emotionally Scarred",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5LDs1JQo0frXXFPTDZ7WBg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          },
+          "href": "https://api.spotify.com/v1/artists/4O15NlyKLIASxsJ0PrXPfz",
+          "id": "4O15NlyKLIASxsJ0PrXPfz",
+          "name": "Lil Uzi Vert",
+          "type": "artist",
+          "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214214,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5aRCmyBMkXa1Tfijt03OL9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5aRCmyBMkXa1Tfijt03OL9",
+      "id": "5aRCmyBMkXa1Tfijt03OL9",
+      "name": "Commercial (feat. Lil Uzi Vert)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5aRCmyBMkXa1Tfijt03OL9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201615,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0RM3F4b0kFog99sPpIVjrG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0RM3F4b0kFog99sPpIVjrG",
+      "id": "0RM3F4b0kFog99sPpIVjrG",
+      "name": "Forever (feat. Lil Wayne)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0RM3F4b0kFog99sPpIVjrG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181341,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Yv7eY9MdAXVaekTK1tUun"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Yv7eY9MdAXVaekTK1tUun",
+      "id": "5Yv7eY9MdAXVaekTK1tUun",
+      "name": "Can't Explain",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5Yv7eY9MdAXVaekTK1tUun",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tJoFztHeIJkJWMrx0td2f",
+          "id": "3tJoFztHeIJkJWMrx0td2f",
+          "name": "Moneybagg Yo",
+          "type": "artist",
+          "uri": "spotify:artist:3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188606,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yZfUh5T1sQwwjVqyfP4wz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yZfUh5T1sQwwjVqyfP4wz",
+      "id": "5yZfUh5T1sQwwjVqyfP4wz",
+      "name": "No Sucker (feat. Moneybagg Yo)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5yZfUh5T1sQwwjVqyfP4wz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6OlvgAKJjNZbuyOh7dASoz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6OlvgAKJjNZbuyOh7dASoz",
+      "id": "6OlvgAKJjNZbuyOh7dASoz",
+      "name": "Sum 2 Prove",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6OlvgAKJjNZbuyOh7dASoz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176539,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Jrgo84SP2AoneCMSww7F3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Jrgo84SP2AoneCMSww7F3",
+      "id": "3Jrgo84SP2AoneCMSww7F3",
+      "name": "We Should (feat. Young Thug)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3Jrgo84SP2AoneCMSww7F3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182329,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/33zpMyuU4WwuLFOR0HX68b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/33zpMyuU4WwuLFOR0HX68b",
+      "id": "33zpMyuU4WwuLFOR0HX68b",
+      "name": "Catch The Sun - From \"Queen & Slim: The Soundtrack\"",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:33zpMyuU4WwuLFOR0HX68b",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181011,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5cto7j8JgWX6XMxLeyRiGt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5cto7j8JgWX6XMxLeyRiGt",
+      "id": "5cto7j8JgWX6XMxLeyRiGt",
+      "name": "Consistent",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5cto7j8JgWX6XMxLeyRiGt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 169782,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6QIxLIRg3zkMes5UHKyFch"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6QIxLIRg3zkMes5UHKyFch",
+      "id": "6QIxLIRg3zkMes5UHKyFch",
+      "name": "Gang Signs",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6QIxLIRg3zkMes5UHKyFch",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163652,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0EtDzvypBIlsIrUofKlOFk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0EtDzvypBIlsIrUofKlOFk",
+      "id": "0EtDzvypBIlsIrUofKlOFk",
+      "name": "Hurtin",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:0EtDzvypBIlsIrUofKlOFk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gg11prPP6OqtUvBcKnPpq",
+          "id": "0gg11prPP6OqtUvBcKnPpq",
+          "name": "Rylo Rodriguez",
+          "type": "artist",
+          "uri": "spotify:artist:0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167171,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3LKIc9sTvyoznI9eWm8Akr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3LKIc9sTvyoznI9eWm8Akr",
+      "id": "3LKIc9sTvyoznI9eWm8Akr",
+      "name": "Forget That (feat. Rylo Rodriguez)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:3LKIc9sTvyoznI9eWm8Akr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 185853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41KQ7nleLWE58fw8BhJUw5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41KQ7nleLWE58fw8BhJUw5",
+      "id": "41KQ7nleLWE58fw8BhJUw5",
+      "name": "Solid",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:41KQ7nleLWE58fw8BhJUw5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 137826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5xrzU3SlcBRxG0VNmFNHOa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5xrzU3SlcBRxG0VNmFNHOa",
+      "id": "5xrzU3SlcBRxG0VNmFNHOa",
+      "name": "Social Distancing",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:5xrzU3SlcBRxG0VNmFNHOa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156032,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PhChjgiQ3hERBwkqlAa5Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PhChjgiQ3hERBwkqlAa5Q",
+      "id": "6PhChjgiQ3hERBwkqlAa5Q",
+      "name": "All In",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:6PhChjgiQ3hERBwkqlAa5Q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 144651,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/00qca3mz2Xqf8NkrLEQPv5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/00qca3mz2Xqf8NkrLEQPv5",
+      "id": "00qca3mz2Xqf8NkrLEQPv5",
+      "name": "Low Down",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:00qca3mz2Xqf8NkrLEQPv5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191583,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/31yiMT56qVTYwFMQyaQuNU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/31yiMT56qVTYwFMQyaQuNU",
+      "id": "31yiMT56qVTYwFMQyaQuNU",
+      "name": "Humble",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:31yiMT56qVTYwFMQyaQuNU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167915,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7k5oDaCm4noFEBAR9sMrpF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7k5oDaCm4noFEBAR9sMrpF",
+      "id": "7k5oDaCm4noFEBAR9sMrpF",
+      "name": "Get Money",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:7k5oDaCm4noFEBAR9sMrpF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          },
+          "href": "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+          "id": "45gHcnDnMC15sgx3VL7ROG",
+          "name": "42 Dugg",
+          "type": "artist",
+          "uri": "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181929,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/34vnQF8ApKfi00wTV5rrC7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/34vnQF8ApKfi00wTV5rrC7",
+      "id": "34vnQF8ApKfi00wTV5rrC7",
+      "name": "We Paid (feat. 42 Dugg)",
+      "track_number": 26,
+      "type": "track",
+      "uri": "spotify:track:34vnQF8ApKfi00wTV5rrC7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252728,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HNWVQHXpW70ubsDhvnegu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HNWVQHXpW70ubsDhvnegu",
+      "id": "3HNWVQHXpW70ubsDhvnegu",
+      "name": "The Bigger Picture",
+      "track_number": 27,
+      "type": "track",
+      "uri": "spotify:track:3HNWVQHXpW70ubsDhvnegu",
+      "is_local": false
+    }
+  ]
+}

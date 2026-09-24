@@ -1,0 +1,139 @@
+{
+  "artist_id": "5NhgsV7qPWHZqYEMKzbYvo",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3gkChvuK9R1Q6ut8oF8GlS"
+      },
+      "href": "https://api.spotify.com/v1/albums/3gkChvuK9R1Q6ut8oF8GlS",
+      "id": "3gkChvuK9R1Q6ut8oF8GlS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb2495b3deaec10adffefed0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb2495b3deaec10adffefed0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb2495b3deaec10adffefed0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "FILM NOIR (fin)",
+      "release_date": "2026-06-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3gkChvuK9R1Q6ut8oF8GlS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+          "id": "5NhgsV7qPWHZqYEMKzbYvo",
+          "name": "Faouzia",
+          "type": "artist",
+          "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0FffqcK2whBazSFcAIxebQ",
+      "id": "0FffqcK2whBazSFcAIxebQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736224a61efd4fe783c1832bd7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026224a61efd4fe783c1832bd7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516224a61efd4fe783c1832bd7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "FILM NOIR",
+      "release_date": "2025-11-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0FffqcK2whBazSFcAIxebQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+          "id": "5NhgsV7qPWHZqYEMKzbYvo",
+          "name": "Faouzia",
+          "type": "artist",
+          "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp"
+      },
+      "href": "https://api.spotify.com/v1/albums/3nh4uK04eRkHyrxIDWEfkp",
+      "id": "3nh4uK04eRkHyrxIDWEfkp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732126320a94ec23e07e80a941",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022126320a94ec23e07e80a941",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512126320a94ec23e07e80a941",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CITIZENS",
+      "release_date": "2022-05-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3nh4uK04eRkHyrxIDWEfkp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NhgsV7qPWHZqYEMKzbYvo",
+          "id": "5NhgsV7qPWHZqYEMKzbYvo",
+          "name": "Faouzia",
+          "type": "artist",
+          "uri": "spotify:artist:5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ]
+    }
+  ]
+}

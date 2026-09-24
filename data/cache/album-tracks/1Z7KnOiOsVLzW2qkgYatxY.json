@@ -1,0 +1,431 @@
+{
+  "album_id": "1Z7KnOiOsVLzW2qkgYatxY",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IzVaOvAEIPpFK8r3ajj7J"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IzVaOvAEIPpFK8r3ajj7J",
+          "id": "5IzVaOvAEIPpFK8r3ajj7J",
+          "name": "Ray Moon",
+          "type": "artist",
+          "uri": "spotify:artist:5IzVaOvAEIPpFK8r3ajj7J"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ypfICblKpUBki163Q3X5w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ypfICblKpUBki163Q3X5w",
+      "id": "5ypfICblKpUBki163Q3X5w",
+      "name": "Ocxn Waves (feat. Ray Moon)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5ypfICblKpUBki163Q3X5w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+          },
+          "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+          "id": "6UBA15slIuadJ8h2lPRPos",
+          "name": "Tech N9ne",
+          "type": "artist",
+          "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194923,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2R0lQqnSRJeyEfKg4phtaf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2R0lQqnSRJeyEfKg4phtaf",
+      "id": "2R0lQqnSRJeyEfKg4phtaf",
+      "name": "Nigga Now (feat. Tech N9ne)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2R0lQqnSRJeyEfKg4phtaf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IJ21966TwNZI24MwZHMu4",
+          "id": "3IJ21966TwNZI24MwZHMu4",
+          "name": "Baby Tate",
+          "type": "artist",
+          "uri": "spotify:artist:3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk"
+          },
+          "href": "https://api.spotify.com/v1/artists/0H6CjdCp9GMNoFgMVALJOk",
+          "id": "0H6CjdCp9GMNoFgMVALJOk",
+          "name": "Black Boe",
+          "type": "artist",
+          "uri": "spotify:artist:0H6CjdCp9GMNoFgMVALJOk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189140,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6pZFQmfGK8NnU0xrvK42ng",
+      "id": "6pZFQmfGK8NnU0xrvK42ng",
+      "name": "Bad Lil Bish (feat. Baby Tate & Black Boe)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6pZFQmfGK8NnU0xrvK42ng",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151849,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RyLCKk5FZKIstLFTFUhV2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RyLCKk5FZKIstLFTFUhV2",
+      "id": "1RyLCKk5FZKIstLFTFUhV2",
+      "name": "Scenic Route",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1RyLCKk5FZKIstLFTFUhV2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176551,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/47wJ3E7U150odlv00y3Zxt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/47wJ3E7U150odlv00y3Zxt",
+      "id": "47wJ3E7U150odlv00y3Zxt",
+      "name": "Blue",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:47wJ3E7U150odlv00y3Zxt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162162,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ocIU0fj9Ze7OmvED6bZDo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ocIU0fj9Ze7OmvED6bZDo",
+      "id": "1ocIU0fj9Ze7OmvED6bZDo",
+      "name": "Jace Interlude",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1ocIU0fj9Ze7OmvED6bZDo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YpIbdcsH1052f7kmlawca"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YpIbdcsH1052f7kmlawca",
+          "id": "2YpIbdcsH1052f7kmlawca",
+          "name": "Fuegogamo",
+          "type": "artist",
+          "uri": "spotify:artist:2YpIbdcsH1052f7kmlawca"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164023,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5p5LM8W5Oufcm0DDLl1QSq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5p5LM8W5Oufcm0DDLl1QSq",
+      "id": "5p5LM8W5Oufcm0DDLl1QSq",
+      "name": "Pablo (feat. Fuegogamo)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5p5LM8W5Oufcm0DDLl1QSq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5U7RLpz7bYYsg7EHCt6USL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5U7RLpz7bYYsg7EHCt6USL",
+          "id": "5U7RLpz7bYYsg7EHCt6USL",
+          "name": "Ashoka",
+          "type": "artist",
+          "uri": "spotify:artist:5U7RLpz7bYYsg7EHCt6USL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189775,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/73RTe3gb8dxm5X2FN2SFDx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/73RTe3gb8dxm5X2FN2SFDx",
+      "id": "73RTe3gb8dxm5X2FN2SFDx",
+      "name": "Reminisce (feat. Ashoka)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:73RTe3gb8dxm5X2FN2SFDx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64NUmfhISKp7DetZjlAAos"
+          },
+          "href": "https://api.spotify.com/v1/artists/64NUmfhISKp7DetZjlAAos",
+          "id": "64NUmfhISKp7DetZjlAAos",
+          "name": "TTO K.T.",
+          "type": "artist",
+          "uri": "spotify:artist:64NUmfhISKp7DetZjlAAos"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vaKiuLwFJLVU664A8GTjE",
+          "id": "0vaKiuLwFJLVU664A8GTjE",
+          "name": "Jace",
+          "type": "artist",
+          "uri": "spotify:artist:0vaKiuLwFJLVU664A8GTjE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172500,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2g3ivXyYTSZPbSsGdhzong"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2g3ivXyYTSZPbSsGdhzong",
+      "id": "2g3ivXyYTSZPbSsGdhzong",
+      "name": "Tulum (feat. TTO K.T. & Jace)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2g3ivXyYTSZPbSsGdhzong",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Rw1qXuXVii6ZllsXCWKi7",
+          "id": "0Rw1qXuXVii6ZllsXCWKi7",
+          "name": "Money Mu",
+          "type": "artist",
+          "uri": "spotify:artist:0Rw1qXuXVii6ZllsXCWKi7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 131200,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ADfdPUeOfIlMUQyyUZ0Sd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ADfdPUeOfIlMUQyyUZ0Sd",
+      "id": "2ADfdPUeOfIlMUQyyUZ0Sd",
+      "name": "No Cut (feat. Money Mu)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2ADfdPUeOfIlMUQyyUZ0Sd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64NUmfhISKp7DetZjlAAos"
+          },
+          "href": "https://api.spotify.com/v1/artists/64NUmfhISKp7DetZjlAAos",
+          "id": "64NUmfhISKp7DetZjlAAos",
+          "name": "TTO K.T.",
+          "type": "artist",
+          "uri": "spotify:artist:64NUmfhISKp7DetZjlAAos"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EMUAkNpMnJxl0AmBJqCnY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EMUAkNpMnJxl0AmBJqCnY",
+      "id": "6EMUAkNpMnJxl0AmBJqCnY",
+      "name": "Money Slidin (feat. TTO K.T.)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6EMUAkNpMnJxl0AmBJqCnY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198908,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0HJvwssw0IAdnZqJa7o1oZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0HJvwssw0IAdnZqJa7o1oZ",
+      "id": "0HJvwssw0IAdnZqJa7o1oZ",
+      "name": "Vimana",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0HJvwssw0IAdnZqJa7o1oZ",
+      "is_local": false
+    }
+  ]
+}

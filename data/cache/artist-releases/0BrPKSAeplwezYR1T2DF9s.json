@@ -1,0 +1,116 @@
+{
+  "artist_id": "0BrPKSAeplwezYR1T2DF9s",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5cWyULTjERJ8FHDzSdGm7O"
+      },
+      "href": "https://api.spotify.com/v1/albums/5cWyULTjERJ8FHDzSdGm7O",
+      "id": "5cWyULTjERJ8FHDzSdGm7O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ecd8a9a8fcb10ce3a3f250a5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ecd8a9a8fcb10ce3a3f250a5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ecd8a9a8fcb10ce3a3f250a5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Yungn",
+      "release_date": "2009-04-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5cWyULTjERJ8FHDzSdGm7O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Lr7C96xMXpj3DiMmQWBq7"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Lr7C96xMXpj3DiMmQWBq7",
+          "id": "1Lr7C96xMXpj3DiMmQWBq7",
+          "name": "DJ BrandNew",
+          "type": "artist",
+          "uri": "spotify:artist:1Lr7C96xMXpj3DiMmQWBq7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45Cr3OBENkmqJoGGthowmy"
+          },
+          "href": "https://api.spotify.com/v1/artists/45Cr3OBENkmqJoGGthowmy",
+          "id": "45Cr3OBENkmqJoGGthowmy",
+          "name": "DJ Noize",
+          "type": "artist",
+          "uri": "spotify:artist:45Cr3OBENkmqJoGGthowmy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0BrPKSAeplwezYR1T2DF9s"
+          },
+          "href": "https://api.spotify.com/v1/artists/0BrPKSAeplwezYR1T2DF9s",
+          "id": "0BrPKSAeplwezYR1T2DF9s",
+          "name": "Yung Berg",
+          "type": "artist",
+          "uri": "spotify:artist:0BrPKSAeplwezYR1T2DF9s"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5U098JoF5v6I04qZ7vsMvd"
+      },
+      "href": "https://api.spotify.com/v1/albums/5U098JoF5v6I04qZ7vsMvd",
+      "id": "5U098JoF5v6I04qZ7vsMvd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6626944a3decba3381fdfd6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6626944a3decba3381fdfd6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f6626944a3decba3381fdfd6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Look What You Made Me",
+      "release_date": "2008-08-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5U098JoF5v6I04qZ7vsMvd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0BrPKSAeplwezYR1T2DF9s"
+          },
+          "href": "https://api.spotify.com/v1/artists/0BrPKSAeplwezYR1T2DF9s",
+          "id": "0BrPKSAeplwezYR1T2DF9s",
+          "name": "Yung Berg",
+          "type": "artist",
+          "uri": "spotify:artist:0BrPKSAeplwezYR1T2DF9s"
+        }
+      ]
+    }
+  ]
+}

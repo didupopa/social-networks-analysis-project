@@ -1,0 +1,53 @@
+{
+  "artist_id": "2MxFOxmBHn8tic25xZfqHe",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Qa5I7sQfR0sfVuiv9X77v"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Qa5I7sQfR0sfVuiv9X77v",
+      "id": "1Qa5I7sQfR0sfVuiv9X77v",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbd814c55848e46704766513",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbd814c55848e46704766513",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fbd814c55848e46704766513",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Motorcade",
+      "release_date": "2007-01-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Qa5I7sQfR0sfVuiv9X77v",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2MxFOxmBHn8tic25xZfqHe"
+          },
+          "href": "https://api.spotify.com/v1/artists/2MxFOxmBHn8tic25xZfqHe",
+          "id": "2MxFOxmBHn8tic25xZfqHe",
+          "name": "Thailand",
+          "type": "artist",
+          "uri": "spotify:artist:2MxFOxmBHn8tic25xZfqHe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "album_id": "5SZDZ2XBLlzE0e93pm5kee",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 60120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1tLighZabOvRN9lAYr3UXT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1tLighZabOvRN9lAYr3UXT",
+      "id": "1tLighZabOvRN9lAYr3UXT",
+      "name": "Capo Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1tLighZabOvRN9lAYr3UXT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262106,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2VwED2bWUV08T8RSnG112x"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2VwED2bWUV08T8RSnG112x",
+      "id": "2VwED2bWUV08T8RSnG112x",
+      "name": "Reppin' Time",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2VwED2bWUV08T8RSnG112x",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Yfu24DQPux9Sg1ZjNzeDY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Yfu24DQPux9Sg1ZjNzeDY",
+      "id": "2Yfu24DQPux9Sg1ZjNzeDY",
+      "name": "Superstars",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2Yfu24DQPux9Sg1ZjNzeDY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 267853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6vqvExnnyw4sMx1lAg3pUe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6vqvExnnyw4sMx1lAg3pUe",
+      "id": "6vqvExnnyw4sMx1lAg3pUe",
+      "name": "F-Cks With You",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6vqvExnnyw4sMx1lAg3pUe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BvThYmyzKmE86nv8rtLgd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BvThYmyzKmE86nv8rtLgd",
+      "id": "7BvThYmyzKmE86nv8rtLgd",
+      "name": "Ya Dig",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7BvThYmyzKmE86nv8rtLgd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/07Ess6e6ntd3bOSw155POw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/07Ess6e6ntd3bOSw155POw",
+      "id": "07Ess6e6ntd3bOSw155POw",
+      "name": "Credibility",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:07Ess6e6ntd3bOSw155POw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5D6KIIVYL2XdECvB6b43mx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5D6KIIVYL2XdECvB6b43mx",
+      "id": "5D6KIIVYL2XdECvB6b43mx",
+      "name": "My Life's Like a Movie",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5D6KIIVYL2XdECvB6b43mx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229013,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BgPujYuVKRQHetOzxSbv4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BgPujYuVKRQHetOzxSbv4",
+      "id": "6BgPujYuVKRQHetOzxSbv4",
+      "name": "Refreshing",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6BgPujYuVKRQHetOzxSbv4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1XvIwHt3wU7new5rZqLTAy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1XvIwHt3wU7new5rZqLTAy",
+      "id": "1XvIwHt3wU7new5rZqLTAy",
+      "name": "One Less B-Tch",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1XvIwHt3wU7new5rZqLTAy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 157240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0j2amu6z68yHDbrPUaRvzf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0j2amu6z68yHDbrPUaRvzf",
+      "id": "0j2amu6z68yHDbrPUaRvzf",
+      "name": "Money On My Mind",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0j2amu6z68yHDbrPUaRvzf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6itF8MROxH2MKs5oBuvUTz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6itF8MROxH2MKs5oBuvUTz",
+      "id": "6itF8MROxH2MKs5oBuvUTz",
+      "name": "We Fly High - Ballin'",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6itF8MROxH2MKs5oBuvUTz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272533,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/31AyorV757mcTX68SgaIFm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/31AyorV757mcTX68SgaIFm",
+      "id": "31AyorV757mcTX68SgaIFm",
+      "name": "Do Bad By Myself",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:31AyorV757mcTX68SgaIFm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1rfUoNrpG7a4pSFB9I75Zc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1rfUoNrpG7a4pSFB9I75Zc",
+      "id": "1rfUoNrpG7a4pSFB9I75Zc",
+      "name": "Hold Me Down",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:1rfUoNrpG7a4pSFB9I75Zc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55dc4rK8CrUWEneagloaa2"
+          },
+          "href": "https://api.spotify.com/v1/artists/55dc4rK8CrUWEneagloaa2",
+          "id": "55dc4rK8CrUWEneagloaa2",
+          "name": "JR Writer",
+          "type": "artist",
+          "uri": "spotify:artist:55dc4rK8CrUWEneagloaa2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rsQnBzizi1MTEMvIihk3H"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rsQnBzizi1MTEMvIihk3H",
+          "id": "4rsQnBzizi1MTEMvIihk3H",
+          "name": "Jha Jha",
+          "type": "artist",
+          "uri": "spotify:artist:4rsQnBzizi1MTEMvIihk3H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1wVQtBMY7Kzslbo7DXb5En"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1wVQtBMY7Kzslbo7DXb5En",
+      "id": "1wVQtBMY7Kzslbo7DXb5En",
+      "name": "What It Do",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1wVQtBMY7Kzslbo7DXb5En",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5q0rjReMjmAaHzn048NtB1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5q0rjReMjmAaHzn048NtB1",
+          "id": "5q0rjReMjmAaHzn048NtB1",
+          "name": "40 Cal.",
+          "type": "artist",
+          "uri": "spotify:artist:5q0rjReMjmAaHzn048NtB1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ly5dlyDvfKmSikrLEYT7U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ly5dlyDvfKmSikrLEYT7U",
+      "id": "7ly5dlyDvfKmSikrLEYT7U",
+      "name": "15 Minutes of Fame",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7ly5dlyDvfKmSikrLEYT7U",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XVg1BO3YW5i56BrhANkzU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XVg1BO3YW5i56BrhANkzU",
+      "id": "5XVg1BO3YW5i56BrhANkzU",
+      "name": "Thicker Than Brothers",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5XVg1BO3YW5i56BrhANkzU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5lyPSKRdum9RPQeYCp6skj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5lyPSKRdum9RPQeYCp6skj",
+      "id": "5lyPSKRdum9RPQeYCp6skj",
+      "name": "Crunch Time",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:5lyPSKRdum9RPQeYCp6skj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VIRCuPGkcQfaIZgCm31es"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VIRCuPGkcQfaIZgCm31es",
+      "id": "1VIRCuPGkcQfaIZgCm31es",
+      "name": "Dope Game, Coke Game",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:1VIRCuPGkcQfaIZgCm31es",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7itheyInOzglLEXw42VXlr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7itheyInOzglLEXw42VXlr",
+      "id": "7itheyInOzglLEXw42VXlr",
+      "name": "Prolific",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:7itheyInOzglLEXw42VXlr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/188Yj3sIMfQAZmX0FrVjNS"
+          },
+          "href": "https://api.spotify.com/v1/artists/188Yj3sIMfQAZmX0FrVjNS",
+          "id": "188Yj3sIMfQAZmX0FrVjNS",
+          "name": "Noe",
+          "type": "artist",
+          "uri": "spotify:artist:188Yj3sIMfQAZmX0FrVjNS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 390240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dJLXcifROCLdlZNzSsTqq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4dJLXcifROCLdlZNzSsTqq",
+      "id": "4dJLXcifROCLdlZNzSsTqq",
+      "name": "Testify",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:4dJLXcifROCLdlZNzSsTqq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3m1knVGHFKK57xnleGMHcJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3m1knVGHFKK57xnleGMHcJ",
+          "id": "3m1knVGHFKK57xnleGMHcJ",
+          "name": "Hell Rell",
+          "type": "artist",
+          "uri": "spotify:artist:3m1knVGHFKK57xnleGMHcJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ACWS59anwdSHw9frA337o"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ACWS59anwdSHw9frA337o",
+          "id": "1ACWS59anwdSHw9frA337o",
+          "name": "Stack Bundles",
+          "type": "artist",
+          "uri": "spotify:artist:1ACWS59anwdSHw9frA337o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fELRc9wZnIcyXYz8VU3LR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fELRc9wZnIcyXYz8VU3LR",
+      "id": "6fELRc9wZnIcyXYz8VU3LR",
+      "name": "Chalk Lined",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:6fELRc9wZnIcyXYz8VU3LR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 66400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2azmxbI5m1xo4Dg8rzHjbZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2azmxbI5m1xo4Dg8rzHjbZ",
+      "id": "2azmxbI5m1xo4Dg8rzHjbZ",
+      "name": "Don't Forget About Me",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:2azmxbI5m1xo4Dg8rzHjbZ",
+      "is_local": false
+    }
+  ]
+}

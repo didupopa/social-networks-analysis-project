@@ -1,0 +1,53 @@
+{
+  "artist_id": "3btpCPGAabXGg7MvDvo77R",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2NWYWYfzANsnC1RahscvIv"
+      },
+      "href": "https://api.spotify.com/v1/albums/2NWYWYfzANsnC1RahscvIv",
+      "id": "2NWYWYfzANsnC1RahscvIv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c03b73d3ad95c749255ff686",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c03b73d3ad95c749255ff686",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c03b73d3ad95c749255ff686",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "We Gotta Eat",
+      "release_date": "2002-11-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2NWYWYfzANsnC1RahscvIv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3btpCPGAabXGg7MvDvo77R"
+          },
+          "href": "https://api.spotify.com/v1/artists/3btpCPGAabXGg7MvDvo77R",
+          "id": "3btpCPGAabXGg7MvDvo77R",
+          "name": "Redd Eyezz",
+          "type": "artist",
+          "uri": "spotify:artist:3btpCPGAabXGg7MvDvo77R"
+        }
+      ]
+    }
+  ]
+}

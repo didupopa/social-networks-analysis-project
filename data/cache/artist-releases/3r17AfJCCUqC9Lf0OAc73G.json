@@ -1,0 +1,139 @@
+{
+  "artist_id": "3r17AfJCCUqC9Lf0OAc73G",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e"
+      },
+      "href": "https://api.spotify.com/v1/albums/7Ff7he6c7fzyMhAakcoD2e",
+      "id": "7Ff7he6c7fzyMhAakcoD2e",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736016f214e36b6b489e531285",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026016f214e36b6b489e531285",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516016f214e36b6b489e531285",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Double Dutchess",
+      "release_date": "2017-09-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7Ff7he6c7fzyMhAakcoD2e",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4yMcA2sZNdE4JHHXP9rVLn"
+      },
+      "href": "https://api.spotify.com/v1/albums/4yMcA2sZNdE4JHHXP9rVLn",
+      "id": "4yMcA2sZNdE4JHHXP9rVLn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dff485f83e3fc1cccdd55eff",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dff485f83e3fc1cccdd55eff",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dff485f83e3fc1cccdd55eff",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Dutchess Deluxe",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4yMcA2sZNdE4JHHXP9rVLn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2knAf4wg8Gff8q1bXiXCTz",
+      "id": "2knAf4wg8Gff8q1bXiXCTz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27310591d448ff910d4275893a6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0210591d448ff910d4275893a6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485110591d448ff910d4275893a6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Dutchess",
+      "release_date": "2006-09-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2knAf4wg8Gff8q1bXiXCTz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "album_id": "40yjQFWiXENCxsvSFvm1hU",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 118099,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cPhzgcz0XHJsIZrivpfVv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cPhzgcz0XHJsIZrivpfVv",
+      "id": "3cPhzgcz0XHJsIZrivpfVv",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3cPhzgcz0XHJsIZrivpfVv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+          },
+          "href": "https://api.spotify.com/v1/artists/39Uhf21aJFjMLus1j0YGT8",
+          "id": "39Uhf21aJFjMLus1j0YGT8",
+          "name": "Zoey Dollaz",
+          "type": "artist",
+          "uri": "spotify:artist:39Uhf21aJFjMLus1j0YGT8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IkUR4T3vqGtLqMEccMrho",
+          "id": "3IkUR4T3vqGtLqMEccMrho",
+          "name": "Yd",
+          "type": "artist",
+          "uri": "spotify:artist:3IkUR4T3vqGtLqMEccMrho"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259892,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mMkY0Ashj4CwJOpefVE5g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mMkY0Ashj4CwJOpefVE5g",
+      "id": "4mMkY0Ashj4CwJOpefVE5g",
+      "name": "Pull Up With 100 N*ggaz",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4mMkY0Ashj4CwJOpefVE5g",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc"
+          },
+          "href": "https://api.spotify.com/v1/artists/43khwEflLhLeFZ6gx8QIzc",
+          "id": "43khwEflLhLeFZ6gx8QIzc",
+          "name": "Neek Bucks",
+          "type": "artist",
+          "uri": "spotify:artist:43khwEflLhLeFZ6gx8QIzc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IkUR4T3vqGtLqMEccMrho",
+          "id": "3IkUR4T3vqGtLqMEccMrho",
+          "name": "Yd",
+          "type": "artist",
+          "uri": "spotify:artist:3IkUR4T3vqGtLqMEccMrho"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JugPn0f37nRk6DP7k4xIM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JugPn0f37nRk6DP7k4xIM",
+          "id": "3JugPn0f37nRk6DP7k4xIM",
+          "name": "Trav",
+          "type": "artist",
+          "uri": "spotify:artist:3JugPn0f37nRk6DP7k4xIM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211931,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5GwCyt2VwGWnQQhOD8cFax"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5GwCyt2VwGWnQQhOD8cFax",
+      "id": "5GwCyt2VwGWnQQhOD8cFax",
+      "name": "We Don't Play That",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5GwCyt2VwGWnQQhOD8cFax",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+          },
+          "href": "https://api.spotify.com/v1/artists/39Uhf21aJFjMLus1j0YGT8",
+          "id": "39Uhf21aJFjMLus1j0YGT8",
+          "name": "Zoey Dollaz",
+          "type": "artist",
+          "uri": "spotify:artist:39Uhf21aJFjMLus1j0YGT8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IkUR4T3vqGtLqMEccMrho",
+          "id": "3IkUR4T3vqGtLqMEccMrho",
+          "name": "Yd",
+          "type": "artist",
+          "uri": "spotify:artist:3IkUR4T3vqGtLqMEccMrho"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244401,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nnE14GVCGbYrRMfPvHMN8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nnE14GVCGbYrRMfPvHMN8",
+      "id": "0nnE14GVCGbYrRMfPvHMN8",
+      "name": "On The Set",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0nnE14GVCGbYrRMfPvHMN8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JugPn0f37nRk6DP7k4xIM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JugPn0f37nRk6DP7k4xIM",
+          "id": "3JugPn0f37nRk6DP7k4xIM",
+          "name": "Trav",
+          "type": "artist",
+          "uri": "spotify:artist:3JugPn0f37nRk6DP7k4xIM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+          },
+          "href": "https://api.spotify.com/v1/artists/39Uhf21aJFjMLus1j0YGT8",
+          "id": "39Uhf21aJFjMLus1j0YGT8",
+          "name": "Zoey Dollaz",
+          "type": "artist",
+          "uri": "spotify:artist:39Uhf21aJFjMLus1j0YGT8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gTuShc31bxdiExXFuxqqY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gTuShc31bxdiExXFuxqqY",
+          "id": "6gTuShc31bxdiExXFuxqqY",
+          "name": "DYFL",
+          "type": "artist",
+          "uri": "spotify:artist:6gTuShc31bxdiExXFuxqqY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279745,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ZD3f24y6Yks5zcp9quFtf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ZD3f24y6Yks5zcp9quFtf",
+      "id": "1ZD3f24y6Yks5zcp9quFtf",
+      "name": "White Girl",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1ZD3f24y6Yks5zcp9quFtf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+          },
+          "href": "https://api.spotify.com/v1/artists/39Uhf21aJFjMLus1j0YGT8",
+          "id": "39Uhf21aJFjMLus1j0YGT8",
+          "name": "Zoey Dollaz",
+          "type": "artist",
+          "uri": "spotify:artist:39Uhf21aJFjMLus1j0YGT8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IkUR4T3vqGtLqMEccMrho",
+          "id": "3IkUR4T3vqGtLqMEccMrho",
+          "name": "Yd",
+          "type": "artist",
+          "uri": "spotify:artist:3IkUR4T3vqGtLqMEccMrho"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35Xgd7vvsbqfHnNraWPycB"
+          },
+          "href": "https://api.spotify.com/v1/artists/35Xgd7vvsbqfHnNraWPycB",
+          "id": "35Xgd7vvsbqfHnNraWPycB",
+          "name": "V Stuck",
+          "type": "artist",
+          "uri": "spotify:artist:35Xgd7vvsbqfHnNraWPycB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ndberMMBG7uLigjwov2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ndberMMBG7uLigjwov2Hm",
+          "id": "7ndberMMBG7uLigjwov2Hm",
+          "name": "Black City Vick",
+          "type": "artist",
+          "uri": "spotify:artist:7ndberMMBG7uLigjwov2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gTuShc31bxdiExXFuxqqY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gTuShc31bxdiExXFuxqqY",
+          "id": "6gTuShc31bxdiExXFuxqqY",
+          "name": "DYFL",
+          "type": "artist",
+          "uri": "spotify:artist:6gTuShc31bxdiExXFuxqqY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285048,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7yvYqueIfZKRlXWKSerxDo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7yvYqueIfZKRlXWKSerxDo",
+      "id": "7yvYqueIfZKRlXWKSerxDo",
+      "name": "Keep It 100",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7yvYqueIfZKRlXWKSerxDo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 76669,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Gy8jBc3uAbILUnh8KLoeA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Gy8jBc3uAbILUnh8KLoeA",
+      "id": "1Gy8jBc3uAbILUnh8KLoeA",
+      "name": "On God (Interlude)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1Gy8jBc3uAbILUnh8KLoeA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194194,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4AMkFjTnRwiHhVmYGFJOgb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4AMkFjTnRwiHhVmYGFJOgb",
+      "id": "4AMkFjTnRwiHhVmYGFJOgb",
+      "name": "On Fleek",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4AMkFjTnRwiHhVmYGFJOgb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35Xgd7vvsbqfHnNraWPycB"
+          },
+          "href": "https://api.spotify.com/v1/artists/35Xgd7vvsbqfHnNraWPycB",
+          "id": "35Xgd7vvsbqfHnNraWPycB",
+          "name": "V Stuck",
+          "type": "artist",
+          "uri": "spotify:artist:35Xgd7vvsbqfHnNraWPycB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IkUR4T3vqGtLqMEccMrho",
+          "id": "3IkUR4T3vqGtLqMEccMrho",
+          "name": "Yd",
+          "type": "artist",
+          "uri": "spotify:artist:3IkUR4T3vqGtLqMEccMrho"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6gTuShc31bxdiExXFuxqqY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6gTuShc31bxdiExXFuxqqY",
+          "id": "6gTuShc31bxdiExXFuxqqY",
+          "name": "DYFL",
+          "type": "artist",
+          "uri": "spotify:artist:6gTuShc31bxdiExXFuxqqY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183980,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/33NHfY5wxdtPOHo5erGwAA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/33NHfY5wxdtPOHo5erGwAA",
+      "id": "33NHfY5wxdtPOHo5erGwAA",
+      "name": "38",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:33NHfY5wxdtPOHo5erGwAA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "type": "artist",
+          "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ll3lMzMHTtXWxm55DNEIw"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ll3lMzMHTtXWxm55DNEIw",
+          "id": "7ll3lMzMHTtXWxm55DNEIw",
+          "name": "Ice Berg",
+          "type": "artist",
+          "uri": "spotify:artist:7ll3lMzMHTtXWxm55DNEIw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284212,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gqMtJSH1bhRAqKIPERXWa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gqMtJSH1bhRAqKIPERXWa",
+      "id": "5gqMtJSH1bhRAqKIPERXWa",
+      "name": "2 Door",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5gqMtJSH1bhRAqKIPERXWa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ndberMMBG7uLigjwov2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ndberMMBG7uLigjwov2Hm",
+          "id": "7ndberMMBG7uLigjwov2Hm",
+          "name": "Black City Vick",
+          "type": "artist",
+          "uri": "spotify:artist:7ndberMMBG7uLigjwov2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216006,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6T2Irg3vaphDHRdL9SPXb5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6T2Irg3vaphDHRdL9SPXb5",
+      "id": "6T2Irg3vaphDHRdL9SPXb5",
+      "name": "Swimming in Money",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6T2Irg3vaphDHRdL9SPXb5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IkUR4T3vqGtLqMEccMrho",
+          "id": "3IkUR4T3vqGtLqMEccMrho",
+          "name": "Yd",
+          "type": "artist",
+          "uri": "spotify:artist:3IkUR4T3vqGtLqMEccMrho"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 110785,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6QgxYFYjAmFpRa2IAs7nc9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6QgxYFYjAmFpRa2IAs7nc9",
+      "id": "6QgxYFYjAmFpRa2IAs7nc9",
+      "name": "Free Me",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6QgxYFYjAmFpRa2IAs7nc9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188786,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Ye7caRCzQTcCYxBADyZRV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Ye7caRCzQTcCYxBADyZRV",
+      "id": "3Ye7caRCzQTcCYxBADyZRV",
+      "name": "Shoot Em' In The Head",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3Ye7caRCzQTcCYxBADyZRV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210625,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/31utaurvGXkTpA9yVxHMfl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/31utaurvGXkTpA9yVxHMfl",
+      "id": "31utaurvGXkTpA9yVxHMfl",
+      "name": "(Bonus Track) Feel My Pain",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:31utaurvGXkTpA9yVxHMfl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1JHDKfAaLgL3RpvSQnrT7o"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1JHDKfAaLgL3RpvSQnrT7o",
+      "id": "1JHDKfAaLgL3RpvSQnrT7o",
+      "name": "(Bonus Track) Dope Boy Sh*t",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1JHDKfAaLgL3RpvSQnrT7o",
+      "is_local": false
+    }
+  ]
+}

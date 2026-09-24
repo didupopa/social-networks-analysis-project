@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+  },
+  "href": "https://api.spotify.com/v1/artists/2WX2uTcsvV5OnS0inACecP",
+  "id": "2WX2uTcsvV5OnS0inACecP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174778483686ae247c1906f02fb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178778483686ae247c1906f02fb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Birdy",
+  "type": "artist",
+  "uri": "spotify:artist:2WX2uTcsvV5OnS0inACecP"
+}

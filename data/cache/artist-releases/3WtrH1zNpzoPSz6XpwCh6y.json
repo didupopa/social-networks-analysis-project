@@ -1,0 +1,53 @@
+{
+  "artist_id": "3WtrH1zNpzoPSz6XpwCh6y",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2vCIdqCDLfLnDmQsLHY2uk"
+      },
+      "href": "https://api.spotify.com/v1/albums/2vCIdqCDLfLnDmQsLHY2uk",
+      "id": "2vCIdqCDLfLnDmQsLHY2uk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b480f138c896db4dfe43127e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b480f138c896db4dfe43127e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b480f138c896db4dfe43127e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "BABY",
+      "release_date": "2021-07-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2vCIdqCDLfLnDmQsLHY2uk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+          },
+          "href": "https://api.spotify.com/v1/artists/3WtrH1zNpzoPSz6XpwCh6y",
+          "id": "3WtrH1zNpzoPSz6XpwCh6y",
+          "name": "Delilah Montagu",
+          "type": "artist",
+          "uri": "spotify:artist:3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ]
+    }
+  ]
+}

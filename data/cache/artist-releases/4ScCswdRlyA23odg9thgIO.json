@@ -1,0 +1,139 @@
+{
+  "artist_id": "4ScCswdRlyA23odg9thgIO",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Ql1u2tIY6R7xRXnBgYmKE",
+      "id": "4Ql1u2tIY6R7xRXnBgYmKE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8ffb5a1b867d980d895d95f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8ffb5a1b867d980d895d95f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d8ffb5a1b867d980d895d95f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "JESS",
+      "release_date": "2024-04-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Ql1u2tIY6R7xRXnBgYmKE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ScCswdRlyA23odg9thgIO",
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne",
+          "type": "artist",
+          "uri": "spotify:artist:4ScCswdRlyA23odg9thgIO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
+      },
+      "href": "https://api.spotify.com/v1/albums/7GCY1J01hcEpdgeY0vtSsN",
+      "id": "7GCY1J01hcEpdgeY0vtSsN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ccc3fe22675ab4d0281b4ef4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ccc3fe22675ab4d0281b4ef4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ccc3fe22675ab4d0281b4ef4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Always in Between (Deluxe)",
+      "release_date": "2018-10-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7GCY1J01hcEpdgeY0vtSsN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ScCswdRlyA23odg9thgIO",
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne",
+          "type": "artist",
+          "uri": "spotify:artist:4ScCswdRlyA23odg9thgIO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BEPVoBcHuTLWpcdj8FhM8",
+      "id": "7BEPVoBcHuTLWpcdj8FhM8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b905ed1edb5a88c573c023b0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b905ed1edb5a88c573c023b0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b905ed1edb5a88c573c023b0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Cry When I Laugh",
+      "release_date": "2015",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:7BEPVoBcHuTLWpcdj8FhM8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ScCswdRlyA23odg9thgIO",
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne",
+          "type": "artist",
+          "uri": "spotify:artist:4ScCswdRlyA23odg9thgIO"
+        }
+      ]
+    }
+  ]
+}

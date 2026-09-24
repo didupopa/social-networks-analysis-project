@@ -1,0 +1,1254 @@
+{
+  "album_id": "2fsCNnJWXOpEkIqC4SgXDu",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+          "id": "6Uh8uJyN9g7oFjDK16nJgb",
+          "name": "Juelz Santana",
+          "type": "artist",
+          "uri": "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222538,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/74R9a6rmXd4sXOVJDZVrN1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/74R9a6rmXd4sXOVJDZVrN1",
+      "id": "74R9a6rmXd4sXOVJDZVrN1",
+      "name": "Election (feat. Marc Scibilia & Juelz Santana)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:74R9a6rmXd4sXOVJDZVrN1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12jqCYuokUm6l6rvMZ3oOz"
+          },
+          "href": "https://api.spotify.com/v1/artists/12jqCYuokUm6l6rvMZ3oOz",
+          "id": "12jqCYuokUm6l6rvMZ3oOz",
+          "name": "Sandra Conte",
+          "type": "artist",
+          "uri": "spotify:artist:12jqCYuokUm6l6rvMZ3oOz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187352,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0mLtWHNijNwAuyJZcDAvDj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0mLtWHNijNwAuyJZcDAvDj",
+      "id": "0mLtWHNijNwAuyJZcDAvDj",
+      "name": "Anybody (feat. Sandra Conte)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0mLtWHNijNwAuyJZcDAvDj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zQwYOfDi838Wq9pCOKYpS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7zQwYOfDi838Wq9pCOKYpS",
+      "id": "7zQwYOfDi838Wq9pCOKYpS",
+      "name": "Chasing That Feeling (feat. Marc Scibilia)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7zQwYOfDi838Wq9pCOKYpS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ubKsFJjMgWkARG6w2Qlv8",
+          "id": "4ubKsFJjMgWkARG6w2Qlv8",
+          "name": "Vado",
+          "type": "artist",
+          "uri": "spotify:artist:4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          },
+          "href": "https://api.spotify.com/v1/artists/5L4EafeXwZ0stGuPtGr5Tz",
+          "id": "5L4EafeXwZ0stGuPtGr5Tz",
+          "name": "Rain",
+          "type": "artist",
+          "uri": "spotify:artist:5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152648,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2FSHdVLeYtiyvAW9CIApUp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2FSHdVLeYtiyvAW9CIApUp",
+      "id": "2FSHdVLeYtiyvAW9CIApUp",
+      "name": "MMTC (feat. Vado & Rain)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2FSHdVLeYtiyvAW9CIApUp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+          },
+          "href": "https://api.spotify.com/v1/artists/20apXQGKM00jJTvYfyKwlb",
+          "id": "20apXQGKM00jJTvYfyKwlb",
+          "name": "Maino",
+          "type": "artist",
+          "uri": "spotify:artist:20apXQGKM00jJTvYfyKwlb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147666,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/368qYNAWb5GDmF15lqLKlC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/368qYNAWb5GDmF15lqLKlC",
+      "id": "368qYNAWb5GDmF15lqLKlC",
+      "name": "Father Forgive Us (feat. Maino)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:368qYNAWb5GDmF15lqLKlC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5hYj8m8oqVDRhg8Jk08XZP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5hYj8m8oqVDRhg8Jk08XZP",
+          "id": "5hYj8m8oqVDRhg8Jk08XZP",
+          "name": "DramaB2R",
+          "type": "artist",
+          "uri": "spotify:artist:5hYj8m8oqVDRhg8Jk08XZP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206341,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3LuNPaMpvrn3zMMYs1eQjK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3LuNPaMpvrn3zMMYs1eQjK",
+      "id": "3LuNPaMpvrn3zMMYs1eQjK",
+      "name": "For The Better (feat. DramaB2R)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3LuNPaMpvrn3zMMYs1eQjK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          },
+          "href": "https://api.spotify.com/v1/artists/7e10JUMF7MJmmwYpnTSMI5",
+          "id": "7e10JUMF7MJmmwYpnTSMI5",
+          "name": "Dave East",
+          "type": "artist",
+          "uri": "spotify:artist:7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166095,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3EYnLCpU9xSMeWcBuaDQ51"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3EYnLCpU9xSMeWcBuaDQ51",
+      "id": "3EYnLCpU9xSMeWcBuaDQ51",
+      "name": "Pardon My Thoughts (feat. Dave East)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3EYnLCpU9xSMeWcBuaDQ51",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184223,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/234htUPGaHuPfCjDZuWWmj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/234htUPGaHuPfCjDZuWWmj",
+      "id": "234htUPGaHuPfCjDZuWWmj",
+      "name": "Everything (feat. Marc Scibilia)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:234htUPGaHuPfCjDZuWWmj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5hYj8m8oqVDRhg8Jk08XZP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5hYj8m8oqVDRhg8Jk08XZP",
+          "id": "5hYj8m8oqVDRhg8Jk08XZP",
+          "name": "DramaB2R",
+          "type": "artist",
+          "uri": "spotify:artist:5hYj8m8oqVDRhg8Jk08XZP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          },
+          "href": "https://api.spotify.com/v1/artists/67gqUXxHedeUGDTxwBzdjS",
+          "id": "67gqUXxHedeUGDTxwBzdjS",
+          "name": "Conway the Machine",
+          "type": "artist",
+          "uri": "spotify:artist:67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192707,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7pSjJb9xNfLqjYo6iZ8u60"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7pSjJb9xNfLqjYo6iZ8u60",
+      "id": "7pSjJb9xNfLqjYo6iZ8u60",
+      "name": "Try Again (feat. DramaB2R & Conway The Machine)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7pSjJb9xNfLqjYo6iZ8u60",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5hYj8m8oqVDRhg8Jk08XZP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5hYj8m8oqVDRhg8Jk08XZP",
+          "id": "5hYj8m8oqVDRhg8Jk08XZP",
+          "name": "DramaB2R",
+          "type": "artist",
+          "uri": "spotify:artist:5hYj8m8oqVDRhg8Jk08XZP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 174000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PoVUG9STsUZjKe0SlCOyL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3PoVUG9STsUZjKe0SlCOyL",
+      "id": "3PoVUG9STsUZjKe0SlCOyL",
+      "name": "Been Like That (feat. DramaB2R)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3PoVUG9STsUZjKe0SlCOyL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ERqHtllP6SqR6whO8Cz16"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ERqHtllP6SqR6whO8Cz16",
+          "id": "6ERqHtllP6SqR6whO8Cz16",
+          "name": "Axel Leon",
+          "type": "artist",
+          "uri": "spotify:artist:6ERqHtllP6SqR6whO8Cz16"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46oL4yVdytIAcN2NruQKeH"
+          },
+          "href": "https://api.spotify.com/v1/artists/46oL4yVdytIAcN2NruQKeH",
+          "id": "46oL4yVdytIAcN2NruQKeH",
+          "name": "Nino Man",
+          "type": "artist",
+          "uri": "spotify:artist:46oL4yVdytIAcN2NruQKeH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4XfZS4DTtBxAd8JjsDFMzl",
+          "id": "4XfZS4DTtBxAd8JjsDFMzl",
+          "name": "Fred the Godson",
+          "type": "artist",
+          "uri": "spotify:artist:4XfZS4DTtBxAd8JjsDFMzl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225842,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hqKyUnoDFeiShhUxOVkEZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hqKyUnoDFeiShhUxOVkEZ",
+      "id": "2hqKyUnoDFeiShhUxOVkEZ",
+      "name": "Bad Boyz (feat. Axel Leon, Nino Man & Fred The Godson)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2hqKyUnoDFeiShhUxOVkEZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1FXQdn8Y8JnTjq87bEkd68"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1FXQdn8Y8JnTjq87bEkd68",
+      "id": "1FXQdn8Y8JnTjq87bEkd68",
+      "name": "A Monster Made It",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1FXQdn8Y8JnTjq87bEkd68",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4XfZS4DTtBxAd8JjsDFMzl",
+          "id": "4XfZS4DTtBxAd8JjsDFMzl",
+          "name": "Fred the Godson",
+          "type": "artist",
+          "uri": "spotify:artist:4XfZS4DTtBxAd8JjsDFMzl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162927,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6mhIOPLaPzZPyQA1i8dCfj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6mhIOPLaPzZPyQA1i8dCfj",
+      "id": "6mhIOPLaPzZPyQA1i8dCfj",
+      "name": "Finito (feat. Fred the Godson)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6mhIOPLaPzZPyQA1i8dCfj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160069,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DvbgMQH5LZlv5VKMtNoNZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DvbgMQH5LZlv5VKMtNoNZ",
+      "id": "2DvbgMQH5LZlv5VKMtNoNZ",
+      "name": "Gospel",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2DvbgMQH5LZlv5VKMtNoNZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201064,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4XWo61gkcVyhwYj0bjQW6b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4XWo61gkcVyhwYj0bjQW6b",
+      "id": "4XWo61gkcVyhwYj0bjQW6b",
+      "name": "I'm Alive",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4XWo61gkcVyhwYj0bjQW6b",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210172,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7LQhP7xyhaCg0ntdeyPEXm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7LQhP7xyhaCg0ntdeyPEXm",
+      "id": "7LQhP7xyhaCg0ntdeyPEXm",
+      "name": "Cristal Occasions",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:7LQhP7xyhaCg0ntdeyPEXm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JugPn0f37nRk6DP7k4xIM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JugPn0f37nRk6DP7k4xIM",
+          "id": "3JugPn0f37nRk6DP7k4xIM",
+          "name": "Trav",
+          "type": "artist",
+          "uri": "spotify:artist:3JugPn0f37nRk6DP7k4xIM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2pYQTTNaXob4fbc7ovQy0t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2pYQTTNaXob4fbc7ovQy0t",
+      "id": "2pYQTTNaXob4fbc7ovQy0t",
+      "name": "Love of the Hustle (feat. Trav)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:2pYQTTNaXob4fbc7ovQy0t",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197505,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BC8eYWRhdLUKSr8UoxnKx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BC8eYWRhdLUKSr8UoxnKx",
+      "id": "7BC8eYWRhdLUKSr8UoxnKx",
+      "name": "Make No Issues of It",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:7BC8eYWRhdLUKSr8UoxnKx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+          "id": "3ScY9CQxNLQei8Umvpx5g6",
+          "name": "Fat Joe",
+          "type": "artist",
+          "uri": "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235504,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5fjxEI2uUmrcHVafkB7lO3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5fjxEI2uUmrcHVafkB7lO3",
+      "id": "5fjxEI2uUmrcHVafkB7lO3",
+      "name": "NYC (feat. Fat Joe)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:5fjxEI2uUmrcHVafkB7lO3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209778,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gjX81zw3e7ceMQ97N5da0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gjX81zw3e7ceMQ97N5da0",
+      "id": "5gjX81zw3e7ceMQ97N5da0",
+      "name": "Good Die Young (feat. Marc Scibilia)",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:5gjX81zw3e7ceMQ97N5da0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217752,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qTsaPs5dHgOSiJb7pJQJB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qTsaPs5dHgOSiJb7pJQJB",
+      "id": "6qTsaPs5dHgOSiJb7pJQJB",
+      "name": "State of the Union (feat. Rick Ross & Marc Scibilia)",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:6qTsaPs5dHgOSiJb7pJQJB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          },
+          "href": "https://api.spotify.com/v1/artists/5L4EafeXwZ0stGuPtGr5Tz",
+          "id": "5L4EafeXwZ0stGuPtGr5Tz",
+          "name": "Rain",
+          "type": "artist",
+          "uri": "spotify:artist:5L4EafeXwZ0stGuPtGr5Tz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4XfZS4DTtBxAd8JjsDFMzl",
+          "id": "4XfZS4DTtBxAd8JjsDFMzl",
+          "name": "Fred the Godson",
+          "type": "artist",
+          "uri": "spotify:artist:4XfZS4DTtBxAd8JjsDFMzl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252233,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1PGJP3sNl02E1iM12QJhNR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1PGJP3sNl02E1iM12QJhNR",
+      "id": "1PGJP3sNl02E1iM12QJhNR",
+      "name": "Pity in the Summer (feat. Cam'ron, Rain, Fred the Godson & Marc Scibilia)",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:1PGJP3sNl02E1iM12QJhNR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+          },
+          "href": "https://api.spotify.com/v1/artists/20apXQGKM00jJTvYfyKwlb",
+          "id": "20apXQGKM00jJTvYfyKwlb",
+          "name": "Maino",
+          "type": "artist",
+          "uri": "spotify:artist:20apXQGKM00jJTvYfyKwlb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5hYj8m8oqVDRhg8Jk08XZP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5hYj8m8oqVDRhg8Jk08XZP",
+          "id": "5hYj8m8oqVDRhg8Jk08XZP",
+          "name": "DramaB2R",
+          "type": "artist",
+          "uri": "spotify:artist:5hYj8m8oqVDRhg8Jk08XZP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EIBaKGBGiTwlLi05B5pDE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EIBaKGBGiTwlLi05B5pDE",
+      "id": "6EIBaKGBGiTwlLi05B5pDE",
+      "name": "My Era (feat. Maino & DramaB2R)",
+      "track_number": 23,
+      "type": "track",
+      "uri": "spotify:track:6EIBaKGBGiTwlLi05B5pDE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YWxKQj2Go9CGHCp77UOyy",
+          "id": "0YWxKQj2Go9CGHCp77UOyy",
+          "name": "Fabolous",
+          "type": "artist",
+          "uri": "spotify:artist:0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHiVarfTsFhkFOk5vHS77",
+          "id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "Marc Scibilia",
+          "type": "artist",
+          "uri": "spotify:artist:4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 158248,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/45akR65bvExdrOzL8VVpCA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/45akR65bvExdrOzL8VVpCA",
+      "id": "45akR65bvExdrOzL8VVpCA",
+      "name": "Nothing Lasts (feat. Fabolous & Marc Scibilia)",
+      "track_number": 24,
+      "type": "track",
+      "uri": "spotify:track:45akR65bvExdrOzL8VVpCA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CxtLXJMW2AbYPyQShuDT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CxtLXJMW2AbYPyQShuDT1",
+          "id": "2CxtLXJMW2AbYPyQShuDT1",
+          "name": "Ball Greezy",
+          "type": "artist",
+          "uri": "spotify:artist:2CxtLXJMW2AbYPyQShuDT1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          },
+          "href": "https://api.spotify.com/v1/artists/7e10JUMF7MJmmwYpnTSMI5",
+          "id": "7e10JUMF7MJmmwYpnTSMI5",
+          "name": "Dave East",
+          "type": "artist",
+          "uri": "spotify:artist:7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270353,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ZOtYXcw8j81KE2cYZhl71"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ZOtYXcw8j81KE2cYZhl71",
+      "id": "6ZOtYXcw8j81KE2cYZhl71",
+      "name": "Cocaine Dreamin (feat. Ball Greezy & Dave East)",
+      "track_number": 25,
+      "type": "track",
+      "uri": "spotify:track:6ZOtYXcw8j81KE2cYZhl71",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230571,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/559iORUdM9WwbIR55Jp7Wh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/559iORUdM9WwbIR55Jp7Wh",
+      "id": "559iORUdM9WwbIR55Jp7Wh",
+      "name": "Mama I Made It (feat. Cam'ron)",
+      "track_number": 26,
+      "type": "track",
+      "uri": "spotify:track:559iORUdM9WwbIR55Jp7Wh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lwPGsAG5qnfn1JOtESnYZ",
+          "id": "4lwPGsAG5qnfn1JOtESnYZ",
+          "name": "Guordan Banks",
+          "type": "artist",
+          "uri": "spotify:artist:4lwPGsAG5qnfn1JOtESnYZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Matrg5du62bXwer29cU5T",
+          "id": "5Matrg5du62bXwer29cU5T",
+          "name": "Benny The Butcher",
+          "type": "artist",
+          "uri": "spotify:artist:5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          },
+          "href": "https://api.spotify.com/v1/artists/67gqUXxHedeUGDTxwBzdjS",
+          "id": "67gqUXxHedeUGDTxwBzdjS",
+          "name": "Conway the Machine",
+          "type": "artist",
+          "uri": "spotify:artist:67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 307346,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2E8jdXBFNGBVFbb64PjyPA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2E8jdXBFNGBVFbb64PjyPA",
+      "id": "2E8jdXBFNGBVFbb64PjyPA",
+      "name": "To Whom it May Concern (feat. Cam'ron, Guordan Banks, Benny the Butcher & Conway the Machine)",
+      "track_number": 27,
+      "type": "track",
+      "uri": "spotify:track:2E8jdXBFNGBVFbb64PjyPA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+          },
+          "href": "https://api.spotify.com/v1/artists/6X8WdFjrNhXATMDSs26aCc",
+          "id": "6X8WdFjrNhXATMDSs26aCc",
+          "name": "Curren$y",
+          "type": "artist",
+          "uri": "spotify:artist:6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201389,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0qKoAAPNwAw7t6bEeAMu4X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0qKoAAPNwAw7t6bEeAMu4X",
+      "id": "0qKoAAPNwAw7t6bEeAMu4X",
+      "name": "Sports Cars (feat. Curren$y)",
+      "track_number": 28,
+      "type": "track",
+      "uri": "spotify:track:0qKoAAPNwAw7t6bEeAMu4X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 105096,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1lWXSrmdC1psefSDd5cYw6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1lWXSrmdC1psefSDd5cYw6",
+      "id": "1lWXSrmdC1psefSDd5cYw6",
+      "name": "Song Boxing",
+      "track_number": 29,
+      "type": "track",
+      "uri": "spotify:track:1lWXSrmdC1psefSDd5cYw6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JugPn0f37nRk6DP7k4xIM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JugPn0f37nRk6DP7k4xIM",
+          "id": "3JugPn0f37nRk6DP7k4xIM",
+          "name": "Trav",
+          "type": "artist",
+          "uri": "spotify:artist:3JugPn0f37nRk6DP7k4xIM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231784,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2DwLc0DxaNMPE4yfDiT0V1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2DwLc0DxaNMPE4yfDiT0V1",
+      "id": "2DwLc0DxaNMPE4yfDiT0V1",
+      "name": "Bread Right (feat. Trav)",
+      "track_number": 30,
+      "type": "track",
+      "uri": "spotify:track:2DwLc0DxaNMPE4yfDiT0V1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pnbUBPifNnlusY8kTBivi",
+          "id": "5pnbUBPifNnlusY8kTBivi",
+          "name": "Jadakiss",
+          "type": "artist",
+          "uri": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3"
+          },
+          "href": "https://api.spotify.com/v1/artists/3n6RTmT1sgWeNNCfPyJMw3",
+          "id": "3n6RTmT1sgWeNNCfPyJMw3",
+          "name": "Philthy Rich",
+          "type": "artist",
+          "uri": "spotify:artist:3n6RTmT1sgWeNNCfPyJMw3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232409,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6P8nNWgi8XzKmVhwWAuI8V"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6P8nNWgi8XzKmVhwWAuI8V",
+      "id": "6P8nNWgi8XzKmVhwWAuI8V",
+      "name": "Don't Know What They Took Him For (feat. Jadakiss & Philthy Rich)",
+      "track_number": 31,
+      "type": "track",
+      "uri": "spotify:track:6P8nNWgi8XzKmVhwWAuI8V",
+      "is_local": false
+    }
+  ]
+}

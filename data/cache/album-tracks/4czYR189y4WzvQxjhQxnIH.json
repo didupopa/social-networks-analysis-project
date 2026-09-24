@@ -1,0 +1,886 @@
+{
+  "album_id": "4czYR189y4WzvQxjhQxnIH",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 82613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3aUeVZOaKbYLSeus2CiZpM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3aUeVZOaKbYLSeus2CiZpM",
+      "id": "3aUeVZOaKbYLSeus2CiZpM",
+      "name": "You Gonna Learn",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3aUeVZOaKbYLSeus2CiZpM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7al68nT3MyOH8o4Hauh93G"
+          },
+          "href": "https://api.spotify.com/v1/artists/7al68nT3MyOH8o4Hauh93G",
+          "id": "7al68nT3MyOH8o4Hauh93G",
+          "name": "Dollar Boys",
+          "type": "artist",
+          "uri": "spotify:artist:7al68nT3MyOH8o4Hauh93G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 293066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xatwJn9EgPbuT8vFZZ5cM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xatwJn9EgPbuT8vFZZ5cM",
+      "id": "3xatwJn9EgPbuT8vFZZ5cM",
+      "name": "Put It In Their Face",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3xatwJn9EgPbuT8vFZZ5cM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JABA4ozKsMmoxNu0UkqsR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JABA4ozKsMmoxNu0UkqsR",
+          "id": "4JABA4ozKsMmoxNu0UkqsR",
+          "name": "Hustla",
+          "type": "artist",
+          "uri": "spotify:artist:4JABA4ozKsMmoxNu0UkqsR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KaLLBwK0viSoThR1HJT6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KaLLBwK0viSoThR1HJT6J",
+          "id": "7KaLLBwK0viSoThR1HJT6J",
+          "name": "Diz",
+          "type": "artist",
+          "uri": "spotify:artist:7KaLLBwK0viSoThR1HJT6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PA3CfxQ6pa4REQUsHNODC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PA3CfxQ6pa4REQUsHNODC",
+          "id": "4PA3CfxQ6pa4REQUsHNODC",
+          "name": "Loc",
+          "type": "artist",
+          "uri": "spotify:artist:4PA3CfxQ6pa4REQUsHNODC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266106,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mDOGAKvhXxwJ0b0QUdvCK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mDOGAKvhXxwJ0b0QUdvCK",
+      "id": "5mDOGAKvhXxwJ0b0QUdvCK",
+      "name": "Survival",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5mDOGAKvhXxwJ0b0QUdvCK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXBAJOGARBcGEyfyr7340"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXBAJOGARBcGEyfyr7340",
+          "id": "6vXBAJOGARBcGEyfyr7340",
+          "name": "S.U.C",
+          "type": "artist",
+          "uri": "spotify:artist:6vXBAJOGARBcGEyfyr7340"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oJ0TuXs2jEQbLfF48KRC3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0oJ0TuXs2jEQbLfF48KRC3",
+      "id": "0oJ0TuXs2jEQbLfF48KRC3",
+      "name": "Underground All Stars",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0oJ0TuXs2jEQbLfF48KRC3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JABA4ozKsMmoxNu0UkqsR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JABA4ozKsMmoxNu0UkqsR",
+          "id": "4JABA4ozKsMmoxNu0UkqsR",
+          "name": "Hustla",
+          "type": "artist",
+          "uri": "spotify:artist:4JABA4ozKsMmoxNu0UkqsR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3CGaABXUZ7Nai3aGONcxq6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3CGaABXUZ7Nai3aGONcxq6",
+          "id": "3CGaABXUZ7Nai3aGONcxq6",
+          "name": "Mob Figaz",
+          "type": "artist",
+          "uri": "spotify:artist:3CGaABXUZ7Nai3aGONcxq6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4YyruvoF8hA8jaHLkCdSrw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4YyruvoF8hA8jaHLkCdSrw",
+      "id": "4YyruvoF8hA8jaHLkCdSrw",
+      "name": "Pigeon on T-Shirt",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4YyruvoF8hA8jaHLkCdSrw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3BPeMHEbZIUunxqSICHHmg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3BPeMHEbZIUunxqSICHHmg",
+      "id": "3BPeMHEbZIUunxqSICHHmg",
+      "name": "Angel",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3BPeMHEbZIUunxqSICHHmg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xzZABFzWjF3QXcbyhW4Wx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xzZABFzWjF3QXcbyhW4Wx",
+          "id": "5xzZABFzWjF3QXcbyhW4Wx",
+          "name": "Ridah",
+          "type": "artist",
+          "uri": "spotify:artist:5xzZABFzWjF3QXcbyhW4Wx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ksbYlxPxykDdr1ouSSpOI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ksbYlxPxykDdr1ouSSpOI",
+          "id": "0ksbYlxPxykDdr1ouSSpOI",
+          "name": "Freako (R.I.P.)",
+          "type": "artist",
+          "uri": "spotify:artist:0ksbYlxPxykDdr1ouSSpOI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OwVm1UR6QrPlxg6JtnvfD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OwVm1UR6QrPlxg6JtnvfD",
+          "id": "3OwVm1UR6QrPlxg6JtnvfD",
+          "name": "Uzi",
+          "type": "artist",
+          "uri": "spotify:artist:3OwVm1UR6QrPlxg6JtnvfD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PN9B43dhZ8bXihmKSHcop"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PN9B43dhZ8bXihmKSHcop",
+      "id": "6PN9B43dhZ8bXihmKSHcop",
+      "name": "Who's The Blame",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6PN9B43dhZ8bXihmKSHcop",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL"
+          },
+          "href": "https://api.spotify.com/v1/artists/257XxBli1wEFEvEuPAaCEL",
+          "id": "257XxBli1wEFEvEuPAaCEL",
+          "name": "Cory Mo",
+          "type": "artist",
+          "uri": "spotify:artist:257XxBli1wEFEvEuPAaCEL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Ns1Cj7FFOqywVKBm8EaRV"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Ns1Cj7FFOqywVKBm8EaRV",
+          "id": "3Ns1Cj7FFOqywVKBm8EaRV",
+          "name": "Foul Mouth",
+          "type": "artist",
+          "uri": "spotify:artist:3Ns1Cj7FFOqywVKBm8EaRV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221040,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XaBhDJS8uyyZOcqg9Colo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2XaBhDJS8uyyZOcqg9Colo",
+      "id": "2XaBhDJS8uyyZOcqg9Colo",
+      "name": "Paid",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2XaBhDJS8uyyZOcqg9Colo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZaP7Tz8ATE8bsn4gtgy7A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZaP7Tz8ATE8bsn4gtgy7A",
+      "id": "2ZaP7Tz8ATE8bsn4gtgy7A",
+      "name": "The Flyest Nig U Know",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2ZaP7Tz8ATE8bsn4gtgy7A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oUUbDWClSxMTcKNnUKh4A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0oUUbDWClSxMTcKNnUKh4A",
+      "id": "0oUUbDWClSxMTcKNnUKh4A",
+      "name": "Don't Owe U",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0oUUbDWClSxMTcKNnUKh4A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4u1cWqiVViRUJOc5NAwyMd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4u1cWqiVViRUJOc5NAwyMd",
+          "id": "4u1cWqiVViRUJOc5NAwyMd",
+          "name": "T.j.",
+          "type": "artist",
+          "uri": "spotify:artist:4u1cWqiVViRUJOc5NAwyMd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0RT4ZZBMfVk4KtbTge68rK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0RT4ZZBMfVk4KtbTge68rK",
+      "id": "0RT4ZZBMfVk4KtbTge68rK",
+      "name": "Ho'z Star Struck",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0RT4ZZBMfVk4KtbTge68rK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0im2njLPw66UBw4UV53gpa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0im2njLPw66UBw4UV53gpa",
+      "id": "0im2njLPw66UBw4UV53gpa",
+      "name": "Icon",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0im2njLPw66UBw4UV53gpa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xzZABFzWjF3QXcbyhW4Wx"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xzZABFzWjF3QXcbyhW4Wx",
+          "id": "5xzZABFzWjF3QXcbyhW4Wx",
+          "name": "Ridah",
+          "type": "artist",
+          "uri": "spotify:artist:5xzZABFzWjF3QXcbyhW4Wx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ksbYlxPxykDdr1ouSSpOI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ksbYlxPxykDdr1ouSSpOI",
+          "id": "0ksbYlxPxykDdr1ouSSpOI",
+          "name": "Freako (R.I.P.)",
+          "type": "artist",
+          "uri": "spotify:artist:0ksbYlxPxykDdr1ouSSpOI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OwVm1UR6QrPlxg6JtnvfD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OwVm1UR6QrPlxg6JtnvfD",
+          "id": "3OwVm1UR6QrPlxg6JtnvfD",
+          "name": "Uzi",
+          "type": "artist",
+          "uri": "spotify:artist:3OwVm1UR6QrPlxg6JtnvfD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PA3CfxQ6pa4REQUsHNODC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PA3CfxQ6pa4REQUsHNODC",
+          "id": "4PA3CfxQ6pa4REQUsHNODC",
+          "name": "Loc",
+          "type": "artist",
+          "uri": "spotify:artist:4PA3CfxQ6pa4REQUsHNODC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HDXspi0wJ3vzPeCb4YlbL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HDXspi0wJ3vzPeCb4YlbL",
+      "id": "6HDXspi0wJ3vzPeCb4YlbL",
+      "name": "We Came A Long Way",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6HDXspi0wJ3vzPeCb4YlbL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xCoiWMNpKcEkIdBMm5X5N"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xCoiWMNpKcEkIdBMm5X5N",
+          "id": "1xCoiWMNpKcEkIdBMm5X5N",
+          "name": "Ill Tactics",
+          "type": "artist",
+          "uri": "spotify:artist:1xCoiWMNpKcEkIdBMm5X5N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MIKAIqfYexfQeHGVjNwUc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MIKAIqfYexfQeHGVjNwUc",
+      "id": "2MIKAIqfYexfQeHGVjNwUc",
+      "name": "Coast 2 Coast",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2MIKAIqfYexfQeHGVjNwUc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3U1cYFadsgrly9hPm7STQh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3U1cYFadsgrly9hPm7STQh",
+          "id": "3U1cYFadsgrly9hPm7STQh",
+          "name": "Kazi",
+          "type": "artist",
+          "uri": "spotify:artist:3U1cYFadsgrly9hPm7STQh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 290360,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3mhjxnsdgpTtGcOpzGAYuq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3mhjxnsdgpTtGcOpzGAYuq",
+      "id": "3mhjxnsdgpTtGcOpzGAYuq",
+      "name": "Life In Da Mob",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3mhjxnsdgpTtGcOpzGAYuq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vPdL4HW4TsXVrAg1Y3na0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vPdL4HW4TsXVrAg1Y3na0",
+          "id": "1vPdL4HW4TsXVrAg1Y3na0",
+          "name": "AP9",
+          "type": "artist",
+          "uri": "spotify:artist:1vPdL4HW4TsXVrAg1Y3na0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KaLLBwK0viSoThR1HJT6J"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KaLLBwK0viSoThR1HJT6J",
+          "id": "7KaLLBwK0viSoThR1HJT6J",
+          "name": "Diz",
+          "type": "artist",
+          "uri": "spotify:artist:7KaLLBwK0viSoThR1HJT6J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PA3CfxQ6pa4REQUsHNODC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PA3CfxQ6pa4REQUsHNODC",
+          "id": "4PA3CfxQ6pa4REQUsHNODC",
+          "name": "Loc",
+          "type": "artist",
+          "uri": "spotify:artist:4PA3CfxQ6pa4REQUsHNODC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6RP9wUaj3cJI8Rqjyx05OY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6RP9wUaj3cJI8Rqjyx05OY",
+      "id": "6RP9wUaj3cJI8Rqjyx05OY",
+      "name": "Savage 4 Life",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6RP9wUaj3cJI8Rqjyx05OY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dL3UUc5X91jSWFeIiGbbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dL3UUc5X91jSWFeIiGbbi",
+          "id": "3dL3UUc5X91jSWFeIiGbbi",
+          "name": "Jacka",
+          "type": "artist",
+          "uri": "spotify:artist:3dL3UUc5X91jSWFeIiGbbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fdYKrCqeDdiYjZu4NQXrX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fdYKrCqeDdiYjZu4NQXrX",
+          "id": "7fdYKrCqeDdiYjZu4NQXrX",
+          "name": "KYLEON",
+          "type": "artist",
+          "uri": "spotify:artist:7fdYKrCqeDdiYjZu4NQXrX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3j5N7pPVz9ioYHF7olzlgN"
+          },
+          "href": "https://api.spotify.com/v1/artists/3j5N7pPVz9ioYHF7olzlgN",
+          "id": "3j5N7pPVz9ioYHF7olzlgN",
+          "name": "8-Ball",
+          "type": "artist",
+          "uri": "spotify:artist:3j5N7pPVz9ioYHF7olzlgN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4GQvKTtpFOVvptrWib6oUb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4GQvKTtpFOVvptrWib6oUb",
+      "id": "4GQvKTtpFOVvptrWib6oUb",
+      "name": "We Made It Out The Bottom",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:4GQvKTtpFOVvptrWib6oUb",
+      "is_local": false
+    }
+  ]
+}

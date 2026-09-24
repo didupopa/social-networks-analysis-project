@@ -1,0 +1,139 @@
+{
+  "artist_id": "4npEfmQ6YuiwW1GpUmaq3F",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
+      },
+      "href": "https://api.spotify.com/v1/albums/48fwvNa8p0qrqO5RKEnOTI",
+      "id": "48fwvNa8p0qrqO5RKEnOTI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee1320a831a8f109e74f44d0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee1320a831a8f109e74f44d0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ee1320a831a8f109e74f44d0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Don't Click Play",
+      "release_date": "2025-08-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:48fwvNa8p0qrqO5RKEnOTI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          },
+          "href": "https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F",
+          "id": "4npEfmQ6YuiwW1GpUmaq3F",
+          "name": "Ava Max",
+          "type": "artist",
+          "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/5NgQit6EhPnx84bxgVVDRQ",
+      "id": "5NgQit6EhPnx84bxgVVDRQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e50f014de9d0b928ee7cce3b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e50f014de9d0b928ee7cce3b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e50f014de9d0b928ee7cce3b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Diamonds & Dancefloors",
+      "release_date": "2023-01-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5NgQit6EhPnx84bxgVVDRQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          },
+          "href": "https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F",
+          "id": "4npEfmQ6YuiwW1GpUmaq3F",
+          "name": "Ava Max",
+          "type": "artist",
+          "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "href": "https://api.spotify.com/v1/albums/26c7MmQ4w8EAvVLb4jilaM",
+      "id": "26c7MmQ4w8EAvVLb4jilaM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ea46ceca00d552337e5b8ac2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ea46ceca00d552337e5b8ac2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ea46ceca00d552337e5b8ac2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Heaven & Hell",
+      "release_date": "2020-09-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:26c7MmQ4w8EAvVLb4jilaM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          },
+          "href": "https://api.spotify.com/v1/artists/4npEfmQ6YuiwW1GpUmaq3F",
+          "id": "4npEfmQ6YuiwW1GpUmaq3F",
+          "name": "Ava Max",
+          "type": "artist",
+          "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ]
+    }
+  ]
+}

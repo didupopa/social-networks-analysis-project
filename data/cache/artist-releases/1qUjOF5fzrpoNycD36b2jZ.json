@@ -1,0 +1,53 @@
+{
+  "artist_id": "1qUjOF5fzrpoNycD36b2jZ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v"
+      },
+      "href": "https://api.spotify.com/v1/albums/0vrIRUpI2gB2QqOUQEG05v",
+      "id": "0vrIRUpI2gB2QqOUQEG05v",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273549ad91149cdf29a01bf6182",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02549ad91149cdf29a01bf6182",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851549ad91149cdf29a01bf6182",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Grand Romantic",
+      "release_date": "2015-06-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0vrIRUpI2gB2QqOUQEG05v",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qUjOF5fzrpoNycD36b2jZ",
+          "id": "1qUjOF5fzrpoNycD36b2jZ",
+          "name": "Nate Ruess",
+          "type": "artist",
+          "uri": "spotify:artist:1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ]
+    }
+  ]
+}

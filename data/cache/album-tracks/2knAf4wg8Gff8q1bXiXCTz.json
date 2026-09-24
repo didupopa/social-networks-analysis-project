@@ -1,0 +1,445 @@
+{
+  "album_id": "2knAf4wg8Gff8q1bXiXCTz",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          },
+          "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
+          "id": "085pc2PYOi8bGKj0PNjekA",
+          "name": "will.i.am",
+          "type": "artist",
+          "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Q44rxzH39y2tjic98Spo5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Q44rxzH39y2tjic98Spo5",
+      "id": "6Q44rxzH39y2tjic98Spo5",
+      "name": "Fergalicious",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Q44rxzH39y2tjic98Spo5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/29TqbHtaTUjEDOBGJ5FNZX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/29TqbHtaTUjEDOBGJ5FNZX",
+      "id": "29TqbHtaTUjEDOBGJ5FNZX",
+      "name": "Clumsy",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:29TqbHtaTUjEDOBGJ5FNZX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          },
+          "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
+          "id": "085pc2PYOi8bGKj0PNjekA",
+          "name": "will.i.am",
+          "type": "artist",
+          "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7JUl7CEg1tzaFOaDRnvSyZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7JUl7CEg1tzaFOaDRnvSyZ",
+      "id": "7JUl7CEg1tzaFOaDRnvSyZ",
+      "name": "All That I Got (The Make Up Song)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7JUl7CEg1tzaFOaDRnvSyZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7K2IeEefMiK8sDL8RBvXw2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7K2IeEefMiK8sDL8RBvXw2",
+      "id": "7K2IeEefMiK8sDL8RBvXw2",
+      "name": "London Bridge",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7K2IeEefMiK8sDL8RBvXw2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58TeYRdCtV99C2Cn1sp9XR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58TeYRdCtV99C2Cn1sp9XR",
+      "id": "58TeYRdCtV99C2Cn1sp9XR",
+      "name": "Pedestal",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:58TeYRdCtV99C2Cn1sp9XR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4E7j3Lhfgpty2zaYS53Wlo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4E7j3Lhfgpty2zaYS53Wlo",
+      "id": "4E7j3Lhfgpty2zaYS53Wlo",
+      "name": "Voodoo Doll",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4E7j3Lhfgpty2zaYS53Wlo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+          "id": "3ipn9JLAPI5GUEo4y4jcoi",
+          "name": "Ludacris",
+          "type": "artist",
+          "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4N0tDOF2bo9JEpSqLNlpjq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4N0tDOF2bo9JEpSqLNlpjq",
+      "id": "4N0tDOF2bo9JEpSqLNlpjq",
+      "name": "Glamorous",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4N0tDOF2bo9JEpSqLNlpjq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2A62dFDzcroRpwfrdp2sfJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2A62dFDzcroRpwfrdp2sfJ",
+      "id": "2A62dFDzcroRpwfrdp2sfJ",
+      "name": "Here I Come",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2A62dFDzcroRpwfrdp2sfJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 293133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0o8sgVmOBJyiQ1ll9TdrHy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0o8sgVmOBJyiQ1ll9TdrHy",
+      "id": "0o8sgVmOBJyiQ1ll9TdrHy",
+      "name": "Velvet",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0o8sgVmOBJyiQ1ll9TdrHy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6dgWWAs5yhWPOtvE1zuoQ1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6dgWWAs5yhWPOtvE1zuoQ1",
+      "id": "6dgWWAs5yhWPOtvE1zuoQ1",
+      "name": "Big Girls Don't Cry (Personal)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6dgWWAs5yhWPOtvE1zuoQ1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+          },
+          "href": "https://api.spotify.com/v1/artists/13Kn0OI9oXhBDXClb1hGy3",
+          "id": "13Kn0OI9oXhBDXClb1hGy3",
+          "name": "Rita Marley",
+          "type": "artist",
+          "uri": "spotify:artist:13Kn0OI9oXhBDXClb1hGy3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/03ibD57lqWilVgR5HSm7ji"
+          },
+          "href": "https://api.spotify.com/v1/artists/03ibD57lqWilVgR5HSm7ji",
+          "id": "03ibD57lqWilVgR5HSm7ji",
+          "name": "I-Three",
+          "type": "artist",
+          "uri": "spotify:artist:03ibD57lqWilVgR5HSm7ji"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6pnsDRCnM1FQ3JxsjYIcxo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6pnsDRCnM1FQ3JxsjYIcxo",
+      "id": "6pnsDRCnM1FQ3JxsjYIcxo",
+      "name": "Mary Jane Shoes",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6pnsDRCnM1FQ3JxsjYIcxo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UULzxlLleDXIbTB1TVRdg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1UULzxlLleDXIbTB1TVRdg",
+      "id": "1UULzxlLleDXIbTB1TVRdg",
+      "name": "Losing My Ground",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1UULzxlLleDXIbTB1TVRdg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2pwHxJa9jIokTHQIS01TzR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2pwHxJa9jIokTHQIS01TzR",
+      "id": "2pwHxJa9jIokTHQIS01TzR",
+      "name": "Finally",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2pwHxJa9jIokTHQIS01TzR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+          "id": "3r17AfJCCUqC9Lf0OAc73G",
+          "name": "Fergie",
+          "type": "artist",
+          "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 428160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4UI4stD9cqvgXgOvrFmbZS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4UI4stD9cqvgXgOvrFmbZS",
+      "id": "4UI4stD9cqvgXgOvrFmbZS",
+      "name": "Get Your Hands Up",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4UI4stD9cqvgXgOvrFmbZS",
+      "is_local": false
+    }
+  ]
+}

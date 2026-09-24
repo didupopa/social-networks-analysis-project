@@ -1,0 +1,139 @@
+{
+  "artist_id": "2L5xi76mB2qwg00CMkuyEN",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1yS2y5q5VMD5V4W74B8Yuq"
+      },
+      "href": "https://api.spotify.com/v1/albums/1yS2y5q5VMD5V4W74B8Yuq",
+      "id": "1yS2y5q5VMD5V4W74B8Yuq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273faa9bd5f515356ced676b094",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02faa9bd5f515356ced676b094",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851faa9bd5f515356ced676b094",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Impossible",
+      "release_date": "2023-11-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1yS2y5q5VMD5V4W74B8Yuq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2L5xi76mB2qwg00CMkuyEN",
+          "id": "2L5xi76mB2qwg00CMkuyEN",
+          "name": "Cozi",
+          "type": "artist",
+          "uri": "spotify:artist:2L5xi76mB2qwg00CMkuyEN"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0FnCT5ecTXvv7Li2FzEAE2"
+      },
+      "href": "https://api.spotify.com/v1/albums/0FnCT5ecTXvv7Li2FzEAE2",
+      "id": "0FnCT5ecTXvv7Li2FzEAE2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b02ad775a4f14eabcfbb7f3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022b02ad775a4f14eabcfbb7f3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512b02ad775a4f14eabcfbb7f3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Favourite Energy",
+      "release_date": "2023-07-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0FnCT5ecTXvv7Li2FzEAE2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2L5xi76mB2qwg00CMkuyEN",
+          "id": "2L5xi76mB2qwg00CMkuyEN",
+          "name": "Cozi",
+          "type": "artist",
+          "uri": "spotify:artist:2L5xi76mB2qwg00CMkuyEN"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5KRPd3KCYxeUVzVkK9Gf2X"
+      },
+      "href": "https://api.spotify.com/v1/albums/5KRPd3KCYxeUVzVkK9Gf2X",
+      "id": "5KRPd3KCYxeUVzVkK9Gf2X",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27379ad54511c78cbd50fff8fcd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0279ad54511c78cbd50fff8fcd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485179ad54511c78cbd50fff8fcd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Warm Night",
+      "release_date": "2023-07-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5KRPd3KCYxeUVzVkK9Gf2X",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2L5xi76mB2qwg00CMkuyEN",
+          "id": "2L5xi76mB2qwg00CMkuyEN",
+          "name": "Cozi",
+          "type": "artist",
+          "uri": "spotify:artist:2L5xi76mB2qwg00CMkuyEN"
+        }
+      ]
+    }
+  ]
+}

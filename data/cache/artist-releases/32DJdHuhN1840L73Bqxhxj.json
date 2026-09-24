@@ -1,0 +1,96 @@
+{
+  "artist_id": "32DJdHuhN1840L73Bqxhxj",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6AruaU94NacctG6XuZ8AY0"
+      },
+      "href": "https://api.spotify.com/v1/albums/6AruaU94NacctG6XuZ8AY0",
+      "id": "6AruaU94NacctG6XuZ8AY0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273292b60b6a2e51d73cd934e6a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02292b60b6a2e51d73cd934e6a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851292b60b6a2e51d73cd934e6a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Into Oblivion",
+      "release_date": "2024-10-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6AruaU94NacctG6XuZ8AY0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+          },
+          "href": "https://api.spotify.com/v1/artists/32DJdHuhN1840L73Bqxhxj",
+          "id": "32DJdHuhN1840L73Bqxhxj",
+          "name": "Georgi Kay",
+          "type": "artist",
+          "uri": "spotify:artist:32DJdHuhN1840L73Bqxhxj"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/00lI4xk5nyeL01r3x11nr3"
+      },
+      "href": "https://api.spotify.com/v1/albums/00lI4xk5nyeL01r3x11nr3",
+      "id": "00lI4xk5nyeL01r3x11nr3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a8aba1a4a7b662ea53180b7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029a8aba1a4a7b662ea53180b7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519a8aba1a4a7b662ea53180b7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Where I Go to Disappear",
+      "release_date": "2018-11-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:00lI4xk5nyeL01r3x11nr3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+          },
+          "href": "https://api.spotify.com/v1/artists/32DJdHuhN1840L73Bqxhxj",
+          "id": "32DJdHuhN1840L73Bqxhxj",
+          "name": "Georgi Kay",
+          "type": "artist",
+          "uri": "spotify:artist:32DJdHuhN1840L73Bqxhxj"
+        }
+      ]
+    }
+  ]
+}

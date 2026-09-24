@@ -1,0 +1,53 @@
+{
+  "artist_id": "32zks9ovi0IExzUd1C7W6o",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2"
+      },
+      "href": "https://api.spotify.com/v1/albums/1GyfGJLtZkD2yfRICZh3j2",
+      "id": "1GyfGJLtZkD2yfRICZh3j2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b7cffa22d9bc56838dd0e2c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b7cffa22d9bc56838dd0e2c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b7cffa22d9bc56838dd0e2c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "We're All Somebody From Somewhere",
+      "release_date": "2016-07-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1GyfGJLtZkD2yfRICZh3j2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o"
+          },
+          "href": "https://api.spotify.com/v1/artists/32zks9ovi0IExzUd1C7W6o",
+          "id": "32zks9ovi0IExzUd1C7W6o",
+          "name": "Steven Tyler",
+          "type": "artist",
+          "uri": "spotify:artist:32zks9ovi0IExzUd1C7W6o"
+        }
+      ]
+    }
+  ]
+}

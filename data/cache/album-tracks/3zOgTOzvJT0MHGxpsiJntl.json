@@ -1,0 +1,659 @@
+{
+  "album_id": "3zOgTOzvJT0MHGxpsiJntl",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6clEMFGCtSeO5SqdolJJx1"
+          },
+          "href": "https://api.spotify.com/v1/artists/6clEMFGCtSeO5SqdolJJx1",
+          "id": "6clEMFGCtSeO5SqdolJJx1",
+          "name": "Sen City",
+          "type": "artist",
+          "uri": "spotify:artist:6clEMFGCtSeO5SqdolJJx1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286873,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5i57ny5l8nTi8B1ajisoZz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5i57ny5l8nTi8B1ajisoZz",
+      "id": "5i57ny5l8nTi8B1ajisoZz",
+      "name": "Toast",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5i57ny5l8nTi8B1ajisoZz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3a3XExeWiN81myuDCVCJjR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3a3XExeWiN81myuDCVCJjR",
+      "id": "3a3XExeWiN81myuDCVCJjR",
+      "name": "Slow Down",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3a3XExeWiN81myuDCVCJjR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6clEMFGCtSeO5SqdolJJx1"
+          },
+          "href": "https://api.spotify.com/v1/artists/6clEMFGCtSeO5SqdolJJx1",
+          "id": "6clEMFGCtSeO5SqdolJJx1",
+          "name": "Sen City",
+          "type": "artist",
+          "uri": "spotify:artist:6clEMFGCtSeO5SqdolJJx1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BzmzqLmJhuHpiXxQeCVrE"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BzmzqLmJhuHpiXxQeCVrE",
+          "id": "5BzmzqLmJhuHpiXxQeCVrE",
+          "name": "Sandman",
+          "type": "artist",
+          "uri": "spotify:artist:5BzmzqLmJhuHpiXxQeCVrE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322989,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PevvtT2tSAmhWub8spKkp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PevvtT2tSAmhWub8spKkp",
+      "id": "5PevvtT2tSAmhWub8spKkp",
+      "name": "Light Up",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5PevvtT2tSAmhWub8spKkp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233499,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/12tf0aQeOpvPHyCPgtqqNh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/12tf0aQeOpvPHyCPgtqqNh",
+      "id": "12tf0aQeOpvPHyCPgtqqNh",
+      "name": "Summertime",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:12tf0aQeOpvPHyCPgtqqNh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+          },
+          "href": "https://api.spotify.com/v1/artists/4rKPpij2gIDKsZsfjCfk1U",
+          "id": "4rKPpij2gIDKsZsfjCfk1U",
+          "name": "Grafh",
+          "type": "artist",
+          "uri": "spotify:artist:4rKPpij2gIDKsZsfjCfk1U"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228484,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3vzL5vhe6RoImVtrTIzAOC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3vzL5vhe6RoImVtrTIzAOC",
+      "id": "3vzL5vhe6RoImVtrTIzAOC",
+      "name": "Bout That",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3vzL5vhe6RoImVtrTIzAOC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+          "id": "6Ha4aES39QiVjR0L2lwuwq",
+          "name": "Yo Gotti",
+          "type": "artist",
+          "uri": "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ubKsFJjMgWkARG6w2Qlv8",
+          "id": "4ubKsFJjMgWkARG6w2Qlv8",
+          "name": "Vado",
+          "type": "artist",
+          "uri": "spotify:artist:4ubKsFJjMgWkARG6w2Qlv8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258275,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/66vWhghrB0hVSIZR5TpnZa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/66vWhghrB0hVSIZR5TpnZa",
+      "id": "66vWhghrB0hVSIZR5TpnZa",
+      "name": "Gretzky - Remix",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:66vWhghrB0hVSIZR5TpnZa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MXpDdUe2H4Ug3eHrprAtU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MXpDdUe2H4Ug3eHrprAtU",
+          "id": "6MXpDdUe2H4Ug3eHrprAtU",
+          "name": "Mel Matrix",
+          "type": "artist",
+          "uri": "spotify:artist:6MXpDdUe2H4Ug3eHrprAtU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224525,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7yeM752J5esVK1IpMpIwaI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7yeM752J5esVK1IpMpIwaI",
+      "id": "7yeM752J5esVK1IpMpIwaI",
+      "name": "I Use It",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7yeM752J5esVK1IpMpIwaI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+          "id": "6Uh8uJyN9g7oFjDK16nJgb",
+          "name": "Juelz Santana",
+          "type": "artist",
+          "uri": "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225566,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1j8JA1dNiiFO4BZSH9aIvg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1j8JA1dNiiFO4BZSH9aIvg",
+      "id": "1j8JA1dNiiFO4BZSH9aIvg",
+      "name": "Salute",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1j8JA1dNiiFO4BZSH9aIvg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2l7iQ6OowUofHBKzlNeLhY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2l7iQ6OowUofHBKzlNeLhY",
+          "id": "2l7iQ6OowUofHBKzlNeLhY",
+          "name": "Rev Run",
+          "type": "artist",
+          "uri": "spotify:artist:2l7iQ6OowUofHBKzlNeLhY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266121,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ozV6f3HVhQfDMoEQAUOsI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ozV6f3HVhQfDMoEQAUOsI",
+      "id": "7ozV6f3HVhQfDMoEQAUOsI",
+      "name": "Wishing on a Star",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7ozV6f3HVhQfDMoEQAUOsI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2VCMQwUBsHH8vgWbge4rzu"
+          },
+          "href": "https://api.spotify.com/v1/artists/2VCMQwUBsHH8vgWbge4rzu",
+          "id": "2VCMQwUBsHH8vgWbge4rzu",
+          "name": "Sonny Rich",
+          "type": "artist",
+          "uri": "spotify:artist:2VCMQwUBsHH8vgWbge4rzu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210976,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36zzOVPFjP4JaTgRJpC3HY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36zzOVPFjP4JaTgRJpC3HY",
+      "id": "36zzOVPFjP4JaTgRJpC3HY",
+      "name": "Supa Hot - Remix",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:36zzOVPFjP4JaTgRJpC3HY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6clEMFGCtSeO5SqdolJJx1"
+          },
+          "href": "https://api.spotify.com/v1/artists/6clEMFGCtSeO5SqdolJJx1",
+          "id": "6clEMFGCtSeO5SqdolJJx1",
+          "name": "Sen City",
+          "type": "artist",
+          "uri": "spotify:artist:6clEMFGCtSeO5SqdolJJx1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172969,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/595kw5j477l2NoDbNTsbIX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/595kw5j477l2NoDbNTsbIX",
+      "id": "595kw5j477l2NoDbNTsbIX",
+      "name": "I Wanna Get High",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:595kw5j477l2NoDbNTsbIX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iyn2irOexwGJop2x4aTT1"
+          },
+          "href": "https://api.spotify.com/v1/artists/4iyn2irOexwGJop2x4aTT1",
+          "id": "4iyn2irOexwGJop2x4aTT1",
+          "name": "Schife",
+          "type": "artist",
+          "uri": "spotify:artist:4iyn2irOexwGJop2x4aTT1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227527,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1HDPMO54Ymd9W0CrLLS0DV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1HDPMO54Ymd9W0CrLLS0DV",
+      "id": "1HDPMO54Ymd9W0CrLLS0DV",
+      "name": "Ball",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1HDPMO54Ymd9W0CrLLS0DV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id": "7iMvwE8qANp3aIfAGKEAwS",
+          "name": "Cam'ron",
+          "type": "artist",
+          "uri": "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bfX8pF8kuHNCs57Ms4jZb",
+          "id": "0bfX8pF8kuHNCs57Ms4jZb",
+          "name": "Roscoe Dash",
+          "type": "artist",
+          "uri": "spotify:artist:0bfX8pF8kuHNCs57Ms4jZb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268268,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4JS2eOVljGKl9OUfpr7Log"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4JS2eOVljGKl9OUfpr7Log",
+      "id": "4JS2eOVljGKl9OUfpr7Log",
+      "name": "Show Out - Up North Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4JS2eOVljGKl9OUfpr7Log",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KsP6tYLJlTBvSUxnwlVWa",
+          "id": "2KsP6tYLJlTBvSUxnwlVWa",
+          "name": "Mike Posner",
+          "type": "artist",
+          "uri": "spotify:artist:2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151057,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Jhoxaxi73KMT9mc99wKq5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Jhoxaxi73KMT9mc99wKq5",
+      "id": "1Jhoxaxi73KMT9mc99wKq5",
+      "name": "Cooler Than Me - Remix",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1Jhoxaxi73KMT9mc99wKq5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4CHcMmk5LFwo4Jn3q5xxfD"
+          },
+          "href": "https://api.spotify.com/v1/artists/4CHcMmk5LFwo4Jn3q5xxfD",
+          "id": "4CHcMmk5LFwo4Jn3q5xxfD",
+          "name": "Freekey Zekey",
+          "type": "artist",
+          "uri": "spotify:artist:4CHcMmk5LFwo4Jn3q5xxfD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186502,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4MZW6rDfbahUDdXlljvYAk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4MZW6rDfbahUDdXlljvYAk",
+      "id": "4MZW6rDfbahUDdXlljvYAk",
+      "name": "Ms. Gottabody",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4MZW6rDfbahUDdXlljvYAk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMa1VFQ7qCi61tCRtVWXe",
+          "id": "6AMa1VFQ7qCi61tCRtVWXe",
+          "name": "Jim Jones",
+          "type": "artist",
+          "uri": "spotify:artist:6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 95819,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0KRgkXzKUcY8u6Z8OL25MB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0KRgkXzKUcY8u6Z8OL25MB",
+      "id": "0KRgkXzKUcY8u6Z8OL25MB",
+      "name": "Once Was a Kid",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0KRgkXzKUcY8u6Z8OL25MB",
+      "is_local": false
+    }
+  ]
+}

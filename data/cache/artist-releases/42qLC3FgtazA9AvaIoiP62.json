@@ -1,0 +1,96 @@
+{
+  "artist_id": "42qLC3FgtazA9AvaIoiP62",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/41nrJzcIgHBal24PrMemKy"
+      },
+      "href": "https://api.spotify.com/v1/albums/41nrJzcIgHBal24PrMemKy",
+      "id": "41nrJzcIgHBal24PrMemKy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27365a91f1b03911caba9fe6e7a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0265a91f1b03911caba9fe6e7a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485165a91f1b03911caba9fe6e7a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Judgement Days",
+      "release_date": "2005-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:41nrJzcIgHBal24PrMemKy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+          },
+          "href": "https://api.spotify.com/v1/artists/42qLC3FgtazA9AvaIoiP62",
+          "id": "42qLC3FgtazA9AvaIoiP62",
+          "name": "Ms. Dynamite",
+          "type": "artist",
+          "uri": "spotify:artist:42qLC3FgtazA9AvaIoiP62"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
+      },
+      "href": "https://api.spotify.com/v1/albums/3R6aIbq0UGfht1x0rck5Tn",
+      "id": "3R6aIbq0UGfht1x0rck5Tn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e06ab2393cffcc174c604244",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e06ab2393cffcc174c604244",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e06ab2393cffcc174c604244",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Little Deeper",
+      "release_date": "2002-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3R6aIbq0UGfht1x0rck5Tn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+          },
+          "href": "https://api.spotify.com/v1/artists/42qLC3FgtazA9AvaIoiP62",
+          "id": "42qLC3FgtazA9AvaIoiP62",
+          "name": "Ms. Dynamite",
+          "type": "artist",
+          "uri": "spotify:artist:42qLC3FgtazA9AvaIoiP62"
+        }
+      ]
+    }
+  ]
+}

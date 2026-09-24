@@ -1,0 +1,801 @@
+{
+  "album_id": "3MH4gUVIghBW3W6Jr3aWh9",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5"
+          },
+          "href": "https://api.spotify.com/v1/artists/1yFie7615gesdLbvVVpYU5",
+          "id": "1yFie7615gesdLbvVVpYU5",
+          "name": "Zoe Nash",
+          "type": "artist",
+          "uri": "spotify:artist:1yFie7615gesdLbvVVpYU5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189312,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SDV5OJgUDEiq4EnDkVHEh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SDV5OJgUDEiq4EnDkVHEh",
+      "id": "1SDV5OJgUDEiq4EnDkVHEh",
+      "name": "The Beautiful & Damned (feat. Zoe Nash)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1SDV5OJgUDEiq4EnDkVHEh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207912,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1DPCOlpMR1O57JkHBzXUx1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1DPCOlpMR1O57JkHBzXUx1",
+      "id": "1DPCOlpMR1O57JkHBzXUx1",
+      "name": "Pray For Me",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1DPCOlpMR1O57JkHBzXUx1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          },
+          "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+          "id": "26VFTg2z8YR0cCuwLzESi2",
+          "name": "Halsey",
+          "type": "artist",
+          "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268859,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2lNdc3jjPV4aWEfKH0gvH2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2lNdc3jjPV4aWEfKH0gvH2",
+      "id": "2lNdc3jjPV4aWEfKH0gvH2",
+      "name": "Him & I",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2lNdc3jjPV4aWEfKH0gvH2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206432,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2vsEEnmbK4vk7EhX6lS3r2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2vsEEnmbK4vk7EhX6lS3r2",
+      "id": "2vsEEnmbK4vk7EhX6lS3r2",
+      "name": "But A Dream",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2vsEEnmbK4vk7EhX6lS3r2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
+          "id": "6VuMaDnrHyPL1p4EHjYLi7",
+          "name": "Charlie Puth",
+          "type": "artist",
+          "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203634,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3W1r7mNiBPP9qV1bhqlqJI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3W1r7mNiBPP9qV1bhqlqJI",
+      "id": "3W1r7mNiBPP9qV1bhqlqJI",
+      "name": "Sober (feat. Charlie Puth)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3W1r7mNiBPP9qV1bhqlqJI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205406,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6PU6d3Xcw54oB0ctAkOCdj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6PU6d3Xcw54oB0ctAkOCdj",
+      "id": "6PU6d3Xcw54oB0ctAkOCdj",
+      "name": "Legend",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6PU6d3Xcw54oB0ctAkOCdj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "type": "artist",
+          "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245438,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uY9lkqLD0IQ5s4IeMPVES"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uY9lkqLD0IQ5s4IeMPVES",
+      "id": "0uY9lkqLD0IQ5s4IeMPVES",
+      "name": "No Limit (feat. A$AP Rocky & Cardi B)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0uY9lkqLD0IQ5s4IeMPVES",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250517,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6sIRgVLMYtmtfQN4GqVF5g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6sIRgVLMYtmtfQN4GqVF5g",
+      "id": "6sIRgVLMYtmtfQN4GqVF5g",
+      "name": "The Plan",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6sIRgVLMYtmtfQN4GqVF5g",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214516,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DBSzBXPo1F3CLY3NZo1bo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DBSzBXPo1F3CLY3NZo1bo",
+      "id": "5DBSzBXPo1F3CLY3NZo1bo",
+      "name": "That's A Lot",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5DBSzBXPo1F3CLY3NZo1bo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+          "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+          "name": "Anna of the North",
+          "type": "artist",
+          "uri": "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227374,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5rcaID4ssbAo5eJEngOL3P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5rcaID4ssbAo5eJEngOL3P",
+      "id": "5rcaID4ssbAo5eJEngOL3P",
+      "name": "Pick Me Up (feat. Anna of the North)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5rcaID4ssbAo5eJEngOL3P",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172521,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0wBoUT9sbgnW3djfQ8ZPwg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0wBoUT9sbgnW3djfQ8ZPwg",
+      "id": "0wBoUT9sbgnW3djfQ8ZPwg",
+      "name": "Gotdamn",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0wBoUT9sbgnW3djfQ8ZPwg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+          },
+          "href": "https://api.spotify.com/v1/artists/66AE89GQTx88zLYhXn1wFK",
+          "id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "Sam Martin",
+          "type": "artist",
+          "uri": "spotify:artist:66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227035,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0u1PxRbFgbS5fUP62j1IC6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0u1PxRbFgbS5fUP62j1IC6",
+      "id": "0u1PxRbFgbS5fUP62j1IC6",
+      "name": "Leviathan (feat. Sam Martin)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0u1PxRbFgbS5fUP62j1IC6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+          "id": "0cGUm45nv7Z6M6qdXYQGTX",
+          "name": "Kehlani",
+          "type": "artist",
+          "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180352,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3v2kAxb5fc3PVf8uBGftvW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3v2kAxb5fc3PVf8uBGftvW",
+      "id": "3v2kAxb5fc3PVf8uBGftvW",
+      "name": "Crash & Burn (feat. Kehlani)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3v2kAxb5fc3PVf8uBGftvW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186318,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yvrWPfahuR5iKXe6x0CFQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yvrWPfahuR5iKXe6x0CFQ",
+      "id": "5yvrWPfahuR5iKXe6x0CFQ",
+      "name": "Summer In December",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5yvrWPfahuR5iKXe6x0CFQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
+          },
+          "href": "https://api.spotify.com/v1/artists/6PhukEDmCNt2jyDZnM4TrK",
+          "id": "6PhukEDmCNt2jyDZnM4TrK",
+          "name": "Jay Anthony",
+          "type": "artist",
+          "uri": "spotify:artist:6PhukEDmCNt2jyDZnM4TrK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288984,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Ses7q3hjXVSNrhv3dEXnu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Ses7q3hjXVSNrhv3dEXnu",
+      "id": "2Ses7q3hjXVSNrhv3dEXnu",
+      "name": "Charles Brown (feat. E-40 & Jay Ant)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2Ses7q3hjXVSNrhv3dEXnu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          },
+          "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
+          "id": "0GG2cWaonE4JPrjcCCQ1EG",
+          "name": "SG Lewis",
+          "type": "artist",
+          "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qevodTHcV0rtg9O7ih6nn",
+          "id": "7qevodTHcV0rtg9O7ih6nn",
+          "name": "Louis Mattrs",
+          "type": "artist",
+          "uri": "spotify:artist:7qevodTHcV0rtg9O7ih6nn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250637,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2EEmSQhXjUuy3VTDIe2s04"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2EEmSQhXjUuy3VTDIe2s04",
+      "id": "2EEmSQhXjUuy3VTDIe2s04",
+      "name": "No Less",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:2EEmSQhXjUuy3VTDIe2s04",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BkE65DVH2NZSDQa6ZszcJ",
+          "id": "3BkE65DVH2NZSDQa6ZszcJ",
+          "name": "Madison Love",
+          "type": "artist",
+          "uri": "spotify:artist:3BkE65DVH2NZSDQa6ZszcJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191014,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4BvVRR9SQ3P16AkbjmcnGm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4BvVRR9SQ3P16AkbjmcnGm",
+      "id": "4BvVRR9SQ3P16AkbjmcnGm",
+      "name": "Mama Always Told Me (feat. Madison Love)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:4BvVRR9SQ3P16AkbjmcnGm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YoBdg693u4csBaqUWO7QA"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YoBdg693u4csBaqUWO7QA",
+          "id": "1YoBdg693u4csBaqUWO7QA",
+          "name": "Ugochi",
+          "type": "artist",
+          "uri": "spotify:artist:1YoBdg693u4csBaqUWO7QA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211612,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5cZhNhOAvkJledPT7CL3fF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5cZhNhOAvkJledPT7CL3fF",
+      "id": "5cZhNhOAvkJledPT7CL3fF",
+      "name": "Fly Away (feat. Ugochi)",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5cZhNhOAvkJledPT7CL3fF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+          },
+          "href": "https://api.spotify.com/v1/artists/76yeOnINtQSXyoEHbkYmtY",
+          "id": "76yeOnINtQSXyoEHbkYmtY",
+          "name": "Drew Love",
+          "type": "artist",
+          "uri": "spotify:artist:76yeOnINtQSXyoEHbkYmtY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234611,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3TLsQcJH03FIwqxYLs5pmT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3TLsQcJH03FIwqxYLs5pmT",
+      "id": "3TLsQcJH03FIwqxYLs5pmT",
+      "name": "Love Is Gone (feat. Drew Love)",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:3TLsQcJH03FIwqxYLs5pmT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+          },
+          "href": "https://api.spotify.com/v1/artists/3kZdsaTYgaaolNxpnJ4iDe",
+          "id": "3kZdsaTYgaaolNxpnJ4iDe",
+          "name": "Son Lux",
+          "type": "artist",
+          "uri": "spotify:artist:3kZdsaTYgaaolNxpnJ4iDe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309945,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BXrOuuTKIgeTUfYBEavj7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BXrOuuTKIgeTUfYBEavj7",
+      "id": "6BXrOuuTKIgeTUfYBEavj7",
+      "name": "Eazy (feat. Son Lux)",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:6BXrOuuTKIgeTUfYBEavj7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TmVOBZL0RYrAAF3f2QSGq",
+          "id": "3TmVOBZL0RYrAAF3f2QSGq",
+          "name": "Kossisko",
+          "type": "artist",
+          "uri": "spotify:artist:3TmVOBZL0RYrAAF3f2QSGq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0BfxMYdkqRuwPXsSwEf5RE",
+          "id": "0BfxMYdkqRuwPXsSwEf5RE",
+          "name": "Slimmy B",
+          "type": "artist",
+          "uri": "spotify:artist:0BfxMYdkqRuwPXsSwEf5RE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213646,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5se2rtr5sRr7MHb6W6AMTg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5se2rtr5sRr7MHb6W6AMTg",
+      "id": "5se2rtr5sRr7MHb6W6AMTg",
+      "name": "Boss Tycoon (feat. Kossisko & Slimmy B)",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:5se2rtr5sRr7MHb6W6AMTg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+          "id": "02kJSzxNuaWGqwubyUba0Z",
+          "name": "G-Eazy",
+          "type": "artist",
+          "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jMC5T6FVLrmlTyvrjp8NJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jMC5T6FVLrmlTyvrjp8NJ",
+          "id": "7jMC5T6FVLrmlTyvrjp8NJ",
+          "name": "RITTYBO",
+          "type": "artist",
+          "uri": "spotify:artist:7jMC5T6FVLrmlTyvrjp8NJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JyMaoNqyKyWNcASw5b5X8",
+          "id": "2JyMaoNqyKyWNcASw5b5X8",
+          "name": "Jammy",
+          "type": "artist",
+          "uri": "spotify:artist:2JyMaoNqyKyWNcASw5b5X8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233919,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0259HVL0Yxn7v8mbDZK2Zo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0259HVL0Yxn7v8mbDZK2Zo",
+      "id": "0259HVL0Yxn7v8mbDZK2Zo",
+      "name": "Love You Like I Do (feat. RITTYBO & Jammy)",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:0259HVL0Yxn7v8mbDZK2Zo",
+      "is_local": false
+    }
+  ]
+}
