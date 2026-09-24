@@ -1,0 +1,609 @@
+{
+  "artist_id": "3ZJCmnY5iUo1M0UFFWDXGf",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7biUQvdr6dv40qlb8BezKf"
+      },
+      "href": "https://api.spotify.com/v1/albums/7biUQvdr6dv40qlb8BezKf",
+      "id": "7biUQvdr6dv40qlb8BezKf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c5591b8eb4d1f8228b69934",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029c5591b8eb4d1f8228b69934",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519c5591b8eb4d1f8228b69934",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Falando Com as Estrelas",
+      "release_date": "2021-07-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7biUQvdr6dv40qlb8BezKf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Lqe309qT2x4u2oIcnPtap"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Lqe309qT2x4u2oIcnPtap",
+      "id": "3Lqe309qT2x4u2oIcnPtap",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf404e42c21b8356e9361738",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf404e42c21b8356e9361738",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cf404e42c21b8356e9361738",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sempre Solitário",
+      "release_date": "2020-06-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Lqe309qT2x4u2oIcnPtap",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2A34a0y7xLXf20pXZpbjCY",
+          "id": "2A34a0y7xLXf20pXZpbjCY",
+          "name": "DJ Marlboro",
+          "type": "artist",
+          "uri": "spotify:artist:2A34a0y7xLXf20pXZpbjCY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1M873y6tImEnrlAKQAUyT7"
+      },
+      "href": "https://api.spotify.com/v1/albums/1M873y6tImEnrlAKQAUyT7",
+      "id": "1M873y6tImEnrlAKQAUyT7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735cb1d440c031f66b1607419d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025cb1d440c031f66b1607419d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515cb1d440c031f66b1607419d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Valeu Shock",
+      "release_date": "2020-05-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1M873y6tImEnrlAKQAUyT7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2A34a0y7xLXf20pXZpbjCY",
+          "id": "2A34a0y7xLXf20pXZpbjCY",
+          "name": "DJ Marlboro",
+          "type": "artist",
+          "uri": "spotify:artist:2A34a0y7xLXf20pXZpbjCY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Xkj4odsp92H54DBZqmVcb"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Xkj4odsp92H54DBZqmVcb",
+      "id": "1Xkj4odsp92H54DBZqmVcb",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f2b8914b3309c29a0404ee9d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f2b8914b3309c29a0404ee9d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f2b8914b3309c29a0404ee9d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live - Mc Marcinho",
+      "release_date": "2020-04-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Xkj4odsp92H54DBZqmVcb",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ldGGCvnYEbEeYWg0ogKdu"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ldGGCvnYEbEeYWg0ogKdu",
+      "id": "6ldGGCvnYEbEeYWg0ogKdu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273397f6009fe872c96b8502393",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02397f6009fe872c96b8502393",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851397f6009fe872c96b8502393",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mc Marcinho Especial de Natal (ao vivo)",
+      "release_date": "2018-12-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ldGGCvnYEbEeYWg0ogKdu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7JlBTjcnVvt05BaZZAKQQW"
+      },
+      "href": "https://api.spotify.com/v1/albums/7JlBTjcnVvt05BaZZAKQQW",
+      "id": "7JlBTjcnVvt05BaZZAKQQW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273982e3c4befdde7b8ff7e9f04",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02982e3c4befdde7b8ff7e9f04",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851982e3c4befdde7b8ff7e9f04",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tudo é festa",
+      "release_date": "2018-09-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7JlBTjcnVvt05BaZZAKQQW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3zvw3OV7KiIaEjnUhjTAE1"
+      },
+      "href": "https://api.spotify.com/v1/albums/3zvw3OV7KiIaEjnUhjTAE1",
+      "id": "3zvw3OV7KiIaEjnUhjTAE1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b967ce16110e192edf85823",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024b967ce16110e192edf85823",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514b967ce16110e192edf85823",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "King of the funk",
+      "release_date": "2018-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3zvw3OV7KiIaEjnUhjTAE1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/57c9i5FzaHFXH83QVNMGai"
+      },
+      "href": "https://api.spotify.com/v1/albums/57c9i5FzaHFXH83QVNMGai",
+      "id": "57c9i5FzaHFXH83QVNMGai",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27341ce4e8b69a0ba50e63489ca",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0241ce4e8b69a0ba50e63489ca",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485141ce4e8b69a0ba50e63489ca",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "As 10 Mais",
+      "release_date": "2018-02-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:57c9i5FzaHFXH83QVNMGai",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6aWA8B6y98kWoV9GxWt5YP"
+      },
+      "href": "https://api.spotify.com/v1/albums/6aWA8B6y98kWoV9GxWt5YP",
+      "id": "6aWA8B6y98kWoV9GxWt5YP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6e8646ce246efc193252a1c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6e8646ce246efc193252a1c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e6e8646ce246efc193252a1c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sonhos",
+      "release_date": "2015-09-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6aWA8B6y98kWoV9GxWt5YP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3KR1rXxlcTWwNMa98OssKE"
+      },
+      "href": "https://api.spotify.com/v1/albums/3KR1rXxlcTWwNMa98OssKE",
+      "id": "3KR1rXxlcTWwNMa98OssKE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739975c96eb906e652301ed15b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029975c96eb906e652301ed15b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519975c96eb906e652301ed15b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tudo é festa ( Ao Vivo) [ao vivo]",
+      "release_date": "2012-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3KR1rXxlcTWwNMa98OssKE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/69aR4It1i3M03exgU4piSx"
+      },
+      "href": "https://api.spotify.com/v1/albums/69aR4It1i3M03exgU4piSx",
+      "id": "69aR4It1i3M03exgU4piSx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736a61d8d367711d29570882f8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026a61d8d367711d29570882f8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516a61d8d367711d29570882f8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MC Marcinho e Amigos",
+      "release_date": "2011-12-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:69aR4It1i3M03exgU4piSx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/679ABA18UX7yaYFQTSJKb1"
+      },
+      "href": "https://api.spotify.com/v1/albums/679ABA18UX7yaYFQTSJKb1",
+      "id": "679ABA18UX7yaYFQTSJKb1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27349ff406c30dac71aed8a1eaf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0249ff406c30dac71aed8a1eaf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485149ff406c30dac71aed8a1eaf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Perfil (Ao Vivo)",
+      "release_date": "2003-03-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:679ABA18UX7yaYFQTSJKb1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ETrs7KoUhEbmIx2QauQZ3"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ETrs7KoUhEbmIx2QauQZ3",
+      "id": "6ETrs7KoUhEbmIx2QauQZ3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273258540aebc96fae16028f1a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02258540aebc96fae16028f1a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851258540aebc96fae16028f1a7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Porque Te Amo",
+      "release_date": "1997-02-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ETrs7KoUhEbmIx2QauQZ3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZJCmnY5iUo1M0UFFWDXGf",
+          "id": "3ZJCmnY5iUo1M0UFFWDXGf",
+          "name": "MC Marcinho",
+          "type": "artist",
+          "uri": "spotify:artist:3ZJCmnY5iUo1M0UFFWDXGf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/25Xyh1UrKWolP7DWaTXjSt"
+          },
+          "href": "https://api.spotify.com/v1/artists/25Xyh1UrKWolP7DWaTXjSt",
+          "id": "25Xyh1UrKWolP7DWaTXjSt",
+          "name": "Mc Cacau",
+          "type": "artist",
+          "uri": "spotify:artist:25Xyh1UrKWolP7DWaTXjSt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2A34a0y7xLXf20pXZpbjCY",
+          "id": "2A34a0y7xLXf20pXZpbjCY",
+          "name": "DJ Marlboro",
+          "type": "artist",
+          "uri": "spotify:artist:2A34a0y7xLXf20pXZpbjCY"
+        }
+      ]
+    }
+  ]
+}

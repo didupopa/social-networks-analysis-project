@@ -1,0 +1,53 @@
+{
+  "artist_id": "4j5KBTO4tk7up54ZirNGvK",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp"
+      },
+      "href": "https://api.spotify.com/v1/albums/1CZnMTWdD8cApDRm2wLCZp",
+      "id": "1CZnMTWdD8cApDRm2wLCZp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c46534ae5b5ec2ca34dc627c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c46534ae5b5ec2ca34dc627c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c46534ae5b5ec2ca34dc627c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Collateral",
+      "release_date": "2015-07-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1CZnMTWdD8cApDRm2wLCZp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          },
+          "href": "https://api.spotify.com/v1/artists/4j5KBTO4tk7up54ZirNGvK",
+          "id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "NERVO",
+          "type": "artist",
+          "uri": "spotify:artist:4j5KBTO4tk7up54ZirNGvK"
+        }
+      ]
+    }
+  ]
+}

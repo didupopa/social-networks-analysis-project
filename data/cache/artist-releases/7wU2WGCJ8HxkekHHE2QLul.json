@@ -1,0 +1,407 @@
+{
+  "artist_id": "7wU2WGCJ8HxkekHHE2QLul",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0JL5ChaYXK3dmAbLM1O44O"
+      },
+      "href": "https://api.spotify.com/v1/albums/0JL5ChaYXK3dmAbLM1O44O",
+      "id": "0JL5ChaYXK3dmAbLM1O44O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273339cd84acfdf9f794e5a629c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02339cd84acfdf9f794e5a629c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851339cd84acfdf9f794e5a629c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ghost",
+      "release_date": "2025-10-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0JL5ChaYXK3dmAbLM1O44O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h0hHYHR3rv8Ol5yudY5Vi",
+          "id": "1h0hHYHR3rv8Ol5yudY5Vi",
+          "name": "OldPurp",
+          "type": "artist",
+          "uri": "spotify:artist:1h0hHYHR3rv8Ol5yudY5Vi"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh"
+      },
+      "href": "https://api.spotify.com/v1/albums/05frTDy5F3vZwLtiYVqUBh",
+      "id": "05frTDy5F3vZwLtiYVqUBh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27380fced85464477528b258063",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0280fced85464477528b258063",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485180fced85464477528b258063",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Supremo",
+      "release_date": "2021-02-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:05frTDy5F3vZwLtiYVqUBh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw"
+      },
+      "href": "https://api.spotify.com/v1/albums/4giogCe206BY2QoMoqS1Vw",
+      "id": "4giogCe206BY2QoMoqS1Vw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e3892c47837090bb96afb3f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029e3892c47837090bb96afb3f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519e3892c47837090bb96afb3f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nightshift",
+      "release_date": "2020-04-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4giogCe206BY2QoMoqS1Vw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/1hhtQL6iADIa5DoH7qZlIJ",
+      "id": "1hhtQL6iADIa5DoH7qZlIJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3f07da5d2cd2526ce10d6a9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3f07da5d2cd2526ce10d6a9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3f07da5d2cd2526ce10d6a9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "You're Welcome",
+      "release_date": "2019-05-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1hhtQL6iADIa5DoH7qZlIJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35OO9xahWuwTAiK3F91gBA"
+      },
+      "href": "https://api.spotify.com/v1/albums/35OO9xahWuwTAiK3F91gBA",
+      "id": "35OO9xahWuwTAiK3F91gBA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba74b435dcebb022bf599bd3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba74b435dcebb022bf599bd3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ba74b435dcebb022bf599bd3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Libre: Fireboy Forever",
+      "release_date": "2018-06-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:35OO9xahWuwTAiK3F91gBA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7mrMwTHTF5uW9jrDJ7Kskw"
+      },
+      "href": "https://api.spotify.com/v1/albums/7mrMwTHTF5uW9jrDJ7Kskw",
+      "id": "7mrMwTHTF5uW9jrDJ7Kskw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732d73b393eef5ff844474eafd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022d73b393eef5ff844474eafd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512d73b393eef5ff844474eafd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fireboy Forever II",
+      "release_date": "2016-05-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7mrMwTHTF5uW9jrDJ7Kskw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aa8ivWLPBwGKVi35ZmOYM"
+      },
+      "href": "https://api.spotify.com/v1/albums/5aa8ivWLPBwGKVi35ZmOYM",
+      "id": "5aa8ivWLPBwGKVi35ZmOYM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bfa57a502efcbb8f60d7541d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bfa57a502efcbb8f60d7541d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bfa57a502efcbb8f60d7541d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "La Musica Del Futuro",
+      "release_date": "2013-02-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5aa8ivWLPBwGKVi35ZmOYM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/71lqSHSkO1FvXj6jty1XJX"
+      },
+      "href": "https://api.spotify.com/v1/albums/71lqSHSkO1FvXj6jty1XJX",
+      "id": "71lqSHSkO1FvXj6jty1XJX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738eddf9fd006adb85fd014696",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028eddf9fd006adb85fd014696",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518eddf9fd006adb85fd014696",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Super Éxitos",
+      "release_date": "2013-02-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:71lqSHSkO1FvXj6jty1XJX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/794VF2hKc5pG3VjapCZ7VG"
+      },
+      "href": "https://api.spotify.com/v1/albums/794VF2hKc5pG3VjapCZ7VG",
+      "id": "794VF2hKc5pG3VjapCZ7VG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ae0a367b24b453f9a19dc12",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024ae0a367b24b453f9a19dc12",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514ae0a367b24b453f9a19dc12",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "La Musica del Futuro",
+      "release_date": "2010-08-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:794VF2hKc5pG3VjapCZ7VG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+          "id": "7wU2WGCJ8HxkekHHE2QLul",
+          "name": "Fuego",
+          "type": "artist",
+          "uri": "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ]
+    }
+  ]
+}

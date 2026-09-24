@@ -1,0 +1,53 @@
+{
+  "artist_id": "3mH3OBKopDDVgnJcT5PrPk",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ZoXZAcycK6K704FR735Ax"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ZoXZAcycK6K704FR735Ax",
+      "id": "4ZoXZAcycK6K704FR735Ax",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273733d0f6b5127f249106c29d1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02733d0f6b5127f249106c29d1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851733d0f6b5127f249106c29d1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Party Rock Mansion",
+      "release_date": "2016-03-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ZoXZAcycK6K704FR735Ax",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3mH3OBKopDDVgnJcT5PrPk"
+          },
+          "href": "https://api.spotify.com/v1/artists/3mH3OBKopDDVgnJcT5PrPk",
+          "id": "3mH3OBKopDDVgnJcT5PrPk",
+          "name": "Redfoo",
+          "type": "artist",
+          "uri": "spotify:artist:3mH3OBKopDDVgnJcT5PrPk"
+        }
+      ]
+    }
+  ]
+}

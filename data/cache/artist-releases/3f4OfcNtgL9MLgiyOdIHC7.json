@@ -1,0 +1,96 @@
+{
+  "artist_id": "3f4OfcNtgL9MLgiyOdIHC7",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/16Bf9pk3Tf4n0SBkwVmhA9"
+      },
+      "href": "https://api.spotify.com/v1/albums/16Bf9pk3Tf4n0SBkwVmhA9",
+      "id": "16Bf9pk3Tf4n0SBkwVmhA9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc6eb3b2bd8d535b61b7303f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc6eb3b2bd8d535b61b7303f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cc6eb3b2bd8d535b61b7303f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jen",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:16Bf9pk3Tf4n0SBkwVmhA9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f4OfcNtgL9MLgiyOdIHC7",
+          "id": "3f4OfcNtgL9MLgiyOdIHC7",
+          "name": "JENCARLOS",
+          "type": "artist",
+          "uri": "spotify:artist:3f4OfcNtgL9MLgiyOdIHC7"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4J8mI53kokjTZUIE2XHhMQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/4J8mI53kokjTZUIE2XHhMQ",
+      "id": "4J8mI53kokjTZUIE2XHhMQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27360f610bb2393694b25094ffb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0260f610bb2393694b25094ffb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485160f610bb2393694b25094ffb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Un Nuevo Día",
+      "release_date": "2011-06-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4J8mI53kokjTZUIE2XHhMQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f4OfcNtgL9MLgiyOdIHC7",
+          "id": "3f4OfcNtgL9MLgiyOdIHC7",
+          "name": "JENCARLOS",
+          "type": "artist",
+          "uri": "spotify:artist:3f4OfcNtgL9MLgiyOdIHC7"
+        }
+      ]
+    }
+  ]
+}

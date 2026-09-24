@@ -1,0 +1,53 @@
+{
+  "artist_id": "5tuOpj3ofDA06hxQjvjdGZ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/16djW8piTXTxP8aDRPr1O1"
+      },
+      "href": "https://api.spotify.com/v1/albums/16djW8piTXTxP8aDRPr1O1",
+      "id": "16djW8piTXTxP8aDRPr1O1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e867c0fd40760370b5b2ff72",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e867c0fd40760370b5b2ff72",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e867c0fd40760370b5b2ff72",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Angger Management",
+      "release_date": "2013-09-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:16djW8piTXTxP8aDRPr1O1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5tuOpj3ofDA06hxQjvjdGZ",
+          "id": "5tuOpj3ofDA06hxQjvjdGZ",
+          "name": "Angger Dimas",
+          "type": "artist",
+          "uri": "spotify:artist:5tuOpj3ofDA06hxQjvjdGZ"
+        }
+      ]
+    }
+  ]
+}

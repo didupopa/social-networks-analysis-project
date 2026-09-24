@@ -1,0 +1,53 @@
+{
+  "artist_id": "4nmrm4zpgJ0RC6aZRSUEjF",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
+      },
+      "href": "https://api.spotify.com/v1/albums/6lTavhbKfE9Fy582VHOCv4",
+      "id": "6lTavhbKfE9Fy582VHOCv4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3180799974f483b2b80a95e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3180799974f483b2b80a95e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3180799974f483b2b80a95e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "With The Music I Die (Deluxe)",
+      "release_date": "2010-11-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6lTavhbKfE9Fy582VHOCv4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nmrm4zpgJ0RC6aZRSUEjF",
+          "id": "4nmrm4zpgJ0RC6aZRSUEjF",
+          "name": "Wynter Gordon",
+          "type": "artist",
+          "uri": "spotify:artist:4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ]
+    }
+  ]
+}

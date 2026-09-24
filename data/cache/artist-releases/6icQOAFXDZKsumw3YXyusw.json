@@ -1,0 +1,619 @@
+{
+  "artist_id": "6icQOAFXDZKsumw3YXyusw",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7dDOwGDFTYvBU9h2oJAJXS"
+      },
+      "href": "https://api.spotify.com/v1/albums/7dDOwGDFTYvBU9h2oJAJXS",
+      "id": "7dDOwGDFTYvBU9h2oJAJXS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b4ea834794d849f79785ff0f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b4ea834794d849f79785ff0f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b4ea834794d849f79785ff0f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "It's Us Vol. 2",
+      "release_date": "2026-03-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7dDOwGDFTYvBU9h2oJAJXS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gUhWNBM04NdCAxYUWlSPJ",
+          "id": "0gUhWNBM04NdCAxYUWlSPJ",
+          "name": "Concrete Boys",
+          "type": "artist",
+          "uri": "spotify:artist:0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+          },
+          "href": "https://api.spotify.com/v1/artists/4AICNSyoGIBBcRhuZsPX5L",
+          "id": "4AICNSyoGIBBcRhuZsPX5L",
+          "name": "Draft Day",
+          "type": "artist",
+          "uri": "spotify:artist:4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LVus8IbMtxb8idFCCSsLI",
+          "id": "3LVus8IbMtxb8idFCCSsLI",
+          "name": "Dc2trill",
+          "type": "artist",
+          "uri": "spotify:artist:3LVus8IbMtxb8idFCCSsLI"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3cmWnX51JZRnlS7Wij1VmG"
+      },
+      "href": "https://api.spotify.com/v1/albums/3cmWnX51JZRnlS7Wij1VmG",
+      "id": "3cmWnX51JZRnlS7Wij1VmG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27396e32f92f2f14652b6fd20f9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0296e32f92f2f14652b6fd20f9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485196e32f92f2f14652b6fd20f9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "It's Us Vol. 1",
+      "release_date": "2025-04-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3cmWnX51JZRnlS7Wij1VmG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0gUhWNBM04NdCAxYUWlSPJ",
+          "id": "0gUhWNBM04NdCAxYUWlSPJ",
+          "name": "Concrete Boys",
+          "type": "artist",
+          "uri": "spotify:artist:0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "href": "https://api.spotify.com/v1/albums/5zncNknK8hrQyTTVWpUyAf",
+      "id": "5zncNknK8hrQyTTVWpUyAf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735290f7a7c65d9b5d61d99d2b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025290f7a7c65d9b5d61d99d2b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515290f7a7c65d9b5d61d99d2b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bad Cameo",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5zncNknK8hrQyTTVWpUyAf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Per97deaWqrJlKQNX8RGK",
+      "id": "6Per97deaWqrJlKQNX8RGK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026f578b21bce56056473da7e6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516f578b21bce56056473da7e6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Let’s Start Here.",
+      "release_date": "2023-01-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Per97deaWqrJlKQNX8RGK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1WELnoLbD0VAAg1HvI3VbC"
+      },
+      "href": "https://api.spotify.com/v1/albums/1WELnoLbD0VAAg1HvI3VbC",
+      "id": "1WELnoLbD0VAAg1HvI3VbC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ce747f352b4b912c229fd84f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ce747f352b4b912c229fd84f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ce747f352b4b912c229fd84f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Michigan Boy Boat",
+      "release_date": "2021-04-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1WELnoLbD0VAAg1HvI3VbC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 27,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ufaA5YvSGK3E9KnRFYvvo",
+      "id": "6ufaA5YvSGK3E9KnRFYvvo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02789e7bbd2cc0ae4085b4d59f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851789e7bbd2cc0ae4085b4d59f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lil Boat 3.5",
+      "release_date": "2020-11-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ufaA5YvSGK3E9KnRFYvvo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY"
+      },
+      "href": "https://api.spotify.com/v1/albums/2CYr9450iYkEWq4IWL8plY",
+      "id": "2CYr9450iYkEWq4IWL8plY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025ee839f6415e0d02fc4f2b49",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515ee839f6415e0d02fc4f2b49",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lil Boat 3",
+      "release_date": "2020-05-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2CYr9450iYkEWq4IWL8plY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T"
+      },
+      "href": "https://api.spotify.com/v1/albums/4qplno3lbet8WvuTGdDG3T",
+      "id": "4qplno3lbet8WvuTGdDG3T",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc62848680948acaa7d0305d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc62848680948acaa7d0305d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fc62848680948acaa7d0305d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nuthin' 2 Prove",
+      "release_date": "2018-10-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4qplno3lbet8WvuTGdDG3T",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4nHOF3neSo6Y7OG5OAflkC"
+      },
+      "href": "https://api.spotify.com/v1/albums/4nHOF3neSo6Y7OG5OAflkC",
+      "id": "4nHOF3neSo6Y7OG5OAflkC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732dd3f11b04f31d9acd49015b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022dd3f11b04f31d9acd49015b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512dd3f11b04f31d9acd49015b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lil Boat 2",
+      "release_date": "2018-03-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4nHOF3neSo6Y7OG5OAflkC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL"
+      },
+      "href": "https://api.spotify.com/v1/albums/6upTR3RFKR7K20OnHRXDkL",
+      "id": "6upTR3RFKR7K20OnHRXDkL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738caec43ddf3b121ae5a5e5ed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028caec43ddf3b121ae5a5e5ed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518caec43ddf3b121ae5a5e5ed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Teenage Emotions",
+      "release_date": "2017-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6upTR3RFKR7K20OnHRXDkL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Ea4UfFW7K1UzbjkDVaPri",
+      "id": "1Ea4UfFW7K1UzbjkDVaPri",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c63359e56990c0c55d2d7ff0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c63359e56990c0c55d2d7ff0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c63359e56990c0c55d2d7ff0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Summer Songs 2",
+      "release_date": "2016-07-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Ea4UfFW7K1UzbjkDVaPri",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/4bJqW1SBOvsfcEzZwsjdjx",
+      "id": "4bJqW1SBOvsfcEzZwsjdjx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0214d1a203158bed18a4ea7375",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485114d1a203158bed18a4ea7375",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lil Boat",
+      "release_date": "2016-07-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4bJqW1SBOvsfcEzZwsjdjx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0rNnEH6cCO4T0F4lTEnHK2"
+      },
+      "href": "https://api.spotify.com/v1/albums/0rNnEH6cCO4T0F4lTEnHK2",
+      "id": "0rNnEH6cCO4T0F4lTEnHK2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d16854351ef49161ee5c661f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d16854351ef49161ee5c661f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d16854351ef49161ee5c661f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "After Da Boat",
+      "release_date": "2016-06-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0rNnEH6cCO4T0F4lTEnHK2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    }
+  ]
+}

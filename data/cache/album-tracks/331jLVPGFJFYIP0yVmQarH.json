@@ -1,0 +1,782 @@
+{
+  "album_id": "331jLVPGFJFYIP0yVmQarH",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2tTkMu5nJLsDBAMRrDOes3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2tTkMu5nJLsDBAMRrDOes3",
+          "id": "2tTkMu5nJLsDBAMRrDOes3",
+          "name": "Hi-C",
+          "type": "artist",
+          "uri": "spotify:artist:2tTkMu5nJLsDBAMRrDOes3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id": "4tujQJicOnuZRLiBFdp3Ou",
+          "name": "Xzibit",
+          "type": "artist",
+          "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5iIeQqqXZlQ3MGasweTL3X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5iIeQqqXZlQ3MGasweTL3X",
+      "id": "5iIeQqqXZlQ3MGasweTL3X",
+      "name": "In My Face",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5iIeQqqXZlQ3MGasweTL3X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68VoSovcrHGPp62FXiLyRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/68VoSovcrHGPp62FXiLyRb",
+          "id": "68VoSovcrHGPp62FXiLyRb",
+          "name": "Mausberg",
+          "type": "artist",
+          "uri": "spotify:artist:68VoSovcrHGPp62FXiLyRb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47T19SeHE3zYv2I6EOz2zl"
+          },
+          "href": "https://api.spotify.com/v1/artists/47T19SeHE3zYv2I6EOz2zl",
+          "id": "47T19SeHE3zYv2I6EOz2zl",
+          "name": "Playa Hamm",
+          "type": "artist",
+          "uri": "spotify:artist:47T19SeHE3zYv2I6EOz2zl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7n5IKMLwLVfulssndYG01F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7n5IKMLwLVfulssndYG01F",
+      "id": "7n5IKMLwLVfulssndYG01F",
+      "name": "Ain't No Doubt",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7n5IKMLwLVfulssndYG01F",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wn57NJDJ3GDTrnc2RbBea"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wn57NJDJ3GDTrnc2RbBea",
+          "id": "4wn57NJDJ3GDTrnc2RbBea",
+          "name": "Kam",
+          "type": "artist",
+          "uri": "spotify:artist:4wn57NJDJ3GDTrnc2RbBea"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68VoSovcrHGPp62FXiLyRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/68VoSovcrHGPp62FXiLyRb",
+          "id": "68VoSovcrHGPp62FXiLyRb",
+          "name": "Mausberg",
+          "type": "artist",
+          "uri": "spotify:artist:68VoSovcrHGPp62FXiLyRb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4unOJifSkmXX7bmGNVGuZH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4unOJifSkmXX7bmGNVGuZH",
+      "id": "4unOJifSkmXX7bmGNVGuZH",
+      "name": "The Rebirth",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4unOJifSkmXX7bmGNVGuZH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 313520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3pAQAWOuD7XweGPEqF7sKW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3pAQAWOuD7XweGPEqF7sKW",
+      "id": "3pAQAWOuD7XweGPEqF7sKW",
+      "name": "Finally",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:3pAQAWOuD7XweGPEqF7sKW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273360,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5QgDSbk0prioyCD5kNw4iG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5QgDSbk0prioyCD5kNw4iG",
+      "id": "5QgDSbk0prioyCD5kNw4iG",
+      "name": "Whistle",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5QgDSbk0prioyCD5kNw4iG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2tTkMu5nJLsDBAMRrDOes3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2tTkMu5nJLsDBAMRrDOes3",
+          "id": "2tTkMu5nJLsDBAMRrDOes3",
+          "name": "Hi-C",
+          "type": "artist",
+          "uri": "spotify:artist:2tTkMu5nJLsDBAMRrDOes3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 339386,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/00CJFyg5bxfh9aiQuOAhqh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/00CJFyg5bxfh9aiQuOAhqh",
+      "id": "00CJFyg5bxfh9aiQuOAhqh",
+      "name": "I Wana See",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:00CJFyg5bxfh9aiQuOAhqh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tzXke5mP52LfiEF6VWWaI"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tzXke5mP52LfiEF6VWWaI",
+          "id": "1tzXke5mP52LfiEF6VWWaI",
+          "name": "Madd Nation",
+          "type": "artist",
+          "uri": "spotify:artist:1tzXke5mP52LfiEF6VWWaI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3E3efoBZNBVWR7J0uE0naJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3E3efoBZNBVWR7J0uE0naJ",
+      "id": "3E3efoBZNBVWR7J0uE0naJ",
+      "name": "Hotel Motel",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3E3efoBZNBVWR7J0uE0naJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AOsgFFs5NmCJqL2Xuidcr"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AOsgFFs5NmCJqL2Xuidcr",
+          "id": "6AOsgFFs5NmCJqL2Xuidcr",
+          "name": "James DeBarge",
+          "type": "artist",
+          "uri": "spotify:artist:6AOsgFFs5NmCJqL2Xuidcr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xmsxenhEZ1yb8UXsr0Llj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xmsxenhEZ1yb8UXsr0Llj",
+          "id": "4xmsxenhEZ1yb8UXsr0Llj",
+          "name": "Double M",
+          "type": "artist",
+          "uri": "spotify:artist:4xmsxenhEZ1yb8UXsr0Llj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/47T19SeHE3zYv2I6EOz2zl"
+          },
+          "href": "https://api.spotify.com/v1/artists/47T19SeHE3zYv2I6EOz2zl",
+          "id": "47T19SeHE3zYv2I6EOz2zl",
+          "name": "Playa Hamm",
+          "type": "artist",
+          "uri": "spotify:artist:47T19SeHE3zYv2I6EOz2zl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 332666,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1DWZgBYqXzxEdXmtY5cBHh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1DWZgBYqXzxEdXmtY5cBHh",
+      "id": "1DWZgBYqXzxEdXmtY5cBHh",
+      "name": "Pimpin",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1DWZgBYqXzxEdXmtY5cBHh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68VoSovcrHGPp62FXiLyRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/68VoSovcrHGPp62FXiLyRb",
+          "id": "68VoSovcrHGPp62FXiLyRb",
+          "name": "Mausberg",
+          "type": "artist",
+          "uri": "spotify:artist:68VoSovcrHGPp62FXiLyRb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5THiJ3qnzrBalRxUymCfNA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5THiJ3qnzrBalRxUymCfNA",
+      "id": "5THiJ3qnzrBalRxUymCfNA",
+      "name": "Shut Up",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5THiJ3qnzrBalRxUymCfNA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255546,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5W6s6QssPhhDYUcfhhuA1H"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5W6s6QssPhhDYUcfhhuA1H",
+      "id": "5W6s6QssPhhDYUcfhhuA1H",
+      "name": "Don't Walk Away",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5W6s6QssPhhDYUcfhhuA1H",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 306120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y33Ns4RiCcIrcW97Da2UF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3y33Ns4RiCcIrcW97Da2UF",
+      "id": "3y33Ns4RiCcIrcW97Da2UF",
+      "name": "Mama",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3y33Ns4RiCcIrcW97Da2UF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68VoSovcrHGPp62FXiLyRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/68VoSovcrHGPp62FXiLyRb",
+          "id": "68VoSovcrHGPp62FXiLyRb",
+          "name": "Mausberg",
+          "type": "artist",
+          "uri": "spotify:artist:68VoSovcrHGPp62FXiLyRb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261733,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/32pdr9jAW9mZxJ9YdZC55B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/32pdr9jAW9mZxJ9YdZC55B",
+      "id": "32pdr9jAW9mZxJ9YdZC55B",
+      "name": "If It Ain't Broke",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:32pdr9jAW9mZxJ9YdZC55B",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tzXke5mP52LfiEF6VWWaI"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tzXke5mP52LfiEF6VWWaI",
+          "id": "1tzXke5mP52LfiEF6VWWaI",
+          "name": "Madd Nation",
+          "type": "artist",
+          "uri": "spotify:artist:1tzXke5mP52LfiEF6VWWaI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 317600,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2SpmbOOI5JTJtO0pvatShb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2SpmbOOI5JTJtO0pvatShb",
+      "id": "2SpmbOOI5JTJtO0pvatShb",
+      "name": "I Can't Believe",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2SpmbOOI5JTJtO0pvatShb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270933,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/53IUv07Nlzk5nCSq7AwOdh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/53IUv07Nlzk5nCSq7AwOdh",
+      "id": "53IUv07Nlzk5nCSq7AwOdh",
+      "name": "Gone",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:53IUv07Nlzk5nCSq7AwOdh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68VoSovcrHGPp62FXiLyRb"
+          },
+          "href": "https://api.spotify.com/v1/artists/68VoSovcrHGPp62FXiLyRb",
+          "id": "68VoSovcrHGPp62FXiLyRb",
+          "name": "Mausberg",
+          "type": "artist",
+          "uri": "spotify:artist:68VoSovcrHGPp62FXiLyRb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3fH4VCrXcKeNQ8KX3lgmDL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3fH4VCrXcKeNQ8KX3lgmDL",
+          "id": "3fH4VCrXcKeNQ8KX3lgmDL",
+          "name": "Squeek",
+          "type": "artist",
+          "uri": "spotify:artist:3fH4VCrXcKeNQ8KX3lgmDL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2XeWDPeBiLeskT6RFqMb",
+          "id": "0b2XeWDPeBiLeskT6RFqMb",
+          "name": "DJ Quik",
+          "type": "artist",
+          "uri": "spotify:artist:0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M5DeHUOccbqx3sSUshm3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/5M5DeHUOccbqx3sSUshm3P",
+          "id": "5M5DeHUOccbqx3sSUshm3P",
+          "name": "G.P.",
+          "type": "artist",
+          "uri": "spotify:artist:5M5DeHUOccbqx3sSUshm3P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xBWZXIeQTmTmVyfQ3xZnm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2xBWZXIeQTmTmVyfQ3xZnm",
+      "id": "2xBWZXIeQTmTmVyfQ3xZnm",
+      "name": "Livin' In Da Game",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2xBWZXIeQTmTmVyfQ3xZnm",
+      "is_local": false
+    }
+  ]
+}

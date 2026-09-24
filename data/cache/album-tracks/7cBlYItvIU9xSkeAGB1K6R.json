@@ -1,0 +1,691 @@
+{
+  "album_id": "7cBlYItvIU9xSkeAGB1K6R",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd"
+          },
+          "href": "https://api.spotify.com/v1/artists/1O4AnKY2Rp3ZNM5EmUqJrd",
+          "id": "1O4AnKY2Rp3ZNM5EmUqJrd",
+          "name": "Jack Dee",
+          "type": "artist",
+          "uri": "spotify:artist:1O4AnKY2Rp3ZNM5EmUqJrd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221152,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WpvCQz8S7MtBowZGTt5cZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5WpvCQz8S7MtBowZGTt5cZ",
+      "id": "5WpvCQz8S7MtBowZGTt5cZ",
+      "name": "We Take Aim",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5WpvCQz8S7MtBowZGTt5cZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4o1AOCb53LydZawlj7jcrf"
+          },
+          "href": "https://api.spotify.com/v1/artists/4o1AOCb53LydZawlj7jcrf",
+          "id": "4o1AOCb53LydZawlj7jcrf",
+          "name": "Meeno",
+          "type": "artist",
+          "uri": "spotify:artist:4o1AOCb53LydZawlj7jcrf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211957,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7rTveHVwlx11rtmIvmDqWO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7rTveHVwlx11rtmIvmDqWO",
+      "id": "7rTveHVwlx11rtmIvmDqWO",
+      "name": "Aint No Frontin on Me",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7rTveHVwlx11rtmIvmDqWO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 98194,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4nOI6S5rZD7DEk7vdwcNyI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4nOI6S5rZD7DEk7vdwcNyI",
+      "id": "4nOI6S5rZD7DEk7vdwcNyI",
+      "name": "Crooks and Castles",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4nOI6S5rZD7DEk7vdwcNyI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 154906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7rTqZ0FpPnNCDZTAoFNX3D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7rTqZ0FpPnNCDZTAoFNX3D",
+      "id": "7rTqZ0FpPnNCDZTAoFNX3D",
+      "name": "Put You to Sleep",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7rTqZ0FpPnNCDZTAoFNX3D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 123350,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/01KJKmn7cugq5xt2Lkvu5F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/01KJKmn7cugq5xt2Lkvu5F",
+      "id": "01KJKmn7cugq5xt2Lkvu5F",
+      "name": "In Heaven Again",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:01KJKmn7cugq5xt2Lkvu5F",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155135,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3EGDqIuEjXO0hvdADrEmsq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3EGDqIuEjXO0hvdADrEmsq",
+      "id": "3EGDqIuEjXO0hvdADrEmsq",
+      "name": "Addicted to Green",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3EGDqIuEjXO0hvdADrEmsq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 118648,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3QhNg5gurlEmDFFKq7s0Ti"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3QhNg5gurlEmDFFKq7s0Ti",
+      "id": "3QhNg5gurlEmDFFKq7s0Ti",
+      "name": "The Recession",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3QhNg5gurlEmDFFKq7s0Ti",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 142915,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6CGqEvQeEksz2vYDTEeCu1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6CGqEvQeEksz2vYDTEeCu1",
+      "id": "6CGqEvQeEksz2vYDTEeCu1",
+      "name": "P.S.A.",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6CGqEvQeEksz2vYDTEeCu1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 128391,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3piXyf1byLIpoh4KUIYY5U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3piXyf1byLIpoh4KUIYY5U",
+      "id": "3piXyf1byLIpoh4KUIYY5U",
+      "name": "Bury Me with My Grand Cru",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3piXyf1byLIpoh4KUIYY5U",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178468,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1aJeK40xmACCQkwg6eNI7S"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1aJeK40xmACCQkwg6eNI7S",
+      "id": "1aJeK40xmACCQkwg6eNI7S",
+      "name": "Bigga Make Me Cum",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1aJeK40xmACCQkwg6eNI7S",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iWpAYdn3MtbkmMwGaXnCF"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iWpAYdn3MtbkmMwGaXnCF",
+          "id": "2iWpAYdn3MtbkmMwGaXnCF",
+          "name": "Mall G",
+          "type": "artist",
+          "uri": "spotify:artist:2iWpAYdn3MtbkmMwGaXnCF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273423,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/65I9mq3KKlabQCAa6gC4b2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/65I9mq3KKlabQCAa6gC4b2",
+      "id": "65I9mq3KKlabQCAa6gC4b2",
+      "name": "Flossin'",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:65I9mq3KKlabQCAa6gC4b2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 130063,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5SGD1PcMmtZ5Ltqzcnz5af"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5SGD1PcMmtZ5Ltqzcnz5af",
+      "id": "5SGD1PcMmtZ5Ltqzcnz5af",
+      "name": "Biggavelli - Freestyle",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5SGD1PcMmtZ5Ltqzcnz5af",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183832,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2h7WSxtxRh4ko7aprMJUFI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2h7WSxtxRh4ko7aprMJUFI",
+      "id": "2h7WSxtxRh4ko7aprMJUFI",
+      "name": "We Be Outta Control",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2h7WSxtxRh4ko7aprMJUFI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 126249,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1peEXI5creh69BC2HGouJi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1peEXI5creh69BC2HGouJi",
+      "id": "1peEXI5creh69BC2HGouJi",
+      "name": "No Problems - Freestyle",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1peEXI5creh69BC2HGouJi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 107023,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41PnaIudFGimRbnN2PsRTz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41PnaIudFGimRbnN2PsRTz",
+      "id": "41PnaIudFGimRbnN2PsRTz",
+      "name": "Don't Leave Your Guns",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:41PnaIudFGimRbnN2PsRTz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2x8KDZdSONA3872CnhaAlX",
+          "id": "2x8KDZdSONA3872CnhaAlX",
+          "name": "Styles P",
+          "type": "artist",
+          "uri": "spotify:artist:2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176692,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/102Ov7V9JcD5eh0dOkxaLy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/102Ov7V9JcD5eh0dOkxaLy",
+      "id": "102Ov7V9JcD5eh0dOkxaLy",
+      "name": "Let's Go",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:102Ov7V9JcD5eh0dOkxaLy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31m2Fq2ypdqBlwJlVVkWW1"
+          },
+          "href": "https://api.spotify.com/v1/artists/31m2Fq2ypdqBlwJlVVkWW1",
+          "id": "31m2Fq2ypdqBlwJlVVkWW1",
+          "name": "T.K_",
+          "type": "artist",
+          "uri": "spotify:artist:31m2Fq2ypdqBlwJlVVkWW1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 146169,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bnAH90Bvns7UVhHE3n59r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bnAH90Bvns7UVhHE3n59r",
+      "id": "1bnAH90Bvns7UVhHE3n59r",
+      "name": "That's Him",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:1bnAH90Bvns7UVhHE3n59r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Gc3IYdgY3PVcuf8FPMxDI",
+          "id": "5Gc3IYdgY3PVcuf8FPMxDI",
+          "name": "Dolla",
+          "type": "artist",
+          "uri": "spotify:artist:5Gc3IYdgY3PVcuf8FPMxDI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qdQnBjEBHrk5nZYxXdV1U",
+          "id": "3qdQnBjEBHrk5nZYxXdV1U",
+          "name": "Skrilla",
+          "type": "artist",
+          "uri": "spotify:artist:3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yO77EhU7U9cuAe3cRAo5K"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yO77EhU7U9cuAe3cRAo5K",
+          "id": "3yO77EhU7U9cuAe3cRAo5K",
+          "name": "Young Qua",
+          "type": "artist",
+          "uri": "spotify:artist:3yO77EhU7U9cuAe3cRAo5K"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 326556,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3VoEm3aVGlxeUycIRi95Oz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3VoEm3aVGlxeUycIRi95Oz",
+      "id": "3VoEm3aVGlxeUycIRi95Oz",
+      "name": "What We Want",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:3VoEm3aVGlxeUycIRi95Oz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gNJAsnKbGhcSxDQ2HgF7j"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gNJAsnKbGhcSxDQ2HgF7j",
+          "id": "2gNJAsnKbGhcSxDQ2HgF7j",
+          "name": "Alpac",
+          "type": "artist",
+          "uri": "spotify:artist:2gNJAsnKbGhcSxDQ2HgF7j"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277394,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3vFrHWPc2A1CjlLGsqxjY7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3vFrHWPc2A1CjlLGsqxjY7",
+      "id": "3vFrHWPc2A1CjlLGsqxjY7",
+      "name": "Tsunami",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:3vFrHWPc2A1CjlLGsqxjY7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 80274,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RIbKalHD3r4wKZyVUZjUK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RIbKalHD3r4wKZyVUZjUK",
+      "id": "5RIbKalHD3r4wKZyVUZjUK",
+      "name": "Max B - Freestyle Accapella",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:5RIbKalHD3r4wKZyVUZjUK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 36989,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Krj6hlyr2kueZICkcQbsN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Krj6hlyr2kueZICkcQbsN",
+      "id": "5Krj6hlyr2kueZICkcQbsN",
+      "name": "Max B - Short Freestyle",
+      "track_number": 21,
+      "type": "track",
+      "uri": "spotify:track:5Krj6hlyr2kueZICkcQbsN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7f35VZGDpomj11PXdNn5D9",
+          "id": "7f35VZGDpomj11PXdNn5D9",
+          "name": "Max B",
+          "type": "artist",
+          "uri": "spotify:artist:7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 76617,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5GHALtJ8Czczrt6iCGsgzj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5GHALtJ8Czczrt6iCGsgzj",
+      "id": "5GHALtJ8Czczrt6iCGsgzj",
+      "name": "This is 50 - Freestyle",
+      "track_number": 22,
+      "type": "track",
+      "uri": "spotify:track:5GHALtJ8Czczrt6iCGsgzj",
+      "is_local": false
+    }
+  ]
+}

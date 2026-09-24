@@ -1,0 +1,53 @@
+{
+  "artist_id": "7HglrGKncSq6VImEXb8ueY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2QtSRj33WufVA2c9CgnfIs"
+      },
+      "href": "https://api.spotify.com/v1/albums/2QtSRj33WufVA2c9CgnfIs",
+      "id": "2QtSRj33WufVA2c9CgnfIs",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e3d6f174ca5ca80260c529b7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e3d6f174ca5ca80260c529b7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e3d6f174ca5ca80260c529b7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Interstellar",
+      "release_date": "2020-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2QtSRj33WufVA2c9CgnfIs",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HglrGKncSq6VImEXb8ueY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HglrGKncSq6VImEXb8ueY",
+          "id": "7HglrGKncSq6VImEXb8ueY",
+          "name": "Black Point",
+          "type": "artist",
+          "uri": "spotify:artist:7HglrGKncSq6VImEXb8ueY"
+        }
+      ]
+    }
+  ]
+}

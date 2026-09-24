@@ -1,0 +1,139 @@
+{
+  "artist_id": "4ZgQDCtRqZlhLswVS6MHN4",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
+      },
+      "href": "https://api.spotify.com/v1/albums/5WQ2aXsGMKlakBEoHFyOqk",
+      "id": "5WQ2aXsGMKlakBEoHFyOqk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e557508e70866d90852054c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e557508e70866d90852054c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e557508e70866d90852054c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "INERTIA",
+      "release_date": "2025-12-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5WQ2aXsGMKlakBEoHFyOqk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZgQDCtRqZlhLswVS6MHN4",
+          "id": "4ZgQDCtRqZlhLswVS6MHN4",
+          "name": "grandson",
+          "type": "artist",
+          "uri": "spotify:artist:4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "href": "https://api.spotify.com/v1/albums/2BTddi3XyqAcset5mAYl2n",
+      "id": "2BTddi3XyqAcset5mAYl2n",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d78e2c529bc6e322d4740f06",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d78e2c529bc6e322d4740f06",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d78e2c529bc6e322d4740f06",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Love You, I’m Trying",
+      "release_date": "2023-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2BTddi3XyqAcset5mAYl2n",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZgQDCtRqZlhLswVS6MHN4",
+          "id": "4ZgQDCtRqZlhLswVS6MHN4",
+          "name": "grandson",
+          "type": "artist",
+          "uri": "spotify:artist:4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+      },
+      "href": "https://api.spotify.com/v1/albums/0n5LA95QYWAs9wwkkA8Sji",
+      "id": "0n5LA95QYWAs9wwkkA8Sji",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732a5a50b42711e5171bb47207",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022a5a50b42711e5171bb47207",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512a5a50b42711e5171bb47207",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Death Of An Optimist",
+      "release_date": "2020-12-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0n5LA95QYWAs9wwkkA8Sji",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZgQDCtRqZlhLswVS6MHN4",
+          "id": "4ZgQDCtRqZlhLswVS6MHN4",
+          "name": "grandson",
+          "type": "artist",
+          "uri": "spotify:artist:4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ]
+    }
+  ]
+}

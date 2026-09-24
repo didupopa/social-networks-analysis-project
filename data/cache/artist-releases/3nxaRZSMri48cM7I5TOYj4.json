@@ -1,0 +1,53 @@
+{
+  "artist_id": "3nxaRZSMri48cM7I5TOYj4",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/143kIFuG6MUSR3WTkJlD73"
+      },
+      "href": "https://api.spotify.com/v1/albums/143kIFuG6MUSR3WTkJlD73",
+      "id": "143kIFuG6MUSR3WTkJlD73",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c277154d9229bae0894bdce",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029c277154d9229bae0894bdce",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519c277154d9229bae0894bdce",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Frontline West Compilation, Vol. 1",
+      "release_date": "2012-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:143kIFuG6MUSR3WTkJlD73",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nxaRZSMri48cM7I5TOYj4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nxaRZSMri48cM7I5TOYj4",
+          "id": "3nxaRZSMri48cM7I5TOYj4",
+          "name": "Shon Lawon",
+          "type": "artist",
+          "uri": "spotify:artist:3nxaRZSMri48cM7I5TOYj4"
+        }
+      ]
+    }
+  ]
+}

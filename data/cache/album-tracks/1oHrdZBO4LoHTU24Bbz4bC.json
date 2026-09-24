@@ -1,0 +1,532 @@
+{
+  "album_id": "1oHrdZBO4LoHTU24Bbz4bC",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 99026,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/10j7T57PFBrtKPAyQlVSIg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/10j7T57PFBrtKPAyQlVSIg",
+      "id": "10j7T57PFBrtKPAyQlVSIg",
+      "name": "Cultural Coughee",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:10j7T57PFBrtKPAyQlVSIg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13kc1diIwC9DtN8Lj1Fjvn"
+          },
+          "href": "https://api.spotify.com/v1/artists/13kc1diIwC9DtN8Lj1Fjvn",
+          "id": "13kc1diIwC9DtN8Lj1Fjvn",
+          "name": "Rob Quest",
+          "type": "artist",
+          "uri": "spotify:artist:13kc1diIwC9DtN8Lj1Fjvn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OJmRW9EJWYFGqJ232VAlD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OJmRW9EJWYFGqJ232VAlD",
+          "id": "3OJmRW9EJWYFGqJ232VAlD",
+          "name": "Jugg Mugg",
+          "type": "artist",
+          "uri": "spotify:artist:3OJmRW9EJWYFGqJ232VAlD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1f6CdeeOEP5As3mmn0oTgK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1f6CdeeOEP5As3mmn0oTgK",
+      "id": "1f6CdeeOEP5As3mmn0oTgK",
+      "name": "We Get High",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1f6CdeeOEP5As3mmn0oTgK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/20TvMIeqaaUoJcfpa8Znjf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/20TvMIeqaaUoJcfpa8Znjf",
+      "id": "20TvMIeqaaUoJcfpa8Znjf",
+      "name": "Still Comin'",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:20TvMIeqaaUoJcfpa8Znjf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2FAtbtPCuvVo5Ku7XJfu5u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2FAtbtPCuvVo5Ku7XJfu5u",
+      "id": "2FAtbtPCuvVo5Ku7XJfu5u",
+      "name": "Pick My Brain",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2FAtbtPCuvVo5Ku7XJfu5u",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ua47CA5xOHQ5EZrtLGXIQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ua47CA5xOHQ5EZrtLGXIQ",
+      "id": "3ua47CA5xOHQ5EZrtLGXIQ",
+      "name": "That Ain't Cool",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3ua47CA5xOHQ5EZrtLGXIQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WO5mje9DtK4ACbNOMvbb4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WO5mje9DtK4ACbNOMvbb4",
+          "id": "4WO5mje9DtK4ACbNOMvbb4",
+          "name": "Tony Mac",
+          "type": "artist",
+          "uri": "spotify:artist:4WO5mje9DtK4ACbNOMvbb4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OJmRW9EJWYFGqJ232VAlD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OJmRW9EJWYFGqJ232VAlD",
+          "id": "3OJmRW9EJWYFGqJ232VAlD",
+          "name": "Jugg Mugg",
+          "type": "artist",
+          "uri": "spotify:artist:3OJmRW9EJWYFGqJ232VAlD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Ff3fGb2lA8dPHz78vGtm2"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Ff3fGb2lA8dPHz78vGtm2",
+          "id": "4Ff3fGb2lA8dPHz78vGtm2",
+          "name": "Smit D",
+          "type": "artist",
+          "uri": "spotify:artist:4Ff3fGb2lA8dPHz78vGtm2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14VBdltFbfWUSGbvBdguVP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14VBdltFbfWUSGbvBdguVP",
+      "id": "14VBdltFbfWUSGbvBdguVP",
+      "name": "I Gotta Ho",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:14VBdltFbfWUSGbvBdguVP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51ldUkAo7P2tReA7kFzmN6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51ldUkAo7P2tReA7kFzmN6",
+      "id": "51ldUkAo7P2tReA7kFzmN6",
+      "name": "What I Be On",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:51ldUkAo7P2tReA7kFzmN6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Ff3fGb2lA8dPHz78vGtm2"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Ff3fGb2lA8dPHz78vGtm2",
+          "id": "4Ff3fGb2lA8dPHz78vGtm2",
+          "name": "Smit D",
+          "type": "artist",
+          "uri": "spotify:artist:4Ff3fGb2lA8dPHz78vGtm2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295440,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5wcCP4SYBFr9ojWonPfjK7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5wcCP4SYBFr9ojWonPfjK7",
+      "id": "5wcCP4SYBFr9ojWonPfjK7",
+      "name": "Ultimate High",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5wcCP4SYBFr9ojWonPfjK7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03jO1Rgl0OvBQ2hlnvBxVb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03jO1Rgl0OvBQ2hlnvBxVb",
+      "id": "03jO1Rgl0OvBQ2hlnvBxVb",
+      "name": "I Can't Handle It",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:03jO1Rgl0OvBQ2hlnvBxVb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216226,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7iqGm9RG10Yk7WRoso9Za0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7iqGm9RG10Yk7WRoso9Za0",
+      "id": "7iqGm9RG10Yk7WRoso9Za0",
+      "name": "Where Ya At?",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7iqGm9RG10Yk7WRoso9Za0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/65U95HORQ016JgreW5Ye8g"
+          },
+          "href": "https://api.spotify.com/v1/artists/65U95HORQ016JgreW5Ye8g",
+          "id": "65U95HORQ016JgreW5Ye8g",
+          "name": "Korey B",
+          "type": "artist",
+          "uri": "spotify:artist:65U95HORQ016JgreW5Ye8g"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/21zeWNRtmvyKKEmWOfky0r"
+          },
+          "href": "https://api.spotify.com/v1/artists/21zeWNRtmvyKKEmWOfky0r",
+          "id": "21zeWNRtmvyKKEmWOfky0r",
+          "name": "Ced-B",
+          "type": "artist",
+          "uri": "spotify:artist:21zeWNRtmvyKKEmWOfky0r"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WO5mje9DtK4ACbNOMvbb4"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WO5mje9DtK4ACbNOMvbb4",
+          "id": "4WO5mje9DtK4ACbNOMvbb4",
+          "name": "Tony Mac",
+          "type": "artist",
+          "uri": "spotify:artist:4WO5mje9DtK4ACbNOMvbb4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279186,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1sgq514GgSAbwBnSVkalQ3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1sgq514GgSAbwBnSVkalQ3",
+      "id": "1sgq514GgSAbwBnSVkalQ3",
+      "name": "It's On You",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1sgq514GgSAbwBnSVkalQ3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6B3eO7Jk8VpxUWCY6GkxE7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6B3eO7Jk8VpxUWCY6GkxE7",
+          "id": "6B3eO7Jk8VpxUWCY6GkxE7",
+          "name": "14K",
+          "type": "artist",
+          "uri": "spotify:artist:6B3eO7Jk8VpxUWCY6GkxE7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1asgjnem5vTCEw7BI34pOA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1asgjnem5vTCEw7BI34pOA",
+      "id": "1asgjnem5vTCEw7BI34pOA",
+      "name": "People Talk",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1asgjnem5vTCEw7BI34pOA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JtWu7EQUhFCLNZU92kq1o"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JtWu7EQUhFCLNZU92kq1o",
+          "id": "6JtWu7EQUhFCLNZU92kq1o",
+          "name": "Schoolboy",
+          "type": "artist",
+          "uri": "spotify:artist:6JtWu7EQUhFCLNZU92kq1o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16y0U55teCP1rhYMZhUoHh"
+          },
+          "href": "https://api.spotify.com/v1/artists/16y0U55teCP1rhYMZhUoHh",
+          "id": "16y0U55teCP1rhYMZhUoHh",
+          "name": "Alpha-Bet-D",
+          "type": "artist",
+          "uri": "spotify:artist:16y0U55teCP1rhYMZhUoHh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3qQraB96QSTDInHBVVyFeB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3qQraB96QSTDInHBVVyFeB",
+      "id": "3qQraB96QSTDInHBVVyFeB",
+      "name": "All You Need",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3qQraB96QSTDInHBVVyFeB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 35866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5o41lgFfhe6Al72vDGrwI0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5o41lgFfhe6Al72vDGrwI0",
+      "id": "5o41lgFfhe6Al72vDGrwI0",
+      "name": "Twitta'",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5o41lgFfhe6Al72vDGrwI0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197493,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41KynlOtpG9Bu6ZccaE5dr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41KynlOtpG9Bu6ZccaE5dr",
+      "id": "41KynlOtpG9Bu6ZccaE5dr",
+      "name": "Funky Lil Freestyle",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:41KynlOtpG9Bu6ZccaE5dr",
+      "is_local": false
+    }
+  ]
+}

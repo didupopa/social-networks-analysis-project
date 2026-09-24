@@ -1,0 +1,278 @@
+{
+  "artist_id": "1ykdy4jtPLFOuaJrZqHTbp",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4XxKjv8dtadcFHjoTEkgPt"
+      },
+      "href": "https://api.spotify.com/v1/albums/4XxKjv8dtadcFHjoTEkgPt",
+      "id": "4XxKjv8dtadcFHjoTEkgPt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273961aaaa1262328fd6854ce91",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02961aaaa1262328fd6854ce91",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851961aaaa1262328fd6854ce91",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Nu Adventures Of Bad Azz",
+      "release_date": "2018-11-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4XxKjv8dtadcFHjoTEkgPt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ykdy4jtPLFOuaJrZqHTbp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ykdy4jtPLFOuaJrZqHTbp",
+          "id": "1ykdy4jtPLFOuaJrZqHTbp",
+          "name": "Bad Azz",
+          "type": "artist",
+          "uri": "spotify:artist:1ykdy4jtPLFOuaJrZqHTbp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0V336bAtotdZmH1weNanMO"
+      },
+      "href": "https://api.spotify.com/v1/albums/0V336bAtotdZmH1weNanMO",
+      "id": "0V336bAtotdZmH1weNanMO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27395847b6a83bb0b5a0dee0273",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0295847b6a83bb0b5a0dee0273",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485195847b6a83bb0b5a0dee0273",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Thug Pound",
+      "release_date": "2009-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0V336bAtotdZmH1weNanMO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23xTTTcfVHvWRIPiDAOAE4"
+          },
+          "href": "https://api.spotify.com/v1/artists/23xTTTcfVHvWRIPiDAOAE4",
+          "id": "23xTTTcfVHvWRIPiDAOAE4",
+          "name": "Bizzy Bone",
+          "type": "artist",
+          "uri": "spotify:artist:23xTTTcfVHvWRIPiDAOAE4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ykdy4jtPLFOuaJrZqHTbp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ykdy4jtPLFOuaJrZqHTbp",
+          "id": "1ykdy4jtPLFOuaJrZqHTbp",
+          "name": "Bad Azz",
+          "type": "artist",
+          "uri": "spotify:artist:1ykdy4jtPLFOuaJrZqHTbp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/10RrRXpAOrTZ2J2AB7YbUT"
+      },
+      "href": "https://api.spotify.com/v1/albums/10RrRXpAOrTZ2J2AB7YbUT",
+      "id": "10RrRXpAOrTZ2J2AB7YbUT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27356123ad90bb1083b56fd03fe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0256123ad90bb1083b56fd03fe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485156123ad90bb1083b56fd03fe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Executive Decision (Business. Nothing Personal)",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:10RrRXpAOrTZ2J2AB7YbUT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ykdy4jtPLFOuaJrZqHTbp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ykdy4jtPLFOuaJrZqHTbp",
+          "id": "1ykdy4jtPLFOuaJrZqHTbp",
+          "name": "Bad Azz",
+          "type": "artist",
+          "uri": "spotify:artist:1ykdy4jtPLFOuaJrZqHTbp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2UcBoa5xx112IA57PiKBgA"
+      },
+      "href": "https://api.spotify.com/v1/albums/2UcBoa5xx112IA57PiKBgA",
+      "id": "2UcBoa5xx112IA57PiKBgA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27321203a5232e13fb6c1d03489",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0221203a5232e13fb6c1d03489",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485121203a5232e13fb6c1d03489",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Money Run",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:2UcBoa5xx112IA57PiKBgA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ykdy4jtPLFOuaJrZqHTbp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ykdy4jtPLFOuaJrZqHTbp",
+          "id": "1ykdy4jtPLFOuaJrZqHTbp",
+          "name": "Bad Azz",
+          "type": "artist",
+          "uri": "spotify:artist:1ykdy4jtPLFOuaJrZqHTbp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1uB5BxOdrclAEASRGkVEIF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1uB5BxOdrclAEASRGkVEIF",
+      "id": "1uB5BxOdrclAEASRGkVEIF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734dda2240435e535920f23b11",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024dda2240435e535920f23b11",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514dda2240435e535920f23b11",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Personal Business",
+      "release_date": "2001-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1uB5BxOdrclAEASRGkVEIF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ykdy4jtPLFOuaJrZqHTbp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ykdy4jtPLFOuaJrZqHTbp",
+          "id": "1ykdy4jtPLFOuaJrZqHTbp",
+          "name": "Bad Azz",
+          "type": "artist",
+          "uri": "spotify:artist:1ykdy4jtPLFOuaJrZqHTbp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2cg39zuVY20eMSbdUhTHP1"
+      },
+      "href": "https://api.spotify.com/v1/albums/2cg39zuVY20eMSbdUhTHP1",
+      "id": "2cg39zuVY20eMSbdUhTHP1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d63d6ff037e75e5c6145be77",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d63d6ff037e75e5c6145be77",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d63d6ff037e75e5c6145be77",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Word On Tha Streets",
+      "release_date": "1998-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2cg39zuVY20eMSbdUhTHP1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ykdy4jtPLFOuaJrZqHTbp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ykdy4jtPLFOuaJrZqHTbp",
+          "id": "1ykdy4jtPLFOuaJrZqHTbp",
+          "name": "Bad Azz",
+          "type": "artist",
+          "uri": "spotify:artist:1ykdy4jtPLFOuaJrZqHTbp"
+        }
+      ]
+    }
+  ]
+}

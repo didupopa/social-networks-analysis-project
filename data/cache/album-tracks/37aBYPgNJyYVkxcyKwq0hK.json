@@ -1,0 +1,815 @@
+{
+  "album_id": "37aBYPgNJyYVkxcyKwq0hK",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0o0rlxlC3ApLWsxFkUjMXc",
+          "id": "0o0rlxlC3ApLWsxFkUjMXc",
+          "name": "Ziggy Marley",
+          "type": "artist",
+          "uri": "spotify:artist:0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1MS4MMgPaQ0WyM0u0Uj3EO",
+          "id": "1MS4MMgPaQ0WyM0u0Uj3EO",
+          "name": "Elkin Robinson",
+          "type": "artist",
+          "uri": "spotify:artist:1MS4MMgPaQ0WyM0u0Uj3EO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2B8vGTY8HOEr0Vms29broY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2B8vGTY8HOEr0Vms29broY",
+          "id": "2B8vGTY8HOEr0Vms29broY",
+          "name": "Kombilesa Mi",
+          "type": "artist",
+          "uri": "spotify:artist:2B8vGTY8HOEr0Vms29broY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 279236,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0P0xRZZ9yaVL8DRXhRR27D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0P0xRZZ9yaVL8DRXhRR27D",
+      "id": "0P0xRZZ9yaVL8DRXhRR27D",
+      "name": "El Hilo (feat. Elkin Robinson & Kombilesa Mí) - KOGIMAN Remix",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0P0xRZZ9yaVL8DRXhRR27D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KedxarmBCyFBevnqQHy3P",
+          "id": "3KedxarmBCyFBevnqQHy3P",
+          "name": "Jessie Reyez",
+          "type": "artist",
+          "uri": "spotify:artist:3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BQDgh6CjxVXMhy00YEx3G",
+          "id": "3BQDgh6CjxVXMhy00YEx3G",
+          "name": "Uji",
+          "type": "artist",
+          "uri": "spotify:artist:3BQDgh6CjxVXMhy00YEx3G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 301500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4I779qWJ3BgjlJpIJ1jBWP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4I779qWJ3BgjlJpIJ1jBWP",
+      "id": "4I779qWJ3BgjlJpIJ1jBWP",
+      "name": "Hechicera (feat. Uji) - Uji Remix",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4I779qWJ3BgjlJpIJ1jBWP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk",
+          "type": "artist",
+          "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sUrlPAHlS9NEirDB8SEbF",
+          "id": "5sUrlPAHlS9NEirDB8SEbF",
+          "name": "Alejandro Sanz",
+          "type": "artist",
+          "uri": "spotify:artist:5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231962,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/18OkgP8O40zahjBSdv7h2w"
+      },
+      "href": "https://api.spotify.com/v1/tracks/18OkgP8O40zahjBSdv7h2w",
+      "id": "18OkgP8O40zahjBSdv7h2w",
+      "name": "For Sale (feat. Alejandro Sanz) - Paul van Dyk Remix",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:18OkgP8O40zahjBSdv7h2w",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05TxO5YivuYiXuGjdFYbez"
+          },
+          "href": "https://api.spotify.com/v1/artists/05TxO5YivuYiXuGjdFYbez",
+          "id": "05TxO5YivuYiXuGjdFYbez",
+          "name": "Noahmusyc",
+          "type": "artist",
+          "uri": "spotify:artist:05TxO5YivuYiXuGjdFYbez"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0JhEQCye3jwTzJjIrS5Ik6"
+          },
+          "href": "https://api.spotify.com/v1/artists/0JhEQCye3jwTzJjIrS5Ik6",
+          "id": "0JhEQCye3jwTzJjIrS5Ik6",
+          "name": "Teto Ocampo",
+          "type": "artist",
+          "uri": "spotify:artist:0JhEQCye3jwTzJjIrS5Ik6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 381538,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1x6MYo1LEuvwcP8FnGESto"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1x6MYo1LEuvwcP8FnGESto",
+      "id": "1x6MYo1LEuvwcP8FnGESto",
+      "name": "Zhigonezhi (feat. Teto Ocampo) - Noahmusyc Remix",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1x6MYo1LEuvwcP8FnGESto",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5p1MGIt0C8dtKjIjpIUFhK",
+          "id": "5p1MGIt0C8dtKjIjpIUFhK",
+          "name": "Papá Kumbé",
+          "type": "artist",
+          "uri": "spotify:artist:5p1MGIt0C8dtKjIjpIUFhK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238698,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5gqk10nXiaTF3FXOlbdwcy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5gqk10nXiaTF3FXOlbdwcy",
+      "id": "5gqk10nXiaTF3FXOlbdwcy",
+      "name": "Los Consejos del Difunto - Papá Kumbé Remix",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5gqk10nXiaTF3FXOlbdwcy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Ww1Vct7dZt13PuqcDppMc"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Ww1Vct7dZt13PuqcDppMc",
+          "id": "3Ww1Vct7dZt13PuqcDppMc",
+          "name": "Ok Reverie",
+          "type": "artist",
+          "uri": "spotify:artist:3Ww1Vct7dZt13PuqcDppMc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eMkXKBw1J8yHWzSE5jy5P"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eMkXKBw1J8yHWzSE5jy5P",
+          "id": "6eMkXKBw1J8yHWzSE5jy5P",
+          "name": "Rodrigo Tenjo",
+          "type": "artist",
+          "uri": "spotify:artist:6eMkXKBw1J8yHWzSE5jy5P"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209359,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6MAiJou0BubDEcFQJi6zT6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6MAiJou0BubDEcFQJi6zT6",
+      "id": "6MAiJou0BubDEcFQJi6zT6",
+      "name": "Rapsodia en La Mayor (para Elena) - Ok Reverie Remix",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:6MAiJou0BubDEcFQJi6zT6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0o0rlxlC3ApLWsxFkUjMXc",
+          "id": "0o0rlxlC3ApLWsxFkUjMXc",
+          "name": "Ziggy Marley",
+          "type": "artist",
+          "uri": "spotify:artist:0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1MS4MMgPaQ0WyM0u0Uj3EO",
+          "id": "1MS4MMgPaQ0WyM0u0Uj3EO",
+          "name": "Elkin Robinson",
+          "type": "artist",
+          "uri": "spotify:artist:1MS4MMgPaQ0WyM0u0Uj3EO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05TxO5YivuYiXuGjdFYbez"
+          },
+          "href": "https://api.spotify.com/v1/artists/05TxO5YivuYiXuGjdFYbez",
+          "id": "05TxO5YivuYiXuGjdFYbez",
+          "name": "Noahmusyc",
+          "type": "artist",
+          "uri": "spotify:artist:05TxO5YivuYiXuGjdFYbez"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278943,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4GvlzDDD0vS6oX3k7DsdLu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4GvlzDDD0vS6oX3k7DsdLu",
+      "id": "4GvlzDDD0vS6oX3k7DsdLu",
+      "name": "El Hilo (feat. Elkin Robinson & Noahmusyc) - Noahmusyc Remix",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4GvlzDDD0vS6oX3k7DsdLu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KedxarmBCyFBevnqQHy3P",
+          "id": "3KedxarmBCyFBevnqQHy3P",
+          "name": "Jessie Reyez",
+          "type": "artist",
+          "uri": "spotify:artist:3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6E8vZ5lkpXbXlkgHhbVJSl",
+          "id": "6E8vZ5lkpXbXlkgHhbVJSl",
+          "name": "Chancha Via Circuito",
+          "type": "artist",
+          "uri": "spotify:artist:6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dARErSijDUsh5VF5wzNPb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dARErSijDUsh5VF5wzNPb",
+      "id": "2dARErSijDUsh5VF5wzNPb",
+      "name": "Hechicera (feat. Chancha Vía Circuito) - Chancha Vía Circuito Remix",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2dARErSijDUsh5VF5wzNPb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          },
+          "href": "https://api.spotify.com/v1/artists/1I7FVmvisCtSFzmm87mbLR",
+          "id": "1I7FVmvisCtSFzmm87mbLR",
+          "name": "El Búho",
+          "type": "artist",
+          "uri": "spotify:artist:1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229359,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fbebNdWU9GfHK7rm7dXdQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fbebNdWU9GfHK7rm7dXdQ",
+      "id": "6fbebNdWU9GfHK7rm7dXdQ",
+      "name": "Los Consejos del Difunto - El Búho Remix",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6fbebNdWU9GfHK7rm7dXdQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05TxO5YivuYiXuGjdFYbez"
+          },
+          "href": "https://api.spotify.com/v1/artists/05TxO5YivuYiXuGjdFYbez",
+          "id": "05TxO5YivuYiXuGjdFYbez",
+          "name": "Noahmusyc",
+          "type": "artist",
+          "uri": "spotify:artist:05TxO5YivuYiXuGjdFYbez"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sUrlPAHlS9NEirDB8SEbF",
+          "id": "5sUrlPAHlS9NEirDB8SEbF",
+          "name": "Alejandro Sanz",
+          "type": "artist",
+          "uri": "spotify:artist:5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251842,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Gj2iAwm680R4LYBu9A0rA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Gj2iAwm680R4LYBu9A0rA",
+      "id": "0Gj2iAwm680R4LYBu9A0rA",
+      "name": "For Sale (feat. Alejandro Sanz) - Noahmusyc Remix",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0Gj2iAwm680R4LYBu9A0rA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0o0rlxlC3ApLWsxFkUjMXc",
+          "id": "0o0rlxlC3ApLWsxFkUjMXc",
+          "name": "Ziggy Marley",
+          "type": "artist",
+          "uri": "spotify:artist:0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1MS4MMgPaQ0WyM0u0Uj3EO",
+          "id": "1MS4MMgPaQ0WyM0u0Uj3EO",
+          "name": "Elkin Robinson",
+          "type": "artist",
+          "uri": "spotify:artist:1MS4MMgPaQ0WyM0u0Uj3EO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          },
+          "href": "https://api.spotify.com/v1/artists/3E6xrwgnVfYCrCs0ePERDz",
+          "id": "3E6xrwgnVfYCrCs0ePERDz",
+          "name": "Wisin",
+          "type": "artist",
+          "uri": "spotify:artist:3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+          },
+          "href": "https://api.spotify.com/v1/artists/0n6sKrG0xKAf8xmdqeNGke",
+          "id": "0n6sKrG0xKAf8xmdqeNGke",
+          "name": "Los Legendarios",
+          "type": "artist",
+          "uri": "spotify:artist:0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258763,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mQuAkAmM3nMSe7gxyRWuv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mQuAkAmM3nMSe7gxyRWuv",
+      "id": "7mQuAkAmM3nMSe7gxyRWuv",
+      "name": "El Hilo (feat. Elkin Robinson, Wisin & Los Legendarios) - La Base Remix",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7mQuAkAmM3nMSe7gxyRWuv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6iD27d3Ke9nGzKLhbBSK9l"
+          },
+          "href": "https://api.spotify.com/v1/artists/6iD27d3Ke9nGzKLhbBSK9l",
+          "id": "6iD27d3Ke9nGzKLhbBSK9l",
+          "name": "Juan Pellegrino",
+          "type": "artist",
+          "uri": "spotify:artist:6iD27d3Ke9nGzKLhbBSK9l"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 319636,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2kp4jlHUEnC8P3uR7YISJu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2kp4jlHUEnC8P3uR7YISJu",
+      "id": "2kp4jlHUEnC8P3uR7YISJu",
+      "name": "Cumbiana - JC Pellegrino Remix",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2kp4jlHUEnC8P3uR7YISJu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KedxarmBCyFBevnqQHy3P",
+          "id": "3KedxarmBCyFBevnqQHy3P",
+          "name": "Jessie Reyez",
+          "type": "artist",
+          "uri": "spotify:artist:3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5p1MGIt0C8dtKjIjpIUFhK",
+          "id": "5p1MGIt0C8dtKjIjpIUFhK",
+          "name": "Papá Kumbé",
+          "type": "artist",
+          "uri": "spotify:artist:5p1MGIt0C8dtKjIjpIUFhK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182151,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Wyx9L6u3T5aPvDvd64TTk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Wyx9L6u3T5aPvDvd64TTk",
+      "id": "4Wyx9L6u3T5aPvDvd64TTk",
+      "name": "Hechicera (feat. Papá Kumbé) - Papá Kumbé Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4Wyx9L6u3T5aPvDvd64TTk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u1QKYPcO8wQj4w02NiZZQ",
+          "id": "5u1QKYPcO8wQj4w02NiZZQ",
+          "name": "KOGIMAN",
+          "type": "artist",
+          "uri": "spotify:artist:5u1QKYPcO8wQj4w02NiZZQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6E8vZ5lkpXbXlkgHhbVJSl",
+          "id": "6E8vZ5lkpXbXlkgHhbVJSl",
+          "name": "Chancha Via Circuito",
+          "type": "artist",
+          "uri": "spotify:artist:6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0JhEQCye3jwTzJjIrS5Ik6"
+          },
+          "href": "https://api.spotify.com/v1/artists/0JhEQCye3jwTzJjIrS5Ik6",
+          "id": "0JhEQCye3jwTzJjIrS5Ik6",
+          "name": "Teto Ocampo",
+          "type": "artist",
+          "uri": "spotify:artist:0JhEQCye3jwTzJjIrS5Ik6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201592,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RnsROrY2HEIahLsMhGMK0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3RnsROrY2HEIahLsMhGMK0",
+      "id": "3RnsROrY2HEIahLsMhGMK0",
+      "name": "Zhigonezhi (feat. Teto Ocampo) - Chancha Vía Circuito Remix",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3RnsROrY2HEIahLsMhGMK0",
+      "is_local": false
+    }
+  ]
+}

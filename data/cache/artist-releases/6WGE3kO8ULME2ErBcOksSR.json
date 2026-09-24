@@ -1,0 +1,149 @@
+{
+  "artist_id": "6WGE3kO8ULME2ErBcOksSR",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Xit1xmHogbGUaJJJfjpzc",
+      "id": "6Xit1xmHogbGUaJJJfjpzc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a409fa863b9fde252752c3bc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a409fa863b9fde252752c3bc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a409fa863b9fde252752c3bc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MICK (Deluxe Edition)",
+      "release_date": "2023-10-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Xit1xmHogbGUaJJJfjpzc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WGE3kO8ULME2ErBcOksSR",
+          "id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "KAAZE",
+          "type": "artist",
+          "uri": "spotify:artist:6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz"
+          },
+          "href": "https://api.spotify.com/v1/artists/2caQqGZcs7vbmAEE0uAWBz",
+          "id": "2caQqGZcs7vbmAEE0uAWBz",
+          "name": "BLK RSE",
+          "type": "artist",
+          "uri": "spotify:artist:2caQqGZcs7vbmAEE0uAWBz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/39yBBtZhxsANTHRZtFpMUe"
+      },
+      "href": "https://api.spotify.com/v1/albums/39yBBtZhxsANTHRZtFpMUe",
+      "id": "39yBBtZhxsANTHRZtFpMUe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d717b79346aa321d68a23803",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d717b79346aa321d68a23803",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d717b79346aa321d68a23803",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MICK",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:39yBBtZhxsANTHRZtFpMUe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WGE3kO8ULME2ErBcOksSR",
+          "id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "KAAZE",
+          "type": "artist",
+          "uri": "spotify:artist:6WGE3kO8ULME2ErBcOksSR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1h96AuTUlfhnHpkufZC605"
+      },
+      "href": "https://api.spotify.com/v1/albums/1h96AuTUlfhnHpkufZC605",
+      "id": "1h96AuTUlfhnHpkufZC605",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273078ee277a5e6f5358f4e9540",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02078ee277a5e6f5358f4e9540",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851078ee277a5e6f5358f4e9540",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DREAMCHILD",
+      "release_date": "2019-10-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1h96AuTUlfhnHpkufZC605",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WGE3kO8ULME2ErBcOksSR",
+          "id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "KAAZE",
+          "type": "artist",
+          "uri": "spotify:artist:6WGE3kO8ULME2ErBcOksSR"
+        }
+      ]
+    }
+  ]
+}

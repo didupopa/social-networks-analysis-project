@@ -1,0 +1,96 @@
+{
+  "artist_id": "1dSRKlg9rzvs63rhT8Sbpp",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5rM1kuIePsf6JucyXaqDUe"
+      },
+      "href": "https://api.spotify.com/v1/albums/5rM1kuIePsf6JucyXaqDUe",
+      "id": "5rM1kuIePsf6JucyXaqDUe",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739506f92f1df203c59162226b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029506f92f1df203c59162226b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519506f92f1df203c59162226b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "2989 - Origin",
+      "release_date": "2022-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5rM1kuIePsf6JucyXaqDUe",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dSRKlg9rzvs63rhT8Sbpp",
+          "id": "1dSRKlg9rzvs63rhT8Sbpp",
+          "name": "Moxie Raia",
+          "type": "artist",
+          "uri": "spotify:artist:1dSRKlg9rzvs63rhT8Sbpp"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6uwfQz4ZsOX5VZ2cj8KmfX",
+      "id": "6uwfQz4ZsOX5VZ2cj8KmfX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273efa4712e751d3a172cfc14fe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02efa4712e751d3a172cfc14fe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851efa4712e751d3a172cfc14fe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "931 Reloaded",
+      "release_date": "2016-11-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6uwfQz4ZsOX5VZ2cj8KmfX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dSRKlg9rzvs63rhT8Sbpp",
+          "id": "1dSRKlg9rzvs63rhT8Sbpp",
+          "name": "Moxie Raia",
+          "type": "artist",
+          "uri": "spotify:artist:1dSRKlg9rzvs63rhT8Sbpp"
+        }
+      ]
+    }
+  ]
+}

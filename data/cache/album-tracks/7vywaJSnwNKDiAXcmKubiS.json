@@ -1,0 +1,660 @@
+{
+  "album_id": "7vywaJSnwNKDiAXcmKubiS",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 53906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7L9tbI2f8bzX1ncszEdKKr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7L9tbI2f8bzX1ncszEdKKr",
+      "id": "7L9tbI2f8bzX1ncszEdKKr",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7L9tbI2f8bzX1ncszEdKKr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BG9cpTxZQzQChcsp7ss9a",
+          "id": "3BG9cpTxZQzQChcsp7ss9a",
+          "name": "Mr. Capone-E",
+          "type": "artist",
+          "uri": "spotify:artist:3BG9cpTxZQzQChcsp7ss9a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/42mh2UzmSJOi3UpATLB8Fw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/42mh2UzmSJOi3UpATLB8Fw",
+      "id": "42mh2UzmSJOi3UpATLB8Fw",
+      "name": "Gangsta Shit (feat. Mr. Capone-E)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:42mh2UzmSJOi3UpATLB8Fw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5SpRoHMknf0NHcd5GKvda3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5SpRoHMknf0NHcd5GKvda3",
+      "id": "5SpRoHMknf0NHcd5GKvda3",
+      "name": "Still Rather Give U My Bitch",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5SpRoHMknf0NHcd5GKvda3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BG9cpTxZQzQChcsp7ss9a",
+          "id": "3BG9cpTxZQzQChcsp7ss9a",
+          "name": "Mr. Capone-E",
+          "type": "artist",
+          "uri": "spotify:artist:3BG9cpTxZQzQChcsp7ss9a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/705CPaWpO9I6Vvzgu2ANKR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/705CPaWpO9I6Vvzgu2ANKR",
+      "id": "705CPaWpO9I6Vvzgu2ANKR",
+      "name": "In California (feat. Mr. Capone-E)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:705CPaWpO9I6Vvzgu2ANKR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BG9cpTxZQzQChcsp7ss9a",
+          "id": "3BG9cpTxZQzQChcsp7ss9a",
+          "name": "Mr. Capone-E",
+          "type": "artist",
+          "uri": "spotify:artist:3BG9cpTxZQzQChcsp7ss9a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0se3H1krFOfMsF2bc3zuRf"
+          },
+          "href": "https://api.spotify.com/v1/artists/0se3H1krFOfMsF2bc3zuRf",
+          "id": "0se3H1krFOfMsF2bc3zuRf",
+          "name": "Young Lefty",
+          "type": "artist",
+          "uri": "spotify:artist:0se3H1krFOfMsF2bc3zuRf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pVL8IIEfYlB1hBFBVwJqe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pVL8IIEfYlB1hBFBVwJqe",
+          "id": "6pVL8IIEfYlB1hBFBVwJqe",
+          "name": "Pimpin Young",
+          "type": "artist",
+          "uri": "spotify:artist:6pVL8IIEfYlB1hBFBVwJqe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 334293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1qjuXcLC4qcA5144ZbTXg7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1qjuXcLC4qcA5144ZbTXg7",
+      "id": "1qjuXcLC4qcA5144ZbTXg7",
+      "name": "Hi Power Pimpin' (feat. Mr. Capone-E, Young Lefty & Pimpin' Young)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1qjuXcLC4qcA5144ZbTXg7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5xrdEMErOoJSRiNyZSrsl4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5xrdEMErOoJSRiNyZSrsl4",
+      "id": "5xrdEMErOoJSRiNyZSrsl4",
+      "name": "Mean Green",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5xrdEMErOoJSRiNyZSrsl4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oVwBemueujZmTeStPW1lk"
+          },
+          "href": "https://api.spotify.com/v1/artists/1oVwBemueujZmTeStPW1lk",
+          "id": "1oVwBemueujZmTeStPW1lk",
+          "name": "Inferd",
+          "type": "artist",
+          "uri": "spotify:artist:1oVwBemueujZmTeStPW1lk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tt382LbrIjcJWINqnfzKl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tt382LbrIjcJWINqnfzKl",
+          "id": "1tt382LbrIjcJWINqnfzKl",
+          "name": "Infamous",
+          "type": "artist",
+          "uri": "spotify:artist:1tt382LbrIjcJWINqnfzKl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ImICzVIyK7Rt1MTyrDP8D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ImICzVIyK7Rt1MTyrDP8D",
+      "id": "5ImICzVIyK7Rt1MTyrDP8D",
+      "name": "House, Money & Cars (feat. Inferd & Infamous)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5ImICzVIyK7Rt1MTyrDP8D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 185680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7vSRZDm4eLC9a6mFJbesRD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7vSRZDm4eLC9a6mFJbesRD",
+      "id": "7vSRZDm4eLC9a6mFJbesRD",
+      "name": "Some Move, Some Grove",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7vSRZDm4eLC9a6mFJbesRD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66N53pjZxSlsUb8gxgmVvy"
+          },
+          "href": "https://api.spotify.com/v1/artists/66N53pjZxSlsUb8gxgmVvy",
+          "id": "66N53pjZxSlsUb8gxgmVvy",
+          "name": "AMG",
+          "type": "artist",
+          "uri": "spotify:artist:66N53pjZxSlsUb8gxgmVvy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6pVL8IIEfYlB1hBFBVwJqe"
+          },
+          "href": "https://api.spotify.com/v1/artists/6pVL8IIEfYlB1hBFBVwJqe",
+          "id": "6pVL8IIEfYlB1hBFBVwJqe",
+          "name": "Pimpin Young",
+          "type": "artist",
+          "uri": "spotify:artist:6pVL8IIEfYlB1hBFBVwJqe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0BItU3tFv8R44xpkwQfpp9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0BItU3tFv8R44xpkwQfpp9",
+      "id": "0BItU3tFv8R44xpkwQfpp9",
+      "name": "She Choose Up (feat. AMG & Pimpin' Young)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0BItU3tFv8R44xpkwQfpp9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215773,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Zg9oxCm2PNPtZCzGlk2qz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Zg9oxCm2PNPtZCzGlk2qz",
+      "id": "3Zg9oxCm2PNPtZCzGlk2qz",
+      "name": "Been Around Da Block",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3Zg9oxCm2PNPtZCzGlk2qz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/08KhcRaMkIfONQOUCsgK5F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/08KhcRaMkIfONQOUCsgK5F",
+      "id": "08KhcRaMkIfONQOUCsgK5F",
+      "name": "420 Coma",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:08KhcRaMkIfONQOUCsgK5F",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7MqFfYI9JsVmH2qiALeY0e"
+          },
+          "href": "https://api.spotify.com/v1/artists/7MqFfYI9JsVmH2qiALeY0e",
+          "id": "7MqFfYI9JsVmH2qiALeY0e",
+          "name": "Miss Lady Pinks",
+          "type": "artist",
+          "uri": "spotify:artist:7MqFfYI9JsVmH2qiALeY0e"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 328066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kysa5iZugVxxIxFWYwkQK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kysa5iZugVxxIxFWYwkQK",
+      "id": "5kysa5iZugVxxIxFWYwkQK",
+      "name": "Fuck with Me (feat. Miss Lady Pinks)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5kysa5iZugVxxIxFWYwkQK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RbUvxpoXRKRcxVtcQ8YyV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RbUvxpoXRKRcxVtcQ8YyV",
+          "id": "1RbUvxpoXRKRcxVtcQ8YyV",
+          "name": "Mr. Criminal",
+          "type": "artist",
+          "uri": "spotify:artist:1RbUvxpoXRKRcxVtcQ8YyV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VNgij17qX1bl28XCOAydy"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VNgij17qX1bl28XCOAydy",
+          "id": "5VNgij17qX1bl28XCOAydy",
+          "name": "Mr. Silent",
+          "type": "artist",
+          "uri": "spotify:artist:5VNgij17qX1bl28XCOAydy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230226,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Hr0dQ0Rle5KHYd9ZvHa8X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Hr0dQ0Rle5KHYd9ZvHa8X",
+      "id": "0Hr0dQ0Rle5KHYd9ZvHa8X",
+      "name": "Out Here (feat. Mr. Criminal & Mr. Silent)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0Hr0dQ0Rle5KHYd9ZvHa8X",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BG9cpTxZQzQChcsp7ss9a",
+          "id": "3BG9cpTxZQzQChcsp7ss9a",
+          "name": "Mr. Capone-E",
+          "type": "artist",
+          "uri": "spotify:artist:3BG9cpTxZQzQChcsp7ss9a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5X6i5H3Qcj7yQYmhJHwYPT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5X6i5H3Qcj7yQYmhJHwYPT",
+          "id": "5X6i5H3Qcj7yQYmhJHwYPT",
+          "name": "Mailo",
+          "type": "artist",
+          "uri": "spotify:artist:5X6i5H3Qcj7yQYmhJHwYPT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7bRXoWOorxc5ouoOHAStZp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7bRXoWOorxc5ouoOHAStZp",
+      "id": "7bRXoWOorxc5ouoOHAStZp",
+      "name": "No Sera (feat. Mr. Capone-E & Mailo)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7bRXoWOorxc5ouoOHAStZp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 9800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6CBQY7IntFgFzOu3UUKKGn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6CBQY7IntFgFzOu3UUKKGn",
+      "id": "6CBQY7IntFgFzOu3UUKKGn",
+      "name": "Touchy, Touchy Feeling",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:6CBQY7IntFgFzOu3UUKKGn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153013,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/79ORJnCCsTR1egYXkWHJsV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/79ORJnCCsTR1egYXkWHJsV",
+      "id": "79ORJnCCsTR1egYXkWHJsV",
+      "name": "Lolipop",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:79ORJnCCsTR1egYXkWHJsV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lnEjcly4NMewCBZVm7v34"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lnEjcly4NMewCBZVm7v34",
+      "id": "7lnEjcly4NMewCBZVm7v34",
+      "name": "I know",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:7lnEjcly4NMewCBZVm7v34",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Im0TcICDLIoPKdTSmNpCj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Im0TcICDLIoPKdTSmNpCj",
+      "id": "5Im0TcICDLIoPKdTSmNpCj",
+      "name": "Outro",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5Im0TcICDLIoPKdTSmNpCj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+          },
+          "href": "https://api.spotify.com/v1/artists/7AjokpCIqf0gHMZJlodw2k",
+          "id": "7AjokpCIqf0gHMZJlodw2k",
+          "name": "Suga Free",
+          "type": "artist",
+          "uri": "spotify:artist:7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 86946,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4joH4rARn1BzaaOTv77xgB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4joH4rARn1BzaaOTv77xgB",
+      "id": "4joH4rARn1BzaaOTv77xgB",
+      "name": "Bonus Track",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:4joH4rARn1BzaaOTv77xgB",
+      "is_local": false
+    }
+  ]
+}

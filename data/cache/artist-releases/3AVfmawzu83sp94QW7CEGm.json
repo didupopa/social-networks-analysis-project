@@ -1,0 +1,139 @@
+{
+  "artist_id": "3AVfmawzu83sp94QW7CEGm",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+      },
+      "href": "https://api.spotify.com/v1/albums/381H6bOpR27wcH5lqGv5FA",
+      "id": "381H6bOpR27wcH5lqGv5FA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8b2eeaec1896cdb2b2a80fd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8b2eeaec1896cdb2b2a80fd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a8b2eeaec1896cdb2b2a80fd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Joyride",
+      "release_date": "2024-05-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:381H6bOpR27wcH5lqGv5FA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+          "id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "Astrid S",
+          "type": "artist",
+          "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW"
+      },
+      "href": "https://api.spotify.com/v1/albums/0inJNc0fFD60UAIdFbnedW",
+      "id": "0inJNc0fFD60UAIdFbnedW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1bc0ae272f8d507108b683e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1bc0ae272f8d507108b683e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d1bc0ae272f8d507108b683e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Leave It Beautiful (Complete)",
+      "release_date": "2021-03-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0inJNc0fFD60UAIdFbnedW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+          "id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "Astrid S",
+          "type": "artist",
+          "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X"
+      },
+      "href": "https://api.spotify.com/v1/albums/03Q0yM29DQVoPbja9aMq0X",
+      "id": "03Q0yM29DQVoPbja9aMq0X",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27310c7ffb39d047bb532ba4dac",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0210c7ffb39d047bb532ba4dac",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485110c7ffb39d047bb532ba4dac",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Leave It Beautiful",
+      "release_date": "2020-10-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:03Q0yM29DQVoPbja9aMq0X",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AVfmawzu83sp94QW7CEGm",
+          "id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "Astrid S",
+          "type": "artist",
+          "uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm"
+        }
+      ]
+    }
+  ]
+}

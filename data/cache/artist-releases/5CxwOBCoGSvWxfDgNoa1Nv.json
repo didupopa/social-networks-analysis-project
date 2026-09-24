@@ -1,0 +1,53 @@
+{
+  "artist_id": "5CxwOBCoGSvWxfDgNoa1Nv",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7FUdFlVuYQIE286u3ZR9gX"
+      },
+      "href": "https://api.spotify.com/v1/albums/7FUdFlVuYQIE286u3ZR9gX",
+      "id": "7FUdFlVuYQIE286u3ZR9gX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b1422b1af3516c4382a87f5f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b1422b1af3516c4382a87f5f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b1422b1af3516c4382a87f5f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Necessary Roughness",
+      "release_date": "1997-06-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7FUdFlVuYQIE286u3ZR9gX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5CxwOBCoGSvWxfDgNoa1Nv",
+          "id": "5CxwOBCoGSvWxfDgNoa1Nv",
+          "name": "The Lady Of Rage",
+          "type": "artist",
+          "uri": "spotify:artist:5CxwOBCoGSvWxfDgNoa1Nv"
+        }
+      ]
+    }
+  ]
+}

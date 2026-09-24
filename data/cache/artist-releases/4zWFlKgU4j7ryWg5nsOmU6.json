@@ -1,0 +1,149 @@
+{
+  "artist_id": "4zWFlKgU4j7ryWg5nsOmU6",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3eFE0uL7wQQVZbr324h8qL"
+      },
+      "href": "https://api.spotify.com/v1/albums/3eFE0uL7wQQVZbr324h8qL",
+      "id": "3eFE0uL7wQQVZbr324h8qL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e68ffc99a00b84efb867042b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e68ffc99a00b84efb867042b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e68ffc99a00b84efb867042b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Blanco Y Negro",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3eFE0uL7wQQVZbr324h8qL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4zWFlKgU4j7ryWg5nsOmU6",
+          "id": "4zWFlKgU4j7ryWg5nsOmU6",
+          "name": "Lenier",
+          "type": "artist",
+          "uri": "spotify:artist:4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
+      },
+      "href": "https://api.spotify.com/v1/albums/3bmjwMBcBOPkQgr01HYLRH",
+      "id": "3bmjwMBcBOPkQgr01HYLRH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27380ac6e0723d5ef454b19933a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0280ac6e0723d5ef454b19933a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485180ac6e0723d5ef454b19933a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Hits Kings",
+      "release_date": "2022-06-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3bmjwMBcBOPkQgr01HYLRH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xFn1xod58AGaSZjrxdiXA",
+          "id": "1xFn1xod58AGaSZjrxdiXA",
+          "name": "El Chacal",
+          "type": "artist",
+          "uri": "spotify:artist:1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4zWFlKgU4j7ryWg5nsOmU6",
+          "id": "4zWFlKgU4j7ryWg5nsOmU6",
+          "name": "Lenier",
+          "type": "artist",
+          "uri": "spotify:artist:4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0KeWGPpK4mb0ATaumrQuam"
+      },
+      "href": "https://api.spotify.com/v1/albums/0KeWGPpK4mb0ATaumrQuam",
+      "id": "0KeWGPpK4mb0ATaumrQuam",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732c20c3e1fb25ac5c512ac88c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022c20c3e1fb25ac5c512ac88c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512c20c3e1fb25ac5c512ac88c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Melisma",
+      "release_date": "2019-11-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0KeWGPpK4mb0ATaumrQuam",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4zWFlKgU4j7ryWg5nsOmU6",
+          "id": "4zWFlKgU4j7ryWg5nsOmU6",
+          "name": "Lenier",
+          "type": "artist",
+          "uri": "spotify:artist:4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ]
+    }
+  ]
+}
