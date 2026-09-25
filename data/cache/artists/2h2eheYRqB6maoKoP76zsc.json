@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc"
+  },
+  "followers": {
+    "href": null,
+    "total": 5397
+  },
+  "genres": [
+    "kompa"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2h2eheYRqB6maoKoP76zsc",
+  "id": "2h2eheYRqB6maoKoP76zsc",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9ae94ce7a1ef281931357333",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749ae94ce7a1ef281931357333",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789ae94ce7a1ef281931357333",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Josh X",
+  "popularity": 22,
+  "type": "artist",
+  "uri": "spotify:artist:2h2eheYRqB6maoKoP76zsc"
+}

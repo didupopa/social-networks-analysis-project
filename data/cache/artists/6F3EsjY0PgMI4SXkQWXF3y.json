@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+  },
+  "followers": {
+    "href": null,
+    "total": 19369
+  },
+  "genres": [
+    "electro house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6F3EsjY0PgMI4SXkQWXF3y",
+  "id": "6F3EsjY0PgMI4SXkQWXF3y",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3b4602415baa09d22b08a01",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c3b4602415baa09d22b08a01",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c3b4602415baa09d22b08a01",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Albin Myers",
+  "popularity": 37,
+  "type": "artist",
+  "uri": "spotify:artist:6F3EsjY0PgMI4SXkQWXF3y"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JkHlHHNPSd8VcZMWRY301"
+  },
+  "followers": {
+    "href": null,
+    "total": 513
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2JkHlHHNPSd8VcZMWRY301",
+  "id": "2JkHlHHNPSd8VcZMWRY301",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d72d1d74e20810ea038aad1c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d72d1d74e20810ea038aad1c",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d72d1d74e20810ea038aad1c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Paul Emanuel",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:2JkHlHHNPSd8VcZMWRY301"
+}

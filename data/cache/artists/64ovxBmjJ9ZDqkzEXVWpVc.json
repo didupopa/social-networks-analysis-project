@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64ovxBmjJ9ZDqkzEXVWpVc"
+  },
+  "followers": {
+    "href": null,
+    "total": 402778
+  },
+  "genres": [
+    "east coast hip hop",
+    "old school hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/64ovxBmjJ9ZDqkzEXVWpVc",
+  "id": "64ovxBmjJ9ZDqkzEXVWpVc",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e2d329af1480cc4dee332ec5f8af06ad7f344556",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/01110fd500a806fc6161350eee1f28c2144a2c78",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/4c2e810497c41fbda15e2f32a76910b44ea94e64",
+      "height": 300,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d9848b111f8762908c297755500c28036db0da4e",
+      "height": 96,
+      "width": 64
+    }
+  ],
+  "name": "Shyne",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:64ovxBmjJ9ZDqkzEXVWpVc"
+}

@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
+  },
+  "followers": {
+    "href": null,
+    "total": 639106
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop",
+    "gangster rap",
+    "old school hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/51FyBBOW464toW099BsW8z",
+  "id": "51FyBBOW464toW099BsW8z",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273140bf7763dc4647dec0d3dba",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02140bf7763dc4647dec0d3dba",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851140bf7763dc4647dec0d3dba",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Tha Eastsidaz",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:51FyBBOW464toW099BsW8z"
+}

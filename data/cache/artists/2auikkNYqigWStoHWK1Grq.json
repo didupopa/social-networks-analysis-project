@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+  },
+  "followers": {
+    "href": null,
+    "total": 151762
+  },
+  "genres": [
+    "edm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2auikkNYqigWStoHWK1Grq",
+  "id": "2auikkNYqigWStoHWK1Grq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc219fd875a1df4abf7eb157d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c219fd875a1df4abf7eb157d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c219fd875a1df4abf7eb157d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "John Martin",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:2auikkNYqigWStoHWK1Grq"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QIzqQPuyAedNFvjcHWXkA"
+  },
+  "followers": {
+    "href": null,
+    "total": 48259
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop",
+    "gangster rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4QIzqQPuyAedNFvjcHWXkA",
+  "id": "4QIzqQPuyAedNFvjcHWXkA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27310b49d3b4a2e546a657063c1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0210b49d3b4a2e546a657063c1",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485110b49d3b4a2e546a657063c1",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lil 1/2 Dead",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:4QIzqQPuyAedNFvjcHWXkA"
+}

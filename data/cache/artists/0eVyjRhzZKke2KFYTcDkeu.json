@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+  },
+  "followers": {
+    "href": null,
+    "total": 1007071
+  },
+  "genres": [
+    "alternative hip hop",
+    "jazz rap",
+    "experimental hip hop",
+    "boom bap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0eVyjRhzZKke2KFYTcDkeu",
+  "id": "0eVyjRhzZKke2KFYTcDkeu",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8a0d2c9a5bb08a3fd8e6ad457014022cb232525b",
+      "height": 427,
+      "width": 570
+    },
+    {
+      "url": "https://i.scdn.co/image/e763c1336cbaa1dfbd6bc15ff98ecb86fbfad77a",
+      "height": 150,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/53173de03087554b5b8418a936d63b00976a6b5a",
+      "height": 48,
+      "width": 64
+    }
+  ],
+  "name": "The Alchemist",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:0eVyjRhzZKke2KFYTcDkeu"
+}

@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+  },
+  "followers": {
+    "href": null,
+    "total": 42935
+  },
+  "genres": [
+    "hardstyle",
+    "big room",
+    "hardcore",
+    "hardcore techno"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+  "id": "1naX4fxuRaDFlj9tGfIUZk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03e90fb4f1246a674e3f5243",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517403e90fb4f1246a674e3f5243",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17803e90fb4f1246a674e3f5243",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dr Phunk",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+}

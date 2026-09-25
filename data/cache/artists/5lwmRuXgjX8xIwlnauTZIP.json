@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+  },
+  "followers": {
+    "href": null,
+    "total": 32042777
+  },
+  "genres": [
+    "bachata",
+    "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5lwmRuXgjX8xIwlnauTZIP",
+  "id": "5lwmRuXgjX8xIwlnauTZIP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c8be3c6e5a824360d1bffc03",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c8be3c6e5a824360d1bffc03",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Romeo Santos",
+  "popularity": 87,
+  "type": "artist",
+  "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy"
+  },
+  "followers": {
+    "href": null,
+    "total": 1531
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5Z3tsYTS1kfBUfGjCLXmqy",
+  "id": "5Z3tsYTS1kfBUfGjCLXmqy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef8d8e1b5fdf48eb28354b48",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef8d8e1b5fdf48eb28354b48",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ef8d8e1b5fdf48eb28354b48",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Boo",
+  "popularity": 38,
+  "type": "artist",
+  "uri": "spotify:artist:5Z3tsYTS1kfBUfGjCLXmqy"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+  },
+  "followers": {
+    "href": null,
+    "total": 194097
+  },
+  "genres": [
+    "christian r&b",
+    "gospel",
+    "christian hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4S4kD5NBlgaq4YLBQSEMyY",
+  "id": "4S4kD5NBlgaq4YLBQSEMyY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd891c41e0eed3a5c530d085",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cd891c41e0eed3a5c530d085",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cd891c41e0eed3a5c530d085",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mali Music",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:4S4kD5NBlgaq4YLBQSEMyY"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+  },
+  "followers": {
+    "href": null,
+    "total": 4456928
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/20s0P9QLxGqKuCsGwFsp7w",
+  "id": "20s0P9QLxGqKuCsGwFsp7w",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48f54214e0580b101375840c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517448f54214e0580b101375840c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17848f54214e0580b101375840c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mario",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:20s0P9QLxGqKuCsGwFsp7w"
+}

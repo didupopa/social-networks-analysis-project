@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+  },
+  "followers": {
+    "href": null,
+    "total": 281389
+  },
+  "genres": [
+    "gospel",
+    "traditional gospel"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3WVgChZY3rEyeHd3aljzNl",
+  "id": "3WVgChZY3rEyeHd3aljzNl",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5c7d7e8b839ed93fdcd25686",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745c7d7e8b839ed93fdcd25686",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785c7d7e8b839ed93fdcd25686",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "John P. Kee",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:3WVgChZY3rEyeHd3aljzNl"
+}

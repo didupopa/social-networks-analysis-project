@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+  },
+  "followers": {
+    "href": null,
+    "total": 132449
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/11dMqVZY4PHgVL80tejvHK",
+  "id": "11dMqVZY4PHgVL80tejvHK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3dee11070298d80c10f05b1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f3dee11070298d80c10f05b1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f3dee11070298d80c10f05b1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Omar Souleyman",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:11dMqVZY4PHgVL80tejvHK"
+}

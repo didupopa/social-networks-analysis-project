@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+  },
+  "followers": {
+    "href": null,
+    "total": 1007775
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0BqURncJM5B1BBu7UM51eq",
+  "id": "0BqURncJM5B1BBu7UM51eq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1264147434cc5d369929916d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741264147434cc5d369929916d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781264147434cc5d369929916d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Guaynaa",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:0BqURncJM5B1BBu7UM51eq"
+}

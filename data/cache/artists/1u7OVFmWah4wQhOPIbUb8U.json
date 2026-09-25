@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+  },
+  "followers": {
+    "href": null,
+    "total": 363778
+  },
+  "genres": [
+    "melbourne bounce",
+    "big room",
+    "techno"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1u7OVFmWah4wQhOPIbUb8U",
+  "id": "1u7OVFmWah4wQhOPIbUb8U",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2caba84b643d4fe1d85e3c72",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051742caba84b643d4fe1d85e3c72",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1782caba84b643d4fe1d85e3c72",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Will Sparks",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:1u7OVFmWah4wQhOPIbUb8U"
+}

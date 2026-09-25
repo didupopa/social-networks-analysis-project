@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+  },
+  "followers": {
+    "href": null,
+    "total": 10567745
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+  "id": "5ZS223C6JyBfXasXxrRqOk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba549c55ea928defc166d971e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a549c55ea928defc166d971e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a549c55ea928defc166d971e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jhené Aiko",
+  "popularity": 83,
+  "type": "artist",
+  "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm"
+  },
+  "followers": {
+    "href": null,
+    "total": 30518
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2MqLs2L4iNhAUNwJQwjmdm",
+  "id": "2MqLs2L4iNhAUNwJQwjmdm",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd60c42fef364d5df20a08a4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bd60c42fef364d5df20a08a4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bd60c42fef364d5df20a08a4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Daron Malakian",
+  "popularity": 37,
+  "type": "artist",
+  "uri": "spotify:artist:2MqLs2L4iNhAUNwJQwjmdm"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4j5EnP4t2lSKolLuQh1xvn"
+  },
+  "followers": {
+    "href": null,
+    "total": 35346
+  },
+  "genres": [
+    "alternative r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4j5EnP4t2lSKolLuQh1xvn",
+  "id": "4j5EnP4t2lSKolLuQh1xvn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27375917b35ab7076849debcdcd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0275917b35ab7076849debcdcd",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485175917b35ab7076849debcdcd",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "St. Beauty",
+  "popularity": 32,
+  "type": "artist",
+  "uri": "spotify:artist:4j5EnP4t2lSKolLuQh1xvn"
+}

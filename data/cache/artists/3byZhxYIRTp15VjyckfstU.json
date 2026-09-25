@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3byZhxYIRTp15VjyckfstU"
+  },
+  "followers": {
+    "href": null,
+    "total": 19269
+  },
+  "genres": [
+    "grime",
+    "uk grime"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3byZhxYIRTp15VjyckfstU",
+  "id": "3byZhxYIRTp15VjyckfstU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15760c01d5969c01f32c72f8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517415760c01d5969c01f32c72f8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17815760c01d5969c01f32c72f8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Zeph Ellis",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:3byZhxYIRTp15VjyckfstU"
+}

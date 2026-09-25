@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qp3omFC1o0f8UxyMTWYPi"
+  },
+  "followers": {
+    "href": null,
+    "total": 396
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3qp3omFC1o0f8UxyMTWYPi",
+  "id": "3qp3omFC1o0f8UxyMTWYPi",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273908660652a31526bf52d44f2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02908660652a31526bf52d44f2",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851908660652a31526bf52d44f2",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Bryan Johnson",
+  "popularity": 5,
+  "type": "artist",
+  "uri": "spotify:artist:3qp3omFC1o0f8UxyMTWYPi"
+}

@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+  },
+  "followers": {
+    "href": null,
+    "total": 180646
+  },
+  "genres": [
+    "grime",
+    "uk grime",
+    "drum and bass",
+    "bassline"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+  "id": "6WjX4pepHwXa85B9KMk0PY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc60626f1d09e2caa67f401f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fc60626f1d09e2caa67f401f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fc60626f1d09e2caa67f401f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "P Money",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+}

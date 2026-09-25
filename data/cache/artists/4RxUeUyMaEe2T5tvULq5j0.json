@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RxUeUyMaEe2T5tvULq5j0"
+  },
+  "followers": {
+    "href": null,
+    "total": 320724
+  },
+  "genres": [
+    "reggae"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4RxUeUyMaEe2T5tvULq5j0",
+  "id": "4RxUeUyMaEe2T5tvULq5j0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2b6e02cad1325f5a1205fbef5caae154551661d6",
+      "height": 667,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/d3a346827d8083942b24b41316fe196c7e988b04",
+      "height": 427,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/d72ee30a1652f7b668a818a37a27597810621d6c",
+      "height": 133,
+      "width": 199
+    },
+    {
+      "url": "https://i.scdn.co/image/2e49a2afc44377a129125bd1e2624cc4bb28bb2c",
+      "height": 43,
+      "width": 64
+    }
+  ],
+  "name": "Snoop Lion",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:4RxUeUyMaEe2T5tvULq5j0"
+}

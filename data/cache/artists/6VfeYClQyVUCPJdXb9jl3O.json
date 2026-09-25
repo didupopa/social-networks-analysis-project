@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+  },
+  "followers": {
+    "href": null,
+    "total": 116591
+  },
+  "genres": [
+    "underground hip hop",
+    "boom bap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6VfeYClQyVUCPJdXb9jl3O",
+  "id": "6VfeYClQyVUCPJdXb9jl3O",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe24a1420c8b20d3450fa1094",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e24a1420c8b20d3450fa1094",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e24a1420c8b20d3450fa1094",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Evidence",
+  "popularity": 47,
+  "type": "artist",
+  "uri": "spotify:artist:6VfeYClQyVUCPJdXb9jl3O"
+}

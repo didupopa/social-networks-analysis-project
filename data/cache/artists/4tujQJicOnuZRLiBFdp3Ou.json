@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+  },
+  "followers": {
+    "href": null,
+    "total": 2291692
+  },
+  "genres": [
+    "west coast hip hop",
+    "gangster rap",
+    "g-funk",
+    "old school hip hop",
+    "hardcore hip hop",
+    "hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+  "id": "4tujQJicOnuZRLiBFdp3Ou",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7b6ac506853c6453a28d4a64",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051747b6ac506853c6453a28d4a64",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1787b6ac506853c6453a28d4a64",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Xzibit",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+}

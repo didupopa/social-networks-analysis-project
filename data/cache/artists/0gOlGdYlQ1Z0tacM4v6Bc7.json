@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7"
+  },
+  "followers": {
+    "href": null,
+    "total": 5283
+  },
+  "genres": [
+    "baltimore club",
+    "ballroom vogue",
+    "jersey club",
+    "philly club",
+    "moombahton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0gOlGdYlQ1Z0tacM4v6Bc7",
+  "id": "0gOlGdYlQ1Z0tacM4v6Bc7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27318d3ddca43f3dd8daa79a8f3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0218d3ddca43f3dd8daa79a8f3",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485118d3ddca43f3dd8daa79a8f3",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Blaqstarr",
+  "popularity": 20,
+  "type": "artist",
+  "uri": "spotify:artist:0gOlGdYlQ1Z0tacM4v6Bc7"
+}

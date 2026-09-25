@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zaXOYNFbclSYoBm2O4FiB"
+  },
+  "followers": {
+    "href": null,
+    "total": 8370
+  },
+  "genres": [
+    "grime"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6zaXOYNFbclSYoBm2O4FiB",
+  "id": "6zaXOYNFbclSYoBm2O4FiB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbee0101cea94a758b8c968e1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bee0101cea94a758b8c968e1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bee0101cea94a758b8c968e1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mikill Pane",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:6zaXOYNFbclSYoBm2O4FiB"
+}

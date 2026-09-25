@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+  },
+  "followers": {
+    "href": null,
+    "total": 590434
+  },
+  "genres": [
+    "dancehall",
+    "soca",
+    "riddim",
+    "ragga",
+    "reggae",
+    "shatta"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3nwYsifpwrKmCIpw4i0HDW",
+  "id": "3nwYsifpwrKmCIpw4i0HDW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe8a97baf3b444a888bdf3dc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fe8a97baf3b444a888bdf3dc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fe8a97baf3b444a888bdf3dc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Konshens",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:3nwYsifpwrKmCIpw4i0HDW"
+}

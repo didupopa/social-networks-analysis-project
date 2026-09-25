@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+  },
+  "followers": {
+    "href": null,
+    "total": 35132
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5mYakBbBzPMQTfkVMIgiDM",
+  "id": "5mYakBbBzPMQTfkVMIgiDM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26fd91805b1adda39a796aab",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517426fd91805b1adda39a796aab",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17826fd91805b1adda39a796aab",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Georgia Ku",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:5mYakBbBzPMQTfkVMIgiDM"
+}

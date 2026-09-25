@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+  },
+  "followers": {
+    "href": null,
+    "total": 1824782
+  },
+  "genres": [
+    "dembow",
+    "neoperreo"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2p4aN0Uxkk3iT3HK0cJ2cJ",
+  "id": "2p4aN0Uxkk3iT3HK0cJ2cJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15ec51083eacb022a73854aa",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517415ec51083eacb022a73854aa",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17815ec51083eacb022a73854aa",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tokischa",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:2p4aN0Uxkk3iT3HK0cJ2cJ"
+}

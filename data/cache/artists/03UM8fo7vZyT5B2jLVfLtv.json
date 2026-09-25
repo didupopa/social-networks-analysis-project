@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03UM8fo7vZyT5B2jLVfLtv"
+  },
+  "followers": {
+    "href": null,
+    "total": 7241
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/03UM8fo7vZyT5B2jLVfLtv",
+  "id": "03UM8fo7vZyT5B2jLVfLtv",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273fbabb49bbb553290d0fc8b08",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02fbabb49bbb553290d0fc8b08",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851fbabb49bbb553290d0fc8b08",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Currency",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:03UM8fo7vZyT5B2jLVfLtv"
+}

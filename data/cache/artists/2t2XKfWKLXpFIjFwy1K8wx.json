@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+  },
+  "followers": {
+    "href": null,
+    "total": 984071
+  },
+  "genres": [
+    "outlaw country",
+    "country"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2t2XKfWKLXpFIjFwy1K8wx",
+  "id": "2t2XKfWKLXpFIjFwy1K8wx",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb876acbc2fa8c9b3ac3fb3c49",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174876acbc2fa8c9b3ac3fb3c49",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178876acbc2fa8c9b3ac3fb3c49",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Aaron Lewis",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:2t2XKfWKLXpFIjFwy1K8wx"
+}

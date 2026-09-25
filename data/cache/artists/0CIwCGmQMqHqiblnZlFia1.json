@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+  },
+  "followers": {
+    "href": null,
+    "total": 778705
+  },
+  "genres": [
+    "reggae",
+    "roots reggae",
+    "ragga"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0CIwCGmQMqHqiblnZlFia1",
+  "id": "0CIwCGmQMqHqiblnZlFia1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb200689e15f3b95aaf47a05c8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174200689e15f3b95aaf47a05c8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178200689e15f3b95aaf47a05c8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Stephen Marley",
+  "popularity": 62,
+  "type": "artist",
+  "uri": "spotify:artist:0CIwCGmQMqHqiblnZlFia1"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22RVM3QYYm9YI4TTteiKTV"
+  },
+  "followers": {
+    "href": null,
+    "total": 747
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/22RVM3QYYm9YI4TTteiKTV",
+  "id": "22RVM3QYYm9YI4TTteiKTV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273177d1f3cd3e44a80b7ac0988",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02177d1f3cd3e44a80b7ac0988",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851177d1f3cd3e44a80b7ac0988",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Random Impulse",
+  "popularity": 16,
+  "type": "artist",
+  "uri": "spotify:artist:22RVM3QYYm9YI4TTteiKTV"
+}

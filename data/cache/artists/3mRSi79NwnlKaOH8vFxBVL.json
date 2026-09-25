@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+  },
+  "followers": {
+    "href": null,
+    "total": 9258
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3mRSi79NwnlKaOH8vFxBVL",
+  "id": "3mRSi79NwnlKaOH8vFxBVL",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90bb77b2cb6ceac1696a1059",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517490bb77b2cb6ceac1696a1059",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17890bb77b2cb6ceac1696a1059",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "PollyAnna",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:3mRSi79NwnlKaOH8vFxBVL"
+}

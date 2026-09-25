@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+  },
+  "followers": {
+    "href": null,
+    "total": 564587
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1ShZZUjkbXCjhwrb18BA8I",
+  "id": "1ShZZUjkbXCjhwrb18BA8I",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2d96de7fb5980e110e0831c6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051742d96de7fb5980e110e0831c6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1782d96de7fb5980e110e0831c6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bryce Vine",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:1ShZZUjkbXCjhwrb18BA8I"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+  },
+  "followers": {
+    "href": null,
+    "total": 156573
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1buzCmyYZE4kcdLRudsb8V",
+  "id": "1buzCmyYZE4kcdLRudsb8V",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517481d954dd35145481964ddd6c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17881d954dd35145481964ddd6c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mikky Ekko",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:1buzCmyYZE4kcdLRudsb8V"
+}

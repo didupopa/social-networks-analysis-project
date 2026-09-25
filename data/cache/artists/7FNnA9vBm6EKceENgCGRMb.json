@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+  },
+  "followers": {
+    "href": null,
+    "total": 13774934
+  },
+  "genres": [
+    "brazilian pop",
+    "funk pop",
+    "brazilian funk",
+    "funk carioca"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+  "id": "7FNnA9vBm6EKceENgCGRMb",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc971a5b58d274b9ae7c467af",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c971a5b58d274b9ae7c467af",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c971a5b58d274b9ae7c467af",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Anitta",
+  "popularity": 85,
+  "type": "artist",
+  "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+}

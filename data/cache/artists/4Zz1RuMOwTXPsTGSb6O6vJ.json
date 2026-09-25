@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Zz1RuMOwTXPsTGSb6O6vJ"
+  },
+  "followers": {
+    "href": null,
+    "total": 1337
+  },
+  "genres": [
+    "experimental hip hop",
+    "underground hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4Zz1RuMOwTXPsTGSb6O6vJ",
+  "id": "4Zz1RuMOwTXPsTGSb6O6vJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2739075a3fc3727343ae02db000",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e029075a3fc3727343ae02db000",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048519075a3fc3727343ae02db000",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Phoenix Orion",
+  "popularity": 31,
+  "type": "artist",
+  "uri": "spotify:artist:4Zz1RuMOwTXPsTGSb6O6vJ"
+}

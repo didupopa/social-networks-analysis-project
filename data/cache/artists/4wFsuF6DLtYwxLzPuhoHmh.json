@@ -1,0 +1,43 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wFsuF6DLtYwxLzPuhoHmh"
+  },
+  "followers": {
+    "href": null,
+    "total": 12758
+  },
+  "genres": [
+    "hardcore punk",
+    "noise rock",
+    "punk",
+    "hardcore"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4wFsuF6DLtYwxLzPuhoHmh",
+  "id": "4wFsuF6DLtYwxLzPuhoHmh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/184f9b28b5ff7fe260d132e5ac846b060e3faefb",
+      "height": 638,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/bf9a20c6f3ebc35505b2a3ed7faf63d05115a417",
+      "height": 408,
+      "width": 639
+    },
+    {
+      "url": "https://i.scdn.co/image/a1e7a045b7b6f132fbcd4b80c621630c5afd19d8",
+      "height": 128,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/3ea597779f3771ffa12ed6e80e10a4f34e9dc2db",
+      "height": 41,
+      "width": 64
+    }
+  ],
+  "name": "Die Kreuzen",
+  "popularity": 18,
+  "type": "artist",
+  "uri": "spotify:artist:4wFsuF6DLtYwxLzPuhoHmh"
+}

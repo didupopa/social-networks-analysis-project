@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70g2GF84Udc1iWqYvKFGyC"
+  },
+  "followers": {
+    "href": null,
+    "total": 604
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/70g2GF84Udc1iWqYvKFGyC",
+  "id": "70g2GF84Udc1iWqYvKFGyC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27307e0827140c7a8ba1ae005ff",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0207e0827140c7a8ba1ae005ff",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485107e0827140c7a8ba1ae005ff",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Jim Jones",
+  "popularity": 20,
+  "type": "artist",
+  "uri": "spotify:artist:70g2GF84Udc1iWqYvKFGyC"
+}

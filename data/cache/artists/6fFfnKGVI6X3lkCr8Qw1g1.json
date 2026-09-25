@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
+  },
+  "followers": {
+    "href": null,
+    "total": 128906
+  },
+  "genres": [
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6fFfnKGVI6X3lkCr8Qw1g1",
+  "id": "6fFfnKGVI6X3lkCr8Qw1g1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe552fa2576bb11b5db7df50d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e552fa2576bb11b5db7df50d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e552fa2576bb11b5db7df50d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "KXNG Crooked",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:6fFfnKGVI6X3lkCr8Qw1g1"
+}

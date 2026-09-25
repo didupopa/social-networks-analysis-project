@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf"
+  },
+  "followers": {
+    "href": null,
+    "total": 58482
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2ePzbA0F0TD96Na0MEB2Cf",
+  "id": "2ePzbA0F0TD96Na0MEB2Cf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54072fffe46e5a8a48cdfc76",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517454072fffe46e5a8a48cdfc76",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17854072fffe46e5a8a48cdfc76",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kirk Hammett",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:2ePzbA0F0TD96Na0MEB2Cf"
+}

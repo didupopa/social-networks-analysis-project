@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm"
+  },
+  "followers": {
+    "href": null,
+    "total": 8790
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0oywmZ7vl6A3bQPTsN66Rm",
+  "id": "0oywmZ7vl6A3bQPTsN66Rm",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4d84a0fc5e2113993757994",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d4d84a0fc5e2113993757994",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d4d84a0fc5e2113993757994",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "DJ Battlecat",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:0oywmZ7vl6A3bQPTsN66Rm"
+}

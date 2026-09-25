@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW"
+  },
+  "followers": {
+    "href": null,
+    "total": 253211
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1VW5tZ9pmSb2rG0GmSELwW",
+  "id": "1VW5tZ9pmSb2rG0GmSELwW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5ef5c2c25560e52e6298664",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d5ef5c2c25560e52e6298664",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d5ef5c2c25560e52e6298664",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jonathan Davis",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:1VW5tZ9pmSb2rG0GmSELwW"
+}

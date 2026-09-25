@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+  },
+  "followers": {
+    "href": null,
+    "total": 3830093
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C",
+  "id": "6s22t5Y3prQHyaHWUN1R1C",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccd633470e8b93efcd8f9246",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ccd633470e8b93efcd8f9246",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ccd633470e8b93efcd8f9246",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "AJR",
+  "popularity": 72,
+  "type": "artist",
+  "uri": "spotify:artist:6s22t5Y3prQHyaHWUN1R1C"
+}

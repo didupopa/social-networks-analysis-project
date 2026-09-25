@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+  },
+  "followers": {
+    "href": null,
+    "total": 2918322
+  },
+  "genres": [
+    "french pop",
+    "variété française",
+    "chanson",
+    "french indie pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3QVolfxko2UyCOtexhVTli",
+  "id": "3QVolfxko2UyCOtexhVTli",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5396ab4c06009c05685d54d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a5396ab4c06009c05685d54d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Angèle",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:3QVolfxko2UyCOtexhVTli"
+}

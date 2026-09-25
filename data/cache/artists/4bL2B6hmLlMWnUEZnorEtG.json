@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+  },
+  "followers": {
+    "href": null,
+    "total": 1355819
+  },
+  "genres": [
+    "tropical house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+  "id": "4bL2B6hmLlMWnUEZnorEtG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80a88a9f1e9266d2f5e96b8b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517480a88a9f1e9266d2f5e96b8b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17880a88a9f1e9266d2f5e96b8b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "felix jaehn",
+  "popularity": 74,
+  "type": "artist",
+  "uri": "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+}

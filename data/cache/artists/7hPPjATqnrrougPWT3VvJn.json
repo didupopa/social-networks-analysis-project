@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hPPjATqnrrougPWT3VvJn"
+  },
+  "followers": {
+    "href": null,
+    "total": 3177
+  },
+  "genres": [
+    "hyphy",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7hPPjATqnrrougPWT3VvJn",
+  "id": "7hPPjATqnrrougPWT3VvJn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b71ac6659a52d29ea6d4f48",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e024b71ac6659a52d29ea6d4f48",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048514b71ac6659a52d29ea6d4f48",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Rick Rock",
+  "popularity": 16,
+  "type": "artist",
+  "uri": "spotify:artist:7hPPjATqnrrougPWT3VvJn"
+}

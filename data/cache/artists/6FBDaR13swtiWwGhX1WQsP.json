@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+  },
+  "followers": {
+    "href": null,
+    "total": 10078238
+  },
+  "genres": [
+    "pop punk",
+    "punk",
+    "skate punk",
+    "rock",
+    "emo"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+  "id": "6FBDaR13swtiWwGhX1WQsP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745da36f8b98dd965336a1507a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785da36f8b98dd965336a1507a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "blink-182",
+  "popularity": 80,
+  "type": "artist",
+  "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+}

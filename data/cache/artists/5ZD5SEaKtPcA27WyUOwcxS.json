@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZD5SEaKtPcA27WyUOwcxS"
+  },
+  "followers": {
+    "href": null,
+    "total": 29759
+  },
+  "genres": [
+    "dark r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5ZD5SEaKtPcA27WyUOwcxS",
+  "id": "5ZD5SEaKtPcA27WyUOwcxS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4ba30cbae1345eee1cbda13",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c4ba30cbae1345eee1cbda13",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c4ba30cbae1345eee1cbda13",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Xavier Mayne",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:5ZD5SEaKtPcA27WyUOwcxS"
+}

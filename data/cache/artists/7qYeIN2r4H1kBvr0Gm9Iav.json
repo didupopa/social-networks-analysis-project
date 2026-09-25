@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+  },
+  "followers": {
+    "href": null,
+    "total": 893960
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7qYeIN2r4H1kBvr0Gm9Iav",
+  "id": "7qYeIN2r4H1kBvr0Gm9Iav",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbc72c93924af3167e68620e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fbc72c93924af3167e68620e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fbc72c93924af3167e68620e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Randy Nota Loca",
+  "popularity": 75,
+  "type": "artist",
+  "uri": "spotify:artist:7qYeIN2r4H1kBvr0Gm9Iav"
+}

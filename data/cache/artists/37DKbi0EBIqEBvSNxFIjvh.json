@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37DKbi0EBIqEBvSNxFIjvh"
+  },
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/37DKbi0EBIqEBvSNxFIjvh",
+  "id": "37DKbi0EBIqEBvSNxFIjvh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb323408edc42771d08deb1077",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174323408edc42771d08deb1077",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178323408edc42771d08deb1077",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Sean C",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:37DKbi0EBIqEBvSNxFIjvh"
+}

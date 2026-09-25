@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+  },
+  "followers": {
+    "href": null,
+    "total": 740166
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5rScKX1Sh1U67meeUyTGwk",
+  "id": "5rScKX1Sh1U67meeUyTGwk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16fbbd6314be501d99d6de64",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517416fbbd6314be501d99d6de64",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17816fbbd6314be501d99d6de64",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Michelle Branch",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:5rScKX1Sh1U67meeUyTGwk"
+}

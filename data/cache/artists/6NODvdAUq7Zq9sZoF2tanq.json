@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NODvdAUq7Zq9sZoF2tanq"
+  },
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6NODvdAUq7Zq9sZoF2tanq",
+  "id": "6NODvdAUq7Zq9sZoF2tanq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d7bf7b9330235d74d559b87",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021b22f05bb9947599e6277056",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515d7bf7b9330235d74d559b87",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Michael Hutchinson",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:6NODvdAUq7Zq9sZoF2tanq"
+}

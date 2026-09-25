@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+  },
+  "followers": {
+    "href": null,
+    "total": 316712
+  },
+  "genres": [
+    "gospel",
+    "traditional gospel"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6VUdDU44uo3KwSHc9lAEFE",
+  "id": "6VUdDU44uo3KwSHc9lAEFE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb089fc00c4bb2dd278f9a8041",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174089fc00c4bb2dd278f9a8041",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178089fc00c4bb2dd278f9a8041",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Clark Sisters",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:6VUdDU44uo3KwSHc9lAEFE"
+}

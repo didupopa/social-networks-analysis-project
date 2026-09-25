@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
+  },
+  "followers": {
+    "href": null,
+    "total": 183214
+  },
+  "genres": [
+    "grime",
+    "uk grime"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7Ks3elJhSP20mD04lgiA68",
+  "id": "7Ks3elJhSP20mD04lgiA68",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf37d823937477f2062879f5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bf37d823937477f2062879f5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bf37d823937477f2062879f5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Devlin",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:7Ks3elJhSP20mD04lgiA68"
+}

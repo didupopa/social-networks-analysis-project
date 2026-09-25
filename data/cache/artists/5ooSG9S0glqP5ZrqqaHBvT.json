@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+  },
+  "followers": {
+    "href": null,
+    "total": 41200
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5ooSG9S0glqP5ZrqqaHBvT",
+  "id": "5ooSG9S0glqP5ZrqqaHBvT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe48a7f38c0aed50db51b3fbe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e48a7f38c0aed50db51b3fbe",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e48a7f38c0aed50db51b3fbe",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "James Fauntleroy",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:5ooSG9S0glqP5ZrqqaHBvT"
+}

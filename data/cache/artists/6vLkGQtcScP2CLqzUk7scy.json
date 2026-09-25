@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vLkGQtcScP2CLqzUk7scy"
+  },
+  "followers": {
+    "href": null,
+    "total": 937
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6vLkGQtcScP2CLqzUk7scy",
+  "id": "6vLkGQtcScP2CLqzUk7scy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2730970f6d9775a51b0192c9ca2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e020970f6d9775a51b0192c9ca2",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510970f6d9775a51b0192c9ca2",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "E-White",
+  "popularity": 11,
+  "type": "artist",
+  "uri": "spotify:artist:6vLkGQtcScP2CLqzUk7scy"
+}

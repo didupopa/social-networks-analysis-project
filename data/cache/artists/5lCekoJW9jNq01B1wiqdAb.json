@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+  },
+  "followers": {
+    "href": null,
+    "total": 246402
+  },
+  "genres": [
+    "dubstep",
+    "riddim",
+    "edm",
+    "deathstep",
+    "bass house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5lCekoJW9jNq01B1wiqdAb",
+  "id": "5lCekoJW9jNq01B1wiqdAb",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61da128d993e8ad92cf31e50",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517461da128d993e8ad92cf31e50",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17861da128d993e8ad92cf31e50",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Crankdat",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:5lCekoJW9jNq01B1wiqdAb"
+}

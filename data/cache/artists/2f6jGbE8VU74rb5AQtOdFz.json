@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
+  },
+  "followers": {
+    "href": null,
+    "total": 17407
+  },
+  "genres": [
+    "disco house",
+    "funky house",
+    "nu disco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2f6jGbE8VU74rb5AQtOdFz",
+  "id": "2f6jGbE8VU74rb5AQtOdFz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3ffc04228adeb141851053b6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743ffc04228adeb141851053b6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783ffc04228adeb141851053b6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Seamus Haji",
+  "popularity": 37,
+  "type": "artist",
+  "uri": "spotify:artist:2f6jGbE8VU74rb5AQtOdFz"
+}

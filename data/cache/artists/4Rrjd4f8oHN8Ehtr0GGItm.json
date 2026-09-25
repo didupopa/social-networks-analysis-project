@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Rrjd4f8oHN8Ehtr0GGItm"
+  },
+  "followers": {
+    "href": null,
+    "total": 448
+  },
+  "genres": [
+    "shoegaze",
+    "dream pop",
+    "space rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4Rrjd4f8oHN8Ehtr0GGItm",
+  "id": "4Rrjd4f8oHN8Ehtr0GGItm",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735dd364dbff6b0614704b993d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e025dd364dbff6b0614704b993d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515dd364dbff6b0614704b993d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Sway",
+  "popularity": 17,
+  "type": "artist",
+  "uri": "spotify:artist:4Rrjd4f8oHN8Ehtr0GGItm"
+}

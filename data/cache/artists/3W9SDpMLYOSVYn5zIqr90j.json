@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3W9SDpMLYOSVYn5zIqr90j"
+  },
+  "followers": {
+    "href": null,
+    "total": 20181
+  },
+  "genres": [
+    "underground hip hop",
+    "boom bap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3W9SDpMLYOSVYn5zIqr90j",
+  "id": "3W9SDpMLYOSVYn5zIqr90j",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6763ec1f87dc9d7762ffdb73",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051746763ec1f87dc9d7762ffdb73",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1786763ec1f87dc9d7762ffdb73",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Rasco",
+  "popularity": 36,
+  "type": "artist",
+  "uri": "spotify:artist:3W9SDpMLYOSVYn5zIqr90j"
+}

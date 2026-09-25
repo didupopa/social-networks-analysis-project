@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qMaB9VyQElCxsYdP6Gj7D"
+  },
+  "followers": {
+    "href": null,
+    "total": 485
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4qMaB9VyQElCxsYdP6Gj7D",
+  "id": "4qMaB9VyQElCxsYdP6Gj7D",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1e4a69369bd82f596c3580d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1e4a69369bd82f596c3580d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b1e4a69369bd82f596c3580d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Traci Nelson",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:4qMaB9VyQElCxsYdP6Gj7D"
+}

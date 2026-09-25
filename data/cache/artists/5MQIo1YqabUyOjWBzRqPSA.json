@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MQIo1YqabUyOjWBzRqPSA"
+  },
+  "followers": {
+    "href": null,
+    "total": 44332
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop",
+    "old school hip hop",
+    "gangster rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5MQIo1YqabUyOjWBzRqPSA",
+  "id": "5MQIo1YqabUyOjWBzRqPSA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2738add495f9523f30dc5689926",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e028add495f9523f30dc5689926",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048518add495f9523f30dc5689926",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Daz",
+  "popularity": 47,
+  "type": "artist",
+  "uri": "spotify:artist:5MQIo1YqabUyOjWBzRqPSA"
+}

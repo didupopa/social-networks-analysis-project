@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Z9p6RyeV3BQbBEtKSvcnk"
+  },
+  "followers": {
+    "href": null,
+    "total": 1698
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3Z9p6RyeV3BQbBEtKSvcnk",
+  "id": "3Z9p6RyeV3BQbBEtKSvcnk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273515d355fc7868eeedd21b7a2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02515d355fc7868eeedd21b7a2",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851515d355fc7868eeedd21b7a2",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Kay",
+  "popularity": 19,
+  "type": "artist",
+  "uri": "spotify:artist:3Z9p6RyeV3BQbBEtKSvcnk"
+}
