@@ -1,0 +1,139 @@
+{
+  "artist_id": "4srikj7R58tanh2S0FpoVw",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Bg1lKwZXAMPJobklUtFy1"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Bg1lKwZXAMPJobklUtFy1",
+      "id": "3Bg1lKwZXAMPJobklUtFy1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273633cd2abf8767f6681c2981f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02633cd2abf8767f6681c2981f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851633cd2abf8767f6681c2981f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mystery",
+      "release_date": "2019-10-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Bg1lKwZXAMPJobklUtFy1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4srikj7R58tanh2S0FpoVw",
+          "id": "4srikj7R58tanh2S0FpoVw",
+          "name": "Alice Smith",
+          "type": "artist",
+          "uri": "spotify:artist:4srikj7R58tanh2S0FpoVw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3f1hAonNGCoD6Off4VOVMf"
+      },
+      "href": "https://api.spotify.com/v1/albums/3f1hAonNGCoD6Off4VOVMf",
+      "id": "3f1hAonNGCoD6Off4VOVMf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b0c4073133ea37b8e694b2d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020b0c4073133ea37b8e694b2d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510b0c4073133ea37b8e694b2d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "She",
+      "release_date": "2013-03-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3f1hAonNGCoD6Off4VOVMf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4srikj7R58tanh2S0FpoVw",
+          "id": "4srikj7R58tanh2S0FpoVw",
+          "name": "Alice Smith",
+          "type": "artist",
+          "uri": "spotify:artist:4srikj7R58tanh2S0FpoVw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/36c0t4N7Z8o10lutM0ptYz"
+      },
+      "href": "https://api.spotify.com/v1/albums/36c0t4N7Z8o10lutM0ptYz",
+      "id": "36c0t4N7Z8o10lutM0ptYz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef9a3f72dc2907f9fc10f724",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef9a3f72dc2907f9fc10f724",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ef9a3f72dc2907f9fc10f724",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "For Lovers, Dreamers & Me",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:36c0t4N7Z8o10lutM0ptYz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4srikj7R58tanh2S0FpoVw",
+          "id": "4srikj7R58tanh2S0FpoVw",
+          "name": "Alice Smith",
+          "type": "artist",
+          "uri": "spotify:artist:4srikj7R58tanh2S0FpoVw"
+        }
+      ]
+    }
+  ]
+}

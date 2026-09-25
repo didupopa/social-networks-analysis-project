@@ -1,0 +1,745 @@
+{
+  "album_id": "48UctZI2LoXZxpvOww0Evc",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+          },
+          "href": "https://api.spotify.com/v1/artists/46VWDbmWmzvPBTmkSr25gM",
+          "id": "46VWDbmWmzvPBTmkSr25gM",
+          "name": "Marsha Ambrosius",
+          "type": "artist",
+          "uri": "spotify:artist:46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232281,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zqaL6GRg3g8DUgx336Mt4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7zqaL6GRg3g8DUgx336Mt4",
+      "id": "7zqaL6GRg3g8DUgx336Mt4",
+      "name": "Feel The Real (feat. Marsha Ambrosius)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7zqaL6GRg3g8DUgx336Mt4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 334196,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2R4rpakKYfr2Pntx9wEqZF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2R4rpakKYfr2Pntx9wEqZF",
+      "id": "2R4rpakKYfr2Pntx9wEqZF",
+      "name": "Benefits",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2R4rpakKYfr2Pntx9wEqZF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/73e42qRp2FdEMMG9GRGuEd"
+          },
+          "href": "https://api.spotify.com/v1/artists/73e42qRp2FdEMMG9GRGuEd",
+          "id": "73e42qRp2FdEMMG9GRGuEd",
+          "name": "Willie HyN",
+          "type": "artist",
+          "uri": "spotify:artist:73e42qRp2FdEMMG9GRGuEd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zNsWqcoH1yxvLAvzfT5cT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zNsWqcoH1yxvLAvzfT5cT",
+      "id": "2zNsWqcoH1yxvLAvzfT5cT",
+      "name": "Serendipity (feat. Willie Hyn)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2zNsWqcoH1yxvLAvzfT5cT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 248120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1iRULp304sw7aag5ULj85z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1iRULp304sw7aag5ULj85z",
+      "id": "1iRULp304sw7aag5ULj85z",
+      "name": "Sooner or Later",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1iRULp304sw7aag5ULj85z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/73e42qRp2FdEMMG9GRGuEd"
+          },
+          "href": "https://api.spotify.com/v1/artists/73e42qRp2FdEMMG9GRGuEd",
+          "id": "73e42qRp2FdEMMG9GRGuEd",
+          "name": "Willie HyN",
+          "type": "artist",
+          "uri": "spotify:artist:73e42qRp2FdEMMG9GRGuEd"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305253,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hpKJe28TDqsKiSuvSABJb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hpKJe28TDqsKiSuvSABJb",
+      "id": "2hpKJe28TDqsKiSuvSABJb",
+      "name": "My Bad (feat. Willie Hyn)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2hpKJe28TDqsKiSuvSABJb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ENd5MOisFt9Xt6XHYUD9p"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ENd5MOisFt9Xt6XHYUD9p",
+      "id": "1ENd5MOisFt9Xt6XHYUD9p",
+      "name": "Start Over",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1ENd5MOisFt9Xt6XHYUD9p",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DFosodce3A0kqr0vcLSot"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DFosodce3A0kqr0vcLSot",
+      "id": "7DFosodce3A0kqr0vcLSot",
+      "name": "Hard Liquor",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:7DFosodce3A0kqr0vcLSot",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Hlu03fuCMn53lsZmjtYg7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Hlu03fuCMn53lsZmjtYg7",
+      "id": "5Hlu03fuCMn53lsZmjtYg7",
+      "name": "Shudawudacuda",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5Hlu03fuCMn53lsZmjtYg7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/74L7kq1P96YAj6QuzIkfyJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/74L7kq1P96YAj6QuzIkfyJ",
+      "id": "74L7kq1P96YAj6QuzIkfyJ",
+      "name": "Broken Hearts",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:74L7kq1P96YAj6QuzIkfyJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2SAwz8E4qi6RumhiKiFyjM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2SAwz8E4qi6RumhiKiFyjM",
+      "id": "2SAwz8E4qi6RumhiKiFyjM",
+      "name": "Love Me Back",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2SAwz8E4qi6RumhiKiFyjM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7cW1m17bYg3lNfhFUOCkrh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7cW1m17bYg3lNfhFUOCkrh",
+      "id": "7cW1m17bYg3lNfhFUOCkrh",
+      "name": "I'm Good",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7cW1m17bYg3lNfhFUOCkrh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qizAaQjmpL2sveTG9fd0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qizAaQjmpL2sveTG9fd0Z",
+          "id": "3qizAaQjmpL2sveTG9fd0Z",
+          "name": "BLAQGxLD",
+          "type": "artist",
+          "uri": "spotify:artist:3qizAaQjmpL2sveTG9fd0Z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UN5EDXI9EN4aQJ9qa8uC8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UN5EDXI9EN4aQJ9qa8uC8",
+      "id": "5UN5EDXI9EN4aQJ9qa8uC8",
+      "name": "Jussa Lil Bih (feat. BLAQGxLD)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5UN5EDXI9EN4aQJ9qa8uC8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 221426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3SdOnhHAum2hcUswCpr7U6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3SdOnhHAum2hcUswCpr7U6",
+      "id": "3SdOnhHAum2hcUswCpr7U6",
+      "name": "Humble Pie",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3SdOnhHAum2hcUswCpr7U6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 229866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/52Ibps1sq9kgfrhSuLAUhP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/52Ibps1sq9kgfrhSuLAUhP",
+      "id": "52Ibps1sq9kgfrhSuLAUhP",
+      "name": "Party Life",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:52Ibps1sq9kgfrhSuLAUhP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4mRwHKm2edtTqp0NXoQ1aC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4mRwHKm2edtTqp0NXoQ1aC",
+          "id": "4mRwHKm2edtTqp0NXoQ1aC",
+          "name": "The Husel",
+          "type": "artist",
+          "uri": "spotify:artist:4mRwHKm2edtTqp0NXoQ1aC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/73e42qRp2FdEMMG9GRGuEd"
+          },
+          "href": "https://api.spotify.com/v1/artists/73e42qRp2FdEMMG9GRGuEd",
+          "id": "73e42qRp2FdEMMG9GRGuEd",
+          "name": "Willie HyN",
+          "type": "artist",
+          "uri": "spotify:artist:73e42qRp2FdEMMG9GRGuEd"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 328040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3buBvq8Bt2zuLw6W9tuZg6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3buBvq8Bt2zuLw6W9tuZg6",
+      "id": "3buBvq8Bt2zuLw6W9tuZg6",
+      "name": "One More Time (feat. The Husel & Willie Hyn)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3buBvq8Bt2zuLw6W9tuZg6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 234760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/070KgcbXaT9v7mU4jaH6vY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/070KgcbXaT9v7mU4jaH6vY",
+      "id": "070KgcbXaT9v7mU4jaH6vY",
+      "name": "Let Go",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:070KgcbXaT9v7mU4jaH6vY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 224426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Ag1FIqAavz9NLf4qaJgbX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7Ag1FIqAavz9NLf4qaJgbX",
+      "id": "7Ag1FIqAavz9NLf4qaJgbX",
+      "name": "Test Drive",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7Ag1FIqAavz9NLf4qaJgbX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 206882,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58x11QONoKqTRNUmmfqcLO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58x11QONoKqTRNUmmfqcLO",
+      "id": "58x11QONoKqTRNUmmfqcLO",
+      "name": "Like The Weather",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:58x11QONoKqTRNUmmfqcLO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 213426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4DMITf34e7davGPcUXvb7W"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4DMITf34e7davGPcUXvb7W",
+      "id": "4DMITf34e7davGPcUXvb7W",
+      "name": "Fact of Love",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4DMITf34e7davGPcUXvb7W",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 250053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JKjX45L5OeqIGwheuKoVx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JKjX45L5OeqIGwheuKoVx",
+      "id": "5JKjX45L5OeqIGwheuKoVx",
+      "name": "Heaven Only Knows",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5JKjX45L5OeqIGwheuKoVx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1v3r802Az10JtIzSPawWzw"
+          },
+          "href": "https://api.spotify.com/v1/artists/1v3r802Az10JtIzSPawWzw",
+          "id": "1v3r802Az10JtIzSPawWzw",
+          "name": "Neil deGrasse Tyson",
+          "type": "artist",
+          "uri": "spotify:artist:1v3r802Az10JtIzSPawWzw"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 250386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1LrMWfxrYkHiSRiVJdcSmU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1LrMWfxrYkHiSRiVJdcSmU",
+      "id": "1LrMWfxrYkHiSRiVJdcSmU",
+      "name": "The Moon (feat. Neil deGrasse Tyson)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1LrMWfxrYkHiSRiVJdcSmU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 259385,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0QMf2xkDqfsVcX9ErWdeop"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0QMf2xkDqfsVcX9ErWdeop",
+      "id": "0QMf2xkDqfsVcX9ErWdeop",
+      "name": "We Go Together Now",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0QMf2xkDqfsVcX9ErWdeop",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fSWYy9Wi6OpD2oYLRI2oc"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fSWYy9Wi6OpD2oYLRI2oc",
+          "id": "7fSWYy9Wi6OpD2oYLRI2oc",
+          "name": "Chris Theory",
+          "type": "artist",
+          "uri": "spotify:artist:7fSWYy9Wi6OpD2oYLRI2oc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qizAaQjmpL2sveTG9fd0Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qizAaQjmpL2sveTG9fd0Z",
+          "id": "3qizAaQjmpL2sveTG9fd0Z",
+          "name": "BLAQGxLD",
+          "type": "artist",
+          "uri": "spotify:artist:3qizAaQjmpL2sveTG9fd0Z"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 309266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1MwQ4Ini7vs9CmVrpsj2uO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1MwQ4Ini7vs9CmVrpsj2uO",
+      "id": "1MwQ4Ini7vs9CmVrpsj2uO",
+      "name": "Sunrise Serenade (feat. BLAQGxLD & Chris Theory)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1MwQ4Ini7vs9CmVrpsj2uO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 223106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Gd5sYMHhPYvdr6jAnpWm7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Gd5sYMHhPYvdr6jAnpWm7",
+      "id": "6Gd5sYMHhPYvdr6jAnpWm7",
+      "name": "Simple Things",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6Gd5sYMHhPYvdr6jAnpWm7",
+      "is_local": false
+    }
+  ]
+}

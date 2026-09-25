@@ -1,0 +1,139 @@
+{
+  "artist_id": "1WMwuNKzEFtU6pPkdtryYS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt"
+      },
+      "href": "https://api.spotify.com/v1/albums/5rJi3PGyqB4zFK3bwvsgjt",
+      "id": "5rJi3PGyqB4zFK3bwvsgjt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba12a62a40802f138b32406e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba12a62a40802f138b32406e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ba12a62a40802f138b32406e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "APOCALIPTO",
+      "release_date": "2026-08-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5rJi3PGyqB4zFK3bwvsgjt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WMwuNKzEFtU6pPkdtryYS",
+          "id": "1WMwuNKzEFtU6pPkdtryYS",
+          "name": "Kendo Kaponi",
+          "type": "artist",
+          "uri": "spotify:artist:1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/10L8R4OPdoEtO4M8tf5S4q"
+      },
+      "href": "https://api.spotify.com/v1/albums/10L8R4OPdoEtO4M8tf5S4q",
+      "id": "10L8R4OPdoEtO4M8tf5S4q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bc4111ffcf820b1937c052cc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bc4111ffcf820b1937c052cc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bc4111ffcf820b1937c052cc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "El Alfa y el Omega",
+      "release_date": "2018-04-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:10L8R4OPdoEtO4M8tf5S4q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WMwuNKzEFtU6pPkdtryYS",
+          "id": "1WMwuNKzEFtU6pPkdtryYS",
+          "name": "Kendo Kaponi",
+          "type": "artist",
+          "uri": "spotify:artist:1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3UE3hYQCoXYiiw6ecSadsK"
+      },
+      "href": "https://api.spotify.com/v1/albums/3UE3hYQCoXYiiw6ecSadsK",
+      "id": "3UE3hYQCoXYiiw6ecSadsK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d31a7c12670c4041261b57c3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d31a7c12670c4041261b57c3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d31a7c12670c4041261b57c3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kendo Edition",
+      "release_date": "2017-01-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3UE3hYQCoXYiiw6ecSadsK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1WMwuNKzEFtU6pPkdtryYS",
+          "id": "1WMwuNKzEFtU6pPkdtryYS",
+          "name": "Kendo Kaponi",
+          "type": "artist",
+          "uri": "spotify:artist:1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ]
+    }
+  ]
+}

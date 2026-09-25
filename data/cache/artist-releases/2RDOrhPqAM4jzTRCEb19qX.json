@@ -1,0 +1,53 @@
+{
+  "artist_id": "2RDOrhPqAM4jzTRCEb19qX",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp"
+      },
+      "href": "https://api.spotify.com/v1/albums/15Id9Jrqab8IwHFirdrrLp",
+      "id": "15Id9Jrqab8IwHFirdrrLp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0259cd47039c5b10ed919fbaa8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485159cd47039c5b10ed919fbaa8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MUDBOY",
+      "release_date": "2018-10-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:15Id9Jrqab8IwHFirdrrLp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RDOrhPqAM4jzTRCEb19qX",
+          "id": "2RDOrhPqAM4jzTRCEb19qX",
+          "name": "Sheck Wes",
+          "type": "artist",
+          "uri": "spotify:artist:2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ]
+    }
+  ]
+}

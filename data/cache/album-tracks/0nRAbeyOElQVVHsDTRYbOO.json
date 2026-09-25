@@ -1,0 +1,775 @@
+{
+  "album_id": "0nRAbeyOElQVVHsDTRYbOO",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 44106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4RZBJgDzmIDA3pzGpg5icG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4RZBJgDzmIDA3pzGpg5icG",
+      "id": "4RZBJgDzmIDA3pzGpg5icG",
+      "name": "Obama (Winning More Interlude)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4RZBJgDzmIDA3pzGpg5icG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+          },
+          "href": "https://api.spotify.com/v1/artists/31HjiqargV4NAw4GZqUale",
+          "id": "31HjiqargV4NAw4GZqUale",
+          "name": "Ace Hood",
+          "type": "artist",
+          "uri": "spotify:artist:31HjiqargV4NAw4GZqUale"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oOhHNAXE8nJSoLGCyGDDK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0oOhHNAXE8nJSoLGCyGDDK",
+      "id": "0oOhHNAXE8nJSoLGCyGDDK",
+      "name": "Suffering From Success",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0oOhHNAXE8nJSoLGCyGDDK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          },
+          "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cADQgiLMjNhbsfeN52Bf3",
+          "id": "2cADQgiLMjNhbsfeN52Bf3",
+          "name": "Swizz Beatz",
+          "type": "artist",
+          "uri": "spotify:artist:2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          },
+          "href": "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+          "id": "59wfkuBoNyhDMQGCljbUbA",
+          "name": "Diddy",
+          "type": "artist",
+          "uri": "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239666,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3m4TkNakXcxkZyFcS7vnmk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3m4TkNakXcxkZyFcS7vnmk",
+      "id": "3m4TkNakXcxkZyFcS7vnmk",
+      "name": "I Feel Like Pac / I Feel Like Biggie",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3m4TkNakXcxkZyFcS7vnmk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vXTefBL93Dj5IqAWq6OTv",
+          "id": "6vXTefBL93Dj5IqAWq6OTv",
+          "name": "French Montana",
+          "type": "artist",
+          "uri": "spotify:artist:6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          },
+          "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+          },
+          "href": "https://api.spotify.com/v1/artists/31HjiqargV4NAw4GZqUale",
+          "id": "31HjiqargV4NAw4GZqUale",
+          "name": "Ace Hood",
+          "type": "artist",
+          "uri": "spotify:artist:31HjiqargV4NAw4GZqUale"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+          "name": "Timbaland",
+          "type": "artist",
+          "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hcM3AtNY21kLKdWJj4wNw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2hcM3AtNY21kLKdWJj4wNw",
+      "id": "2hcM3AtNY21kLKdWJj4wNw",
+      "name": "You Don't Want These Problems",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2hcM3AtNY21kLKdWJj4wNw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jksrX4oBklxR78ft8gv3j",
+          "id": "3jksrX4oBklxR78ft8gv3j",
+          "name": "Plies",
+          "type": "artist",
+          "uri": "spotify:artist:3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+          },
+          "href": "https://api.spotify.com/v1/artists/31HjiqargV4NAw4GZqUale",
+          "id": "31HjiqargV4NAw4GZqUale",
+          "name": "Ace Hood",
+          "type": "artist",
+          "uri": "spotify:artist:31HjiqargV4NAw4GZqUale"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/66eJKNsi230RS09CrISrC7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/66eJKNsi230RS09CrISrC7",
+      "id": "66eJKNsi230RS09CrISrC7",
+      "name": "Blackball",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:66eJKNsi230RS09CrISrC7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164626,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5JXnmYdaarEcv12K4MS1tC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5JXnmYdaarEcv12K4MS1tC",
+      "id": "5JXnmYdaarEcv12K4MS1tC",
+      "name": "No Motive",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5JXnmYdaarEcv12K4MS1tC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          },
+          "href": "https://api.spotify.com/v1/artists/67nwj3Y5sZQLl72VNUHEYE",
+          "id": "67nwj3Y5sZQLl72VNUHEYE",
+          "name": "Wale",
+          "type": "artist",
+          "uri": "spotify:artist:67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+          },
+          "href": "https://api.spotify.com/v1/artists/31HjiqargV4NAw4GZqUale",
+          "id": "31HjiqargV4NAw4GZqUale",
+          "name": "Ace Hood",
+          "type": "artist",
+          "uri": "spotify:artist:31HjiqargV4NAw4GZqUale"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292666,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3eBa8WLuW8b2Ext8cyRhOv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3eBa8WLuW8b2Ext8cyRhOv",
+      "id": "3eBa8WLuW8b2Ext8cyRhOv",
+      "name": "I'm Still",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3eBa8WLuW8b2Ext8cyRhOv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2EAHXJbcFLmREbJCTv2RnD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2EAHXJbcFLmREbJCTv2RnD",
+      "id": "2EAHXJbcFLmREbJCTv2RnD",
+      "name": "I Wanna Be With You",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2EAHXJbcFLmREbJCTv2RnD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 308333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/04a1HkNH7LFsG5mEiLN7vl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/04a1HkNH7LFsG5mEiLN7vl",
+      "id": "04a1HkNH7LFsG5mEiLN7vl",
+      "name": "No New Friends - SFTB Remix",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:04a1HkNH7LFsG5mEiLN7vl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eezS9KmhdjGN436RdTIXu",
+          "id": "0eezS9KmhdjGN436RdTIXu",
+          "name": "Mavado",
+          "type": "artist",
+          "uri": "spotify:artist:0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/06kIwlDkjVCB04qKgv05PD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/06kIwlDkjVCB04qKgv05PD",
+      "id": "06kIwlDkjVCB04qKgv05PD",
+      "name": "Give It All To Me",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:06kIwlDkjVCB04qKgv05PD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          },
+          "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist",
+          "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "name": "Bas",
+          "type": "artist",
+          "uri": "spotify:artist:70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 247080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3n3wVc7uVKHbOPv6kEvSQU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3n3wVc7uVKHbOPv6kEvSQU",
+      "id": "3n3wVc7uVKHbOPv6kEvSQU",
+      "name": "Hells Kitchen",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3n3wVc7uVKHbOPv6kEvSQU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+          },
+          "href": "https://api.spotify.com/v1/artists/19KwjzvIL92r29IINtlPNP",
+          "id": "19KwjzvIL92r29IINtlPNP",
+          "name": "Scarface",
+          "type": "artist",
+          "uri": "spotify:artist:19KwjzvIL92r29IINtlPNP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pnbUBPifNnlusY8kTBivi",
+          "id": "5pnbUBPifNnlusY8kTBivi",
+          "name": "Jadakiss",
+          "type": "artist",
+          "uri": "spotify:artist:5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          },
+          "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "type": "artist",
+          "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DzRMyWgjuMbYvt5BLbpCo",
+          "id": "2DzRMyWgjuMbYvt5BLbpCo",
+          "name": "Anthony Hamilton",
+          "type": "artist",
+          "uri": "spotify:artist:2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 385840,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7t30XQp7B6fu32CjENcDBq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7t30XQp7B6fu32CjENcDBq",
+      "id": "7t30XQp7B6fu32CjENcDBq",
+      "name": "Never Surrender",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7t30XQp7B6fu32CjENcDBq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "type": "artist",
+          "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+          },
+          "href": "https://api.spotify.com/v1/artists/35sCXuy5gN6Or69rZ9vqBs",
+          "id": "35sCXuy5gN6Or69rZ9vqBs",
+          "name": "Birdman",
+          "type": "artist",
+          "uri": "spotify:artist:35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          },
+          "href": "https://api.spotify.com/v1/artists/20sxb77xiYeusSH8cVdatc",
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164640,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fMbNiUOlASbYrEneXGOCa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fMbNiUOlASbYrEneXGOCa",
+      "id": "6fMbNiUOlASbYrEneXGOCa",
+      "name": "Murcielago (Doors Go Up)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:6fMbNiUOlASbYrEneXGOCa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ubKsFJjMgWkARG6w2Qlv8",
+          "id": "4ubKsFJjMgWkARG6w2Qlv8",
+          "name": "Vado",
+          "type": "artist",
+          "uri": "spotify:artist:4ubKsFJjMgWkARG6w2Qlv8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yf4QxbxxZRspGQOyOnTCy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yf4QxbxxZRspGQOyOnTCy",
+      "id": "5yf4QxbxxZRspGQOyOnTCy",
+      "name": "Black Ghost",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5yf4QxbxxZRspGQOyOnTCy",
+      "is_local": false
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "album_id": "5ndXAGa9MHcxLD0sYIver2",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qHfqHyHZnxvv1lfkJraQc",
+          "id": "0qHfqHyHZnxvv1lfkJraQc",
+          "name": "Skyzoo",
+          "type": "artist",
+          "uri": "spotify:artist:0qHfqHyHZnxvv1lfkJraQc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269513,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5rCnA4ebccnId5RgXbxa6N"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5rCnA4ebccnId5RgXbxa6N",
+      "id": "5rCnA4ebccnId5RgXbxa6N",
+      "name": "If You're the One",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5rCnA4ebccnId5RgXbxa6N",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77LpMgodUuEUZLdq9b4P2z"
+          },
+          "href": "https://api.spotify.com/v1/artists/77LpMgodUuEUZLdq9b4P2z",
+          "id": "77LpMgodUuEUZLdq9b4P2z",
+          "name": "Becky Cane",
+          "type": "artist",
+          "uri": "spotify:artist:77LpMgodUuEUZLdq9b4P2z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6SkwUrZMyLHle2xHodKOXz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6SkwUrZMyLHle2xHodKOXz",
+      "id": "6SkwUrZMyLHle2xHodKOXz",
+      "name": "One Time",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6SkwUrZMyLHle2xHodKOXz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lr6Hd6cRbFt47nS6Jkab3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lr6Hd6cRbFt47nS6Jkab3",
+      "id": "4lr6Hd6cRbFt47nS6Jkab3",
+      "name": "When a Man",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4lr6Hd6cRbFt47nS6Jkab3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 274000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0iREyAbj5bo7KTPqsyUJSF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0iREyAbj5bo7KTPqsyUJSF",
+      "id": "0iREyAbj5bo7KTPqsyUJSF",
+      "name": "If I Made Love to You",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0iREyAbj5bo7KTPqsyUJSF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5usbqiU7sjvszjWecANDL6",
+          "id": "5usbqiU7sjvszjWecANDL6",
+          "name": "WESTSIDE BOOGIE",
+          "type": "artist",
+          "uri": "spotify:artist:5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1oiCr4TQNVNW4eVezkPFes"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1oiCr4TQNVNW4eVezkPFes",
+      "id": "1oiCr4TQNVNW4eVezkPFes",
+      "name": "Just Fall in Love",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1oiCr4TQNVNW4eVezkPFes",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 247006,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5wCY37FKDs7jb623FEUX9g"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5wCY37FKDs7jb623FEUX9g",
+      "id": "5wCY37FKDs7jb623FEUX9g",
+      "name": "Broken Pieces",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5wCY37FKDs7jb623FEUX9g",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2T2uQIwi33mAOqBIOAlflL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2T2uQIwi33mAOqBIOAlflL",
+      "id": "2T2uQIwi33mAOqBIOAlflL",
+      "name": "I Still Love You",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2T2uQIwi33mAOqBIOAlflL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6A4VujXQZKvAQMy0drxJaB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6A4VujXQZKvAQMy0drxJaB",
+      "id": "6A4VujXQZKvAQMy0drxJaB",
+      "name": "Honey",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6A4VujXQZKvAQMy0drxJaB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qWcAUOG6kb4gSTJLZMG9B"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qWcAUOG6kb4gSTJLZMG9B",
+          "id": "0qWcAUOG6kb4gSTJLZMG9B",
+          "name": "3d Na'tee",
+          "type": "artist",
+          "uri": "spotify:artist:0qWcAUOG6kb4gSTJLZMG9B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 301000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/44tXQEtbmGwxmBmov2ogeI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/44tXQEtbmGwxmBmov2ogeI",
+      "id": "44tXQEtbmGwxmBmov2ogeI",
+      "name": "Zaddy",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:44tXQEtbmGwxmBmov2ogeI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/62Fw0sTcshsUWJir6XV3eb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/62Fw0sTcshsUWJir6XV3eb",
+      "id": "62Fw0sTcshsUWJir6XV3eb",
+      "name": "Rick James",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:62Fw0sTcshsUWJir6XV3eb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6K4DePlNRH8DqqKafjE879"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6K4DePlNRH8DqqKafjE879",
+      "id": "6K4DePlNRH8DqqKafjE879",
+      "name": "On Top",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6K4DePlNRH8DqqKafjE879",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 232413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1yXgRDdW1H7kWkpFWAiHka"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1yXgRDdW1H7kWkpFWAiHka",
+      "id": "1yXgRDdW1H7kWkpFWAiHka",
+      "name": "Everything Baby",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1yXgRDdW1H7kWkpFWAiHka",
+      "is_local": false
+    }
+  ]
+}

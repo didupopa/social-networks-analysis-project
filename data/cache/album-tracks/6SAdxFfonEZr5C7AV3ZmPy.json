@@ -1,0 +1,797 @@
+{
+  "album_id": "6SAdxFfonEZr5C7AV3ZmPy",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5V31IyQMYl0lLAnvHtZhxx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5V31IyQMYl0lLAnvHtZhxx",
+      "id": "5V31IyQMYl0lLAnvHtZhxx",
+      "name": "Faya",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5V31IyQMYl0lLAnvHtZhxx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5RzT7CM6Ot0sh0EHefMicV",
+          "id": "5RzT7CM6Ot0sh0EHefMicV",
+          "name": "Maffio",
+          "type": "artist",
+          "uri": "spotify:artist:5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35PPlHcg20LLsYjwjl0JqO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/35PPlHcg20LLsYjwjl0JqO",
+      "id": "35PPlHcg20LLsYjwjl0JqO",
+      "name": "Orgullo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:35PPlHcg20LLsYjwjl0JqO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184466,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PruGnrE8VIgt5BwHctRTe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PruGnrE8VIgt5BwHctRTe",
+      "id": "5PruGnrE8VIgt5BwHctRTe",
+      "name": "Mátame",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5PruGnrE8VIgt5BwHctRTe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FDJB5xf8i09jDjIg1qNED",
+          "id": "0FDJB5xf8i09jDjIg1qNED",
+          "name": "Carlitos Rossy",
+          "type": "artist",
+          "uri": "spotify:artist:0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RZ5MBBHsQ3bHQUPxF3MpD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RZ5MBBHsQ3bHQUPxF3MpD",
+          "id": "2RZ5MBBHsQ3bHQUPxF3MpD",
+          "name": "Jonna Torres",
+          "type": "artist",
+          "uri": "spotify:artist:2RZ5MBBHsQ3bHQUPxF3MpD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6NhfdTYPsBqqArks70QZav"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6NhfdTYPsBqqArks70QZav",
+      "id": "6NhfdTYPsBqqArks70QZav",
+      "name": "La Tiene",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6NhfdTYPsBqqArks70QZav",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LmcxBak1alK1bf7d1beTr",
+          "id": "2LmcxBak1alK1bf7d1beTr",
+          "name": "Juhn",
+          "type": "artist",
+          "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3OYRHLzixMV0k2rFrRIF3Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3OYRHLzixMV0k2rFrRIF3Y",
+      "id": "3OYRHLzixMV0k2rFrRIF3Y",
+      "name": "Nadie Lo Sabe",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3OYRHLzixMV0k2rFrRIF3Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221120,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2mfYMPVvFTzSyoE5txJN0r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2mfYMPVvFTzSyoE5txJN0r",
+      "id": "2mfYMPVvFTzSyoE5txJN0r",
+      "name": "El Reloj",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2mfYMPVvFTzSyoE5txJN0r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4r3koGKc1RyJWIC2QoyBdr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4r3koGKc1RyJWIC2QoyBdr",
+          "id": "4r3koGKc1RyJWIC2QoyBdr",
+          "name": "Pancho el de la Avenida",
+          "type": "artist",
+          "uri": "spotify:artist:4r3koGKc1RyJWIC2QoyBdr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5icSrjNg0Gc4ALX0bQDVlT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5icSrjNg0Gc4ALX0bQDVlT",
+      "id": "5icSrjNg0Gc4ALX0bQDVlT",
+      "name": "Serpiente",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5icSrjNg0Gc4ALX0bQDVlT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tU1VKOuxiNZwBZC6RHidA",
+          "id": "7tU1VKOuxiNZwBZC6RHidA",
+          "name": "Alexis y Fido",
+          "type": "artist",
+          "uri": "spotify:artist:7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FDJB5xf8i09jDjIg1qNED",
+          "id": "0FDJB5xf8i09jDjIg1qNED",
+          "name": "Carlitos Rossy",
+          "type": "artist",
+          "uri": "spotify:artist:0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RZ5MBBHsQ3bHQUPxF3MpD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RZ5MBBHsQ3bHQUPxF3MpD",
+          "id": "2RZ5MBBHsQ3bHQUPxF3MpD",
+          "name": "Jonna Torres",
+          "type": "artist",
+          "uri": "spotify:artist:2RZ5MBBHsQ3bHQUPxF3MpD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217746,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5K7rteTd1Zp3wIVp3qHO8R"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5K7rteTd1Zp3wIVp3qHO8R",
+      "id": "5K7rteTd1Zp3wIVp3qHO8R",
+      "name": "Them Bow",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5K7rteTd1Zp3wIVp3qHO8R",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221773,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0DdqQBfJP6dalzBvCBaYzc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0DdqQBfJP6dalzBvCBaYzc",
+      "id": "0DdqQBfJP6dalzBvCBaYzc",
+      "name": "Haters 2",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0DdqQBfJP6dalzBvCBaYzc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199413,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2AaF3pUf7twAxAqxtOVJVe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2AaF3pUf7twAxAqxtOVJVe",
+      "id": "2AaF3pUf7twAxAqxtOVJVe",
+      "name": "Nos Conocimos",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2AaF3pUf7twAxAqxtOVJVe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4UxXHtZrsgkOIRJrUY5Y8Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4UxXHtZrsgkOIRJrUY5Y8Y",
+      "id": "4UxXHtZrsgkOIRJrUY5Y8Y",
+      "name": "Soy Malo",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4UxXHtZrsgkOIRJrUY5Y8Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 158826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cOQOo5Nytr1xPwpY7DTpC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cOQOo5Nytr1xPwpY7DTpC",
+      "id": "3cOQOo5Nytr1xPwpY7DTpC",
+      "name": "Se Suponia",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:3cOQOo5Nytr1xPwpY7DTpC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RZ5MBBHsQ3bHQUPxF3MpD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RZ5MBBHsQ3bHQUPxF3MpD",
+          "id": "2RZ5MBBHsQ3bHQUPxF3MpD",
+          "name": "Jonna Torres",
+          "type": "artist",
+          "uri": "spotify:artist:2RZ5MBBHsQ3bHQUPxF3MpD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46FbrH5VazzugRDSBXplRp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/46FbrH5VazzugRDSBXplRp",
+      "id": "46FbrH5VazzugRDSBXplRp",
+      "name": "Pensaste",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:46FbrH5VazzugRDSBXplRp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fux65HMCBvfJHqlBc4Nno",
+          "id": "1fux65HMCBvfJHqlBc4Nno",
+          "name": "Casper Magico",
+          "type": "artist",
+          "uri": "spotify:artist:1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LmcxBak1alK1bf7d1beTr",
+          "id": "2LmcxBak1alK1bf7d1beTr",
+          "name": "Juhn",
+          "type": "artist",
+          "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/5hdhHgpxyniooUiQVaPxQ0",
+          "id": "5hdhHgpxyniooUiQVaPxQ0",
+          "name": "Nio Garcia",
+          "type": "artist",
+          "uri": "spotify:artist:5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0H4CgbevZSCkVPIjRDvYf7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0H4CgbevZSCkVPIjRDvYf7",
+      "id": "0H4CgbevZSCkVPIjRDvYf7",
+      "name": "Nadie Lo Sabe - Remix",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0H4CgbevZSCkVPIjRDvYf7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3EiLUeyEcA6fbRPSHkG5kb",
+          "id": "3EiLUeyEcA6fbRPSHkG5kb",
+          "name": "De La Ghetto",
+          "type": "artist",
+          "uri": "spotify:artist:3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LmcxBak1alK1bf7d1beTr",
+          "id": "2LmcxBak1alK1bf7d1beTr",
+          "name": "Juhn",
+          "type": "artist",
+          "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1xCbQhtV5c1Vc1I1n2jyv0",
+          "id": "1xCbQhtV5c1Vc1I1n2jyv0",
+          "name": "Chamaco",
+          "type": "artist",
+          "uri": "spotify:artist:1xCbQhtV5c1Vc1I1n2jyv0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oQX8QiMXOyuqbcZEFsZfm",
+          "id": "2oQX8QiMXOyuqbcZEFsZfm",
+          "name": "El Alfa",
+          "type": "artist",
+          "uri": "spotify:artist:2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fux65HMCBvfJHqlBc4Nno",
+          "id": "1fux65HMCBvfJHqlBc4Nno",
+          "name": "Casper Magico",
+          "type": "artist",
+          "uri": "spotify:artist:1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278466,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ERdVYUuglmfTSVaitWB5G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ERdVYUuglmfTSVaitWB5G",
+      "id": "7ERdVYUuglmfTSVaitWB5G",
+      "name": "Me da Lo Mismo - Remix",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7ERdVYUuglmfTSVaitWB5G",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3E6iMhi3fvbMBSwZk8aeeJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3E6iMhi3fvbMBSwZk8aeeJ",
+          "id": "3E6iMhi3fvbMBSwZk8aeeJ",
+          "name": "Chris Tamayo",
+          "type": "artist",
+          "uri": "spotify:artist:3E6iMhi3fvbMBSwZk8aeeJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202700,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0baNybFt7c8tItNsOPcavy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0baNybFt7c8tItNsOPcavy",
+      "id": "0baNybFt7c8tItNsOPcavy",
+      "name": "Vacia",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0baNybFt7c8tItNsOPcavy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          },
+          "href": "https://api.spotify.com/v1/artists/7cYik4OyfBXYV5Z2TI7p90",
+          "id": "7cYik4OyfBXYV5Z2TI7p90",
+          "name": "FARIANA",
+          "type": "artist",
+          "uri": "spotify:artist:7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Ts9of7VPZElwPQnqnDSfW",
+          "id": "1Ts9of7VPZElwPQnqnDSfW",
+          "name": "Lyanno",
+          "type": "artist",
+          "uri": "spotify:artist:1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hIqJfRYGBWWT1Qxu6Cpd2",
+          "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+          "name": "Andy Rivera",
+          "type": "artist",
+          "uri": "spotify:artist:7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/74eDMgs91BoIZg1KHRcRt6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/74eDMgs91BoIZg1KHRcRt6",
+      "id": "74eDMgs91BoIZg1KHRcRt6",
+      "name": "Sentimientos Escondidos (Remix) (Remastered)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:74eDMgs91BoIZg1KHRcRt6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EUgbEytKrUGhA78TAv47m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6EUgbEytKrUGhA78TAv47m",
+      "id": "6EUgbEytKrUGhA78TAv47m",
+      "name": "No Te Vayas",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:6EUgbEytKrUGhA78TAv47m",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188760,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ofohpaq6vMhAvaLuC1EOv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ofohpaq6vMhAvaLuC1EOv",
+      "id": "3ofohpaq6vMhAvaLuC1EOv",
+      "name": "Abusa",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:3ofohpaq6vMhAvaLuC1EOv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XFITTl7cFTdopDY3lUdlY",
+          "id": "6XFITTl7cFTdopDY3lUdlY",
+          "name": "J Alvarez",
+          "type": "artist",
+          "uri": "spotify:artist:6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "type": "artist",
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pf0MPKfKdvS8J779mS1Ay",
+          "id": "1pf0MPKfKdvS8J779mS1Ay",
+          "name": "Miky Woodz",
+          "type": "artist",
+          "uri": "spotify:artist:1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5bWUlnPx9OYKsLiUJrhCA1",
+          "id": "5bWUlnPx9OYKsLiUJrhCA1",
+          "name": "Jon Z",
+          "type": "artist",
+          "uri": "spotify:artist:5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 293800,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ZigTgp3iJmyJbMfN0Wk3f"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ZigTgp3iJmyJbMfN0Wk3f",
+      "id": "2ZigTgp3iJmyJbMfN0Wk3f",
+      "name": "Si Mija Si",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:2ZigTgp3iJmyJbMfN0Wk3f",
+      "is_local": false
+    }
+  ]
+}

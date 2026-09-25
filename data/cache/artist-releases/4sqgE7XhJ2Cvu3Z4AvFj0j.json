@@ -1,0 +1,96 @@
+{
+  "artist_id": "4sqgE7XhJ2Cvu3Z4AvFj0j",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Uz95EDV2HXu0bvNmux9D9"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Uz95EDV2HXu0bvNmux9D9",
+      "id": "2Uz95EDV2HXu0bvNmux9D9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a78fc8fcb62bce7d2f7682ed",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a78fc8fcb62bce7d2f7682ed",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a78fc8fcb62bce7d2f7682ed",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Colors",
+      "release_date": "2012-04-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Uz95EDV2HXu0bvNmux9D9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sqgE7XhJ2Cvu3Z4AvFj0j"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sqgE7XhJ2Cvu3Z4AvFj0j",
+          "id": "4sqgE7XhJ2Cvu3Z4AvFj0j",
+          "name": "Eighty4 Fly",
+          "type": "artist",
+          "uri": "spotify:artist:4sqgE7XhJ2Cvu3Z4AvFj0j"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5SyFDA7wfnCPqpBIrH6Hzj"
+      },
+      "href": "https://api.spotify.com/v1/albums/5SyFDA7wfnCPqpBIrH6Hzj",
+      "id": "5SyFDA7wfnCPqpBIrH6Hzj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f62d63144fa5fc4e4df421d7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f62d63144fa5fc4e4df421d7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f62d63144fa5fc4e4df421d7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Eighty4 Fly Project",
+      "release_date": "2010-06-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5SyFDA7wfnCPqpBIrH6Hzj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sqgE7XhJ2Cvu3Z4AvFj0j"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sqgE7XhJ2Cvu3Z4AvFj0j",
+          "id": "4sqgE7XhJ2Cvu3Z4AvFj0j",
+          "name": "Eighty4 Fly",
+          "type": "artist",
+          "uri": "spotify:artist:4sqgE7XhJ2Cvu3Z4AvFj0j"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "artist_id": "2OqENqJFXPORP4BUGnu2Qq",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0tHdQpWYCp5KQVoWQNumMd"
+      },
+      "href": "https://api.spotify.com/v1/albums/0tHdQpWYCp5KQVoWQNumMd",
+      "id": "0tHdQpWYCp5KQVoWQNumMd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e58cd4451ae04cae6da4c387",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e58cd4451ae04cae6da4c387",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e58cd4451ae04cae6da4c387",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ATL's Finest (Special Edition)",
+      "release_date": "2022-11-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0tHdQpWYCp5KQVoWQNumMd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1wl7jiujRZFVEkXYMnR6Cu"
+      },
+      "href": "https://api.spotify.com/v1/albums/1wl7jiujRZFVEkXYMnR6Cu",
+      "id": "1wl7jiujRZFVEkXYMnR6Cu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273325dd42928b657b781af3b40",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02325dd42928b657b781af3b40",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851325dd42928b657b781af3b40",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Prince of the South & ATL's Finest (Special Edition)",
+      "release_date": "2022-11-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1wl7jiujRZFVEkXYMnR6Cu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          },
+          "href": "https://api.spotify.com/v1/artists/5einkgXXrjhfYCyac1FANB",
+          "id": "5einkgXXrjhfYCyac1FANB",
+          "name": "Lil Scrappy",
+          "type": "artist",
+          "uri": "spotify:artist:5einkgXXrjhfYCyac1FANB"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 32,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1a5d6XbWn4l56fy9T4PL77"
+      },
+      "href": "https://api.spotify.com/v1/albums/1a5d6XbWn4l56fy9T4PL77",
+      "id": "1a5d6XbWn4l56fy9T4PL77",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273467bf6ee656ce12daaac8c45",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02467bf6ee656ce12daaac8c45",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851467bf6ee656ce12daaac8c45",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Prince of the South & ATL's Finest (Deluxe Edition)",
+      "release_date": "2015-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1a5d6XbWn4l56fy9T4PL77",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          },
+          "href": "https://api.spotify.com/v1/artists/5einkgXXrjhfYCyac1FANB",
+          "id": "5einkgXXrjhfYCyac1FANB",
+          "name": "Lil Scrappy",
+          "type": "artist",
+          "uri": "spotify:artist:5einkgXXrjhfYCyac1FANB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4WYyjmFgYpwgorsjzoX6d8"
+      },
+      "href": "https://api.spotify.com/v1/albums/4WYyjmFgYpwgorsjzoX6d8",
+      "id": "4WYyjmFgYpwgorsjzoX6d8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ebd056d4660b2b3ba06da8c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020ebd056d4660b2b3ba06da8c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510ebd056d4660b2b3ba06da8c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Prince of the South / Atl's Finest (2 for 1: Special Edition)",
+      "release_date": "2011-03-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4WYyjmFgYpwgorsjzoX6d8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          },
+          "href": "https://api.spotify.com/v1/artists/5einkgXXrjhfYCyac1FANB",
+          "id": "5einkgXXrjhfYCyac1FANB",
+          "name": "Lil Scrappy",
+          "type": "artist",
+          "uri": "spotify:artist:5einkgXXrjhfYCyac1FANB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Qlnhrl9df2X7zi3KWpEsa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Qlnhrl9df2X7zi3KWpEsa",
+          "id": "1Qlnhrl9df2X7zi3KWpEsa",
+          "name": "Lil Scrappy, YoungBloodZ",
+          "type": "artist",
+          "uri": "spotify:artist:1Qlnhrl9df2X7zi3KWpEsa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0JTVLDonaPc8C0R2FqL19R"
+      },
+      "href": "https://api.spotify.com/v1/albums/0JTVLDonaPc8C0R2FqL19R",
+      "id": "0JTVLDonaPc8C0R2FqL19R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bdb5d73d1a180453bea3bd12",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bdb5d73d1a180453bea3bd12",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bdb5d73d1a180453bea3bd12",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ATL's Finest (Collector's Edition)",
+      "release_date": "2010-11-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0JTVLDonaPc8C0R2FqL19R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UxaWalnNHKWUjdLB681GS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UxaWalnNHKWUjdLB681GS",
+          "id": "5UxaWalnNHKWUjdLB681GS",
+          "name": "J-Bo",
+          "type": "artist",
+          "uri": "spotify:artist:5UxaWalnNHKWUjdLB681GS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Saez8YI1fc0uwmZIxiFJ7"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Saez8YI1fc0uwmZIxiFJ7",
+      "id": "2Saez8YI1fc0uwmZIxiFJ7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dae67b921cbec5955d48cbb9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dae67b921cbec5955d48cbb9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dae67b921cbec5955d48cbb9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ev'rybody Know Me",
+      "release_date": "2006-01-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Saez8YI1fc0uwmZIxiFJ7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Cq4aFoLu1OKc1XNZYdBnp"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Cq4aFoLu1OKc1XNZYdBnp",
+      "id": "6Cq4aFoLu1OKc1XNZYdBnp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a61fff98821b5ff9181815f6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a61fff98821b5ff9181815f6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a61fff98821b5ff9181815f6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Drankin' Patnaz",
+      "release_date": "2003-07-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Cq4aFoLu1OKc1XNZYdBnp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2njrmKukhsyfHpeRghSGLu"
+      },
+      "href": "https://api.spotify.com/v1/albums/2njrmKukhsyfHpeRghSGLu",
+      "id": "2njrmKukhsyfHpeRghSGLu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c60b6287e625b4817536e60",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c60b6287e625b4817536e60",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c60b6287e625b4817536e60",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Against Da Grain",
+      "release_date": "1999-10-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2njrmKukhsyfHpeRghSGLu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+          },
+          "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+          "id": "2OqENqJFXPORP4BUGnu2Qq",
+          "name": "Youngbloodz",
+          "type": "artist",
+          "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+        }
+      ]
+    }
+  ]
+}

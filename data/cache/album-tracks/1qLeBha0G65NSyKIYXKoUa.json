@@ -1,0 +1,725 @@
+{
+  "album_id": "1qLeBha0G65NSyKIYXKoUa",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ulZIID59tvIwcfTkiYLy5",
+          "id": "0ulZIID59tvIwcfTkiYLy5",
+          "name": "Joi",
+          "type": "artist",
+          "uri": "spotify:artist:0ulZIID59tvIwcfTkiYLy5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VZdtUfwS5jJoRNdJHbeG6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VZdtUfwS5jJoRNdJHbeG6",
+      "id": "1VZdtUfwS5jJoRNdJHbeG6",
+      "name": "Down - Instrumental",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1VZdtUfwS5jJoRNdJHbeG6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4eL5u4hLPA1AVPu8WdErqj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4eL5u4hLPA1AVPu8WdErqj",
+      "id": "4eL5u4hLPA1AVPu8WdErqj",
+      "name": "Talk to Me - Instrumental",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4eL5u4hLPA1AVPu8WdErqj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2fGzeZ2Wq9yg6h3zvAce5Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2fGzeZ2Wq9yg6h3zvAce5Y",
+      "id": "2fGzeZ2Wq9yg6h3zvAce5Y",
+      "name": "Legend Has It - Instrumental",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2fGzeZ2Wq9yg6h3zvAce5Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0rtAlz4yWazwm58hECrBy5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0rtAlz4yWazwm58hECrBy5",
+      "id": "0rtAlz4yWazwm58hECrBy5",
+      "name": "Call Ticketron - Instrumental",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0rtAlz4yWazwm58hECrBy5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aA592KWirLsnfb5ulGWvU",
+          "id": "7aA592KWirLsnfb5ulGWvU",
+          "name": "Danny Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2CUazrBA2CPJf0ev4Zp9PK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2CUazrBA2CPJf0ev4Zp9PK",
+      "id": "2CUazrBA2CPJf0ev4Zp9PK",
+      "name": "Hey Kids (Bumaye) - Instrumental",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2CUazrBA2CPJf0ev4Zp9PK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 207640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tfcgQN2lWMuk7KUxDYADJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7tfcgQN2lWMuk7KUxDYADJ",
+      "id": "7tfcgQN2lWMuk7KUxDYADJ",
+      "name": "Stay Gold - Instrumental",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7tfcgQN2lWMuk7KUxDYADJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/757RyPbil5WF1pr7CuPAPC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/757RyPbil5WF1pr7CuPAPC",
+      "id": "757RyPbil5WF1pr7CuPAPC",
+      "name": "Don't Get Captured - Instrumental",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:757RyPbil5WF1pr7CuPAPC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3and7uje1nuMnKJczCKox9",
+          "id": "3and7uje1nuMnKJczCKox9",
+          "name": "Tunde Adebimpe",
+          "type": "artist",
+          "uri": "spotify:artist:3and7uje1nuMnKJczCKox9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240386,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RzOwv0VELs3IRhlEG7d5u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RzOwv0VELs3IRhlEG7d5u",
+      "id": "5RzOwv0VELs3IRhlEG7d5u",
+      "name": "Thieves! (Screamed the Ghost) - Instrumental",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5RzOwv0VELs3IRhlEG7d5u",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZavV2znwg6dd6jxD94Pw3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZavV2znwg6dd6jxD94Pw3",
+          "id": "5ZavV2znwg6dd6jxD94Pw3",
+          "name": "BOOTS",
+          "type": "artist",
+          "uri": "spotify:artist:5ZavV2znwg6dd6jxD94Pw3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4G0fjNf7yceJMXM8zguWa1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4G0fjNf7yceJMXM8zguWa1",
+      "id": "4G0fjNf7yceJMXM8zguWa1",
+      "name": "2100 - Instrumental",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4G0fjNf7yceJMXM8zguWa1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PrinKSrmILmo0kERG0Ogn",
+          "id": "4PrinKSrmILmo0kERG0Ogn",
+          "name": "Trina",
+          "type": "artist",
+          "uri": "spotify:artist:4PrinKSrmILmo0kERG0Ogn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1CjgZ29JkT4PyZmPPsQahZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1CjgZ29JkT4PyZmPPsQahZ",
+      "id": "1CjgZ29JkT4PyZmPPsQahZ",
+      "name": "Panther Like a Panther (Miracle Mix) - Instrumental",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1CjgZ29JkT4PyZmPPsQahZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178599,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tFt1oKUrIbfRIDmEDfTJb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4tFt1oKUrIbfRIDmEDfTJb",
+      "id": "4tFt1oKUrIbfRIDmEDfTJb",
+      "name": "Everybody Stay Calm - Instrumental",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4tFt1oKUrIbfRIDmEDfTJb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2nLhmC3FSxJivYAYz5Mkde"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2nLhmC3FSxJivYAYz5Mkde",
+      "id": "2nLhmC3FSxJivYAYz5Mkde",
+      "name": "Oh Mama - Instrumental",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2nLhmC3FSxJivYAYz5Mkde",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HQYnRM4OzToCYPpVBInuU",
+          "id": "6HQYnRM4OzToCYPpVBInuU",
+          "name": "Kamasi Washington",
+          "type": "artist",
+          "uri": "spotify:artist:6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262613,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4aDBywv5F5uyTrd4VJ8VCc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4aDBywv5F5uyTrd4VJ8VCc",
+      "id": "4aDBywv5F5uyTrd4VJ8VCc",
+      "name": "Thursday in the Danger Room - Instrumental",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4aDBywv5F5uyTrd4VJ8VCc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist",
+          "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          },
+          "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist",
+          "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 374026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6tte4OjsJwSxY2lGiqNZfg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6tte4OjsJwSxY2lGiqNZfg",
+      "id": "6tte4OjsJwSxY2lGiqNZfg",
+      "name": "A Report to the Shareholders / Kill Your Masters - Instrumental",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6tte4OjsJwSxY2lGiqNZfg",
+      "is_local": false
+    }
+  ]
+}

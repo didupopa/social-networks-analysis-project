@@ -1,0 +1,930 @@
+{
+  "artist_id": "59NO6KX7wQCG7jGdtH1NtL",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ytCxYj7VYHMnaXdcnqHJC"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ytCxYj7VYHMnaXdcnqHJC",
+      "id": "4ytCxYj7VYHMnaXdcnqHJC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739d2269618b12ae0e815b7896",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029d2269618b12ae0e815b7896",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519d2269618b12ae0e815b7896",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "When Butterflies Become Unicorns",
+      "release_date": "2025-08-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ytCxYj7VYHMnaXdcnqHJC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ImTdXnOSgQhktOHba7N9S"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ImTdXnOSgQhktOHba7N9S",
+          "id": "0ImTdXnOSgQhktOHba7N9S",
+          "name": "Grenique",
+          "type": "artist",
+          "uri": "spotify:artist:0ImTdXnOSgQhktOHba7N9S"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dj0qcgNobhaBWRelISX43"
+      },
+      "href": "https://api.spotify.com/v1/albums/3dj0qcgNobhaBWRelISX43",
+      "id": "3dj0qcgNobhaBWRelISX43",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f347ec67037e06e2b8448b6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028f347ec67037e06e2b8448b6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518f347ec67037e06e2b8448b6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Winter In Love",
+      "release_date": "2025-02-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3dj0qcgNobhaBWRelISX43",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ClTUPBwUpZBSyt10dUVa1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ClTUPBwUpZBSyt10dUVa1",
+      "id": "4ClTUPBwUpZBSyt10dUVa1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737904c30020180a4975be6c23",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027904c30020180a4975be6c23",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517904c30020180a4975be6c23",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Love King Quarantine Sessions (Live) 5-12-21",
+      "release_date": "2024-08-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ClTUPBwUpZBSyt10dUVa1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3sfIMefaQo5xXnS4AxEaG1"
+      },
+      "href": "https://api.spotify.com/v1/albums/3sfIMefaQo5xXnS4AxEaG1",
+      "id": "3sfIMefaQo5xXnS4AxEaG1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273491fe6934680946b35a4b273",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02491fe6934680946b35a4b273",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851491fe6934680946b35a4b273",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Fall in Love",
+      "release_date": "2023-11-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3sfIMefaQo5xXnS4AxEaG1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/08iFyVOP2jdYCDYWxlj4aw"
+      },
+      "href": "https://api.spotify.com/v1/albums/08iFyVOP2jdYCDYWxlj4aw",
+      "id": "08iFyVOP2jdYCDYWxlj4aw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e1b0def5c6683da37af754f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021e1b0def5c6683da37af754f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511e1b0def5c6683da37af754f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Summer of Love",
+      "release_date": "2023-06-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:08iFyVOP2jdYCDYWxlj4aw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/30KIjBSM3C6FzgR4aRuncF"
+      },
+      "href": "https://api.spotify.com/v1/albums/30KIjBSM3C6FzgR4aRuncF",
+      "id": "30KIjBSM3C6FzgR4aRuncF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734943fbfd5c60dce81480f6b6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024943fbfd5c60dce81480f6b6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514943fbfd5c60dce81480f6b6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love Euphoria",
+      "release_date": "2023-02-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:30KIjBSM3C6FzgR4aRuncF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+          },
+          "href": "https://api.spotify.com/v1/artists/2CqMN6Wc7xALKwcrV2vqEW",
+          "id": "2CqMN6Wc7xALKwcrV2vqEW",
+          "name": "Vandell Andrew",
+          "type": "artist",
+          "uri": "spotify:artist:2CqMN6Wc7xALKwcrV2vqEW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KbzrjTYlv08KyvcblE8nT",
+          "id": "2KbzrjTYlv08KyvcblE8nT",
+          "name": "The Colleagues",
+          "type": "artist",
+          "uri": "spotify:artist:2KbzrjTYlv08KyvcblE8nT"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7GfGtTYmdqwKEbvzBMmoK6"
+      },
+      "href": "https://api.spotify.com/v1/albums/7GfGtTYmdqwKEbvzBMmoK6",
+      "id": "7GfGtTYmdqwKEbvzBMmoK6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731c6e1e91acf46d86b494e411",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021c6e1e91acf46d86b494e411",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511c6e1e91acf46d86b494e411",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Back 2 Love: Side Bee",
+      "release_date": "2022-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7GfGtTYmdqwKEbvzBMmoK6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2leVNDYvVvNjWr0aGMWXQc",
+          "id": "2leVNDYvVvNjWr0aGMWXQc",
+          "name": "Bee Boy$oul",
+          "type": "artist",
+          "uri": "spotify:artist:2leVNDYvVvNjWr0aGMWXQc"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ZLdzPexpu7tb068zRz503"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ZLdzPexpu7tb068zRz503",
+      "id": "4ZLdzPexpu7tb068zRz503",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730b80be94aaa5caba21b757e9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020b80be94aaa5caba21b757e9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510b80be94aaa5caba21b757e9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "From Lust Till Dawn",
+      "release_date": "2022-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ZLdzPexpu7tb068zRz503",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aPQUMh6FT9qZA97ZH6QZH"
+      },
+      "href": "https://api.spotify.com/v1/albums/5aPQUMh6FT9qZA97ZH6QZH",
+      "id": "5aPQUMh6FT9qZA97ZH6QZH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ae9c45ca24c3a97eb292e3ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ae9c45ca24c3a97eb292e3ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ae9c45ca24c3a97eb292e3ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Back 2 Love",
+      "release_date": "2022-01-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5aPQUMh6FT9qZA97ZH6QZH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2leVNDYvVvNjWr0aGMWXQc",
+          "id": "2leVNDYvVvNjWr0aGMWXQc",
+          "name": "Bee Boy$oul",
+          "type": "artist",
+          "uri": "spotify:artist:2leVNDYvVvNjWr0aGMWXQc"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ndXAGa9MHcxLD0sYIver2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ndXAGa9MHcxLD0sYIver2",
+      "id": "5ndXAGa9MHcxLD0sYIver2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27354e5829acf45ae49cf6d3bd7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0254e5829acf45ae49cf6d3bd7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485154e5829acf45ae49cf6d3bd7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lovesick",
+      "release_date": "2021-06-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5ndXAGa9MHcxLD0sYIver2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+          },
+          "href": "https://api.spotify.com/v1/artists/151BUVKmiB9rHDjIkgbeVE",
+          "id": "151BUVKmiB9rHDjIkgbeVE",
+          "name": "Apollo Brown",
+          "type": "artist",
+          "uri": "spotify:artist:151BUVKmiB9rHDjIkgbeVE"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4e77SQYoSi3XrJDQ5K9dMx"
+      },
+      "href": "https://api.spotify.com/v1/albums/4e77SQYoSi3XrJDQ5K9dMx",
+      "id": "4e77SQYoSi3XrJDQ5K9dMx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273da5376b1ea1d4074ed7ecc69",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02da5376b1ea1d4074ed7ecc69",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851da5376b1ea1d4074ed7ecc69",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "What A Time To Be In Love",
+      "release_date": "2020-11-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4e77SQYoSi3XrJDQ5K9dMx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0l0kaLnejtzx4eXplckkMh"
+      },
+      "href": "https://api.spotify.com/v1/albums/0l0kaLnejtzx4eXplckkMh",
+      "id": "0l0kaLnejtzx4eXplckkMh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7cd939dcb69dee989fb8105",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7cd939dcb69dee989fb8105",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a7cd939dcb69dee989fb8105",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Love Reunion",
+      "release_date": "2019-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0l0kaLnejtzx4eXplckkMh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1S2fDkeewgPtjYLBimtEBA"
+      },
+      "href": "https://api.spotify.com/v1/albums/1S2fDkeewgPtjYLBimtEBA",
+      "id": "1S2fDkeewgPtjYLBimtEBA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273872546d844652654f3c6630a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02872546d844652654f3c6630a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851872546d844652654f3c6630a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Decade Of A Love King",
+      "release_date": "2018-10-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1S2fDkeewgPtjYLBimtEBA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6wvxJdBYV5OelDEsFLsoxN"
+      },
+      "href": "https://api.spotify.com/v1/albums/6wvxJdBYV5OelDEsFLsoxN",
+      "id": "6wvxJdBYV5OelDEsFLsoxN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733055ee296d7104f90ec1e7ee",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023055ee296d7104f90ec1e7ee",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513055ee296d7104f90ec1e7ee",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love Sex Passion",
+      "release_date": "2015-02-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6wvxJdBYV5OelDEsFLsoxN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4WCqKHXvzyeXNyP6Qkzm9f"
+      },
+      "href": "https://api.spotify.com/v1/albums/4WCqKHXvzyeXNyP6Qkzm9f",
+      "id": "4WCqKHXvzyeXNyP6Qkzm9f",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731474d7358f67d523a9cc739e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021474d7358f67d523a9cc739e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511474d7358f67d523a9cc739e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Place Called Love Land",
+      "release_date": "2013-09-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4WCqKHXvzyeXNyP6Qkzm9f",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0mnSA6vwMV26v6GWIrRM7Q"
+      },
+      "href": "https://api.spotify.com/v1/albums/0mnSA6vwMV26v6GWIrRM7Q",
+      "id": "0mnSA6vwMV26v6GWIrRM7Q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27360e51f897a80925091c65c09",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0260e51f897a80925091c65c09",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485160e51f897a80925091c65c09",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Love & War MasterPeace",
+      "release_date": "2010-03-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0mnSA6vwMV26v6GWIrRM7Q",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 27,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1DSmQCv3bu0xCOJjR1IZKw"
+      },
+      "href": "https://api.spotify.com/v1/albums/1DSmQCv3bu0xCOJjR1IZKw",
+      "id": "1DSmQCv3bu0xCOJjR1IZKw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27318864409c18e6965b8e7d656",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0218864409c18e6965b8e7d656",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485118864409c18e6965b8e7d656",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Love & War MasterPeace - Deluxe Version",
+      "release_date": "2010-03-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1DSmQCv3bu0xCOJjR1IZKw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6MRP1XjnZ9tfZeYmVJ2rPc"
+      },
+      "href": "https://api.spotify.com/v1/albums/6MRP1XjnZ9tfZeYmVJ2rPc",
+      "id": "6MRP1XjnZ9tfZeYmVJ2rPc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27365d0ef0a2abb9043089aef70",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0265d0ef0a2abb9043089aef70",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485165d0ef0a2abb9043089aef70",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love Behind The Melody",
+      "release_date": "2008-08-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6MRP1XjnZ9tfZeYmVJ2rPc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2K6zl0mZX1togFDAmXQ67j"
+      },
+      "href": "https://api.spotify.com/v1/albums/2K6zl0mZX1togFDAmXQ67j",
+      "id": "2K6zl0mZX1togFDAmXQ67j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a27dfe0f11ac80d8ea950874",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a27dfe0f11ac80d8ea950874",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a27dfe0f11ac80d8ea950874",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live from SoHo - 2008",
+      "release_date": "2008-06-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2K6zl0mZX1togFDAmXQ67j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0LcsQqzPOSgRk9NrwIQmdu"
+      },
+      "href": "https://api.spotify.com/v1/albums/0LcsQqzPOSgRk9NrwIQmdu",
+      "id": "0LcsQqzPOSgRk9NrwIQmdu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1c202e69844d9295fcc1888",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1c202e69844d9295fcc1888",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d1c202e69844d9295fcc1888",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Love Experience",
+      "release_date": "2005-08-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0LcsQqzPOSgRk9NrwIQmdu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          },
+          "href": "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+          "id": "59NO6KX7wQCG7jGdtH1NtL",
+          "name": "Raheem DeVaughn",
+          "type": "artist",
+          "uri": "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ]
+    }
+  ]
+}

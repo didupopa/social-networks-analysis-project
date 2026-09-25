@@ -1,0 +1,589 @@
+{
+  "artist_id": "3UVRliakQfa1pMWIsNuiZ8",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
+      },
+      "href": "https://api.spotify.com/v1/albums/75gfDhxXd2V3SbWZUYhGia",
+      "id": "75gfDhxXd2V3SbWZUYhGia",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ffb2ddcae731fe2d2cbf791e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ffb2ddcae731fe2d2cbf791e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ffb2ddcae731fe2d2cbf791e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Victims & Villains",
+      "release_date": "2023-03-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:75gfDhxXd2V3SbWZUYhGia",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0cxIX05jsobNHoJbtW8crK"
+      },
+      "href": "https://api.spotify.com/v1/albums/0cxIX05jsobNHoJbtW8crK",
+      "id": "0cxIX05jsobNHoJbtW8crK",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735092c25b9e1e3c296a8341ae",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025092c25b9e1e3c296a8341ae",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515092c25b9e1e3c296a8341ae",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sobeautiful",
+      "release_date": "2019-12-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0cxIX05jsobNHoJbtW8crK",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48UctZI2LoXZxpvOww0Evc"
+      },
+      "href": "https://api.spotify.com/v1/albums/48UctZI2LoXZxpvOww0Evc",
+      "id": "48UctZI2LoXZxpvOww0Evc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27325023f3f21684e4a29e5c5aa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0225023f3f21684e4a29e5c5aa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485125023f3f21684e4a29e5c5aa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Feel The Real",
+      "release_date": "2017-09-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:48UctZI2LoXZxpvOww0Evc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dtyUtQnveItQUIoLXTF2O"
+      },
+      "href": "https://api.spotify.com/v1/albums/3dtyUtQnveItQUIoLXTF2O",
+      "id": "3dtyUtQnveItQUIoLXTF2O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec154b099f7b05ed4e812039",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec154b099f7b05ed4e812039",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ec154b099f7b05ed4e812039",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Life On Earth (Deluxe Edition)",
+      "release_date": "2016-04-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3dtyUtQnveItQUIoLXTF2O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/03cIhUudQeR1nWvwm0XI0p"
+      },
+      "href": "https://api.spotify.com/v1/albums/03cIhUudQeR1nWvwm0XI0p",
+      "id": "03cIhUudQeR1nWvwm0XI0p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27323b84ec8ef8b072273feac5c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0223b84ec8ef8b072273feac5c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485123b84ec8ef8b072273feac5c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "9ine",
+      "release_date": "2013-09-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:03cIhUudQeR1nWvwm0XI0p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lE6SEy8f84Zhjvp7r8yTD",
+          "id": "1lE6SEy8f84Zhjvp7r8yTD",
+          "name": "Syleena Johnson",
+          "type": "artist",
+          "uri": "spotify:artist:1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0AmXIqZEkN1es2WskxLOOP"
+      },
+      "href": "https://api.spotify.com/v1/albums/0AmXIqZEkN1es2WskxLOOP",
+      "id": "0AmXIqZEkN1es2WskxLOOP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273990555388d9bd2bc87ded57b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02990555388d9bd2bc87ded57b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851990555388d9bd2bc87ded57b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MUSIQINTHEMAGIQ",
+      "release_date": "2011-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0AmXIqZEkN1es2WskxLOOP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/75EB9Zg08Nyb7u1dnfNeqD"
+      },
+      "href": "https://api.spotify.com/v1/albums/75EB9Zg08Nyb7u1dnfNeqD",
+      "id": "75EB9Zg08Nyb7u1dnfNeqD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734139e3ef7d471cee1c770c8a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024139e3ef7d471cee1c770c8a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514139e3ef7d471cee1c770c8a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Christmas Musiq",
+      "release_date": "2009-10-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:75EB9Zg08Nyb7u1dnfNeqD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "href": "https://api.spotify.com/v1/albums/50kPvqerqvDdl0JoWNMukp",
+      "id": "50kPvqerqvDdl0JoWNMukp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27387182b0a619c6073e4473aa8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0287182b0a619c6073e4473aa8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485187182b0a619c6073e4473aa8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "onmyradio",
+      "release_date": "2008-11-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:50kPvqerqvDdl0JoWNMukp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1A3CjguiDD0CmlhtIqF0Hs"
+      },
+      "href": "https://api.spotify.com/v1/albums/1A3CjguiDD0CmlhtIqF0Hs",
+      "id": "1A3CjguiDD0CmlhtIqF0Hs",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b595b9345276773c6a8454a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028b595b9345276773c6a8454a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518b595b9345276773c6a8454a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Luvanmusiq",
+      "release_date": "2007-03-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1A3CjguiDD0CmlhtIqF0Hs",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Po5iqYV6QhLNxLowbCHg7"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Po5iqYV6QhLNxLowbCHg7",
+      "id": "4Po5iqYV6QhLNxLowbCHg7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3545a4a9bc4395373cb0ec0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3545a4a9bc4395373cb0ec0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3545a4a9bc4395373cb0ec0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "soulstar",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Po5iqYV6QhLNxLowbCHg7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "href": "https://api.spotify.com/v1/albums/070dWVyJIxcKQmxPRov0Y5",
+      "id": "070dWVyJIxcKQmxPRov0Y5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273767ea1c8f7edd378aa40b204",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02767ea1c8f7edd378aa40b204",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851767ea1c8f7edd378aa40b204",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Juslisen",
+      "release_date": "2002-05-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:070dWVyJIxcKQmxPRov0Y5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/39EcEkJbAgk98O8lHGEPte"
+      },
+      "href": "https://api.spotify.com/v1/albums/39EcEkJbAgk98O8lHGEPte",
+      "id": "39EcEkJbAgk98O8lHGEPte",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273032719915234d3b5e68cc448",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02032719915234d3b5e68cc448",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851032719915234d3b5e68cc448",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Aijuswannasing",
+      "release_date": "2000-11-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:39EcEkJbAgk98O8lHGEPte",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "href": "https://api.spotify.com/v1/albums/2RmMKj20xouC3Mqq1CyZ3c",
+      "id": "2RmMKj20xouC3Mqq1CyZ3c",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f307484a6b0203eae76e176b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f307484a6b0203eae76e176b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f307484a6b0203eae76e176b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Aijuswanaseing",
+      "release_date": "2000-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2RmMKj20xouC3Mqq1CyZ3c",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UVRliakQfa1pMWIsNuiZ8",
+          "id": "3UVRliakQfa1pMWIsNuiZ8",
+          "name": "Musiq Soulchild",
+          "type": "artist",
+          "uri": "spotify:artist:3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ]
+    }
+  ]
+}

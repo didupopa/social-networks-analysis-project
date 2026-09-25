@@ -1,0 +1,469 @@
+{
+  "album_id": "7gLgkzGuCfT1nFImEspzrJ",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223405,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7k3v584Z9uTwh8ceBAzbb1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7k3v584Z9uTwh8ceBAzbb1",
+      "id": "7k3v584Z9uTwh8ceBAzbb1",
+      "name": "Secrets",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7k3v584Z9uTwh8ceBAzbb1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226318,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lcuXYGdhE4x84hl5jTdoh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lcuXYGdhE4x84hl5jTdoh",
+      "id": "7lcuXYGdhE4x84hl5jTdoh",
+      "name": "So Far Away",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7lcuXYGdhE4x84hl5jTdoh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2cyyGl4qnHZL0o16t0fpJl",
+          "id": "2cyyGl4qnHZL0o16t0fpJl",
+          "name": "Angel Haze",
+          "type": "artist",
+          "uri": "spotify:artist:2cyyGl4qnHZL0o16t0fpJl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0pCNk4D3E2xtszsm6hMsWr",
+          "id": "0pCNk4D3E2xtszsm6hMsWr",
+          "name": "K.Flay",
+          "type": "artist",
+          "uri": "spotify:artist:0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292077,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7byFrRppaEjHxRRWiHazSw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7byFrRppaEjHxRRWiHazSw",
+      "id": "7byFrRppaEjHxRRWiHazSw",
+      "name": "Ribcage",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7byFrRppaEjHxRRWiHazSw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 68487,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5OB6vUzrZlBLorFC4iYGxc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5OB6vUzrZlBLorFC4iYGxc",
+      "id": "5OB6vUzrZlBLorFC4iYGxc",
+      "name": "Dear One",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5OB6vUzrZlBLorFC4iYGxc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227984,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2riXHfrJUjNrFpU54sqv2M"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2riXHfrJUjNrFpU54sqv2M",
+      "id": "2riXHfrJUjNrFpU54sqv2M",
+      "name": "When You Sleep",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2riXHfrJUjNrFpU54sqv2M",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 184849,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7shdZsk2NtaZAXjxitkek7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7shdZsk2NtaZAXjxitkek7",
+      "id": "7shdZsk2NtaZAXjxitkek7",
+      "name": "Chasing The Moon",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7shdZsk2NtaZAXjxitkek7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210374,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5zi8h8fld0K9I7Hk0Qw0J4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5zi8h8fld0K9I7Hk0Qw0J4",
+      "id": "5zi8h8fld0K9I7Hk0Qw0J4",
+      "name": "Jessie’s Girl",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5zi8h8fld0K9I7Hk0Qw0J4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0m5rybRQGXUFSa91ND1fee"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0m5rybRQGXUFSa91ND1fee",
+      "id": "0m5rybRQGXUFSa91ND1fee",
+      "name": "Monochromatic",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0m5rybRQGXUFSa91ND1fee",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189062,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2e4Wsw3Mlw8pe5Vr2SeO18"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2e4Wsw3Mlw8pe5Vr2SeO18",
+      "id": "2e4Wsw3Mlw8pe5Vr2SeO18",
+      "name": "Heart On My Sleeve",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2e4Wsw3Mlw8pe5Vr2SeO18",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227249,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5f5MKetSkROuYMT7waRhbt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5f5MKetSkROuYMT7waRhbt",
+      "id": "5f5MKetSkROuYMT7waRhbt",
+      "name": "Wounded Animal",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5f5MKetSkROuYMT7waRhbt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242557,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/382N0ALDSbUtJVZ0VPa4OZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/382N0ALDSbUtJVZ0VPa4OZ",
+      "id": "382N0ALDSbUtJVZ0VPa4OZ",
+      "name": "Sum Of Our Parts",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:382N0ALDSbUtJVZ0VPa4OZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233285,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mDxJZAbXze2sFfwrqZLGu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mDxJZAbXze2sFfwrqZLGu",
+      "id": "4mDxJZAbXze2sFfwrqZLGu",
+      "name": "Sing To Me",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4mDxJZAbXze2sFfwrqZLGu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211602,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0XstHVisiMWmEv5fjVgoCX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0XstHVisiMWmEv5fjVgoCX",
+      "id": "0XstHVisiMWmEv5fjVgoCX",
+      "name": "Assembly Line",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0XstHVisiMWmEv5fjVgoCX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180996,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4XPYs4qPc7pqnWbp6Bv3Nk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4XPYs4qPc7pqnWbp6Bv3Nk",
+      "id": "4XPYs4qPc7pqnWbp6Bv3Nk",
+      "name": "Just Got Home",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:4XPYs4qPc7pqnWbp6Bv3Nk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231520,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7AlfaXjfV3hPJ7RAgPXhP0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7AlfaXjfV3hPJ7RAgPXhP0",
+      "id": "7AlfaXjfV3hPJ7RAgPXhP0",
+      "name": "She Keeps Me Warm",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:7AlfaXjfV3hPJ7RAgPXhP0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z2NUZiY3FA00HKu5WTMhA",
+          "id": "5Z2NUZiY3FA00HKu5WTMhA",
+          "name": "Mary Lambert",
+          "type": "artist",
+          "uri": "spotify:artist:5Z2NUZiY3FA00HKu5WTMhA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233113,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5y6x4eSCFOgEt1H9omhI78"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5y6x4eSCFOgEt1H9omhI78",
+      "id": "5y6x4eSCFOgEt1H9omhI78",
+      "name": "Secrets",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5y6x4eSCFOgEt1H9omhI78",
+      "is_local": false
+    }
+  ]
+}

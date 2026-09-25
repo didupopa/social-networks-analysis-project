@@ -1,0 +1,96 @@
+{
+  "artist_id": "5YBSzuCs7WaFKNr7Bky0Uf",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0EgtVexsRGqSFz8fIdUOdX"
+      },
+      "href": "https://api.spotify.com/v1/albums/0EgtVexsRGqSFz8fIdUOdX",
+      "id": "0EgtVexsRGqSFz8fIdUOdX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c8e65d89df7105f1fa2c1a6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028c8e65d89df7105f1fa2c1a6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518c8e65d89df7105f1fa2c1a6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "You Are",
+      "release_date": "2024-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0EgtVexsRGqSFz8fIdUOdX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YBSzuCs7WaFKNr7Bky0Uf",
+          "id": "5YBSzuCs7WaFKNr7Bky0Uf",
+          "name": "Olivia",
+          "type": "artist",
+          "uri": "spotify:artist:5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1wcNVzisRgiRlqUCQkunAo"
+      },
+      "href": "https://api.spotify.com/v1/albums/1wcNVzisRgiRlqUCQkunAo",
+      "id": "1wcNVzisRgiRlqUCQkunAo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8ecb3ad3cfa4827753eea3a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8ecb3ad3cfa4827753eea3a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c8ecb3ad3cfa4827753eea3a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Olivia",
+      "release_date": "2001-06-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1wcNVzisRgiRlqUCQkunAo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YBSzuCs7WaFKNr7Bky0Uf",
+          "id": "5YBSzuCs7WaFKNr7Bky0Uf",
+          "name": "Olivia",
+          "type": "artist",
+          "uri": "spotify:artist:5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ]
+    }
+  ]
+}

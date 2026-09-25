@@ -1,0 +1,53 @@
+{
+  "artist_id": "28KOnhhvUnyvgRNXEQ41WL",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3UMRwO1RkgHyGvTJKYtYNG"
+      },
+      "href": "https://api.spotify.com/v1/albums/3UMRwO1RkgHyGvTJKYtYNG",
+      "id": "3UMRwO1RkgHyGvTJKYtYNG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731261a9289fd14f33eb8a86fb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021261a9289fd14f33eb8a86fb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511261a9289fd14f33eb8a86fb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Subliminal",
+      "release_date": "2022-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3UMRwO1RkgHyGvTJKYtYNG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL"
+          },
+          "href": "https://api.spotify.com/v1/artists/28KOnhhvUnyvgRNXEQ41WL",
+          "id": "28KOnhhvUnyvgRNXEQ41WL",
+          "name": "Hollis",
+          "type": "artist",
+          "uri": "spotify:artist:28KOnhhvUnyvgRNXEQ41WL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "artist_id": "4e0nWw2r4BoQSKPQ2zpU13",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Jkcr5p1FkmY1vYM5WPJtk",
+      "id": "2Jkcr5p1FkmY1vYM5WPJtk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27353046853c8b3e861c2ac8cf8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0253046853c8b3e861c2ac8cf8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485153046853c8b3e861c2ac8cf8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Thee Unknown",
+      "release_date": "2024-09-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Jkcr5p1FkmY1vYM5WPJtk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          },
+          "href": "https://api.spotify.com/v1/artists/4e0nWw2r4BoQSKPQ2zpU13",
+          "id": "4e0nWw2r4BoQSKPQ2zpU13",
+          "name": "Ray Dalton",
+          "type": "artist",
+          "uri": "spotify:artist:4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ]
+    }
+  ]
+}

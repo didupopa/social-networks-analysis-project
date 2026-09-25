@@ -1,0 +1,53 @@
+{
+  "artist_id": "5u4TJDB53ZDkB9ueZ6A2fm",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4M1ApId12FsrN1kmyvKu5g"
+      },
+      "href": "https://api.spotify.com/v1/albums/4M1ApId12FsrN1kmyvKu5g",
+      "id": "4M1ApId12FsrN1kmyvKu5g",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a773565ba342ab4e5411dafc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a773565ba342ab4e5411dafc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a773565ba342ab4e5411dafc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Turn It Over",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4M1ApId12FsrN1kmyvKu5g",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5u4TJDB53ZDkB9ueZ6A2fm"
+          },
+          "href": "https://api.spotify.com/v1/artists/5u4TJDB53ZDkB9ueZ6A2fm",
+          "id": "5u4TJDB53ZDkB9ueZ6A2fm",
+          "name": "Matt Ward",
+          "type": "artist",
+          "uri": "spotify:artist:5u4TJDB53ZDkB9ueZ6A2fm"
+        }
+      ]
+    }
+  ]
+}

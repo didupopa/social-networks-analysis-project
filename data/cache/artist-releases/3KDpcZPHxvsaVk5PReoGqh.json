@@ -1,0 +1,710 @@
+{
+  "artist_id": "3KDpcZPHxvsaVk5PReoGqh",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4yp4ryiYyXn4UuRE60TBns"
+      },
+      "href": "https://api.spotify.com/v1/albums/4yp4ryiYyXn4UuRE60TBns",
+      "id": "4yp4ryiYyXn4UuRE60TBns",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f30cbe0d029f65053ac430b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f30cbe0d029f65053ac430b5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f30cbe0d029f65053ac430b5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "EVITA: The Full Album",
+      "release_date": "2026-08-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4yp4ryiYyXn4UuRE60TBns",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+          "id": "4aP1lp10BRYZO658B2NwkG",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1q9hWC9JAJXjXwZN9aDKW3",
+          "id": "1q9hWC9JAJXjXwZN9aDKW3",
+          "name": "Rachel Zegler",
+          "type": "artist",
+          "uri": "spotify:artist:1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/028VQUXo5Gz4zOUVW9c1R9"
+          },
+          "href": "https://api.spotify.com/v1/artists/028VQUXo5Gz4zOUVW9c1R9",
+          "id": "028VQUXo5Gz4zOUVW9c1R9",
+          "name": "EVITA",
+          "type": "artist",
+          "uri": "spotify:artist:028VQUXo5Gz4zOUVW9c1R9"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 33,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+      },
+      "href": "https://api.spotify.com/v1/albums/27MXrcyr0fg5oABxibAMa5",
+      "id": "27MXrcyr0fg5oABxibAMa5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273709ef5dbbd301d0825aaa791",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02709ef5dbbd301d0825aaa791",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851709ef5dbbd301d0825aaa791",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CHESS the Musical (2025 Broadway Cast Recording)",
+      "release_date": "2026-04-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:27MXrcyr0fg5oABxibAMa5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0kV0e99xlTJcLKSu8KrLyp",
+          "id": "0kV0e99xlTJcLKSu8KrLyp",
+          "name": "Benny Andersson",
+          "type": "artist",
+          "uri": "spotify:artist:0kV0e99xlTJcLKSu8KrLyp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0mPU2UnsABdI1XEQucRJ4C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0mPU2UnsABdI1XEQucRJ4C",
+          "id": "0mPU2UnsABdI1XEQucRJ4C",
+          "name": "Björn Ulvaeus",
+          "type": "artist",
+          "uri": "spotify:artist:0mPU2UnsABdI1XEQucRJ4C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ATPhIzb8XiU20Tyo4F1n7"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ATPhIzb8XiU20Tyo4F1n7",
+      "id": "4ATPhIzb8XiU20Tyo4F1n7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27303d5418e1a0c47d011053fd9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0203d5418e1a0c47d011053fd9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485103d5418e1a0c47d011053fd9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Land of Sometimes (Original Motion Picture Soundtrack)",
+      "release_date": "2026-03-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ATPhIzb8XiU20Tyo4F1n7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3NgsK1tWaHynBkdHN4ZBA9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3NgsK1tWaHynBkdHN4ZBA9",
+          "id": "3NgsK1tWaHynBkdHN4ZBA9",
+          "name": "Terry Davies",
+          "type": "artist",
+          "uri": "spotify:artist:3NgsK1tWaHynBkdHN4ZBA9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7IRzcZ42hjkIAyZb09oT76"
+          },
+          "href": "https://api.spotify.com/v1/artists/7IRzcZ42hjkIAyZb09oT76",
+          "id": "7IRzcZ42hjkIAyZb09oT76",
+          "name": "Peter John Hobbs",
+          "type": "artist",
+          "uri": "spotify:artist:7IRzcZ42hjkIAyZb09oT76"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4PvhpR4qvoe5OUXU1kNHrq"
+      },
+      "href": "https://api.spotify.com/v1/albums/4PvhpR4qvoe5OUXU1kNHrq",
+      "id": "4PvhpR4qvoe5OUXU1kNHrq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27393fd4fa561b47ab53e987229",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0293fd4fa561b47ab53e987229",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485193fd4fa561b47ab53e987229",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "EVITA",
+      "release_date": "2025-10-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4PvhpR4qvoe5OUXU1kNHrq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+          "id": "4aP1lp10BRYZO658B2NwkG",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+          },
+          "href": "https://api.spotify.com/v1/artists/1q9hWC9JAJXjXwZN9aDKW3",
+          "id": "1q9hWC9JAJXjXwZN9aDKW3",
+          "name": "Rachel Zegler",
+          "type": "artist",
+          "uri": "spotify:artist:1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0HTbGHUu9qTXgQgiU3lLK5"
+      },
+      "href": "https://api.spotify.com/v1/albums/0HTbGHUu9qTXgQgiU3lLK5",
+      "id": "0HTbGHUu9qTXgQgiU3lLK5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a510e3701bb5e663d901839e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a510e3701bb5e663d901839e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a510e3701bb5e663d901839e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jesus Christ Superstar (An Australian Cast Recording) [Live at the Capitol Theatre]",
+      "release_date": "2018-04-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0HTbGHUu9qTXgQgiU3lLK5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+          "id": "4aP1lp10BRYZO658B2NwkG",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5GQLp4C9c8nSVbpUJtAD5U"
+      },
+      "href": "https://api.spotify.com/v1/albums/5GQLp4C9c8nSVbpUJtAD5U",
+      "id": "5GQLp4C9c8nSVbpUJtAD5U",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737429293c200e8011f915ba44",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027429293c200e8011f915ba44",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517429293c200e8011f915ba44",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Songs of Cricket",
+      "release_date": "2011-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5GQLp4C9c8nSVbpUJtAD5U",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qRuIAFUQtBjCNu2PUWliX"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qRuIAFUQtBjCNu2PUWliX",
+          "id": "2qRuIAFUQtBjCNu2PUWliX",
+          "name": "Cantabile – The London Quartet",
+          "type": "artist",
+          "uri": "spotify:artist:2qRuIAFUQtBjCNu2PUWliX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1JFthTGSxmQjURSutHVbrz"
+          },
+          "href": "https://api.spotify.com/v1/artists/1JFthTGSxmQjURSutHVbrz",
+          "id": "1JFthTGSxmQjURSutHVbrz",
+          "name": "Chris Hatt",
+          "type": "artist",
+          "uri": "spotify:artist:1JFthTGSxmQjURSutHVbrz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu"
+          },
+          "href": "https://api.spotify.com/v1/artists/17peneSLV6CavfRbQEACCu",
+          "id": "17peneSLV6CavfRbQEACCu",
+          "name": "Richard Stilgoe",
+          "type": "artist",
+          "uri": "spotify:artist:17peneSLV6CavfRbQEACCu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5F6uXOhWgpsIR2K5brxdGA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5F6uXOhWgpsIR2K5brxdGA",
+          "id": "5F6uXOhWgpsIR2K5brxdGA",
+          "name": "Eliza Lumley",
+          "type": "artist",
+          "uri": "spotify:artist:5F6uXOhWgpsIR2K5brxdGA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2eFJSe6qUgbxf6PL8PleSv"
+          },
+          "href": "https://api.spotify.com/v1/artists/2eFJSe6qUgbxf6PL8PleSv",
+          "id": "2eFJSe6qUgbxf6PL8PleSv",
+          "name": "Alexander L'Estrange",
+          "type": "artist",
+          "uri": "spotify:artist:2eFJSe6qUgbxf6PL8PleSv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6TMHKtI9PB7gxRZZMpgidz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6TMHKtI9PB7gxRZZMpgidz",
+          "id": "6TMHKtI9PB7gxRZZMpgidz",
+          "name": "Rory Bremner",
+          "type": "artist",
+          "uri": "spotify:artist:6TMHKtI9PB7gxRZZMpgidz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/10LIJjxY2IzmdQ3Nit4Chf"
+      },
+      "href": "https://api.spotify.com/v1/albums/10LIJjxY2IzmdQ3Nit4Chf",
+      "id": "10LIJjxY2IzmdQ3Nit4Chf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d87818f45bb406634070282a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d87818f45bb406634070282a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d87818f45bb406634070282a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Evita - German Cast Bremen",
+      "release_date": "2005-10-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:10LIJjxY2IzmdQ3Nit4Chf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/69Nf3BcltVI8usMR1DDd3n"
+          },
+          "href": "https://api.spotify.com/v1/artists/69Nf3BcltVI8usMR1DDd3n",
+          "id": "69Nf3BcltVI8usMR1DDd3n",
+          "name": "Anna Maria Kaufmann",
+          "type": "artist",
+          "uri": "spotify:artist:69Nf3BcltVI8usMR1DDd3n"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YdCl5921QwUPWnGgsDPFb"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YdCl5921QwUPWnGgsDPFb",
+          "id": "1YdCl5921QwUPWnGgsDPFb",
+          "name": "Ethan Freeman",
+          "type": "artist",
+          "uri": "spotify:artist:1YdCl5921QwUPWnGgsDPFb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+          "id": "4aP1lp10BRYZO658B2NwkG",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2I7Nf9Lsp3sLABQr9WUqCJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/2I7Nf9Lsp3sLABQr9WUqCJ",
+      "id": "2I7Nf9Lsp3sLABQr9WUqCJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27398c607fe9b8b4199baa5d3f6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0298c607fe9b8b4199baa5d3f6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485198c607fe9b8b4199baa5d3f6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jesus Christ Superstar (Complete Recording 1994 Studio Cast)",
+      "release_date": "1996-04-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2I7Nf9Lsp3sLABQr9WUqCJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xd7dzKtrSaUHXcV0kAWCS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xd7dzKtrSaUHXcV0kAWCS",
+          "id": "4xd7dzKtrSaUHXcV0kAWCS",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4xd7dzKtrSaUHXcV0kAWCS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 3,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2yIFJUqGVXypKdOp4jSbvv"
+      },
+      "href": "https://api.spotify.com/v1/albums/2yIFJUqGVXypKdOp4jSbvv",
+      "id": "2yIFJUqGVXypKdOp4jSbvv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738f5d295ade3a8065631b9f7c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028f5d295ade3a8065631b9f7c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518f5d295ade3a8065631b9f7c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "RPO Plays Suites From 'Aspects Of Love', 'Joseph And The Amazing Technicolor ® Dreamcoat' & 'Cats'",
+      "release_date": "1992-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2yIFJUqGVXypKdOp4jSbvv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4remWD57QYfxxK09fTAtfi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4remWD57QYfxxK09fTAtfi",
+          "id": "4remWD57QYfxxK09fTAtfi",
+          "name": "Darin Black",
+          "type": "artist",
+          "uri": "spotify:artist:4remWD57QYfxxK09fTAtfi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xd7dzKtrSaUHXcV0kAWCS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xd7dzKtrSaUHXcV0kAWCS",
+          "id": "4xd7dzKtrSaUHXcV0kAWCS",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4xd7dzKtrSaUHXcV0kAWCS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+          },
+          "href": "https://api.spotify.com/v1/artists/3bDa6cxOSTdU4tkmFgNSpA",
+          "id": "3bDa6cxOSTdU4tkmFgNSpA",
+          "name": "T. S. Eliot",
+          "type": "artist",
+          "uri": "spotify:artist:3bDa6cxOSTdU4tkmFgNSpA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MvSBMGRQJY3mRwIbJsqF1",
+          "id": "0MvSBMGRQJY3mRwIbJsqF1",
+          "name": "Royal Philharmonic Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qYg8qacV52YgAtAqf2VSD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qYg8qacV52YgAtAqf2VSD",
+          "id": "1qYg8qacV52YgAtAqf2VSD",
+          "name": "Tony Britton",
+          "type": "artist",
+          "uri": "spotify:artist:1qYg8qacV52YgAtAqf2VSD"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 23,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32tSaPx5IHoxZiZHXLhH61"
+      },
+      "href": "https://api.spotify.com/v1/albums/32tSaPx5IHoxZiZHXLhH61",
+      "id": "32tSaPx5IHoxZiZHXLhH61",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ff323b514009394f0c92b5d5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ff323b514009394f0c92b5d5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ff323b514009394f0c92b5d5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jesus Christ Superstar",
+      "release_date": "1970-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:32tSaPx5IHoxZiZHXLhH61",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+          "id": "4aP1lp10BRYZO658B2NwkG",
+          "name": "Andrew Lloyd Webber",
+          "type": "artist",
+          "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh",
+          "id": "3KDpcZPHxvsaVk5PReoGqh",
+          "name": "Tim Rice",
+          "type": "artist",
+          "uri": "spotify:artist:3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2temQjFlKHox5OfGiwCVPy"
+          },
+          "href": "https://api.spotify.com/v1/artists/2temQjFlKHox5OfGiwCVPy",
+          "id": "2temQjFlKHox5OfGiwCVPy",
+          "name": "Jesus Christ Superstar - The Original Studio Cast",
+          "type": "artist",
+          "uri": "spotify:artist:2temQjFlKHox5OfGiwCVPy"
+        }
+      ]
+    }
+  ]
+}

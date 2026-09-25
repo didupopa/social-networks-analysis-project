@@ -1,0 +1,696 @@
+{
+  "album_id": "4V9YrWvgabusfZVyWkgkhH",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 69160,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gD47jFbvmQMYGfDzBsIKP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6gD47jFbvmQMYGfDzBsIKP",
+      "id": "6gD47jFbvmQMYGfDzBsIKP",
+      "name": "Ascending",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6gD47jFbvmQMYGfDzBsIKP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4BILwEDIS4AbNra5tInS6F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4BILwEDIS4AbNra5tInS6F",
+      "id": "4BILwEDIS4AbNra5tInS6F",
+      "name": "The Thickets",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4BILwEDIS4AbNra5tInS6F",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Byc685CJoa9LjFTM8ZxL9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Byc685CJoa9LjFTM8ZxL9",
+      "id": "2Byc685CJoa9LjFTM8ZxL9",
+      "name": "Apple Of My Eye",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2Byc685CJoa9LjFTM8ZxL9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+          "id": "1l9d7B8W0IHy3LqWsxP2SH",
+          "name": "Phantogram",
+          "type": "artist",
+          "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 289013,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5d3rxZkalkF3e9RHYL7sHp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5d3rxZkalkF3e9RHYL7sHp",
+      "id": "5d3rxZkalkF3e9RHYL7sHp",
+      "name": "Objectum Sexuality",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5d3rxZkalkF3e9RHYL7sHp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+          "id": "4OBJLual30L7gRl5UkeRcT",
+          "name": "T.I.",
+          "type": "artist",
+          "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+          "id": "3ipn9JLAPI5GUEo4y4jcoi",
+          "name": "Ludacris",
+          "type": "artist",
+          "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 319613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qT6egFjh8uQDT8DKoITlV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qT6egFjh8uQDT8DKoITlV",
+      "id": "5qT6egFjh8uQDT8DKoITlV",
+      "name": "In The A",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5qT6egFjh8uQDT8DKoITlV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "type": "artist",
+          "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230293,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jeG01CFV8X0ABMMatvosT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jeG01CFV8X0ABMMatvosT",
+      "id": "3jeG01CFV8X0ABMMatvosT",
+      "name": "She Hates Me",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3jeG01CFV8X0ABMMatvosT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+          "id": "1l9d7B8W0IHy3LqWsxP2SH",
+          "name": "Phantogram",
+          "type": "artist",
+          "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kP1a41uG3wbgum7Xpo4pr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kP1a41uG3wbgum7Xpo4pr",
+      "id": "5kP1a41uG3wbgum7Xpo4pr",
+      "name": "CPU",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5kP1a41uG3wbgum7Xpo4pr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LdAPJNvzluvU3isU50ndc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LdAPJNvzluvU3isU50ndc",
+      "id": "5LdAPJNvzluvU3isU50ndc",
+      "name": "Thom Pettie",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5LdAPJNvzluvU3isU50ndc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AuMNF8rQAKOzjYppFNAoB",
+          "id": "3AuMNF8rQAKOzjYppFNAoB",
+          "name": "Kelly Rowland",
+          "type": "artist",
+          "uri": "spotify:artist:3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/402wvgEigPSSEl9HcNdL9U"
+      },
+      "href": "https://api.spotify.com/v1/tracks/402wvgEigPSSEl9HcNdL9U",
+      "id": "402wvgEigPSSEl9HcNdL9U",
+      "name": "Mama Told Me",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:402wvgEigPSSEl9HcNdL9U",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          },
+          "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist",
+          "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+          "id": "1l9d7B8W0IHy3LqWsxP2SH",
+          "name": "Phantogram",
+          "type": "artist",
+          "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7sg5Cjtw6rXfJ9j8UbYU7K"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7sg5Cjtw6rXfJ9j8UbYU7K",
+      "id": "7sg5Cjtw6rXfJ9j8UbYU7K",
+      "name": "Lines",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7sg5Cjtw6rXfJ9j8UbYU7K",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT",
+          "id": "5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B",
+          "type": "artist",
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6bUJpbekaIlq2fT5FMV2mQ",
+          "id": "6bUJpbekaIlq2fT5FMV2mQ",
+          "name": "Wavves",
+          "type": "artist",
+          "uri": "spotify:artist:6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/54zOIheSyT7pO32p7uitoc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/54zOIheSyT7pO32p7uitoc",
+      "id": "54zOIheSyT7pO32p7uitoc",
+      "name": "Shoes For Running",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:54zOIheSyT7pO32p7uitoc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2HOUiJNxGAiWdnVENQ9I84"
+          },
+          "href": "https://api.spotify.com/v1/artists/2HOUiJNxGAiWdnVENQ9I84",
+          "id": "2HOUiJNxGAiWdnVENQ9I84",
+          "name": "Mouche",
+          "type": "artist",
+          "uri": "spotify:artist:2HOUiJNxGAiWdnVENQ9I84"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2c6tGEUCx32UKeT5Xa8sJg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2c6tGEUCx32UKeT5Xa8sJg",
+          "id": "2c6tGEUCx32UKeT5Xa8sJg",
+          "name": "Scar",
+          "type": "artist",
+          "uri": "spotify:artist:2c6tGEUCx32UKeT5Xa8sJg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5nBpdGY8FsiG69eAJ33PvU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5nBpdGY8FsiG69eAJ33PvU",
+      "id": "5nBpdGY8FsiG69eAJ33PvU",
+      "name": "Raspberries",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5nBpdGY8FsiG69eAJ33PvU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3No12CB8EetIYpAX8jSjxe"
+          },
+          "href": "https://api.spotify.com/v1/artists/3No12CB8EetIYpAX8jSjxe",
+          "id": "3No12CB8EetIYpAX8jSjxe",
+          "name": "Bosko",
+          "type": "artist",
+          "uri": "spotify:artist:3No12CB8EetIYpAX8jSjxe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 321653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3KjoigawDh40ostPjOc1qU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3KjoigawDh40ostPjOc1qU",
+      "id": "3KjoigawDh40ostPjOc1qU",
+      "name": "Tremendous Damage",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3KjoigawDh40ostPjOc1qU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 350893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6LK3MWjifIaXisinJeAOUP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6LK3MWjifIaXisinJeAOUP",
+      "id": "6LK3MWjifIaXisinJeAOUP",
+      "name": "Descending",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6LK3MWjifIaXisinJeAOUP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          },
+          "href": "https://api.spotify.com/v1/artists/53wZLCnhshZKDRs3uopFBc",
+          "id": "53wZLCnhshZKDRs3uopFBc",
+          "name": "Jai Paul",
+          "type": "artist",
+          "uri": "spotify:artist:53wZLCnhshZKDRs3uopFBc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Tyzp9KzpiZ04DABQoedps",
+          "id": "6Tyzp9KzpiZ04DABQoedps",
+          "name": "Little Dragon",
+          "type": "artist",
+          "uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 143400,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0k6ZgmXzHIsju159Xq4mQF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0k6ZgmXzHIsju159Xq4mQF",
+      "id": "0k6ZgmXzHIsju159Xq4mQF",
+      "name": "Higher Res",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:0k6ZgmXzHIsju159Xq4mQF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ZhjJOJXXwnPS8PrXdmjLw",
+          "id": "6ZhjJOJXXwnPS8PrXdmjLw",
+          "name": "UGK",
+          "type": "artist",
+          "uri": "spotify:artist:6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/07aH0fmBKYDgGGPAnqopPh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/07aH0fmBKYDgGGPAnqopPh",
+      "id": "07aH0fmBKYDgGGPAnqopPh",
+      "name": "Gossip",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:07aH0fmBKYDgGGPAnqopPh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4EMtGVFvfCSrEmWaGV0roE",
+          "id": "4EMtGVFvfCSrEmWaGV0roE",
+          "name": "Theophilus London",
+          "type": "artist",
+          "uri": "spotify:artist:4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3KGMeBQG8sGlZTBtsNA4Im"
+          },
+          "href": "https://api.spotify.com/v1/artists/3KGMeBQG8sGlZTBtsNA4Im",
+          "id": "3KGMeBQG8sGlZTBtsNA4Im",
+          "name": "Tre Luce",
+          "type": "artist",
+          "uri": "spotify:artist:3KGMeBQG8sGlZTBtsNA4Im"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237106,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46UiVqriafq08zOnrM2Rzu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/46UiVqriafq08zOnrM2Rzu",
+      "id": "46UiVqriafq08zOnrM2Rzu",
+      "name": "She Said OK",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:46UiVqriafq08zOnrM2Rzu",
+      "is_local": false
+    }
+  ]
+}

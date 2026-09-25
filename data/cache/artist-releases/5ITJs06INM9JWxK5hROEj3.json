@@ -1,0 +1,139 @@
+{
+  "artist_id": "5ITJs06INM9JWxK5hROEj3",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Bn1qTaJlvy394kapD1gxL"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Bn1qTaJlvy394kapD1gxL",
+      "id": "4Bn1qTaJlvy394kapD1gxL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27319e46f04992e029848925d22",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0219e46f04992e029848925d22",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485119e46f04992e029848925d22",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dedicated",
+      "release_date": "2014-07-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Bn1qTaJlvy394kapD1gxL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ITJs06INM9JWxK5hROEj3",
+          "id": "5ITJs06INM9JWxK5hROEj3",
+          "name": "Alessandro Safina",
+          "type": "artist",
+          "uri": "spotify:artist:5ITJs06INM9JWxK5hROEj3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/08ubmWoQbXszcC11Pha47t"
+      },
+      "href": "https://api.spotify.com/v1/albums/08ubmWoQbXszcC11Pha47t",
+      "id": "08ubmWoQbXszcC11Pha47t",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273400103fc8641c9d725d61442",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02400103fc8641c9d725d61442",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851400103fc8641c9d725d61442",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Musica Di Te",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:08ubmWoQbXszcC11Pha47t",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ITJs06INM9JWxK5hROEj3",
+          "id": "5ITJs06INM9JWxK5hROEj3",
+          "name": "Alessandro Safina",
+          "type": "artist",
+          "uri": "spotify:artist:5ITJs06INM9JWxK5hROEj3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1XN7TNgfBZl8bEW7NAkMTY"
+      },
+      "href": "https://api.spotify.com/v1/albums/1XN7TNgfBZl8bEW7NAkMTY",
+      "id": "1XN7TNgfBZl8bEW7NAkMTY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27390ff5df9f2623ebee62ab2f6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0290ff5df9f2623ebee62ab2f6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485190ff5df9f2623ebee62ab2f6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Insieme A Te",
+      "release_date": "2001-02-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1XN7TNgfBZl8bEW7NAkMTY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ITJs06INM9JWxK5hROEj3",
+          "id": "5ITJs06INM9JWxK5hROEj3",
+          "name": "Alessandro Safina",
+          "type": "artist",
+          "uri": "spotify:artist:5ITJs06INM9JWxK5hROEj3"
+        }
+      ]
+    }
+  ]
+}

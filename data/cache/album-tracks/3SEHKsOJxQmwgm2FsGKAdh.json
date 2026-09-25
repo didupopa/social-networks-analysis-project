@@ -1,0 +1,384 @@
+{
+  "album_id": "3SEHKsOJxQmwgm2FsGKAdh",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 164693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3MxAwd4S1cHxdNLgvYoPt1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3MxAwd4S1cHxdNLgvYoPt1",
+      "id": "3MxAwd4S1cHxdNLgvYoPt1",
+      "name": "The Re-Introduction",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3MxAwd4S1cHxdNLgvYoPt1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GEcMpeGIad5O23WxDRFMn",
+          "id": "2GEcMpeGIad5O23WxDRFMn",
+          "name": "Rico Love",
+          "type": "artist",
+          "uri": "spotify:artist:2GEcMpeGIad5O23WxDRFMn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cmdFXNJqkEqS0whBPiqJ9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3cmdFXNJqkEqS0whBPiqJ9",
+      "id": "3cmdFXNJqkEqS0whBPiqJ9",
+      "name": "Break Em Down (feat. Rico Love)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3cmdFXNJqkEqS0whBPiqJ9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1M7kh8eVADNrnCR3PFLJkf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1M7kh8eVADNrnCR3PFLJkf",
+      "id": "1M7kh8eVADNrnCR3PFLJkf",
+      "name": "Philly",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1M7kh8eVADNrnCR3PFLJkf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GEcMpeGIad5O23WxDRFMn",
+          "id": "2GEcMpeGIad5O23WxDRFMn",
+          "name": "Rico Love",
+          "type": "artist",
+          "uri": "spotify:artist:2GEcMpeGIad5O23WxDRFMn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xD2crWO6uexqjMtsMgx1D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2xD2crWO6uexqjMtsMgx1D",
+      "id": "2xD2crWO6uexqjMtsMgx1D",
+      "name": "Take a Picture (feat. Rico Love)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2xD2crWO6uexqjMtsMgx1D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Jwr7hGoSNK3S3QBxh3T0z",
+          "id": "2Jwr7hGoSNK3S3QBxh3T0z",
+          "name": "Freeway",
+          "type": "artist",
+          "uri": "spotify:artist:2Jwr7hGoSNK3S3QBxh3T0z"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211120,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1H3GgNnHz3SLlkcVtFiWe1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1H3GgNnHz3SLlkcVtFiWe1",
+      "id": "1H3GgNnHz3SLlkcVtFiWe1",
+      "name": "Street Secrets (feat. Freeway)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1H3GgNnHz3SLlkcVtFiWe1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RfTXjK9aiiIKDaKUHpL57",
+          "id": "4RfTXjK9aiiIKDaKUHpL57",
+          "name": "Busy Signal",
+          "type": "artist",
+          "uri": "spotify:artist:4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203280,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7aYo5t9qcUJHN4Z5jLZFl8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7aYo5t9qcUJHN4Z5jLZFl8",
+      "id": "7aYo5t9qcUJHN4Z5jLZFl8",
+      "name": "My Money (feat. Busy Signal)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:7aYo5t9qcUJHN4Z5jLZFl8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5m3YoanRwmZlOkcWS7U8pK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5m3YoanRwmZlOkcWS7U8pK",
+          "id": "5m3YoanRwmZlOkcWS7U8pK",
+          "name": "Em Jay",
+          "type": "artist",
+          "uri": "spotify:artist:5m3YoanRwmZlOkcWS7U8pK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GEcMpeGIad5O23WxDRFMn",
+          "id": "2GEcMpeGIad5O23WxDRFMn",
+          "name": "Rico Love",
+          "type": "artist",
+          "uri": "spotify:artist:2GEcMpeGIad5O23WxDRFMn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VNVlfsL38ZIqv8voPw9UJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1VNVlfsL38ZIqv8voPw9UJ",
+      "id": "1VNVlfsL38ZIqv8voPw9UJ",
+      "name": "None of Dem (feat. Emjay & Rico Love)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1VNVlfsL38ZIqv8voPw9UJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209520,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7701frS7Rh9QVUV1bcT95s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7701frS7Rh9QVUV1bcT95s",
+      "id": "7701frS7Rh9QVUV1bcT95s",
+      "name": "I'm Choosin",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7701frS7Rh9QVUV1bcT95s",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5BE212iALXP0t9ZoyYrAHd"
+          },
+          "href": "https://api.spotify.com/v1/artists/5BE212iALXP0t9ZoyYrAHd",
+          "id": "5BE212iALXP0t9ZoyYrAHd",
+          "name": "Billy Blue",
+          "type": "artist",
+          "uri": "spotify:artist:5BE212iALXP0t9ZoyYrAHd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Bvix9vwYJqWxwGHkY4bgY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Bvix9vwYJqWxwGHkY4bgY",
+          "id": "7Bvix9vwYJqWxwGHkY4bgY",
+          "name": "JW",
+          "type": "artist",
+          "uri": "spotify:artist:7Bvix9vwYJqWxwGHkY4bgY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/656AMpNp0GasiVihDDO46z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/656AMpNp0GasiVihDDO46z",
+      "id": "656AMpNp0GasiVihDDO46z",
+      "name": "Top Notch (feat. Billy Blue & JW)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:656AMpNp0GasiVihDDO46z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 153200,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5YRr42AoYtut6d3sp1KAIj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5YRr42AoYtut6d3sp1KAIj",
+      "id": "5YRr42AoYtut6d3sp1KAIj",
+      "name": "Air Out",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5YRr42AoYtut6d3sp1KAIj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5IYKSQZErXLpHp74EIIHp1",
+          "id": "5IYKSQZErXLpHp74EIIHp1",
+          "name": "Young Chris",
+          "type": "artist",
+          "uri": "spotify:artist:5IYKSQZErXLpHp74EIIHp1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2lHNwRJT26DX6yn2DuO1q9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2lHNwRJT26DX6yn2DuO1q9",
+      "id": "2lHNwRJT26DX6yn2DuO1q9",
+      "name": "Harder to Leave",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2lHNwRJT26DX6yn2DuO1q9",
+      "is_local": false
+    }
+  ]
+}

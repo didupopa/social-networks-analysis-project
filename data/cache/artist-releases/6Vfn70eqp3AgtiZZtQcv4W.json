@@ -1,0 +1,63 @@
+{
+  "artist_id": "6Vfn70eqp3AgtiZZtQcv4W",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
+      },
+      "href": "https://api.spotify.com/v1/albums/0jMBAo2pk2cEE0aJ3WseMl",
+      "id": "0jMBAo2pk2cEE0aJ3WseMl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bbcb4589a7819ae8a28785ac",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bbcb4589a7819ae8a28785ac",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bbcb4589a7819ae8a28785ac",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sing Into My Mouth",
+      "release_date": "2015-07-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0jMBAo2pk2cEE0aJ3WseMl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          },
+          "href": "https://api.spotify.com/v1/artists/4M5nCE77Qaxayuhp3fVn4V",
+          "id": "4M5nCE77Qaxayuhp3fVn4V",
+          "name": "Iron & Wine",
+          "type": "artist",
+          "uri": "spotify:artist:4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Vfn70eqp3AgtiZZtQcv4W",
+          "id": "6Vfn70eqp3AgtiZZtQcv4W",
+          "name": "Ben Bridwell",
+          "type": "artist",
+          "uri": "spotify:artist:6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ]
+    }
+  ]
+}

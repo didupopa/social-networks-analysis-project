@@ -1,0 +1,662 @@
+{
+  "album_id": "1YGFt30HXv0gk27JjT7D6P",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 7694,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6E3iUaIlGw9IgPkpr1PgYp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6E3iUaIlGw9IgPkpr1PgYp",
+      "id": "6E3iUaIlGw9IgPkpr1PgYp",
+      "name": "Baby Patton Da Da",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6E3iUaIlGw9IgPkpr1PgYp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7mLPAoSWbJA32KNwwAkw19"
+          },
+          "href": "https://api.spotify.com/v1/artists/7mLPAoSWbJA32KNwwAkw19",
+          "id": "7mLPAoSWbJA32KNwwAkw19",
+          "name": "Kay-I",
+          "type": "artist",
+          "uri": "spotify:artist:7mLPAoSWbJA32KNwwAkw19"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208791,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5uAK8EDeSlppavSDDAa4OD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5uAK8EDeSlppavSDDAa4OD",
+      "id": "5uAK8EDeSlppavSDDAa4OD",
+      "name": "The Big Sleep is Over [Feat. Kay-I]",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5uAK8EDeSlppavSDDAa4OD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187818,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kTXAGMHRS4lpaCGH71xdC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kTXAGMHRS4lpaCGH71xdC",
+      "id": "6kTXAGMHRS4lpaCGH71xdC",
+      "name": "Lower Case (no cap) [Feat. Killer Mike]",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6kTXAGMHRS4lpaCGH71xdC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208058,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6OKAL4UntCG0xuX16laibl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6OKAL4UntCG0xuX16laibl",
+      "id": "6OKAL4UntCG0xuX16laibl",
+      "name": "Animalz",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6OKAL4UntCG0xuX16laibl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199791,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/51oPfGXkUg11QjRhJRjXef"
+      },
+      "href": "https://api.spotify.com/v1/tracks/51oPfGXkUg11QjRhJRjXef",
+      "id": "51oPfGXkUg11QjRhJRjXef",
+      "name": "Can't Sleep",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:51oPfGXkUg11QjRhJRjXef",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206386,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0U4p2UQIH8ZjbIARQHdmQk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0U4p2UQIH8ZjbIARQHdmQk",
+      "id": "0U4p2UQIH8ZjbIARQHdmQk",
+      "name": "Baller",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0U4p2UQIH8ZjbIARQHdmQk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8",
+          "id": "5nLYd9ST4Cnwy6NHaCxbj8",
+          "name": "CeeLo Green",
+          "type": "artist",
+          "uri": "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223047,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5L050dQzSd5smLKhRd8R1t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5L050dQzSd5smLKhRd8R1t",
+      "id": "5L050dQzSd5smLKhRd8R1t",
+      "name": "Intentions",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5L050dQzSd5smLKhRd8R1t",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234010,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2phQZIWt0uCwxypotFF6xg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2phQZIWt0uCwxypotFF6xg",
+      "id": "2phQZIWt0uCwxypotFF6xg",
+      "name": "In U",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2phQZIWt0uCwxypotFF6xg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223904,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63VQ0UYyBG9yrFElX833xh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63VQ0UYyBG9yrFElX833xh",
+      "id": "63VQ0UYyBG9yrFElX833xh",
+      "name": "Sucka Free [Feat. Killer Mike]",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:63VQ0UYyBG9yrFElX833xh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5dv8APPTzr44ecl6QqlDck"
+          },
+          "href": "https://api.spotify.com/v1/artists/5dv8APPTzr44ecl6QqlDck",
+          "id": "5dv8APPTzr44ecl6QqlDck",
+          "name": "RENEGADE EL REY",
+          "type": "artist",
+          "uri": "spotify:artist:5dv8APPTzr44ecl6QqlDck"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196591,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yp4by6kA90T9OKuabyOlH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yp4by6kA90T9OKuabyOlH",
+      "id": "5yp4by6kA90T9OKuabyOlH",
+      "name": "Recreation",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5yp4by6kA90T9OKuabyOlH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0AwyOBAL2R4q48pT8mmqKT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0AwyOBAL2R4q48pT8mmqKT",
+      "id": "0AwyOBAL2R4q48pT8mmqKT",
+      "name": "All You See",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0AwyOBAL2R4q48pT8mmqKT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39uOfkRb9XnAEW9zs3JCbb"
+          },
+          "href": "https://api.spotify.com/v1/artists/39uOfkRb9XnAEW9zs3JCbb",
+          "id": "39uOfkRb9XnAEW9zs3JCbb",
+          "name": "Big Rube",
+          "type": "artist",
+          "uri": "spotify:artist:39uOfkRb9XnAEW9zs3JCbb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qvIiE9YmyP02NLjufTxkX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qvIiE9YmyP02NLjufTxkX",
+          "id": "7qvIiE9YmyP02NLjufTxkX",
+          "name": "Organized Noize",
+          "type": "artist",
+          "uri": "spotify:artist:7qvIiE9YmyP02NLjufTxkX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260506,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2r26giZOFmMy8hFHjgbdFj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2r26giZOFmMy8hFHjgbdFj",
+      "id": "2r26giZOFmMy8hFHjgbdFj",
+      "name": "We The Ones [Feat. Killer Mike, Big Rube] - Organized Noize Remix",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2r26giZOFmMy8hFHjgbdFj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kf5KPLB7nXG4xYdI1QXoa",
+          "id": "5kf5KPLB7nXG4xYdI1QXoa",
+          "name": "Scotty ATL",
+          "type": "artist",
+          "uri": "spotify:artist:5kf5KPLB7nXG4xYdI1QXoa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221014,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5OdrD6B714RroY3DcW75Yh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5OdrD6B714RroY3DcW75Yh",
+      "id": "5OdrD6B714RroY3DcW75Yh",
+      "name": "Do Ya Best [Feat. Scotty ATL]",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5OdrD6B714RroY3DcW75Yh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist",
+          "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2zkto0g1GbzlSAINp3UiLh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2zkto0g1GbzlSAINp3UiLh",
+          "id": "2zkto0g1GbzlSAINp3UiLh",
+          "name": "Backbone",
+          "type": "artist",
+          "uri": "spotify:artist:2zkto0g1GbzlSAINp3UiLh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181186,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1sd67aYGs0HN1YLWzQKi6J"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1sd67aYGs0HN1YLWzQKi6J",
+      "id": "1sd67aYGs0HN1YLWzQKi6J",
+      "name": "Return of the Dope Boi [Feat. Killer Mike, Backbone]",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1sd67aYGs0HN1YLWzQKi6J",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ht3wxeT69CzyKFChNnNAB",
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi",
+          "type": "artist",
+          "uri": "spotify:artist:2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Dnu2NmddNymEI2LMZVH5v",
+          "id": "7Dnu2NmddNymEI2LMZVH5v",
+          "name": "Sleepy Brown",
+          "type": "artist",
+          "uri": "spotify:artist:7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192318,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5bplVRLqSBllzC1kp32c3J"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5bplVRLqSBllzC1kp32c3J",
+      "id": "5bplVRLqSBllzC1kp32c3J",
+      "name": "Doin' It",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:5bplVRLqSBllzC1kp32c3J",
+      "is_local": false
+    }
+  ]
+}
