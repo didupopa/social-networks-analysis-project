@@ -1,0 +1,53 @@
+{
+  "artist_id": "5PlfkPxwCpRRWQJBxCa0By",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "href": "https://api.spotify.com/v1/albums/2DqYYMyMxHuU8ckewgpPXG",
+      "id": "2DqYYMyMxHuU8ckewgpPXG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733c2eac0964d8ef1900f1c101",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023c2eac0964d8ef1900f1c101",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513c2eac0964d8ef1900f1c101",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Twenty One",
+      "release_date": "2026-06-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2DqYYMyMxHuU8ckewgpPXG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          },
+          "href": "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+          "id": "5PlfkPxwCpRRWQJBxCa0By",
+          "name": "HUGEL",
+          "type": "artist",
+          "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ]
+    }
+  ]
+}

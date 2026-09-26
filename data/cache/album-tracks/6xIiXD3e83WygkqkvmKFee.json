@@ -1,0 +1,549 @@
+{
+  "album_id": "6xIiXD3e83WygkqkvmKFee",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4XdWOaGnKUIvqw2wNqHtOa"
+          },
+          "href": "https://api.spotify.com/v1/artists/4XdWOaGnKUIvqw2wNqHtOa",
+          "id": "4XdWOaGnKUIvqw2wNqHtOa",
+          "name": "C.Stone",
+          "type": "artist",
+          "uri": "spotify:artist:4XdWOaGnKUIvqw2wNqHtOa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+          },
+          "href": "https://api.spotify.com/v1/artists/0st5vgzw9XkH5ALJiUM1lE",
+          "id": "0st5vgzw9XkH5ALJiUM1lE",
+          "name": "Slim Thug",
+          "type": "artist",
+          "uri": "spotify:artist:0st5vgzw9XkH5ALJiUM1lE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 581511,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2cY6whOF9j1IXXA76oxWSV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2cY6whOF9j1IXXA76oxWSV",
+      "id": "2cY6whOF9j1IXXA76oxWSV",
+      "name": "Somebody Lied (feat. C Stone, Lil Keke & Slim Thug)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2cY6whOF9j1IXXA76oxWSV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192809,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XbQZgHtBiUj3etDNkAlEE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XbQZgHtBiUj3etDNkAlEE",
+      "id": "5XbQZgHtBiUj3etDNkAlEE",
+      "name": "Mason Jars In the Lambo",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5XbQZgHtBiUj3etDNkAlEE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 376476,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/500BYFQVJQkGrB1YnZw0az"
+      },
+      "href": "https://api.spotify.com/v1/tracks/500BYFQVJQkGrB1YnZw0az",
+      "id": "500BYFQVJQkGrB1YnZw0az",
+      "name": "Too Turnt for a Store Run",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:500BYFQVJQkGrB1YnZw0az",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oouccpDDuphc2a5qUBJ50"
+          },
+          "href": "https://api.spotify.com/v1/artists/1oouccpDDuphc2a5qUBJ50",
+          "id": "1oouccpDDuphc2a5qUBJ50",
+          "name": "Stunna Bam",
+          "type": "artist",
+          "uri": "spotify:artist:1oouccpDDuphc2a5qUBJ50"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283924,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0fmqFgkMcrKBPPuiopVAue"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0fmqFgkMcrKBPPuiopVAue",
+      "id": "0fmqFgkMcrKBPPuiopVAue",
+      "name": "All I Know (feat. Stunna Bam)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0fmqFgkMcrKBPPuiopVAue",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 337502,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1BabqT6ngfiO2EmjMr2xN5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1BabqT6ngfiO2EmjMr2xN5",
+      "id": "1BabqT6ngfiO2EmjMr2xN5",
+      "name": "Demons Constant Torment",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1BabqT6ngfiO2EmjMr2xN5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6MrdwyCIKbpXmTKQBlG3uq",
+          "id": "6MrdwyCIKbpXmTKQBlG3uq",
+          "name": "Z-Ro",
+          "type": "artist",
+          "uri": "spotify:artist:6MrdwyCIKbpXmTKQBlG3uq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31RyGWziBGfdbaZk9ZSmTE"
+          },
+          "href": "https://api.spotify.com/v1/artists/31RyGWziBGfdbaZk9ZSmTE",
+          "id": "31RyGWziBGfdbaZk9ZSmTE",
+          "name": "Max Minelli",
+          "type": "artist",
+          "uri": "spotify:artist:31RyGWziBGfdbaZk9ZSmTE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 353097,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2SC2y9itnbQFlGsz589rfR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2SC2y9itnbQFlGsz589rfR",
+      "id": "2SC2y9itnbQFlGsz589rfR",
+      "name": "Move On (feat. Z-Ro & Max Minelli)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2SC2y9itnbQFlGsz589rfR",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 291892,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6o9LcdsbrYnGk6TS0Om8RK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6o9LcdsbrYnGk6TS0Om8RK",
+      "id": "6o9LcdsbrYnGk6TS0Om8RK",
+      "name": "Real Sippers",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6o9LcdsbrYnGk6TS0Om8RK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221126,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5l702pPnXTUHQJbguXQBcu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5l702pPnXTUHQJbguXQBcu",
+      "id": "5l702pPnXTUHQJbguXQBcu",
+      "name": "Haters Stay Watchin",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5l702pPnXTUHQJbguXQBcu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FJpfR5Bq5EBl2xi0LAp1v",
+          "id": "0FJpfR5Bq5EBl2xi0LAp1v",
+          "name": "Clyde Carson",
+          "type": "artist",
+          "uri": "spotify:artist:0FJpfR5Bq5EBl2xi0LAp1v"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256208,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2fEoe4ZsgOsqmsf0KrRfvk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2fEoe4ZsgOsqmsf0KrRfvk",
+      "id": "2fEoe4ZsgOsqmsf0KrRfvk",
+      "name": "Smokers Unite (feat. Clyde Carson)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2fEoe4ZsgOsqmsf0KrRfvk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 313547,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5y0Skmpi1eyWBqxtLpfgLc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5y0Skmpi1eyWBqxtLpfgLc",
+      "id": "5y0Skmpi1eyWBqxtLpfgLc",
+      "name": "I'm So Tho'd",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5y0Skmpi1eyWBqxtLpfgLc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200333,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/42QIi9lPk8aNjcjbNKApQn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/42QIi9lPk8aNjcjbNKApQn",
+      "id": "42QIi9lPk8aNjcjbNKApQn",
+      "name": "Kush Crusade",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:42QIi9lPk8aNjcjbNKApQn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ywRWCFZG6Xd5xUJClpLAg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ywRWCFZG6Xd5xUJClpLAg",
+          "id": "4ywRWCFZG6Xd5xUJClpLAg",
+          "name": "Pure",
+          "type": "artist",
+          "uri": "spotify:artist:4ywRWCFZG6Xd5xUJClpLAg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 331102,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7hKWN5JqRW9wHpj5ecSgtA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7hKWN5JqRW9wHpj5ecSgtA",
+      "id": "7hKWN5JqRW9wHpj5ecSgtA",
+      "name": "Countin Pockets (feat. Pure)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7hKWN5JqRW9wHpj5ecSgtA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 461061,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mmVT5pxfD3BulCnmJjazc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mmVT5pxfD3BulCnmJjazc",
+      "id": "4mmVT5pxfD3BulCnmJjazc",
+      "name": "To the Moon and Back",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4mmVT5pxfD3BulCnmJjazc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 356127,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2fREAkHyBh1iwg7rr9HGJI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2fREAkHyBh1iwg7rr9HGJI",
+      "id": "2fREAkHyBh1iwg7rr9HGJI",
+      "name": "True 2 da Game",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:2fREAkHyBh1iwg7rr9HGJI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 225541,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1SCMRsUuNwzCiVTNVOYcbB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1SCMRsUuNwzCiVTNVOYcbB",
+      "id": "1SCMRsUuNwzCiVTNVOYcbB",
+      "name": "Gas On Hold",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1SCMRsUuNwzCiVTNVOYcbB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0k7Xl1pqI3tu8sSEjo5oEg",
+          "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+          "name": "Paul Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3RmX2bn1EK6OU8wjdmcZeq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3RmX2bn1EK6OU8wjdmcZeq",
+          "id": "3RmX2bn1EK6OU8wjdmcZeq",
+          "name": "Crys Wall",
+          "type": "artist",
+          "uri": "spotify:artist:3RmX2bn1EK6OU8wjdmcZeq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0kEx0rDqZmHAa87wYk6OrG"
+          },
+          "href": "https://api.spotify.com/v1/artists/0kEx0rDqZmHAa87wYk6OrG",
+          "id": "0kEx0rDqZmHAa87wYk6OrG",
+          "name": "Baby Doll Wall",
+          "type": "artist",
+          "uri": "spotify:artist:0kEx0rDqZmHAa87wYk6OrG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2hehYEKfL4DL17nbaL3H8G"
+          },
+          "href": "https://api.spotify.com/v1/artists/2hehYEKfL4DL17nbaL3H8G",
+          "id": "2hehYEKfL4DL17nbaL3H8G",
+          "name": "Will Wall",
+          "type": "artist",
+          "uri": "spotify:artist:2hehYEKfL4DL17nbaL3H8G"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 385515,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0rlDPe0l2YbwQIe88jxwt5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0rlDPe0l2YbwQIe88jxwt5",
+      "id": "0rlDPe0l2YbwQIe88jxwt5",
+      "name": "Times Comin (feat. Crys Wall, Baby Doll Wall & Will Wall)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:0rlDPe0l2YbwQIe88jxwt5",
+      "is_local": false
+    }
+  ]
+}

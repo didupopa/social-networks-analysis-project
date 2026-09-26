@@ -1,0 +1,53 @@
+{
+  "artist_id": "5gWzmnHTLNXz5CjOc0wAuK",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P"
+      },
+      "href": "https://api.spotify.com/v1/albums/17AFgJa777rVq5X0wdiD6P",
+      "id": "17AFgJa777rVq5X0wdiD6P",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec03ca60ff6d989a8ab41242",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec03ca60ff6d989a8ab41242",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ec03ca60ff6d989a8ab41242",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Fkn Love Myself",
+      "release_date": "2021-03-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:17AFgJa777rVq5X0wdiD6P",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5gWzmnHTLNXz5CjOc0wAuK",
+          "id": "5gWzmnHTLNXz5CjOc0wAuK",
+          "name": "Romy Dya",
+          "type": "artist",
+          "uri": "spotify:artist:5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ]
+    }
+  ]
+}

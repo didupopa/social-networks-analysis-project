@@ -1,0 +1,811 @@
+{
+  "artist_id": "68DWke2VjdDmA75aJX5C57",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6l3GTUCkCC6Go5P4aZKGym"
+      },
+      "href": "https://api.spotify.com/v1/albums/6l3GTUCkCC6Go5P4aZKGym",
+      "id": "6l3GTUCkCC6Go5P4aZKGym",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273381a2aa3494a850b47b878dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02381a2aa3494a850b47b878dc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851381a2aa3494a850b47b878dc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Whiskey & Roses",
+      "release_date": "2025-07-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6l3GTUCkCC6Go5P4aZKGym",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KzsvQpIXnQCEyvSS53h5W",
+          "id": "2KzsvQpIXnQCEyvSS53h5W",
+          "name": "J. Michael Phillips",
+          "type": "artist",
+          "uri": "spotify:artist:2KzsvQpIXnQCEyvSS53h5W"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3EEFJJ4z0dlNCGp2YpVj1m"
+      },
+      "href": "https://api.spotify.com/v1/albums/3EEFJJ4z0dlNCGp2YpVj1m",
+      "id": "3EEFJJ4z0dlNCGp2YpVj1m",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27374ef09de51120b2e61dc56fc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0274ef09de51120b2e61dc56fc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485174ef09de51120b2e61dc56fc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "War Story",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3EEFJJ4z0dlNCGp2YpVj1m",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ZFqRtDxJIX8qHgQMAeJuT"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ZFqRtDxJIX8qHgQMAeJuT",
+      "id": "0ZFqRtDxJIX8qHgQMAeJuT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b02c90f339a6a7dac3cebd83",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b02c90f339a6a7dac3cebd83",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b02c90f339a6a7dac3cebd83",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sometimes Y",
+      "release_date": "2022-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ZFqRtDxJIX8qHgQMAeJuT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0F6yRPhUj9fUzWn0z3ysyr",
+          "id": "0F6yRPhUj9fUzWn0z3ysyr",
+          "name": "Shooter Jennings",
+          "type": "artist",
+          "uri": "spotify:artist:0F6yRPhUj9fUzWn0z3ysyr"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I"
+      },
+      "href": "https://api.spotify.com/v1/albums/2gCg9nIRbDzzAAdBFXdK6I",
+      "id": "2gCg9nIRbDzzAAdBFXdK6I",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27339ff5634f8dce027635b73de",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0239ff5634f8dce027635b73de",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485139ff5634f8dce027635b73de",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mud Mouth",
+      "release_date": "2021-04-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2gCg9nIRbDzzAAdBFXdK6I",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EqCld1oPG9E3r79vvSRH7"
+      },
+      "href": "https://api.spotify.com/v1/albums/6EqCld1oPG9E3r79vvSRH7",
+      "id": "6EqCld1oPG9E3r79vvSRH7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e9316376c15bfa10314fd063",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e9316376c15bfa10314fd063",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e9316376c15bfa10314fd063",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mile Zero",
+      "release_date": "2021-04-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6EqCld1oPG9E3r79vvSRH7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pDkjftAxiFHomWsPNkapS",
+          "id": "7pDkjftAxiFHomWsPNkapS",
+          "name": "DJ Muggs",
+          "type": "artist",
+          "uri": "spotify:artist:7pDkjftAxiFHomWsPNkapS"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5DNbsXxquVJ5xfcIC9Mz6m"
+      },
+      "href": "https://api.spotify.com/v1/albums/5DNbsXxquVJ5xfcIC9Mz6m",
+      "id": "5DNbsXxquVJ5xfcIC9Mz6m",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273793acdd278506741526e5787",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02793acdd278506741526e5787",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851793acdd278506741526e5787",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Slumafia",
+      "release_date": "2021-04-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5DNbsXxquVJ5xfcIC9Mz6m",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ledyuziz6YjLK5Dw483Oc",
+          "id": "2ledyuziz6YjLK5Dw483Oc",
+          "name": "DJ Paul",
+          "type": "artist",
+          "uri": "spotify:artist:2ledyuziz6YjLK5Dw483Oc"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1h97T5Edn4s9cPgp84SQhY"
+      },
+      "href": "https://api.spotify.com/v1/albums/1h97T5Edn4s9cPgp84SQhY",
+      "id": "1h97T5Edn4s9cPgp84SQhY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fb4bc611a967c9ab9c208878",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fb4bc611a967c9ab9c208878",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fb4bc611a967c9ab9c208878",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "TURQUOiSE TORNADO",
+      "release_date": "2021-04-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1h97T5Edn4s9cPgp84SQhY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+          },
+          "href": "https://api.spotify.com/v1/artists/31IZdHrCZ5pRhLz4zBxN3o",
+          "id": "31IZdHrCZ5pRhLz4zBxN3o",
+          "name": "Riff Raff",
+          "type": "artist",
+          "uri": "spotify:artist:31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BuxO3aiE8Vzw3piIe0iYg"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BuxO3aiE8Vzw3piIe0iYg",
+      "id": "7BuxO3aiE8Vzw3piIe0iYg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273729f9c9e1f76f8f8e7f090d0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02729f9c9e1f76f8f8e7f090d0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851729f9c9e1f76f8f8e7f090d0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Yelawolf Blacksheep",
+      "release_date": "2021-02-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7BuxO3aiE8Vzw3piIe0iYg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk"
+          },
+          "href": "https://api.spotify.com/v1/artists/7nVgP0ISalazUzugR7D8zk",
+          "id": "7nVgP0ISalazUzugR7D8zk",
+          "name": "Caskey",
+          "type": "artist",
+          "uri": "spotify:artist:7nVgP0ISalazUzugR7D8zk"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2dTnaecImWLJOMrJgF5HAt"
+      },
+      "href": "https://api.spotify.com/v1/albums/2dTnaecImWLJOMrJgF5HAt",
+      "id": "2dTnaecImWLJOMrJgF5HAt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736594f5017768803de9ddd719",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026594f5017768803de9ddd719",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516594f5017768803de9ddd719",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ghetto Cowboy",
+      "release_date": "2019-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2dTnaecImWLJOMrJgF5HAt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JLpYHnehuGyPxEz79kcaF"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JLpYHnehuGyPxEz79kcaF",
+      "id": "6JLpYHnehuGyPxEz79kcaF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb182a050150ad2a2a6d2ff3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb182a050150ad2a2a6d2ff3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb182a050150ad2a2a6d2ff3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trunk Muzik 3",
+      "release_date": "2019-03-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6JLpYHnehuGyPxEz79kcaF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2mDyf8UWqMGUWRsWVVXDqd"
+      },
+      "href": "https://api.spotify.com/v1/albums/2mDyf8UWqMGUWRsWVVXDqd",
+      "id": "2mDyf8UWqMGUWRsWVVXDqd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27330511eab545df2b7d2dbf668",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0230511eab545df2b7d2dbf668",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485130511eab545df2b7d2dbf668",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trial By Fire",
+      "release_date": "2017-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2mDyf8UWqMGUWRsWVVXDqd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4mugszxpE45gV3mObOBlpN"
+      },
+      "href": "https://api.spotify.com/v1/albums/4mugszxpE45gV3mObOBlpN",
+      "id": "4mugszxpE45gV3mObOBlpN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27385b51e47b16a87b82c252dc5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0285b51e47b16a87b82c252dc5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485185b51e47b16a87b82c252dc5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Love Story",
+      "release_date": "2015-04-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4mugszxpE45gV3mObOBlpN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0KGoBky6o708TiuT6BCmr1"
+      },
+      "href": "https://api.spotify.com/v1/albums/0KGoBky6o708TiuT6BCmr1",
+      "id": "0KGoBky6o708TiuT6BCmr1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732221daf0f9237ff4b9db4f10",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022221daf0f9237ff4b9db4f10",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512221daf0f9237ff4b9db4f10",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trunk Muzik Returns",
+      "release_date": "2013-03-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0KGoBky6o708TiuT6BCmr1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ELRTvcbBH49QhVbbN2xYN"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ELRTvcbBH49QhVbbN2xYN",
+          "id": "0ELRTvcbBH49QhVbbN2xYN",
+          "name": "WLPWR",
+          "type": "artist",
+          "uri": "spotify:artist:0ELRTvcbBH49QhVbbN2xYN"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0l53NPQef4eLh7UDcG9gtJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0l53NPQef4eLh7UDcG9gtJ",
+      "id": "0l53NPQef4eLh7UDcG9gtJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27364b433ce7484ebc9c0628999",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0264b433ce7484ebc9c0628999",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485164b433ce7484ebc9c0628999",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Radioactive (Deluxe Explicit Version)",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0l53NPQef4eLh7UDcG9gtJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0blTGHbSwlQ85Fpyb2JD3v"
+      },
+      "href": "https://api.spotify.com/v1/albums/0blTGHbSwlQ85Fpyb2JD3v",
+      "id": "0blTGHbSwlQ85Fpyb2JD3v",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b313c0163f68c72e1f1aad5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029b313c0163f68c72e1f1aad5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519b313c0163f68c72e1f1aad5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Radioactive (Explicit Version)",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0blTGHbSwlQ85Fpyb2JD3v",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Vg7HgTCyGdcRikqPGhPl4"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Vg7HgTCyGdcRikqPGhPl4",
+      "id": "6Vg7HgTCyGdcRikqPGhPl4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27373ea1053732f7b4d773980ec",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0273ea1053732f7b4d773980ec",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485173ea1053732f7b4d773980ec",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trunk Muzik 0-60",
+      "release_date": "2010-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Vg7HgTCyGdcRikqPGhPl4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BrX6yAhizuYPEkGpEK0j9"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BrX6yAhizuYPEkGpEK0j9",
+      "id": "7BrX6yAhizuYPEkGpEK0j9",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b8d70a6255d2d315292eccb3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b8d70a6255d2d315292eccb3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b8d70a6255d2d315292eccb3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "CreekWater",
+      "release_date": "2005-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7BrX6yAhizuYPEkGpEK0j9",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          },
+          "href": "https://api.spotify.com/v1/artists/68DWke2VjdDmA75aJX5C57",
+          "id": "68DWke2VjdDmA75aJX5C57",
+          "name": "Yelawolf",
+          "type": "artist",
+          "uri": "spotify:artist:68DWke2VjdDmA75aJX5C57"
+        }
+      ]
+    }
+  ]
+}

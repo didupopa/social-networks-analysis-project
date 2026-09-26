@@ -1,0 +1,53 @@
+{
+  "artist_id": "4mPrHfhtQUBoHgTxkBieLY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3IuLSuBWYe2kAvjOjXcdkJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3IuLSuBWYe2kAvjOjXcdkJ",
+      "id": "3IuLSuBWYe2kAvjOjXcdkJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737888312fe40f9694bd23688e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027888312fe40f9694bd23688e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517888312fe40f9694bd23688e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "8TH WD F.I.U",
+      "release_date": "2024-12-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3IuLSuBWYe2kAvjOjXcdkJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4mPrHfhtQUBoHgTxkBieLY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4mPrHfhtQUBoHgTxkBieLY",
+          "id": "4mPrHfhtQUBoHgTxkBieLY",
+          "name": "VickeeLo",
+          "type": "artist",
+          "uri": "spotify:artist:4mPrHfhtQUBoHgTxkBieLY"
+        }
+      ]
+    }
+  ]
+}

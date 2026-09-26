@@ -1,0 +1,658 @@
+{
+  "album_id": "4OGhIJl16HymVRe2sm7Icn",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276886,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dg11pOuvrsFYDCClsmKnK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5dg11pOuvrsFYDCClsmKnK",
+      "id": "5dg11pOuvrsFYDCClsmKnK",
+      "name": "Piped Up - Swisha House Remix",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5dg11pOuvrsFYDCClsmKnK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4a3tPkWa3ITrqaYGGW3jFy"
+          },
+          "href": "https://api.spotify.com/v1/artists/4a3tPkWa3ITrqaYGGW3jFy",
+          "id": "4a3tPkWa3ITrqaYGGW3jFy",
+          "name": "Ronnetta Spencer",
+          "type": "artist",
+          "uri": "spotify:artist:4a3tPkWa3ITrqaYGGW3jFy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0CO5ZHAqZIdmOHQy2FvWeI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0CO5ZHAqZIdmOHQy2FvWeI",
+      "id": "0CO5ZHAqZIdmOHQy2FvWeI",
+      "name": "Sensei - Swisha House Remix",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0CO5ZHAqZIdmOHQy2FvWeI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ix09kkqd9kYVXqzqWWJFf"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ix09kkqd9kYVXqzqWWJFf",
+          "id": "3ix09kkqd9kYVXqzqWWJFf",
+          "name": "DJ X.O.",
+          "type": "artist",
+          "uri": "spotify:artist:3ix09kkqd9kYVXqzqWWJFf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199923,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0eF55QDXhLGHVzGtLHZ3KU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0eF55QDXhLGHVzGtLHZ3KU",
+      "id": "0eF55QDXhLGHVzGtLHZ3KU",
+      "name": "I’m Back - Swisha House Remix",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0eF55QDXhLGHVzGtLHZ3KU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/1grI9x4Uzos1Asx8JmRW6T",
+          "id": "1grI9x4Uzos1Asx8JmRW6T",
+          "name": "Lil' Keke",
+          "type": "artist",
+          "uri": "spotify:artist:1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wXB1KFz7pWONsuAGFH6lT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wXB1KFz7pWONsuAGFH6lT",
+          "id": "4wXB1KFz7pWONsuAGFH6lT",
+          "name": "D-Bando",
+          "type": "artist",
+          "uri": "spotify:artist:4wXB1KFz7pWONsuAGFH6lT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238294,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mkZZ63Df8sphK67xpj7Eb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1mkZZ63Df8sphK67xpj7Eb",
+      "id": "1mkZZ63Df8sphK67xpj7Eb",
+      "name": "Mind Made Up - Swisha House Remix",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1mkZZ63Df8sphK67xpj7Eb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/36P6yMMrru8VtlgVOO3HJD"
+          },
+          "href": "https://api.spotify.com/v1/artists/36P6yMMrru8VtlgVOO3HJD",
+          "id": "36P6yMMrru8VtlgVOO3HJD",
+          "name": "Redimade",
+          "type": "artist",
+          "uri": "spotify:artist:36P6yMMrru8VtlgVOO3HJD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213344,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1BZiS9yIf28vfbGOIuMW2Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1BZiS9yIf28vfbGOIuMW2Q",
+      "id": "1BZiS9yIf28vfbGOIuMW2Q",
+      "name": "I Swear To Tell The Truth - Swisha House Remix",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1BZiS9yIf28vfbGOIuMW2Q",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7alQXjU2UGwOjD1i0284dX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7alQXjU2UGwOjD1i0284dX",
+          "id": "7alQXjU2UGwOjD1i0284dX",
+          "name": "Bigg Third",
+          "type": "artist",
+          "uri": "spotify:artist:7alQXjU2UGwOjD1i0284dX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3f9RwFlXYTYCCq8qjzAHho"
+          },
+          "href": "https://api.spotify.com/v1/artists/3f9RwFlXYTYCCq8qjzAHho",
+          "id": "3f9RwFlXYTYCCq8qjzAHho",
+          "name": "Chris Ward",
+          "type": "artist",
+          "uri": "spotify:artist:3f9RwFlXYTYCCq8qjzAHho"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269136,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/15uSWzoBYRlRprSYvm3wkK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/15uSWzoBYRlRprSYvm3wkK",
+      "id": "15uSWzoBYRlRprSYvm3wkK",
+      "name": "Once Upon a Time - Swisha House Remix",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:15uSWzoBYRlRprSYvm3wkK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6OOIktdrzH9ffkE6rhO4"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6OOIktdrzH9ffkE6rhO4",
+          "id": "6Y6OOIktdrzH9ffkE6rhO4",
+          "name": "Eddie Coke",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6OOIktdrzH9ffkE6rhO4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220665,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1W1v2dMsQGV7cNqhUmG8Ep"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1W1v2dMsQGV7cNqhUmG8Ep",
+      "id": "1W1v2dMsQGV7cNqhUmG8Ep",
+      "name": "Pressure - Swisha House Remix",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1W1v2dMsQGV7cNqhUmG8Ep",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mdDdKL0UzOqSqppraF43n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mdDdKL0UzOqSqppraF43n",
+          "id": "2mdDdKL0UzOqSqppraF43n",
+          "name": "Chucky Trill",
+          "type": "artist",
+          "uri": "spotify:artist:2mdDdKL0UzOqSqppraF43n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277536,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RAjGYSq71nYprck0moRDK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RAjGYSq71nYprck0moRDK",
+      "id": "5RAjGYSq71nYprck0moRDK",
+      "name": "Stand The Rain - Swisha House Remix",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5RAjGYSq71nYprck0moRDK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vdMPayKk8YJxxeNP5oMCb",
+          "id": "6vdMPayKk8YJxxeNP5oMCb",
+          "name": "Chamillionaire",
+          "type": "artist",
+          "uri": "spotify:artist:6vdMPayKk8YJxxeNP5oMCb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uzlfGNw35ha8bszBDhKy7"
+          },
+          "href": "https://api.spotify.com/v1/artists/0uzlfGNw35ha8bszBDhKy7",
+          "id": "0uzlfGNw35ha8bszBDhKy7",
+          "name": "Killa Kyleon",
+          "type": "artist",
+          "uri": "spotify:artist:0uzlfGNw35ha8bszBDhKy7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2r8r62VGJKGi463aH1HJUZ",
+          "id": "2r8r62VGJKGi463aH1HJUZ",
+          "name": "Kirko Bangz",
+          "type": "artist",
+          "uri": "spotify:artist:2r8r62VGJKGi463aH1HJUZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6X3SIrEa7cxrcrn15q4USz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6X3SIrEa7cxrcrn15q4USz",
+          "id": "6X3SIrEa7cxrcrn15q4USz",
+          "name": "Lisa Lee",
+          "type": "artist",
+          "uri": "spotify:artist:6X3SIrEa7cxrcrn15q4USz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305753,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0kkf7wq4H0IGyzR1A9UYvZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0kkf7wq4H0IGyzR1A9UYvZ",
+      "id": "0kkf7wq4H0IGyzR1A9UYvZ",
+      "name": "Diamonds In The Sky - Swisha House Remix",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0kkf7wq4H0IGyzR1A9UYvZ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wXB1KFz7pWONsuAGFH6lT"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wXB1KFz7pWONsuAGFH6lT",
+          "id": "4wXB1KFz7pWONsuAGFH6lT",
+          "name": "D-Bando",
+          "type": "artist",
+          "uri": "spotify:artist:4wXB1KFz7pWONsuAGFH6lT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229720,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4fPwQ9SwvxVXdyNcclKES7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4fPwQ9SwvxVXdyNcclKES7",
+      "id": "4fPwQ9SwvxVXdyNcclKES7",
+      "name": "Lie About It - Swisha House Remix",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4fPwQ9SwvxVXdyNcclKES7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260691,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/27agTRT3t9LO0LgKT9Tfbo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/27agTRT3t9LO0LgKT9Tfbo",
+      "id": "27agTRT3t9LO0LgKT9Tfbo",
+      "name": "Get By - Swisha House Remix",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:27agTRT3t9LO0LgKT9Tfbo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AT9sg0RsOjLd4gfu08Pg6"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AT9sg0RsOjLd4gfu08Pg6",
+          "id": "2AT9sg0RsOjLd4gfu08Pg6",
+          "name": "Lil' O",
+          "type": "artist",
+          "uri": "spotify:artist:2AT9sg0RsOjLd4gfu08Pg6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261851,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Wt03q6c8IUREQs4N0krSS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Wt03q6c8IUREQs4N0krSS",
+      "id": "6Wt03q6c8IUREQs4N0krSS",
+      "name": "Stacks - Swisha House Remix",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6Wt03q6c8IUREQs4N0krSS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1J6iGa2TNBDCrJzjsnI1a8",
+          "id": "1J6iGa2TNBDCrJzjsnI1a8",
+          "name": "Big Pokey",
+          "type": "artist",
+          "uri": "spotify:artist:1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4S7uEAAV10iEMd2XR4c4vl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4S7uEAAV10iEMd2XR4c4vl",
+          "id": "4S7uEAAV10iEMd2XR4c4vl",
+          "name": "DJ Michael Watts",
+          "type": "artist",
+          "uri": "spotify:artist:4S7uEAAV10iEMd2XR4c4vl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Y6OOIktdrzH9ffkE6rhO4"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Y6OOIktdrzH9ffkE6rhO4",
+          "id": "6Y6OOIktdrzH9ffkE6rhO4",
+          "name": "Eddie Coke",
+          "type": "artist",
+          "uri": "spotify:artist:6Y6OOIktdrzH9ffkE6rhO4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 352850,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ZFsxAWHL8F79Bk2N4jHv2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ZFsxAWHL8F79Bk2N4jHv2",
+      "id": "4ZFsxAWHL8F79Bk2N4jHv2",
+      "name": "Change Your Life - Swisha House Remix",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:4ZFsxAWHL8F79Bk2N4jHv2",
+      "is_local": false
+    }
+  ]
+}

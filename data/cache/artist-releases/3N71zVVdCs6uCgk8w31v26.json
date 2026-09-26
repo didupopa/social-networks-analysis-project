@@ -1,0 +1,586 @@
+{
+  "artist_id": "3N71zVVdCs6uCgk8w31v26",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1FPPMbw97wVthKj9MRJ6qq"
+      },
+      "href": "https://api.spotify.com/v1/albums/1FPPMbw97wVthKj9MRJ6qq",
+      "id": "1FPPMbw97wVthKj9MRJ6qq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737babcac3b3bf9d7f7f603898",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027babcac3b3bf9d7f7f603898",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517babcac3b3bf9d7f7f603898",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Brain Candy",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1FPPMbw97wVthKj9MRJ6qq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HJ4w3pMArwtZi7xywAEWj",
+          "id": "5HJ4w3pMArwtZi7xywAEWj",
+          "name": "Fatboi Sharif",
+          "type": "artist",
+          "uri": "spotify:artist:5HJ4w3pMArwtZi7xywAEWj"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3fuuVE6Q6dqRytqyjQULcn"
+      },
+      "href": "https://api.spotify.com/v1/albums/3fuuVE6Q6dqRytqyjQULcn",
+      "id": "3fuuVE6Q6dqRytqyjQULcn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736632543aa2bf5e291bedf129",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026632543aa2bf5e291bedf129",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516632543aa2bf5e291bedf129",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Smart Ass Black Boy (Redux)",
+      "release_date": "2023-12-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3fuuVE6Q6dqRytqyjQULcn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6T4UuaQ9gd6COoKXOtQqt8"
+      },
+      "href": "https://api.spotify.com/v1/albums/6T4UuaQ9gd6COoKXOtQqt8",
+      "id": "6T4UuaQ9gd6COoKXOtQqt8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738cda24676de3045612a9830b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028cda24676de3045612a9830b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518cda24676de3045612a9830b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Will Make a Baby in this Damn Economy",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6T4UuaQ9gd6COoKXOtQqt8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VPUZ38X0ahV3A099ug5Au"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VPUZ38X0ahV3A099ug5Au",
+          "id": "1VPUZ38X0ahV3A099ug5Au",
+          "name": "Taydex",
+          "type": "artist",
+          "uri": "spotify:artist:1VPUZ38X0ahV3A099ug5Au"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ZrSSoxLvMkH3hLXdcl1Q4"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ZrSSoxLvMkH3hLXdcl1Q4",
+      "id": "6ZrSSoxLvMkH3hLXdcl1Q4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27300762465224ea2acd2bd1be4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0200762465224ea2acd2bd1be4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485100762465224ea2acd2bd1be4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Exotica",
+      "release_date": "2020-10-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6ZrSSoxLvMkH3hLXdcl1Q4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/68Ayt43WBBStSTIdWntRO1"
+      },
+      "href": "https://api.spotify.com/v1/albums/68Ayt43WBBStSTIdWntRO1",
+      "id": "68Ayt43WBBStSTIdWntRO1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732ce5ae1269b8ea35fb760a93",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022ce5ae1269b8ea35fb760a93",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512ce5ae1269b8ea35fb760a93",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wake Up",
+      "release_date": "2020-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:68Ayt43WBBStSTIdWntRO1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VPUZ38X0ahV3A099ug5Au"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VPUZ38X0ahV3A099ug5Au",
+          "id": "1VPUZ38X0ahV3A099ug5Au",
+          "name": "Taydex",
+          "type": "artist",
+          "uri": "spotify:artist:1VPUZ38X0ahV3A099ug5Au"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6TwdCCEot81Ou1ZoOFe8S2"
+      },
+      "href": "https://api.spotify.com/v1/albums/6TwdCCEot81Ou1ZoOFe8S2",
+      "id": "6TwdCCEot81Ou1ZoOFe8S2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f81ab46bc45ebe21b51b6940",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f81ab46bc45ebe21b51b6940",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f81ab46bc45ebe21b51b6940",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "10,000 Hours",
+      "release_date": "2018-09-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6TwdCCEot81Ou1ZoOFe8S2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Bm216npULkTUbbY0ai6Hi"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Bm216npULkTUbbY0ai6Hi",
+      "id": "2Bm216npULkTUbbY0ai6Hi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730adcddfb2d45f74b7760d85f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020adcddfb2d45f74b7760d85f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510adcddfb2d45f74b7760d85f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "House with a Pool",
+      "release_date": "2018-04-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2Bm216npULkTUbbY0ai6Hi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51ulMYrBVicQffI3NI0Xoz"
+          },
+          "href": "https://api.spotify.com/v1/artists/51ulMYrBVicQffI3NI0Xoz",
+          "id": "51ulMYrBVicQffI3NI0Xoz",
+          "name": "Charge It to the Game",
+          "type": "artist",
+          "uri": "spotify:artist:51ulMYrBVicQffI3NI0Xoz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1pFut5j0UyjwcgrZ6pV6Nc"
+      },
+      "href": "https://api.spotify.com/v1/albums/1pFut5j0UyjwcgrZ6pV6Nc",
+      "id": "1pFut5j0UyjwcgrZ6pV6Nc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a62e3c8a33fdb632e2443294",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a62e3c8a33fdb632e2443294",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a62e3c8a33fdb632e2443294",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MacGregor Park (ChopNotSlop Remix)",
+      "release_date": "2017-10-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1pFut5j0UyjwcgrZ6pV6Nc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id": "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name": "DJ Candlestick",
+          "type": "artist",
+          "uri": "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ihYXLNgYDIos9UK142SCa"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ihYXLNgYDIos9UK142SCa",
+      "id": "4ihYXLNgYDIos9UK142SCa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b56b4bed3f1979b5c9d1494",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027b56b4bed3f1979b5c9d1494",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517b56b4bed3f1979b5c9d1494",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Macgregor Park",
+      "release_date": "2017-08-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4ihYXLNgYDIos9UK142SCa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2p5yPKXaDPHknze8i8DYmz"
+      },
+      "href": "https://api.spotify.com/v1/albums/2p5yPKXaDPHknze8i8DYmz",
+      "id": "2p5yPKXaDPHknze8i8DYmz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27353f5214a86483e93fb8bab1c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0253f5214a86483e93fb8bab1c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485153f5214a86483e93fb8bab1c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Smart Ass Black Boy",
+      "release_date": "2013-06-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2p5yPKXaDPHknze8i8DYmz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0dlwcEaB1QJrbpj7QAdFXi"
+      },
+      "href": "https://api.spotify.com/v1/albums/0dlwcEaB1QJrbpj7QAdFXi",
+      "id": "0dlwcEaB1QJrbpj7QAdFXi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730f19f6f72b86001d7db4485b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020f19f6f72b86001d7db4485b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510f19f6f72b86001d7db4485b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Screwdargab",
+      "release_date": "2011-03-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0dlwcEaB1QJrbpj7QAdFXi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id": "2LQF8AgyQUgLfquM92Rx8N",
+          "name": "OG Ron C",
+          "type": "artist",
+          "uri": "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1zqwTA07KAPoFcoIe5i8uF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1zqwTA07KAPoFcoIe5i8uF",
+      "id": "1zqwTA07KAPoFcoIe5i8uF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731116505b2a92f71b1a7e47c1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021116505b2a92f71b1a7e47c1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511116505b2a92f71b1a7e47c1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "RABDARGAB",
+      "release_date": "2010-10-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1zqwTA07KAPoFcoIe5i8uF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26"
+          },
+          "href": "https://api.spotify.com/v1/artists/3N71zVVdCs6uCgk8w31v26",
+          "id": "3N71zVVdCs6uCgk8w31v26",
+          "name": "Fat Tony",
+          "type": "artist",
+          "uri": "spotify:artist:3N71zVVdCs6uCgk8w31v26"
+        }
+      ]
+    }
+  ]
+}

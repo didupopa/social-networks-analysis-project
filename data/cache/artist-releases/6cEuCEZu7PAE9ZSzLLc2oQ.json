@@ -1,0 +1,139 @@
+{
+  "artist_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d"
+      },
+      "href": "https://api.spotify.com/v1/albums/11H0ggNORjbmX0LhZ9iK2d",
+      "id": "11H0ggNORjbmX0LhZ9iK2d",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27345f5fa24edda04721e7c6aad",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0245f5fa24edda04721e7c6aad",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485145f5fa24edda04721e7c6aad",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Dream inside a dream…",
+      "release_date": "2026-07-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:11H0ggNORjbmX0LhZ9iK2d",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+          "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "R3HAB",
+          "type": "artist",
+          "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3VV64dvYzcZcRuZ0jIBDYr"
+      },
+      "href": "https://api.spotify.com/v1/albums/3VV64dvYzcZcRuZ0jIBDYr",
+      "id": "3VV64dvYzcZcRuZ0jIBDYr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735a31313469c0a1a423ea53c6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025a31313469c0a1a423ea53c6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515a31313469c0a1a423ea53c6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Wave",
+      "release_date": "2018-08-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3VV64dvYzcZcRuZ0jIBDYr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+          "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "R3HAB",
+          "type": "artist",
+          "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0tJTJOrLDyLiynoSaWW7lf"
+      },
+      "href": "https://api.spotify.com/v1/albums/0tJTJOrLDyLiynoSaWW7lf",
+      "id": "0tJTJOrLDyLiynoSaWW7lf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273876bc86dccf093bd560a8298",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02876bc86dccf093bd560a8298",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851876bc86dccf093bd560a8298",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trouble",
+      "release_date": "2017-09-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0tJTJOrLDyLiynoSaWW7lf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+          "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "R3HAB",
+          "type": "artist",
+          "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ]
+    }
+  ]
+}

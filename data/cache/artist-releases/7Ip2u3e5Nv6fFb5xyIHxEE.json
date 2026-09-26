@@ -1,0 +1,96 @@
+{
+  "artist_id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/49bg5Bqtr2HhkJOFWqEyNf"
+      },
+      "href": "https://api.spotify.com/v1/albums/49bg5Bqtr2HhkJOFWqEyNf",
+      "id": "49bg5Bqtr2HhkJOFWqEyNf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fdc959ec51422fc583615f17",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fdc959ec51422fc583615f17",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fdc959ec51422fc583615f17",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Only See You When I’m Dreamin’",
+      "release_date": "2017-09-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:49bg5Bqtr2HhkJOFWqEyNf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ip2u3e5Nv6fFb5xyIHxEE",
+          "id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+          "name": "DEV",
+          "type": "artist",
+          "uri": "spotify:artist:7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0w5yDAPhmukgZIyuency1n"
+      },
+      "href": "https://api.spotify.com/v1/albums/0w5yDAPhmukgZIyuency1n",
+      "id": "0w5yDAPhmukgZIyuency1n",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739c831ece70cab74b5b98ef9e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029c831ece70cab74b5b98ef9e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519c831ece70cab74b5b98ef9e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Night The Sun Came Up",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0w5yDAPhmukgZIyuency1n",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ip2u3e5Nv6fFb5xyIHxEE",
+          "id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+          "name": "DEV",
+          "type": "artist",
+          "uri": "spotify:artist:7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ]
+    }
+  ]
+}

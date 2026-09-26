@@ -1,0 +1,53 @@
+{
+  "artist_id": "4ntfGY98LWEncjHnw0XBaj",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0VAH5mCiZeNrOlvpSa5tIo"
+      },
+      "href": "https://api.spotify.com/v1/albums/0VAH5mCiZeNrOlvpSa5tIo",
+      "id": "0VAH5mCiZeNrOlvpSa5tIo",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f9a560ba02c479254e491977",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f9a560ba02c479254e491977",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f9a560ba02c479254e491977",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "820",
+      "release_date": "2025-08-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0VAH5mCiZeNrOlvpSa5tIo",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ntfGY98LWEncjHnw0XBaj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ntfGY98LWEncjHnw0XBaj",
+          "id": "4ntfGY98LWEncjHnw0XBaj",
+          "name": "Dino BTW",
+          "type": "artist",
+          "uri": "spotify:artist:4ntfGY98LWEncjHnw0XBaj"
+        }
+      ]
+    }
+  ]
+}

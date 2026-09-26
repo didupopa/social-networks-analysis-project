@@ -1,0 +1,53 @@
+{
+  "artist_id": "5xmw3tD4MbvhA1ay1U0HEC",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zCFqTY0LZhNzf4sCdAQR1"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zCFqTY0LZhNzf4sCdAQR1",
+      "id": "6zCFqTY0LZhNzf4sCdAQR1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ca88c6d949921b0794a518d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027ca88c6d949921b0794a518d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517ca88c6d949921b0794a518d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "FEVER DREAM",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6zCFqTY0LZhNzf4sCdAQR1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5xmw3tD4MbvhA1ay1U0HEC",
+          "id": "5xmw3tD4MbvhA1ay1U0HEC",
+          "name": "COUCOU CHLOE",
+          "type": "artist",
+          "uri": "spotify:artist:5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ]
+    }
+  ]
+}

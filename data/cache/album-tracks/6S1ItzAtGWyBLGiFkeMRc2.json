@@ -1,0 +1,576 @@
+{
+  "album_id": "6S1ItzAtGWyBLGiFkeMRc2",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Xrr2cK6YSc29MGj6CpCGM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Xrr2cK6YSc29MGj6CpCGM",
+      "id": "1Xrr2cK6YSc29MGj6CpCGM",
+      "name": "Kreation (Intro)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1Xrr2cK6YSc29MGj6CpCGM",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210586,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2KiDUOdgoM9rKgJnemeAZe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2KiDUOdgoM9rKgJnemeAZe",
+      "id": "2KiDUOdgoM9rKgJnemeAZe",
+      "name": "Life",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2KiDUOdgoM9rKgJnemeAZe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191973,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6l5pIyWdI4zE4yWzI9XIW0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6l5pIyWdI4zE4yWzI9XIW0",
+      "id": "6l5pIyWdI4zE4yWzI9XIW0",
+      "name": "My Sub Pt. 3 (Big Bang)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6l5pIyWdI4zE4yWzI9XIW0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268946,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1tKWfncBiRCuz1Iyey9RfV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1tKWfncBiRCuz1Iyey9RfV",
+      "id": "1tKWfncBiRCuz1Iyey9RfV",
+      "name": "Cadillactica",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1tKWfncBiRCuz1Iyey9RfV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          },
+          "href": "https://api.spotify.com/v1/artists/6g0Wah2YFtb1rFgKhUktlo",
+          "id": "6g0Wah2YFtb1rFgKhUktlo",
+          "name": "Raphael Saadiq",
+          "type": "artist",
+          "uri": "spotify:artist:6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dtTTVXdm7u5u9nUiekn1s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dtTTVXdm7u5u9nUiekn1s",
+      "id": "2dtTTVXdm7u5u9nUiekn1s",
+      "name": "Soul Food",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2dtTTVXdm7u5u9nUiekn1s",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GEcMpeGIad5O23WxDRFMn",
+          "id": "2GEcMpeGIad5O23WxDRFMn",
+          "name": "Rico Love",
+          "type": "artist",
+          "uri": "spotify:artist:2GEcMpeGIad5O23WxDRFMn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/17fBFaNXCShZrQ3zKIi94F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/17fBFaNXCShZrQ3zKIi94F",
+      "id": "17fBFaNXCShZrQ3zKIi94F",
+      "name": "Pay Attention",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:17fBFaNXCShZrQ3zKIi94F",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58Jcftr5PvnPK2Kj2z4hK6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58Jcftr5PvnPK2Kj2z4hK6",
+      "id": "58Jcftr5PvnPK2Kj2z4hK6",
+      "name": "King Of The South",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:58Jcftr5PvnPK2Kj2z4hK6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          },
+          "href": "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+          "id": "3crnzLy8R4lVwaigKEOz7V",
+          "name": "E-40",
+          "type": "artist",
+          "uri": "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6W7qDauNcP6rUOBnsP5VEz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6W7qDauNcP6rUOBnsP5VEz",
+      "id": "6W7qDauNcP6rUOBnsP5VEz",
+      "name": "Mind Control",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6W7qDauNcP6rUOBnsP5VEz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 99453,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Fxnt1XlRrGUcS0zWIBFyS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Fxnt1XlRrGUcS0zWIBFyS",
+      "id": "3Fxnt1XlRrGUcS0zWIBFyS",
+      "name": "Standby (Interlude)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3Fxnt1XlRrGUcS0zWIBFyS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T1ITvo373zVtx1PnoTv7A"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T1ITvo373zVtx1PnoTv7A",
+          "id": "0T1ITvo373zVtx1PnoTv7A",
+          "name": "Mara Hruby",
+          "type": "artist",
+          "uri": "spotify:artist:0T1ITvo373zVtx1PnoTv7A"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 228200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/78vjp3qhkgCna00zMziLGU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/78vjp3qhkgCna00zMziLGU",
+      "id": "78vjp3qhkgCna00zMziLGU",
+      "name": "Do You Love Me",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:78vjp3qhkgCna00zMziLGU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3AquOGHV1aT3yIcKfHzrZS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3AquOGHV1aT3yIcKfHzrZS",
+      "id": "3AquOGHV1aT3yIcKfHzrZS",
+      "name": "Third Eye",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3AquOGHV1aT3yIcKfHzrZS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OMJR0LjjKv21qNvICTgbi",
+          "id": "0OMJR0LjjKv21qNvICTgbi",
+          "name": "Devin The Dude",
+          "type": "artist",
+          "uri": "spotify:artist:0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0sopeY0B5nsZ0OSUeFXr9T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0sopeY0B5nsZ0OSUeFXr9T",
+          "id": "0sopeY0B5nsZ0OSUeFXr9T",
+          "name": "Big Sant",
+          "type": "artist",
+          "uri": "spotify:artist:0sopeY0B5nsZ0OSUeFXr9T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+          },
+          "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+          "id": "45a6gCQWq61lIUDmr1tKuO",
+          "name": "Bun B",
+          "type": "artist",
+          "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 285373,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/22iP0AbgBlEAVYS5G9dJPf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/22iP0AbgBlEAVYS5G9dJPf",
+      "id": "22iP0AbgBlEAVYS5G9dJPf",
+      "name": "Mo Better Cool",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:22iP0AbgBlEAVYS5G9dJPf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226360,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/205jCHZ3R4FbK4ov6B1vZS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/205jCHZ3R4FbK4ov6B1vZS",
+      "id": "205jCHZ3R4FbK4ov6B1vZS",
+      "name": "Angels",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:205jCHZ3R4FbK4ov6B1vZS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FsZnS8gQ8jG1HGnPYNlm9",
+          "id": "2FsZnS8gQ8jG1HGnPYNlm9",
+          "name": "Jamie N Commons",
+          "type": "artist",
+          "uri": "spotify:artist:2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/60sZFjdcpkMD8nrnw7RnRQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/60sZFjdcpkMD8nrnw7RnRQ",
+      "id": "60sZFjdcpkMD8nrnw7RnRQ",
+      "name": "Saturdays = Celebration",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:60sZFjdcpkMD8nrnw7RnRQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 234920,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1pTkYdpzo8KPpHFFkI9xLA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1pTkYdpzo8KPpHFFkI9xLA",
+      "id": "1pTkYdpzo8KPpHFFkI9xLA",
+      "name": "Lost Generation",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1pTkYdpzo8KPpHFFkI9xLA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251640,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qMTP714mNnhSsGoHwSiJQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qMTP714mNnhSsGoHwSiJQ",
+      "id": "5qMTP714mNnhSsGoHwSiJQ",
+      "name": "Mt. Olympus (Reprise)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:5qMTP714mNnhSsGoHwSiJQ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0CKa42Jqrc9fSFbDjePaXP",
+          "id": "0CKa42Jqrc9fSFbDjePaXP",
+          "name": "Big K.R.I.T.",
+          "type": "artist",
+          "uri": "spotify:artist:0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5dHt1vcEm9qb8fCyLcB3HL",
+          "id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "A$AP Ferg",
+          "type": "artist",
+          "uri": "spotify:artist:5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 332586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Sxstmg49NaPWpT2TN8EcA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Sxstmg49NaPWpT2TN8EcA",
+      "id": "6Sxstmg49NaPWpT2TN8EcA",
+      "name": "Lac Lac",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:6Sxstmg49NaPWpT2TN8EcA",
+      "is_local": false
+    }
+  ]
+}

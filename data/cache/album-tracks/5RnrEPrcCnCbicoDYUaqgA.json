@@ -1,0 +1,611 @@
+{
+  "album_id": "5RnrEPrcCnCbicoDYUaqgA",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EeQBlQJFiAfJeVN2vT9s0",
+          "id": "0EeQBlQJFiAfJeVN2vT9s0",
+          "name": "Nipsey Hussle",
+          "type": "artist",
+          "uri": "spotify:artist:0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wMQ7qnzciLhP0rWPeHCCc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wMQ7qnzciLhP0rWPeHCCc",
+          "id": "2wMQ7qnzciLhP0rWPeHCCc",
+          "name": "Tee Cee",
+          "type": "artist",
+          "uri": "spotify:artist:2wMQ7qnzciLhP0rWPeHCCc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uKgAkca8pn0slfSHZsbK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uKgAkca8pn0slfSHZsbK3",
+          "id": "5uKgAkca8pn0slfSHZsbK3",
+          "name": "RJ",
+          "type": "artist",
+          "uri": "spotify:artist:5uKgAkca8pn0slfSHZsbK3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 156213,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/65gpTpDi3DHNeoJOF0rkZg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/65gpTpDi3DHNeoJOF0rkZg",
+      "id": "65gpTpDi3DHNeoJOF0rkZg",
+      "name": "Low Low",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:65gpTpDi3DHNeoJOF0rkZg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
+          },
+          "href": "https://api.spotify.com/v1/artists/2l2o6ibYa7h1w4HwaS1uZV",
+          "id": "2l2o6ibYa7h1w4HwaS1uZV",
+          "name": "Jay 305",
+          "type": "artist",
+          "uri": "spotify:artist:2l2o6ibYa7h1w4HwaS1uZV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wMQ7qnzciLhP0rWPeHCCc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wMQ7qnzciLhP0rWPeHCCc",
+          "id": "2wMQ7qnzciLhP0rWPeHCCc",
+          "name": "Tee Cee",
+          "type": "artist",
+          "uri": "spotify:artist:2wMQ7qnzciLhP0rWPeHCCc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36JkF5qxnaDIPOLOW7yYic"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36JkF5qxnaDIPOLOW7yYic",
+      "id": "36JkF5qxnaDIPOLOW7yYic",
+      "name": "Ghetto Tales",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:36JkF5qxnaDIPOLOW7yYic",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gAUTRW8lrkKmkrdiTvP2a"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gAUTRW8lrkKmkrdiTvP2a",
+          "id": "4gAUTRW8lrkKmkrdiTvP2a",
+          "name": "Royce",
+          "type": "artist",
+          "uri": "spotify:artist:4gAUTRW8lrkKmkrdiTvP2a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uKgAkca8pn0slfSHZsbK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uKgAkca8pn0slfSHZsbK3",
+          "id": "5uKgAkca8pn0slfSHZsbK3",
+          "name": "RJ",
+          "type": "artist",
+          "uri": "spotify:artist:5uKgAkca8pn0slfSHZsbK3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6kqHOo0b09kXcp8W6P1gv1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6kqHOo0b09kXcp8W6P1gv1",
+      "id": "6kqHOo0b09kXcp8W6P1gv1",
+      "name": "Throw Your Hood Up",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6kqHOo0b09kXcp8W6P1gv1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+          "id": "0A0FS04o6zMoto8OKPsDwY",
+          "name": "YG",
+          "type": "artist",
+          "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EeQBlQJFiAfJeVN2vT9s0",
+          "id": "0EeQBlQJFiAfJeVN2vT9s0",
+          "name": "Nipsey Hussle",
+          "type": "artist",
+          "uri": "spotify:artist:0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5uKgAkca8pn0slfSHZsbK3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5uKgAkca8pn0slfSHZsbK3",
+          "id": "5uKgAkca8pn0slfSHZsbK3",
+          "name": "RJ",
+          "type": "artist",
+          "uri": "spotify:artist:5uKgAkca8pn0slfSHZsbK3"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211240,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6JEUAD43qMV2xA1zRNCASy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6JEUAD43qMV2xA1zRNCASy",
+      "id": "6JEUAD43qMV2xA1zRNCASy",
+      "name": "No Reason",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6JEUAD43qMV2xA1zRNCASy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yBK75WVCQXej1p04GWqxH",
+          "id": "4yBK75WVCQXej1p04GWqxH",
+          "name": "Jeezy",
+          "type": "artist",
+          "uri": "spotify:artist:4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Ha4aES39QiVjR0L2lwuwq",
+          "id": "6Ha4aES39QiVjR0L2lwuwq",
+          "name": "Yo Gotti",
+          "type": "artist",
+          "uri": "spotify:artist:6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3HuTY02pXguDxzy2LkHnGq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3HuTY02pXguDxzy2LkHnGq",
+      "id": "3HuTY02pXguDxzy2LkHnGq",
+      "name": "Giuseppe",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3HuTY02pXguDxzy2LkHnGq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist",
+          "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+          "id": "0A0FS04o6zMoto8OKPsDwY",
+          "name": "YG",
+          "type": "artist",
+          "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+          },
+          "href": "https://api.spotify.com/v1/artists/6z7xFFHxYkE9t8bwIF0Bvg",
+          "id": "6z7xFFHxYkE9t8bwIF0Bvg",
+          "name": "Boosie Badazz",
+          "type": "artist",
+          "uri": "spotify:artist:6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 267226,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jG29zp5Xmo9PdDdf1b6mO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jG29zp5Xmo9PdDdf1b6mO",
+      "id": "1jG29zp5Xmo9PdDdf1b6mO",
+      "name": "Face Down",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1jG29zp5Xmo9PdDdf1b6mO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq",
+          "name": "Ty Dolla $ign",
+          "type": "artist",
+          "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          },
+          "href": "https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp",
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist",
+          "uri": "spotify:artist:17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244906,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5VGh9wbl3QWmccQksWi9wz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5VGh9wbl3QWmccQksWi9wz",
+      "id": "5VGh9wbl3QWmccQksWi9wz",
+      "name": "Down On Me",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5VGh9wbl3QWmccQksWi9wz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZavqCJe7uqkRpISes0NFi",
+          "id": "2ZavqCJe7uqkRpISes0NFi",
+          "name": "Iamsu!",
+          "type": "artist",
+          "uri": "spotify:artist:2ZavqCJe7uqkRpISes0NFi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46F48jXnSKrDDxMneQu74t"
+          },
+          "href": "https://api.spotify.com/v1/artists/46F48jXnSKrDDxMneQu74t",
+          "id": "46F48jXnSKrDDxMneQu74t",
+          "name": "akafrank",
+          "type": "artist",
+          "uri": "spotify:artist:46F48jXnSKrDDxMneQu74t"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191146,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5UHwKUzLGsve19xOrmPhLT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5UHwKUzLGsve19xOrmPhLT",
+      "id": "5UHwKUzLGsve19xOrmPhLT",
+      "name": "Can’t Tell Me",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5UHwKUzLGsve19xOrmPhLT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 119160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5okemX1yAFd7ScrQ4EJAOL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5okemX1yAFd7ScrQ4EJAOL",
+      "id": "5okemX1yAFd7ScrQ4EJAOL",
+      "name": "Tinashe Checks In",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5okemX1yAFd7ScrQ4EJAOL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YWxKQj2Go9CGHCp77UOyy",
+          "id": "0YWxKQj2Go9CGHCp77UOyy",
+          "name": "Fabolous",
+          "type": "artist",
+          "uri": "spotify:artist:0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ibAWtDtmEfaVhc1FJ3Vl9",
+          "id": "7ibAWtDtmEfaVhc1FJ3Vl9",
+          "name": "Eric Bellinger",
+          "type": "artist",
+          "uri": "spotify:artist:7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0WtHRqsj9cIjU0vNcX02W6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0WtHRqsj9cIjU0vNcX02W6",
+      "id": "0WtHRqsj9cIjU0vNcX02W6",
+      "name": "4 Digits",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0WtHRqsj9cIjU0vNcX02W6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 68733,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7bkQnIgUZ2q1MoGnCem1X0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7bkQnIgUZ2q1MoGnCem1X0",
+      "id": "7bkQnIgUZ2q1MoGnCem1X0",
+      "name": "Ty Dolla $ign Checks In",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7bkQnIgUZ2q1MoGnCem1X0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "type": "artist",
+          "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist",
+          "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pCVxwkdixCeBPTboRZIi2"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pCVxwkdixCeBPTboRZIi2",
+          "id": "1pCVxwkdixCeBPTboRZIi2",
+          "name": "TeeFLii",
+          "type": "artist",
+          "uri": "spotify:artist:1pCVxwkdixCeBPTboRZIi2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 217173,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4nks9GHKZ4Er3GnCqVNsRN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4nks9GHKZ4Er3GnCqVNsRN",
+      "id": "4nks9GHKZ4Er3GnCqVNsRN",
+      "name": "Deep",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4nks9GHKZ4Er3GnCqVNsRN",
+      "is_local": false
+    }
+  ]
+}

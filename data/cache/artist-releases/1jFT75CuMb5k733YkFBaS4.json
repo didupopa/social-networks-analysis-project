@@ -1,0 +1,53 @@
+{
+  "artist_id": "1jFT75CuMb5k733YkFBaS4",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2YEhQXttBn2zV8sWwXUXku"
+      },
+      "href": "https://api.spotify.com/v1/albums/2YEhQXttBn2zV8sWwXUXku",
+      "id": "2YEhQXttBn2zV8sWwXUXku",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bdc6ff4ec6013093826f90cd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bdc6ff4ec6013093826f90cd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bdc6ff4ec6013093826f90cd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Red Tape",
+      "release_date": "2016-04-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2YEhQXttBn2zV8sWwXUXku",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1jFT75CuMb5k733YkFBaS4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1jFT75CuMb5k733YkFBaS4",
+          "id": "1jFT75CuMb5k733YkFBaS4",
+          "name": "Brooks",
+          "type": "artist",
+          "uri": "spotify:artist:1jFT75CuMb5k733YkFBaS4"
+        }
+      ]
+    }
+  ]
+}

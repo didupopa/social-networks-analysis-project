@@ -1,0 +1,96 @@
+{
+  "artist_id": "2M2blWl1LBN2UoxlJdaug2",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/5NcVLMZkt5T1K0PdD2hyeQ",
+      "id": "5NcVLMZkt5T1K0PdD2hyeQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8d3e4c3904608dbd5dc3774",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8d3e4c3904608dbd5dc3774",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d8d3e4c3904608dbd5dc3774",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DGTL ANML",
+      "release_date": "2025-06-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5NcVLMZkt5T1K0PdD2hyeQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2M2blWl1LBN2UoxlJdaug2",
+          "id": "2M2blWl1LBN2UoxlJdaug2",
+          "name": "LSDXOXO",
+          "type": "artist",
+          "uri": "spotify:artist:2M2blWl1LBN2UoxlJdaug2"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5k245s5maJVuokhgegttAf"
+      },
+      "href": "https://api.spotify.com/v1/albums/5k245s5maJVuokhgegttAf",
+      "id": "5k245s5maJVuokhgegttAf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730a8a795228ad56ccd682843c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020a8a795228ad56ccd682843c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510a8a795228ad56ccd682843c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DOGMA",
+      "release_date": "2024-09-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5k245s5maJVuokhgegttAf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2M2blWl1LBN2UoxlJdaug2",
+          "id": "2M2blWl1LBN2UoxlJdaug2",
+          "name": "LSDXOXO",
+          "type": "artist",
+          "uri": "spotify:artist:2M2blWl1LBN2UoxlJdaug2"
+        }
+      ]
+    }
+  ]
+}

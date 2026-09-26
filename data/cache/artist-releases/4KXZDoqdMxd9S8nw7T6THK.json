@@ -1,0 +1,53 @@
+{
+  "artist_id": "4KXZDoqdMxd9S8nw7T6THK",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pdWm9dl4NenrtxiSmMveO"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pdWm9dl4NenrtxiSmMveO",
+      "id": "0pdWm9dl4NenrtxiSmMveO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733a1114fdbdf27f9c48a04c18",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023a1114fdbdf27f9c48a04c18",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513a1114fdbdf27f9c48a04c18",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Movin' (Mixes)",
+      "release_date": "1996-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0pdWm9dl4NenrtxiSmMveO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          },
+          "href": "https://api.spotify.com/v1/artists/4KXZDoqdMxd9S8nw7T6THK",
+          "id": "4KXZDoqdMxd9S8nw7T6THK",
+          "name": "Moné",
+          "type": "artist",
+          "uri": "spotify:artist:4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ]
+    }
+  ]
+}
