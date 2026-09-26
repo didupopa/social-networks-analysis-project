@@ -1,0 +1,53 @@
+{
+  "artist_id": "5w0ka9nPOmEH6CcZrutyP2",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/41mZoGv0Z8MSzBgiIbXhMm"
+      },
+      "href": "https://api.spotify.com/v1/albums/41mZoGv0Z8MSzBgiIbXhMm",
+      "id": "41mZoGv0Z8MSzBgiIbXhMm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739b5d7b75c75cc045f8460d4f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029b5d7b75c75cc045f8460d4f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519b5d7b75c75cc045f8460d4f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Funk Rocker",
+      "release_date": "2004-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:41mZoGv0Z8MSzBgiIbXhMm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5w0ka9nPOmEH6CcZrutyP2"
+          },
+          "href": "https://api.spotify.com/v1/artists/5w0ka9nPOmEH6CcZrutyP2",
+          "id": "5w0ka9nPOmEH6CcZrutyP2",
+          "name": "Jason Nevins",
+          "type": "artist",
+          "uri": "spotify:artist:5w0ka9nPOmEH6CcZrutyP2"
+        }
+      ]
+    }
+  ]
+}

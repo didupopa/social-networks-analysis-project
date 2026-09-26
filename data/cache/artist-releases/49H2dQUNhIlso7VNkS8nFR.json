@@ -1,0 +1,139 @@
+{
+  "artist_id": "49H2dQUNhIlso7VNkS8nFR",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4oThfqAITgvQ03BMsL8QdU"
+      },
+      "href": "https://api.spotify.com/v1/albums/4oThfqAITgvQ03BMsL8QdU",
+      "id": "4oThfqAITgvQ03BMsL8QdU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ff135c6db68bdd7b834031e9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ff135c6db68bdd7b834031e9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ff135c6db68bdd7b834031e9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shakedown 3 (The Acapella Album)",
+      "release_date": "2014-11-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4oThfqAITgvQ03BMsL8QdU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+          },
+          "href": "https://api.spotify.com/v1/artists/49H2dQUNhIlso7VNkS8nFR",
+          "id": "49H2dQUNhIlso7VNkS8nFR",
+          "name": "Freemasons",
+          "type": "artist",
+          "uri": "spotify:artist:49H2dQUNhIlso7VNkS8nFR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 27,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6cEeoXPoMyWFGJ8wPGvjrn"
+      },
+      "href": "https://api.spotify.com/v1/albums/6cEeoXPoMyWFGJ8wPGvjrn",
+      "id": "6cEeoXPoMyWFGJ8wPGvjrn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b48b4b4a21aba4f4ef420da",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022b48b4b4a21aba4f4ef420da",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512b48b4b4a21aba4f4ef420da",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shakedown 3",
+      "release_date": "2014-08-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6cEeoXPoMyWFGJ8wPGvjrn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+          },
+          "href": "https://api.spotify.com/v1/artists/49H2dQUNhIlso7VNkS8nFR",
+          "id": "49H2dQUNhIlso7VNkS8nFR",
+          "name": "Freemasons",
+          "type": "artist",
+          "uri": "spotify:artist:49H2dQUNhIlso7VNkS8nFR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4UKnCy9McrSHMLp1cFTVIp"
+      },
+      "href": "https://api.spotify.com/v1/albums/4UKnCy9McrSHMLp1cFTVIp",
+      "id": "4UKnCy9McrSHMLp1cFTVIp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737bd0c1a96af11b5e9ee7f0b5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027bd0c1a96af11b5e9ee7f0b5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517bd0c1a96af11b5e9ee7f0b5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Unmixed",
+      "release_date": "2007-10-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4UKnCy9McrSHMLp1cFTVIp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+          },
+          "href": "https://api.spotify.com/v1/artists/49H2dQUNhIlso7VNkS8nFR",
+          "id": "49H2dQUNhIlso7VNkS8nFR",
+          "name": "Freemasons",
+          "type": "artist",
+          "uri": "spotify:artist:49H2dQUNhIlso7VNkS8nFR"
+        }
+      ]
+    }
+  ]
+}

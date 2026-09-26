@@ -1,0 +1,53 @@
+{
+  "artist_id": "0pkJMsTwKbRvrX9d4QEoAM",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6097RxjlDFFwcy7nlsJBmq"
+      },
+      "href": "https://api.spotify.com/v1/albums/6097RxjlDFFwcy7nlsJBmq",
+      "id": "6097RxjlDFFwcy7nlsJBmq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e4b4ec75f3ba150f6833bf82",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e4b4ec75f3ba150f6833bf82",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e4b4ec75f3ba150f6833bf82",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Divine Ecstasy",
+      "release_date": "2014-01-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6097RxjlDFFwcy7nlsJBmq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0pkJMsTwKbRvrX9d4QEoAM"
+          },
+          "href": "https://api.spotify.com/v1/artists/0pkJMsTwKbRvrX9d4QEoAM",
+          "id": "0pkJMsTwKbRvrX9d4QEoAM",
+          "name": "Supreme Cuts",
+          "type": "artist",
+          "uri": "spotify:artist:0pkJMsTwKbRvrX9d4QEoAM"
+        }
+      ]
+    }
+  ]
+}

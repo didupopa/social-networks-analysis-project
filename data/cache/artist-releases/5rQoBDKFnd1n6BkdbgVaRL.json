@@ -1,0 +1,361 @@
+{
+  "artist_id": "5rQoBDKFnd1n6BkdbgVaRL",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "href": "https://api.spotify.com/v1/albums/6JZcE32Yu2DNw7ZhJ76rtx",
+      "id": "6JZcE32Yu2DNw7ZhJ76rtx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e8ff0462f78c2bf41537dab",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022e8ff0462f78c2bf41537dab",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512e8ff0462f78c2bf41537dab",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+      "release_date": "2025-09-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6JZcE32Yu2DNw7ZhJ76rtx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "type": "artist",
+          "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+          },
+          "href": "https://api.spotify.com/v1/artists/1SyKki7JI1AZNKwgNMkn25",
+          "id": "1SyKki7JI1AZNKwgNMkn25",
+          "name": "Sachet-Parampara",
+          "type": "artist",
+          "uri": "spotify:artist:1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vdXIIMgAU83AczQOBoqSw"
+      },
+      "href": "https://api.spotify.com/v1/albums/0vdXIIMgAU83AczQOBoqSw",
+      "id": "0vdXIIMgAU83AczQOBoqSw",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273679ebb38e3f2d19833cd9734",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02679ebb38e3f2d19833cd9734",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851679ebb38e3f2d19833cd9734",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shaunki Sardar (Original Motion Picture Soundtrack)",
+      "release_date": "2025-05-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0vdXIIMgAU83AczQOBoqSw",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ENaPFnsKa9MlutVokd6es",
+          "id": "2ENaPFnsKa9MlutVokd6es",
+          "name": "Babbu Maan",
+          "type": "artist",
+          "uri": "spotify:artist:2ENaPFnsKa9MlutVokd6es"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Ax6JQQBWP2BqmmcbVvZwl",
+          "id": "4Ax6JQQBWP2BqmmcbVvZwl",
+          "name": "Veet Baljit",
+          "type": "artist",
+          "uri": "spotify:artist:4Ax6JQQBWP2BqmmcbVvZwl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
+      },
+      "href": "https://api.spotify.com/v1/albums/1wspMsQ2eMXqo5gs6vEHzi",
+      "id": "1wspMsQ2eMXqo5gs6vEHzi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27353693b45bdb795a7070652d6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0253693b45bdb795a7070652d6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485153693b45bdb795a7070652d6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "WITHOUT PREJUDICE",
+      "release_date": "2025-03-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1wspMsQ2eMXqo5gs6vEHzi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/24iPKYVhAUK50EdXteLgSG"
+      },
+      "href": "https://api.spotify.com/v1/albums/24iPKYVhAUK50EdXteLgSG",
+      "id": "24iPKYVhAUK50EdXteLgSG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273538a1a47dda1f34b24ee9170",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02538a1a47dda1f34b24ee9170",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851538a1a47dda1f34b24ee9170",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Shahkot",
+      "release_date": "2024-09-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:24iPKYVhAUK50EdXteLgSG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vGVzTMuXsO1vb5YA8vKEr",
+          "id": "4vGVzTMuXsO1vb5YA8vKEr",
+          "name": "Jatinder Shah",
+          "type": "artist",
+          "uri": "spotify:artist:4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN"
+      },
+      "href": "https://api.spotify.com/v1/albums/5PFlkcno9qStTmxIF7TXTN",
+      "id": "5PFlkcno9qStTmxIF7TXTN",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27348bd78f7e7a68795260f9700",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0248bd78f7e7a68795260f9700",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485148bd78f7e7a68795260f9700",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "G Thing",
+      "release_date": "2023-12-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5PFlkcno9qStTmxIF7TXTN",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
+      },
+      "href": "https://api.spotify.com/v1/albums/0jasm0jnhQ6Y6OUYTI1NL6",
+      "id": "0jasm0jnhQ6Y6OUYTI1NL6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737bcb47bf66f6488ea9009fc5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027bcb47bf66f6488ea9009fc5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517bcb47bf66f6488ea9009fc5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Man Of The Moon",
+      "release_date": "2022-08-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0jasm0jnhQ6Y6OUYTI1NL6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6EDbwGsQNQRLf73c7QwZ2f"
+      },
+      "href": "https://api.spotify.com/v1/albums/6EDbwGsQNQRLf73c7QwZ2f",
+      "id": "6EDbwGsQNQRLf73c7QwZ2f",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27322287a5cc976690b88259bab",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0222287a5cc976690b88259bab",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485122287a5cc976690b88259bab",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "High Rated Gabru - Guru Randhawa",
+      "release_date": "2019-03-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6EDbwGsQNQRLf73c7QwZ2f",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+          "id": "5rQoBDKFnd1n6BkdbgVaRL",
+          "name": "Guru Randhawa",
+          "type": "artist",
+          "uri": "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ]
+    }
+  ]
+}

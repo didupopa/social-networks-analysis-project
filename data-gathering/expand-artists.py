@@ -11,7 +11,7 @@ from spotify_common import (
 # only pull in a new artist if they share at least this many songs with
 # someone already in the network. Without this guardrail, a single feature
 # verse from a huge-catalog artist could trigger a massive, unbounded crawl.
-MIN_SHARED_SONGS = 2
+MIN_SHARED_SONGS = 1
 
 # artist ids already present in the artists CSV -- skip these
 processed_artist_ids = set()

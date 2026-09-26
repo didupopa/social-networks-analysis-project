@@ -1,0 +1,53 @@
+{
+  "artist_id": "5qy5uPg15aiNE4uiAxcqkT",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2XF0Bxtq33K0SXfqw9zH7O"
+      },
+      "href": "https://api.spotify.com/v1/albums/2XF0Bxtq33K0SXfqw9zH7O",
+      "id": "2XF0Bxtq33K0SXfqw9zH7O",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f88f1375cc69582687237fba",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f88f1375cc69582687237fba",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f88f1375cc69582687237fba",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MRM",
+      "release_date": "2008-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2XF0Bxtq33K0SXfqw9zH7O",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qy5uPg15aiNE4uiAxcqkT"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qy5uPg15aiNE4uiAxcqkT",
+          "id": "5qy5uPg15aiNE4uiAxcqkT",
+          "name": "Mike Rizzo",
+          "type": "artist",
+          "uri": "spotify:artist:5qy5uPg15aiNE4uiAxcqkT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "artist_id": "3Y7RZ31TRPVadSFVy1o8os",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IwODpNZKFYkHWXSeWMGmP",
+      "id": "4IwODpNZKFYkHWXSeWMGmP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2731cc62ec1e5bf7a6715ad5762",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e021cc62ec1e5bf7a6715ad5762",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048511cc62ec1e5bf7a6715ad5762",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Back of My Mind",
+      "release_date": "2021-06-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4IwODpNZKFYkHWXSeWMGmP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+          "id": "3Y7RZ31TRPVadSFVy1o8os",
+          "name": "H.E.R.",
+          "type": "artist",
+          "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "href": "https://api.spotify.com/v1/albums/0IMTA2Wz6p8CNZ0MDK2zvg",
+      "id": "0IMTA2Wz6p8CNZ0MDK2zvg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a37d773f1a975bffb51f42fe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a37d773f1a975bffb51f42fe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a37d773f1a975bffb51f42fe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Used To Know Her",
+      "release_date": "2019-08-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0IMTA2Wz6p8CNZ0MDK2zvg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+          "id": "3Y7RZ31TRPVadSFVy1o8os",
+          "name": "H.E.R.",
+          "type": "artist",
+          "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pV0Mx07aMApIpF19oSQgY",
+      "id": "0pV0Mx07aMApIpF19oSQgY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273092701757191b300b7b210e8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02092701757191b300b7b210e8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851092701757191b300b7b210e8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "H.E.R.",
+      "release_date": "2017-10-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0pV0Mx07aMApIpF19oSQgY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+          "id": "3Y7RZ31TRPVadSFVy1o8os",
+          "name": "H.E.R.",
+          "type": "artist",
+          "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ]
+    }
+  ]
+}

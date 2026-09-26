@@ -1,0 +1,106 @@
+{
+  "artist_id": "3sW2ARRvBTwkbsLreWxFLH",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6oKnqu1TJfupvgkrlqVzza"
+      },
+      "href": "https://api.spotify.com/v1/albums/6oKnqu1TJfupvgkrlqVzza",
+      "id": "6oKnqu1TJfupvgkrlqVzza",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f93acb220596d0347f40b402",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f93acb220596d0347f40b402",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f93acb220596d0347f40b402",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Zor",
+      "release_date": "2018-12-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6oKnqu1TJfupvgkrlqVzza",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7DY9FILitaEJ4OGurrZk7t"
+          },
+          "href": "https://api.spotify.com/v1/artists/7DY9FILitaEJ4OGurrZk7t",
+          "id": "7DY9FILitaEJ4OGurrZk7t",
+          "name": "Korcan",
+          "type": "artist",
+          "uri": "spotify:artist:7DY9FILitaEJ4OGurrZk7t"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3sW2ARRvBTwkbsLreWxFLH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3sW2ARRvBTwkbsLreWxFLH",
+          "id": "3sW2ARRvBTwkbsLreWxFLH",
+          "name": "Kemal",
+          "type": "artist",
+          "uri": "spotify:artist:3sW2ARRvBTwkbsLreWxFLH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aEJsiziARnd5e33vUn2tI"
+      },
+      "href": "https://api.spotify.com/v1/albums/5aEJsiziARnd5e33vUn2tI",
+      "id": "5aEJsiziARnd5e33vUn2tI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273daf3db8dcc66b383f077bafe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02daf3db8dcc66b383f077bafe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851daf3db8dcc66b383f077bafe",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "El Circo de Fuego",
+      "release_date": "2015-09-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5aEJsiziARnd5e33vUn2tI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3sW2ARRvBTwkbsLreWxFLH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3sW2ARRvBTwkbsLreWxFLH",
+          "id": "3sW2ARRvBTwkbsLreWxFLH",
+          "name": "Kemal",
+          "type": "artist",
+          "uri": "spotify:artist:3sW2ARRvBTwkbsLreWxFLH"
+        }
+      ]
+    }
+  ]
+}

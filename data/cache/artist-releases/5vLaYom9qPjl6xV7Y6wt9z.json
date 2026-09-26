@@ -1,0 +1,53 @@
+{
+  "artist_id": "5vLaYom9qPjl6xV7Y6wt9z",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5sZOz1IbY42QWm37JN2NTU"
+      },
+      "href": "https://api.spotify.com/v1/albums/5sZOz1IbY42QWm37JN2NTU",
+      "id": "5sZOz1IbY42QWm37JN2NTU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c4582745758503af32462f9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025c4582745758503af32462f9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515c4582745758503af32462f9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gold Series Vol.1",
+      "release_date": "2013-07-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5sZOz1IbY42QWm37JN2NTU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5vLaYom9qPjl6xV7Y6wt9z",
+          "id": "5vLaYom9qPjl6xV7Y6wt9z",
+          "name": "OG Black y Master Joe",
+          "type": "artist",
+          "uri": "spotify:artist:5vLaYom9qPjl6xV7Y6wt9z"
+        }
+      ]
+    }
+  ]
+}

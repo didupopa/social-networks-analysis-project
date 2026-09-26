@@ -1,0 +1,116 @@
+{
+  "artist_id": "0ElFqgRJ2ntCvvdWNyXUBh",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4y842iucbhAea8KBlPznM1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4y842iucbhAea8KBlPznM1",
+      "id": "4y842iucbhAea8KBlPznM1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273440b4201f88d21f31658e699",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02440b4201f88d21f31658e699",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851440b4201f88d21f31658e699",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Almost",
+      "release_date": "2014-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4y842iucbhAea8KBlPznM1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qWbDbKoJ9xRxzvnTGGkqX"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qWbDbKoJ9xRxzvnTGGkqX",
+          "id": "3qWbDbKoJ9xRxzvnTGGkqX",
+          "name": "Johnny Vicious and Royaal Featuring Blake Sicily",
+          "type": "artist",
+          "uri": "spotify:artist:3qWbDbKoJ9xRxzvnTGGkqX"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ElFqgRJ2ntCvvdWNyXUBh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ElFqgRJ2ntCvvdWNyXUBh",
+          "id": "0ElFqgRJ2ntCvvdWNyXUBh",
+          "name": "Johnny Vicious",
+          "type": "artist",
+          "uri": "spotify:artist:0ElFqgRJ2ntCvvdWNyXUBh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23gCDuSE5JDYUOJZvRkosu"
+          },
+          "href": "https://api.spotify.com/v1/artists/23gCDuSE5JDYUOJZvRkosu",
+          "id": "23gCDuSE5JDYUOJZvRkosu",
+          "name": "Royaal",
+          "type": "artist",
+          "uri": "spotify:artist:23gCDuSE5JDYUOJZvRkosu"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1HUWP7ZS8SIXU5cFmUuAAM"
+      },
+      "href": "https://api.spotify.com/v1/albums/1HUWP7ZS8SIXU5cFmUuAAM",
+      "id": "1HUWP7ZS8SIXU5cFmUuAAM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3fa56e7857c5cd323c33bc1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3fa56e7857c5cd323c33bc1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d3fa56e7857c5cd323c33bc1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Vish Records 1",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:1HUWP7ZS8SIXU5cFmUuAAM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ElFqgRJ2ntCvvdWNyXUBh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ElFqgRJ2ntCvvdWNyXUBh",
+          "id": "0ElFqgRJ2ntCvvdWNyXUBh",
+          "name": "Johnny Vicious",
+          "type": "artist",
+          "uri": "spotify:artist:0ElFqgRJ2ntCvvdWNyXUBh"
+        }
+      ]
+    }
+  ]
+}

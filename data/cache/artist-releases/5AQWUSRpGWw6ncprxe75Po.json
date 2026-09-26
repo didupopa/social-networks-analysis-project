@@ -1,0 +1,53 @@
+{
+  "artist_id": "5AQWUSRpGWw6ncprxe75Po",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 6,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1F2BPTBjid4XVR8FZJ5UL0"
+      },
+      "href": "https://api.spotify.com/v1/albums/1F2BPTBjid4XVR8FZJ5UL0",
+      "id": "1F2BPTBjid4XVR8FZJ5UL0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273076e1eb55b0ff2bd80614ff1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02076e1eb55b0ff2bd80614ff1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851076e1eb55b0ff2bd80614ff1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Banda e Murtaza Ali Hastam Mola",
+      "release_date": "2018-08-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1F2BPTBjid4XVR8FZJ5UL0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5AQWUSRpGWw6ncprxe75Po"
+          },
+          "href": "https://api.spotify.com/v1/artists/5AQWUSRpGWw6ncprxe75Po",
+          "id": "5AQWUSRpGWw6ncprxe75Po",
+          "name": "Hani Kamal",
+          "type": "artist",
+          "uri": "spotify:artist:5AQWUSRpGWw6ncprxe75Po"
+        }
+      ]
+    }
+  ]
+}

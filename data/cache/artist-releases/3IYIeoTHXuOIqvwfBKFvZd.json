@@ -1,0 +1,139 @@
+{
+  "artist_id": "3IYIeoTHXuOIqvwfBKFvZd",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3LDo9clKnJXZOTGY6sZJ8E"
+      },
+      "href": "https://api.spotify.com/v1/albums/3LDo9clKnJXZOTGY6sZJ8E",
+      "id": "3LDo9clKnJXZOTGY6sZJ8E",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734e40425ab87938ee2f8ea036",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024e40425ab87938ee2f8ea036",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514e40425ab87938ee2f8ea036",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "En la Sombra de Sus Alas",
+      "release_date": "2020-12-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3LDo9clKnJXZOTGY6sZJ8E",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYIeoTHXuOIqvwfBKFvZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYIeoTHXuOIqvwfBKFvZd",
+          "id": "3IYIeoTHXuOIqvwfBKFvZd",
+          "name": "Cesar Murillo",
+          "type": "artist",
+          "uri": "spotify:artist:3IYIeoTHXuOIqvwfBKFvZd"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tIepUf6bdzik8bUSE4cJc"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tIepUf6bdzik8bUSE4cJc",
+      "id": "6tIepUf6bdzik8bUSE4cJc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27353e7cb988ca5e5d9563c95bf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0253e7cb988ca5e5d9563c95bf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485153e7cb988ca5e5d9563c95bf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Al Paso del Rey",
+      "release_date": "2012-10-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tIepUf6bdzik8bUSE4cJc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYIeoTHXuOIqvwfBKFvZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYIeoTHXuOIqvwfBKFvZd",
+          "id": "3IYIeoTHXuOIqvwfBKFvZd",
+          "name": "Cesar Murillo",
+          "type": "artist",
+          "uri": "spotify:artist:3IYIeoTHXuOIqvwfBKFvZd"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6hHW5g2JegTWKj0trSPxCv"
+      },
+      "href": "https://api.spotify.com/v1/albums/6hHW5g2JegTWKj0trSPxCv",
+      "id": "6hHW5g2JegTWKj0trSPxCv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b45ec23968a5b8dd5ac4ea7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026b45ec23968a5b8dd5ac4ea7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516b45ec23968a5b8dd5ac4ea7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Retrospect 2008",
+      "release_date": "2011-03-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6hHW5g2JegTWKj0trSPxCv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IYIeoTHXuOIqvwfBKFvZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3IYIeoTHXuOIqvwfBKFvZd",
+          "id": "3IYIeoTHXuOIqvwfBKFvZd",
+          "name": "Cesar Murillo",
+          "type": "artist",
+          "uri": "spotify:artist:3IYIeoTHXuOIqvwfBKFvZd"
+        }
+      ]
+    }
+  ]
+}

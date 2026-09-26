@@ -1,0 +1,139 @@
+{
+  "artist_id": "1noWnd8QFQD9VLxWEeo4Zf",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
+      },
+      "href": "https://api.spotify.com/v1/albums/2G4T745eynlKnJdhDj3bAB",
+      "id": "2G4T745eynlKnJdhDj3bAB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737f26c0802b29e8d3c4bbc163",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027f26c0802b29e8d3c4bbc163",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517f26c0802b29e8d3c4bbc163",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "EMDP (The Last Album)",
+      "release_date": "2024-03-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2G4T745eynlKnJdhDj3bAB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1noWnd8QFQD9VLxWEeo4Zf",
+          "id": "1noWnd8QFQD9VLxWEeo4Zf",
+          "name": "Don Miguelo",
+          "type": "artist",
+          "uri": "spotify:artist:1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 25,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0IRTjM12RHZ0rLhmJxr7v2"
+      },
+      "href": "https://api.spotify.com/v1/albums/0IRTjM12RHZ0rLhmJxr7v2",
+      "id": "0IRTjM12RHZ0rLhmJxr7v2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e83c7db81c30b87c3e875d83",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e83c7db81c30b87c3e875d83",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e83c7db81c30b87c3e875d83",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Concierto (En Vivo)",
+      "release_date": "2023-06-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0IRTjM12RHZ0rLhmJxr7v2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1noWnd8QFQD9VLxWEeo4Zf",
+          "id": "1noWnd8QFQD9VLxWEeo4Zf",
+          "name": "Don Miguelo",
+          "type": "artist",
+          "uri": "spotify:artist:1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2TEPW1Qerg6ZvRSSRbeukx"
+      },
+      "href": "https://api.spotify.com/v1/albums/2TEPW1Qerg6ZvRSSRbeukx",
+      "id": "2TEPW1Qerg6ZvRSSRbeukx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27399ab86056faf76492a703b83",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0299ab86056faf76492a703b83",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485199ab86056faf76492a703b83",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Contra El Tiempo",
+      "release_date": "2006-06-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2TEPW1Qerg6ZvRSSRbeukx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1noWnd8QFQD9VLxWEeo4Zf",
+          "id": "1noWnd8QFQD9VLxWEeo4Zf",
+          "name": "Don Miguelo",
+          "type": "artist",
+          "uri": "spotify:artist:1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ]
+    }
+  ]
+}

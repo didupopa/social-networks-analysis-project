@@ -1,0 +1,106 @@
+{
+  "artist_id": "0OoOBeRsejOlI6XucsBAXP",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7vbNErhcV2kJofOvdB7G9S"
+      },
+      "href": "https://api.spotify.com/v1/albums/7vbNErhcV2kJofOvdB7G9S",
+      "id": "7vbNErhcV2kJofOvdB7G9S",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3784c57d4f13eb8072e79c1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3784c57d4f13eb8072e79c1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f3784c57d4f13eb8072e79c1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Long Bright River (Original Series Soundtrack)",
+      "release_date": "2025-03-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7vbNErhcV2kJofOvdB7G9S",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OoOBeRsejOlI6XucsBAXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OoOBeRsejOlI6XucsBAXP",
+          "id": "0OoOBeRsejOlI6XucsBAXP",
+          "name": "James Poyser",
+          "type": "artist",
+          "uri": "spotify:artist:0OoOBeRsejOlI6XucsBAXP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ri2hXvqVTXbfCWzeIxAnP",
+          "id": "6ri2hXvqVTXbfCWzeIxAnP",
+          "name": "Dimitri Smith",
+          "type": "artist",
+          "uri": "spotify:artist:6ri2hXvqVTXbfCWzeIxAnP"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4jHrvFayeArjm242EiQevM"
+      },
+      "href": "https://api.spotify.com/v1/albums/4jHrvFayeArjm242EiQevM",
+      "id": "4jHrvFayeArjm242EiQevM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27383261b12706086b7ac597512",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0283261b12706086b7ac597512",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485183261b12706086b7ac597512",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Boxing Day (Original Motion Picture Soundtrack)",
+      "release_date": "2022-12-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4jHrvFayeArjm242EiQevM",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0OoOBeRsejOlI6XucsBAXP"
+          },
+          "href": "https://api.spotify.com/v1/artists/0OoOBeRsejOlI6XucsBAXP",
+          "id": "0OoOBeRsejOlI6XucsBAXP",
+          "name": "James Poyser",
+          "type": "artist",
+          "uri": "spotify:artist:0OoOBeRsejOlI6XucsBAXP"
+        }
+      ]
+    }
+  ]
+}

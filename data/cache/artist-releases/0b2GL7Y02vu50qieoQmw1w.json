@@ -1,0 +1,106 @@
+{
+  "artist_id": "0b2GL7Y02vu50qieoQmw1w",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
+      },
+      "href": "https://api.spotify.com/v1/albums/1nPRTKmS3Bn0f2ih11i2aH",
+      "id": "1nPRTKmS3Bn0f2ih11i2aH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fa853d9769c89d08a74983bb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fa853d9769c89d08a74983bb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fa853d9769c89d08a74983bb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "UNDERDOGS",
+      "release_date": "2025-08-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1nPRTKmS3Bn0f2ih11i2aH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2GL7Y02vu50qieoQmw1w",
+          "id": "0b2GL7Y02vu50qieoQmw1w",
+          "name": "IAmChino",
+          "type": "artist",
+          "uri": "spotify:artist:0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "type": "artist",
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty"
+      },
+      "href": "https://api.spotify.com/v1/albums/0JTaJ6c4DJdF7VkWga0cty",
+      "id": "0JTaJ6c4DJdF7VkWga0cty",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5e55e5420d38de39935332a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5e55e5420d38de39935332a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e5e55e5420d38de39935332a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Most Winning",
+      "release_date": "2022-11-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0JTaJ6c4DJdF7VkWga0cty",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          },
+          "href": "https://api.spotify.com/v1/artists/0b2GL7Y02vu50qieoQmw1w",
+          "id": "0b2GL7Y02vu50qieoQmw1w",
+          "name": "IAmChino",
+          "type": "artist",
+          "uri": "spotify:artist:0b2GL7Y02vu50qieoQmw1w"
+        }
+      ]
+    }
+  ]
+}

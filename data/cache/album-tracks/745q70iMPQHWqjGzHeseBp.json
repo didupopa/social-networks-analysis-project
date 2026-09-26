@@ -1,0 +1,607 @@
+{
+  "album_id": "745q70iMPQHWqjGzHeseBp",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UTCjjwxYJioyA39EX6ciu",
+          "id": "3UTCjjwxYJioyA39EX6ciu",
+          "name": "Mike Sabath",
+          "type": "artist",
+          "uri": "spotify:artist:3UTCjjwxYJioyA39EX6ciu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176947,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4xgqTlobc3heFVm1JKHTMl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4xgqTlobc3heFVm1JKHTMl",
+      "id": "4xgqTlobc3heFVm1JKHTMl",
+      "name": "Wave (feat. Mike Sabath)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4xgqTlobc3heFVm1JKHTMl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197003,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6MdYGBmQXHv7VYp0DujUJj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6MdYGBmQXHv7VYp0DujUJj",
+      "id": "6MdYGBmQXHv7VYp0DujUJj",
+      "name": "Nice to Meet Ya (feat. Nicki Minaj)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6MdYGBmQXHv7VYp0DujUJj",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191607,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/22vrKJvwBBFB68HNWz66UL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/22vrKJvwBBFB68HNWz66UL",
+      "id": "22vrKJvwBBFB68HNWz66UL",
+      "name": "Funk",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:22vrKJvwBBFB68HNWz66UL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2BaTC9I8e0AgUr2CDablX2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2BaTC9I8e0AgUr2CDablX2",
+      "id": "2BaTC9I8e0AgUr2CDablX2",
+      "name": "Babygirl",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2BaTC9I8e0AgUr2CDablX2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cZQSpDsxgKIX2yW5OR9Ot",
+          "id": "1cZQSpDsxgKIX2yW5OR9Ot",
+          "name": "Lennon Stella",
+          "type": "artist",
+          "uri": "spotify:artist:1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xnihxcoXWK3UqryOSnbw5",
+          "id": "4xnihxcoXWK3UqryOSnbw5",
+          "name": "Sasha Alex Sloan",
+          "type": "artist",
+          "uri": "spotify:artist:4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 181290,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7qbMIdvuzmFQszd6nw7bB2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7qbMIdvuzmFQszd6nw7bB2",
+      "id": "7qbMIdvuzmFQszd6nw7bB2",
+      "name": "Workin' On It (feat. Lennon Stella & Sasha Alex Sloan)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:7qbMIdvuzmFQszd6nw7bB2",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197777,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4MeUHf8RtEGxwnnV5PwMc8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4MeUHf8RtEGxwnnV5PwMc8",
+      "id": "4MeUHf8RtEGxwnnV5PwMc8",
+      "name": "Ashes",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4MeUHf8RtEGxwnnV5PwMc8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 160201,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4znh1p0coTVE3AyEffe1lL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4znh1p0coTVE3AyEffe1lL",
+      "id": "4znh1p0coTVE3AyEffe1lL",
+      "name": "Lie To Me",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4znh1p0coTVE3AyEffe1lL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183861,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2FRSqjO8Xqcpcx48E3pstg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2FRSqjO8Xqcpcx48E3pstg",
+      "id": "2FRSqjO8Xqcpcx48E3pstg",
+      "name": "Here To Stay",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2FRSqjO8Xqcpcx48E3pstg",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167166,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7KzYvcB5s6kPiuCq6A4s2O"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7KzYvcB5s6kPiuCq6A4s2O",
+      "id": "7KzYvcB5s6kPiuCq6A4s2O",
+      "name": "Blink",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7KzYvcB5s6kPiuCq6A4s2O",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ",
+          "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+          "name": "The Pussycat Dolls",
+          "type": "artist",
+          "uri": "spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177816,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4p6d2Z6ouHQV7eiS2ZmuzA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4p6d2Z6ouHQV7eiS2ZmuzA",
+      "id": "4p6d2Z6ouHQV7eiS2ZmuzA",
+      "name": "Genetics (feat. Pussycat Dolls)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4p6d2Z6ouHQV7eiS2ZmuzA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192070,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0KT7irqphv225IJf0XJEK1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0KT7irqphv225IJf0XJEK1",
+      "id": "0KT7irqphv225IJf0XJEK1",
+      "name": "Evil Twin",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0KT7irqphv225IJf0XJEK1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206354,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6sBvfjtZKYVaOQvfPtGGcC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6sBvfjtZKYVaOQvfPtGGcC",
+      "id": "6sBvfjtZKYVaOQvfPtGGcC",
+      "name": "After You",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6sBvfjtZKYVaOQvfPtGGcC",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183981,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0TdwFfFc4eHYUcELjrSDeo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0TdwFfFc4eHYUcELjrSDeo",
+      "id": "0TdwFfFc4eHYUcELjrSDeo",
+      "name": "Another Opinion",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0TdwFfFc4eHYUcELjrSDeo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152862,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5RXMa45LmM3pDbTvkf3n4f"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5RXMa45LmM3pDbTvkf3n4f",
+      "id": "5RXMa45LmM3pDbTvkf3n4f",
+      "name": "No Excuses",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:5RXMa45LmM3pDbTvkf3n4f",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226428,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1RRI1tSIS05ok7GBZlJ7kl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1RRI1tSIS05ok7GBZlJ7kl",
+      "id": "1RRI1tSIS05ok7GBZlJ7kl",
+      "name": "Have You Now",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:1RRI1tSIS05ok7GBZlJ7kl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191805,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BzNEYhKszAJ5rkl2xbcMi",
+      "id": "6BzNEYhKszAJ5rkl2xbcMi",
+      "name": "Make You Dance",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:6BzNEYhKszAJ5rkl2xbcMi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          },
+          "href": "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+          "id": "5R3Hr2cnCCjt220Jmt2xLf",
+          "name": "Dillon Francis",
+          "type": "artist",
+          "uri": "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161947,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7uGQCsecZDhMCWBJmQvs1A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7uGQCsecZDhMCWBJmQvs1A",
+      "id": "7uGQCsecZDhMCWBJmQvs1A",
+      "name": "Underwater (feat. Dillon Francis)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:7uGQCsecZDhMCWBJmQvs1A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210833,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xGTNPcwsvonkWUQV1Wsqu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xGTNPcwsvonkWUQV1Wsqu",
+      "id": "3xGTNPcwsvonkWUQV1Wsqu",
+      "name": "You Don't Know Me",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:3xGTNPcwsvonkWUQV1Wsqu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194417,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0n3nGEbCYTlysvl6X14IyI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0n3nGEbCYTlysvl6X14IyI",
+      "id": "0n3nGEbCYTlysvl6X14IyI",
+      "name": "Ashes - Acoustic",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:0n3nGEbCYTlysvl6X14IyI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
+          "id": "6JL8zeS1NmiOftqZTRgdTz",
+          "name": "Meghan Trainor",
+          "type": "artist",
+          "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186612,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1JMpyq86wHG6nYJWnvgf5G"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1JMpyq86wHG6nYJWnvgf5G",
+      "id": "1JMpyq86wHG6nYJWnvgf5G",
+      "name": "Workin' On It - Acoustic",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:1JMpyq86wHG6nYJWnvgf5G",
+      "is_local": false
+    }
+  ]
+}

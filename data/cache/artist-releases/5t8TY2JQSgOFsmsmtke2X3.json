@@ -1,0 +1,53 @@
+{
+  "artist_id": "5t8TY2JQSgOFsmsmtke2X3",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4LhD9VBk4h7mSNbtT6ZgaC"
+      },
+      "href": "https://api.spotify.com/v1/albums/4LhD9VBk4h7mSNbtT6ZgaC",
+      "id": "4LhD9VBk4h7mSNbtT6ZgaC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730a5fccfeb69c92af0ac58b4c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020a5fccfeb69c92af0ac58b4c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510a5fccfeb69c92af0ac58b4c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Everything",
+      "release_date": "2007-07-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4LhD9VBk4h7mSNbtT6ZgaC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5t8TY2JQSgOFsmsmtke2X3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5t8TY2JQSgOFsmsmtke2X3",
+          "id": "5t8TY2JQSgOFsmsmtke2X3",
+          "name": "Justin Michael",
+          "type": "artist",
+          "uri": "spotify:artist:5t8TY2JQSgOFsmsmtke2X3"
+        }
+      ]
+    }
+  ]
+}

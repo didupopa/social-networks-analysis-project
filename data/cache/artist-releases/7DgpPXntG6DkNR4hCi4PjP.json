@@ -1,0 +1,53 @@
+{
+  "artist_id": "7DgpPXntG6DkNR4hCi4PjP",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ghlpJtcN9O9Sk72voIHJm",
+      "id": "0ghlpJtcN9O9Sk72voIHJm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27345dc339441148c140eceea59",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0245dc339441148c140eceea59",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485145dc339441148c140eceea59",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ALTER EGO",
+      "release_date": "2023-09-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0ghlpJtcN9O9Sk72voIHJm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7DgpPXntG6DkNR4hCi4PjP",
+          "id": "7DgpPXntG6DkNR4hCi4PjP",
+          "name": "Chesca",
+          "type": "artist",
+          "uri": "spotify:artist:7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ]
+    }
+  ]
+}

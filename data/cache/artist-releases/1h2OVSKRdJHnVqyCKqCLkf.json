@@ -1,0 +1,73 @@
+{
+  "artist_id": "1h2OVSKRdJHnVqyCKqCLkf",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6VB4Hd7UflAqmq8eH4CKsf"
+      },
+      "href": "https://api.spotify.com/v1/albums/6VB4Hd7UflAqmq8eH4CKsf",
+      "id": "6VB4Hd7UflAqmq8eH4CKsf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27381ea9ef0ac0abae927a6a84d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0281ea9ef0ac0abae927a6a84d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485181ea9ef0ac0abae927a6a84d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Plumb",
+      "release_date": "2023-07-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6VB4Hd7UflAqmq8eH4CKsf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg"
+          },
+          "href": "https://api.spotify.com/v1/artists/00SOiqZ0YGY2JhjSPxZMZg",
+          "id": "00SOiqZ0YGY2JhjSPxZMZg",
+          "name": "David Murray",
+          "type": "artist",
+          "uri": "spotify:artist:00SOiqZ0YGY2JhjSPxZMZg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h2OVSKRdJHnVqyCKqCLkf",
+          "id": "1h2OVSKRdJHnVqyCKqCLkf",
+          "name": "?uestlove",
+          "type": "artist",
+          "uri": "spotify:artist:1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2imEuRuSqnOYb6c0JhNb35"
+          },
+          "href": "https://api.spotify.com/v1/artists/2imEuRuSqnOYb6c0JhNb35",
+          "id": "2imEuRuSqnOYb6c0JhNb35",
+          "name": "Ray Angry",
+          "type": "artist",
+          "uri": "spotify:artist:2imEuRuSqnOYb6c0JhNb35"
+        }
+      ]
+    }
+  ]
+}

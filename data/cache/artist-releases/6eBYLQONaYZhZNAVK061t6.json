@@ -1,0 +1,53 @@
+{
+  "artist_id": "6eBYLQONaYZhZNAVK061t6",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
+      },
+      "href": "https://api.spotify.com/v1/albums/15Zjx7K5ifTVmXa3Nk5B88",
+      "id": "15Zjx7K5ifTVmXa3Nk5B88",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e0c595c1a9a2f98535072fdd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e0c595c1a9a2f98535072fdd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e0c595c1a9a2f98535072fdd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nina Sky",
+      "release_date": "2004-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:15Zjx7K5ifTVmXa3Nk5B88",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eBYLQONaYZhZNAVK061t6",
+          "id": "6eBYLQONaYZhZNAVK061t6",
+          "name": "Nina Sky",
+          "type": "artist",
+          "uri": "spotify:artist:6eBYLQONaYZhZNAVK061t6"
+        }
+      ]
+    }
+  ]
+}

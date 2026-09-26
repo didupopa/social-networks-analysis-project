@@ -1,0 +1,53 @@
+{
+  "artist_id": "79A4RmgwxYGIDkqQDUHLXK",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6"
+      },
+      "href": "https://api.spotify.com/v1/albums/0cGYe4MX209Hbi0aoebED6",
+      "id": "0cGYe4MX209Hbi0aoebED6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e88b27fa99714778d86f2e1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027e88b27fa99714778d86f2e1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517e88b27fa99714778d86f2e1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Friends Who Failed At Love",
+      "release_date": "2021-03-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0cGYe4MX209Hbi0aoebED6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK"
+          },
+          "href": "https://api.spotify.com/v1/artists/79A4RmgwxYGIDkqQDUHLXK",
+          "id": "79A4RmgwxYGIDkqQDUHLXK",
+          "name": "Chloe Angelides",
+          "type": "artist",
+          "uri": "spotify:artist:79A4RmgwxYGIDkqQDUHLXK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "artist_id": "7crPfGd2k81ekOoSqQKWWz",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
+      },
+      "href": "https://api.spotify.com/v1/albums/0MNvghevbRjjP8X3qPVrxv",
+      "id": "0MNvghevbRjjP8X3qPVrxv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273dcfc866e6528b99a003d63f1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02dcfc866e6528b99a003d63f1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851dcfc866e6528b99a003d63f1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Buckingham Nicks",
+      "release_date": "2025-09-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0MNvghevbRjjP8X3qPVrxv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+          },
+          "href": "https://api.spotify.com/v1/artists/2KugL3DwL7NRCN9VLcWXqx",
+          "id": "2KugL3DwL7NRCN9VLcWXqx",
+          "name": "Buckingham Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Dzj993UEz8Z5ovxuirzFO",
+          "id": "3Dzj993UEz8Z5ovxuirzFO",
+          "name": "Lindsey Buckingham",
+          "type": "artist",
+          "uri": "spotify:artist:3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 31,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1KA2ASzfTDVo3LrBTZMvzQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/1KA2ASzfTDVo3LrBTZMvzQ",
+      "id": "1KA2ASzfTDVo3LrBTZMvzQ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738b523529fb850fd8534b1bea",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028b523529fb850fd8534b1bea",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518b523529fb850fd8534b1bea",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Spellbound (Live)",
+      "release_date": "2024-01-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1KA2ASzfTDVo3LrBTZMvzQ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Dw2Cj7JT3WjLueRRvAjID"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Dw2Cj7JT3WjLueRRvAjID",
+      "id": "5Dw2Cj7JT3WjLueRRvAjID",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273092657d72f7aa1de82755cdf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02092657d72f7aa1de82755cdf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851092657d72f7aa1de82755cdf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Just An Invitation (Live)",
+      "release_date": "2023-10-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Dw2Cj7JT3WjLueRRvAjID",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 121,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2g3QzVCFx0kEmYICkjHj2N"
+      },
+      "href": "https://api.spotify.com/v1/albums/2g3QzVCFx0kEmYICkjHj2N",
+      "id": "2g3QzVCFx0kEmYICkjHj2N",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735a640236b018d1cef1e01211",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025a640236b018d1cef1e01211",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515a640236b018d1cef1e01211",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Complete Studio Albums & Rarities",
+      "release_date": "2023-07-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2g3QzVCFx0kEmYICkjHj2N",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zGZdzAps6VbBd4LCxo09m"
+      },
+      "href": "https://api.spotify.com/v1/albums/5zGZdzAps6VbBd4LCxo09m",
+      "id": "5zGZdzAps6VbBd4LCxo09m",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c432a025b3008407bb960f0f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c432a025b3008407bb960f0f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c432a025b3008407bb960f0f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Skylark (Live 1994)",
+      "release_date": "2022-10-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5zGZdzAps6VbBd4LCxo09m",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
+      },
+      "href": "https://api.spotify.com/v1/albums/6RXy2mL8HlVhzHU0JOO9dq",
+      "id": "6RXy2mL8HlVhzHU0JOO9dq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ed1b19e0b1b6502925bf6e6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029ed1b19e0b1b6502925bf6e6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519ed1b19e0b1b6502925bf6e6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Live In Concert: The 24 Karat Gold Tour",
+      "release_date": "2020-10-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6RXy2mL8HlVhzHU0JOO9dq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 35,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "href": "https://api.spotify.com/v1/albums/3S404OgKoVQSJ3xXrDVlp8",
+      "id": "3S404OgKoVQSJ3xXrDVlp8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c5127071182a8dd9afcdcf8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020c5127071182a8dd9afcdcf8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510c5127071182a8dd9afcdcf8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bella Donna (Deluxe Edition)",
+      "release_date": "2016-11-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3S404OgKoVQSJ3xXrDVlp8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
+      },
+      "href": "https://api.spotify.com/v1/albums/0zuIUmEvxMf8tIYZ5wxJHI",
+      "id": "0zuIUmEvxMf8tIYZ5wxJHI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734a25cc8374d82a81ba6a07bc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024a25cc8374d82a81ba6a07bc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514a25cc8374d82a81ba6a07bc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Wild Heart (Deluxe Edition)",
+      "release_date": "2016-11-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0zuIUmEvxMf8tIYZ5wxJHI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "href": "https://api.spotify.com/v1/albums/7jCfopf1GmfBfYJh63aW7R",
+      "id": "7jCfopf1GmfBfYJh63aW7R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d64ff4f60df75edc79e5190",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d64ff4f60df75edc79e5190",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d64ff4f60df75edc79e5190",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "24 Karat Gold: Songs from the Vault",
+      "release_date": "2014-09-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7jCfopf1GmfBfYJh63aW7R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/04kchEXrG1dEHCdZzwWVxR"
+      },
+      "href": "https://api.spotify.com/v1/albums/04kchEXrG1dEHCdZzwWVxR",
+      "id": "04kchEXrG1dEHCdZzwWVxR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27368f897785f26e0f8533b455e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0268f897785f26e0f8533b455e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485168f897785f26e0f8533b455e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "24 Karat Gold: Songs from the Vault (Deluxe Edition)",
+      "release_date": "2014-09-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:04kchEXrG1dEHCdZzwWVxR",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "href": "https://api.spotify.com/v1/albums/1mJFn6QQYSHfArKZzvrNvj",
+      "id": "1mJFn6QQYSHfArKZzvrNvj",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27349bc7b48a37e02d353f15749",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0249bc7b48a37e02d353f15749",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485149bc7b48a37e02d353f15749",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "In Your Dreams",
+      "release_date": "2011-04-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1mJFn6QQYSHfArKZzvrNvj",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2RQoz318vUnEVhyiMxAAf1"
+      },
+      "href": "https://api.spotify.com/v1/albums/2RQoz318vUnEVhyiMxAAf1",
+      "id": "2RQoz318vUnEVhyiMxAAf1",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cf4028db59a9578f03498cdf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cf4028db59a9578f03498cdf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cf4028db59a9578f03498cdf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Soundstage Sessions (Amazon MP3)",
+      "release_date": "2009-02-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2RQoz318vUnEVhyiMxAAf1",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6OYYHeLOJz1P3YLIZna1pu"
+      },
+      "href": "https://api.spotify.com/v1/albums/6OYYHeLOJz1P3YLIZna1pu",
+      "id": "6OYYHeLOJz1P3YLIZna1pu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736f8298941d8dc7e7f81c9d5b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026f8298941d8dc7e7f81c9d5b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516f8298941d8dc7e7f81c9d5b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Soundstage Sessions (Deluxe Edition)",
+      "release_date": "2009-02-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6OYYHeLOJz1P3YLIZna1pu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "href": "https://api.spotify.com/v1/albums/77Q6ef8LmG5pCA34yyRjOg",
+      "id": "77Q6ef8LmG5pCA34yyRjOg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273153fb0e80053f84d2c3fff14",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02153fb0e80053f84d2c3fff14",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851153fb0e80053f84d2c3fff14",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trouble in Shangri-La",
+      "release_date": "2001-05-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:77Q6ef8LmG5pCA34yyRjOg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+      },
+      "href": "https://api.spotify.com/v1/albums/6zfkiTCfpCeQCokEMlpudS",
+      "id": "6zfkiTCfpCeQCokEMlpudS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ce4a5faf30465c7ec2a8662",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027ce4a5faf30465c7ec2a8662",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517ce4a5faf30465c7ec2a8662",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Street Angel",
+      "release_date": "1994-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6zfkiTCfpCeQCokEMlpudS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6dGensB7xkORUYpd8bvd6H"
+      },
+      "href": "https://api.spotify.com/v1/albums/6dGensB7xkORUYpd8bvd6H",
+      "id": "6dGensB7xkORUYpd8bvd6H",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ddc3e0564e915287d4f946aa",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ddc3e0564e915287d4f946aa",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ddc3e0564e915287d4f946aa",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Breaking the Chain",
+      "release_date": "1991-08-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6dGensB7xkORUYpd8bvd6H",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
+      },
+      "href": "https://api.spotify.com/v1/albums/520iW3fXcWW5mbQToP0hs0",
+      "id": "520iW3fXcWW5mbQToP0hs0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f7034d89128617b337d45d6b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f7034d89128617b337d45d6b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f7034d89128617b337d45d6b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Other Side of the Mirror",
+      "release_date": "1989-05-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:520iW3fXcWW5mbQToP0hs0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "href": "https://api.spotify.com/v1/albums/0guJSEAsHAQ1gXPC18u7hc",
+      "id": "0guJSEAsHAQ1gXPC18u7hc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737401a6c44ff97cad50993a4a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027401a6c44ff97cad50993a4a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517401a6c44ff97cad50993a4a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rock a Little",
+      "release_date": "1986-01-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0guJSEAsHAQ1gXPC18u7hc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "href": "https://api.spotify.com/v1/albums/29RVdfPWTEu6atVycxx86s",
+      "id": "29RVdfPWTEu6atVycxx86s",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273de40778ab657c6e04a4e213a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02de40778ab657c6e04a4e213a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851de40778ab657c6e04a4e213a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Wild Heart (2016 Remastered)",
+      "release_date": "1983-06-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:29RVdfPWTEu6atVycxx86s",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+      },
+      "href": "https://api.spotify.com/v1/albums/0IomjU2bXFng4LQBYn7Het",
+      "id": "0IomjU2bXFng4LQBYn7Het",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273af14d74d5e308ce2f3ec22f8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02af14d74d5e308ce2f3ec22f8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851af14d74d5e308ce2f3ec22f8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bella Donna (2016 Remastered)",
+      "release_date": "1981-07-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0IomjU2bXFng4LQBYn7Het",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          },
+          "href": "https://api.spotify.com/v1/artists/7crPfGd2k81ekOoSqQKWWz",
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks",
+          "type": "artist",
+          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "album_id": "2IAVHJdaRPFA6MQqXHoG75",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 117184,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4geaFycly5R2PF261olQ4D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4geaFycly5R2PF261olQ4D",
+      "id": "4geaFycly5R2PF261olQ4D",
+      "name": "Intro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4geaFycly5R2PF261olQ4D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+          "id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "SLANDER",
+          "type": "artist",
+          "uri": "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QeNM65b7IWvK4Ofcqz8cm",
+          "id": "2QeNM65b7IWvK4Ofcqz8cm",
+          "name": "Calle Lehmann",
+          "type": "artist",
+          "uri": "spotify:artist:2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238337,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4TIkSdsNSfqpuq6ZYvCjAz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4TIkSdsNSfqpuq6ZYvCjAz",
+      "id": "4TIkSdsNSfqpuq6ZYvCjAz",
+      "name": "All You Need To Know (feat. Calle Lehmann)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4TIkSdsNSfqpuq6ZYvCjAz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          },
+          "href": "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+          "id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "Seven Lions",
+          "type": "artist",
+          "uri": "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan",
+          "type": "artist",
+          "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205786,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6hciDCyJDYCsYQp2lH6kdA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6hciDCyJDYCsYQp2lH6kdA",
+      "id": "6hciDCyJDYCsYQp2lH6kdA",
+      "name": "Need Your Love (with Noah Kahan)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6hciDCyJDYCsYQp2lH6kdA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          },
+          "href": "https://api.spotify.com/v1/artists/67MNhiAICFY6Pwc2YxCO0K",
+          "id": "67MNhiAICFY6Pwc2YxCO0K",
+          "name": "Elley Duhé",
+          "type": "artist",
+          "uri": "spotify:artist:67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218239,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zh01m4PiHaZz4BAm0NRxs",
+      "id": "2zh01m4PiHaZz4BAm0NRxs",
+      "name": "Tie Me Down (with Elley Duhé)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2zh01m4PiHaZz4BAm0NRxs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          },
+          "href": "https://api.spotify.com/v1/artists/0u18Cq5stIQLUoIaULzDmA",
+          "id": "0u18Cq5stIQLUoIaULzDmA",
+          "name": "DROELOE",
+          "type": "artist",
+          "uri": "spotify:artist:0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+          },
+          "href": "https://api.spotify.com/v1/artists/224Zsim3dmWXWYUXFuHv0o",
+          "id": "224Zsim3dmWXWYUXFuHv0o",
+          "name": "HANA",
+          "type": "artist",
+          "uri": "spotify:artist:224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180992,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nC1pxQNPsQwW2keoIFBnx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nC1pxQNPsQwW2keoIFBnx",
+      "id": "0nC1pxQNPsQwW2keoIFBnx",
+      "name": "Nothing Like You (feat. HANA)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0nC1pxQNPsQwW2keoIFBnx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JfoFQs5wPHgLz8wnJ4wL2",
+          "id": "2JfoFQs5wPHgLz8wnJ4wL2",
+          "name": "ZOHARA",
+          "type": "artist",
+          "uri": "spotify:artist:2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221129,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3aFxfpfeATHYg1n750dhgq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3aFxfpfeATHYg1n750dhgq",
+      "id": "3aFxfpfeATHYg1n750dhgq",
+      "name": "Remember (with ZOHARA)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3aFxfpfeATHYg1n750dhgq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qQFXHDOeYjiZVrCUO56Pk",
+          "id": "5qQFXHDOeYjiZVrCUO56Pk",
+          "name": "Maia Wright",
+          "type": "artist",
+          "uri": "spotify:artist:5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214546,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
+      },
+      "href": "https://api.spotify.com/v1/tracks/57DJaoHdeeRrg7MWthNnee",
+      "id": "57DJaoHdeeRrg7MWthNnee",
+      "name": "Body Back (feat. Maia Wright)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:57DJaoHdeeRrg7MWthNnee",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq"
+          },
+          "href": "https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq",
+          "id": "43G7qlx7v7OGJJrUTXIqLq",
+          "name": "Kayla Rae Haywood",
+          "type": "artist",
+          "uri": "spotify:artist:43G7qlx7v7OGJJrUTXIqLq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 210351,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/676eXXtx6I7yxaDfXvMpjK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/676eXXtx6I7yxaDfXvMpjK",
+      "id": "676eXXtx6I7yxaDfXvMpjK",
+      "name": "Bye Bye (feat. Ivy Adara)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:676eXXtx6I7yxaDfXvMpjK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          },
+          "href": "https://api.spotify.com/v1/artists/6CwfuxIqcltXDGjfZsMd9A",
+          "id": "6CwfuxIqcltXDGjfZsMd9A",
+          "name": "MARINA",
+          "type": "artist",
+          "uri": "spotify:artist:6CwfuxIqcltXDGjfZsMd9A"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zZPv8aJhRywJjUqOLFe0O",
+          "id": "3zZPv8aJhRywJjUqOLFe0O",
+          "name": "Model Child",
+          "type": "artist",
+          "uri": "spotify:artist:3zZPv8aJhRywJjUqOLFe0O"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199918,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mEdu358hFKpuN4YbJ2ZQy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mEdu358hFKpuN4YbJ2ZQy",
+      "id": "5mEdu358hFKpuN4YbJ2ZQy",
+      "name": "If I Left The World (feat. MARINA & Model Child)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5mEdu358hFKpuN4YbJ2ZQy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JfoFQs5wPHgLz8wnJ4wL2",
+          "id": "2JfoFQs5wPHgLz8wnJ4wL2",
+          "name": "ZOHARA",
+          "type": "artist",
+          "uri": "spotify:artist:2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180129,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0sdLzD6YytK2DXiChFXRyz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0sdLzD6YytK2DXiChFXRyz",
+      "id": "0sdLzD6YytK2DXiChFXRyz",
+      "name": "Out of My Mind (with ZOHARA)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:0sdLzD6YytK2DXiChFXRyz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+          "id": "4VNQWV2y1E97Eqo2D5UTjx",
+          "name": "Gorgon City",
+          "type": "artist",
+          "uri": "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+          },
+          "href": "https://api.spotify.com/v1/artists/2VAnyOxzJuSAj7XIuEOT38",
+          "id": "2VAnyOxzJuSAj7XIuEOT38",
+          "name": "AlunaGeorge",
+          "type": "artist",
+          "uri": "spotify:artist:2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196869,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4sDztUavwewTc3Oy8KZE7I"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4sDztUavwewTc3Oy8KZE7I",
+      "id": "4sDztUavwewTc3Oy8KZE7I",
+      "name": "Baggage (with AlunaGeorge)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4sDztUavwewTc3Oy8KZE7I",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3rjHIPFed2qITXAWvArRtp",
+          "id": "3rjHIPFed2qITXAWvArRtp",
+          "name": "Iselin",
+          "type": "artist",
+          "uri": "spotify:artist:3rjHIPFed2qITXAWvArRtp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253250,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/24FFOpCA6bc5YoU2F3TKqS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/24FFOpCA6bc5YoU2F3TKqS",
+      "id": "24FFOpCA6bc5YoU2F3TKqS",
+      "name": "Just For A Moment (feat. Iselin)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:24FFOpCA6bc5YoU2F3TKqS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id": "6sFIWsNpZYqfjUpaCgueju",
+          "name": "Carly Rae Jepsen",
+          "type": "artist",
+          "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215974,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1a0M7E4aQgkMkuwpjnX9Nr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1a0M7E4aQgkMkuwpjnX9Nr",
+      "id": "1a0M7E4aQgkMkuwpjnX9Nr",
+      "name": "OMG (with Carly Rae Jepsen)",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:1a0M7E4aQgkMkuwpjnX9Nr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zrUX1hQrUB9aXcOiyQLmN",
+          "id": "3zrUX1hQrUB9aXcOiyQLmN",
+          "name": "Stanaj",
+          "type": "artist",
+          "uri": "spotify:artist:3zrUX1hQrUB9aXcOiyQLmN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216799,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1br1KHZHkKhCcjz6sHysT5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1br1KHZHkKhCcjz6sHysT5",
+      "id": "1br1KHZHkKhCcjz6sHysT5",
+      "name": "You Remind Me (feat. Stanaj)",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:1br1KHZHkKhCcjz6sHysT5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0id62QV2SZZfvBn9xpmuCl",
+          "id": "0id62QV2SZZfvBn9xpmuCl",
+          "name": "Aloe Blacc",
+          "type": "artist",
+          "uri": "spotify:artist:0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226232,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hEaLQI3dRyONBEZWS1VXD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3hEaLQI3dRyONBEZWS1VXD",
+      "id": "3hEaLQI3dRyONBEZWS1VXD",
+      "name": "Hurt People (with Aloe Blacc)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3hEaLQI3dRyONBEZWS1VXD",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin",
+          "type": "artist",
+          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Q9KyQkc3vODeRt9OfItxl",
+          "id": "1Q9KyQkc3vODeRt9OfItxl",
+          "name": "Katie Pearlman",
+          "type": "artist",
+          "uri": "spotify:artist:1Q9KyQkc3vODeRt9OfItxl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231290,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m"
+      },
+      "href": "https://api.spotify.com/v1/tracks/17ejRbr6B8l9zdqgCZsn4m",
+      "id": "17ejRbr6B8l9zdqgCZsn4m",
+      "name": "Nobody Compares To You (feat. Katie Pearlman)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:17ejRbr6B8l9zdqgCZsn4m",
+      "is_local": false
+    }
+  ]
+}

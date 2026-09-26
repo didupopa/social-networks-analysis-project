@@ -1,0 +1,63 @@
+{
+  "artist_id": "06mRdYmly1OZsj8nu0wmyS",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3YFrJdwUofXoaxnbR15Fx2"
+      },
+      "href": "https://api.spotify.com/v1/albums/3YFrJdwUofXoaxnbR15Fx2",
+      "id": "3YFrJdwUofXoaxnbR15Fx2",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738eb1fa2485724d6a72555090",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028eb1fa2485724d6a72555090",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518eb1fa2485724d6a72555090",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Club & EDM Anthems, Mega Dance Collection",
+      "release_date": "2020-08-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3YFrJdwUofXoaxnbR15Fx2",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06mRdYmly1OZsj8nu0wmyS"
+          },
+          "href": "https://api.spotify.com/v1/artists/06mRdYmly1OZsj8nu0wmyS",
+          "id": "06mRdYmly1OZsj8nu0wmyS",
+          "name": "Club Junkies",
+          "type": "artist",
+          "uri": "spotify:artist:06mRdYmly1OZsj8nu0wmyS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4qvArXhnLauGZ5BBmJ3MJS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4qvArXhnLauGZ5BBmJ3MJS",
+          "id": "4qvArXhnLauGZ5BBmJ3MJS",
+          "name": "DJ Keen",
+          "type": "artist",
+          "uri": "spotify:artist:4qvArXhnLauGZ5BBmJ3MJS"
+        }
+      ]
+    }
+  ]
+}

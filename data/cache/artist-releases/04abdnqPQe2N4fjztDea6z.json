@@ -1,0 +1,139 @@
+{
+  "artist_id": "04abdnqPQe2N4fjztDea6z",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0veQN45mo3uWRUJJg143ZT"
+      },
+      "href": "https://api.spotify.com/v1/albums/0veQN45mo3uWRUJJg143ZT",
+      "id": "0veQN45mo3uWRUJJg143ZT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273651a20442552b343408e76c9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02651a20442552b343408e76c9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851651a20442552b343408e76c9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Lone Star Story",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0veQN45mo3uWRUJJg143ZT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/04abdnqPQe2N4fjztDea6z",
+          "id": "04abdnqPQe2N4fjztDea6z",
+          "name": "Austin Mahone",
+          "type": "artist",
+          "uri": "spotify:artist:04abdnqPQe2N4fjztDea6z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/485tVv2Eq2LvU2AzsZALgc"
+      },
+      "href": "https://api.spotify.com/v1/albums/485tVv2Eq2LvU2AzsZALgc",
+      "id": "485tVv2Eq2LvU2AzsZALgc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273db61441c4e2beb7748ec660c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02db61441c4e2beb7748ec660c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851db61441c4e2beb7748ec660c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "For Me + You",
+      "release_date": "2016-12-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:485tVv2Eq2LvU2AzsZALgc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/04abdnqPQe2N4fjztDea6z",
+          "id": "04abdnqPQe2N4fjztDea6z",
+          "name": "Austin Mahone",
+          "type": "artist",
+          "uri": "spotify:artist:04abdnqPQe2N4fjztDea6z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3vFTdZcU8f6GCcW2FmdE5m"
+      },
+      "href": "https://api.spotify.com/v1/albums/3vFTdZcU8f6GCcW2FmdE5m",
+      "id": "3vFTdZcU8f6GCcW2FmdE5m",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273480adae5d44a97645e4fcfc7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02480adae5d44a97645e4fcfc7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851480adae5d44a97645e4fcfc7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "This Is Not The Album",
+      "release_date": "2015-12-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3vFTdZcU8f6GCcW2FmdE5m",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+          },
+          "href": "https://api.spotify.com/v1/artists/04abdnqPQe2N4fjztDea6z",
+          "id": "04abdnqPQe2N4fjztDea6z",
+          "name": "Austin Mahone",
+          "type": "artist",
+          "uri": "spotify:artist:04abdnqPQe2N4fjztDea6z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "artist_id": "2vC9dN2ebF9lBbAFlIUeL4",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2BXP2dP0FftZJnRueniVjO"
+      },
+      "href": "https://api.spotify.com/v1/albums/2BXP2dP0FftZJnRueniVjO",
+      "id": "2BXP2dP0FftZJnRueniVjO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273aacc98818908b05075935f80",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02aacc98818908b05075935f80",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851aacc98818908b05075935f80",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rikiton",
+      "release_date": "2019-09-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2BXP2dP0FftZJnRueniVjO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2vC9dN2ebF9lBbAFlIUeL4",
+          "id": "2vC9dN2ebF9lBbAFlIUeL4",
+          "name": "El Chevo",
+          "type": "artist",
+          "uri": "spotify:artist:2vC9dN2ebF9lBbAFlIUeL4"
+        }
+      ]
+    }
+  ]
+}
