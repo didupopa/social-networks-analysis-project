@@ -1,0 +1,139 @@
+{
+  "artist_id": "4lthN9sVX4QW2lnXQEUbMh",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3UmDwbSXYYdZOV0dTRSX3i"
+      },
+      "href": "https://api.spotify.com/v1/albums/3UmDwbSXYYdZOV0dTRSX3i",
+      "id": "3UmDwbSXYYdZOV0dTRSX3i",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732b41b065796e4b2e7f0c02dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022b41b065796e4b2e7f0c02dc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512b41b065796e4b2e7f0c02dc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "777",
+      "release_date": "2015-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3UmDwbSXYYdZOV0dTRSX3i",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lthN9sVX4QW2lnXQEUbMh",
+          "id": "4lthN9sVX4QW2lnXQEUbMh",
+          "name": "Red Rat",
+          "type": "artist",
+          "uri": "spotify:artist:4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1y4et8R4ZQLG1TVF6Pxs3p"
+      },
+      "href": "https://api.spotify.com/v1/albums/1y4et8R4ZQLG1TVF6Pxs3p",
+      "id": "1y4et8R4ZQLG1TVF6Pxs3p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27380a73d1e73d2b9d8d499e332",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0280a73d1e73d2b9d8d499e332",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485180a73d1e73d2b9d8d499e332",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Monsters Of Dancehall",
+      "release_date": "2008-04-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1y4et8R4ZQLG1TVF6Pxs3p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lthN9sVX4QW2lnXQEUbMh",
+          "id": "4lthN9sVX4QW2lnXQEUbMh",
+          "name": "Red Rat",
+          "type": "artist",
+          "uri": "spotify:artist:4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
+      },
+      "href": "https://api.spotify.com/v1/albums/7ET4yhpl6CoZQmHJmmfWZi",
+      "id": "7ET4yhpl6CoZQmHJmmfWZi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737c540d1dcd3dc97f7400b575",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027c540d1dcd3dc97f7400b575",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517c540d1dcd3dc97f7400b575",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Oh No It's Red Rat",
+      "release_date": "1997",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:7ET4yhpl6CoZQmHJmmfWZi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lthN9sVX4QW2lnXQEUbMh",
+          "id": "4lthN9sVX4QW2lnXQEUbMh",
+          "name": "Red Rat",
+          "type": "artist",
+          "uri": "spotify:artist:4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ]
+    }
+  ]
+}

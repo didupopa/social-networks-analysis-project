@@ -1,0 +1,53 @@
+{
+  "artist_id": "0sDZqRLIBL1Gr5gikfV1xz",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl"
+      },
+      "href": "https://api.spotify.com/v1/albums/22FhDa9P2HzbTXutBpmrHl",
+      "id": "22FhDa9P2HzbTXutBpmrHl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b258a40a81849dec46c533f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027b258a40a81849dec46c533f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517b258a40a81849dec46c533f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "One By One",
+      "release_date": "2013-06-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:22FhDa9P2HzbTXutBpmrHl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz"
+          },
+          "href": "https://api.spotify.com/v1/artists/0sDZqRLIBL1Gr5gikfV1xz",
+          "id": "0sDZqRLIBL1Gr5gikfV1xz",
+          "name": "Laza Morgan",
+          "type": "artist",
+          "uri": "spotify:artist:0sDZqRLIBL1Gr5gikfV1xz"
+        }
+      ]
+    }
+  ]
+}

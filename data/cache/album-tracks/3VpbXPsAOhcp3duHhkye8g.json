@@ -1,0 +1,418 @@
+{
+  "album_id": "3VpbXPsAOhcp3duHhkye8g",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 289600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zUYg51Df8nLuymwI67mzk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zUYg51Df8nLuymwI67mzk",
+      "id": "2zUYg51Df8nLuymwI67mzk",
+      "name": "Assume Form",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2zUYg51Df8nLuymwI67mzk",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "type": "artist",
+          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gWo0JYLA6Dnw40WIx1MTl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6gWo0JYLA6Dnw40WIx1MTl",
+      "id": "6gWo0JYLA6Dnw40WIx1MTl",
+      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6gWo0JYLA6Dnw40WIx1MTl",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+          },
+          "href": "https://api.spotify.com/v1/artists/5W10uJRsbt9bROJDKoI1Wn",
+          "id": "5W10uJRsbt9bROJDKoI1Wn",
+          "name": "Moses Sumney",
+          "type": "artist",
+          "uri": "spotify:artist:5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "type": "artist",
+          "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6b1eq00KotcEnBTn51ELAz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6b1eq00KotcEnBTn51ELAz",
+      "id": "6b1eq00KotcEnBTn51ELAz",
+      "name": "Tell Them (feat. Moses Sumney & Metro Boomin)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6b1eq00KotcEnBTn51ELAz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5T4l3jMleCgNMmeYRPYvnS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5T4l3jMleCgNMmeYRPYvnS",
+      "id": "5T4l3jMleCgNMmeYRPYvnS",
+      "name": "Into The Red",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5T4l3jMleCgNMmeYRPYvnS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          },
+          "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+          "id": "7ltDVBr6mKbRvohxheJ9h1",
+          "name": "ROSALÍA",
+          "type": "artist",
+          "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3rDIv69iKUGLFAScfHwCYd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3rDIv69iKUGLFAScfHwCYd",
+      "id": "3rDIv69iKUGLFAScfHwCYd",
+      "name": "Barefoot In The Park (feat. ROSALÍA)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3rDIv69iKUGLFAScfHwCYd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 267200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03NtFY8KBtBsLQg2E9rVDI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03NtFY8KBtBsLQg2E9rVDI",
+      "id": "03NtFY8KBtBsLQg2E9rVDI",
+      "name": "Can't Believe The Way We Flow",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:03NtFY8KBtBsLQg2E9rVDI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48TwC1IPK9g9r6xYMseKZ0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/48TwC1IPK9g9r6xYMseKZ0",
+      "id": "48TwC1IPK9g9r6xYMseKZ0",
+      "name": "Are You In Love?",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:48TwC1IPK9g9r6xYMseKZ0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          },
+          "href": "https://api.spotify.com/v1/artists/74V3dE1a51skRkdII8y2C6",
+          "id": "74V3dE1a51skRkdII8y2C6",
+          "name": "André 3000",
+          "type": "artist",
+          "uri": "spotify:artist:74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3zuPiPjLdL9aDnyUZcgONy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3zuPiPjLdL9aDnyUZcgONy",
+      "id": "3zuPiPjLdL9aDnyUZcgONy",
+      "name": "Where's The Catch? (feat. André 3000)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3zuPiPjLdL9aDnyUZcgONy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ZMBqlhWnSlR4KCiUfLL8i"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ZMBqlhWnSlR4KCiUfLL8i",
+      "id": "0ZMBqlhWnSlR4KCiUfLL8i",
+      "name": "I'll Come Too",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0ZMBqlhWnSlR4KCiUfLL8i",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246400,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qNUaGPyb4HhCutBS0Z0hF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qNUaGPyb4HhCutBS0Z0hF",
+      "id": "2qNUaGPyb4HhCutBS0Z0hF",
+      "name": "Power On",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:2qNUaGPyb4HhCutBS0Z0hF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 299200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5VYCCPct242jtbidE13EKK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5VYCCPct242jtbidE13EKK",
+      "id": "5VYCCPct242jtbidE13EKK",
+      "name": "Don't Miss It",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5VYCCPct242jtbidE13EKK",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190541,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1HH74T0lQrV21hkc5KmPZ5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1HH74T0lQrV21hkc5KmPZ5",
+      "id": "1HH74T0lQrV21hkc5KmPZ5",
+      "name": "Mulholland",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1HH74T0lQrV21hkc5KmPZ5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ChIDG3Ae88OSrocGzjZzT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ChIDG3Ae88OSrocGzjZzT",
+      "id": "2ChIDG3Ae88OSrocGzjZzT",
+      "name": "Lullaby For My Insomniac",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2ChIDG3Ae88OSrocGzjZzT",
+      "is_local": false
+    }
+  ]
+}

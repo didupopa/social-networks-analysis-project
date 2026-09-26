@@ -1,0 +1,655 @@
+{
+  "artist_id": "2iojnBLj0qIMiKPvVhLnsH",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tJKIc90Q5FuHbAWsrBPkI",
+      "id": "6tJKIc90Q5FuHbAWsrBPkI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273282aff486b2f8a54e6057f07",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02282aff486b2f8a54e6057f07",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851282aff486b2f8a54e6057f07",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Back Home",
+      "release_date": "2020-10-09",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tJKIc90Q5FuHbAWsrBPkI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4PNU2kK8yL1us1W8Y0u1h5"
+      },
+      "href": "https://api.spotify.com/v1/albums/4PNU2kK8yL1us1W8Y0u1h5",
+      "id": "4PNU2kK8yL1us1W8Y0u1h5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7e942bfdb5bca101c85380c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7e942bfdb5bca101c85380c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a7e942bfdb5bca101c85380c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Anticipation I",
+      "release_date": "2020-04-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4PNU2kK8yL1us1W8Y0u1h5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6FjJhG0ooa3IPoSQZjGWr8"
+      },
+      "href": "https://api.spotify.com/v1/albums/6FjJhG0ooa3IPoSQZjGWr8",
+      "id": "6FjJhG0ooa3IPoSQZjGWr8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273956a59c43bb048c3449fcfb4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02956a59c43bb048c3449fcfb4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851956a59c43bb048c3449fcfb4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Anticipation II",
+      "release_date": "2020-04-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6FjJhG0ooa3IPoSQZjGWr8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Pp9dmBGExH4FNLlaLsLde",
+      "id": "5Pp9dmBGExH4FNLlaLsLde",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e5c45c4f0ed782e40e4c60e3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e5c45c4f0ed782e40e4c60e3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e5c45c4f0ed782e40e4c60e3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "11",
+      "release_date": "2018-11-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Pp9dmBGExH4FNLlaLsLde",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "href": "https://api.spotify.com/v1/albums/0DOSrX5RdPZhLBAuEmO6De",
+      "id": "0DOSrX5RdPZhLBAuEmO6De",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273969451946675a7b10131550d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02969451946675a7b10131550d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851969451946675a7b10131550d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "28",
+      "release_date": "2018-11-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0DOSrX5RdPZhLBAuEmO6De",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "href": "https://api.spotify.com/v1/albums/5gQtvMHA7yqdzKXrHpe63C",
+      "id": "5gQtvMHA7yqdzKXrHpe63C",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b4928a63710559681271c75",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026b4928a63710559681271c75",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516b4928a63710559681271c75",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tremaine the Album",
+      "release_date": "2017-03-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5gQtvMHA7yqdzKXrHpe63C",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pKTKC0AAe3yTcXQLzvpSW",
+      "id": "3pKTKC0AAe3yTcXQLzvpSW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e04293bed7a0440e3eea2de1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e04293bed7a0440e3eea2de1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e04293bed7a0440e3eea2de1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trigga Reloaded",
+      "release_date": "2015-06-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3pKTKC0AAe3yTcXQLzvpSW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0m8NYS3Trz6HLZnMAaFYiH"
+      },
+      "href": "https://api.spotify.com/v1/albums/0m8NYS3Trz6HLZnMAaFYiH",
+      "id": "0m8NYS3Trz6HLZnMAaFYiH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b716e3423e820c477fd7c1fd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b716e3423e820c477fd7c1fd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b716e3423e820c477fd7c1fd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Intermission I & II",
+      "release_date": "2015-05-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0m8NYS3Trz6HLZnMAaFYiH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP"
+      },
+      "href": "https://api.spotify.com/v1/albums/09ZagJCLFszgQZTlK99yqP",
+      "id": "09ZagJCLFszgQZTlK99yqP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b58a327e969577cac21ca9ac",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b58a327e969577cac21ca9ac",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b58a327e969577cac21ca9ac",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trigga (Deluxe)",
+      "release_date": "2014-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:09ZagJCLFszgQZTlK99yqP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tipnwV81Zqn7SM5FSsyvh"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tipnwV81Zqn7SM5FSsyvh",
+      "id": "6tipnwV81Zqn7SM5FSsyvh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab2c2f2ec038444298aafd5f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab2c2f2ec038444298aafd5f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ab2c2f2ec038444298aafd5f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chapter V",
+      "release_date": "2012-08-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6tipnwV81Zqn7SM5FSsyvh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
+      },
+      "href": "https://api.spotify.com/v1/albums/3sDoSYf2AKB2IegZmkISGD",
+      "id": "3sDoSYf2AKB2IegZmkISGD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27384bb915bae941f5ea159d64d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0284bb915bae941f5ea159d64d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485184bb915bae941f5ea159d64d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Passion, Pain & Pleasure (Deluxe Version)",
+      "release_date": "2010-09-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3sDoSYf2AKB2IegZmkISGD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ye4PUe62VoUMiGFDRuqBk"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ye4PUe62VoUMiGFDRuqBk",
+      "id": "5ye4PUe62VoUMiGFDRuqBk",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb77112f13080c88b6ae1647",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb77112f13080c88b6ae1647",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb77112f13080c88b6ae1647",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Birth Of Songz Demo",
+      "release_date": "2010",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:5ye4PUe62VoUMiGFDRuqBk",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/1mSsccWmWvV5PWRGNdqjmZ",
+      "id": "1mSsccWmWvV5PWRGNdqjmZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738598603d092c04d26b7066f6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028598603d092c04d26b7066f6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518598603d092c04d26b7066f6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ready",
+      "release_date": "2009-08-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1mSsccWmWvV5PWRGNdqjmZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4qJMqc9GvXKHS5bjodETPO"
+      },
+      "href": "https://api.spotify.com/v1/albums/4qJMqc9GvXKHS5bjodETPO",
+      "id": "4qJMqc9GvXKHS5bjodETPO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273df8865769b1bc28acc6c2499",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02df8865769b1bc28acc6c2499",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851df8865769b1bc28acc6c2499",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trey Day",
+      "release_date": "2007-10-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4qJMqc9GvXKHS5bjodETPO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7sPfDVisrecDYGwiwXeEgW"
+      },
+      "href": "https://api.spotify.com/v1/albums/7sPfDVisrecDYGwiwXeEgW",
+      "id": "7sPfDVisrecDYGwiwXeEgW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27366a5669ec0d4cd18170c6d30",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0266a5669ec0d4cd18170c6d30",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485166a5669ec0d4cd18170c6d30",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Gotta Make It",
+      "release_date": "2005-07-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7sPfDVisrecDYGwiwXeEgW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "artist_id": "3s8alQfNnY0roAHaJh7Xxt",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO"
+      },
+      "href": "https://api.spotify.com/v1/albums/52xa6w4IdZ1rq5MklThOUO",
+      "id": "52xa6w4IdZ1rq5MklThOUO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e466bd81eea8f77a52104bdf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e466bd81eea8f77a52104bdf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e466bd81eea8f77a52104bdf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Class of 95",
+      "release_date": "2024-10-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:52xa6w4IdZ1rq5MklThOUO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0OYIywapHZVWmXMEGzVssG"
+      },
+      "href": "https://api.spotify.com/v1/albums/0OYIywapHZVWmXMEGzVssG",
+      "id": "0OYIywapHZVWmXMEGzVssG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d625361d3778e3a7e03e722",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023d625361d3778e3a7e03e722",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513d625361d3778e3a7e03e722",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "I Love Stocker",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0OYIywapHZVWmXMEGzVssG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pCVxwkdixCeBPTboRZIi2"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pCVxwkdixCeBPTboRZIi2",
+          "id": "1pCVxwkdixCeBPTboRZIi2",
+          "name": "TeeFLii",
+          "type": "artist",
+          "uri": "spotify:artist:1pCVxwkdixCeBPTboRZIi2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32N4rOq6seLb4TLkb4dfuL"
+      },
+      "href": "https://api.spotify.com/v1/albums/32N4rOq6seLb4TLkb4dfuL",
+      "id": "32N4rOq6seLb4TLkb4dfuL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735bc7fc7f3d87e475904dc948",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025bc7fc7f3d87e475904dc948",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515bc7fc7f3d87e475904dc948",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "From the Westside With Love Three",
+      "release_date": "2021-10-15",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:32N4rOq6seLb4TLkb4dfuL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu"
+      },
+      "href": "https://api.spotify.com/v1/albums/1K1x5xDGJoPrZVitY4H7Iu",
+      "id": "1K1x5xDGJoPrZVitY4H7Iu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732892f554690149df7b154c08",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022892f554690149df7b154c08",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512892f554690149df7b154c08",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rap N Roll",
+      "release_date": "2020-09-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1K1x5xDGJoPrZVitY4H7Iu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4wWlhUCI9gCMhSX2Tqo6U5"
+      },
+      "href": "https://api.spotify.com/v1/albums/4wWlhUCI9gCMhSX2Tqo6U5",
+      "id": "4wWlhUCI9gCMhSX2Tqo6U5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27394c55827ff1348cb428318a4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0294c55827ff1348cb428318a4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485194c55827ff1348cb428318a4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rap n Roll (Deluxe Album)",
+      "release_date": "2020-09-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4wWlhUCI9gCMhSX2Tqo6U5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0JJbKEwboctb8ZUfQzieyD"
+      },
+      "href": "https://api.spotify.com/v1/albums/0JJbKEwboctb8ZUfQzieyD",
+      "id": "0JJbKEwboctb8ZUfQzieyD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736dde711a7d147293e63aee07",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026dde711a7d147293e63aee07",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516dde711a7d147293e63aee07",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Also Known As",
+      "release_date": "2020-07-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0JJbKEwboctb8ZUfQzieyD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7evLKYbd8n45XmluvRHjFO"
+      },
+      "href": "https://api.spotify.com/v1/albums/7evLKYbd8n45XmluvRHjFO",
+      "id": "7evLKYbd8n45XmluvRHjFO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fe95d44146773989b1566e96",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fe95d44146773989b1566e96",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fe95d44146773989b1566e96",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Volume Two",
+      "release_date": "2018-09-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7evLKYbd8n45XmluvRHjFO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2anjTJIKOcKyZCbemWHyeu"
+      },
+      "href": "https://api.spotify.com/v1/albums/2anjTJIKOcKyZCbemWHyeu",
+      "id": "2anjTJIKOcKyZCbemWHyeu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ec0b1f77ccc5ed203a0b4d4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020ec0b1f77ccc5ed203a0b4d4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510ec0b1f77ccc5ed203a0b4d4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Courtesy of Half-a-Mil",
+      "release_date": "2017-11-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2anjTJIKOcKyZCbemWHyeu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2O2w9jM8gTM0lCBbrcf72f"
+      },
+      "href": "https://api.spotify.com/v1/albums/2O2w9jM8gTM0lCBbrcf72f",
+      "id": "2O2w9jM8gTM0lCBbrcf72f",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6a42152bb68f22580714f71",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6a42152bb68f22580714f71",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d6a42152bb68f22580714f71",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Los Angeles Is Not for Sale, Vol. 1",
+      "release_date": "2016-12-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2O2w9jM8gTM0lCBbrcf72f",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0tuOColD9mAZ4SGt4qtvEx"
+      },
+      "href": "https://api.spotify.com/v1/albums/0tuOColD9mAZ4SGt4qtvEx",
+      "id": "0tuOColD9mAZ4SGt4qtvEx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739889ed0aff0b747787a05e29",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029889ed0aff0b747787a05e29",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519889ed0aff0b747787a05e29",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "By Dom Kennedy",
+      "release_date": "2015-06-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0tuOColD9mAZ4SGt4qtvEx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0NAIHlx4bGJYf5H4pWyDhn"
+      },
+      "href": "https://api.spotify.com/v1/albums/0NAIHlx4bGJYf5H4pWyDhn",
+      "id": "0NAIHlx4bGJYf5H4pWyDhn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d6d215feaf3599e3301d1c5c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d6d215feaf3599e3301d1c5c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d6d215feaf3599e3301d1c5c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Il: From the Westside, With Love",
+      "release_date": "2011-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0NAIHlx4bGJYf5H4pWyDhn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          },
+          "href": "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+          "id": "3s8alQfNnY0roAHaJh7Xxt",
+          "name": "Dom Kennedy",
+          "type": "artist",
+          "uri": "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "artist_id": "2QXURwKFTGg2RfgSKJ4HlR",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3EMpq2bVlC70GC5FWKfI3p"
+      },
+      "href": "https://api.spotify.com/v1/albums/3EMpq2bVlC70GC5FWKfI3p",
+      "id": "3EMpq2bVlC70GC5FWKfI3p",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e077e7b88ebbd85ec0c8c63b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e077e7b88ebbd85ec0c8c63b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e077e7b88ebbd85ec0c8c63b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "No Filter",
+      "release_date": "2023-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3EMpq2bVlC70GC5FWKfI3p",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QXURwKFTGg2RfgSKJ4HlR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QXURwKFTGg2RfgSKJ4HlR",
+          "id": "2QXURwKFTGg2RfgSKJ4HlR",
+          "name": "Dovey Magnum",
+          "type": "artist",
+          "uri": "spotify:artist:2QXURwKFTGg2RfgSKJ4HlR"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/56TvmgnGLpnYlxURpxugLB"
+      },
+      "href": "https://api.spotify.com/v1/albums/56TvmgnGLpnYlxURpxugLB",
+      "id": "56TvmgnGLpnYlxURpxugLB",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27336b1485023cdca8a0277f99b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0236b1485023cdca8a0277f99b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485136b1485023cdca8a0277f99b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DJ Yanks Presents: Dovey Magnum Juju Bawse Mixtape",
+      "release_date": "2019-09-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:56TvmgnGLpnYlxURpxugLB",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QXURwKFTGg2RfgSKJ4HlR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2QXURwKFTGg2RfgSKJ4HlR",
+          "id": "2QXURwKFTGg2RfgSKJ4HlR",
+          "name": "Dovey Magnum",
+          "type": "artist",
+          "uri": "spotify:artist:2QXURwKFTGg2RfgSKJ4HlR"
+        }
+      ]
+    }
+  ]
+}

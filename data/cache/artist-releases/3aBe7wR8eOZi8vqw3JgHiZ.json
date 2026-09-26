@@ -1,0 +1,53 @@
+{
+  "artist_id": "3aBe7wR8eOZi8vqw3JgHiZ",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21zhmoymHGVpiQa8Ou9ML7"
+      },
+      "href": "https://api.spotify.com/v1/albums/21zhmoymHGVpiQa8Ou9ML7",
+      "id": "21zhmoymHGVpiQa8Ou9ML7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732412788e50bfbcc0b83ff854",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022412788e50bfbcc0b83ff854",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512412788e50bfbcc0b83ff854",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Necessary Evil (The Preface)",
+      "release_date": "2015-09-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:21zhmoymHGVpiQa8Ou9ML7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aBe7wR8eOZi8vqw3JgHiZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aBe7wR8eOZi8vqw3JgHiZ",
+          "id": "3aBe7wR8eOZi8vqw3JgHiZ",
+          "name": "F1JO",
+          "type": "artist",
+          "uri": "spotify:artist:3aBe7wR8eOZi8vqw3JgHiZ"
+        }
+      ]
+    }
+  ]
+}

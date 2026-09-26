@@ -1,0 +1,523 @@
+{
+  "artist_id": "01QTIT5P1pFP3QnnFSdsJf",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3OJ9TwVn8TZxuQDIwo721s"
+      },
+      "href": "https://api.spotify.com/v1/albums/3OJ9TwVn8TZxuQDIwo721s",
+      "id": "3OJ9TwVn8TZxuQDIwo721s",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b623f9b6adcd09f3ed28fb40",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b623f9b6adcd09f3ed28fb40",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b623f9b6adcd09f3ed28fb40",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lupe Fiasco x Nu Deco Ensemble (Live from Miami Beach)",
+      "release_date": "2026-06-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3OJ9TwVn8TZxuQDIwo721s",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+          },
+          "href": "https://api.spotify.com/v1/artists/4GYUlFINfLTLni6bN7SbAK",
+          "id": "4GYUlFINfLTLni6bN7SbAK",
+          "name": "Nu Deco Ensemble",
+          "type": "artist",
+          "uri": "spotify:artist:4GYUlFINfLTLni6bN7SbAK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
+          },
+          "href": "https://api.spotify.com/v1/artists/2NgN8L3qHI04lOWzGCKmo3",
+          "id": "2NgN8L3qHI04lOWzGCKmo3",
+          "name": "Jacomo Bairos",
+          "type": "artist",
+          "uri": "spotify:artist:2NgN8L3qHI04lOWzGCKmo3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KPvnCATzdvXF9n95OEE1Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KPvnCATzdvXF9n95OEE1Q",
+          "id": "7KPvnCATzdvXF9n95OEE1Q",
+          "name": "Sam Hyken",
+          "type": "artist",
+          "uri": "spotify:artist:7KPvnCATzdvXF9n95OEE1Q"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "href": "https://api.spotify.com/v1/albums/1O6d4cNuUV78GeXv7hgr4e",
+      "id": "1O6d4cNuUV78GeXv7hgr4e",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02afd65b04748aff25b77071f4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851afd65b04748aff25b77071f4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Samurai",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1O6d4cNuUV78GeXv7hgr4e",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0UennjqMxb1SAsaf7bsSwE",
+      "id": "0UennjqMxb1SAsaf7bsSwE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273494d84adfd2b985cbeb202a4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02494d84adfd2b985cbeb202a4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851494d84adfd2b985cbeb202a4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DRILL MUSIC IN ZION",
+      "release_date": "2022-06-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0UennjqMxb1SAsaf7bsSwE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3p4TTbyyA91qpSNRO6SW73"
+      },
+      "href": "https://api.spotify.com/v1/albums/3p4TTbyyA91qpSNRO6SW73",
+      "id": "3p4TTbyyA91qpSNRO6SW73",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739e787f411868f85951c6fe09",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029e787f411868f85951c6fe09",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519e787f411868f85951c6fe09",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Blackstar",
+      "release_date": "2020-01-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3p4TTbyyA91qpSNRO6SW73",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+          },
+          "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+          "id": "0lEssBAxQl2In4RpaB1C2Y",
+          "name": "Talib Kweli",
+          "type": "artist",
+          "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2liBYuCYfW37CmNkub2BaH"
+      },
+      "href": "https://api.spotify.com/v1/albums/2liBYuCYfW37CmNkub2BaH",
+      "id": "2liBYuCYfW37CmNkub2BaH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ca4c93e86a1e8096c23bc7f8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ca4c93e86a1e8096c23bc7f8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ca4c93e86a1e8096c23bc7f8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DROGAS WAVE",
+      "release_date": "2018-09-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2liBYuCYfW37CmNkub2BaH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2utMSPHiSIHEg2vb9awgDi"
+      },
+      "href": "https://api.spotify.com/v1/albums/2utMSPHiSIHEg2vb9awgDi",
+      "id": "2utMSPHiSIHEg2vb9awgDi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27343b652dce6a840cf257f68c9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0243b652dce6a840cf257f68c9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485143b652dce6a840cf257f68c9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "DROGAS Light",
+      "release_date": "2017-02-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2utMSPHiSIHEg2vb9awgDi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7F58zK8t8whSFjX5X09d28"
+      },
+      "href": "https://api.spotify.com/v1/albums/7F58zK8t8whSFjX5X09d28",
+      "id": "7F58zK8t8whSFjX5X09d28",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cc5c6f9f9d6ca3353dbb6c75",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cc5c6f9f9d6ca3353dbb6c75",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cc5c6f9f9d6ca3353dbb6c75",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tetsuo & Youth",
+      "release_date": "2015-01-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7F58zK8t8whSFjX5X09d28",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5rCCCernTo6IwFwEZM4H53"
+      },
+      "href": "https://api.spotify.com/v1/albums/5rCCCernTo6IwFwEZM4H53",
+      "id": "5rCCCernTo6IwFwEZM4H53",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b9f3b34399b7ae4cc7a45be",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024b9f3b34399b7ae4cc7a45be",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514b9f3b34399b7ae4cc7a45be",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Food & Liquor II: The Great American Rap Album, Pt. 1",
+      "release_date": "2012-09-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5rCCCernTo6IwFwEZM4H53",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
+      },
+      "href": "https://api.spotify.com/v1/albums/1j0apvEvaWbTmlZpKsfr2D",
+      "id": "1j0apvEvaWbTmlZpKsfr2D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737a9205f3712b2bd1b98198dc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027a9205f3712b2bd1b98198dc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517a9205f3712b2bd1b98198dc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lasers",
+      "release_date": "2011-03-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1j0apvEvaWbTmlZpKsfr2D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "href": "https://api.spotify.com/v1/albums/0MihD70HInk2rDaChdAdEy",
+      "id": "0MihD70HInk2rDaChdAdEy",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27392ca0c93a0fb7b281e5184d7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0292ca0c93a0fb7b281e5184d7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485192ca0c93a0fb7b281e5184d7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lupe Fiasco's The Cool",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0MihD70HInk2rDaChdAdEy",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "href": "https://api.spotify.com/v1/albums/0TDJRkEr2SrhWTetdkEzED",
+      "id": "0TDJRkEr2SrhWTetdkEzED",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273605429da30da392395c34c00",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02605429da30da392395c34c00",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851605429da30da392395c34c00",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lupe Fiasco's Food & Liquor",
+      "release_date": "2006-09-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0TDJRkEr2SrhWTetdkEzED",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ]
+    }
+  ]
+}

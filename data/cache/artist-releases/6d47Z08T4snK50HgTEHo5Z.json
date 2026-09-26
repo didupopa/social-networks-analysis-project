@@ -1,0 +1,96 @@
+{
+  "artist_id": "6d47Z08T4snK50HgTEHo5Z",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6OnHUnhxRIZ4FB7ce9wF39"
+      },
+      "href": "https://api.spotify.com/v1/albums/6OnHUnhxRIZ4FB7ce9wF39",
+      "id": "6OnHUnhxRIZ4FB7ce9wF39",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c1a2482d6a8fe70825cc59e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025c1a2482d6a8fe70825cc59e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515c1a2482d6a8fe70825cc59e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Morse Code",
+      "release_date": "2017-07-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6OnHUnhxRIZ4FB7ce9wF39",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/6d47Z08T4snK50HgTEHo5Z",
+          "id": "6d47Z08T4snK50HgTEHo5Z",
+          "name": "Sage The Gemini",
+          "type": "artist",
+          "uri": "spotify:artist:6d47Z08T4snK50HgTEHo5Z"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5udw4f9l9vwuJVkrbRFy3j"
+      },
+      "href": "https://api.spotify.com/v1/albums/5udw4f9l9vwuJVkrbRFy3j",
+      "id": "5udw4f9l9vwuJVkrbRFy3j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e86422731c4379b0a28ab2c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e86422731c4379b0a28ab2c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e86422731c4379b0a28ab2c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Remember Me",
+      "release_date": "2014-03-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5udw4f9l9vwuJVkrbRFy3j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+          },
+          "href": "https://api.spotify.com/v1/artists/6d47Z08T4snK50HgTEHo5Z",
+          "id": "6d47Z08T4snK50HgTEHo5Z",
+          "name": "Sage The Gemini",
+          "type": "artist",
+          "uri": "spotify:artist:6d47Z08T4snK50HgTEHo5Z"
+        }
+      ]
+    }
+  ]
+}

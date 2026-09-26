@@ -1,0 +1,106 @@
+{
+  "artist_id": "3qu3PIngYcX3SzOVcNGSTF",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Lz9UbAo9DBYUfkTBMZfL5"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Lz9UbAo9DBYUfkTBMZfL5",
+      "id": "4Lz9UbAo9DBYUfkTBMZfL5",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273525528096ef2b38e5ee7d1d2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02525528096ef2b38e5ee7d1d2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851525528096ef2b38e5ee7d1d2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Heavy Gold Digga",
+      "release_date": "2024-05-10",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4Lz9UbAo9DBYUfkTBMZfL5",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qu3PIngYcX3SzOVcNGSTF",
+          "id": "3qu3PIngYcX3SzOVcNGSTF",
+          "name": "Pamputtae",
+          "type": "artist",
+          "uri": "spotify:artist:3qu3PIngYcX3SzOVcNGSTF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oM3Br3uRGyynYEKylNTzV"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oM3Br3uRGyynYEKylNTzV",
+          "id": "2oM3Br3uRGyynYEKylNTzV",
+          "name": "DJ Treasure",
+          "type": "artist",
+          "uri": "spotify:artist:2oM3Br3uRGyynYEKylNTzV"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2zQxbA9x6KYb0CWkiY41YP"
+      },
+      "href": "https://api.spotify.com/v1/albums/2zQxbA9x6KYb0CWkiY41YP",
+      "id": "2zQxbA9x6KYb0CWkiY41YP",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730c5b6eb3d2a37109eebe454a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020c5b6eb3d2a37109eebe454a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510c5b6eb3d2a37109eebe454a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "It Good",
+      "release_date": "2014-08-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2zQxbA9x6KYb0CWkiY41YP",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3qu3PIngYcX3SzOVcNGSTF",
+          "id": "3qu3PIngYcX3SzOVcNGSTF",
+          "name": "Pamputtae",
+          "type": "artist",
+          "uri": "spotify:artist:3qu3PIngYcX3SzOVcNGSTF"
+        }
+      ]
+    }
+  ]
+}

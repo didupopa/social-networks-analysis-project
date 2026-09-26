@@ -1,0 +1,53 @@
+{
+  "artist_id": "27FGXRNruFoOdf1vP8dqcH",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "href": "https://api.spotify.com/v1/albums/0j1qzjaJmsF1FkcICf3hRu",
+      "id": "0j1qzjaJmsF1FkcICf3hRu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f4c4ee507c2558262869f415",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f4c4ee507c2558262869f415",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Cassie (U.S. Version)",
+      "release_date": "2006-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0j1qzjaJmsF1FkcICf3hRu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+          },
+          "href": "https://api.spotify.com/v1/artists/27FGXRNruFoOdf1vP8dqcH",
+          "id": "27FGXRNruFoOdf1vP8dqcH",
+          "name": "Cassie",
+          "type": "artist",
+          "uri": "spotify:artist:27FGXRNruFoOdf1vP8dqcH"
+        }
+      ]
+    }
+  ]
+}

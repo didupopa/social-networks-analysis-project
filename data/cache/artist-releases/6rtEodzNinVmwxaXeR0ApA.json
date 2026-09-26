@@ -1,0 +1,96 @@
+{
+  "artist_id": "6rtEodzNinVmwxaXeR0ApA",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2OHNnLgikYlZY7podyxOkG"
+      },
+      "href": "https://api.spotify.com/v1/albums/2OHNnLgikYlZY7podyxOkG",
+      "id": "2OHNnLgikYlZY7podyxOkG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fedb715ece619c1e73616370",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fedb715ece619c1e73616370",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fedb715ece619c1e73616370",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Twelve Nations",
+      "release_date": "2010-04-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2OHNnLgikYlZY7podyxOkG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rtEodzNinVmwxaXeR0ApA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rtEodzNinVmwxaXeR0ApA",
+          "id": "6rtEodzNinVmwxaXeR0ApA",
+          "name": "Fitz",
+          "type": "artist",
+          "uri": "spotify:artist:6rtEodzNinVmwxaXeR0ApA"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5nhFJ7jkDNVVP7fGczOOY7"
+      },
+      "href": "https://api.spotify.com/v1/albums/5nhFJ7jkDNVVP7fGczOOY7",
+      "id": "5nhFJ7jkDNVVP7fGczOOY7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733770f5798344e4bbdd3f5c86",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023770f5798344e4bbdd3f5c86",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513770f5798344e4bbdd3f5c86",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Out Of The Blue",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5nhFJ7jkDNVVP7fGczOOY7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rtEodzNinVmwxaXeR0ApA"
+          },
+          "href": "https://api.spotify.com/v1/artists/6rtEodzNinVmwxaXeR0ApA",
+          "id": "6rtEodzNinVmwxaXeR0ApA",
+          "name": "Fitz",
+          "type": "artist",
+          "uri": "spotify:artist:6rtEodzNinVmwxaXeR0ApA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "artist_id": "3cjyqM4lb0grqM0j4opTXM",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0vAiUGJBlzngrFY0PSG1VZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0vAiUGJBlzngrFY0PSG1VZ",
+      "id": "0vAiUGJBlzngrFY0PSG1VZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273149bb9eacec89bddeb060e32",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02149bb9eacec89bddeb060e32",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851149bb9eacec89bddeb060e32",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Little More Wicked, A Little More Wild",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0vAiUGJBlzngrFY0PSG1VZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cjyqM4lb0grqM0j4opTXM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3cjyqM4lb0grqM0j4opTXM",
+          "id": "3cjyqM4lb0grqM0j4opTXM",
+          "name": "Parker Ighile",
+          "type": "artist",
+          "uri": "spotify:artist:3cjyqM4lb0grqM0j4opTXM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PnBDn2cluVYctu2IFiSyB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PnBDn2cluVYctu2IFiSyB",
+          "id": "4PnBDn2cluVYctu2IFiSyB",
+          "name": "Peter West",
+          "type": "artist",
+          "uri": "spotify:artist:4PnBDn2cluVYctu2IFiSyB"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "album_id": "1XZWipanp2h9AA0uBRiDoa",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tcoIbHqdKCbRPYxZoxZ16"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tcoIbHqdKCbRPYxZoxZ16",
+          "id": "0tcoIbHqdKCbRPYxZoxZ16",
+          "name": "Tha Essay Potna",
+          "type": "artist",
+          "uri": "spotify:artist:0tcoIbHqdKCbRPYxZoxZ16"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Q5sPmM8j4SpMqL4UA1DtS",
+          "id": "4Q5sPmM8j4SpMqL4UA1DtS",
+          "name": "Lil' Flip",
+          "type": "artist",
+          "uri": "spotify:artist:4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 276066,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2NJrEQtPdeCgmqNC9XNSsb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2NJrEQtPdeCgmqNC9XNSsb",
+      "id": "2NJrEQtPdeCgmqNC9XNSsb",
+      "name": "We Got Next",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2NJrEQtPdeCgmqNC9XNSsb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227573,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Fz5TU11fCGAtg2ZXcP3w3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Fz5TU11fCGAtg2ZXcP3w3",
+      "id": "5Fz5TU11fCGAtg2ZXcP3w3",
+      "name": "I Don't Back Down",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5Fz5TU11fCGAtg2ZXcP3w3",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tcoIbHqdKCbRPYxZoxZ16"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tcoIbHqdKCbRPYxZoxZ16",
+          "id": "0tcoIbHqdKCbRPYxZoxZ16",
+          "name": "Tha Essay Potna",
+          "type": "artist",
+          "uri": "spotify:artist:0tcoIbHqdKCbRPYxZoxZ16"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 260480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2G5z5ilTLyqn9fJx9oBdYV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2G5z5ilTLyqn9fJx9oBdYV",
+      "id": "2G5z5ilTLyqn9fJx9oBdYV",
+      "name": "Reefer & Liquor",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2G5z5ilTLyqn9fJx9oBdYV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2k1UfpoVXyh0Frm1nP37O9"
+          },
+          "href": "https://api.spotify.com/v1/artists/2k1UfpoVXyh0Frm1nP37O9",
+          "id": "2k1UfpoVXyh0Frm1nP37O9",
+          "name": "The Dream Team",
+          "type": "artist",
+          "uri": "spotify:artist:2k1UfpoVXyh0Frm1nP37O9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252160,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/69tJRXNnGVBZc68La9CEoU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/69tJRXNnGVBZc68La9CEoU",
+      "id": "69tJRXNnGVBZc68La9CEoU",
+      "name": "Thats What It Iz",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:69tJRXNnGVBZc68La9CEoU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q8HFzVEQyOS8DTbALE6qo"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q8HFzVEQyOS8DTbALE6qo",
+          "id": "6q8HFzVEQyOS8DTbALE6qo",
+          "name": "Lootenant",
+          "type": "artist",
+          "uri": "spotify:artist:6q8HFzVEQyOS8DTbALE6qo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/02j6BuC5a2o0d4tDdVCRew"
+      },
+      "href": "https://api.spotify.com/v1/tracks/02j6BuC5a2o0d4tDdVCRew",
+      "id": "02j6BuC5a2o0d4tDdVCRew",
+      "name": "Pimp Till I Die",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:02j6BuC5a2o0d4tDdVCRew",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 175613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1BDzELOcIYsIZFwEGbrvQI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1BDzELOcIYsIZFwEGbrvQI",
+      "id": "1BDzELOcIYsIZFwEGbrvQI",
+      "name": "Gucci Gudda",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1BDzELOcIYsIZFwEGbrvQI",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0VWofxbuKhZvSbOgXyyij8"
+          },
+          "href": "https://api.spotify.com/v1/artists/0VWofxbuKhZvSbOgXyyij8",
+          "id": "0VWofxbuKhZvSbOgXyyij8",
+          "name": "Seaclipse",
+          "type": "artist",
+          "uri": "spotify:artist:0VWofxbuKhZvSbOgXyyij8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf"
+          },
+          "href": "https://api.spotify.com/v1/artists/33wbkdcxtduHKY53LnI1Hf",
+          "id": "33wbkdcxtduHKY53LnI1Hf",
+          "name": "Huey",
+          "type": "artist",
+          "uri": "spotify:artist:33wbkdcxtduHKY53LnI1Hf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256079,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/413mU0TJ8LU11LqKqAVuJV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/413mU0TJ8LU11LqKqAVuJV",
+      "id": "413mU0TJ8LU11LqKqAVuJV",
+      "name": "I'm So Hot",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:413mU0TJ8LU11LqKqAVuJV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231266,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hkqSgmiZMW2OVcjm8lJ9s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1hkqSgmiZMW2OVcjm8lJ9s",
+      "id": "1hkqSgmiZMW2OVcjm8lJ9s",
+      "name": "I Need... Money",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1hkqSgmiZMW2OVcjm8lJ9s",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zmsI7t3SddjwHv7dbIMmw"
+          },
+          "href": "https://api.spotify.com/v1/artists/3zmsI7t3SddjwHv7dbIMmw",
+          "id": "3zmsI7t3SddjwHv7dbIMmw",
+          "name": "Essay Potna",
+          "type": "artist",
+          "uri": "spotify:artist:3zmsI7t3SddjwHv7dbIMmw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5K2XiCe9cks83iZaMkwtfu"
+          },
+          "href": "https://api.spotify.com/v1/artists/5K2XiCe9cks83iZaMkwtfu",
+          "id": "5K2XiCe9cks83iZaMkwtfu",
+          "name": "Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:5K2XiCe9cks83iZaMkwtfu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 306706,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6X5yiqcDpjFsmOUhHWQeQN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6X5yiqcDpjFsmOUhHWQeQN",
+      "id": "6X5yiqcDpjFsmOUhHWQeQN",
+      "name": "Pop Me A Pill",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:6X5yiqcDpjFsmOUhHWQeQN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+          "id": "6NyJIFHAePjHR1pFxwisqz",
+          "name": "Kurupt",
+          "type": "artist",
+          "uri": "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q8HFzVEQyOS8DTbALE6qo"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q8HFzVEQyOS8DTbALE6qo",
+          "id": "6q8HFzVEQyOS8DTbALE6qo",
+          "name": "Lootenant",
+          "type": "artist",
+          "uri": "spotify:artist:6q8HFzVEQyOS8DTbALE6qo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246586,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Jaa3JumOkYeL7Reru50EF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Jaa3JumOkYeL7Reru50EF",
+      "id": "6Jaa3JumOkYeL7Reru50EF",
+      "name": "Walk Wit A Limp",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6Jaa3JumOkYeL7Reru50EF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201480,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5d5Oatxm8yGYz2WBgscN6r"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5d5Oatxm8yGYz2WBgscN6r",
+      "id": "5d5Oatxm8yGYz2WBgscN6r",
+      "name": "Spit That Hot Shit",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5d5Oatxm8yGYz2WBgscN6r",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6q8HFzVEQyOS8DTbALE6qo"
+          },
+          "href": "https://api.spotify.com/v1/artists/6q8HFzVEQyOS8DTbALE6qo",
+          "id": "6q8HFzVEQyOS8DTbALE6qo",
+          "name": "Lootenant",
+          "type": "artist",
+          "uri": "spotify:artist:6q8HFzVEQyOS8DTbALE6qo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258693,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7pBtein3NfQ9KOJQR3tACz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7pBtein3NfQ9KOJQR3tACz",
+      "id": "7pBtein3NfQ9KOJQR3tACz",
+      "name": "This Is How We Do It",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7pBtein3NfQ9KOJQR3tACz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270760,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3FJNI08tf4owfCu1jnJ41u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3FJNI08tf4owfCu1jnJ41u",
+      "id": "3FJNI08tf4owfCu1jnJ41u",
+      "name": "Swangaz On My Ride",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:3FJNI08tf4owfCu1jnJ41u",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2d3udgMy4RQZL0llL3pCKf"
+          },
+          "href": "https://api.spotify.com/v1/artists/2d3udgMy4RQZL0llL3pCKf",
+          "id": "2d3udgMy4RQZL0llL3pCKf",
+          "name": "Tay The Don",
+          "type": "artist",
+          "uri": "spotify:artist:2d3udgMy4RQZL0llL3pCKf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233306,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3naTLGFEwBKUD8a5P1AHWL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3naTLGFEwBKUD8a5P1AHWL",
+      "id": "3naTLGFEwBKUD8a5P1AHWL",
+      "name": "Wheels Of Fortune",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3naTLGFEwBKUD8a5P1AHWL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tcoIbHqdKCbRPYxZoxZ16"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tcoIbHqdKCbRPYxZoxZ16",
+          "id": "0tcoIbHqdKCbRPYxZoxZ16",
+          "name": "Tha Essay Potna",
+          "type": "artist",
+          "uri": "spotify:artist:0tcoIbHqdKCbRPYxZoxZ16"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Is4jaVAPdWhbfCEMzFzvH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Is4jaVAPdWhbfCEMzFzvH",
+      "id": "4Is4jaVAPdWhbfCEMzFzvH",
+      "name": "Reefer & Liquor (Screwed)",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4Is4jaVAPdWhbfCEMzFzvH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6aYSeb4PQb6EDaLd8uw2Hm"
+          },
+          "href": "https://api.spotify.com/v1/artists/6aYSeb4PQb6EDaLd8uw2Hm",
+          "id": "6aYSeb4PQb6EDaLd8uw2Hm",
+          "name": "Flip Gates",
+          "type": "artist",
+          "uri": "spotify:artist:6aYSeb4PQb6EDaLd8uw2Hm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 338826,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Sjy10t9EpUZiEzDSN4gKT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Sjy10t9EpUZiEzDSN4gKT",
+      "id": "4Sjy10t9EpUZiEzDSN4gKT",
+      "name": "Swangaz On My Ride (Screwed)",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:4Sjy10t9EpUZiEzDSN4gKT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/7s47glsDg6fwq9KXNTsTpa",
+          "id": "7s47glsDg6fwq9KXNTsTpa",
+          "name": "Gudda Gudda",
+          "type": "artist",
+          "uri": "spotify:artist:7s47glsDg6fwq9KXNTsTpa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242653,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63NLjp8LUekxE8nNOwx5q0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63NLjp8LUekxE8nNOwx5q0",
+      "id": "63NLjp8LUekxE8nNOwx5q0",
+      "name": "Gucci Gudda (Screwed)",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:63NLjp8LUekxE8nNOwx5q0",
+      "is_local": false
+    }
+  ]
+}

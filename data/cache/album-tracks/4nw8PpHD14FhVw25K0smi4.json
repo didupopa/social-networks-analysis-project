@@ -1,0 +1,520 @@
+{
+  "album_id": "4nw8PpHD14FhVw25K0smi4",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3cjxn6Z8XrhJuuEcxxQHmm",
+          "id": "3cjxn6Z8XrhJuuEcxxQHmm",
+          "name": "Jorge Calandrelli",
+          "type": "artist",
+          "uri": "spotify:artist:3cjxn6Z8XrhJuuEcxxQHmm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 615080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7cWTgNvoyaTjZk0iNwuRFq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7cWTgNvoyaTjZk0iNwuRFq",
+      "id": "7cWTgNvoyaTjZk0iNwuRFq",
+      "name": "Jazz Clarinet Concerto: I. Allegro",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7cWTgNvoyaTjZk0iNwuRFq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3cjxn6Z8XrhJuuEcxxQHmm",
+          "id": "3cjxn6Z8XrhJuuEcxxQHmm",
+          "name": "Jorge Calandrelli",
+          "type": "artist",
+          "uri": "spotify:artist:3cjxn6Z8XrhJuuEcxxQHmm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 424573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6cgYz14XxAXjYyxougmBIr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6cgYz14XxAXjYyxougmBIr",
+      "id": "6cgYz14XxAXjYyxougmBIr",
+      "name": "Jazz Clarinet Concerto: II. Adagio",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6cgYz14XxAXjYyxougmBIr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3cjxn6Z8XrhJuuEcxxQHmm",
+          "id": "3cjxn6Z8XrhJuuEcxxQHmm",
+          "name": "Jorge Calandrelli",
+          "type": "artist",
+          "uri": "spotify:artist:3cjxn6Z8XrhJuuEcxxQHmm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 399746,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kndJRSlXF2Gc7bxH1oQnu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kndJRSlXF2Gc7bxH1oQnu",
+      "id": "5kndJRSlXF2Gc7bxH1oQnu",
+      "name": "Jazz Clarinet Concerto: III. Presto",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5kndJRSlXF2Gc7bxH1oQnu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nA6Bmog4LSiNL5aKJRKPs"
+          },
+          "href": "https://api.spotify.com/v1/artists/2nA6Bmog4LSiNL5aKJRKPs",
+          "id": "2nA6Bmog4LSiNL5aKJRKPs",
+          "name": "Daniel Freiberg",
+          "type": "artist",
+          "uri": "spotify:artist:2nA6Bmog4LSiNL5aKJRKPs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 461333,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ecMgyvIWcdB8yqv4Mk6xy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ecMgyvIWcdB8yqv4Mk6xy",
+      "id": "6ecMgyvIWcdB8yqv4Mk6xy",
+      "name": "Jazz Clarinet Concerto \"Latin American Chronicles\": I. Panorámicas",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:6ecMgyvIWcdB8yqv4Mk6xy",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nA6Bmog4LSiNL5aKJRKPs"
+          },
+          "href": "https://api.spotify.com/v1/artists/2nA6Bmog4LSiNL5aKJRKPs",
+          "id": "2nA6Bmog4LSiNL5aKJRKPs",
+          "name": "Daniel Freiberg",
+          "type": "artist",
+          "uri": "spotify:artist:2nA6Bmog4LSiNL5aKJRKPs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 329306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/06g88apW5eX6C6B02876Ko"
+      },
+      "href": "https://api.spotify.com/v1/tracks/06g88apW5eX6C6B02876Ko",
+      "id": "06g88apW5eX6C6B02876Ko",
+      "name": "Jazz Clarinet Concerto \"Latin American Chronicles\": II. Diálogos",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:06g88apW5eX6C6B02876Ko",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nA6Bmog4LSiNL5aKJRKPs"
+          },
+          "href": "https://api.spotify.com/v1/artists/2nA6Bmog4LSiNL5aKJRKPs",
+          "id": "2nA6Bmog4LSiNL5aKJRKPs",
+          "name": "Daniel Freiberg",
+          "type": "artist",
+          "uri": "spotify:artist:2nA6Bmog4LSiNL5aKJRKPs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 355306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4mHiERWCiniQPcq2LOq2AT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4mHiERWCiniQPcq2LOq2AT",
+      "id": "4mHiERWCiniQPcq2LOq2AT",
+      "name": "Jazz Clarinet Concerto \"Latin American Chronicles\": III. Influencias",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4mHiERWCiniQPcq2LOq2AT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J71DltC2dxSTBO9kq14zS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J71DltC2dxSTBO9kq14zS",
+          "id": "4J71DltC2dxSTBO9kq14zS",
+          "name": "Jeff Beal",
+          "type": "artist",
+          "uri": "spotify:artist:4J71DltC2dxSTBO9kq14zS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Yau45HTpv2UHLqtJyOoJ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Yau45HTpv2UHLqtJyOoJ0",
+          "id": "4Yau45HTpv2UHLqtJyOoJ0",
+          "name": "Rasmus Baumann",
+          "type": "artist",
+          "uri": "spotify:artist:4Yau45HTpv2UHLqtJyOoJ0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 402893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36Pc1Pm7fOtJsuNhS8EeWb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36Pc1Pm7fOtJsuNhS8EeWb",
+      "id": "36Pc1Pm7fOtJsuNhS8EeWb",
+      "name": "Clarinet Concerto: I. Riches to Rags",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:36Pc1Pm7fOtJsuNhS8EeWb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J71DltC2dxSTBO9kq14zS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J71DltC2dxSTBO9kq14zS",
+          "id": "4J71DltC2dxSTBO9kq14zS",
+          "name": "Jeff Beal",
+          "type": "artist",
+          "uri": "spotify:artist:4J71DltC2dxSTBO9kq14zS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Yau45HTpv2UHLqtJyOoJ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Yau45HTpv2UHLqtJyOoJ0",
+          "id": "4Yau45HTpv2UHLqtJyOoJ0",
+          "name": "Rasmus Baumann",
+          "type": "artist",
+          "uri": "spotify:artist:4Yau45HTpv2UHLqtJyOoJ0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 601573,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3r3ficyVFo3VewA2587n9Z"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3r3ficyVFo3VewA2587n9Z",
+      "id": "3r3ficyVFo3VewA2587n9Z",
+      "name": "Clarinet Concerto: II. Famines to Feasts, Pt. 1",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3r3ficyVFo3VewA2587n9Z",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J71DltC2dxSTBO9kq14zS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J71DltC2dxSTBO9kq14zS",
+          "id": "4J71DltC2dxSTBO9kq14zS",
+          "name": "Jeff Beal",
+          "type": "artist",
+          "uri": "spotify:artist:4J71DltC2dxSTBO9kq14zS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Yau45HTpv2UHLqtJyOoJ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Yau45HTpv2UHLqtJyOoJ0",
+          "id": "4Yau45HTpv2UHLqtJyOoJ0",
+          "name": "Rasmus Baumann",
+          "type": "artist",
+          "uri": "spotify:artist:4Yau45HTpv2UHLqtJyOoJ0"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 89146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3rLfZ7JLiQ3GBMYQCitrka"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3rLfZ7JLiQ3GBMYQCitrka",
+      "id": "3rLfZ7JLiQ3GBMYQCitrka",
+      "name": "Clarinet Concerto: III. Famines to Feasts, Pt. 2",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3rLfZ7JLiQ3GBMYQCitrka",
+      "is_local": false
+    }
+  ]
+}

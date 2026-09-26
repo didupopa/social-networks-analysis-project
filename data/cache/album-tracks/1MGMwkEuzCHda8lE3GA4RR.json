@@ -1,0 +1,685 @@
+{
+  "album_id": "1MGMwkEuzCHda8lE3GA4RR",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+          "id": "6Jrxnp0JgqmeUX1veU591p",
+          "name": "Santigold",
+          "type": "artist",
+          "uri": "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          },
+          "href": "https://api.spotify.com/v1/artists/2NUz5P42WqkxilbI8ocN76",
+          "id": "2NUz5P42WqkxilbI8ocN76",
+          "name": "Vybz Kartel",
+          "type": "artist",
+          "uri": "spotify:artist:2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+          },
+          "href": "https://api.spotify.com/v1/artists/1i374WEVqp1BCoCLmehog9",
+          "id": "1i374WEVqp1BCoCLmehog9",
+          "name": "Danielle Haim",
+          "type": "artist",
+          "uri": "spotify:artist:1i374WEVqp1BCoCLmehog9"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp"
+          },
+          "href": "https://api.spotify.com/v1/artists/5KEjVMaEdZ1tHgaAIkZCVp",
+          "id": "5KEjVMaEdZ1tHgaAIkZCVp",
+          "name": "Yasmin",
+          "type": "artist",
+          "uri": "spotify:artist:5KEjVMaEdZ1tHgaAIkZCVp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/21qy18hcjXxt4gmX4RBbgz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/21qy18hcjXxt4gmX4RBbgz",
+      "id": "21qy18hcjXxt4gmX4RBbgz",
+      "name": "You're No Good",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:21qy18hcjXxt4gmX4RBbgz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr"
+          },
+          "href": "https://api.spotify.com/v1/artists/187qoiisjzqvj3wsBWLotr",
+          "id": "187qoiisjzqvj3wsBWLotr",
+          "name": "Leftside",
+          "type": "artist",
+          "uri": "spotify:artist:187qoiisjzqvj3wsBWLotr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6m0WPZK8nI1URNUt6HCeY2"
+          },
+          "href": "https://api.spotify.com/v1/artists/6m0WPZK8nI1URNUt6HCeY2",
+          "id": "6m0WPZK8nI1URNUt6HCeY2",
+          "name": "GTA",
+          "type": "artist",
+          "uri": "spotify:artist:6m0WPZK8nI1URNUt6HCeY2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2z2EC32tn1BC3SwHoIekDn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2z2EC32tn1BC3SwHoIekDn",
+          "id": "2z2EC32tn1BC3SwHoIekDn",
+          "name": "Razz",
+          "type": "artist",
+          "uri": "spotify:artist:2z2EC32tn1BC3SwHoIekDn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3d6iXnAqhiGOVSa0J7nUnb"
+          },
+          "href": "https://api.spotify.com/v1/artists/3d6iXnAqhiGOVSa0J7nUnb",
+          "id": "3d6iXnAqhiGOVSa0J7nUnb",
+          "name": "Biggy",
+          "type": "artist",
+          "uri": "spotify:artist:3d6iXnAqhiGOVSa0J7nUnb"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Ypcr8vmmOGhwNjf2OpQqd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Ypcr8vmmOGhwNjf2OpQqd",
+      "id": "0Ypcr8vmmOGhwNjf2OpQqd",
+      "name": "Jet Blue Jet",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0Ypcr8vmmOGhwNjf2OpQqd",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ZNxsFRXMi2yGGgOtVZsrr",
+          "id": "6ZNxsFRXMi2yGGgOtVZsrr",
+          "name": "Amber of Dirty Projectors",
+          "type": "artist",
+          "uri": "spotify:artist:6ZNxsFRXMi2yGGgOtVZsrr"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 289973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4p4hyqRFdoiw4EMbEsqBdA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4p4hyqRFdoiw4EMbEsqBdA",
+      "id": "4p4hyqRFdoiw4EMbEsqBdA",
+      "name": "Get Free",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4p4hyqRFdoiw4EMbEsqBdA",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          },
+          "href": "https://api.spotify.com/v1/artists/7muzHifhMdnfN1xncRLOqk",
+          "id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "Flux Pavilion",
+          "type": "artist",
+          "uri": "spotify:artist:7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WmxmniXKkufCJVuKzey6D"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WmxmniXKkufCJVuKzey6D",
+      "id": "2WmxmniXKkufCJVuKzey6D",
+      "name": "Jah No Partial",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2WmxmniXKkufCJVuKzey6D",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+          },
+          "href": "https://api.spotify.com/v1/artists/6NOvBZrkd83MSD51xkq4on",
+          "id": "6NOvBZrkd83MSD51xkq4on",
+          "name": "Elephant Man",
+          "type": "artist",
+          "uri": "spotify:artist:6NOvBZrkd83MSD51xkq4on"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t6TbNq4OtAax6baeZ8udJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t6TbNq4OtAax6baeZ8udJ",
+          "id": "3t6TbNq4OtAax6baeZ8udJ",
+          "name": "Opal",
+          "type": "artist",
+          "uri": "spotify:artist:3t6TbNq4OtAax6baeZ8udJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 267813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5CXyN0J0Dx82LEf1bSPeRB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5CXyN0J0Dx82LEf1bSPeRB",
+      "id": "5CXyN0J0Dx82LEf1bSPeRB",
+      "name": "Wind Up",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5CXyN0J0Dx82LEf1bSPeRB",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gkSl4XpHIHI4I1WQbfXOE",
+          "id": "1gkSl4XpHIHI4I1WQbfXOE",
+          "name": "Peaches",
+          "type": "artist",
+          "uri": "spotify:artist:1gkSl4XpHIHI4I1WQbfXOE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7eikTMySZSC4r8GiOTCSMx"
+          },
+          "href": "https://api.spotify.com/v1/artists/7eikTMySZSC4r8GiOTCSMx",
+          "id": "7eikTMySZSC4r8GiOTCSMx",
+          "name": "Timberlee",
+          "type": "artist",
+          "uri": "spotify:artist:7eikTMySZSC4r8GiOTCSMx"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180533,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/50QY1E1OoKrlxu40caEAYU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/50QY1E1OoKrlxu40caEAYU",
+      "id": "50QY1E1OoKrlxu40caEAYU",
+      "name": "Scare Me",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:50QY1E1OoKrlxu40caEAYU",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+          },
+          "href": "https://api.spotify.com/v1/artists/2nkAu4P6EVeQpXxiEhPTH6",
+          "id": "2nkAu4P6EVeQpXxiEhPTH6",
+          "name": "Ezra Koenig",
+          "type": "artist",
+          "uri": "spotify:artist:2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253693,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/206iaqUi58jPE9o6FXAJxH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/206iaqUi58jPE9o6FXAJxH",
+      "id": "206iaqUi58jPE9o6FXAJxH",
+      "name": "Jessica",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:206iaqUi58jPE9o6FXAJxH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RfTXjK9aiiIKDaKUHpL57",
+          "id": "4RfTXjK9aiiIKDaKUHpL57",
+          "name": "Busy Signal",
+          "type": "artist",
+          "uri": "spotify:artist:4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xjVYIMLS3nR5Y1UOr02Vb",
+          "id": "2xjVYIMLS3nR5Y1UOr02Vb",
+          "name": "FS Green",
+          "type": "artist",
+          "uri": "spotify:artist:2xjVYIMLS3nR5Y1UOr02Vb"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Z3k52rtOTnOnvFHoKNHEN",
+          "id": "5Z3k52rtOTnOnvFHoKNHEN",
+          "name": "The Flexican",
+          "type": "artist",
+          "uri": "spotify:artist:5Z3k52rtOTnOnvFHoKNHEN"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5StvAhgmgCOpCPHHNfS8bx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5StvAhgmgCOpCPHHNfS8bx",
+      "id": "5StvAhgmgCOpCPHHNfS8bx",
+      "name": "Watch Out For This (Bumaye)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5StvAhgmgCOpCPHHNfS8bx",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          },
+          "href": "https://api.spotify.com/v1/artists/5EvFsr3kj42KNv97ZEnqij",
+          "id": "5EvFsr3kj42KNv97ZEnqij",
+          "name": "Shaggy",
+          "type": "artist",
+          "uri": "spotify:artist:5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+          },
+          "href": "https://api.spotify.com/v1/artists/4nmrm4zpgJ0RC6aZRSUEjF",
+          "id": "4nmrm4zpgJ0RC6aZRSUEjF",
+          "name": "Wynter Gordon",
+          "type": "artist",
+          "uri": "spotify:artist:4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 262293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/03SISpGXGuFGuAHmlyfDW4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/03SISpGXGuFGuAHmlyfDW4",
+      "id": "03SISpGXGuFGuAHmlyfDW4",
+      "name": "Keep Cool",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:03SISpGXGuFGuAHmlyfDW4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+          },
+          "href": "https://api.spotify.com/v1/artists/53cQZtWDwDJwVCNZlfJ6Qk",
+          "id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "Laidback Luke",
+          "type": "artist",
+          "uri": "spotify:artist:53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+          },
+          "href": "https://api.spotify.com/v1/artists/42qLC3FgtazA9AvaIoiP62",
+          "id": "42qLC3FgtazA9AvaIoiP62",
+          "name": "Ms. Dynamite",
+          "type": "artist",
+          "uri": "spotify:artist:42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6fiMxIOVk07dvpjvP0cXep"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6fiMxIOVk07dvpjvP0cXep",
+      "id": "6fiMxIOVk07dvpjvP0cXep",
+      "name": "Sweat",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6fiMxIOVk07dvpjvP0cXep",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          },
+          "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe",
+          "name": "Wyclef Jean",
+          "type": "artist",
+          "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7qUnGPnRM0YMwBvfmYhObt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7qUnGPnRM0YMwBvfmYhObt",
+      "id": "7qUnGPnRM0YMwBvfmYhObt",
+      "name": "Reach for the Stars",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7qUnGPnRM0YMwBvfmYhObt",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          },
+          "href": "https://api.spotify.com/v1/artists/5LHRHt1k9lMyONurDHEdrp",
+          "id": "5LHRHt1k9lMyONurDHEdrp",
+          "name": "Tyga",
+          "type": "artist",
+          "uri": "spotify:artist:5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6t70aA3vknvznbj4KG9VBf"
+          },
+          "href": "https://api.spotify.com/v1/artists/6t70aA3vknvznbj4KG9VBf",
+          "id": "6t70aA3vknvznbj4KG9VBf",
+          "name": "Mystic",
+          "type": "artist",
+          "uri": "spotify:artist:6t70aA3vknvznbj4KG9VBf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 227813,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2nZ3DQaL3Q9AB4UcQCE36b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2nZ3DQaL3Q9AB4UcQCE36b",
+      "id": "2nZ3DQaL3Q9AB4UcQCE36b",
+      "name": "Bubble Butt",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2nZ3DQaL3Q9AB4UcQCE36b",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+          },
+          "href": "https://api.spotify.com/v1/artists/2dQgOfBP52UwjegY8FwJAY",
+          "id": "2dQgOfBP52UwjegY8FwJAY",
+          "name": "The Partysquad",
+          "type": "artist",
+          "uri": "spotify:artist:2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iRwqSYn7fG3WkEBYQpcqJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iRwqSYn7fG3WkEBYQpcqJ",
+          "id": "0iRwqSYn7fG3WkEBYQpcqJ",
+          "name": "Ward 21",
+          "type": "artist",
+          "uri": "spotify:artist:0iRwqSYn7fG3WkEBYQpcqJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 229200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2VZP3Iaz14dwHCpugEQ9sJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2VZP3Iaz14dwHCpugEQ9sJ",
+      "id": "2VZP3Iaz14dwHCpugEQ9sJ",
+      "name": "Mashup the Dance",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2VZP3Iaz14dwHCpugEQ9sJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          },
+          "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+          "id": "738wLrAtLtCtFOLvQBXOXp",
+          "name": "Major Lazer",
+          "type": "artist",
+          "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+          },
+          "href": "https://api.spotify.com/v1/artists/4J51t1ZO7ed5qgsXmz9VXM",
+          "id": "4J51t1ZO7ed5qgsXmz9VXM",
+          "name": "Bugle",
+          "type": "artist",
+          "uri": "spotify:artist:4J51t1ZO7ed5qgsXmz9VXM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3bRj518241KTJEkmDDgv57"
+          },
+          "href": "https://api.spotify.com/v1/artists/3bRj518241KTJEkmDDgv57",
+          "id": "3bRj518241KTJEkmDDgv57",
+          "name": "Arama",
+          "type": "artist",
+          "uri": "spotify:artist:3bRj518241KTJEkmDDgv57"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236595,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6OfOxSCnrcOg2nZ2yMxIrX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6OfOxSCnrcOg2nZ2yMxIrX",
+      "id": "6OfOxSCnrcOg2nZ2yMxIrX",
+      "name": "Playground",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6OfOxSCnrcOg2nZ2yMxIrX",
+      "is_local": false
+    }
+  ]
+}

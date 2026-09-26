@@ -1,0 +1,179 @@
+{
+  "artist_id": "6ly2Z6h9dOerORbK1l2N8D",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0G8hGg2KikfVncYC0ZQgcd"
+      },
+      "href": "https://api.spotify.com/v1/albums/0G8hGg2KikfVncYC0ZQgcd",
+      "id": "0G8hGg2KikfVncYC0ZQgcd",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3a2fbbc1fb0f34bd16751cf",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3a2fbbc1fb0f34bd16751cf",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f3a2fbbc1fb0f34bd16751cf",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "G.O.L. II: This Time It's Personal...",
+      "release_date": "2023-04-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0G8hGg2KikfVncYC0ZQgcd",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ly2Z6h9dOerORbK1l2N8D",
+          "id": "6ly2Z6h9dOerORbK1l2N8D",
+          "name": "Coucheron",
+          "type": "artist",
+          "uri": "spotify:artist:6ly2Z6h9dOerORbK1l2N8D"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0elSJZFrHnayc7AUCkbWAl",
+          "id": "0elSJZFrHnayc7AUCkbWAl",
+          "name": "Pasha",
+          "type": "artist",
+          "uri": "spotify:artist:0elSJZFrHnayc7AUCkbWAl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LQTKXNdiBt5rW3WkA5V4w"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LQTKXNdiBt5rW3WkA5V4w",
+          "id": "3LQTKXNdiBt5rW3WkA5V4w",
+          "name": "G.O.L.",
+          "type": "artist",
+          "uri": "spotify:artist:3LQTKXNdiBt5rW3WkA5V4w"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3O9ZxrVcIgWt1r6UbLrf7r"
+      },
+      "href": "https://api.spotify.com/v1/albums/3O9ZxrVcIgWt1r6UbLrf7r",
+      "id": "3O9ZxrVcIgWt1r6UbLrf7r",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ab359aea1ef284c9de02b21",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027ab359aea1ef284c9de02b21",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517ab359aea1ef284c9de02b21",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "G.O.L.",
+      "release_date": "2020-09-25",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3O9ZxrVcIgWt1r6UbLrf7r",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ly2Z6h9dOerORbK1l2N8D",
+          "id": "6ly2Z6h9dOerORbK1l2N8D",
+          "name": "Coucheron",
+          "type": "artist",
+          "uri": "spotify:artist:6ly2Z6h9dOerORbK1l2N8D"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0elSJZFrHnayc7AUCkbWAl",
+          "id": "0elSJZFrHnayc7AUCkbWAl",
+          "name": "Pasha",
+          "type": "artist",
+          "uri": "spotify:artist:0elSJZFrHnayc7AUCkbWAl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LQTKXNdiBt5rW3WkA5V4w"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LQTKXNdiBt5rW3WkA5V4w",
+          "id": "3LQTKXNdiBt5rW3WkA5V4w",
+          "name": "G.O.L.",
+          "type": "artist",
+          "uri": "spotify:artist:3LQTKXNdiBt5rW3WkA5V4w"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2AxfuocIHqWaEjiRGF521y"
+      },
+      "href": "https://api.spotify.com/v1/albums/2AxfuocIHqWaEjiRGF521y",
+      "id": "2AxfuocIHqWaEjiRGF521y",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739ac80fc1ca400ba171bf5ce1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029ac80fc1ca400ba171bf5ce1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519ac80fc1ca400ba171bf5ce1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Playground",
+      "release_date": "2015-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2AxfuocIHqWaEjiRGF521y",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ly2Z6h9dOerORbK1l2N8D",
+          "id": "6ly2Z6h9dOerORbK1l2N8D",
+          "name": "Coucheron",
+          "type": "artist",
+          "uri": "spotify:artist:6ly2Z6h9dOerORbK1l2N8D"
+        }
+      ]
+    }
+  ]
+}

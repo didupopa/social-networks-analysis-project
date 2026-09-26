@@ -1,0 +1,943 @@
+{
+  "album_id": "6IMbkraBRvq7EAGq5EvlSd",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 199071,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1wXxFq5xuCXmf89MWSBgRi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1wXxFq5xuCXmf89MWSBgRi",
+      "id": "1wXxFq5xuCXmf89MWSBgRi",
+      "name": "Everloving - Reprise Version",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1wXxFq5xuCXmf89MWSBgRi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          },
+          "href": "https://api.spotify.com/v1/artists/06nevPmNVfWUXyZkccahL8",
+          "id": "06nevPmNVfWUXyZkccahL8",
+          "name": "Gregory Porter",
+          "type": "artist",
+          "uri": "spotify:artist:06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lhaaKpTyXOnjp79M3xYBl",
+          "id": "1lhaaKpTyXOnjp79M3xYBl",
+          "name": "Amythyst Kiah",
+          "type": "artist",
+          "uri": "spotify:artist:1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270024,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1EaJEMyJlpnqUjjq9WVhDX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1EaJEMyJlpnqUjjq9WVhDX",
+      "id": "1EaJEMyJlpnqUjjq9WVhDX",
+      "name": "Natural Blues - Reprise Version",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1EaJEMyJlpnqUjjq9WVhDX",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222939,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5iB6E4nQiAVwJE0Rru9Zwc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5iB6E4nQiAVwJE0Rru9Zwc",
+      "id": "5iB6E4nQiAVwJE0Rru9Zwc",
+      "name": "Go - Reprise Version",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5iB6E4nQiAVwJE0Rru9Zwc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1MhtYlJvUqfd2EgHSQTGK4",
+          "id": "1MhtYlJvUqfd2EgHSQTGK4",
+          "name": "Jim James",
+          "type": "artist",
+          "uri": "spotify:artist:1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 353878,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1XGBLyqwH6sujLodDmKKFv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1XGBLyqwH6sujLodDmKKFv",
+      "id": "1XGBLyqwH6sujLodDmKKFv",
+      "name": "Porcelain - Reprise Version",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1XGBLyqwH6sujLodDmKKFv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 298588,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36y8r06jpFH9vpSfHb0roV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36y8r06jpFH9vpSfHb0roV",
+      "id": "36y8r06jpFH9vpSfHb0roV",
+      "name": "Extreme Ways - Reprise Version",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:36y8r06jpFH9vpSfHb0roV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1CYbORDKUh2xePXSHGjW4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/1CYbORDKUh2xePXSHGjW4J",
+          "id": "1CYbORDKUh2xePXSHGjW4J",
+          "name": "Mindy Jones",
+          "type": "artist",
+          "uri": "spotify:artist:1CYbORDKUh2xePXSHGjW4J"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 317788,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5TthIRwomwYsxYMiolK5I6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5TthIRwomwYsxYMiolK5I6",
+      "id": "5TthIRwomwYsxYMiolK5I6",
+      "name": "Heroes - Reprise Version",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5TthIRwomwYsxYMiolK5I6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          },
+          "href": "https://api.spotify.com/v1/artists/0iqgjl0OG3z53PZVIB7ZyD",
+          "id": "0iqgjl0OG3z53PZVIB7ZyD",
+          "name": "Víkingur Ólafsson",
+          "type": "artist",
+          "uri": "spotify:artist:0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 461678,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1PUXYnh9U0s4Y4JaoiEdTJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1PUXYnh9U0s4Y4JaoiEdTJ",
+      "id": "1PUXYnh9U0s4Y4JaoiEdTJ",
+      "name": "God Moving Over the Face of The Waters - Reprise Version",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1PUXYnh9U0s4Y4JaoiEdTJ",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1LXMxLW0X2qxyiAIHQdJ4c"
+          },
+          "href": "https://api.spotify.com/v1/artists/1LXMxLW0X2qxyiAIHQdJ4c",
+          "id": "1LXMxLW0X2qxyiAIHQdJ4c",
+          "name": "Apollo Jane",
+          "type": "artist",
+          "uri": "spotify:artist:1LXMxLW0X2qxyiAIHQdJ4c"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1CYbORDKUh2xePXSHGjW4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/1CYbORDKUh2xePXSHGjW4J",
+          "id": "1CYbORDKUh2xePXSHGjW4J",
+          "name": "Mindy Jones",
+          "type": "artist",
+          "uri": "spotify:artist:1CYbORDKUh2xePXSHGjW4J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          },
+          "href": "https://api.spotify.com/v1/artists/7tlQrRh6jNY1c95poJvBe9",
+          "id": "7tlQrRh6jNY1c95poJvBe9",
+          "name": "Deitrick Haddon",
+          "type": "artist",
+          "uri": "spotify:artist:7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278356,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37I9RiTuOXJSPF5lNdqPwO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37I9RiTuOXJSPF5lNdqPwO",
+      "id": "37I9RiTuOXJSPF5lNdqPwO",
+      "name": "Why Does My Heart Feel So Bad - Reprise Version",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:37I9RiTuOXJSPF5lNdqPwO",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+          "id": "1fpXM23IoNckJ7NDAm8YJQ",
+          "name": "Mark Lanegan",
+          "type": "artist",
+          "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vYQRW5LIDeYQOccTviQNX",
+          "id": "0vYQRW5LIDeYQOccTviQNX",
+          "name": "Kris Kristofferson",
+          "type": "artist",
+          "uri": "spotify:artist:0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 342857,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4vNctVBHlhWekAxH8Roiny"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4vNctVBHlhWekAxH8Roiny",
+      "id": "4vNctVBHlhWekAxH8Roiny",
+      "name": "The Lonely Night - Reprise Version",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4vNctVBHlhWekAxH8Roiny",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 360726,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3gWA7BWwOvGi1vtVdm4ecb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3gWA7BWwOvGi1vtVdm4ecb",
+      "id": "3gWA7BWwOvGi1vtVdm4ecb",
+      "name": "We Are all Made of Stars - Reprise Version",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:3gWA7BWwOvGi1vtVdm4ecb",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322357,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ndmn1sB71WVeWlnzofFxc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ndmn1sB71WVeWlnzofFxc",
+      "id": "6ndmn1sB71WVeWlnzofFxc",
+      "name": "Lift Me Up - Reprise Version",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:6ndmn1sB71WVeWlnzofFxc",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vCgeJQjG0SFPCC9ixbCGz"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vCgeJQjG0SFPCC9ixbCGz",
+          "id": "1vCgeJQjG0SFPCC9ixbCGz",
+          "name": "Nataly Dawn",
+          "type": "artist",
+          "uri": "spotify:artist:1vCgeJQjG0SFPCC9ixbCGz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
+          },
+          "href": "https://api.spotify.com/v1/artists/0vi9khHSAwMRQx1R65dIFR",
+          "id": "0vi9khHSAwMRQx1R65dIFR",
+          "name": "Alice Skye",
+          "type": "artist",
+          "uri": "spotify:artist:0vi9khHSAwMRQx1R65dIFR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7JdgrV0x845kazcTSB0dU7"
+          },
+          "href": "https://api.spotify.com/v1/artists/7JdgrV0x845kazcTSB0dU7",
+          "id": "7JdgrV0x845kazcTSB0dU7",
+          "name": "Luna Li",
+          "type": "artist",
+          "uri": "spotify:artist:7JdgrV0x845kazcTSB0dU7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171275,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5tB90PUq3kSAC8AaArOxJV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5tB90PUq3kSAC8AaArOxJV",
+      "id": "5tB90PUq3kSAC8AaArOxJV",
+      "name": "The Great Escape - Reprise Version",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:5tB90PUq3kSAC8AaArOxJV",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1CYbORDKUh2xePXSHGjW4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/1CYbORDKUh2xePXSHGjW4J",
+          "id": "1CYbORDKUh2xePXSHGjW4J",
+          "name": "Mindy Jones",
+          "type": "artist",
+          "uri": "spotify:artist:1CYbORDKUh2xePXSHGjW4J"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DkhgIw7lIyxekurpXNTrm",
+          "id": "3DkhgIw7lIyxekurpXNTrm",
+          "name": "Darlingside",
+          "type": "artist",
+          "uri": "spotify:artist:3DkhgIw7lIyxekurpXNTrm"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          },
+          "href": "https://api.spotify.com/v1/artists/0rZp7G3gIH6WkyeXbrZnGi",
+          "id": "0rZp7G3gIH6WkyeXbrZnGi",
+          "name": "Novo Amor",
+          "type": "artist",
+          "uri": "spotify:artist:0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 327679,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/450WvSLHMrb8OzZnbnL1iq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/450WvSLHMrb8OzZnbnL1iq",
+      "id": "450WvSLHMrb8OzZnbnL1iq",
+      "name": "Almost Home - Reprise Version",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:450WvSLHMrb8OzZnbnL1iq",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          },
+          "href": "https://api.spotify.com/v1/artists/4utLUGcTvOJFr6aqIJtYWV",
+          "id": "4utLUGcTvOJFr6aqIJtYWV",
+          "name": "Skylar Grey",
+          "type": "artist",
+          "uri": "spotify:artist:4utLUGcTvOJFr6aqIJtYWV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          },
+          "href": "https://api.spotify.com/v1/artists/3DkhgIw7lIyxekurpXNTrm",
+          "id": "3DkhgIw7lIyxekurpXNTrm",
+          "name": "Darlingside",
+          "type": "artist",
+          "uri": "spotify:artist:3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 312957,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7c9DAiK5SkUxcAEtqR4rcm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7c9DAiK5SkUxcAEtqR4rcm",
+      "id": "7c9DAiK5SkUxcAEtqR4rcm",
+      "name": "The Last Day - Reprise Version",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7c9DAiK5SkUxcAEtqR4rcm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 116000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2e2uDvFIuUWZWedEDA68WF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2e2uDvFIuUWZWedEDA68WF",
+      "id": "2e2uDvFIuUWZWedEDA68WF",
+      "name": "Everloving - Reprise Version / Commentary",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2e2uDvFIuUWZWedEDA68WF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 48000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3o0ZFlA5546NOp6idpV2m8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3o0ZFlA5546NOp6idpV2m8",
+      "id": "3o0ZFlA5546NOp6idpV2m8",
+      "name": "Natural Blues - Reprise Version / Commentary",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3o0ZFlA5546NOp6idpV2m8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 109480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/70D5KrenAMitHSKpIHMoHu"
+      },
+      "href": "https://api.spotify.com/v1/tracks/70D5KrenAMitHSKpIHMoHu",
+      "id": "70D5KrenAMitHSKpIHMoHu",
+      "name": "Go - Reprise Version / Commentary",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:70D5KrenAMitHSKpIHMoHu",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 59146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jfTi9pLdh4zwllXwaSPye"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jfTi9pLdh4zwllXwaSPye",
+      "id": "1jfTi9pLdh4zwllXwaSPye",
+      "name": "Porcelain - Reprise Version / Commentary",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1jfTi9pLdh4zwllXwaSPye",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 74813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6iqAmdwjxnaILYCKFTSh4F"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6iqAmdwjxnaILYCKFTSh4F",
+      "id": "6iqAmdwjxnaILYCKFTSh4F",
+      "name": "Extreme Ways - Reprise Version / Commentary",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6iqAmdwjxnaILYCKFTSh4F",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 77960,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5FJR8gC7nF1CbnCR83kz16"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5FJR8gC7nF1CbnCR83kz16",
+      "id": "5FJR8gC7nF1CbnCR83kz16",
+      "name": "Heroes - Reprise Version / Commentary",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5FJR8gC7nF1CbnCR83kz16",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 137146,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/15IyfyMwoVj0skbth8eyEs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/15IyfyMwoVj0skbth8eyEs",
+      "id": "15IyfyMwoVj0skbth8eyEs",
+      "name": "God Moving Over The Face Of The Waters - Reprise Version / Commentary",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:15IyfyMwoVj0skbth8eyEs",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 119866,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6I6dQVUWBqqBa3684JKxEo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6I6dQVUWBqqBa3684JKxEo",
+      "id": "6I6dQVUWBqqBa3684JKxEo",
+      "name": "Why Does My Heart Feel So Bad - Reprise Version / Commentary",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:6I6dQVUWBqqBa3684JKxEo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 101346,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2yiJvYtDaiWRfDI6DAuf43"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2yiJvYtDaiWRfDI6DAuf43",
+      "id": "2yiJvYtDaiWRfDI6DAuf43",
+      "name": "The Lonely Night - Reprise Version / Commentary",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2yiJvYtDaiWRfDI6DAuf43",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 89946,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/157oJYnBlLPyWUKVJyiO4O"
+      },
+      "href": "https://api.spotify.com/v1/tracks/157oJYnBlLPyWUKVJyiO4O",
+      "id": "157oJYnBlLPyWUKVJyiO4O",
+      "name": "We Are All Made Of Stars - Reprise Version / Commentary",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:157oJYnBlLPyWUKVJyiO4O",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 126213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BYidFV99PrYNNdrvQgFH1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BYidFV99PrYNNdrvQgFH1",
+      "id": "7BYidFV99PrYNNdrvQgFH1",
+      "name": "Lift Me Up - Reprise Version / Commentary",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7BYidFV99PrYNNdrvQgFH1",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 67826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7tOPLRo4HNWYXREWoVZadY"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7tOPLRo4HNWYXREWoVZadY",
+      "id": "7tOPLRo4HNWYXREWoVZadY",
+      "name": "The Great Escape - Reprise Version / Commentary",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:7tOPLRo4HNWYXREWoVZadY",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 60893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Ne6KJLD08mJ6WYD7ORucW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Ne6KJLD08mJ6WYD7ORucW",
+      "id": "5Ne6KJLD08mJ6WYD7ORucW",
+      "name": "Almost Home - Reprise Version / Commentary",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5Ne6KJLD08mJ6WYD7ORucW",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+          "id": "3OsRAKCvk37zwYcnzRf5XF",
+          "name": "Moby",
+          "type": "artist",
+          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 120932,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/23lQIKbdeeMkJg25O09jDO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/23lQIKbdeeMkJg25O09jDO",
+      "id": "23lQIKbdeeMkJg25O09jDO",
+      "name": "The Last Day - Reprise Version / Commentary",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:23lQIKbdeeMkJg25O09jDO",
+      "is_local": false
+    }
+  ]
+}

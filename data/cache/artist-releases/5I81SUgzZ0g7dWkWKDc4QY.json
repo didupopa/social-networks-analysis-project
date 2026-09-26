@@ -1,0 +1,53 @@
+{
+  "artist_id": "5I81SUgzZ0g7dWkWKDc4QY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4n1yWNtyQvSyU5QzAgPw50"
+      },
+      "href": "https://api.spotify.com/v1/albums/4n1yWNtyQvSyU5QzAgPw50",
+      "id": "4n1yWNtyQvSyU5QzAgPw50",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac08383684b8068f467dfecb",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac08383684b8068f467dfecb",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ac08383684b8068f467dfecb",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "2008",
+      "release_date": "2017-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4n1yWNtyQvSyU5QzAgPw50",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5I81SUgzZ0g7dWkWKDc4QY"
+          },
+          "href": "https://api.spotify.com/v1/artists/5I81SUgzZ0g7dWkWKDc4QY",
+          "id": "5I81SUgzZ0g7dWkWKDc4QY",
+          "name": "OverDoz.",
+          "type": "artist",
+          "uri": "spotify:artist:5I81SUgzZ0g7dWkWKDc4QY"
+        }
+      ]
+    }
+  ]
+}

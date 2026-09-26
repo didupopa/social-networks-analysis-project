@@ -1,0 +1,642 @@
+{
+  "artist_id": "0T5OJgMVjKIX3b3W3ekqOl",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4FxOY7JznG9Z7SFVGpdidH"
+      },
+      "href": "https://api.spotify.com/v1/albums/4FxOY7JznG9Z7SFVGpdidH",
+      "id": "4FxOY7JznG9Z7SFVGpdidH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2732eb304d58bbb1551827699f5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e022eb304d58bbb1551827699f5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048512eb304d58bbb1551827699f5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lost Tapes",
+      "release_date": "2021-02-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4FxOY7JznG9Z7SFVGpdidH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mceaxtjWdEmwoDVAlkC41",
+          "id": "1mceaxtjWdEmwoDVAlkC41",
+          "name": "Zaytoven",
+          "type": "artist",
+          "uri": "spotify:artist:1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2r5pAG9z39dTrgKWGUbZQl"
+      },
+      "href": "https://api.spotify.com/v1/albums/2r5pAG9z39dTrgKWGUbZQl",
+      "id": "2r5pAG9z39dTrgKWGUbZQl",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273be5474c8f75371f9d0eba37a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02be5474c8f75371f9d0eba37a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851be5474c8f75371f9d0eba37a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wordplay 2",
+      "release_date": "2016-05-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2r5pAG9z39dTrgKWGUbZQl",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0aTs6UYGF3lk6gp5p8Jqjr"
+      },
+      "href": "https://api.spotify.com/v1/albums/0aTs6UYGF3lk6gp5p8Jqjr",
+      "id": "0aTs6UYGF3lk6gp5p8Jqjr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27319e36d3dccf51a08329525cc",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0219e36d3dccf51a08329525cc",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485119e36d3dccf51a08329525cc",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "ATL Dons",
+      "release_date": "2015-12-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0aTs6UYGF3lk6gp5p8Jqjr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0bb2N4mEaZoxcGdDzlOVOS"
+      },
+      "href": "https://api.spotify.com/v1/albums/0bb2N4mEaZoxcGdDzlOVOS",
+      "id": "0bb2N4mEaZoxcGdDzlOVOS",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b57f56250461eb21134b0a95",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b57f56250461eb21134b0a95",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b57f56250461eb21134b0a95",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Real Spill",
+      "release_date": "2015-07-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0bb2N4mEaZoxcGdDzlOVOS",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5LgcjOrDhwIyd6DtZ6mS7l"
+      },
+      "href": "https://api.spotify.com/v1/albums/5LgcjOrDhwIyd6DtZ6mS7l",
+      "id": "5LgcjOrDhwIyd6DtZ6mS7l",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27371565a3f7f67076a858c9436",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0271565a3f7f67076a858c9436",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485171565a3f7f67076a858c9436",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gucci Da Don",
+      "release_date": "2015-03-12",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5LgcjOrDhwIyd6DtZ6mS7l",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          },
+          "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+          "id": "13y7CgLHjMVRMDqxdx0Xdo",
+          "name": "Gucci Mane",
+          "type": "artist",
+          "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2a5cE386ceuiFwSvz6mj59"
+      },
+      "href": "https://api.spotify.com/v1/albums/2a5cE386ceuiFwSvz6mj59",
+      "id": "2a5cE386ceuiFwSvz6mj59",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735b538b0c11d86eaf3f590a2a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025b538b0c11d86eaf3f590a2a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515b538b0c11d86eaf3f590a2a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Food",
+      "release_date": "2014-11-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2a5cE386ceuiFwSvz6mj59",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5TA83FfPYb4Nb93LW33YP8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5TA83FfPYb4Nb93LW33YP8",
+      "id": "5TA83FfPYb4Nb93LW33YP8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739826027633fdf35374197f82",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029826027633fdf35374197f82",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519826027633fdf35374197f82",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "IGNANT",
+      "release_date": "2014-10-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5TA83FfPYb4Nb93LW33YP8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 5,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3WMipKPuQnnUkNhKKME5WF"
+      },
+      "href": "https://api.spotify.com/v1/albums/3WMipKPuQnnUkNhKKME5WF",
+      "id": "3WMipKPuQnnUkNhKKME5WF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1c42c38587d3e0d5f0b4aae",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1c42c38587d3e0d5f0b4aae",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d1c42c38587d3e0d5f0b4aae",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sometimes",
+      "release_date": "2014-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3WMipKPuQnnUkNhKKME5WF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0B9Sa7Bsp9cJtIeKb94DAa"
+      },
+      "href": "https://api.spotify.com/v1/albums/0B9Sa7Bsp9cJtIeKb94DAa",
+      "id": "0B9Sa7Bsp9cJtIeKb94DAa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f8f498015d544d17bc2648c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029f8f498015d544d17bc2648c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519f8f498015d544d17bc2648c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lingo 4 Dummys",
+      "release_date": "2014-02-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0B9Sa7Bsp9cJtIeKb94DAa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4EQhr3EJRD17G04xpJybMF"
+      },
+      "href": "https://api.spotify.com/v1/albums/4EQhr3EJRD17G04xpJybMF",
+      "id": "4EQhr3EJRD17G04xpJybMF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d63ee9c869c64607624d1a3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028d63ee9c869c64607624d1a3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518d63ee9c869c64607624d1a3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gift Of Gab 2 (Deluxe Edition)",
+      "release_date": "2013-03-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4EQhr3EJRD17G04xpJybMF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1mkOCPlq68moN6A4xpsxLp"
+      },
+      "href": "https://api.spotify.com/v1/albums/1mkOCPlq68moN6A4xpsxLp",
+      "id": "1mkOCPlq68moN6A4xpsxLp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27374048aad3560f020726c843f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0274048aad3560f020726c843f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485174048aad3560f020726c843f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wordplay",
+      "release_date": "2012-11-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1mkOCPlq68moN6A4xpsxLp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2b7i2EpiA8bZBoqNCm6tHh"
+      },
+      "href": "https://api.spotify.com/v1/albums/2b7i2EpiA8bZBoqNCm6tHh",
+      "id": "2b7i2EpiA8bZBoqNCm6tHh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f5dae371eb2cc60a42b335ac",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f5dae371eb2cc60a42b335ac",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f5dae371eb2cc60a42b335ac",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gift Of Gab (Hosted by DJ Scream)",
+      "release_date": "2011-12-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2b7i2EpiA8bZBoqNCm6tHh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0TfIxsu5PqsIXzGRmqm9kX"
+      },
+      "href": "https://api.spotify.com/v1/albums/0TfIxsu5PqsIXzGRmqm9kX",
+      "id": "0TfIxsu5PqsIXzGRmqm9kX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab63c31832c91c64b6c6ed71",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab63c31832c91c64b6c6ed71",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ab63c31832c91c64b6c6ed71",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rocko and The Empire - Rocko Dinero",
+      "release_date": "2011-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0TfIxsu5PqsIXzGRmqm9kX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2aQx5Ytz3TGlA2ibRxN4fL"
+      },
+      "href": "https://api.spotify.com/v1/albums/2aQx5Ytz3TGlA2ibRxN4fL",
+      "id": "2aQx5Ytz3TGlA2ibRxN4fL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27354d9d24f8f0f45f21a22249f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0254d9d24f8f0f45f21a22249f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485154d9d24f8f0f45f21a22249f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Self-Made",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2aQx5Ytz3TGlA2ibRxN4fL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T5OJgMVjKIX3b3W3ekqOl",
+          "id": "0T5OJgMVjKIX3b3W3ekqOl",
+          "name": "Rocko",
+          "type": "artist",
+          "uri": "spotify:artist:0T5OJgMVjKIX3b3W3ekqOl"
+        }
+      ]
+    }
+  ]
+}

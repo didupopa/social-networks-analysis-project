@@ -1,0 +1,434 @@
+{
+  "album_id": "3vLaOYCNCzngDf8QdBg2V1",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          },
+          "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+          "id": "7guDJrEfX3qb6FEbdPA5qi",
+          "name": "Stevie Wonder",
+          "type": "artist",
+          "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TpW7t4Cz0RG1gOEU6EcUm",
+          "id": "4TpW7t4Cz0RG1gOEU6EcUm",
+          "name": "Andrew Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 98833,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/41RffU6OSMWONC8uTjyude"
+      },
+      "href": "https://api.spotify.com/v1/tracks/41RffU6OSMWONC8uTjyude",
+      "id": "41RffU6OSMWONC8uTjyude",
+      "name": "Uptown's First Finale (feat. Stevie Wonder & Andrew Wyatt)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:41RffU6OSMWONC8uTjyude",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Lt4GKzyW3WOMf3wvPDszQ",
+          "id": "2Lt4GKzyW3WOMf3wvPDszQ",
+          "name": "Kevin Parker",
+          "type": "artist",
+          "uri": "spotify:artist:2Lt4GKzyW3WOMf3wvPDszQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 187291,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hoh1AoKwuC3VZ8CYj6YA9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3hoh1AoKwuC3VZ8CYj6YA9",
+      "id": "3hoh1AoKwuC3VZ8CYj6YA9",
+      "name": "Summer Breaking (feat. Kevin Parker)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:3hoh1AoKwuC3VZ8CYj6YA9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LIJJJkO7R5RasRwt7xIn5",
+          "id": "3LIJJJkO7R5RasRwt7xIn5",
+          "name": "Mystikal",
+          "type": "artist",
+          "uri": "spotify:artist:3LIJJJkO7R5RasRwt7xIn5"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 222550,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ENBaEOC0Jgi2au9Jt7y7d"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ENBaEOC0Jgi2au9Jt7y7d",
+      "id": "2ENBaEOC0Jgi2au9Jt7y7d",
+      "name": "Feel Right (feat. Mystikal)",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2ENBaEOC0Jgi2au9Jt7y7d",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          },
+          "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist",
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269658,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/32OlwWuMpZ6b0aN2RZOeMS",
+      "id": "32OlwWuMpZ6b0aN2RZOeMS",
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY"
+          },
+          "href": "https://api.spotify.com/v1/artists/5aNSfdgygtKXXyFAwqyASY",
+          "id": "5aNSfdgygtKXXyFAwqyASY",
+          "name": "Keyone Starr",
+          "type": "artist",
+          "uri": "spotify:artist:5aNSfdgygtKXXyFAwqyASY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196472,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2VNSUMHI1R3B6wVV8P7ZlG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2VNSUMHI1R3B6wVV8P7ZlG",
+      "id": "2VNSUMHI1R3B6wVV8P7ZlG",
+      "name": "I Can't Lose (feat. Keyone Starr)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2VNSUMHI1R3B6wVV8P7ZlG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Lt4GKzyW3WOMf3wvPDszQ",
+          "id": "2Lt4GKzyW3WOMf3wvPDszQ",
+          "name": "Kevin Parker",
+          "type": "artist",
+          "uri": "spotify:artist:2Lt4GKzyW3WOMf3wvPDszQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 298136,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1v0ufp7FLTFcykUGOmFZKa",
+      "id": "1v0ufp7FLTFcykUGOmFZKa",
+      "name": "Daffodils (feat. Kevin Parker)",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1v0ufp7FLTFcykUGOmFZKa",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TpW7t4Cz0RG1gOEU6EcUm",
+          "id": "4TpW7t4Cz0RG1gOEU6EcUm",
+          "name": "Andrew Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 145858,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/523MOh0wR5AN3YUMADvPtz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/523MOh0wR5AN3YUMADvPtz",
+      "id": "523MOh0wR5AN3YUMADvPtz",
+      "name": "Crack In the Pearl (feat. Andrew Wyatt)",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:523MOh0wR5AN3YUMADvPtz",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+          },
+          "href": "https://api.spotify.com/v1/artists/5phOCTS0ZqbZGVXdpG6rLu",
+          "id": "5phOCTS0ZqbZGVXdpG6rLu",
+          "name": "Jeff Bhasker",
+          "type": "artist",
+          "uri": "spotify:artist:5phOCTS0ZqbZGVXdpG6rLu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273582,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2OTdfTzu0VAmnykkQDrFZr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2OTdfTzu0VAmnykkQDrFZr",
+      "id": "2OTdfTzu0VAmnykkQDrFZr",
+      "name": "In Case of Fire (feat. Jeff Bhasker)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2OTdfTzu0VAmnykkQDrFZr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Lt4GKzyW3WOMf3wvPDszQ",
+          "id": "2Lt4GKzyW3WOMf3wvPDszQ",
+          "name": "Kevin Parker",
+          "type": "artist",
+          "uri": "spotify:artist:2Lt4GKzyW3WOMf3wvPDszQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 258429,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5lc74vqFs7tNGxE4mOfrbr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5lc74vqFs7tNGxE4mOfrbr",
+      "id": "5lc74vqFs7tNGxE4mOfrbr",
+      "name": "Leaving Los Feliz (feat. Kevin Parker)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5lc74vqFs7tNGxE4mOfrbr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TpW7t4Cz0RG1gOEU6EcUm",
+          "id": "4TpW7t4Cz0RG1gOEU6EcUm",
+          "name": "Andrew Wyatt",
+          "type": "artist",
+          "uri": "spotify:artist:4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237740,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LdjK8Fvd454DgkIoJR7C9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LdjK8Fvd454DgkIoJR7C9",
+      "id": "5LdjK8Fvd454DgkIoJR7C9",
+      "name": "Heavy and Rolling (feat. Andrew Wyatt)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5LdjK8Fvd454DgkIoJR7C9",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          },
+          "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+          "id": "7guDJrEfX3qb6FEbdPA5qi",
+          "name": "Stevie Wonder",
+          "type": "artist",
+          "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+          },
+          "href": "https://api.spotify.com/v1/artists/5phOCTS0ZqbZGVXdpG6rLu",
+          "id": "5phOCTS0ZqbZGVXdpG6rLu",
+          "name": "Jeff Bhasker",
+          "type": "artist",
+          "uri": "spotify:artist:5phOCTS0ZqbZGVXdpG6rLu"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 136094,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3LvmU7SNQIakTe4lxiNNvR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3LvmU7SNQIakTe4lxiNNvR",
+      "id": "3LvmU7SNQIakTe4lxiNNvR",
+      "name": "Crack In the Pearl, Pt. II (feat. Stevie Wonder & Jeff Bhasker)",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3LvmU7SNQIakTe4lxiNNvR",
+      "is_local": false
+    }
+  ]
+}

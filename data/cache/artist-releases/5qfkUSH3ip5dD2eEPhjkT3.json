@@ -1,0 +1,526 @@
+{
+  "artist_id": "5qfkUSH3ip5dD2eEPhjkT3",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2dvShjhY1xuVYGmugpGiVI"
+      },
+      "href": "https://api.spotify.com/v1/albums/2dvShjhY1xuVYGmugpGiVI",
+      "id": "2dvShjhY1xuVYGmugpGiVI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273385300da9b72cbe20197eee3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02385300da9b72cbe20197eee3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851385300da9b72cbe20197eee3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SOULAR (first spark)",
+      "release_date": "2026-08-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2dvShjhY1xuVYGmugpGiVI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6m0R3KFP3Hpkh9lEgUWgwX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6m0R3KFP3Hpkh9lEgUWgwX",
+      "id": "6m0R3KFP3Hpkh9lEgUWgwX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1e6057d2ee5a33a80f490a6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1e6057d2ee5a33a80f490a6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a1e6057d2ee5a33a80f490a6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SOULAR (Deluxe)",
+      "release_date": "2026-06-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6m0R3KFP3Hpkh9lEgUWgwX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/51RvqWuoAldRxk2zEs8c2R"
+      },
+      "href": "https://api.spotify.com/v1/albums/51RvqWuoAldRxk2zEs8c2R",
+      "id": "51RvqWuoAldRxk2zEs8c2R",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27300bd3638dcfd2ac54300d9c4",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0200bd3638dcfd2ac54300d9c4",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485100bd3638dcfd2ac54300d9c4",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SOULAR (inside the light)",
+      "release_date": "2025-12-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:51RvqWuoAldRxk2zEs8c2R",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 30,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6sT22zU4MqxU2IOZpcHvXu"
+      },
+      "href": "https://api.spotify.com/v1/albums/6sT22zU4MqxU2IOZpcHvXu",
+      "id": "6sT22zU4MqxU2IOZpcHvXu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d86d715856c62aded382e44",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027d86d715856c62aded382e44",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517d86d715856c62aded382e44",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SOULAR (behind the sun)",
+      "release_date": "2025-11-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6sT22zU4MqxU2IOZpcHvXu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/55m4kudAkWKzza4HyHKnjA"
+      },
+      "href": "https://api.spotify.com/v1/albums/55m4kudAkWKzza4HyHKnjA",
+      "id": "55m4kudAkWKzza4HyHKnjA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733ffebaf35cf1ab70d4f1578f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023ffebaf35cf1ab70d4f1578f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513ffebaf35cf1ab70d4f1578f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SOULAR",
+      "release_date": "2025-05-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:55m4kudAkWKzza4HyHKnjA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 24,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/45wvCOKMFmP0UNsmEwN0Ug"
+      },
+      "href": "https://api.spotify.com/v1/albums/45wvCOKMFmP0UNsmEwN0Ug",
+      "id": "45wvCOKMFmP0UNsmEwN0Ug",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27315c0ecf35ce6c5ba758b4240",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0215c0ecf35ce6c5ba758b4240",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485115c0ecf35ce6c5ba758b4240",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "If My Jeans Could Talk (Alterations)",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:45wvCOKMFmP0UNsmEwN0Ug",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Ra38oWsOPAv3x4Bv7jdLT"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Ra38oWsOPAv3x4Bv7jdLT",
+      "id": "3Ra38oWsOPAv3x4Bv7jdLT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735da073d8475900a18bc40612",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025da073d8475900a18bc40612",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515da073d8475900a18bc40612",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "If My Jeans Could Talk",
+      "release_date": "2024-01-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3Ra38oWsOPAv3x4Bv7jdLT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 21,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
+      },
+      "href": "https://api.spotify.com/v1/albums/2FBmbNR9eJ6BY4QIWBRI38",
+      "id": "2FBmbNR9eJ6BY4QIWBRI38",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273605c16bc8405c1d07c845254",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02605c16bc8405c1d07c845254",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851605c16bc8405c1d07c845254",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SASSY (Deluxe)",
+      "release_date": "2022-07-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2FBmbNR9eJ6BY4QIWBRI38",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VQFSMoNi1j6cckod2pxvD"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VQFSMoNi1j6cckod2pxvD",
+      "id": "2VQFSMoNi1j6cckod2pxvD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f0f9f6ec0579643ccb05666c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f0f9f6ec0579643ccb05666c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f0f9f6ec0579643ccb05666c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SASSY",
+      "release_date": "2021-09-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2VQFSMoNi1j6cckod2pxvD",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7uJlMQQqUJ8s17FRoMuPrq"
+      },
+      "href": "https://api.spotify.com/v1/albums/7uJlMQQqUJ8s17FRoMuPrq",
+      "id": "7uJlMQQqUJ8s17FRoMuPrq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c28878745f30cd7cb6be91df",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c28878745f30cd7cb6be91df",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c28878745f30cd7cb6be91df",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SUGA (Deluxe)",
+      "release_date": "2020-02-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7uJlMQQqUJ8s17FRoMuPrq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
+      },
+      "href": "https://api.spotify.com/v1/albums/5E5QGOClKXPXlVwOW9cWUz",
+      "id": "5E5QGOClKXPXlVwOW9cWUz",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c3b3a67ccf1dc1cea5d90b08",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c3b3a67ccf1dc1cea5d90b08",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c3b3a67ccf1dc1cea5d90b08",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "SUGA",
+      "release_date": "2019-03-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5E5QGOClKXPXlVwOW9cWUz",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1VBRFMy0dLTFhc4iEm5y82"
+      },
+      "href": "https://api.spotify.com/v1/albums/1VBRFMy0dLTFhc4iEm5y82",
+      "id": "1VBRFMy0dLTFhc4iEm5y82",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27385b4c85f9b0e193a9f37c6ca",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0285b4c85f9b0e193a9f37c6ca",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485185b4c85f9b0e193a9f37c6ca",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Painting Sounds",
+      "release_date": "2016-01-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1VBRFMy0dLTFhc4iEm5y82",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+          },
+          "href": "https://api.spotify.com/v1/artists/5qfkUSH3ip5dD2eEPhjkT3",
+          "id": "5qfkUSH3ip5dD2eEPhjkT3",
+          "name": "Kyle Dion",
+          "type": "artist",
+          "uri": "spotify:artist:5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ]
+    }
+  ]
+}

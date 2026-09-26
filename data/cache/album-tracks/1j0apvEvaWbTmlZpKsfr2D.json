@@ -1,0 +1,421 @@
+{
+  "album_id": "1j0apvEvaWbTmlZpKsfr2D",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3bnrJHXPnMLHwZuVbdMR5S"
+          },
+          "href": "https://api.spotify.com/v1/artists/3bnrJHXPnMLHwZuVbdMR5S",
+          "id": "3bnrJHXPnMLHwZuVbdMR5S",
+          "name": "Sarah Green",
+          "type": "artist",
+          "uri": "spotify:artist:3bnrJHXPnMLHwZuVbdMR5S"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MBfBy3G16F7vNS6Bu8mD7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MBfBy3G16F7vNS6Bu8mD7",
+      "id": "2MBfBy3G16F7vNS6Bu8mD7",
+      "name": "Letting Go (feat. Sarah Green)",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2MBfBy3G16F7vNS6Bu8mD7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          },
+          "href": "https://api.spotify.com/v1/artists/4utLUGcTvOJFr6aqIJtYWV",
+          "id": "4utLUGcTvOJFr6aqIJtYWV",
+          "name": "Skylar Grey",
+          "type": "artist",
+          "uri": "spotify:artist:4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 256959,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5AcOdoDOQOKtPlAM1FqBO8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5AcOdoDOQOKtPlAM1FqBO8",
+      "id": "5AcOdoDOQOKtPlAM1FqBO8",
+      "name": "Words I Never Said (feat. Skylar Grey)",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5AcOdoDOQOKtPlAM1FqBO8",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 203973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DfAKQmET7CEenXz4bpaN6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DfAKQmET7CEenXz4bpaN6",
+      "id": "5DfAKQmET7CEenXz4bpaN6",
+      "name": "Till I Get There",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5DfAKQmET7CEenXz4bpaN6",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yhXLtQL9waNMjgkl8MsMP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yhXLtQL9waNMjgkl8MsMP",
+      "id": "5yhXLtQL9waNMjgkl8MsMP",
+      "name": "I Don't Wanna Care Right Now (feat. MDMA)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:5yhXLtQL9waNMjgkl8MsMP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          },
+          "href": "https://api.spotify.com/v1/artists/2iojnBLj0qIMiKPvVhLnsH",
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist",
+          "uri": "spotify:artist:2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204013,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Nomj38R7Ds0P8I8orW2Tv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Nomj38R7Ds0P8I8orW2Tv",
+      "id": "4Nomj38R7Ds0P8I8orW2Tv",
+      "name": "Out of My Head (feat. Trey Songz)",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4Nomj38R7Ds0P8I8orW2Tv",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239613,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4NTWZqvfQTlOMitlVn6tew",
+      "id": "4NTWZqvfQTlOMitlVn6tew",
+      "name": "The Show Goes On",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4NTWZqvfQTlOMitlVn6tew",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3YEJ9dU5Oz0LZS2gB2RlNO"
+          },
+          "href": "https://api.spotify.com/v1/artists/3YEJ9dU5Oz0LZS2gB2RlNO",
+          "id": "3YEJ9dU5Oz0LZS2gB2RlNO",
+          "name": "MDMA",
+          "type": "artist",
+          "uri": "spotify:artist:3YEJ9dU5Oz0LZS2gB2RlNO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 241853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Cs55JEAsk7oSLnniBwI2x"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Cs55JEAsk7oSLnniBwI2x",
+      "id": "5Cs55JEAsk7oSLnniBwI2x",
+      "name": "Beautiful Lasers (2 Ways) [feat. MDMA]",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5Cs55JEAsk7oSLnniBwI2x",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3YEJ9dU5Oz0LZS2gB2RlNO"
+          },
+          "href": "https://api.spotify.com/v1/artists/3YEJ9dU5Oz0LZS2gB2RlNO",
+          "id": "3YEJ9dU5Oz0LZS2gB2RlNO",
+          "name": "MDMA",
+          "type": "artist",
+          "uri": "spotify:artist:3YEJ9dU5Oz0LZS2gB2RlNO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238440,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2W02Y5zdSzNsTMqP7GJ4Hr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2W02Y5zdSzNsTMqP7GJ4Hr",
+      "id": "2W02Y5zdSzNsTMqP7GJ4Hr",
+      "name": "Coming Up (feat. MDMA)",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2W02Y5zdSzNsTMqP7GJ4Hr",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5NL0NG8VTzLRtKhqsqm3PD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5NL0NG8VTzLRtKhqsqm3PD",
+          "id": "5NL0NG8VTzLRtKhqsqm3PD",
+          "name": "Self",
+          "type": "artist",
+          "uri": "spotify:artist:5NL0NG8VTzLRtKhqsqm3PD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1unfl1X3oTAM0afu7SyKSL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1unfl1X3oTAM0afu7SyKSL",
+      "id": "1unfl1X3oTAM0afu7SyKSL",
+      "name": "State Run Radio (feat. sELF)",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1unfl1X3oTAM0afu7SyKSL",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79DOwuMzV2h4es3em0t002"
+          },
+          "href": "https://api.spotify.com/v1/artists/79DOwuMzV2h4es3em0t002",
+          "id": "79DOwuMzV2h4es3em0t002",
+          "name": "Eric Turner",
+          "type": "artist",
+          "uri": "spotify:artist:79DOwuMzV2h4es3em0t002"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1lACYfIwlbxzmDMR6yH8pH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1lACYfIwlbxzmDMR6yH8pH",
+          "id": "1lACYfIwlbxzmDMR6yH8pH",
+          "name": "Sway",
+          "type": "artist",
+          "uri": "spotify:artist:1lACYfIwlbxzmDMR6yH8pH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261640,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1CdIfdzx5Dqgk0WcSKYlDT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1CdIfdzx5Dqgk0WcSKYlDT",
+      "id": "1CdIfdzx5Dqgk0WcSKYlDT",
+      "name": "BREAK THE CHAIN (feat. Eric Turner & Sway)",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1CdIfdzx5Dqgk0WcSKYlDT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7hzj2RqJydKSIXPR2s2kfH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7hzj2RqJydKSIXPR2s2kfH",
+      "id": "7hzj2RqJydKSIXPR2s2kfH",
+      "name": "All Black Everything",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:7hzj2RqJydKSIXPR2s2kfH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          },
+          "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist",
+          "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "type": "artist",
+          "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1nUzheEYAZzXfIdtgXZ4i4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1nUzheEYAZzXfIdtgXZ4i4",
+      "id": "1nUzheEYAZzXfIdtgXZ4i4",
+      "name": "Never Forget You (feat. John Legend)",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1nUzheEYAZzXfIdtgXZ4i4",
+      "is_local": false
+    }
+  ]
+}

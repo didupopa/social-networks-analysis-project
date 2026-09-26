@@ -1,0 +1,53 @@
+{
+  "artist_id": "0crMctn4iXaE3XCHpeBkOt",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7EVF6k9B4t8Zx91z2rgZRg"
+      },
+      "href": "https://api.spotify.com/v1/albums/7EVF6k9B4t8Zx91z2rgZRg",
+      "id": "7EVF6k9B4t8Zx91z2rgZRg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27361dff080242a3a59dec8b101",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0261dff080242a3a59dec8b101",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485161dff080242a3a59dec8b101",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Blossoming",
+      "release_date": "2009-07-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7EVF6k9B4t8Zx91z2rgZRg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          },
+          "href": "https://api.spotify.com/v1/artists/0crMctn4iXaE3XCHpeBkOt",
+          "id": "0crMctn4iXaE3XCHpeBkOt",
+          "name": "Patrice Roberts",
+          "type": "artist",
+          "uri": "spotify:artist:0crMctn4iXaE3XCHpeBkOt"
+        }
+      ]
+    }
+  ]
+}

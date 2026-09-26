@@ -1,0 +1,106 @@
+{
+  "artist_id": "2R0mr8RPrkqTVI3bpSZv9O",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Bn7LuxHRBolgYDcD6sKUT"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Bn7LuxHRBolgYDcD6sKUT",
+      "id": "6Bn7LuxHRBolgYDcD6sKUT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa0fa42ffc0035655ff7ae6c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02aa0fa42ffc0035655ff7ae6c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851aa0fa42ffc0035655ff7ae6c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Smoke Coffe Deluxe",
+      "release_date": "2025-10-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6Bn7LuxHRBolgYDcD6sKUT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R0mr8RPrkqTVI3bpSZv9O"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R0mr8RPrkqTVI3bpSZv9O",
+          "id": "2R0mr8RPrkqTVI3bpSZv9O",
+          "name": "Bred",
+          "type": "artist",
+          "uri": "spotify:artist:2R0mr8RPrkqTVI3bpSZv9O"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0xr5Et9eZO0ZHKrUZSVdEa"
+      },
+      "href": "https://api.spotify.com/v1/albums/0xr5Et9eZO0ZHKrUZSVdEa",
+      "id": "0xr5Et9eZO0ZHKrUZSVdEa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6c20551371404f05e4fbfc7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6c20551371404f05e4fbfc7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e6c20551371404f05e4fbfc7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "All Star",
+      "release_date": "2023-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0xr5Et9eZO0ZHKrUZSVdEa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2R0mr8RPrkqTVI3bpSZv9O"
+          },
+          "href": "https://api.spotify.com/v1/artists/2R0mr8RPrkqTVI3bpSZv9O",
+          "id": "2R0mr8RPrkqTVI3bpSZv9O",
+          "name": "Bred",
+          "type": "artist",
+          "uri": "spotify:artist:2R0mr8RPrkqTVI3bpSZv9O"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2rwJgqSRxeg7eepdcYr1TD"
+          },
+          "href": "https://api.spotify.com/v1/artists/2rwJgqSRxeg7eepdcYr1TD",
+          "id": "2rwJgqSRxeg7eepdcYr1TD",
+          "name": "DagaSku",
+          "type": "artist",
+          "uri": "spotify:artist:2rwJgqSRxeg7eepdcYr1TD"
+        }
+      ]
+    }
+  ]
+}

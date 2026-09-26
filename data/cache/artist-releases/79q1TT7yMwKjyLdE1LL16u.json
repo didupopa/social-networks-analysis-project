@@ -1,0 +1,1280 @@
+{
+  "artist_id": "79q1TT7yMwKjyLdE1LL16u",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3fZHTa5BjLAE03i7aClLkW"
+      },
+      "href": "https://api.spotify.com/v1/albums/3fZHTa5BjLAE03i7aClLkW",
+      "id": "3fZHTa5BjLAE03i7aClLkW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d864e4238ee541382d879b0b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d864e4238ee541382d879b0b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d864e4238ee541382d879b0b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rhapsody in Black",
+      "release_date": "2026-03-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3fZHTa5BjLAE03i7aClLkW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YuknfkSYTTbolRpwZBOv4",
+          "id": "1YuknfkSYTTbolRpwZBOv4",
+          "name": "George Gershwin",
+          "type": "artist",
+          "uri": "spotify:artist:1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/047IhNLgagsZCN7BmLBzik"
+          },
+          "href": "https://api.spotify.com/v1/artists/047IhNLgagsZCN7BmLBzik",
+          "id": "047IhNLgagsZCN7BmLBzik",
+          "name": "Vyacheslav Gryaznov",
+          "type": "artist",
+          "uri": "spotify:artist:047IhNLgagsZCN7BmLBzik"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/76MQAIy2SmztmEBSfbl6xp"
+          },
+          "href": "https://api.spotify.com/v1/artists/76MQAIy2SmztmEBSfbl6xp",
+          "id": "76MQAIy2SmztmEBSfbl6xp",
+          "name": "ORF Radio-Symphonieorchester Wien",
+          "type": "artist",
+          "uri": "spotify:artist:76MQAIy2SmztmEBSfbl6xp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 26,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/55DaBVUbPcyFWrly4QjGAI"
+      },
+      "href": "https://api.spotify.com/v1/albums/55DaBVUbPcyFWrly4QjGAI",
+      "id": "55DaBVUbPcyFWrly4QjGAI",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ff629eca9552fd74b9f1d068",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ff629eca9552fd74b9f1d068",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ff629eca9552fd74b9f1d068",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pulling Out the Stops! Popular Pieces for Trumpet and Organ",
+      "release_date": "2023-08-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:55DaBVUbPcyFWrly4QjGAI",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
+          },
+          "href": "https://api.spotify.com/v1/artists/67zPWYYHFQtUG522o2V6PR",
+          "id": "67zPWYYHFQtUG522o2V6PR",
+          "name": "Ole Edvard Antonsen",
+          "type": "artist",
+          "uri": "spotify:artist:67zPWYYHFQtUG522o2V6PR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ihY290YPGc3aY2xTyx7Gy",
+          "id": "5ihY290YPGc3aY2xTyx7Gy",
+          "name": "Edvard Grieg",
+          "type": "artist",
+          "uri": "spotify:artist:5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+          },
+          "href": "https://api.spotify.com/v1/artists/2fg5h5pzleqI4RjFopWroj",
+          "id": "2fg5h5pzleqI4RjFopWroj",
+          "name": "Georg Philipp Telemann",
+          "type": "artist",
+          "uri": "spotify:artist:2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          },
+          "href": "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+          "id": "5aIqB5nVVvmFsvSdExz408",
+          "name": "Johann Sebastian Bach",
+          "type": "artist",
+          "uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OvQ8g54fWhffM2x8eCc6s",
+          "id": "5OvQ8g54fWhffM2x8eCc6s",
+          "name": "Marc-Antoine Charpentier",
+          "type": "artist",
+          "uri": "spotify:artist:5OvQ8g54fWhffM2x8eCc6s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+          "id": "0Kekt6CKSo0m5mivKcoH51",
+          "name": "Sergei Rachmaninoff",
+          "type": "artist",
+          "uri": "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 32,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/17NbWukjeL2cjoThCZoqKp"
+      },
+      "href": "https://api.spotify.com/v1/albums/17NbWukjeL2cjoThCZoqKp",
+      "id": "17NbWukjeL2cjoThCZoqKp",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ead6b108e97324b82474911",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020ead6b108e97324b82474911",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510ead6b108e97324b82474911",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Grand Night for Singing (Edinburgh International Festival)",
+      "release_date": "2021-11-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:17NbWukjeL2cjoThCZoqKp",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/716tOSOUTznoo3vjaPRzOO"
+          },
+          "href": "https://api.spotify.com/v1/artists/716tOSOUTznoo3vjaPRzOO",
+          "id": "716tOSOUTznoo3vjaPRzOO",
+          "name": "Edinburgh Festival Ensemble",
+          "type": "artist",
+          "uri": "spotify:artist:716tOSOUTznoo3vjaPRzOO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3"
+      },
+      "href": "https://api.spotify.com/v1/albums/13QCcMPgbmg9FZROLvenU3",
+      "id": "13QCcMPgbmg9FZROLvenU3",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273baffcf9ac84ea8faf5ed9ede",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02baffcf9ac84ea8faf5ed9ede",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851baffcf9ac84ea8faf5ed9ede",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Piano Collection",
+      "release_date": "2020-11-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:13QCcMPgbmg9FZROLvenU3",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qlhpgr87PEG89Jd5iRpxe",
+          "id": "0qlhpgr87PEG89Jd5iRpxe",
+          "name": "John Rutter",
+          "type": "artist",
+          "uri": "spotify:artist:0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/00RRVdFi7j0U3o0lqHMATE"
+      },
+      "href": "https://api.spotify.com/v1/albums/00RRVdFi7j0U3o0lqHMATE",
+      "id": "00RRVdFi7j0U3o0lqHMATE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739dcf4ac39d00b40b0d9b15e7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029dcf4ac39d00b40b0d9b15e7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519dcf4ac39d00b40b0d9b15e7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wayne Marshall Born to Play Gershwin",
+      "release_date": "2020-06-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:00RRVdFi7j0U3o0lqHMATE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
+          },
+          "href": "https://api.spotify.com/v1/artists/24dGgI2Wdq3EF0oqq3lhM9",
+          "id": "24dGgI2Wdq3EF0oqq3lhM9",
+          "name": "WDR Funkhausorchester",
+          "type": "artist",
+          "uri": "spotify:artist:24dGgI2Wdq3EF0oqq3lhM9"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7hCdsjlVMhZAD7dp4j0YFF"
+      },
+      "href": "https://api.spotify.com/v1/albums/7hCdsjlVMhZAD7dp4j0YFF",
+      "id": "7hCdsjlVMhZAD7dp4j0YFF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8a42babfbb4a22ab936a63c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8a42babfbb4a22ab936a63c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d8a42babfbb4a22ab936a63c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Passion Symphony",
+      "release_date": "2020-03-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7hCdsjlVMhZAD7dp4j0YFF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gSP4nmtspvtkNBNXHOHkW"
+      },
+      "href": "https://api.spotify.com/v1/albums/6gSP4nmtspvtkNBNXHOHkW",
+      "id": "6gSP4nmtspvtkNBNXHOHkW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b98263026354c498c47fa420",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b98263026354c498c47fa420",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b98263026354c498c47fa420",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Stewart Goodyear: Callaloo & Piano Sonata - Gershwin: Rhapsody in Blue",
+      "release_date": "2019-06-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6gSP4nmtspvtkNBNXHOHkW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Uw4yKZKLOhjuix5CUVi08"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Uw4yKZKLOhjuix5CUVi08",
+          "id": "6Uw4yKZKLOhjuix5CUVi08",
+          "name": "Stewart Goodyear",
+          "type": "artist",
+          "uri": "spotify:artist:6Uw4yKZKLOhjuix5CUVi08"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+          },
+          "href": "https://api.spotify.com/v1/artists/7FKUsKktgY7Zf8iAL6wOls",
+          "id": "7FKUsKktgY7Zf8iAL6wOls",
+          "name": "Chineke! Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 89,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3xdQzqNFq0hVGQfKBZi0UO"
+      },
+      "href": "https://api.spotify.com/v1/albums/3xdQzqNFq0hVGQfKBZi0UO",
+      "id": "3xdQzqNFq0hVGQfKBZi0UO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27334e64c71486c9d2325226815",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0234e64c71486c9d2325226815",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485134e64c71486c9d2325226815",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bernstein: Piano & Chamber Music",
+      "release_date": "2018-11-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3xdQzqNFq0hVGQfKBZi0UO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2LmyJyCF5V1eQyvHgJNbTn",
+          "id": "2LmyJyCF5V1eQyvHgJNbTn",
+          "name": "Leonard Bernstein",
+          "type": "artist",
+          "uri": "spotify:artist:2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VsZbYohHMAA3JiclOf4tt"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VsZbYohHMAA3JiclOf4tt",
+          "id": "1VsZbYohHMAA3JiclOf4tt",
+          "name": "Benyamin Nuss",
+          "type": "artist",
+          "uri": "spotify:artist:1VsZbYohHMAA3JiclOf4tt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+          },
+          "href": "https://api.spotify.com/v1/artists/0SPYS9NzfjFEplX7yD7PsK",
+          "id": "0SPYS9NzfjFEplX7yD7PsK",
+          "name": "Maria Kliegel",
+          "type": "artist",
+          "uri": "spotify:artist:0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DrqjTCNJIPHE5jMMWfZfl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5DrqjTCNJIPHE5jMMWfZfl",
+          "id": "5DrqjTCNJIPHE5jMMWfZfl",
+          "name": "Maurice Steger",
+          "type": "artist",
+          "uri": "spotify:artist:5DrqjTCNJIPHE5jMMWfZfl"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 18,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/374rFAcdI1JClVsNdkNyKG"
+      },
+      "href": "https://api.spotify.com/v1/albums/374rFAcdI1JClVsNdkNyKG",
+      "id": "374rFAcdI1JClVsNdkNyKG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733410b56f1deb9f0e183ad7f0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023410b56f1deb9f0e183ad7f0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513410b56f1deb9f0e183ad7f0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Künneke: Herz über Bord",
+      "release_date": "2018-06-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:374rFAcdI1JClVsNdkNyKG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lP2uOb8BNFPjtjuiarVAL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lP2uOb8BNFPjtjuiarVAL",
+          "id": "5lP2uOb8BNFPjtjuiarVAL",
+          "name": "Eduard Künneke",
+          "type": "artist",
+          "uri": "spotify:artist:5lP2uOb8BNFPjtjuiarVAL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3rhCQ4YFP3w9iRJwDzCYWI"
+          },
+          "href": "https://api.spotify.com/v1/artists/3rhCQ4YFP3w9iRJwDzCYWI",
+          "id": "3rhCQ4YFP3w9iRJwDzCYWI",
+          "name": "Annika Boos",
+          "type": "artist",
+          "uri": "spotify:artist:3rhCQ4YFP3w9iRJwDzCYWI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mAqgmHOIDCSkPI3bABJWf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mAqgmHOIDCSkPI3bABJWf",
+          "id": "1mAqgmHOIDCSkPI3bABJWf",
+          "name": "Linda Hergarten",
+          "type": "artist",
+          "uri": "spotify:artist:1mAqgmHOIDCSkPI3bABJWf"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GRgEHpFp5ebG1SbyqMEzy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GRgEHpFp5ebG1SbyqMEzy",
+          "id": "3GRgEHpFp5ebG1SbyqMEzy",
+          "name": "Martin Koch",
+          "type": "artist",
+          "uri": "spotify:artist:3GRgEHpFp5ebG1SbyqMEzy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4MOS3HnhFqMnANHEnhCYaW"
+          },
+          "href": "https://api.spotify.com/v1/artists/4MOS3HnhFqMnANHEnhCYaW",
+          "id": "4MOS3HnhFqMnANHEnhCYaW",
+          "name": "Julian Schulzki",
+          "type": "artist",
+          "uri": "spotify:artist:4MOS3HnhFqMnANHEnhCYaW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1K91XZsljzXqn1oYcPIsfL"
+          },
+          "href": "https://api.spotify.com/v1/artists/1K91XZsljzXqn1oYcPIsfL",
+          "id": "1K91XZsljzXqn1oYcPIsfL",
+          "name": "WDR Sinfonieorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:1K91XZsljzXqn1oYcPIsfL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4nw8PpHD14FhVw25K0smi4"
+      },
+      "href": "https://api.spotify.com/v1/albums/4nw8PpHD14FhVw25K0smi4",
+      "id": "4nw8PpHD14FhVw25K0smi4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb093ef2d2aa9fd26b6ed2e7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb093ef2d2aa9fd26b6ed2e7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb093ef2d2aa9fd26b6ed2e7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "American Connection",
+      "release_date": "2017-09-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4nw8PpHD14FhVw25K0smi4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isNfpSneV6MQdWr8Mhq4s"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isNfpSneV6MQdWr8Mhq4s",
+          "id": "5isNfpSneV6MQdWr8Mhq4s",
+          "name": "Andy Miles",
+          "type": "artist",
+          "uri": "spotify:artist:5isNfpSneV6MQdWr8Mhq4s"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lsQUeeXyGRFv6f5qMcAMZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lsQUeeXyGRFv6f5qMcAMZ",
+          "id": "5lsQUeeXyGRFv6f5qMcAMZ",
+          "name": "WDR Funkhausorchester Köln",
+          "type": "artist",
+          "uri": "spotify:artist:5lsQUeeXyGRFv6f5qMcAMZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Yau45HTpv2UHLqtJyOoJ0"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Yau45HTpv2UHLqtJyOoJ0",
+          "id": "4Yau45HTpv2UHLqtJyOoJ0",
+          "name": "Rasmus Baumann",
+          "type": "artist",
+          "uri": "spotify:artist:4Yau45HTpv2UHLqtJyOoJ0"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 3,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/748vMKGAkj7bz5EsWlhybi"
+      },
+      "href": "https://api.spotify.com/v1/albums/748vMKGAkj7bz5EsWlhybi",
+      "id": "748vMKGAkj7bz5EsWlhybi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735805191370f9935d05b4db84",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025805191370f9935d05b4db84",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515805191370f9935d05b4db84",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The SWR Big Band and Dresden Philharmonic conducted by Wayne Marshall, Live at the Kulturpalast Dresden",
+      "release_date": "2012-08-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:748vMKGAkj7bz5EsWlhybi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+          },
+          "href": "https://api.spotify.com/v1/artists/4WnYuKbhxAKXJ8yAvvOsfW",
+          "id": "4WnYuKbhxAKXJ8yAvvOsfW",
+          "name": "The SWR Big Band",
+          "type": "artist",
+          "uri": "spotify:artist:4WnYuKbhxAKXJ8yAvvOsfW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
+          },
+          "href": "https://api.spotify.com/v1/artists/03C9IJtseK0NX9zw53URjF",
+          "id": "03C9IJtseK0NX9zw53URjF",
+          "name": "Dresdner Philharmonie",
+          "type": "artist",
+          "uri": "spotify:artist:03C9IJtseK0NX9zw53URjF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1KoYvtcktuN6isoGYK4EmF"
+      },
+      "href": "https://api.spotify.com/v1/albums/1KoYvtcktuN6isoGYK4EmF",
+      "id": "1KoYvtcktuN6isoGYK4EmF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ca5516b7292065610bdae04e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ca5516b7292065610bdae04e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ca5516b7292065610bdae04e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gershwin: Concerto in F, etc",
+      "release_date": "2010-04-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1KoYvtcktuN6isoGYK4EmF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7cOLnagseheo8RhpyMtWoC"
+      },
+      "href": "https://api.spotify.com/v1/albums/7cOLnagseheo8RhpyMtWoC",
+      "id": "7cOLnagseheo8RhpyMtWoC",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273566970af148275fb082a67a9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02566970af148275fb082a67a9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851566970af148275fb082a67a9",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MacMillan: Piano Concerto No. 2 & A Scotch Bestiary",
+      "release_date": "2006-06-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7cOLnagseheo8RhpyMtWoC",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eSXFv3Ll2MEHf0eSAYJGu"
+          },
+          "href": "https://api.spotify.com/v1/artists/5eSXFv3Ll2MEHf0eSAYJGu",
+          "id": "5eSXFv3Ll2MEHf0eSAYJGu",
+          "name": "James MacMillan",
+          "type": "artist",
+          "uri": "spotify:artist:5eSXFv3Ll2MEHf0eSAYJGu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK"
+          },
+          "href": "https://api.spotify.com/v1/artists/2os8ZaeBvYxyVgTKrHtnvK",
+          "id": "2os8ZaeBvYxyVgTKrHtnvK",
+          "name": "BBC Philharmonic Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:2os8ZaeBvYxyVgTKrHtnvK"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 5,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/22gyfpAK17oKRCd9Agb4FA"
+      },
+      "href": "https://api.spotify.com/v1/albums/22gyfpAK17oKRCd9Agb4FA",
+      "id": "22gyfpAK17oKRCd9Agb4FA",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d4574121984c5b16380ee04f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d4574121984c5b16380ee04f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d4574121984c5b16380ee04f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gershwin: Rhapsody in Blue/Porgy & Bess Symphonic Suite etc.",
+      "release_date": "2004-08-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:22gyfpAK17oKRCd9Agb4FA",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YuknfkSYTTbolRpwZBOv4",
+          "id": "1YuknfkSYTTbolRpwZBOv4",
+          "name": "George Gershwin",
+          "type": "artist",
+          "uri": "spotify:artist:1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4DJ43Xrc6YdtN931A2u07a"
+          },
+          "href": "https://api.spotify.com/v1/artists/4DJ43Xrc6YdtN931A2u07a",
+          "id": "4DJ43Xrc6YdtN931A2u07a",
+          "name": "Aalborg Symphony",
+          "type": "artist",
+          "uri": "spotify:artist:4DJ43Xrc6YdtN931A2u07a"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/398p20cLcEceFUrcZJE40G"
+      },
+      "href": "https://api.spotify.com/v1/albums/398p20cLcEceFUrcZJE40G",
+      "id": "398p20cLcEceFUrcZJE40G",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fa69b85f53c21917a05b0fd6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fa69b85f53c21917a05b0fd6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fa69b85f53c21917a05b0fd6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Gershwin - Orchestral Works",
+      "release_date": "2002-02-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:398p20cLcEceFUrcZJE40G",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          },
+          "href": "https://api.spotify.com/v1/artists/1YuknfkSYTTbolRpwZBOv4",
+          "id": "1YuknfkSYTTbolRpwZBOv4",
+          "name": "George Gershwin",
+          "type": "artist",
+          "uri": "spotify:artist:1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4DJ43Xrc6YdtN931A2u07a"
+          },
+          "href": "https://api.spotify.com/v1/artists/4DJ43Xrc6YdtN931A2u07a",
+          "id": "4DJ43Xrc6YdtN931A2u07a",
+          "name": "Aalborg Symphony",
+          "type": "artist",
+          "uri": "spotify:artist:4DJ43Xrc6YdtN931A2u07a"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4xeOU4sEBvkW2Osc1YLntt"
+      },
+      "href": "https://api.spotify.com/v1/albums/4xeOU4sEBvkW2Osc1YLntt",
+      "id": "4xeOU4sEBvkW2Osc1YLntt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b98196d2ef1fc6ad5f4b74be",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b98196d2ef1fc6ad5f4b74be",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b98196d2ef1fc6ad5f4b74be",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Grainger Edition, Vol. 10 - Works for Pianos",
+      "release_date": "1999-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4xeOU4sEBvkW2Osc1YLntt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6evVLxWyiwmi8gDtHn1Vzx"
+          },
+          "href": "https://api.spotify.com/v1/artists/6evVLxWyiwmi8gDtHn1Vzx",
+          "id": "6evVLxWyiwmi8gDtHn1Vzx",
+          "name": "Percy Grainger",
+          "type": "artist",
+          "uri": "spotify:artist:6evVLxWyiwmi8gDtHn1Vzx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vhpYQZhkvV7qoogrO3XKa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vhpYQZhkvV7qoogrO3XKa",
+          "id": "1vhpYQZhkvV7qoogrO3XKa",
+          "name": "Penelope Thwaites",
+          "type": "artist",
+          "uri": "spotify:artist:1vhpYQZhkvV7qoogrO3XKa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29ebBHDJVzV0VqoCz2YUPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/29ebBHDJVzV0VqoCz2YUPW",
+          "id": "29ebBHDJVzV0VqoCz2YUPW",
+          "name": "John Lavender",
+          "type": "artist",
+          "uri": "spotify:artist:29ebBHDJVzV0VqoCz2YUPW"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3zWkTHI1HKj1c1tiMq8SA7"
+      },
+      "href": "https://api.spotify.com/v1/albums/3zWkTHI1HKj1c1tiMq8SA7",
+      "id": "3zWkTHI1HKj1c1tiMq8SA7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734943e8596175c4642ac68a6a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024943e8596175c4642ac68a6a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514943e8596175c4642ac68a6a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wayne Marshall: Organ Improvisations",
+      "release_date": "1999-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3zWkTHI1HKj1c1tiMq8SA7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0EliMoBofgjAPnMDWebDhE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0EliMoBofgjAPnMDWebDhE",
+      "id": "0EliMoBofgjAPnMDWebDhE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273779ca5ff5ad447c988b78a57",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02779ca5ff5ad447c988b78a57",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851779ca5ff5ad447c988b78a57",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Extasia",
+      "release_date": "1999",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:0EliMoBofgjAPnMDWebDhE",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/24PfjIxzJ6CmGDNpn7Xm3i"
+      },
+      "href": "https://api.spotify.com/v1/albums/24PfjIxzJ6CmGDNpn7Xm3i",
+      "id": "24PfjIxzJ6CmGDNpn7Xm3i",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739a5afc4140946a9b818c534e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029a5afc4140946a9b818c534e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519a5afc4140946a9b818c534e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Swing it",
+      "release_date": "1999",
+      "release_date_precision": "year",
+      "type": "album",
+      "uri": "spotify:album:24PfjIxzJ6CmGDNpn7Xm3i",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4xlqfsmYyLPzxmcRNQxVxT"
+      },
+      "href": "https://api.spotify.com/v1/albums/4xlqfsmYyLPzxmcRNQxVxT",
+      "id": "4xlqfsmYyLPzxmcRNQxVxT",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c7b9143d51fe0ddce52e9b68",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c7b9143d51fe0ddce52e9b68",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c7b9143d51fe0ddce52e9b68",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "A Copland Profile: Symphony for Orchestra and Organ",
+      "release_date": "1998-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4xlqfsmYyLPzxmcRNQxVxT",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/0nJvyjVTb8sAULPYyA1bqU",
+          "id": "0nJvyjVTb8sAULPYyA1bqU",
+          "name": "Aaron Copland",
+          "type": "artist",
+          "uri": "spotify:artist:0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
+          },
+          "href": "https://api.spotify.com/v1/artists/30ywQdA4ElkX92wuEe9YdP",
+          "id": "30ywQdA4ElkX92wuEe9YdP",
+          "name": "Dallas Symphony Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:30ywQdA4ElkX92wuEe9YdP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+          },
+          "href": "https://api.spotify.com/v1/artists/6YVQX2N8puDVWKE1StJVqn",
+          "id": "6YVQX2N8puDVWKE1StJVqn",
+          "name": "Andrew Litton",
+          "type": "artist",
+          "uri": "spotify:artist:6YVQX2N8puDVWKE1StJVqn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+          },
+          "href": "https://api.spotify.com/v1/artists/79q1TT7yMwKjyLdE1LL16u",
+          "id": "79q1TT7yMwKjyLdE1LL16u",
+          "name": "Wayne Marshall",
+          "type": "artist",
+          "uri": "spotify:artist:79q1TT7yMwKjyLdE1LL16u"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "artist_id": "3eb401FlivXKAUXO4zVOjY",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3vu3TfnvP4mYr639suFoUr"
+      },
+      "href": "https://api.spotify.com/v1/albums/3vu3TfnvP4mYr639suFoUr",
+      "id": "3vu3TfnvP4mYr639suFoUr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d50c5782902a18c1013e0544",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d50c5782902a18c1013e0544",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d50c5782902a18c1013e0544",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Come Back Soon",
+      "release_date": "2021-02-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3vu3TfnvP4mYr639suFoUr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eb401FlivXKAUXO4zVOjY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eb401FlivXKAUXO4zVOjY",
+          "id": "3eb401FlivXKAUXO4zVOjY",
+          "name": "Lexii Alijai",
+          "type": "artist",
+          "uri": "spotify:artist:3eb401FlivXKAUXO4zVOjY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4LhXcrJNnFWwJeChIL2PCq"
+      },
+      "href": "https://api.spotify.com/v1/albums/4LhXcrJNnFWwJeChIL2PCq",
+      "id": "4LhXcrJNnFWwJeChIL2PCq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27315fcf12f439cea75c03ead93",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0215fcf12f439cea75c03ead93",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485115fcf12f439cea75c03ead93",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Growing Pains",
+      "release_date": "2017-09-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4LhXcrJNnFWwJeChIL2PCq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eb401FlivXKAUXO4zVOjY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eb401FlivXKAUXO4zVOjY",
+          "id": "3eb401FlivXKAUXO4zVOjY",
+          "name": "Lexii Alijai",
+          "type": "artist",
+          "uri": "spotify:artist:3eb401FlivXKAUXO4zVOjY"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48VqMYdWHY8AU4o7kXHzlO"
+      },
+      "href": "https://api.spotify.com/v1/albums/48VqMYdWHY8AU4o7kXHzlO",
+      "id": "48VqMYdWHY8AU4o7kXHzlO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734df131b3dac9bce1a542be82",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024df131b3dac9bce1a542be82",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514df131b3dac9bce1a542be82",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Joseph's Coat",
+      "release_date": "2015-10-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:48VqMYdWHY8AU4o7kXHzlO",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3eb401FlivXKAUXO4zVOjY"
+          },
+          "href": "https://api.spotify.com/v1/artists/3eb401FlivXKAUXO4zVOjY",
+          "id": "3eb401FlivXKAUXO4zVOjY",
+          "name": "Lexii Alijai",
+          "type": "artist",
+          "uri": "spotify:artist:3eb401FlivXKAUXO4zVOjY"
+        }
+      ]
+    }
+  ]
+}

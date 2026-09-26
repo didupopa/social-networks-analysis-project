@@ -1,0 +1,693 @@
+{
+  "album_id": "1gAsQ5aHvDtQQNLbN1g3oV",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+          },
+          "href": "https://api.spotify.com/v1/artists/3M0H4efyA5YcijrKlaKbYn",
+          "id": "3M0H4efyA5YcijrKlaKbYn",
+          "name": "Miles Kane",
+          "type": "artist",
+          "uri": "spotify:artist:3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264306,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7xOh2WlB3L3J2fh2rtVFY0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7xOh2WlB3L3J2fh2rtVFY0",
+      "id": "7xOh2WlB3L3J2fh2rtVFY0",
+      "name": "Johanna",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7xOh2WlB3L3J2fh2rtVFY0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255653,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6rztuzIBEueoBWNYyhmKa4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6rztuzIBEueoBWNYyhmKa4",
+      "id": "6rztuzIBEueoBWNYyhmKa4",
+      "name": "Hong Kong",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6rztuzIBEueoBWNYyhmKa4",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 114293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1XSeMdMvsZbkdRatUMd2sp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1XSeMdMvsZbkdRatUMd2sp",
+      "id": "1XSeMdMvsZbkdRatUMd2sp",
+      "name": "The Farmer's Daughter",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:1XSeMdMvsZbkdRatUMd2sp",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 51506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63CpQ7ltku7C1YyBxXgo8A"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63CpQ7ltku7C1YyBxXgo8A",
+      "id": "63CpQ7ltku7C1YyBxXgo8A",
+      "name": "The Painted Lady May Be in Play",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:63CpQ7ltku7C1YyBxXgo8A",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 278493,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0AY4PnjCPP4ZeDWX9AST7y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0AY4PnjCPP4ZeDWX9AST7y",
+      "id": "0AY4PnjCPP4ZeDWX9AST7y",
+      "name": "Spinoza",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0AY4PnjCPP4ZeDWX9AST7y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 53266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Sho32TKo5wr1cD8T088eT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Sho32TKo5wr1cD8T088eT",
+      "id": "0Sho32TKo5wr1cD8T088eT",
+      "name": "Los Angeles",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0Sho32TKo5wr1cD8T088eT",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 49880,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3XjHx3tObIh0BMFKeEbgnH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3XjHx3tObIh0BMFKeEbgnH",
+      "id": "3XjHx3tObIh0BMFKeEbgnH",
+      "name": "Georgina",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3XjHx3tObIh0BMFKeEbgnH",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6T1GNMxXuljv0C0ZRR60CC",
+          "id": "6T1GNMxXuljv0C0ZRR60CC",
+          "name": "Rose Elinor Dougall",
+          "type": "artist",
+          "uri": "spotify:artist:6T1GNMxXuljv0C0ZRR60CC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mQEtlUgNDHLu1MWnvvOR0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mQEtlUgNDHLu1MWnvvOR0",
+      "id": "7mQEtlUgNDHLu1MWnvvOR0",
+      "name": "Heart's a Liar",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7mQEtlUgNDHLu1MWnvvOR0",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 86826,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36w5T1dTzMcEXX9qdH3d3l"
+      },
+      "href": "https://api.spotify.com/v1/tracks/36w5T1dTzMcEXX9qdH3d3l",
+      "id": "36w5T1dTzMcEXX9qdH3d3l",
+      "name": "Curiously Interspersed with Erotic Dreams",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:36w5T1dTzMcEXX9qdH3d3l",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ibeOAfIyKB2cgJjXSZbBP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ibeOAfIyKB2cgJjXSZbBP",
+      "id": "4ibeOAfIyKB2cgJjXSZbBP",
+      "name": "Open Your Balls",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4ibeOAfIyKB2cgJjXSZbBP",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 280280,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2BUR2k91jdDpT0EG5M1gej"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2BUR2k91jdDpT0EG5M1gej",
+      "id": "2BUR2k91jdDpT0EG5M1gej",
+      "name": "Questionable Attack, Jock",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2BUR2k91jdDpT0EG5M1gej",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 69053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2E1PGOwkGVAbyYdTChEgbi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2E1PGOwkGVAbyYdTChEgbi",
+      "id": "2E1PGOwkGVAbyYdTChEgbi",
+      "name": "The Duke's Funeral",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2E1PGOwkGVAbyYdTChEgbi",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170506,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7wnAq4ZiRLop4Y4ctWBbXE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7wnAq4ZiRLop4Y4ctWBbXE",
+      "id": "7wnAq4ZiRLop4Y4ctWBbXE",
+      "name": "The Heist",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:7wnAq4ZiRLop4Y4ctWBbXE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uy0YasAscbwNBXePjIYJn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uy0YasAscbwNBXePjIYJn",
+      "id": "0uy0YasAscbwNBXePjIYJn",
+      "name": "Con Fuego",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:0uy0YasAscbwNBXePjIYJn",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214986,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3b0eB2OQAs4dnciavl91IE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3b0eB2OQAs4dnciavl91IE",
+      "id": "3b0eB2OQAs4dnciavl91IE",
+      "name": "Well Spun Rumour",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:3b0eB2OQAs4dnciavl91IE",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200600,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ebiAlpvU6TaoxWSeirspm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ebiAlpvU6TaoxWSeirspm",
+      "id": "3ebiAlpvU6TaoxWSeirspm",
+      "name": "The Auction",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:3ebiAlpvU6TaoxWSeirspm",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 74586,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4cr94l0lLuyWOFhWWYVDsw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4cr94l0lLuyWOFhWWYVDsw",
+      "id": "4cr94l0lLuyWOFhWWYVDsw",
+      "name": "Epilogue",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:4cr94l0lLuyWOFhWWYVDsw",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+          },
+          "href": "https://api.spotify.com/v1/artists/0X5jj08FYkWPtmzUhhjOJd",
+          "id": "0X5jj08FYkWPtmzUhhjOJd",
+          "name": "Geoff Zanelli",
+          "type": "artist",
+          "uri": "spotify:artist:0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp",
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "type": "artist",
+          "uri": "spotify:artist:3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 143546,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Oohh5O401Dr0L5iYJGk4X"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0Oohh5O401Dr0L5iYJGk4X",
+      "id": "0Oohh5O401Dr0L5iYJGk4X",
+      "name": "In the Bathtub",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:0Oohh5O401Dr0L5iYJGk4X",
+      "is_local": false
+    }
+  ]
+}

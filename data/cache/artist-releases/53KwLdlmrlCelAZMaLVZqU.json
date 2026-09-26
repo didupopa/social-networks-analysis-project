@@ -1,0 +1,546 @@
+{
+  "artist_id": "53KwLdlmrlCelAZMaLVZqU",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 10,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+      },
+      "href": "https://api.spotify.com/v1/albums/16tV8wTfqPyA6Cu5dwJJPc",
+      "id": "16tV8wTfqPyA6Cu5dwJJPc",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02884dd01508605dca727d8993",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851884dd01508605dca727d8993",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Trying Times",
+      "release_date": "2026-03-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:16tV8wTfqPyA6Cu5dwJJPc",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "href": "https://api.spotify.com/v1/albums/5zncNknK8hrQyTTVWpUyAf",
+      "id": "5zncNknK8hrQyTTVWpUyAf",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735290f7a7c65d9b5d61d99d2b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025290f7a7c65d9b5d61d99d2b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515290f7a7c65d9b5d61d99d2b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Bad Cameo",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5zncNknK8hrQyTTVWpUyAf",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+          "id": "6icQOAFXDZKsumw3YXyusw",
+          "name": "Lil Yachty",
+          "type": "artist",
+          "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1yomJcRq9gy87Z6VwbWrGH"
+      },
+      "href": "https://api.spotify.com/v1/albums/1yomJcRq9gy87Z6VwbWrGH",
+      "id": "1yomJcRq9gy87Z6VwbWrGH",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735627edb9d711ef56a9f7e632",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025627edb9d711ef56a9f7e632",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515627edb9d711ef56a9f7e632",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Playing Robots Into Heaven (Endel Focus Soundscape)",
+      "release_date": "2024-02-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1yomJcRq9gy87Z6VwbWrGH",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ZwNcWl8h9blysDE8i4juL",
+      "id": "2ZwNcWl8h9blysDE8i4juL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273921f7aa6349a070b6f26b3ff",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02921f7aa6349a070b6f26b3ff",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851921f7aa6349a070b6f26b3ff",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Playing Robots Into Heaven",
+      "release_date": "2023-09-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2ZwNcWl8h9blysDE8i4juL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 20,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1aNEVZZJsa4nFR9D3N6WXm"
+      },
+      "href": "https://api.spotify.com/v1/albums/1aNEVZZJsa4nFR9D3N6WXm",
+      "id": "1aNEVZZJsa4nFR9D3N6WXm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273aef018bb25dd7185064d872c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02aef018bb25dd7185064d872c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851aef018bb25dd7185064d872c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Playing Robots Into Heaven (Endel Chillout Soundscape)",
+      "release_date": "2023-09-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1aNEVZZJsa4nFR9D3N6WXm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
+      },
+      "href": "https://api.spotify.com/v1/albums/0SNkVpjU9S4zVxBoytcfON",
+      "id": "0SNkVpjU9S4zVxBoytcfON",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273434c8d2fbbb6c74fe28bdc08",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02434c8d2fbbb6c74fe28bdc08",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851434c8d2fbbb6c74fe28bdc08",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Wind Down",
+      "release_date": "2022-05-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0SNkVpjU9S4zVxBoytcfON",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3JNr31WfX56vgwBuIcdOt4",
+          "id": "3JNr31WfX56vgwBuIcdOt4",
+          "name": "Endel",
+          "type": "artist",
+          "uri": "spotify:artist:3JNr31WfX56vgwBuIcdOt4"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/33GolaWGqgLY4fB5IPwxjq"
+      },
+      "href": "https://api.spotify.com/v1/albums/33GolaWGqgLY4fB5IPwxjq",
+      "id": "33GolaWGqgLY4fB5IPwxjq",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273603130b87d50ef37b4a31a0a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02603130b87d50ef37b4a31a0a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851603130b87d50ef37b4a31a0a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Friends That Break Your Heart (Bonus)",
+      "release_date": "2021-10-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:33GolaWGqgLY4fB5IPwxjq",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
+      },
+      "href": "https://api.spotify.com/v1/albums/1zNtJFMCNIyT0X19jpcI3j",
+      "id": "1zNtJFMCNIyT0X19jpcI3j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27338d030048ec770b15633dbc1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0238d030048ec770b15633dbc1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485138d030048ec770b15633dbc1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Friends That Break Your Heart",
+      "release_date": "2021-10-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1zNtJFMCNIyT0X19jpcI3j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 13,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g"
+      },
+      "href": "https://api.spotify.com/v1/albums/3VpbXPsAOhcp3duHhkye8g",
+      "id": "3VpbXPsAOhcp3duHhkye8g",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02534dc6aebb7cf3c04e410cc6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851534dc6aebb7cf3c04e410cc6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Assume Form",
+      "release_date": "2019-01-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3VpbXPsAOhcp3duHhkye8g",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 17,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
+      },
+      "href": "https://api.spotify.com/v1/albums/1WyrGCkFDlH1xPadZ5qTkL",
+      "id": "1WyrGCkFDlH1xPadZ5qTkL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02559bd53b0292ed01f789a0d8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851559bd53b0292ed01f789a0d8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Colour In Anything",
+      "release_date": "2016-05-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1WyrGCkFDlH1xPadZ5qTkL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "href": "https://api.spotify.com/v1/albums/53FEYOXnplxBWoQMmWn82U",
+      "id": "53FEYOXnplxBWoQMmWn82U",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d134dbb0fad78dda23d777ff",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d134dbb0fad78dda23d777ff",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d134dbb0fad78dda23d777ff",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Overgrown",
+      "release_date": "2013-04-08",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:53FEYOXnplxBWoQMmWn82U",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 19,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4L9qXAXmnMEIvnvG8xon3F"
+      },
+      "href": "https://api.spotify.com/v1/albums/4L9qXAXmnMEIvnvG8xon3F",
+      "id": "4L9qXAXmnMEIvnvG8xon3F",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fbb3d6b8a907bf6cbffde19b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fbb3d6b8a907bf6cbffde19b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fbb3d6b8a907bf6cbffde19b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "James Blake",
+      "release_date": "2011-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4L9qXAXmnMEIvnvG8xon3F",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          },
+          "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist",
+          "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+        }
+      ]
+    }
+  ]
+}

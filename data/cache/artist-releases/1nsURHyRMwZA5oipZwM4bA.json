@@ -1,0 +1,53 @@
+{
+  "artist_id": "1nsURHyRMwZA5oipZwM4bA",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32MLWvl16gKv2AE0axgQk6"
+      },
+      "href": "https://api.spotify.com/v1/albums/32MLWvl16gKv2AE0axgQk6",
+      "id": "32MLWvl16gKv2AE0axgQk6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f5a4ef55a309429d244aa3c3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f5a4ef55a309429d244aa3c3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f5a4ef55a309429d244aa3c3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "The Lost Tapes",
+      "release_date": "2025-09-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:32MLWvl16gKv2AE0axgQk6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nsURHyRMwZA5oipZwM4bA"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nsURHyRMwZA5oipZwM4bA",
+          "id": "1nsURHyRMwZA5oipZwM4bA",
+          "name": "Git Fresh",
+          "type": "artist",
+          "uri": "spotify:artist:1nsURHyRMwZA5oipZwM4bA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "album_id": "3BZyfvmDgZFXqCGJpYt7ES",
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 230000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3kY7f3qkk184PsKPylIEes"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3kY7f3qkk184PsKPylIEes",
+      "id": "3kY7f3qkk184PsKPylIEes",
+      "name": "Mains",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3kY7f3qkk184PsKPylIEes",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 251880,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5kWi0qHo8nhYpD6kO6jf3Y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5kWi0qHo8nhYpD6kO6jf3Y",
+      "id": "5kWi0qHo8nhYpD6kO6jf3Y",
+      "name": "Golden Brown",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5kWi0qHo8nhYpD6kO6jf3Y",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 197140,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5F3b1gGfnIME7mIaoWT2YF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5F3b1gGfnIME7mIaoWT2YF",
+      "id": "5F3b1gGfnIME7mIaoWT2YF",
+      "name": "Waze",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5F3b1gGfnIME7mIaoWT2YF",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LxQ9uN2B3DAn7riENlpcQ",
+          "id": "3LxQ9uN2B3DAn7riENlpcQ",
+          "name": "Dirtbike Lb",
+          "type": "artist",
+          "uri": "spotify:artist:3LxQ9uN2B3DAn7riENlpcQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168054,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/75PZuTrIz2dqsyscNHeXGN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/75PZuTrIz2dqsyscNHeXGN",
+      "id": "75PZuTrIz2dqsyscNHeXGN",
+      "name": "Demons (feat. Dirtbike LB)",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:75PZuTrIz2dqsyscNHeXGN",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2KyePlnlnRBQbN7J8njyGe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2KyePlnlnRBQbN7J8njyGe",
+      "id": "2KyePlnlnRBQbN7J8njyGe",
+      "name": "St Tropez",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2KyePlnlnRBQbN7J8njyGe",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 151440,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2n4dgesf5weBTyhN538xT5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2n4dgesf5weBTyhN538xT5",
+      "id": "2n4dgesf5weBTyhN538xT5",
+      "name": "Insomnia Interlude",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2n4dgesf5weBTyhN538xT5",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 158960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1MdYVcG3RuwU617tMIC6kf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1MdYVcG3RuwU617tMIC6kf",
+      "id": "1MdYVcG3RuwU617tMIC6kf",
+      "name": "Star In The Hood",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:1MdYVcG3RuwU617tMIC6kf",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 166320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7oFmiGnJ6XYwg32Nc0YaRG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7oFmiGnJ6XYwg32Nc0YaRG",
+      "id": "7oFmiGnJ6XYwg32Nc0YaRG",
+      "name": "Mic Check",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:7oFmiGnJ6XYwg32Nc0YaRG",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 165080,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4zpPvFepITwipXJKIRMUAh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4zpPvFepITwipXJKIRMUAh",
+      "id": "4zpPvFepITwipXJKIRMUAh",
+      "name": "Traumatised",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:4zpPvFepITwipXJKIRMUAh",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 177391,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ioBOq3yEkAGuGfqTNkeK7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1ioBOq3yEkAGuGfqTNkeK7",
+      "id": "1ioBOq3yEkAGuGfqTNkeK7",
+      "name": "Sin City",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1ioBOq3yEkAGuGfqTNkeK7",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 231660,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0EcOqlA7T3OuLfZcsvaBVo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0EcOqlA7T3OuLfZcsvaBVo",
+      "id": "0EcOqlA7T3OuLfZcsvaBVo",
+      "name": "High Road",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:0EcOqlA7T3OuLfZcsvaBVo",
+      "is_local": false
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          },
+          "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist",
+          "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tJCNteqwm7LmRZ6KWr8GT",
+          "id": "0tJCNteqwm7LmRZ6KWr8GT",
+          "name": "Chip",
+          "type": "artist",
+          "uri": "spotify:artist:0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+          },
+          "href": "https://api.spotify.com/v1/artists/396eHybVCEUr0PcED4yFga",
+          "id": "396eHybVCEUr0PcED4yFga",
+          "name": "Young Adz",
+          "type": "artist",
+          "uri": "spotify:artist:396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 70219,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/13vTdsXZI25kSAly4u5MjI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/13vTdsXZI25kSAly4u5MjI",
+      "id": "13vTdsXZI25kSAly4u5MjI",
+      "name": "Intro",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:13vTdsXZI25kSAly4u5MjI",
+      "is_local": false
+    }
+  ]
+}

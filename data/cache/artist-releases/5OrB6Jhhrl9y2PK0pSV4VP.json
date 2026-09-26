@@ -1,0 +1,192 @@
+{
+  "artist_id": "5OrB6Jhhrl9y2PK0pSV4VP",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4qkmZw4aON6zsVMqiWpr0D"
+      },
+      "href": "https://api.spotify.com/v1/albums/4qkmZw4aON6zsVMqiWpr0D",
+      "id": "4qkmZw4aON6zsVMqiWpr0D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730f56da877b8c9bf833bbcdf2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020f56da877b8c9bf833bbcdf2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510f56da877b8c9bf833bbcdf2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Certified (Special Edition)",
+      "release_date": "2022-11-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4qkmZw4aON6zsVMqiWpr0D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Q5sPmM8j4SpMqL4UA1DtS",
+          "id": "4Q5sPmM8j4SpMqL4UA1DtS",
+          "name": "Lil' Flip",
+          "type": "artist",
+          "uri": "spotify:artist:4Q5sPmM8j4SpMqL4UA1DtS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OrB6Jhhrl9y2PK0pSV4VP",
+          "id": "5OrB6Jhhrl9y2PK0pSV4VP",
+          "name": "Young Money",
+          "type": "artist",
+          "uri": "spotify:artist:5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3FTlw7Neeg4UXOZexmBbGX"
+      },
+      "href": "https://api.spotify.com/v1/albums/3FTlw7Neeg4UXOZexmBbGX",
+      "id": "3FTlw7Neeg4UXOZexmBbGX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735744b50f64e7086e7f312295",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025744b50f64e7086e7f312295",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515744b50f64e7086e7f312295",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rise Of An Empire",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3FTlw7Neeg4UXOZexmBbGX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OrB6Jhhrl9y2PK0pSV4VP",
+          "id": "5OrB6Jhhrl9y2PK0pSV4VP",
+          "name": "Young Money",
+          "type": "artist",
+          "uri": "spotify:artist:5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 14,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+      },
+      "href": "https://api.spotify.com/v1/albums/0UwpSCPnNPksM1meQJnBAF",
+      "id": "0UwpSCPnNPksM1meQJnBAF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273842e732b778998eef17b405f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02842e732b778998eef17b405f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851842e732b778998eef17b405f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rise Of An Empire (Deluxe Edition)",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0UwpSCPnNPksM1meQJnBAF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OrB6Jhhrl9y2PK0pSV4VP",
+          "id": "5OrB6Jhhrl9y2PK0pSV4VP",
+          "name": "Young Money",
+          "type": "artist",
+          "uri": "spotify:artist:5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hDy52fqKwb2ZIjyNXGxan",
+      "id": "0hDy52fqKwb2ZIjyNXGxan",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cad1e37b4b31b5484325acd3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cad1e37b4b31b5484325acd3",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "We Are Young Money",
+      "release_date": "2009-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0hDy52fqKwb2ZIjyNXGxan",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5OrB6Jhhrl9y2PK0pSV4VP",
+          "id": "5OrB6Jhhrl9y2PK0pSV4VP",
+          "name": "Young Money",
+          "type": "artist",
+          "uri": "spotify:artist:5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ]
+    }
+  ]
+}

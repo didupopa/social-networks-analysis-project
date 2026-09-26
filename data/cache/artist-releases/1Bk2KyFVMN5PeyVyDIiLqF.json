@@ -1,0 +1,96 @@
+{
+  "artist_id": "1Bk2KyFVMN5PeyVyDIiLqF",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0bKQYSePJHwxE11dMmjAbt"
+      },
+      "href": "https://api.spotify.com/v1/albums/0bKQYSePJHwxE11dMmjAbt",
+      "id": "0bKQYSePJHwxE11dMmjAbt",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c018466b8e03f271f6f389f7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c018466b8e03f271f6f389f7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c018466b8e03f271f6f389f7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Quaranqueen",
+      "release_date": "2020-06-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0bKQYSePJHwxE11dMmjAbt",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Bk2KyFVMN5PeyVyDIiLqF",
+          "id": "1Bk2KyFVMN5PeyVyDIiLqF",
+          "name": "Lady Leshurr",
+          "type": "artist",
+          "uri": "spotify:artist:1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ]
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 9,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/37kLFBQ0iEpmP22kf0GsFL"
+      },
+      "href": "https://api.spotify.com/v1/albums/37kLFBQ0iEpmP22kf0GsFL",
+      "id": "37kLFBQ0iEpmP22kf0GsFL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27306b20a7f2c76413dc3b3fb01",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0206b20a7f2c76413dc3b3fb01",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485106b20a7f2c76413dc3b3fb01",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Mona Leshurr",
+      "release_date": "2013-09-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:37kLFBQ0iEpmP22kf0GsFL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Bk2KyFVMN5PeyVyDIiLqF",
+          "id": "1Bk2KyFVMN5PeyVyDIiLqF",
+          "name": "Lady Leshurr",
+          "type": "artist",
+          "uri": "spotify:artist:1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ]
+    }
+  ]
+}
