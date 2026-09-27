@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+  },
+  "followers": {
+    "href": null,
+    "total": 36982
+  },
+  "genres": [
+    "finnish hip hop",
+    "finnish pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1UdLtKAD4FbM7r2XCfAWAs",
+  "id": "1UdLtKAD4FbM7r2XCfAWAs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb88986dfeafad2012853ab05",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b88986dfeafad2012853ab05",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b88986dfeafad2012853ab05",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "william",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:1UdLtKAD4FbM7r2XCfAWAs"
+}

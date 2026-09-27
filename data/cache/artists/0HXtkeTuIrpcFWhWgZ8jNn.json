@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
+  },
+  "followers": {
+    "href": null,
+    "total": 2398
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0HXtkeTuIrpcFWhWgZ8jNn",
+  "id": "0HXtkeTuIrpcFWhWgZ8jNn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27342c82186ad20ac96ce70d54f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0242c82186ad20ac96ce70d54f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485142c82186ad20ac96ce70d54f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Rod Temperton",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:0HXtkeTuIrpcFWhWgZ8jNn"
+}

@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+  },
+  "followers": {
+    "href": null,
+    "total": 37734
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1gkcZQArk5rV8uBwG8y5FX",
+  "id": "1gkcZQArk5rV8uBwG8y5FX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/eb75e4c21bda45df023d29471e188fb6e9eb0bf2",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/63b3af07d5371eadc30c33f8a5cf1d8fffe0cf92",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/9afa82536d0460f55349300e73de7809bee1f679",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/b2bfd4b27e3c773841f59c04dca47e5eb924f1bc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Amy Adams",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:1gkcZQArk5rV8uBwG8y5FX"
+}

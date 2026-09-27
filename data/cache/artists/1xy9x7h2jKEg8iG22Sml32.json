@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+  },
+  "followers": {
+    "href": null,
+    "total": 530682
+  },
+  "genres": [
+    "gospel",
+    "worship",
+    "christian r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1xy9x7h2jKEg8iG22Sml32",
+  "id": "1xy9x7h2jKEg8iG22Sml32",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9192ed262308ab8af84236f1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749192ed262308ab8af84236f1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789192ed262308ab8af84236f1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tye Tribbett",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:1xy9x7h2jKEg8iG22Sml32"
+}

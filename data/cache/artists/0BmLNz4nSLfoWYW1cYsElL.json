@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+  },
+  "followers": {
+    "href": null,
+    "total": 512633
+  },
+  "genres": [
+    "europop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0BmLNz4nSLfoWYW1cYsElL",
+  "id": "0BmLNz4nSLfoWYW1cYsElL",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4469592b9a24ea17d3f47f00",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744469592b9a24ea17d3f47f00",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784469592b9a24ea17d3f47f00",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Alexandra Stan",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:0BmLNz4nSLfoWYW1cYsElL"
+}

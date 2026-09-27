@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+  },
+  "followers": {
+    "href": null,
+    "total": 138577
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3GfNJrDTZY7voXPDx8gH9I",
+  "id": "3GfNJrDTZY7voXPDx8gH9I",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5da7061e7198d452faedc0b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e5da7061e7198d452faedc0b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e5da7061e7198d452faedc0b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "TeddyLoid",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:3GfNJrDTZY7voXPDx8gH9I"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5D7j3YOhscvrld2WzjSIpN"
+  },
+  "followers": {
+    "href": null,
+    "total": 57665
+  },
+  "genres": [
+    "east coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5D7j3YOhscvrld2WzjSIpN",
+  "id": "5D7j3YOhscvrld2WzjSIpN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72af7f0489c82d0bc549f294",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517472af7f0489c82d0bc549f294",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17872af7f0489c82d0bc549f294",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Phife Dawg",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:5D7j3YOhscvrld2WzjSIpN"
+}

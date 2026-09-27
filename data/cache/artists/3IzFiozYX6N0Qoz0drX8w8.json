@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+  },
+  "followers": {
+    "href": null,
+    "total": 27651
+  },
+  "genres": [
+    "flamenco urbano",
+    "flamenco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3IzFiozYX6N0Qoz0drX8w8",
+  "id": "3IzFiozYX6N0Qoz0drX8w8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf537a0ea53aab78e2908cbaf",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f537a0ea53aab78e2908cbaf",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f537a0ea53aab78e2908cbaf",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Yotuel",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:3IzFiozYX6N0Qoz0drX8w8"
+}

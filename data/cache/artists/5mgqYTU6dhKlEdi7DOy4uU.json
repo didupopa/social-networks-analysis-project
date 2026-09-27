@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+  },
+  "followers": {
+    "href": null,
+    "total": 408038
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5mgqYTU6dhKlEdi7DOy4uU",
+  "id": "5mgqYTU6dhKlEdi7DOy4uU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1f60f693e20c08fe889ee3bf",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741f60f693e20c08fe889ee3bf",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781f60f693e20c08fe889ee3bf",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Alberto Stylee",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:5mgqYTU6dhKlEdi7DOy4uU"
+}

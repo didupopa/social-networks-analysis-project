@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+  },
+  "followers": {
+    "href": null,
+    "total": 1338578
+  },
+  "genres": [
+    "indie"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7gjAu1qr5C2grXeQFFOGeh",
+  "id": "7gjAu1qr5C2grXeQFFOGeh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6273d3707ef2fc8a53922068",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051746273d3707ef2fc8a53922068",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1786273d3707ef2fc8a53922068",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Passion Pit",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
+}

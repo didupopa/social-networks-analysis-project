@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY"
+  },
+  "followers": {
+    "href": null,
+    "total": 33488
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3ONSkkEnOSZVNogu98dvTY",
+  "id": "3ONSkkEnOSZVNogu98dvTY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cd7bc7201def92f45d79cabbe",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22d7bc7201def92f45d79cabbe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3d7bc7201def92f45d79cabbe",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74d7bc7201def92f45d79cabbe",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Shaun Ryder",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:3ONSkkEnOSZVNogu98dvTY"
+}

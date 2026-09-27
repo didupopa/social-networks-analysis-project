@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+  },
+  "followers": {
+    "href": null,
+    "total": 22488
+  },
+  "genres": [
+    "gospel",
+    "funk gospel",
+    "traditional gospel"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6kSjbNXcS3bNyP3WSli67X",
+  "id": "6kSjbNXcS3bNyP3WSli67X",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba13a3b86bad4fd1998b6b219",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a13a3b86bad4fd1998b6b219",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a13a3b86bad4fd1998b6b219",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Rance Allen",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:6kSjbNXcS3bNyP3WSli67X"
+}

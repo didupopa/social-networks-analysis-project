@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TiQECvFFvnqd5hs6viUsK"
+  },
+  "followers": {
+    "href": null,
+    "total": 368
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3TiQECvFFvnqd5hs6viUsK",
+  "id": "3TiQECvFFvnqd5hs6viUsK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a7da5b78d3fe48c6735dc5a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e023f2266b6430ef765791edecc",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515a7da5b78d3fe48c6735dc5a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lee Jae Hoon",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:3TiQECvFFvnqd5hs6viUsK"
+}

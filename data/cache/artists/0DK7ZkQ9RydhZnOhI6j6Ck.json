@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+  },
+  "followers": {
+    "href": null,
+    "total": 21548
+  },
+  "genres": [
+    "musicals"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0DK7ZkQ9RydhZnOhI6j6Ck",
+  "id": "0DK7ZkQ9RydhZnOhI6j6Ck",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86fee649021876bbce4c95bc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517486fee649021876bbce4c95bc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17886fee649021876bbce4c95bc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Amandla Stenberg",
+  "popularity": 36,
+  "type": "artist",
+  "uri": "spotify:artist:0DK7ZkQ9RydhZnOhI6j6Ck"
+}

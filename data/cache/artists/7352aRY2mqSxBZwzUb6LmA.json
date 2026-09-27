@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+  },
+  "followers": {
+    "href": null,
+    "total": 1742453
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7352aRY2mqSxBZwzUb6LmA",
+  "id": "7352aRY2mqSxBZwzUb6LmA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdabcde5a80653290a9f0afad",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dabcde5a80653290a9f0afad",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dabcde5a80653290a9f0afad",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bow Wow",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:7352aRY2mqSxBZwzUb6LmA"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js"
+  },
+  "followers": {
+    "href": null,
+    "total": 984
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7AVY1bJuRTZrbYW3soi1Js",
+  "id": "7AVY1bJuRTZrbYW3soi1Js",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ffed1d6a64c8141bdc6f299b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ffed1d6a64c8141bdc6f299b",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ffed1d6a64c8141bdc6f299b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Sarah Barthel",
+  "popularity": 35,
+  "type": "artist",
+  "uri": "spotify:artist:7AVY1bJuRTZrbYW3soi1Js"
+}

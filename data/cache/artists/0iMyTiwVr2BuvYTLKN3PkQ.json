@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iMyTiwVr2BuvYTLKN3PkQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0iMyTiwVr2BuvYTLKN3PkQ",
+  "id": "0iMyTiwVr2BuvYTLKN3PkQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27330d622ac000aaa7cf4028175",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0230d622ac000aaa7cf4028175",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485130d622ac000aaa7cf4028175",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "D-Smith",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:0iMyTiwVr2BuvYTLKN3PkQ"
+}

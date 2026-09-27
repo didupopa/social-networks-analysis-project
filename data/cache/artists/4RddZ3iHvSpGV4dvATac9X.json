@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+  },
+  "followers": {
+    "href": null,
+    "total": 6832345
+  },
+  "genres": [
+    "nu metal",
+    "rap metal",
+    "alternative metal",
+    "rap rock",
+    "rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4RddZ3iHvSpGV4dvATac9X",
+  "id": "4RddZ3iHvSpGV4dvATac9X",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3757f63ec317d0309a8115a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d3757f63ec317d0309a8115a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d3757f63ec317d0309a8115a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Papa Roach",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:4RddZ3iHvSpGV4dvATac9X"
+}

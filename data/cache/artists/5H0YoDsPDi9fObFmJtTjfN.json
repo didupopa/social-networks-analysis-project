@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+  },
+  "followers": {
+    "href": null,
+    "total": 346628
+  },
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN",
+  "id": "5H0YoDsPDi9fObFmJtTjfN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf87df7a9e607efc42dddceb1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f87df7a9e607efc42dddceb1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f87df7a9e607efc42dddceb1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ariel Pink",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:5H0YoDsPDi9fObFmJtTjfN"
+}

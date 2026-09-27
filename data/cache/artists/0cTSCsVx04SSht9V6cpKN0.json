@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+  },
+  "followers": {
+    "href": null,
+    "total": 137912
+  },
+  "genres": [
+    "soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0cTSCsVx04SSht9V6cpKN0",
+  "id": "0cTSCsVx04SSht9V6cpKN0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb83248f35430ef184a037f1e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b83248f35430ef184a037f1e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b83248f35430ef184a037f1e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mavis Staples",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:0cTSCsVx04SSht9V6cpKN0"
+}

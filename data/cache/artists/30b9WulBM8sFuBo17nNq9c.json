@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+  },
+  "followers": {
+    "href": null,
+    "total": 4324469
+  },
+  "genres": [
+    "k-pop",
+    "k-rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/30b9WulBM8sFuBo17nNq9c",
+  "id": "30b9WulBM8sFuBo17nNq9c",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb783a6a578e8eb992bfd74765",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174783a6a578e8eb992bfd74765",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178783a6a578e8eb992bfd74765",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "G-DRAGON",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:30b9WulBM8sFuBo17nNq9c"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6K9bTppoJ8UoycbA9B1k8v"
+  },
+  "followers": {
+    "href": null,
+    "total": 24240
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6K9bTppoJ8UoycbA9B1k8v",
+  "id": "6K9bTppoJ8UoycbA9B1k8v",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2733596a5ec0dec4ad34890b91b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e023596a5ec0dec4ad34890b91b",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048513596a5ec0dec4ad34890b91b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "One Chance",
+  "popularity": 21,
+  "type": "artist",
+  "uri": "spotify:artist:6K9bTppoJ8UoycbA9B1k8v"
+}

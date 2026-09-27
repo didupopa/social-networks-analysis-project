@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl"
+  },
+  "followers": {
+    "href": null,
+    "total": 113970
+  },
+  "genres": [
+    "nu disco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4eZebkMFU3xelF8mbZYXyl",
+  "id": "4eZebkMFU3xelF8mbZYXyl",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb915bd02cecfb6ec8d6cc8122",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174915bd02cecfb6ec8d6cc8122",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178915bd02cecfb6ec8d6cc8122",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Goldroom",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:4eZebkMFU3xelF8mbZYXyl"
+}

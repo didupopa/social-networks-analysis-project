@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cv3rK9lWbYMROVIfG7yO0"
+  },
+  "followers": {
+    "href": null,
+    "total": 335
+  },
+  "genres": [
+    "synthpop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7cv3rK9lWbYMROVIfG7yO0",
+  "id": "7cv3rK9lWbYMROVIfG7yO0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27318088adb8ea56bec2b9ce687",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0218088adb8ea56bec2b9ce687",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485118088adb8ea56bec2b9ce687",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Manhattan Clique",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:7cv3rK9lWbYMROVIfG7yO0"
+}

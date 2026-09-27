@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH"
+  },
+  "followers": {
+    "href": null,
+    "total": 45236
+  },
+  "genres": [
+    "electro swing"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6Dxf1ZaJBrpbumiqTTnlIH",
+  "id": "6Dxf1ZaJBrpbumiqTTnlIH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99879b601137f5135f6d04ea",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517499879b601137f5135f6d04ea",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17899879b601137f5135f6d04ea",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Taco",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:6Dxf1ZaJBrpbumiqTTnlIH"
+}

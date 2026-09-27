@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57YbQhFBBDksLzX08lqVnw"
+  },
+  "followers": {
+    "href": null,
+    "total": 19680
+  },
+  "genres": [
+    "k-ballad",
+    "k-rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/57YbQhFBBDksLzX08lqVnw",
+  "id": "57YbQhFBBDksLzX08lqVnw",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f5b0239aaba397f45f5d88c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e025f5b0239aaba397f45f5d88c",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515f5b0239aaba397f45f5d88c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Kim Jin Pyo",
+  "popularity": 38,
+  "type": "artist",
+  "uri": "spotify:artist:57YbQhFBBDksLzX08lqVnw"
+}

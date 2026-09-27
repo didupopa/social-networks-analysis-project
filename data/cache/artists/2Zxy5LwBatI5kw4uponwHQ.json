@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 128832
+  },
+  "genres": [
+    "dubstep",
+    "riddim",
+    "deathstep",
+    "bass music",
+    "edm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2Zxy5LwBatI5kw4uponwHQ",
+  "id": "2Zxy5LwBatI5kw4uponwHQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb114dd0f9f07c1f293861223b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174114dd0f9f07c1f293861223b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178114dd0f9f07c1f293861223b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Riot Ten",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:2Zxy5LwBatI5kw4uponwHQ"
+}

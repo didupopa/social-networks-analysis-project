@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+  },
+  "followers": {
+    "href": null,
+    "total": 9059111
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3tlXnStJ1fFhdScmQeLpuG",
+  "id": "3tlXnStJ1fFhdScmQeLpuG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174582fbf712f5b6a9bf65d9b84",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178582fbf712f5b6a9bf65d9b84",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Brent Faiyaz",
+  "popularity": 84,
+  "type": "artist",
+  "uri": "spotify:artist:3tlXnStJ1fFhdScmQeLpuG"
+}

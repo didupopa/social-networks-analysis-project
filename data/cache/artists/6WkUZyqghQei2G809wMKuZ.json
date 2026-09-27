@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ"
+  },
+  "followers": {
+    "href": null,
+    "total": 816609
+  },
+  "genres": [
+    "cloud rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6WkUZyqghQei2G809wMKuZ",
+  "id": "6WkUZyqghQei2G809wMKuZ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3267728016eee2d3e7faa68",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d3267728016eee2d3e7faa68",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d3267728016eee2d3e7faa68",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Yung Bans",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:6WkUZyqghQei2G809wMKuZ"
+}

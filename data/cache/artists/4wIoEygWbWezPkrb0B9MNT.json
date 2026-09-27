@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wIoEygWbWezPkrb0B9MNT"
+  },
+  "followers": {
+    "href": null,
+    "total": 612
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4wIoEygWbWezPkrb0B9MNT",
+  "id": "4wIoEygWbWezPkrb0B9MNT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273733a7cca159512098da40c2a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02733a7cca159512098da40c2a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851733a7cca159512098da40c2a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "The Wolf",
+  "popularity": 16,
+  "type": "artist",
+  "uri": "spotify:artist:4wIoEygWbWezPkrb0B9MNT"
+}

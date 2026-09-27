@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+  },
+  "followers": {
+    "href": null,
+    "total": 22692
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3pbi8H08p95NUZ7m6ybxUV",
+  "id": "3pbi8H08p95NUZ7m6ybxUV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5ccc476e8b18673e01d87420",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745ccc476e8b18673e01d87420",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785ccc476e8b18673e01d87420",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Static Major",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:3pbi8H08p95NUZ7m6ybxUV"
+}

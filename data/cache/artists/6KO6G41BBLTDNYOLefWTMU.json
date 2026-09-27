@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+  },
+  "followers": {
+    "href": null,
+    "total": 2203810
+  },
+  "genres": [
+    "nu metal",
+    "christian rock",
+    "rap metal",
+    "rap rock",
+    "alternative metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6KO6G41BBLTDNYOLefWTMU",
+  "id": "6KO6G41BBLTDNYOLefWTMU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb874063c732c23f2dd8486aa0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174874063c732c23f2dd8486aa0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178874063c732c23f2dd8486aa0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "P.O.D.",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:6KO6G41BBLTDNYOLefWTMU"
+}

@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+  },
+  "followers": {
+    "href": null,
+    "total": 39562
+  },
+  "genres": [
+    "latin house",
+    "techengue",
+    "tech house",
+    "tribal house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6HZwb7Zbnvfo8u1sst4QrI",
+  "id": "6HZwb7Zbnvfo8u1sst4QrI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25cde1422d6b459269730f35",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517425cde1422d6b459269730f35",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17825cde1422d6b459269730f35",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Andruss",
+  "popularity": 47,
+  "type": "artist",
+  "uri": "spotify:artist:6HZwb7Zbnvfo8u1sst4QrI"
+}

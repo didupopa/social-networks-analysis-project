@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+  },
+  "followers": {
+    "href": null,
+    "total": 4480732
+  },
+  "genres": [
+    "r&b",
+    "contemporary r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/05oH07COxkXKIMt6mIPRee",
+  "id": "05oH07COxkXKIMt6mIPRee",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80f1892455aa69437185ab0d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517480f1892455aa69437185ab0d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17880f1892455aa69437185ab0d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Brandy",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:05oH07COxkXKIMt6mIPRee"
+}

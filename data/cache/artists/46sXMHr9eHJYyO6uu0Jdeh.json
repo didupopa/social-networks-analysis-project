@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46sXMHr9eHJYyO6uu0Jdeh"
+  },
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+    "pop rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/46sXMHr9eHJYyO6uu0Jdeh",
+  "id": "46sXMHr9eHJYyO6uu0Jdeh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1bf1b9fc56c9220ee4c615a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1bf1b9fc56c9220ee4c615a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d1bf1b9fc56c9220ee4c615a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lowsunday",
+  "popularity": 23,
+  "type": "artist",
+  "uri": "spotify:artist:46sXMHr9eHJYyO6uu0Jdeh"
+}

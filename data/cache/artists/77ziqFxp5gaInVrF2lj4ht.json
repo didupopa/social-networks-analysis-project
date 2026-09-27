@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+  },
+  "followers": {
+    "href": null,
+    "total": 12284263
+  },
+  "genres": [
+    "reggaeton",
+    "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/77ziqFxp5gaInVrF2lj4ht",
+  "id": "77ziqFxp5gaInVrF2lj4ht",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2dc61058c0d1e5bc90bb68d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c2dc61058c0d1e5bc90bb68d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c2dc61058c0d1e5bc90bb68d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Sech",
+  "popularity": 81,
+  "type": "artist",
+  "uri": "spotify:artist:77ziqFxp5gaInVrF2lj4ht"
+}

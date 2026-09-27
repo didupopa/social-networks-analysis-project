@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZjpUw9wKPwBH0q9jtVGih"
+  },
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+    "uk garage"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5ZjpUw9wKPwBH0q9jtVGih",
+  "id": "5ZjpUw9wKPwBH0q9jtVGih",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2733bc93399a695de9b9665336e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e023bc93399a695de9b9665336e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048513bc93399a695de9b9665336e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Mike Delinquent",
+  "popularity": 5,
+  "type": "artist",
+  "uri": "spotify:artist:5ZjpUw9wKPwBH0q9jtVGih"
+}

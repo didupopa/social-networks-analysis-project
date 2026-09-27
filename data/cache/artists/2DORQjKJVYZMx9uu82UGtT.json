@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+  },
+  "followers": {
+    "href": null,
+    "total": 443283
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2DORQjKJVYZMx9uu82UGtT",
+  "id": "2DORQjKJVYZMx9uu82UGtT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb975a043945ed678f050d20d3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174975a043945ed678f050d20d3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178975a043945ed678f050d20d3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Amy Shark",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:2DORQjKJVYZMx9uu82UGtT"
+}

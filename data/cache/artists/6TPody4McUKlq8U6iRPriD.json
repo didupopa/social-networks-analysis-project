@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TPody4McUKlq8U6iRPriD"
+  },
+  "followers": {
+    "href": null,
+    "total": 1442
+  },
+  "genres": [
+    "swing music"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6TPody4McUKlq8U6iRPriD",
+  "id": "6TPody4McUKlq8U6iRPriD",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27339d267687e7317f735f71792",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0239d267687e7317f735f71792",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485139d267687e7317f735f71792",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Jane Horrocks",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:6TPody4McUKlq8U6iRPriD"
+}

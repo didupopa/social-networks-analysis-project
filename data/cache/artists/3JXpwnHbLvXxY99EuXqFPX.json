@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+  },
+  "followers": {
+    "href": null,
+    "total": 98943
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3JXpwnHbLvXxY99EuXqFPX",
+  "id": "3JXpwnHbLvXxY99EuXqFPX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6e357c9453766329810229c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a6e357c9453766329810229c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a6e357c9453766329810229c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Poo Bear",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:3JXpwnHbLvXxY99EuXqFPX"
+}

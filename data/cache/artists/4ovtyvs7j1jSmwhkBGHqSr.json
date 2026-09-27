@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+  },
+  "followers": {
+    "href": null,
+    "total": 5561634
+  },
+  "genres": [
+    "afrobeats",
+    "afrobeat",
+    "afropop",
+    "afro adura",
+    "azonto",
+    "afropiano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4ovtyvs7j1jSmwhkBGHqSr",
+  "id": "4ovtyvs7j1jSmwhkBGHqSr",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb690d9ec39523c7159ada0426",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174690d9ec39523c7159ada0426",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178690d9ec39523c7159ada0426",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Olamide",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:4ovtyvs7j1jSmwhkBGHqSr"
+}

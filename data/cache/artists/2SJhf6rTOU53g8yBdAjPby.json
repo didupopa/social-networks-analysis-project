@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+  },
+  "followers": {
+    "href": null,
+    "total": 1013642
+  },
+  "genres": [
+    "rage rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2SJhf6rTOU53g8yBdAjPby",
+  "id": "2SJhf6rTOU53g8yBdAjPby",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb010635685ba93f98efe6e936",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174010635685ba93f98efe6e936",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178010635685ba93f98efe6e936",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "SoFaygo",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:2SJhf6rTOU53g8yBdAjPby"
+}

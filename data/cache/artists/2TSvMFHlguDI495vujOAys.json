@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TSvMFHlguDI495vujOAys"
+  },
+  "followers": {
+    "href": null,
+    "total": 259335
+  },
+  "genres": [
+    "horrorcore"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2TSvMFHlguDI495vujOAys",
+  "id": "2TSvMFHlguDI495vujOAys",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ce52c08f53406cae543e6ce",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744ce52c08f53406cae543e6ce",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784ce52c08f53406cae543e6ce",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bizarre",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:2TSvMFHlguDI495vujOAys"
+}

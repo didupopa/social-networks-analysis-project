@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+  },
+  "followers": {
+    "href": null,
+    "total": 398042
+  },
+  "genres": [
+    "art pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2f9ZiYA2ic1r1voObUimdd",
+  "id": "2f9ZiYA2ic1r1voObUimdd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1c97da9c6326675e8c493cd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c1c97da9c6326675e8c493cd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c1c97da9c6326675e8c493cd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Grace Jones",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:2f9ZiYA2ic1r1voObUimdd"
+}

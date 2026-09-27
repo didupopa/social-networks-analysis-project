@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nKGmC5Mc13ct02xAY8ccS"
+  },
+  "followers": {
+    "href": null,
+    "total": 96602
+  },
+  "genres": [
+    "future bass"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2nKGmC5Mc13ct02xAY8ccS",
+  "id": "2nKGmC5Mc13ct02xAY8ccS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1750e1c1a3a5aad4ed929732",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741750e1c1a3a5aad4ed929732",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781750e1c1a3a5aad4ed929732",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kizuna AI",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:2nKGmC5Mc13ct02xAY8ccS"
+}

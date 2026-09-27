@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+  },
+  "followers": {
+    "href": null,
+    "total": 1007573
+  },
+  "genres": [
+    "modern blues",
+    "blues rock",
+    "soul blues"
+  ],
+  "href": "https://api.spotify.com/v1/artists/01aC2ikO4Xgb2LUpf9JfKp",
+  "id": "01aC2ikO4Xgb2LUpf9JfKp",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9d5088ae6a4e5acf0e0c2191",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749d5088ae6a4e5acf0e0c2191",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789d5088ae6a4e5acf0e0c2191",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Gary Clark Jr.",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:01aC2ikO4Xgb2LUpf9JfKp"
+}

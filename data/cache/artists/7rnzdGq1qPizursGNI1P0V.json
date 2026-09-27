@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+  },
+  "followers": {
+    "href": null,
+    "total": 7792
+  },
+  "genres": [
+    "dubstep"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7rnzdGq1qPizursGNI1P0V",
+  "id": "7rnzdGq1qPizursGNI1P0V",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84fdef13e3c0727f9787e971",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517484fdef13e3c0727f9787e971",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17884fdef13e3c0727f9787e971",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bok Nero",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:7rnzdGq1qPizursGNI1P0V"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39NpvJulPofgF7z0BYDB56"
+  },
+  "followers": {
+    "href": null,
+    "total": 3466
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/39NpvJulPofgF7z0BYDB56",
+  "id": "39NpvJulPofgF7z0BYDB56",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51892bb5f15d585c46fd1430",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517451892bb5f15d585c46fd1430",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17851892bb5f15d585c46fd1430",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Elan Atias",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:39NpvJulPofgF7z0BYDB56"
+}

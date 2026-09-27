@@ -1,0 +1,162 @@
+{
+  "artist_id": "5nwjcZ87CGNRiO98nFKdOD",
+  "config": {
+    "include_groups": "album"
+  },
+  "next_offset": 0,
+  "completed": true,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 22,
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AR",
+        "AT",
+        "AU",
+        "BB",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "BS",
+        "BZ",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GD",
+        "GR",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KN",
+        "KW",
+        "LB",
+        "LC",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TT",
+        "TW",
+        "UA",
+        "US",
+        "UY",
+        "VC",
+        "VN",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
+      },
+      "href": "https://api.spotify.com/v1/albums/16iIPsnAjGZea8TeOCzeN8",
+      "id": "16iIPsnAjGZea8TeOCzeN8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c02dee749826fbc58abcb8c5",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c02dee749826fbc58abcb8c5",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c02dee749826fbc58abcb8c5",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rocketman (Music From The Motion Picture)",
+      "release_date": "2019-05-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:16iIPsnAjGZea8TeOCzeN8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John",
+          "type": "artist",
+          "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5nwjcZ87CGNRiO98nFKdOD",
+          "id": "5nwjcZ87CGNRiO98nFKdOD",
+          "name": "Taron Egerton",
+          "type": "artist",
+          "uri": "spotify:artist:5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "album_group": "album"
+    }
+  ]
+}

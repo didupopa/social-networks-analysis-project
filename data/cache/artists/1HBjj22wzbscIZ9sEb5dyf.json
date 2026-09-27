@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+  },
+  "followers": {
+    "href": null,
+    "total": 3969973
+  },
+  "genres": [
+    "tropical house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1HBjj22wzbscIZ9sEb5dyf",
+  "id": "1HBjj22wzbscIZ9sEb5dyf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb932efe5392a48f64e5bd54d8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174932efe5392a48f64e5bd54d8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178932efe5392a48f64e5bd54d8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jonas Blue",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf"
+}

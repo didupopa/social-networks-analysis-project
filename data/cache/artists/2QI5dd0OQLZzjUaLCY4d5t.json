@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QI5dd0OQLZzjUaLCY4d5t"
+  },
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2QI5dd0OQLZzjUaLCY4d5t",
+  "id": "2QI5dd0OQLZzjUaLCY4d5t",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e26b399b17b9fdfb892550c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021e26b399b17b9fdfb892550c",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511e26b399b17b9fdfb892550c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Serban Ghenea",
+  "popularity": 20,
+  "type": "artist",
+  "uri": "spotify:artist:2QI5dd0OQLZzjUaLCY4d5t"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+  },
+  "followers": {
+    "href": null,
+    "total": 242002
+  },
+  "genres": [
+    "plunderphonics"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6awzBEyEEwWHOjLox1DkLr",
+  "id": "6awzBEyEEwWHOjLox1DkLr",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04448970e3353ab9b51d1ad5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517404448970e3353ab9b51d1ad5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17804448970e3353ab9b51d1ad5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Girl Talk",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:6awzBEyEEwWHOjLox1DkLr"
+}

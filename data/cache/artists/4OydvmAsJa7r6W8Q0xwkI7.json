@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7"
+  },
+  "followers": {
+    "href": null,
+    "total": 1698
+  },
+  "genres": [
+    "neo soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4OydvmAsJa7r6W8Q0xwkI7",
+  "id": "4OydvmAsJa7r6W8Q0xwkI7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2739632d791435b6c776d19f16c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0282c4bbaa48bedb7ffe48df4d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048519632d791435b6c776d19f16c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Posdnuos",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:4OydvmAsJa7r6W8Q0xwkI7"
+}

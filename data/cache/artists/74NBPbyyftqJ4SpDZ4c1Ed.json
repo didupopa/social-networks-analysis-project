@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+  },
+  "followers": {
+    "href": null,
+    "total": 284874
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/74NBPbyyftqJ4SpDZ4c1Ed",
+  "id": "74NBPbyyftqJ4SpDZ4c1Ed",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb242487be0f98dca621dac8c8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174242487be0f98dca621dac8c8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178242487be0f98dca621dac8c8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tom Morello",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:74NBPbyyftqJ4SpDZ4c1Ed"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78tedfROfgdhgLAmLpPB0E"
+  },
+  "followers": {
+    "href": null,
+    "total": 1086
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/78tedfROfgdhgLAmLpPB0E",
+  "id": "78tedfROfgdhgLAmLpPB0E",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d85a4cebf66ee7069e34f4d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e022d85a4cebf66ee7069e34f4d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048512d85a4cebf66ee7069e34f4d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Thugga",
+  "popularity": 31,
+  "type": "artist",
+  "uri": "spotify:artist:78tedfROfgdhgLAmLpPB0E"
+}

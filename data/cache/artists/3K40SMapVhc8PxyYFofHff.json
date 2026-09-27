@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
+  },
+  "followers": {
+    "href": null,
+    "total": 159773
+  },
+  "genres": [
+    "cloud rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3K40SMapVhc8PxyYFofHff",
+  "id": "3K40SMapVhc8PxyYFofHff",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb666dee68f0521b62f5cf60f4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174666dee68f0521b62f5cf60f4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178666dee68f0521b62f5cf60f4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Corbin",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:3K40SMapVhc8PxyYFofHff"
+}

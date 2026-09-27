@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+  },
+  "followers": {
+    "href": null,
+    "total": 5342845
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0KPX4Ucy9dk82uj4GpKesn",
+  "id": "0KPX4Ucy9dk82uj4GpKesn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74812095163769ef3b9d9df3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517474812095163769ef3b9d9df3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17874812095163769ef3b9d9df3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dalex",
+  "popularity": 77,
+  "type": "artist",
+  "uri": "spotify:artist:0KPX4Ucy9dk82uj4GpKesn"
+}

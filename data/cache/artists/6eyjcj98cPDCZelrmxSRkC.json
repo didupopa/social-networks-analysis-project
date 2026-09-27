@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6eyjcj98cPDCZelrmxSRkC"
+  },
+  "followers": {
+    "href": null,
+    "total": 1040
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6eyjcj98cPDCZelrmxSRkC",
+  "id": "6eyjcj98cPDCZelrmxSRkC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec666f223684bfbf47814d83",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec666f223684bfbf47814d83",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ec666f223684bfbf47814d83",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "DMC",
+  "popularity": 14,
+  "type": "artist",
+  "uri": "spotify:artist:6eyjcj98cPDCZelrmxSRkC"
+}

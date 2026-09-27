@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+  },
+  "followers": {
+    "href": null,
+    "total": 8901747
+  },
+  "genres": [
+    "tropical house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+  "id": "23fqKkggKUBHNkbKtXEls4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e5ea1aa1404629c12ad86658",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kygo",
+  "popularity": 80,
+  "type": "artist",
+  "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+}

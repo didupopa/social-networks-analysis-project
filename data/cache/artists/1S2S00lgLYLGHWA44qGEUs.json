@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+  },
+  "followers": {
+    "href": null,
+    "total": 2513596
+  },
+  "genres": [
+    "j-pop",
+    "anime"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1S2S00lgLYLGHWA44qGEUs",
+  "id": "1S2S00lgLYLGHWA44qGEUs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8f478bba7af946e0754a207",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a8f478bba7af946e0754a207",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a8f478bba7af946e0754a207",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Gen Hoshino",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:1S2S00lgLYLGHWA44qGEUs"
+}

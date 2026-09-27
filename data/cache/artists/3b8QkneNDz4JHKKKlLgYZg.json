@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+  },
+  "followers": {
+    "href": null,
+    "total": 5826334
+  },
+  "genres": [
+    "country",
+    "pop country",
+    "acoustic country"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+  "id": "3b8QkneNDz4JHKKKlLgYZg",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb204225cb048b9e4ecd81290c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174204225cb048b9e4ecd81290c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178204225cb048b9e4ecd81290c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Florida Georgia Line",
+  "popularity": 75,
+  "type": "artist",
+  "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+  },
+  "followers": {
+    "href": null,
+    "total": 1204368
+  },
+  "genres": [
+    "yacht rock",
+    "soft rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5gxynDEKwNDgxGJmJjZyte",
+  "id": "5gxynDEKwNDgxGJmJjZyte",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00468f77cbf98e01cfd1be08",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517400468f77cbf98e01cfd1be08",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17800468f77cbf98e01cfd1be08",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Steve Winwood",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:5gxynDEKwNDgxGJmJjZyte"
+}

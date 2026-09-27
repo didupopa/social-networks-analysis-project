@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap"
+  },
+  "followers": {
+    "href": null,
+    "total": 41360
+  },
+  "genres": [
+    "rap metal",
+    "rap rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7eVbT3G1ggf2sz6s7ZV0Ap",
+  "id": "7eVbT3G1ggf2sz6s7ZV0Ap",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273eeb5d940509f3320ca16c601",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02eeb5d940509f3320ca16c601",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851eeb5d940509f3320ca16c601",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "X-Ecutioners",
+  "popularity": 39,
+  "type": "artist",
+  "uri": "spotify:artist:7eVbT3G1ggf2sz6s7ZV0Ap"
+}

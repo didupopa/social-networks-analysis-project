@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+  },
+  "followers": {
+    "href": null,
+    "total": 2088763
+  },
+  "genres": [
+    "afrobeats",
+    "afrobeat",
+    "afropop",
+    "azonto",
+    "hiplife",
+    "afropiano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6IhG3Yxm3UW98jhyBvrIut",
+  "id": "6IhG3Yxm3UW98jhyBvrIut",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdfa92a97f9da3258e7776e9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bdfa92a97f9da3258e7776e9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bdfa92a97f9da3258e7776e9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tekno",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:6IhG3Yxm3UW98jhyBvrIut"
+}

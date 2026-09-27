@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY"
+  },
+  "followers": {
+    "href": null,
+    "total": 5932
+  },
+  "genres": [
+    "big beat"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1fixTBy0r22vTuK2sQNAqY",
+  "id": "1fixTBy0r22vTuK2sQNAqY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0e3c5b30a099871776c10f9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c0e3c5b30a099871776c10f9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c0e3c5b30a099871776c10f9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jacknife Lee",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:1fixTBy0r22vTuK2sQNAqY"
+}

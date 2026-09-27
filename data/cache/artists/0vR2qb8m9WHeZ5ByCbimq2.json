@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+  },
+  "followers": {
+    "href": null,
+    "total": 10331679
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0vR2qb8m9WHeZ5ByCbimq2",
+  "id": "0vR2qb8m9WHeZ5ByCbimq2",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6797a9790d420f56e308f42",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e6797a9790d420f56e308f42",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e6797a9790d420f56e308f42",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Reik",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:0vR2qb8m9WHeZ5ByCbimq2"
+}

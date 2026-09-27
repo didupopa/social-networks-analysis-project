@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+  },
+  "followers": {
+    "href": null,
+    "total": 3521125
+  },
+  "genres": [
+    "rock en español",
+    "latin rock",
+    "argentine rock",
+    "latin alternative",
+    "ska",
+    "mexican ska",
+    "mexican rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+  "id": "2FS22haX3FYbyOsUAkuYqZ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacc7c838bf4dddcc86106b0f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174acc7c838bf4dddcc86106b0f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178acc7c838bf4dddcc86106b0f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Los Fabulosos Cadillacs",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
+}

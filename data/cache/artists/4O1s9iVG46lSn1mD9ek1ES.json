@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+  },
+  "followers": {
+    "href": null,
+    "total": 27149
+  },
+  "genres": [
+    "acid house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4O1s9iVG46lSn1mD9ek1ES",
+  "id": "4O1s9iVG46lSn1mD9ek1ES",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60b1a6e9bf9a30e28851ee68",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517460b1a6e9bf9a30e28851ee68",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17860b1a6e9bf9a30e28851ee68",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "K-Klass",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:4O1s9iVG46lSn1mD9ek1ES"
+}

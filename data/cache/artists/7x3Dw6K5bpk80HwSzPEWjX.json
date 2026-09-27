@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7x3Dw6K5bpk80HwSzPEWjX"
+  },
+  "followers": {
+    "href": null,
+    "total": 8082
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7x3Dw6K5bpk80HwSzPEWjX",
+  "id": "7x3Dw6K5bpk80HwSzPEWjX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb64414fce27fd11d0de20e97",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b64414fce27fd11d0de20e97",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b64414fce27fd11d0de20e97",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mood Killer",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:7x3Dw6K5bpk80HwSzPEWjX"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LOHocDfDRSAznhI11LhJ5"
+  },
+  "followers": {
+    "href": null,
+    "total": 7001
+  },
+  "genres": [
+    "nu disco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7LOHocDfDRSAznhI11LhJ5",
+  "id": "7LOHocDfDRSAznhI11LhJ5",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22aa7e12b2ee2cc1a675b61c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517422aa7e12b2ee2cc1a675b61c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17822aa7e12b2ee2cc1a675b61c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Plastic Plates",
+  "popularity": 26,
+  "type": "artist",
+  "uri": "spotify:artist:7LOHocDfDRSAznhI11LhJ5"
+}

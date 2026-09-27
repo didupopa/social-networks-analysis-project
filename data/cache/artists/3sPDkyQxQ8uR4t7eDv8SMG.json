@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sPDkyQxQ8uR4t7eDv8SMG"
+  },
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3sPDkyQxQ8uR4t7eDv8SMG",
+  "id": "3sPDkyQxQ8uR4t7eDv8SMG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e3c0fd4c45c86acb578a991",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e026e3c0fd4c45c86acb578a991",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048516e3c0fd4c45c86acb578a991",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Champ Medici",
+  "popularity": 4,
+  "type": "artist",
+  "uri": "spotify:artist:3sPDkyQxQ8uR4t7eDv8SMG"
+}

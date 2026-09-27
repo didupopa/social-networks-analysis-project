@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AAuaueEinwUKSWlxvNTDQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 4381
+  },
+  "genres": [
+    "hard house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2AAuaueEinwUKSWlxvNTDQ",
+  "id": "2AAuaueEinwUKSWlxvNTDQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273456a923e0069fecabdae4b86",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02271e1240df29ef1fb2d1f646",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851271e1240df29ef1fb2d1f646",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Jojo",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:2AAuaueEinwUKSWlxvNTDQ"
+}

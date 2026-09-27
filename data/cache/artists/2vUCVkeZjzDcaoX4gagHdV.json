@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+  },
+  "followers": {
+    "href": null,
+    "total": 170453
+  },
+  "genres": [
+    "bass house",
+    "big room",
+    "future house",
+    "edm",
+    "electro house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2vUCVkeZjzDcaoX4gagHdV",
+  "id": "2vUCVkeZjzDcaoX4gagHdV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec2522a224efe4a4f9099f95",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ec2522a224efe4a4f9099f95",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ec2522a224efe4a4f9099f95",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Julian Jordan",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:2vUCVkeZjzDcaoX4gagHdV"
+}

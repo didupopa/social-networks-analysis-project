@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT"
+  },
+  "followers": {
+    "href": null,
+    "total": 80131
+  },
+  "genres": [
+    "latin hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2bMCqLC25iBaqp2gDYEgDT",
+  "id": "2bMCqLC25iBaqp2gDYEgDT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb416c4ba115f4cc98b0ef600f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174416c4ba115f4cc98b0ef600f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178416c4ba115f4cc98b0ef600f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Danay Suárez",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:2bMCqLC25iBaqp2gDYEgDT"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+  },
+  "followers": {
+    "href": null,
+    "total": 5616
+  },
+  "genres": [
+    "uk funky"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4XYh8yz79ILkPPbUSi9S20",
+  "id": "4XYh8yz79ILkPPbUSi9S20",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1d1bc0f6ec99b7014bcee51",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e1d1bc0f6ec99b7014bcee51",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e1d1bc0f6ec99b7014bcee51",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "T.Williams",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:4XYh8yz79ILkPPbUSi9S20"
+}

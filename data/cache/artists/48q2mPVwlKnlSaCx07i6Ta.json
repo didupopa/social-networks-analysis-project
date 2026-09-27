@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48q2mPVwlKnlSaCx07i6Ta"
+  },
+  "followers": {
+    "href": null,
+    "total": 341583
+  },
+  "genres": [
+    "dubstep",
+    "dub",
+    "drumstep",
+    "riddim",
+    "deathstep"
+  ],
+  "href": "https://api.spotify.com/v1/artists/48q2mPVwlKnlSaCx07i6Ta",
+  "id": "48q2mPVwlKnlSaCx07i6Ta",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfee6ea6d0238ac2623b4d84",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dfee6ea6d0238ac2623b4d84",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dfee6ea6d0238ac2623b4d84",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Datsik",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:48q2mPVwlKnlSaCx07i6Ta"
+}

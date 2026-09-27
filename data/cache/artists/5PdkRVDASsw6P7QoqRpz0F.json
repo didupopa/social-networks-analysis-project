@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+  },
+  "followers": {
+    "href": null,
+    "total": 241657
+  },
+  "genres": [
+    "moombahton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5PdkRVDASsw6P7QoqRpz0F",
+  "id": "5PdkRVDASsw6P7QoqRpz0F",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc3546e01a9f40f873aea092",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bc3546e01a9f40f873aea092",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bc3546e01a9f40f873aea092",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Salvatore Ganacci",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:5PdkRVDASsw6P7QoqRpz0F"
+}

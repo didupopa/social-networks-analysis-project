@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54hDadC1fcpdWiJ7Ha9cvQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 13739
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/54hDadC1fcpdWiJ7Ha9cvQ",
+  "id": "54hDadC1fcpdWiJ7Ha9cvQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737e5f739ed6137e20138efef6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027e5f739ed6137e20138efef6",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517e5f739ed6137e20138efef6",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Brandon Hines",
+  "popularity": 39,
+  "type": "artist",
+  "uri": "spotify:artist:54hDadC1fcpdWiJ7Ha9cvQ"
+}

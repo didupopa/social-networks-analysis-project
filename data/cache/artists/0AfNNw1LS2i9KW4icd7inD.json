@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+  },
+  "followers": {
+    "href": null,
+    "total": 45194
+  },
+  "genres": [
+    "french house",
+    "nu disco",
+    "funky house",
+    "disco house",
+    "synthwave"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0AfNNw1LS2i9KW4icd7inD",
+  "id": "0AfNNw1LS2i9KW4icd7inD",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb903baf326cf61a683b31cdee",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174903baf326cf61a683b31cdee",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178903baf326cf61a683b31cdee",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Fred Falke",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:0AfNNw1LS2i9KW4icd7inD"
+}

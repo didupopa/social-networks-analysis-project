@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NqaT8PRYtEKEuVYm2w2YS"
+  },
+  "followers": {
+    "href": null,
+    "total": 457
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5NqaT8PRYtEKEuVYm2w2YS",
+  "id": "5NqaT8PRYtEKEuVYm2w2YS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3b117c89710f5a2c0d9d914",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3b117c89710f5a2c0d9d914",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a3b117c89710f5a2c0d9d914",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Refused",
+  "popularity": 3,
+  "type": "artist",
+  "uri": "spotify:artist:5NqaT8PRYtEKEuVYm2w2YS"
+}

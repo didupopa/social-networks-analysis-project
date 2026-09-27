@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/034IOMKjllnYpbg9gqmavp"
+  },
+  "followers": {
+    "href": null,
+    "total": 15087
+  },
+  "genres": [
+    "manele"
+  ],
+  "href": "https://api.spotify.com/v1/artists/034IOMKjllnYpbg9gqmavp",
+  "id": "034IOMKjllnYpbg9gqmavp",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a198fdfe21ad2c187fdb370a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027c8bfa1276b5c20fc012b046",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517c8bfa1276b5c20fc012b046",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Minodora",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:034IOMKjllnYpbg9gqmavp"
+}

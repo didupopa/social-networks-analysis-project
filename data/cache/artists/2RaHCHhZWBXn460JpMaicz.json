@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RaHCHhZWBXn460JpMaicz"
+  },
+  "followers": {
+    "href": null,
+    "total": 30812
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2RaHCHhZWBXn460JpMaicz",
+  "id": "2RaHCHhZWBXn460JpMaicz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737685012d7ae143842bf52c7a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027685012d7ae143842bf52c7a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517685012d7ae143842bf52c7a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Heitor Pereira",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:2RaHCHhZWBXn460JpMaicz"
+}

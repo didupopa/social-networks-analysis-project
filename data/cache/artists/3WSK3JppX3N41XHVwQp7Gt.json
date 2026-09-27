@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+  },
+  "followers": {
+    "href": null,
+    "total": 79201
+  },
+  "genres": [
+    "slap house",
+    "deep house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3WSK3JppX3N41XHVwQp7Gt",
+  "id": "3WSK3JppX3N41XHVwQp7Gt",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf66b56fce6b7710311903216",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f66b56fce6b7710311903216",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f66b56fce6b7710311903216",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Steve Void",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:3WSK3JppX3N41XHVwQp7Gt"
+}

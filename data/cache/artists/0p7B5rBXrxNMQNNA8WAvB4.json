@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0p7B5rBXrxNMQNNA8WAvB4"
+  },
+  "followers": {
+    "href": null,
+    "total": 632
+  },
+  "genres": [
+    "g-funk",
+    "mexican hip hop",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0p7B5rBXrxNMQNNA8WAvB4",
+  "id": "0p7B5rBXrxNMQNNA8WAvB4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273464fa1024b34ae431fab47a1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02464fa1024b34ae431fab47a1",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851464fa1024b34ae431fab47a1",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Kali's Finest",
+  "popularity": 4,
+  "type": "artist",
+  "uri": "spotify:artist:0p7B5rBXrxNMQNNA8WAvB4"
+}

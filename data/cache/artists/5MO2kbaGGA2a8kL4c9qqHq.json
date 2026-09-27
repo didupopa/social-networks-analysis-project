@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+  },
+  "followers": {
+    "href": null,
+    "total": 264571
+  },
+  "genres": [
+    "trance"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5MO2kbaGGA2a8kL4c9qqHq",
+  "id": "5MO2kbaGGA2a8kL4c9qqHq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcc8d87d5dd4dbed3dd0c95e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dcc8d87d5dd4dbed3dd0c95e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dcc8d87d5dd4dbed3dd0c95e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Paul Oakenfold",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:5MO2kbaGGA2a8kL4c9qqHq"
+}

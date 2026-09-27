@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+  },
+  "followers": {
+    "href": null,
+    "total": 247969
+  },
+  "genres": [
+    "reggae",
+    "lovers rock",
+    "roots reggae",
+    "german hip hop",
+    "ragga"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3Vszg64mczF1dWEcW2dU5W",
+  "id": "3Vszg64mczF1dWEcW2dU5W",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61c7b8fb0122819e7923db3b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517461c7b8fb0122819e7923db3b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17861c7b8fb0122819e7923db3b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Luciano",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:3Vszg64mczF1dWEcW2dU5W"
+}

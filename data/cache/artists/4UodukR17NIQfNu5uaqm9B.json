@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+  },
+  "followers": {
+    "href": null,
+    "total": 243496
+  },
+  "genres": [
+    "alternative r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4UodukR17NIQfNu5uaqm9B",
+  "id": "4UodukR17NIQfNu5uaqm9B",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56fa3ca08b34ab710c18cde1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517456fa3ca08b34ab710c18cde1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17856fa3ca08b34ab710c18cde1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jamila Woods",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:4UodukR17NIQfNu5uaqm9B"
+}

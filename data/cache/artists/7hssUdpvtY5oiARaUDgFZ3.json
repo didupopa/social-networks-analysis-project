@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+  },
+  "followers": {
+    "href": null,
+    "total": 206991
+  },
+  "genres": [
+    "norwegian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7hssUdpvtY5oiARaUDgFZ3",
+  "id": "7hssUdpvtY5oiARaUDgFZ3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf70e587a913f925b2ab5de6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174af70e587a913f925b2ab5de6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178af70e587a913f925b2ab5de6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ina Wroldsen",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:7hssUdpvtY5oiARaUDgFZ3"
+}

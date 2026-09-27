@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hGKekI3zRPjDmzUCWXdCR"
+  },
+  "followers": {
+    "href": null,
+    "total": 11970
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6hGKekI3zRPjDmzUCWXdCR",
+  "id": "6hGKekI3zRPjDmzUCWXdCR",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d36f5c1a5257758c54bc0bf9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d36f5c1a5257758c54bc0bf9",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d36f5c1a5257758c54bc0bf9",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Claude Kelly",
+  "popularity": 8,
+  "type": "artist",
+  "uri": "spotify:artist:6hGKekI3zRPjDmzUCWXdCR"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+  },
+  "followers": {
+    "href": null,
+    "total": 9991215
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1JbemQ1fPt2YmSLjAFhPBv",
+  "id": "1JbemQ1fPt2YmSLjAFhPBv",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfa5421bfe01fa7eea6308fe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cfa5421bfe01fa7eea6308fe",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cfa5421bfe01fa7eea6308fe",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Chayanne",
+  "popularity": 75,
+  "type": "artist",
+  "uri": "spotify:artist:1JbemQ1fPt2YmSLjAFhPBv"
+}

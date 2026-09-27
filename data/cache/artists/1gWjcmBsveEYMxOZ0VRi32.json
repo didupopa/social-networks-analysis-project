@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+  },
+  "followers": {
+    "href": null,
+    "total": 851003
+  },
+  "genres": [
+    "dancehall",
+    "afrobeats",
+    "reggae"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+  "id": "1gWjcmBsveEYMxOZ0VRi32",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40124bc64f07815a292c9f3f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517440124bc64f07815a292c9f3f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17840124bc64f07815a292c9f3f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Original Koffee",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+}

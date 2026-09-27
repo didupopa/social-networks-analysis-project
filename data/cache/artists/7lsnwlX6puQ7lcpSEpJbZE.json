@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+  },
+  "followers": {
+    "href": null,
+    "total": 182539
+  },
+  "genres": [
+    "alternative r&b",
+    "art pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7lsnwlX6puQ7lcpSEpJbZE",
+  "id": "7lsnwlX6puQ7lcpSEpJbZE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3119f7853127e9ca46bc38b3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743119f7853127e9ca46bc38b3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783119f7853127e9ca46bc38b3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kilo Kish",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:7lsnwlX6puQ7lcpSEpJbZE"
+}

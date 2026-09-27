@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj"
+  },
+  "followers": {
+    "href": null,
+    "total": 176651
+  },
+  "genres": [
+    "baroque pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4Q82S0VzF8qlCb4PnSDurj",
+  "id": "4Q82S0VzF8qlCb4PnSDurj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225",
+      "height": 1488,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/2eab552c76b52833a8fc5bd84a89986f93dfb313",
+      "height": 953,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/6dd5f92272c4c2f7c5b0a8f68b8cb576c461ea30",
+      "height": 298,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/1e02cf4760e5222164e0f088bb1f7f32768c28cc",
+      "height": 95,
+      "width": 64
+    }
+  ],
+  "name": "Brian Wilson",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:4Q82S0VzF8qlCb4PnSDurj"
+}

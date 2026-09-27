@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+  },
+  "followers": {
+    "href": null,
+    "total": 1342307
+  },
+  "genres": [
+    "afrobeats",
+    "afrobeat",
+    "azonto",
+    "soca",
+    "afropop",
+    "dancehall",
+    "hiplife"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7gEgjd9W1P1iAD9FbubrqC",
+  "id": "7gEgjd9W1P1iAD9FbubrqC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5f6d8bb2158c8b47de522c9a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745f6d8bb2158c8b47de522c9a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785f6d8bb2158c8b47de522c9a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Timaya",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:7gEgjd9W1P1iAD9FbubrqC"
+}

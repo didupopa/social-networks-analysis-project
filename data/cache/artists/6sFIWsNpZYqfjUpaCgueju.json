@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+  },
+  "followers": {
+    "href": null,
+    "total": 5455144
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+  "id": "6sFIWsNpZYqfjUpaCgueju",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55e3a8d4fe7f0053fffca258",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517455e3a8d4fe7f0053fffca258",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17855e3a8d4fe7f0053fffca258",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Carly Rae Jepsen",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+  },
+  "followers": {
+    "href": null,
+    "total": 43171
+  },
+  "genres": [
+    "dubstep",
+    "riddim",
+    "bass music"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+  "id": "4LLYqe8ogaK9wC1xHlvR5S",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64edd9475a42f3f9f9ce9aee",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517464edd9475a42f3f9f9ce9aee",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17864edd9475a42f3f9f9ce9aee",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "SIPPY",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+}

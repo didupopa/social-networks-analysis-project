@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EIgKOrzyOQRB3l43EfymN"
+  },
+  "followers": {
+    "href": null,
+    "total": 279028
+  },
+  "genres": [
+    "quiet storm",
+    "new jack swing"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1EIgKOrzyOQRB3l43EfymN",
+  "id": "1EIgKOrzyOQRB3l43EfymN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fda504a6d7b9e58ea42983a948eec3ce66ea5f39",
+      "height": 1012,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/e24d6bc38c68e6232e4b2c87a4b173f3bb84b231",
+      "height": 648,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/a0e09177d23844d642c99b08d45b7b9ef924cd85",
+      "height": 202,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/81be5efe663e489575a730b20ecde2b3cad55c51",
+      "height": 65,
+      "width": 64
+    }
+  ],
+  "name": "Angela Winbush",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:1EIgKOrzyOQRB3l43EfymN"
+}

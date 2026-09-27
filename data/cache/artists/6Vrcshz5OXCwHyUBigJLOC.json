@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Vrcshz5OXCwHyUBigJLOC"
+  },
+  "followers": {
+    "href": null,
+    "total": 444
+  },
+  "genres": [
+    "swing music",
+    "big band"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6Vrcshz5OXCwHyUBigJLOC",
+  "id": "6Vrcshz5OXCwHyUBigJLOC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27302d6c75d27ef0f4eac0e2a98",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0202d6c75d27ef0f4eac0e2a98",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485102d6c75d27ef0f4eac0e2a98",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Rupert Everett",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:6Vrcshz5OXCwHyUBigJLOC"
+}

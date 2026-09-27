@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UCikvsvgmhKmDeYHSWoFF"
+  },
+  "followers": {
+    "href": null,
+    "total": 554
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1UCikvsvgmhKmDeYHSWoFF",
+  "id": "1UCikvsvgmhKmDeYHSWoFF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273f202350c0f7cfca706bfbbcb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02f202350c0f7cfca706bfbbcb",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851f202350c0f7cfca706bfbbcb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Anthony Acid",
+  "popularity": 13,
+  "type": "artist",
+  "uri": "spotify:artist:1UCikvsvgmhKmDeYHSWoFF"
+}

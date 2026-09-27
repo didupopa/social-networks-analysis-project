@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+  },
+  "followers": {
+    "href": null,
+    "total": 462612
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6LHsnRBUYhFyt01PdKXAF5",
+  "id": "6LHsnRBUYhFyt01PdKXAF5",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf9efd924a1190400c641905",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bf9efd924a1190400c641905",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bf9efd924a1190400c641905",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bob Moses",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:6LHsnRBUYhFyt01PdKXAF5"
+}

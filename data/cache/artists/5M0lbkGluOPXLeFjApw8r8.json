@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+  },
+  "followers": {
+    "href": null,
+    "total": 945145
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5M0lbkGluOPXLeFjApw8r8",
+  "id": "5M0lbkGluOPXLeFjApw8r8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8e6dfe20c0ed65e854658fb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d8e6dfe20c0ed65e854658fb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d8e6dfe20c0ed65e854658fb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "DRAM",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:5M0lbkGluOPXLeFjApw8r8"
+}

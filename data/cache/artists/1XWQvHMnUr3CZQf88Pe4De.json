@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XWQvHMnUr3CZQf88Pe4De"
+  },
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1XWQvHMnUr3CZQf88Pe4De",
+  "id": "1XWQvHMnUr3CZQf88Pe4De",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273488983b24e70b954176cc302",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02488983b24e70b954176cc302",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851488983b24e70b954176cc302",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Notty",
+  "popularity": 15,
+  "type": "artist",
+  "uri": "spotify:artist:1XWQvHMnUr3CZQf88Pe4De"
+}

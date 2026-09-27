@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+  },
+  "followers": {
+    "href": null,
+    "total": 683320
+  },
+  "genres": [
+    "neo soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/60ciIY5MouLc2Y9n34DJdA",
+  "id": "60ciIY5MouLc2Y9n34DJdA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41c84df77f133d8212713443",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517441c84df77f133d8212713443",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17841c84df77f133d8212713443",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ledisi",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:60ciIY5MouLc2Y9n34DJdA"
+}

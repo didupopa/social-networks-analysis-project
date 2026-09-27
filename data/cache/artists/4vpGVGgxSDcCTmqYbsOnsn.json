@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+  },
+  "followers": {
+    "href": null,
+    "total": 28470
+  },
+  "genres": [
+    "dubstep",
+    "dub"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4vpGVGgxSDcCTmqYbsOnsn",
+  "id": "4vpGVGgxSDcCTmqYbsOnsn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cb4acd2212654689d3039df24",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22b4acd2212654689d3039df24",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3b4acd2212654689d3039df24",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74b4acd2212654689d3039df24",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Amber Coffman",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:4vpGVGgxSDcCTmqYbsOnsn"
+}

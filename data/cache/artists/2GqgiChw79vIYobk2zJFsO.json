@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO"
+  },
+  "followers": {
+    "href": null,
+    "total": 61767
+  },
+  "genres": [
+    "east coast hip hop",
+    "old school hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2GqgiChw79vIYobk2zJFsO",
+  "id": "2GqgiChw79vIYobk2zJFsO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273149e6f6231c9ffe7f4f4158b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02149e6f6231c9ffe7f4f4158b",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851149e6f6231c9ffe7f4f4158b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Noreaga",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:2GqgiChw79vIYobk2zJFsO"
+}

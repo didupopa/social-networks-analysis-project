@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+  },
+  "followers": {
+    "href": null,
+    "total": 357874
+  },
+  "genres": [
+    "disco house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+  "id": "3cQA9WH8liZfeja1DxcDYE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb22d49b871ccbfa4b31331e8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b22d49b871ccbfa4b31331e8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b22d49b871ccbfa4b31331e8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Armand Van Helden",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+}

@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 251857
+  },
+  "genres": [
+    "soca",
+    "dancehall",
+    "parang",
+    "calypso"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6wxP7SSzfvi21Cnl8JicdQ",
+  "id": "6wxP7SSzfvi21Cnl8JicdQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08f33b7f43d16a0da8f76ca4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517408f33b7f43d16a0da8f76ca4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17808f33b7f43d16a0da8f76ca4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Machel Montano",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:6wxP7SSzfvi21Cnl8JicdQ"
+}

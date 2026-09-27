@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
+  },
+  "followers": {
+    "href": null,
+    "total": 77170
+  },
+  "genres": [
+    "latin alternative"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1An0HCtDktvCBDdFEu7HC0",
+  "id": "1An0HCtDktvCBDdFEu7HC0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5380d679e8f2379057f5efd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d5380d679e8f2379057f5efd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d5380d679e8f2379057f5efd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ozomatli",
+  "popularity": 41,
+  "type": "artist",
+  "uri": "spotify:artist:1An0HCtDktvCBDdFEu7HC0"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79ij3xZzXmv5ZtpaMly2Qq"
+  },
+  "followers": {
+    "href": null,
+    "total": 513
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/79ij3xZzXmv5ZtpaMly2Qq",
+  "id": "79ij3xZzXmv5ZtpaMly2Qq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27384d402e5934ca81ab8444111",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0284d402e5934ca81ab8444111",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485184d402e5934ca81ab8444111",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Different Gear",
+  "popularity": 18,
+  "type": "artist",
+  "uri": "spotify:artist:79ij3xZzXmv5ZtpaMly2Qq"
+}

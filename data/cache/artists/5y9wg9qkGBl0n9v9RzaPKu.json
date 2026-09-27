@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+  },
+  "followers": {
+    "href": null,
+    "total": 791372
+  },
+  "genres": [
+    "german hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5y9wg9qkGBl0n9v9RzaPKu",
+  "id": "5y9wg9qkGBl0n9v9RzaPKu",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38788f9e0baa8cd8dc33b43d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517438788f9e0baa8cd8dc33b43d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17838788f9e0baa8cd8dc33b43d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "CAPO",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:5y9wg9qkGBl0n9v9RzaPKu"
+}

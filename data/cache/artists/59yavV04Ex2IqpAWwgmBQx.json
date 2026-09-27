@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59yavV04Ex2IqpAWwgmBQx"
+  },
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/59yavV04Ex2IqpAWwgmBQx",
+  "id": "59yavV04Ex2IqpAWwgmBQx",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2732af6e6095ce14f344c184a81",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e022af6e6095ce14f344c184a81",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048512af6e6095ce14f344c184a81",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "SikSense",
+  "popularity": 1,
+  "type": "artist",
+  "uri": "spotify:artist:59yavV04Ex2IqpAWwgmBQx"
+}

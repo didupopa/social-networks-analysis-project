@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
+  },
+  "followers": {
+    "href": null,
+    "total": 908242
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6z1cicLMt9XArxN10q7m8a",
+  "id": "6z1cicLMt9XArxN10q7m8a",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34ef3a74b9f936f834a531fc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517434ef3a74b9f936f834a531fc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17834ef3a74b9f936f834a531fc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Travis Porter",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:6z1cicLMt9XArxN10q7m8a"
+}

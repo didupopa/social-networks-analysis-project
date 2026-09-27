@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+  },
+  "followers": {
+    "href": null,
+    "total": 21501
+  },
+  "genres": [
+    "k-rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3UV49ih8eDI8jZ4SdSVeqi",
+  "id": "3UV49ih8eDI8jZ4SdSVeqi",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2732ab169ff3939bb4ba2b491e5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e022ab169ff3939bb4ba2b491e5",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048512ab169ff3939bb4ba2b491e5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "YDG",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:3UV49ih8eDI8jZ4SdSVeqi"
+}

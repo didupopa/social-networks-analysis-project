@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l"
+  },
+  "followers": {
+    "href": null,
+    "total": 20279
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7cAlvWK5rgMmJ37j7woN8l",
+  "id": "7cAlvWK5rgMmJ37j7woN8l",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb740b47b80f1f0e8c1b9dff32",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174740b47b80f1f0e8c1b9dff32",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178740b47b80f1f0e8c1b9dff32",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Christian Rich",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:7cAlvWK5rgMmJ37j7woN8l"
+}

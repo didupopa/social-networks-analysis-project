@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+  },
+  "followers": {
+    "href": null,
+    "total": 1576067
+  },
+  "genres": [
+    "neo soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/336vr2M3Va0FjyvB55lJEd",
+  "id": "336vr2M3Va0FjyvB55lJEd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22265e70cde8652918e1ac32bc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3265e70cde8652918e1ac32bc",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74265e70cde8652918e1ac32bc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "D'Angelo",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+}

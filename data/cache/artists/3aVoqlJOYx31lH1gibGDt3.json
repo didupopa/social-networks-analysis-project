@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+  },
+  "followers": {
+    "href": null,
+    "total": 1318806
+  },
+  "genres": [
+    "quiet storm",
+    "new jack swing",
+    "r&b",
+    "contemporary r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3aVoqlJOYx31lH1gibGDt3",
+  "id": "3aVoqlJOYx31lH1gibGDt3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9926d5cdd11ceb280a73a583",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749926d5cdd11ceb280a73a583",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789926d5cdd11ceb280a73a583",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Babyface",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:3aVoqlJOYx31lH1gibGDt3"
+}

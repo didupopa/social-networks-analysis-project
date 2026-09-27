@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1"
+  },
+  "followers": {
+    "href": null,
+    "total": 3529
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0js3wKXyi7RL11sfOykRt1",
+  "id": "0js3wKXyi7RL11sfOykRt1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27357354d0cf206b5e890a45b15",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0257354d0cf206b5e890a45b15",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485157354d0cf206b5e890a45b15",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "dj friz",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:0js3wKXyi7RL11sfOykRt1"
+}

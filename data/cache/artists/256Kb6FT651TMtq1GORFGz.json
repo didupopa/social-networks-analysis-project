@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/256Kb6FT651TMtq1GORFGz"
+  },
+  "followers": {
+    "href": null,
+    "total": 184
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/256Kb6FT651TMtq1GORFGz",
+  "id": "256Kb6FT651TMtq1GORFGz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc00660e28020d4989589951",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc00660e28020d4989589951",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851dc00660e28020d4989589951",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lucci Lou",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:256Kb6FT651TMtq1GORFGz"
+}

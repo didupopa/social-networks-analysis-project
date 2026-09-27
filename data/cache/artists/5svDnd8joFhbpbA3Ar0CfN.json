@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+  },
+  "followers": {
+    "href": null,
+    "total": 149356
+  },
+  "genres": [
+    "big beat",
+    "score",
+    "soundtrack"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5svDnd8joFhbpbA3Ar0CfN",
+  "id": "5svDnd8joFhbpbA3Ar0CfN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/40d50d5b2574beca6795f74cf1cae1bdaadab8b4",
+      "height": 1086,
+      "width": 799
+    },
+    {
+      "url": "https://i.scdn.co/image/5d563bce6d03fc92be3e4fbb4dbb34f7d92d717c",
+      "height": 870,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/fdfdbb0a210a43a2f526afc863587a42fe31ef5c",
+      "height": 272,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/7c4161e4561ca604e7d04d8a7ad33a636754506f",
+      "height": 87,
+      "width": 64
+    }
+  ],
+  "name": "Junkie XL",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:5svDnd8joFhbpbA3Ar0CfN"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5W3S903Re5sRuVbN8nHnpl"
+  },
+  "followers": {
+    "href": null,
+    "total": 1688
+  },
+  "genres": [
+    "qawwali"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5W3S903Re5sRuVbN8nHnpl",
+  "id": "5W3S903Re5sRuVbN8nHnpl",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e62e4159286b8c0da7b3c3f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e022e62e4159286b8c0da7b3c3f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048512e62e4159286b8c0da7b3c3f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Temple Of Sound",
+  "popularity": 7,
+  "type": "artist",
+  "uri": "spotify:artist:5W3S903Re5sRuVbN8nHnpl"
+}

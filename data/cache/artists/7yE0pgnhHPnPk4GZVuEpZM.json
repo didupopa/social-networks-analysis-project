@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM"
+  },
+  "followers": {
+    "href": null,
+    "total": 12673
+  },
+  "genres": [
+    "acid house",
+    "chicago house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7yE0pgnhHPnPk4GZVuEpZM",
+  "id": "7yE0pgnhHPnPk4GZVuEpZM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/acecbed8b5825a0f823f809f98d4c75b1b5852c4",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/a3550b4bbfe6042a6ce44b407696720c859e7fcf",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/7d752fc7c34894c3786bf4201d583196e0d0cb1e",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/065c065f1640fc90f1a98996caaec877f4a89013",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Peter Hook",
+  "popularity": 37,
+  "type": "artist",
+  "uri": "spotify:artist:7yE0pgnhHPnPk4GZVuEpZM"
+}

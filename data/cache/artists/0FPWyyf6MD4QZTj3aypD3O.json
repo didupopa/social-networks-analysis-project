@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O"
+  },
+  "followers": {
+    "href": null,
+    "total": 39056
+  },
+  "genres": [
+    "neo soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0FPWyyf6MD4QZTj3aypD3O",
+  "id": "0FPWyyf6MD4QZTj3aypD3O",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517425be8d51c6a5499a2b0116e8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17825be8d51c6a5499a2b0116e8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "We Are KING",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:0FPWyyf6MD4QZTj3aypD3O"
+}

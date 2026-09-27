@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 444921
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2Rf4X6m0oayCJhaJ5K63GQ",
+  "id": "2Rf4X6m0oayCJhaJ5K63GQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68ccd97acce9bfa0e8c333bc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517468ccd97acce9bfa0e8c333bc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17868ccd97acce9bfa0e8c333bc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Nathan Sykes",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:2Rf4X6m0oayCJhaJ5K63GQ"
+}

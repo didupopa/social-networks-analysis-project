@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF"
+  },
+  "followers": {
+    "href": null,
+    "total": 11446
+  },
+  "genres": [
+    "city pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3e0aTvNjIG93ye2YlL90UF",
+  "id": "3e0aTvNjIG93ye2YlL90UF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbe242da2c0924341e1dc0d6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cbe242da2c0924341e1dc0d6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cbe242da2c0924341e1dc0d6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kim Wan-sun",
+  "popularity": 32,
+  "type": "artist",
+  "uri": "spotify:artist:3e0aTvNjIG93ye2YlL90UF"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0akwFJC217vsXvFRi0Ns8v"
+  },
+  "followers": {
+    "href": null,
+    "total": 6303
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0akwFJC217vsXvFRi0Ns8v",
+  "id": "0akwFJC217vsXvFRi0Ns8v",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b048ddb152f12ea924db80e5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b048ddb152f12ea924db80e5",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b048ddb152f12ea924db80e5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Divino",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:0akwFJC217vsXvFRi0Ns8v"
+}

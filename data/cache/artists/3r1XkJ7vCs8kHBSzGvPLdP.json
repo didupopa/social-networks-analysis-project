@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+  },
+  "followers": {
+    "href": null,
+    "total": 540819
+  },
+  "genres": [
+    "grime",
+    "uk grime"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3r1XkJ7vCs8kHBSzGvPLdP",
+  "id": "3r1XkJ7vCs8kHBSzGvPLdP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd35231e23d5af811b8fdca7a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d35231e23d5af811b8fdca7a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d35231e23d5af811b8fdca7a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "slowthai",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:3r1XkJ7vCs8kHBSzGvPLdP"
+}

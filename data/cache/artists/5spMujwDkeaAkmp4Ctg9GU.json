@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5spMujwDkeaAkmp4Ctg9GU"
+  },
+  "followers": {
+    "href": null,
+    "total": 1477
+  },
+  "genres": [
+    "mexican indie"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5spMujwDkeaAkmp4Ctg9GU",
+  "id": "5spMujwDkeaAkmp4Ctg9GU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d778397e06d10febfcc6416d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d778397e06d10febfcc6416d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d778397e06d10febfcc6416d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Casanova",
+  "popularity": 13,
+  "type": "artist",
+  "uri": "spotify:artist:5spMujwDkeaAkmp4Ctg9GU"
+}

@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq"
+  },
+  "followers": {
+    "href": null,
+    "total": 52805
+  },
+  "genres": [
+    "musicals"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0ExYzTb7raTAfsXPtiI5vq",
+  "id": "0ExYzTb7raTAfsXPtiI5vq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2d69d803799b2c16122e85d77dd612ab75cd7bb8",
+      "height": 1004,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/2d8f1feb5de013b4e7788a2aa90a5f5950e0648b",
+      "height": 643,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/7b809580881536419beb42353f68b4bf7281ef73",
+      "height": 201,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/2f7fdebc9b710ef3ddefec540e01d152bd08068b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Nicole Kidman",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:0ExYzTb7raTAfsXPtiI5vq"
+}

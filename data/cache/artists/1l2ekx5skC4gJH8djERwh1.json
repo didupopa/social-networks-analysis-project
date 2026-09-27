@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+  },
+  "followers": {
+    "href": null,
+    "total": 1883207
+  },
+  "genres": [
+    "future house",
+    "edm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1l2ekx5skC4gJH8djERwh1",
+  "id": "1l2ekx5skC4gJH8djERwh1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2a9f037532cd1f1ce2328872",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051742a9f037532cd1f1ce2328872",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1782a9f037532cd1f1ce2328872",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Don Diablo",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:1l2ekx5skC4gJH8djERwh1"
+}

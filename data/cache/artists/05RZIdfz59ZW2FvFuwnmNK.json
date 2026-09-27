@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+  },
+  "followers": {
+    "href": null,
+    "total": 1994918
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/05RZIdfz59ZW2FvFuwnmNK",
+  "id": "05RZIdfz59ZW2FvFuwnmNK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/802accab666236892f3f3bfb102323d59747b164",
+      "height": 1217,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/3de68d33a1cc5dd51b61ddf68e7471955ba8266c",
+      "height": 779,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/0293e3513adc461370b85850653fea26ccf6fccd",
+      "height": 243,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/63916250cdf1bb6b0727b71c8239e6f890c19b9b",
+      "height": 78,
+      "width": 64
+    }
+  ],
+  "name": "K-Ci & JoJo",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:05RZIdfz59ZW2FvFuwnmNK"
+}

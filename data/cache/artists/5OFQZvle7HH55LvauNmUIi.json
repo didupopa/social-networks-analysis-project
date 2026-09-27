@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
+  },
+  "followers": {
+    "href": null,
+    "total": 98111
+  },
+  "genres": [
+    "k-ballad"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5OFQZvle7HH55LvauNmUIi",
+  "id": "5OFQZvle7HH55LvauNmUIi",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a7b48451bcabfb647bcee1d0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a7b48451bcabfb647bcee1d0",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a7b48451bcabfb647bcee1d0",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Kim Tae Woo",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:5OFQZvle7HH55LvauNmUIi"
+}

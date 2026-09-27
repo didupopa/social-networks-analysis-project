@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BvXBTskD6KTZT5O9EMEHs"
+  },
+  "followers": {
+    "href": null,
+    "total": 1130
+  },
+  "genres": [
+    "acoustic pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3BvXBTskD6KTZT5O9EMEHs",
+  "id": "3BvXBTskD6KTZT5O9EMEHs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65f23da521e54853f7518749",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517465f23da521e54853f7518749",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17865f23da521e54853f7518749",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Arkadi",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:3BvXBTskD6KTZT5O9EMEHs"
+}

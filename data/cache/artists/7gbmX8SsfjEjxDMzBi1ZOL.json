@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+  },
+  "followers": {
+    "href": null,
+    "total": 1851490
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7gbmX8SsfjEjxDMzBi1ZOL",
+  "id": "7gbmX8SsfjEjxDMzBi1ZOL",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40e0e143ddf1854d4e9d02b2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517440e0e143ddf1854d4e9d02b2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17840e0e143ddf1854d4e9d02b2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Joe Jonas",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:7gbmX8SsfjEjxDMzBi1ZOL"
+}

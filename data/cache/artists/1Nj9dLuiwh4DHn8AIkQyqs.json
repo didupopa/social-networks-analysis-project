@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
+  },
+  "followers": {
+    "href": null,
+    "total": 14724
+  },
+  "genres": [
+    "retro pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1Nj9dLuiwh4DHn8AIkQyqs",
+  "id": "1Nj9dLuiwh4DHn8AIkQyqs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cd8b4e2fa7b3487333f7cb77e",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22d8b4e2fa7b3487333f7cb77e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3d8b4e2fa7b3487333f7cb77e",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74d8b4e2fa7b3487333f7cb77e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "The HamilTones",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:1Nj9dLuiwh4DHn8AIkQyqs"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+  },
+  "followers": {
+    "href": null,
+    "total": 693810
+  },
+  "genres": [
+    "gospel",
+    "christian r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/12Kgt2eahvxNWhD5PnSUde",
+  "id": "12Kgt2eahvxNWhD5PnSUde",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1c6da0ef21d1f2f242fe64571a76ed3bfe7870e5",
+      "height": 350,
+      "width": 475
+    },
+    {
+      "url": "https://i.scdn.co/image/1bd6d899ea62bf0c324002d78aee6d24863f2956",
+      "height": 147,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d7824e39237071ff884ce10ca11b7ac2c8efe330",
+      "height": 47,
+      "width": 64
+    }
+  ],
+  "name": "Mary Mary",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:12Kgt2eahvxNWhD5PnSUde"
+}

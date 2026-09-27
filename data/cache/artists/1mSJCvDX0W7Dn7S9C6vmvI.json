@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+  },
+  "followers": {
+    "href": null,
+    "total": 331237
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+  "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88de210685fe0ef4e4d67c52",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517488de210685fe0ef4e4d67c52",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17888de210685fe0ef4e4d67c52",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Anna of the North",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+}

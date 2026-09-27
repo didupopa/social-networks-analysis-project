@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+  },
+  "followers": {
+    "href": null,
+    "total": 1488865
+  },
+  "genres": [
+    "christian hip hop",
+    "christian",
+    "christian r&b",
+    "christian pop",
+    "chinese hip hop",
+    "rap chrétien"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1CFCsEqKrCyvAFKOATQHiW",
+  "id": "1CFCsEqKrCyvAFKOATQHiW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7fe0c3a04b5e5dc4efae57a1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051747fe0c3a04b5e5dc4efae57a1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1787fe0c3a04b5e5dc4efae57a1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lecrae",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:1CFCsEqKrCyvAFKOATQHiW"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+  },
+  "followers": {
+    "href": null,
+    "total": 424227
+  },
+  "genres": [
+    "boom bap",
+    "east coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/67gqUXxHedeUGDTxwBzdjS",
+  "id": "67gqUXxHedeUGDTxwBzdjS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd95a080cb8504a480d3c5b32",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d95a080cb8504a480d3c5b32",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d95a080cb8504a480d3c5b32",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Conway the Machine",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:67gqUXxHedeUGDTxwBzdjS"
+}

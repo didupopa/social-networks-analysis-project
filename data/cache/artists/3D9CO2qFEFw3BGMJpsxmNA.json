@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3D9CO2qFEFw3BGMJpsxmNA"
+  },
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+    "psytrance"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3D9CO2qFEFw3BGMJpsxmNA",
+  "id": "3D9CO2qFEFw3BGMJpsxmNA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2730ac3594f281458b7f4f3400a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e020ac3594f281458b7f4f3400a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510ac3594f281458b7f4f3400a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Blazed",
+  "popularity": 14,
+  "type": "artist",
+  "uri": "spotify:artist:3D9CO2qFEFw3BGMJpsxmNA"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+  },
+  "followers": {
+    "href": null,
+    "total": 612401
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5Matrg5du62bXwer29cU5T",
+  "id": "5Matrg5du62bXwer29cU5T",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5a89f3458b25633745115a4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e5a89f3458b25633745115a4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e5a89f3458b25633745115a4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Benny The Butcher",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:5Matrg5du62bXwer29cU5T"
+}

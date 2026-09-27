@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+  },
+  "followers": {
+    "href": null,
+    "total": 38561
+  },
+  "genres": [
+    "disco house",
+    "nu disco",
+    "funky house",
+    "disco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5MnToV7aAt2Zy9ag3DAsna",
+  "id": "5MnToV7aAt2Zy9ag3DAsna",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb301f8f153fb5d485418fcefc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174301f8f153fb5d485418fcefc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178301f8f153fb5d485418fcefc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Horse Meat Disco",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:5MnToV7aAt2Zy9ag3DAsna"
+}

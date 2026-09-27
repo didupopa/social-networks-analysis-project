@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CShHu0KxcIhKMmg6IaXN0"
+  },
+  "followers": {
+    "href": null,
+    "total": 19420
+  },
+  "genres": [
+    "big room"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3CShHu0KxcIhKMmg6IaXN0",
+  "id": "3CShHu0KxcIhKMmg6IaXN0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1e455ea832e98f9bcac8a40a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741e455ea832e98f9bcac8a40a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781e455ea832e98f9bcac8a40a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "TWIIG",
+  "popularity": 32,
+  "type": "artist",
+  "uri": "spotify:artist:3CShHu0KxcIhKMmg6IaXN0"
+}

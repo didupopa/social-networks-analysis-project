@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BiYNPXcq8DIWxFk1NkweW"
+  },
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0BiYNPXcq8DIWxFk1NkweW",
+  "id": "0BiYNPXcq8DIWxFk1NkweW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273130f7e747fcc810d98946fd5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02130f7e747fcc810d98946fd5",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851130f7e747fcc810d98946fd5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Stephen Bray",
+  "popularity": 23,
+  "type": "artist",
+  "uri": "spotify:artist:0BiYNPXcq8DIWxFk1NkweW"
+}

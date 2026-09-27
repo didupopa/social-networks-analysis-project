@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3z026hQ0Xi3FNRELTGPJyB"
+  },
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3z026hQ0Xi3FNRELTGPJyB",
+  "id": "3z026hQ0Xi3FNRELTGPJyB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad15a506a4d1cfafa5972471",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad15a506a4d1cfafa5972471",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ad15a506a4d1cfafa5972471",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Dimez",
+  "popularity": 1,
+  "type": "artist",
+  "uri": "spotify:artist:3z026hQ0Xi3FNRELTGPJyB"
+}

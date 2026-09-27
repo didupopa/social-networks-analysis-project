@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
+  },
+  "followers": {
+    "href": null,
+    "total": 4373
+  },
+  "genres": [
+    "soca"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7ymbjgoFo1FSdcVCKjxQUn",
+  "id": "7ymbjgoFo1FSdcVCKjxQUn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf13e4164f467448c7d33599e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f13e4164f467448c7d33599e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f13e4164f467448c7d33599e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jimmy October",
+  "popularity": 31,
+  "type": "artist",
+  "uri": "spotify:artist:7ymbjgoFo1FSdcVCKjxQUn"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+  },
+  "followers": {
+    "href": null,
+    "total": 7362896
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0ebNdVaOfp6N0oZ1guIxM8",
+  "id": "0ebNdVaOfp6N0oZ1guIxM8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf33cd02b07543bd6465a2ebc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f33cd02b07543bd6465a2ebc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f33cd02b07543bd6465a2ebc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "SUGA",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:0ebNdVaOfp6N0oZ1guIxM8"
+}

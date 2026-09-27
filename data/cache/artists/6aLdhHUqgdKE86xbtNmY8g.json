@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+  },
+  "followers": {
+    "href": null,
+    "total": 1436156
+  },
+  "genres": [
+    "k-rap",
+    "k-pop",
+    "k-ballad"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6aLdhHUqgdKE86xbtNmY8g",
+  "id": "6aLdhHUqgdKE86xbtNmY8g",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf0c39864a4e7361818c2a1a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bf0c39864a4e7361818c2a1a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bf0c39864a4e7361818c2a1a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Crush",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:6aLdhHUqgdKE86xbtNmY8g"
+}

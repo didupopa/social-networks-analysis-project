@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+  },
+  "followers": {
+    "href": null,
+    "total": 112552
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5yy76ufVriyvidNSvXlRU1",
+  "id": "5yy76ufVriyvidNSvXlRU1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba93b7d3498f2a0564bf51ae1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a93b7d3498f2a0564bf51ae1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a93b7d3498f2a0564bf51ae1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Clever",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:5yy76ufVriyvidNSvXlRU1"
+}

@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+  },
+  "followers": {
+    "href": null,
+    "total": 75534
+  },
+  "genres": [
+    "uk garage",
+    "uk funky"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4L8MIM7AXmq6jb0tRix4JT",
+  "id": "4L8MIM7AXmq6jb0tRix4JT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c776f6c1fcfb4b4c982dbea02",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22776f6c1fcfb4b4c982dbea02",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3776f6c1fcfb4b4c982dbea02",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74776f6c1fcfb4b4c982dbea02",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Artful Dodger",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:4L8MIM7AXmq6jb0tRix4JT"
+}

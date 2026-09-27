@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+  },
+  "followers": {
+    "href": null,
+    "total": 33456
+  },
+  "genres": [
+    "bachata"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7i0Z1tzWVamskO8eLnZ3Kx",
+  "id": "7i0Z1tzWVamskO8eLnZ3Kx",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73439641d781526b66d93b69",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517473439641d781526b66d93b69",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17873439641d781526b66d93b69",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Miri Ben-Ari",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:7i0Z1tzWVamskO8eLnZ3Kx"
+}

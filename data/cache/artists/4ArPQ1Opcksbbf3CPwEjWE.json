@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+  },
+  "followers": {
+    "href": null,
+    "total": 104725
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4ArPQ1Opcksbbf3CPwEjWE",
+  "id": "4ArPQ1Opcksbbf3CPwEjWE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75f548daaedafc95a16bccee",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517475f548daaedafc95a16bccee",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17875f548daaedafc95a16bccee",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Emilee",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:4ArPQ1Opcksbbf3CPwEjWE"
+}

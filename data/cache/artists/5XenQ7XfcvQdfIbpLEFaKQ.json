@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 1004545
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5XenQ7XfcvQdfIbpLEFaKQ",
+  "id": "5XenQ7XfcvQdfIbpLEFaKQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbc832b2057435aa9eb7a6ea",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cbc832b2057435aa9eb7a6ea",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cbc832b2057435aa9eb7a6ea",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "GoldLink",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:5XenQ7XfcvQdfIbpLEFaKQ"
+}

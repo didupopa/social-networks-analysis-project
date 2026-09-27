@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+  },
+  "followers": {
+    "href": null,
+    "total": 189049
+  },
+  "genres": [
+    "norwegian pop",
+    "russelåter"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3836OTICMPjhTMMcpPw4EC",
+  "id": "3836OTICMPjhTMMcpPw4EC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb851d04fc6f5cd24bf1242126",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174851d04fc6f5cd24bf1242126",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178851d04fc6f5cd24bf1242126",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Broiler",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:3836OTICMPjhTMMcpPw4EC"
+}

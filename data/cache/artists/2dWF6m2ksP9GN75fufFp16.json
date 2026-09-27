@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+  },
+  "followers": {
+    "href": null,
+    "total": 170677
+  },
+  "genres": [
+    "underground hip hop",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2dWF6m2ksP9GN75fufFp16",
+  "id": "2dWF6m2ksP9GN75fufFp16",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb832200f1bc6407f410beccc6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174832200f1bc6407f410beccc6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178832200f1bc6407f410beccc6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Murs",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:2dWF6m2ksP9GN75fufFp16"
+}

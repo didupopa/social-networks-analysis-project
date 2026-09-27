@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+  },
+  "followers": {
+    "href": null,
+    "total": 167229
+  },
+  "genres": [
+    "progressive house",
+    "edm",
+    "big room"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2QMCcKIPHnjQaPPgoEst88",
+  "id": "2QMCcKIPHnjQaPPgoEst88",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39c52cbbd9033dc5d2f04aa4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517439c52cbbd9033dc5d2f04aa4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17839c52cbbd9033dc5d2f04aa4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Matisse & Sadko",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:2QMCcKIPHnjQaPPgoEst88"
+}

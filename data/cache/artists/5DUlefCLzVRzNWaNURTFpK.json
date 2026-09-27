@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+  },
+  "followers": {
+    "href": null,
+    "total": 4239995
+  },
+  "genres": [
+    "colombian pop",
+    "pop urbano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5DUlefCLzVRzNWaNURTFpK",
+  "id": "5DUlefCLzVRzNWaNURTFpK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdb9f80f509921bb5d696c57",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bdb9f80f509921bb5d696c57",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bdb9f80f509921bb5d696c57",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Cali Y El Dandee",
+  "popularity": 69,
+  "type": "artist",
+  "uri": "spotify:artist:5DUlefCLzVRzNWaNURTFpK"
+}

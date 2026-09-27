@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+  },
+  "followers": {
+    "href": null,
+    "total": 87649
+  },
+  "genres": [
+    "moombahton",
+    "jungle",
+    "big room",
+    "electro house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4b2v3PBjJJCF2BX14lIAsT",
+  "id": "4b2v3PBjJJCF2BX14lIAsT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfc31c0301b5561f0491a65d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bfc31c0301b5561f0491a65d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bfc31c0301b5561f0491a65d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Wiwek",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:4b2v3PBjJJCF2BX14lIAsT"
+}

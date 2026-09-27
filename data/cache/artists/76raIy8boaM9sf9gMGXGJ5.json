@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+  },
+  "followers": {
+    "href": null,
+    "total": 193299
+  },
+  "genres": [
+    "hardstyle",
+    "gabber",
+    "hardcore",
+    "frenchcore",
+    "hardcore techno",
+    "tekno",
+    "speedcore",
+    "hard techno"
+  ],
+  "href": "https://api.spotify.com/v1/artists/76raIy8boaM9sf9gMGXGJ5",
+  "id": "76raIy8boaM9sf9gMGXGJ5",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2d0c4302ee7977abe37e9c9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f2d0c4302ee7977abe37e9c9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f2d0c4302ee7977abe37e9c9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lil Texas",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:76raIy8boaM9sf9gMGXGJ5"
+}

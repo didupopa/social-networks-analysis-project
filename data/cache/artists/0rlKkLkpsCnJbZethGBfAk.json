@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
+  },
+  "followers": {
+    "href": null,
+    "total": 20266
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0rlKkLkpsCnJbZethGBfAk",
+  "id": "0rlKkLkpsCnJbZethGBfAk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb281b9562cd02ccc8526f6fba",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174281b9562cd02ccc8526f6fba",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178281b9562cd02ccc8526f6fba",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Captain Cuts",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:0rlKkLkpsCnJbZethGBfAk"
+}

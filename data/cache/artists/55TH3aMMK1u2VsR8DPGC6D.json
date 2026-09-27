@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55TH3aMMK1u2VsR8DPGC6D"
+  },
+  "followers": {
+    "href": null,
+    "total": 123143
+  },
+  "genres": [
+    "hyphy",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/55TH3aMMK1u2VsR8DPGC6D",
+  "id": "55TH3aMMK1u2VsR8DPGC6D",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf085bbdfa3306a063ac24383",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f085bbdfa3306a063ac24383",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f085bbdfa3306a063ac24383",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mistah F.A.B.",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:55TH3aMMK1u2VsR8DPGC6D"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6H6kEm6c01DA6idz9cV34a"
+  },
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6H6kEm6c01DA6idz9cV34a",
+  "id": "6H6kEm6c01DA6idz9cV34a",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27300f4533a52d61641b7369b90",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027ff40f1826656a8007d8a596",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517ff40f1826656a8007d8a596",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Nik Dodani",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:6H6kEm6c01DA6idz9cV34a"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+  },
+  "followers": {
+    "href": null,
+    "total": 33110
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1SIw8nXWjvAKeb6Dhh85cz",
+  "id": "1SIw8nXWjvAKeb6Dhh85cz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51ecfd1ae9e8e2c1ba5e6e85",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517451ecfd1ae9e8e2c1ba5e6e85",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17851ecfd1ae9e8e2c1ba5e6e85",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Sam Dew",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:1SIw8nXWjvAKeb6Dhh85cz"
+}

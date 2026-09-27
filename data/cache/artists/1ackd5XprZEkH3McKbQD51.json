@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+  },
+  "followers": {
+    "href": null,
+    "total": 1733728
+  },
+  "genres": [
+    "reggaeton",
+    "latin"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1ackd5XprZEkH3McKbQD51",
+  "id": "1ackd5XprZEkH3McKbQD51",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49513687d975c751a286351e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517449513687d975c751a286351e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17849513687d975c751a286351e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Juan Magán",
+  "popularity": 72,
+  "type": "artist",
+  "uri": "spotify:artist:1ackd5XprZEkH3McKbQD51"
+}

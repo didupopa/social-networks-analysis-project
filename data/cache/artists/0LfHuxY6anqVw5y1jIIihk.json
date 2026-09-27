@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LfHuxY6anqVw5y1jIIihk"
+  },
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+    "stoner rock",
+    "sludge metal",
+    "stoner metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0LfHuxY6anqVw5y1jIIihk",
+  "id": "0LfHuxY6anqVw5y1jIIihk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a2516a9130b4e874c8196dc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027a2516a9130b4e874c8196dc",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517a2516a9130b4e874c8196dc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Hackman",
+  "popularity": 3,
+  "type": "artist",
+  "uri": "spotify:artist:0LfHuxY6anqVw5y1jIIihk"
+}

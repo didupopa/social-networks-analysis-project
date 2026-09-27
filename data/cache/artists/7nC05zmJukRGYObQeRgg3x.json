@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
+  },
+  "followers": {
+    "href": null,
+    "total": 368986
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7nC05zmJukRGYObQeRgg3x",
+  "id": "7nC05zmJukRGYObQeRgg3x",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40408ecde2cc7278aed2f79b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517440408ecde2cc7278aed2f79b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17840408ecde2cc7278aed2f79b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jack Savoretti",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:7nC05zmJukRGYObQeRgg3x"
+}

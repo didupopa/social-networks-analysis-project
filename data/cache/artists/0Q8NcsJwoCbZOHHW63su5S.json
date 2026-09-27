@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+  },
+  "followers": {
+    "href": null,
+    "total": 9511132
+  },
+  "genres": [
+    "urbano latino",
+    "trap latino",
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0Q8NcsJwoCbZOHHW63su5S",
+  "id": "0Q8NcsJwoCbZOHHW63su5S",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6252cc367480d8fe43e711f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e6252cc367480d8fe43e711f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e6252cc367480d8fe43e711f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mora",
+  "popularity": 82,
+  "type": "artist",
+  "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+  },
+  "followers": {
+    "href": null,
+    "total": 576047
+  },
+  "genres": [
+    "jazz pop",
+    "vocal jazz",
+    "jazz"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3XxxEq6BREC57nCWXbQZ7o",
+  "id": "3XxxEq6BREC57nCWXbQZ7o",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5ea05545f2d4f1d5135da9df",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745ea05545f2d4f1d5135da9df",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785ea05545f2d4f1d5135da9df",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jamie Cullum",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:3XxxEq6BREC57nCWXbQZ7o"
+}

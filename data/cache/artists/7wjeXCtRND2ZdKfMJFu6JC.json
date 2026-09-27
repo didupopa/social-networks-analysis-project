@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+  },
+  "followers": {
+    "href": null,
+    "total": 1648693
+  },
+  "genres": [
+    "french pop",
+    "chanson",
+    "variété française"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7wjeXCtRND2ZdKfMJFu6JC",
+  "id": "7wjeXCtRND2ZdKfMJFu6JC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95a7145612ea8716fe766229",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517495a7145612ea8716fe766229",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17895a7145612ea8716fe766229",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Louane",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:7wjeXCtRND2ZdKfMJFu6JC"
+}

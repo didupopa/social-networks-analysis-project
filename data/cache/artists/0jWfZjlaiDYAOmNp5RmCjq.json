@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jWfZjlaiDYAOmNp5RmCjq"
+  },
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0jWfZjlaiDYAOmNp5RmCjq",
+  "id": "0jWfZjlaiDYAOmNp5RmCjq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe853f9b4d49cd64ea79922d4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e853f9b4d49cd64ea79922d4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e853f9b4d49cd64ea79922d4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Enferno",
+  "popularity": 16,
+  "type": "artist",
+  "uri": "spotify:artist:0jWfZjlaiDYAOmNp5RmCjq"
+}

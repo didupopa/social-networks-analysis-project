@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+  },
+  "followers": {
+    "href": null,
+    "total": 7365702
+  },
+  "genres": [
+    "christmas"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+  "id": "1GxkXlMwML1oSg5eLPiAz3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecf79fd5be85dabb0f489107",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ecf79fd5be85dabb0f489107",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ecf79fd5be85dabb0f489107",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Michael Bublé",
+  "popularity": 75,
+  "type": "artist",
+  "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+}

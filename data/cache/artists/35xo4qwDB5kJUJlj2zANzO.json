@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35xo4qwDB5kJUJlj2zANzO"
+  },
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+    "afrikaans pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/35xo4qwDB5kJUJlj2zANzO",
+  "id": "35xo4qwDB5kJUJlj2zANzO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731fff13179eceda10ca88d3b8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e025794eed22a23c25f1b2282dc",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515794eed22a23c25f1b2282dc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Raymond Fein",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:35xo4qwDB5kJUJlj2zANzO"
+}

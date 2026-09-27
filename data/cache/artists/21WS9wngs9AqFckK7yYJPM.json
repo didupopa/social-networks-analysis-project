@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+  },
+  "followers": {
+    "href": null,
+    "total": 4464677
+  },
+  "genres": [
+    "melodic rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/21WS9wngs9AqFckK7yYJPM",
+  "id": "21WS9wngs9AqFckK7yYJPM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb311eff6996f37a5a2ab49aba",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174311eff6996f37a5a2ab49aba",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178311eff6996f37a5a2ab49aba",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "PnB Rock",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:21WS9wngs9AqFckK7yYJPM"
+}

@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+  },
+  "followers": {
+    "href": null,
+    "total": 1270983
+  },
+  "genres": [
+    "highlife",
+    "afrobeats",
+    "afrobeat",
+    "azonto",
+    "hiplife",
+    "afropop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0oKNR4ahj1CPnK2kQmbOfo",
+  "id": "0oKNR4ahj1CPnK2kQmbOfo",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60becf3c27ef72e20c0fe301",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517460becf3c27ef72e20c0fe301",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17860becf3c27ef72e20c0fe301",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Flavour",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:0oKNR4ahj1CPnK2kQmbOfo"
+}

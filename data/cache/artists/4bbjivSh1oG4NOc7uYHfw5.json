@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+  },
+  "followers": {
+    "href": null,
+    "total": 458597
+  },
+  "genres": [
+    "cloud rap",
+    "experimental hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4bbjivSh1oG4NOc7uYHfw5",
+  "id": "4bbjivSh1oG4NOc7uYHfw5",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10479cab73b2ba1121d22da9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517410479cab73b2ba1121d22da9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17810479cab73b2ba1121d22da9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lil B",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:4bbjivSh1oG4NOc7uYHfw5"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+  },
+  "followers": {
+    "href": null,
+    "total": 1666776
+  },
+  "genres": [
+    "art pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6LEeAFiJF8OuPx747e1wxR",
+  "id": "6LEeAFiJF8OuPx747e1wxR",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82a833d61eafc09c05c24882",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517482a833d61eafc09c05c24882",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17882a833d61eafc09c05c24882",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Blood Orange",
+  "popularity": 74,
+  "type": "artist",
+  "uri": "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
+}

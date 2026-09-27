@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+  },
+  "followers": {
+    "href": null,
+    "total": 479228
+  },
+  "genres": [
+    "alternative r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1U0sIzpRtDkvu1hXXzxh60",
+  "id": "1U0sIzpRtDkvu1hXXzxh60",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83ffae7fe0242c07cc55adbb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517483ffae7fe0242c07cc55adbb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17883ffae7fe0242c07cc55adbb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kelela",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:1U0sIzpRtDkvu1hXXzxh60"
+}

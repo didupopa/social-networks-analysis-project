@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z"
+  },
+  "followers": {
+    "href": null,
+    "total": 418024
+  },
+  "genres": [
+    "art pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7zHIrsSBL7A0gEJfzv1m7z",
+  "id": "7zHIrsSBL7A0gEJfzv1m7z",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfccc67418b2240ebe19c3a30",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fccc67418b2240ebe19c3a30",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fccc67418b2240ebe19c3a30",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Benjamin Clementine",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:7zHIrsSBL7A0gEJfzv1m7z"
+}

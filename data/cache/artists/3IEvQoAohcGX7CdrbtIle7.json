@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+  },
+  "followers": {
+    "href": null,
+    "total": 3683064
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3IEvQoAohcGX7CdrbtIle7",
+  "id": "3IEvQoAohcGX7CdrbtIle7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf615c9f58a01a92dc8a4b919",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f615c9f58a01a92dc8a4b919",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f615c9f58a01a92dc8a4b919",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Baby Rasta y Gringo",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:3IEvQoAohcGX7CdrbtIle7"
+}

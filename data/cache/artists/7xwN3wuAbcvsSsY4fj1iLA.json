@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xwN3wuAbcvsSsY4fj1iLA"
+  },
+  "followers": {
+    "href": null,
+    "total": 10572
+  },
+  "genres": [
+    "future house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7xwN3wuAbcvsSsY4fj1iLA",
+  "id": "7xwN3wuAbcvsSsY4fj1iLA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe2fc85750bd37714039d364d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e2fc85750bd37714039d364d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e2fc85750bd37714039d364d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "My Digital Enemy",
+  "popularity": 21,
+  "type": "artist",
+  "uri": "spotify:artist:7xwN3wuAbcvsSsY4fj1iLA"
+}

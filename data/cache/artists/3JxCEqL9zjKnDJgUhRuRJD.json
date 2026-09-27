@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+  },
+  "followers": {
+    "href": null,
+    "total": 200477
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD",
+  "id": "3JxCEqL9zjKnDJgUhRuRJD",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72aecba283cf67c2f058980e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517472aecba283cf67c2f058980e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17872aecba283cf67c2f058980e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Neneh Cherry",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD"
+}

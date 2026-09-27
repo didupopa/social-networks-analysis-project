@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+  },
+  "followers": {
+    "href": null,
+    "total": 1622070
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2TjgzYcbTdsZjbT9OItIeB",
+  "id": "2TjgzYcbTdsZjbT9OItIeB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fb6f6b52082b66ee883bccf31fec0640e901ef25",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://i.scdn.co/image/64692003b7f4a0be9f35ced0d6469440b3aace93",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/2cd9e7f2f30b0069f143289a93073a611e2d381c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Héctor \"El Father\"",
+  "popularity": 74,
+  "type": "artist",
+  "uri": "spotify:artist:2TjgzYcbTdsZjbT9OItIeB"
+}

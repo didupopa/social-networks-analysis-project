@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr"
+  },
+  "followers": {
+    "href": null,
+    "total": 88879
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2tSv9mEQSuNVMGr9qjYfkr",
+  "id": "2tSv9mEQSuNVMGr9qjYfkr",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30feca2c52fe3bb892cd2dff",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517430feca2c52fe3bb892cd2dff",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17830feca2c52fe3bb892cd2dff",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mykki Blanco",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:2tSv9mEQSuNVMGr9qjYfkr"
+}

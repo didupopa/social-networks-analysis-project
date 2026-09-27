@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE"
+  },
+  "followers": {
+    "href": null,
+    "total": 271998
+  },
+  "genres": [
+    "funk melody",
+    "brazilian funk",
+    "funk carioca"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1mXaaMbQM3IYuhNWaZdFuE",
+  "id": "1mXaaMbQM3IYuhNWaZdFuE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbc38f2dcc24f88cb1a4cd63",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bbc38f2dcc24f88cb1a4cd63",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bbc38f2dcc24f88cb1a4cd63",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mr. Catra",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:1mXaaMbQM3IYuhNWaZdFuE"
+}

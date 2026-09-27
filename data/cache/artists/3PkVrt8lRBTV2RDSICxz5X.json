@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+  },
+  "followers": {
+    "href": null,
+    "total": 655642
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3PkVrt8lRBTV2RDSICxz5X",
+  "id": "3PkVrt8lRBTV2RDSICxz5X",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7e8d18489ecf3128cd172de",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c7e8d18489ecf3128cd172de",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c7e8d18489ecf3128cd172de",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Divino",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:3PkVrt8lRBTV2RDSICxz5X"
+}

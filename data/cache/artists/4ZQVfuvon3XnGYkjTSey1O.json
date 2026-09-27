@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+  },
+  "followers": {
+    "href": null,
+    "total": 50878
+  },
+  "genres": [
+    "k-ballad"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4ZQVfuvon3XnGYkjTSey1O",
+  "id": "4ZQVfuvon3XnGYkjTSey1O",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3e3fadd434bc3e5d95acab22",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743e3fadd434bc3e5d95acab22",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783e3fadd434bc3e5d95acab22",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lee Sun Hee",
+  "popularity": 41,
+  "type": "artist",
+  "uri": "spotify:artist:4ZQVfuvon3XnGYkjTSey1O"
+}

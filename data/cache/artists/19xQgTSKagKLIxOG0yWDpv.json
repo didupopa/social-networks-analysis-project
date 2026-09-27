@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19xQgTSKagKLIxOG0yWDpv"
+  },
+  "followers": {
+    "href": null,
+    "total": 22723
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/19xQgTSKagKLIxOG0yWDpv",
+  "id": "19xQgTSKagKLIxOG0yWDpv",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf34022c82697aebd9f52ba35",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f34022c82697aebd9f52ba35",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f34022c82697aebd9f52ba35",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mike Skinner",
+  "popularity": 26,
+  "type": "artist",
+  "uri": "spotify:artist:19xQgTSKagKLIxOG0yWDpv"
+}

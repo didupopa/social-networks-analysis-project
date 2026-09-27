@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+  },
+  "followers": {
+    "href": null,
+    "total": 1869670
+  },
+  "genres": [
+    "anti-folk"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+  "id": "3vbKDsSS70ZX9D2OcvbZmS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca0e2c67ba619791fec07dfa",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ca0e2c67ba619791fec07dfa",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ca0e2c67ba619791fec07dfa",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Beck",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+}

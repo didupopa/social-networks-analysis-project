@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27n0jTBWhILKvbVfSHVpmu"
+  },
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+    "musicals"
+  ],
+  "href": "https://api.spotify.com/v1/artists/27n0jTBWhILKvbVfSHVpmu",
+  "id": "27n0jTBWhILKvbVfSHVpmu",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a53ca55d11ac34eba1204eb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021a53ca55d11ac34eba1204eb",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511a53ca55d11ac34eba1204eb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "DeMarius Copes",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:27n0jTBWhILKvbVfSHVpmu"
+}

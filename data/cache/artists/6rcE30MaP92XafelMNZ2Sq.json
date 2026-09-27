@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+  },
+  "followers": {
+    "href": null,
+    "total": 124392
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6rcE30MaP92XafelMNZ2Sq",
+  "id": "6rcE30MaP92XafelMNZ2Sq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb287f1264e77618c4b7e2c29f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174287f1264e77618c4b7e2c29f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178287f1264e77618c4b7e2c29f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Frank Walker",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:6rcE30MaP92XafelMNZ2Sq"
+}

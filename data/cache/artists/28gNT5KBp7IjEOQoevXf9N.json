@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+  },
+  "followers": {
+    "href": null,
+    "total": 21027767
+  },
+  "genres": [
+    "colombian pop",
+    "pop urbano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+  "id": "28gNT5KBp7IjEOQoevXf9N",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda7ac510c651ac33cca92a49",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174da7ac510c651ac33cca92a49",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178da7ac510c651ac33cca92a49",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Camilo",
+  "popularity": 81,
+  "type": "artist",
+  "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
+}

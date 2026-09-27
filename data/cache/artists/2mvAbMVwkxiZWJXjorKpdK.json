@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK"
+  },
+  "followers": {
+    "href": null,
+    "total": 21075
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2mvAbMVwkxiZWJXjorKpdK",
+  "id": "2mvAbMVwkxiZWJXjorKpdK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc33c27cbdd0f41cbb470fbb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cc33c27cbdd0f41cbb470fbb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cc33c27cbdd0f41cbb470fbb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Amorphous",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:2mvAbMVwkxiZWJXjorKpdK"
+}

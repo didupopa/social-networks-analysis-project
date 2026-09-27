@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Jy1gEI8kdt2aXQvwnqxtM"
+  },
+  "followers": {
+    "href": null,
+    "total": 963
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6Jy1gEI8kdt2aXQvwnqxtM",
+  "id": "6Jy1gEI8kdt2aXQvwnqxtM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27f497f471aa423fc790844a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517427f497f471aa423fc790844a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17827f497f471aa423fc790844a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Streetz",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:6Jy1gEI8kdt2aXQvwnqxtM"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+  },
+  "followers": {
+    "href": null,
+    "total": 3102904
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6nzxy2wXs6tLgzEtqOkEi2",
+  "id": "6nzxy2wXs6tLgzEtqOkEi2",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe511dad92fbc2626144a02a2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e511dad92fbc2626144a02a2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e511dad92fbc2626144a02a2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Monica",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:6nzxy2wXs6tLgzEtqOkEi2"
+}

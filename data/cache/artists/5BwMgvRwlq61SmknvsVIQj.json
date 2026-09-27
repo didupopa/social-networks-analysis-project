@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+  },
+  "followers": {
+    "href": null,
+    "total": 2031843
+  },
+  "genres": [
+    "salsa",
+    "latin jazz",
+    "merengue",
+    "son cubano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5BwMgvRwlq61SmknvsVIQj",
+  "id": "5BwMgvRwlq61SmknvsVIQj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdea0cd678edd47fe4b31e3c7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dea0cd678edd47fe4b31e3c7",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dea0cd678edd47fe4b31e3c7",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Rubén Blades",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:5BwMgvRwlq61SmknvsVIQj"
+}

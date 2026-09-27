@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+  },
+  "followers": {
+    "href": null,
+    "total": 7625330
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+  "id": "57vWImR43h4CaDao012Ofp",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051747e3150cffbfda40c6eaf28dd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1787e3150cffbfda40c6eaf28dd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Steve Lacy",
+  "popularity": 86,
+  "type": "artist",
+  "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
+}

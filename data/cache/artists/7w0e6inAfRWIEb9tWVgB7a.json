@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a"
+  },
+  "followers": {
+    "href": null,
+    "total": 42000
+  },
+  "genres": [
+    "post-rock",
+    "art rock",
+    "new rave"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7w0e6inAfRWIEb9tWVgB7a",
+  "id": "7w0e6inAfRWIEb9tWVgB7a",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc0ff55f22cfc32f289011f7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cc0ff55f22cfc32f289011f7",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cc0ff55f22cfc32f289011f7",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "These New Puritans",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:7w0e6inAfRWIEb9tWVgB7a"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+  },
+  "followers": {
+    "href": null,
+    "total": 5063755
+  },
+  "genres": [
+    "latin pop",
+    "villancicos"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5gOJTI4TusSENizxhcG7jB",
+  "id": "5gOJTI4TusSENizxhcG7jB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9633eaa7ed6283a340cb373d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749633eaa7ed6283a340cb373d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789633eaa7ed6283a340cb373d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "David Bisbal",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:5gOJTI4TusSENizxhcG7jB"
+}

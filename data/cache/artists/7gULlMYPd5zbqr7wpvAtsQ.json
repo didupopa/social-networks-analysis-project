@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gULlMYPd5zbqr7wpvAtsQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 546
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7gULlMYPd5zbqr7wpvAtsQ",
+  "id": "7gULlMYPd5zbqr7wpvAtsQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75b324a45cbd63d64982b1a9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517475b324a45cbd63d64982b1a9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17875b324a45cbd63d64982b1a9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Marty James",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:7gULlMYPd5zbqr7wpvAtsQ"
+}

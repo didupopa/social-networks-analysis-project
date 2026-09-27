@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BG0hYw2yxUZAo7qleXlor"
+  },
+  "followers": {
+    "href": null,
+    "total": 1091
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2BG0hYw2yxUZAo7qleXlor",
+  "id": "2BG0hYw2yxUZAo7qleXlor",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb813bd960f66fbc9cf65b892e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174813bd960f66fbc9cf65b892e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178813bd960f66fbc9cf65b892e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Adam Rickfors",
+  "popularity": 10,
+  "type": "artist",
+  "uri": "spotify:artist:2BG0hYw2yxUZAo7qleXlor"
+}

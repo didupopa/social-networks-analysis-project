@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i"
+  },
+  "followers": {
+    "href": null,
+    "total": 10695
+  },
+  "genres": [
+    "rage rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/61GrWHOtJOXpqQjibezT8i",
+  "id": "61GrWHOtJOXpqQjibezT8i",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1681a072b398b9604a0fd13",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b1681a072b398b9604a0fd13",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b1681a072b398b9604a0fd13",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "HVN",
+  "popularity": 37,
+  "type": "artist",
+  "uri": "spotify:artist:61GrWHOtJOXpqQjibezT8i"
+}

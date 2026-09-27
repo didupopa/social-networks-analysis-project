@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+  },
+  "followers": {
+    "href": null,
+    "total": 423477
+  },
+  "genres": [
+    "classic soul",
+    "soul",
+    "philly soul",
+    "quiet storm",
+    "motown"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2W8UTum7bU7ue6m0r14H97",
+  "id": "2W8UTum7bU7ue6m0r14H97",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd15f13462e344608adf2b103",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d15f13462e344608adf2b103",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d15f13462e344608adf2b103",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Dramatics",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:2W8UTum7bU7ue6m0r14H97"
+}

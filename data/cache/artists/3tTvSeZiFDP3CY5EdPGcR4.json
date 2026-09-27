@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+  },
+  "followers": {
+    "href": null,
+    "total": 245441
+  },
+  "genres": [
+    "drill",
+    "french rap",
+    "uk drill"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3tTvSeZiFDP3CY5EdPGcR4",
+  "id": "3tTvSeZiFDP3CY5EdPGcR4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6a33c8aa9c4d8bdd4df5dbe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c6a33c8aa9c4d8bdd4df5dbe",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c6a33c8aa9c4d8bdd4df5dbe",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "ASHE 22",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:3tTvSeZiFDP3CY5EdPGcR4"
+}

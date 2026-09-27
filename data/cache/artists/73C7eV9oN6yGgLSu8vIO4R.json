@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+  },
+  "followers": {
+    "href": null,
+    "total": 10844
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/73C7eV9oN6yGgLSu8vIO4R",
+  "id": "73C7eV9oN6yGgLSu8vIO4R",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0f113409f07d48cf25038848",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051740f113409f07d48cf25038848",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1780f113409f07d48cf25038848",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "MVCA",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:73C7eV9oN6yGgLSu8vIO4R"
+}

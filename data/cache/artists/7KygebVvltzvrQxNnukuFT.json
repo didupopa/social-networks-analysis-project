@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+  },
+  "followers": {
+    "href": null,
+    "total": 15562
+  },
+  "genres": [
+    "ambient"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7KygebVvltzvrQxNnukuFT",
+  "id": "7KygebVvltzvrQxNnukuFT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04bb0ca9d0c86070d1e94234",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517404bb0ca9d0c86070d1e94234",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17804bb0ca9d0c86070d1e94234",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tom Middleton",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:7KygebVvltzvrQxNnukuFT"
+}

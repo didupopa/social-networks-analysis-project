@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo"
+  },
+  "followers": {
+    "href": null,
+    "total": 46483
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2XHJ36WzMJKpDk6fLl6lMo",
+  "id": "2XHJ36WzMJKpDk6fLl6lMo",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2695aaf5f1ec488a70a131a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c2695aaf5f1ec488a70a131a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c2695aaf5f1ec488a70a131a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Hics",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:2XHJ36WzMJKpDk6fLl6lMo"
+}

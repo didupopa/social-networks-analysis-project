@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+  },
+  "followers": {
+    "href": null,
+    "total": 4175544
+  },
+  "genres": [
+    "edm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4AVFqumd2ogHFlRbKIjp1t",
+  "id": "4AVFqumd2ogHFlRbKIjp1t",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42b3fb34e3451c79c55cbe73",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517442b3fb34e3451c79c55cbe73",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17842b3fb34e3451c79c55cbe73",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Alesso",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t"
+}

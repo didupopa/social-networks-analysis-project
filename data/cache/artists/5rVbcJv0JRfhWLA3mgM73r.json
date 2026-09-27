@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+  },
+  "followers": {
+    "href": null,
+    "total": 404795
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5rVbcJv0JRfhWLA3mgM73r",
+  "id": "5rVbcJv0JRfhWLA3mgM73r",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8270cc4ec8fe7169c2080ca1916449797e0bfd09",
+      "height": 563,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/e3a661004a4696b0efbd0793d5750cd87231005a",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/42e8f95d23a79ddfd5626127f13099672a2cebd9",
+      "height": 113,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/23810a117e0fe9df44d319940e402025ee10b797",
+      "height": 36,
+      "width": 64
+    }
+  ],
+  "name": "Slaughterhouse",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:5rVbcJv0JRfhWLA3mgM73r"
+}

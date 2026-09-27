@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PMP4OQ9NlNV6eVxGPRH01"
+  },
+  "followers": {
+    "href": null,
+    "total": 7334
+  },
+  "genres": [
+    "neo soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2PMP4OQ9NlNV6eVxGPRH01",
+  "id": "2PMP4OQ9NlNV6eVxGPRH01",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc651c8b16b7726c4373caa4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cc651c8b16b7726c4373caa4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cc651c8b16b7726c4373caa4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "JaVonté",
+  "popularity": 35,
+  "type": "artist",
+  "uri": "spotify:artist:2PMP4OQ9NlNV6eVxGPRH01"
+}

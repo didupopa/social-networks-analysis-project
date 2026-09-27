@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iiyR9wHi3XEBKJeyn8K1b"
+  },
+  "followers": {
+    "href": null,
+    "total": 382
+  },
+  "genres": [
+    "musicals"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6iiyR9wHi3XEBKJeyn8K1b",
+  "id": "6iiyR9wHi3XEBKJeyn8K1b",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8af6fe40d0ddd33c0125367",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d8af6fe40d0ddd33c0125367",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d8af6fe40d0ddd33c0125367",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Liz Kate",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:6iiyR9wHi3XEBKJeyn8K1b"
+}

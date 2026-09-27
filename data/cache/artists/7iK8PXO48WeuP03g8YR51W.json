@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+  },
+  "followers": {
+    "href": null,
+    "total": 25301947
+  },
+  "genres": [
+    "reggaeton",
+    "trap latino",
+    "urbano latino"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+  "id": "7iK8PXO48WeuP03g8YR51W",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8372345609bebaf1e948ef7f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051748372345609bebaf1e948ef7f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1788372345609bebaf1e948ef7f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Myke Towers",
+  "popularity": 89,
+  "type": "artist",
+  "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+}

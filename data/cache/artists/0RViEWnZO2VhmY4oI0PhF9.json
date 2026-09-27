@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+  },
+  "followers": {
+    "href": null,
+    "total": 140267
+  },
+  "genres": [
+    "future house",
+    "edm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0RViEWnZO2VhmY4oI0PhF9",
+  "id": "0RViEWnZO2VhmY4oI0PhF9",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb961ecd9cafb04795f39d1da1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174961ecd9cafb04795f39d1da1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178961ecd9cafb04795f39d1da1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mesto",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:0RViEWnZO2VhmY4oI0PhF9"
+}

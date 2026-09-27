@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P8O2tgFwGDTSauprJthJI"
+  },
+  "followers": {
+    "href": null,
+    "total": 3509
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0P8O2tgFwGDTSauprJthJI",
+  "id": "0P8O2tgFwGDTSauprJthJI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a60ae9b6072d7e92213ba197",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a60ae9b6072d7e92213ba197",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a60ae9b6072d7e92213ba197",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Sango",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:0P8O2tgFwGDTSauprJthJI"
+}

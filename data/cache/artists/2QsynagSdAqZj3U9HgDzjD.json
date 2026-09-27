@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+  },
+  "followers": {
+    "href": null,
+    "total": 14167157
+  },
+  "genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+  "id": "2QsynagSdAqZj3U9HgDzjD",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
+      "height": 858,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802",
+      "height": 549,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098",
+      "height": 172,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/357fe6ef3655b1b33855e33546e3c174a38a1a36",
+      "height": 55,
+      "width": 64
+    }
+  ],
+  "name": "Bob Marley & The Wailers",
+  "popularity": 82,
+  "type": "artist",
+  "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+}

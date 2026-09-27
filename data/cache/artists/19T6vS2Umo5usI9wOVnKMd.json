@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+  },
+  "followers": {
+    "href": null,
+    "total": 3971
+  },
+  "genres": [
+    "acid house",
+    "chicago house",
+    "hip house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/19T6vS2Umo5usI9wOVnKMd",
+  "id": "19T6vS2Umo5usI9wOVnKMd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb61333036b9d2cca8a71a467",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b61333036b9d2cca8a71a467",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b61333036b9d2cca8a71a467",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Maurice Joshua",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:19T6vS2Umo5usI9wOVnKMd"
+}

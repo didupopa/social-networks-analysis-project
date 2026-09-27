@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+  },
+  "followers": {
+    "href": null,
+    "total": 2301195
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7gSjFKpVmDgC2MMsnN8CYq",
+  "id": "7gSjFKpVmDgC2MMsnN8CYq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe85d25b9286d6815ddb0d82a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e85d25b9286d6815ddb0d82a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e85d25b9286d6815ddb0d82a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jazmine Sullivan",
+  "popularity": 62,
+  "type": "artist",
+  "uri": "spotify:artist:7gSjFKpVmDgC2MMsnN8CYq"
+}

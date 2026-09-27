@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+  },
+  "followers": {
+    "href": null,
+    "total": 7423729
+  },
+  "genres": [
+    "reggaeton",
+    "trap latino",
+    "latin hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/00me4Ke1LsvMxt5kydlMyU",
+  "id": "00me4Ke1LsvMxt5kydlMyU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf023bccf9a510b84294b3956",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f023bccf9a510b84294b3956",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f023bccf9a510b84294b3956",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Cosculluela",
+  "popularity": 78,
+  "type": "artist",
+  "uri": "spotify:artist:00me4Ke1LsvMxt5kydlMyU"
+}

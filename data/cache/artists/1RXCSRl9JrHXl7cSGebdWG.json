@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RXCSRl9JrHXl7cSGebdWG"
+  },
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+    "space rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1RXCSRl9JrHXl7cSGebdWG",
+  "id": "1RXCSRl9JrHXl7cSGebdWG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07b8c3382c58ec28a5c8cf1c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517407b8c3382c58ec28a5c8cf1c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17807b8c3382c58ec28a5c8cf1c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dream Machine",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:1RXCSRl9JrHXl7cSGebdWG"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3m1knVGHFKK57xnleGMHcJ"
+  },
+  "followers": {
+    "href": null,
+    "total": 99122
+  },
+  "genres": [
+    "east coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3m1knVGHFKK57xnleGMHcJ",
+  "id": "3m1knVGHFKK57xnleGMHcJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda78d9e58fb633f1ac2b1991",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174da78d9e58fb633f1ac2b1991",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178da78d9e58fb633f1ac2b1991",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Hell Rell",
+  "popularity": 40,
+  "type": "artist",
+  "uri": "spotify:artist:3m1knVGHFKK57xnleGMHcJ"
+}

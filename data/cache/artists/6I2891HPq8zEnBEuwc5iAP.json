@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP"
+  },
+  "followers": {
+    "href": null,
+    "total": 14972
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6I2891HPq8zEnBEuwc5iAP",
+  "id": "6I2891HPq8zEnBEuwc5iAP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cb13b8b3be9f9e220eca8d96c",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22b13b8b3be9f9e220eca8d96c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3b13b8b3be9f9e220eca8d96c",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74b13b8b3be9f9e220eca8d96c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Money Mark",
+  "popularity": 31,
+  "type": "artist",
+  "uri": "spotify:artist:6I2891HPq8zEnBEuwc5iAP"
+}

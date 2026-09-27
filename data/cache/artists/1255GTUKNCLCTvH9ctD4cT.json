@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+  },
+  "followers": {
+    "href": null,
+    "total": 1781627
+  },
+  "genres": [
+    "quiet storm",
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1255GTUKNCLCTvH9ctD4cT",
+  "id": "1255GTUKNCLCTvH9ctD4cT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb7d81404babee2a377d655e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cb7d81404babee2a377d655e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cb7d81404babee2a377d655e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dru Hill",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:1255GTUKNCLCTvH9ctD4cT"
+}

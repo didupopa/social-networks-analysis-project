@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+  },
+  "followers": {
+    "href": null,
+    "total": 178613
+  },
+  "genres": [
+    "dubstep",
+    "deathstep",
+    "drumstep",
+    "riddim",
+    "drum and bass",
+    "bass music"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4zymhxzJ0UJc74tMHGyoWs",
+  "id": "4zymhxzJ0UJc74tMHGyoWs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf1d6656cbd4158cab1999c4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174df1d6656cbd4158cab1999c4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178df1d6656cbd4158cab1999c4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dirtyphonics",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:4zymhxzJ0UJc74tMHGyoWs"
+}

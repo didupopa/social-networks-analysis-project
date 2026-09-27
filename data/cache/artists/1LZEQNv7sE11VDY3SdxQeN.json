@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+  },
+  "followers": {
+    "href": null,
+    "total": 10339642
+  },
+  "genres": [
+    "disco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
+  "id": "1LZEQNv7sE11VDY3SdxQeN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620",
+      "height": 733,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/1ea4795e17ffa658d7ad23095d58997a278179a9",
+      "height": 469,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1f363042bdd59e0f80cb7b9cac1b312f9389b019",
+      "height": 147,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/c707552215757c7f2dc6071e32d487a3c7b28d3f",
+      "height": 47,
+      "width": 64
+    }
+  ],
+  "name": "Bee Gees",
+  "popularity": 81,
+  "type": "artist",
+  "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+}

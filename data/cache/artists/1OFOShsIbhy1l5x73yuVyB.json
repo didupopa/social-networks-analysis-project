@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+  },
+  "followers": {
+    "href": null,
+    "total": 1317017
+  },
+  "genres": [
+    "dancehall",
+    "soca",
+    "afrobeats"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1OFOShsIbhy1l5x73yuVyB",
+  "id": "1OFOShsIbhy1l5x73yuVyB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0119a4a91b8dcc38fe2607c3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051740119a4a91b8dcc38fe2607c3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1780119a4a91b8dcc38fe2607c3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Shenseea",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:1OFOShsIbhy1l5x73yuVyB"
+}

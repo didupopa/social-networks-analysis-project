@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+  },
+  "followers": {
+    "href": null,
+    "total": 3426787
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi",
+  "id": "6ogn9necmbUdCppmNnGOdi",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f6a97342ccd47692b7cdf8c0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f6a97342ccd47692b7cdf8c0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Alanis Morissette",
+  "popularity": 72,
+  "type": "artist",
+  "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI"
+  },
+  "followers": {
+    "href": null,
+    "total": 179630
+  },
+  "genres": [
+    "k-ballad",
+    "k-rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0JGN9XIqm3vfg7hhPHjExI",
+  "id": "0JGN9XIqm3vfg7hhPHjExI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc7284b710f1e8612d6dc71f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc7284b710f1e8612d6dc71f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851dc7284b710f1e8612d6dc71f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Leessang",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:0JGN9XIqm3vfg7hhPHjExI"
+}

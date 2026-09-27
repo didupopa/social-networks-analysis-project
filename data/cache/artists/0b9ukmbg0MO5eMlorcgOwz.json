@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+  },
+  "followers": {
+    "href": null,
+    "total": 269670
+  },
+  "genres": [
+    "french house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0b9ukmbg0MO5eMlorcgOwz",
+  "id": "0b9ukmbg0MO5eMlorcgOwz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02b5851e1d1769748d64b908",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517402b5851e1d1769748d64b908",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17802b5851e1d1769748d64b908",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mr. Oizo",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:0b9ukmbg0MO5eMlorcgOwz"
+}

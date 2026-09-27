@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GlGKPNJL68UWZO8zSbT3T"
+  },
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6GlGKPNJL68UWZO8zSbT3T",
+  "id": "6GlGKPNJL68UWZO8zSbT3T",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb084165350c37adc43574634d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174084165350c37adc43574634d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178084165350c37adc43574634d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ev3",
+  "popularity": 4,
+  "type": "artist",
+  "uri": "spotify:artist:6GlGKPNJL68UWZO8zSbT3T"
+}

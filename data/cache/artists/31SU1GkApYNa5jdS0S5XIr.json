@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31SU1GkApYNa5jdS0S5XIr"
+  },
+  "followers": {
+    "href": null,
+    "total": 35313
+  },
+  "genres": [
+    "speed metal",
+    "power metal",
+    "heavy metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/31SU1GkApYNa5jdS0S5XIr",
+  "id": "31SU1GkApYNa5jdS0S5XIr",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/77084a3da2c5f0c558a96b3e7635061cc4de8de0",
+      "height": 662,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/b67606fb76a127291302da2cde9bd9435dd0f08d",
+      "height": 423,
+      "width": 639
+    },
+    {
+      "url": "https://i.scdn.co/image/36ce0c9e508b5c532ba8e385707353f2caf3a0a6",
+      "height": 132,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/84d609f358613165fd24a3fb91e14454f385f40f",
+      "height": 42,
+      "width": 63
+    }
+  ],
+  "name": "Omen",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:31SU1GkApYNa5jdS0S5XIr"
+}

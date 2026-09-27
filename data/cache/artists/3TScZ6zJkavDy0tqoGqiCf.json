@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+  },
+  "followers": {
+    "href": null,
+    "total": 153026
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf",
+  "id": "3TScZ6zJkavDy0tqoGqiCf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4adb40134d56caee462e5bc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d4adb40134d56caee462e5bc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d4adb40134d56caee462e5bc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "John Grant",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf"
+}

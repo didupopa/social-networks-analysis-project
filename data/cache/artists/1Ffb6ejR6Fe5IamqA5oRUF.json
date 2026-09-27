@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+  },
+  "followers": {
+    "href": null,
+    "total": 7261161
+  },
+  "genres": [
+    "metalcore",
+    "emo",
+    "rock",
+    "screamo",
+    "metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+  "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca0355e5fc475d2520f0d967",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ca0355e5fc475d2520f0d967",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ca0355e5fc475d2520f0d967",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bring Me The Horizon",
+  "popularity": 81,
+  "type": "artist",
+  "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+}

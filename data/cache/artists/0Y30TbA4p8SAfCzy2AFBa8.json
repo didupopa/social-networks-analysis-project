@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8"
+  },
+  "followers": {
+    "href": null,
+    "total": 183854
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0Y30TbA4p8SAfCzy2AFBa8",
+  "id": "0Y30TbA4p8SAfCzy2AFBa8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6e7b9afa42ae264c84f22d4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d6e7b9afa42ae264c84f22d4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d6e7b9afa42ae264c84f22d4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Yaviah",
+  "popularity": 61,
+  "type": "artist",
+  "uri": "spotify:artist:0Y30TbA4p8SAfCzy2AFBa8"
+}

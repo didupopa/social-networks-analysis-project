@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+  },
+  "followers": {
+    "href": null,
+    "total": 1843267
+  },
+  "genres": [
+    "quiet storm",
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6k0IBR0lU42s2GYpNX7kA9",
+  "id": "6k0IBR0lU42s2GYpNX7kA9",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccd9085c5dbc5f5a991ae59c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ccd9085c5dbc5f5a991ae59c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ccd9085c5dbc5f5a991ae59c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Brian McKnight",
+  "popularity": 63,
+  "type": "artist",
+  "uri": "spotify:artist:6k0IBR0lU42s2GYpNX7kA9"
+}

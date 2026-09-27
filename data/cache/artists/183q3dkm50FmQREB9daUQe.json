@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/183q3dkm50FmQREB9daUQe"
+  },
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/183q3dkm50FmQREB9daUQe",
+  "id": "183q3dkm50FmQREB9daUQe",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1ecddc5c3c255d8e5414907",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1ecddc5c3c255d8e5414907",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d1ecddc5c3c255d8e5414907",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Technic",
+  "popularity": 3,
+  "type": "artist",
+  "uri": "spotify:artist:183q3dkm50FmQREB9daUQe"
+}

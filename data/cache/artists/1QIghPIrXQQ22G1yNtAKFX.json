@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+  },
+  "followers": {
+    "href": null,
+    "total": 1080677
+  },
+  "genres": [
+    "afropop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1QIghPIrXQQ22G1yNtAKFX",
+  "id": "1QIghPIrXQQ22G1yNtAKFX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb827adf3540ee5f1a538e89c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b827adf3540ee5f1a538e89c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b827adf3540ee5f1a538e89c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "AKA",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:1QIghPIrXQQ22G1yNtAKFX"
+}

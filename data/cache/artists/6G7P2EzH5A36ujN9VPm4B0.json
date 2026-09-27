@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+  },
+  "followers": {
+    "href": null,
+    "total": 109809
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6G7P2EzH5A36ujN9VPm4B0",
+  "id": "6G7P2EzH5A36ujN9VPm4B0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5d676647719d22502e61356",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e5d676647719d22502e61356",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e5d676647719d22502e61356",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Robert Smith",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:6G7P2EzH5A36ujN9VPm4B0"
+}

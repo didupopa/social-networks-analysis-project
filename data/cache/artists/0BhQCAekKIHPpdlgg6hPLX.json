@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BhQCAekKIHPpdlgg6hPLX"
+  },
+  "followers": {
+    "href": null,
+    "total": 2270
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0BhQCAekKIHPpdlgg6hPLX",
+  "id": "0BhQCAekKIHPpdlgg6hPLX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737114040e1f86cbd048f0b78f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027114040e1f86cbd048f0b78f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517114040e1f86cbd048f0b78f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Taco",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:0BhQCAekKIHPpdlgg6hPLX"
+}

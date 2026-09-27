@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+  },
+  "followers": {
+    "href": null,
+    "total": 621384
+  },
+  "genres": [
+    "neo soul",
+    "jersey club",
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3YJMzGjAm245zwJooY7PEj",
+  "id": "3YJMzGjAm245zwJooY7PEj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3f301fec53c9a0df0495657e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743f301fec53c9a0df0495657e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783f301fec53c9a0df0495657e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Chrisette Michele",
+  "popularity": 62,
+  "type": "artist",
+  "uri": "spotify:artist:3YJMzGjAm245zwJooY7PEj"
+}

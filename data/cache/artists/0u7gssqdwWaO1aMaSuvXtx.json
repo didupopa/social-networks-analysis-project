@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+  },
+  "followers": {
+    "href": null,
+    "total": 17378
+  },
+  "genres": [
+    "modern blues",
+    "jam band",
+    "blues rock",
+    "southern rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0u7gssqdwWaO1aMaSuvXtx",
+  "id": "0u7gssqdwWaO1aMaSuvXtx",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18c55d5b12f238aef2556253",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517418c55d5b12f238aef2556253",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17818c55d5b12f238aef2556253",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Robert Randolph",
+  "popularity": 38,
+  "type": "artist",
+  "uri": "spotify:artist:0u7gssqdwWaO1aMaSuvXtx"
+}

@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7"
+  },
+  "followers": {
+    "href": null,
+    "total": 8488
+  },
+  "genres": [
+    "rap metal",
+    "rap rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4DW34vji6G9GgGY0k2mic7",
+  "id": "4DW34vji6G9GgGY0k2mic7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/894c20ff4cd06d43481fe9dfd23d3c4a20ed8cc3",
+      "height": 405,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/843532df7514524476dddf5d181f64afdd812022",
+      "height": 259,
+      "width": 639
+    },
+    {
+      "url": "https://i.scdn.co/image/c772ab4332a379a96842c8879fcfb92a229d93a6",
+      "height": 81,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/c4357fca783ab7494b1b52ba5edbf59cfccc2b69",
+      "height": 26,
+      "width": 64
+    }
+  ],
+  "name": "Chad Smith",
+  "popularity": 46,
+  "type": "artist",
+  "uri": "spotify:artist:4DW34vji6G9GgGY0k2mic7"
+}

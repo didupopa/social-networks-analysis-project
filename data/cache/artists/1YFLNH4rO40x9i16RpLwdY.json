@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+  },
+  "followers": {
+    "href": null,
+    "total": 50743
+  },
+  "genres": [
+    "disco house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1YFLNH4rO40x9i16RpLwdY",
+  "id": "1YFLNH4rO40x9i16RpLwdY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1fa1d4022a25751ca38a9182",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741fa1d4022a25751ca38a9182",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781fa1d4022a25751ca38a9182",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Midland",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:1YFLNH4rO40x9i16RpLwdY"
+}

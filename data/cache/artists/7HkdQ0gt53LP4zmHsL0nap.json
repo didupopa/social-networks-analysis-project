@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+  },
+  "followers": {
+    "href": null,
+    "total": 6724907
+  },
+  "genres": [
+    "r&b"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7HkdQ0gt53LP4zmHsL0nap",
+  "id": "7HkdQ0gt53LP4zmHsL0nap",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5d6ed813fc2c93765152ff7e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745d6ed813fc2c93765152ff7e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785d6ed813fc2c93765152ff7e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ella Mai",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:7HkdQ0gt53LP4zmHsL0nap"
+}

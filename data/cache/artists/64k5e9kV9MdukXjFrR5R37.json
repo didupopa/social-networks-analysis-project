@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+  },
+  "followers": {
+    "href": null,
+    "total": 2755626
+  },
+  "genres": [
+    "k-pop",
+    "k-rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/64k5e9kV9MdukXjFrR5R37",
+  "id": "64k5e9kV9MdukXjFrR5R37",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb956443ea7448847583e99b7d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174956443ea7448847583e99b7d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178956443ea7448847583e99b7d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jessi",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:64k5e9kV9MdukXjFrR5R37"
+}

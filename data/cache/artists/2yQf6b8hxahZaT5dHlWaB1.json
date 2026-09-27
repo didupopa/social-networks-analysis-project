@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+  },
+  "followers": {
+    "href": null,
+    "total": 707666
+  },
+  "genres": [
+    "east coast hip hop",
+    "old school hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "boom bap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+  "id": "2yQf6b8hxahZaT5dHlWaB1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd922d993d9c110580d51f724",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d922d993d9c110580d51f724",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d922d993d9c110580d51f724",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Raekwon",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+  },
+  "followers": {
+    "href": null,
+    "total": 79240
+  },
+  "genres": [
+    "disco house",
+    "funky house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6CwQfN34JdGHfo0A752Lts",
+  "id": "6CwQfN34JdGHfo0A752Lts",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95985c17f4964a0417da944b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517495985c17f4964a0417da944b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17895985c17f4964a0417da944b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "David Morales",
+  "popularity": 56,
+  "type": "artist",
+  "uri": "spotify:artist:6CwQfN34JdGHfo0A752Lts"
+}

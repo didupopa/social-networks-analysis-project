@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+  },
+  "followers": {
+    "href": null,
+    "total": 781824
+  },
+  "genres": [
+    "german hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1ul8iLt2WnFe2UIyovjg7q",
+  "id": "1ul8iLt2WnFe2UIyovjg7q",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcd5c0ba5c153e1a4e8b0b2a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bcd5c0ba5c153e1a4e8b0b2a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bcd5c0ba5c153e1a4e8b0b2a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "reezy",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:1ul8iLt2WnFe2UIyovjg7q"
+}

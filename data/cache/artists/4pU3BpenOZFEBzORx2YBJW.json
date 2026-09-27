@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+  },
+  "followers": {
+    "href": null,
+    "total": 243936
+  },
+  "genres": [
+    "opera",
+    "classical",
+    "classical crossover"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4pU3BpenOZFEBzORx2YBJW",
+  "id": "4pU3BpenOZFEBzORx2YBJW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cd7bd083928d11461642bf32df6f5bda813785f9",
+      "height": 887,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/87e98fa0114726ef01bb4dc202a32550c89a5fd0",
+      "height": 567,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/3c3a0ec489ec852dfb35a050da2153a2367c4609",
+      "height": 177,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/fa8cb007c988c9b080b85cccad3f088d56382eaf",
+      "height": 57,
+      "width": 64
+    }
+  ],
+  "name": "Plácido Domingo",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:4pU3BpenOZFEBzORx2YBJW"
+}

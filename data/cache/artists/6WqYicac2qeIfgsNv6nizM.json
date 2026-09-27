@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WqYicac2qeIfgsNv6nizM"
+  },
+  "followers": {
+    "href": null,
+    "total": 20
+  },
+  "genres": [
+    "city pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6WqYicac2qeIfgsNv6nizM",
+  "id": "6WqYicac2qeIfgsNv6nizM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b4737b8a205b773cce4fc8ec",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b4737b8a205b773cce4fc8ec",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b4737b8a205b773cce4fc8ec",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "이하늘",
+  "popularity": 1,
+  "type": "artist",
+  "uri": "spotify:artist:6WqYicac2qeIfgsNv6nizM"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
+  },
+  "followers": {
+    "href": null,
+    "total": 33956
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2teIxF2qgr0rYmTTMKiZ7s",
+  "id": "2teIxF2qgr0rYmTTMKiZ7s",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0c28ffd118c270f7d5a7683",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f0c28ffd118c270f7d5a7683",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f0c28ffd118c270f7d5a7683",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kevin McCall",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:2teIxF2qgr0rYmTTMKiZ7s"
+}

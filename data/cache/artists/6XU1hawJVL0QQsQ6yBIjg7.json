@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XU1hawJVL0QQsQ6yBIjg7"
+  },
+  "followers": {
+    "href": null,
+    "total": 676
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6XU1hawJVL0QQsQ6yBIjg7",
+  "id": "6XU1hawJVL0QQsQ6yBIjg7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad06d4704e70709c66bc014d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad06d4704e70709c66bc014d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485107b99b24bdb54c6b91284625",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Richard Madden",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:6XU1hawJVL0QQsQ6yBIjg7"
+}

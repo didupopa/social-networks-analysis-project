@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uWw05KgClElkcUt6tUO10"
+  },
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5uWw05KgClElkcUt6tUO10",
+  "id": "5uWw05KgClElkcUt6tUO10",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d0cfeabac2b9e6054087fda0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d0cfeabac2b9e6054087fda0",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d0cfeabac2b9e6054087fda0",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Soul Brother",
+  "popularity": 0,
+  "type": "artist",
+  "uri": "spotify:artist:5uWw05KgClElkcUt6tUO10"
+}

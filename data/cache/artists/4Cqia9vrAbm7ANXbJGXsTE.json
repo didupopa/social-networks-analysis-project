@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+  },
+  "followers": {
+    "href": null,
+    "total": 3142623
+  },
+  "genres": [
+    "hard rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4Cqia9vrAbm7ANXbJGXsTE",
+  "id": "4Cqia9vrAbm7ANXbJGXsTE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16bbce3d5fb8a51e7cc3dce0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517416bbce3d5fb8a51e7cc3dce0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17816bbce3d5fb8a51e7cc3dce0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Slash",
+  "popularity": 59,
+  "type": "artist",
+  "uri": "spotify:artist:4Cqia9vrAbm7ANXbJGXsTE"
+}

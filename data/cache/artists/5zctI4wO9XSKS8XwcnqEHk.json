@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+  },
+  "followers": {
+    "href": null,
+    "total": 6316310
+  },
+  "genres": [
+    "melodic rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5zctI4wO9XSKS8XwcnqEHk",
+  "id": "5zctI4wO9XSKS8XwcnqEHk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb253ca1b593bf197493a9fc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174db253ca1b593bf197493a9fc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178db253ca1b593bf197493a9fc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lil Mosey",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:5zctI4wO9XSKS8XwcnqEHk"
+}

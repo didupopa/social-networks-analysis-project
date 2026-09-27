@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+  },
+  "followers": {
+    "href": null,
+    "total": 24049694
+  },
+  "genres": [
+    "bollywood",
+    "hindi pop",
+    "kannada pop",
+    "tollywood"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs",
+  "id": "4IKVDbCSBTxBeAsMKjAuTs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb363d9b8ebe3df4a4ce2d91e0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174363d9b8ebe3df4a4ce2d91e0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178363d9b8ebe3df4a4ce2d91e0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Armaan Malik",
+  "popularity": 74,
+  "type": "artist",
+  "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+  },
+  "followers": {
+    "href": null,
+    "total": 162981
+  },
+  "genres": [
+    "hyphy"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2QLM9IFaHBtB16b8ZDaA3A",
+  "id": "2QLM9IFaHBtB16b8ZDaA3A",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb375040bbfeb2d3361abba4e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b375040bbfeb2d3361abba4e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b375040bbfeb2d3361abba4e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "P-Lo",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:2QLM9IFaHBtB16b8ZDaA3A"
+}

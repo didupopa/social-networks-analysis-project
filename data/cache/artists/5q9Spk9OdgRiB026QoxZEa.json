@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5q9Spk9OdgRiB026QoxZEa"
+  },
+  "followers": {
+    "href": null,
+    "total": 530
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5q9Spk9OdgRiB026QoxZEa",
+  "id": "5q9Spk9OdgRiB026QoxZEa",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc2fd3485be072a7fd2c8429",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc2fd3485be072a7fd2c8429",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851dc2fd3485be072a7fd2c8429",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "SonicC",
+  "popularity": 9,
+  "type": "artist",
+  "uri": "spotify:artist:5q9Spk9OdgRiB026QoxZEa"
+}

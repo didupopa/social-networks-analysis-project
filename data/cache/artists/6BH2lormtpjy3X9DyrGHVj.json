@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
+  },
+  "followers": {
+    "href": null,
+    "total": 1518746
+  },
+  "genres": [
+    "reggae",
+    "roots reggae",
+    "rocksteady"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6BH2lormtpjy3X9DyrGHVj",
+  "id": "6BH2lormtpjy3X9DyrGHVj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27317cac9c265bded79c54cea66",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0217cac9c265bded79c54cea66",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510e49f543ecfc45f2abf83295",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Bob Marley",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:6BH2lormtpjy3X9DyrGHVj"
+}

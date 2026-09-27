@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+  },
+  "followers": {
+    "href": null,
+    "total": 534007
+  },
+  "genres": [
+    "dubstep",
+    "riddim",
+    "edm",
+    "deathstep",
+    "bass music",
+    "dub"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+  "id": "3NJ94iuAmmMjbszODYT6pO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfc9970da15bab17462de33a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cfc9970da15bab17462de33a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cfc9970da15bab17462de33a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Subtronics",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+  },
+  "followers": {
+    "href": null,
+    "total": 5452011
+  },
+  "genres": [
+    "bedroom pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+  "id": "2sSGPbdZJkaSE2AbcGOACx",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174af586afa2b397f1288683a76",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178af586afa2b397f1288683a76",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Marías",
+  "popularity": 84,
+  "type": "artist",
+  "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+}

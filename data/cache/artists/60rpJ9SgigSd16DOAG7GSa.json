@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+  },
+  "followers": {
+    "href": null,
+    "total": 358321
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/60rpJ9SgigSd16DOAG7GSa",
+  "id": "60rpJ9SgigSd16DOAG7GSa",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2ffb33203795240c65405d6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d2ffb33203795240c65405d6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d2ffb33203795240c65405d6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Billy Ray Cyrus",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:60rpJ9SgigSd16DOAG7GSa"
+}

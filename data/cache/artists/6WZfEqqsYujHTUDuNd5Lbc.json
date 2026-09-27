@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+  },
+  "followers": {
+    "href": null,
+    "total": 163136
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6WZfEqqsYujHTUDuNd5Lbc",
+  "id": "6WZfEqqsYujHTUDuNd5Lbc",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14a9fa2b302a5c9d09d18af8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517414a9fa2b302a5c9d09d18af8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17814a9fa2b302a5c9d09d18af8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Travis Thompson",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:6WZfEqqsYujHTUDuNd5Lbc"
+}

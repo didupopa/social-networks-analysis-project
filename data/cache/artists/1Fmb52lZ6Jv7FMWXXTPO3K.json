@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+  },
+  "followers": {
+    "href": null,
+    "total": 1374231
+  },
+  "genres": [
+    "rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1Fmb52lZ6Jv7FMWXXTPO3K",
+  "id": "1Fmb52lZ6Jv7FMWXXTPO3K",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18b65165ad4f5f1c188efc0b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517418b65165ad4f5f1c188efc0b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17818b65165ad4f5f1c188efc0b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Joan Jett & the Blackhearts",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:1Fmb52lZ6Jv7FMWXXTPO3K"
+}

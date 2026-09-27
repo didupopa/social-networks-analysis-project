@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+  },
+  "followers": {
+    "href": null,
+    "total": 37397
+  },
+  "genres": [
+    "cloud rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4bbAeMRdMbfCLVSlpryAVV",
+  "id": "4bbAeMRdMbfCLVSlpryAVV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb955a83ea609d27333f3154f1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174955a83ea609d27333f3154f1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178955a83ea609d27333f3154f1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "evilgiane",
+  "popularity": 43,
+  "type": "artist",
+  "uri": "spotify:artist:4bbAeMRdMbfCLVSlpryAVV"
+}

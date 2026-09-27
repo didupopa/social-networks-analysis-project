@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kEqHxYIKXMBcEU0VYqi0H"
+  },
+  "followers": {
+    "href": null,
+    "total": 17217
+  },
+  "genres": [
+    "funk melody",
+    "funk carioca"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2kEqHxYIKXMBcEU0VYqi0H",
+  "id": "2kEqHxYIKXMBcEU0VYqi0H",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1371ca1d953122664996ec0c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741371ca1d953122664996ec0c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781371ca1d953122664996ec0c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mulher Filé",
+  "popularity": 19,
+  "type": "artist",
+  "uri": "spotify:artist:2kEqHxYIKXMBcEU0VYqi0H"
+}

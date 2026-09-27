@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08hBcrecIIDELlHMmASzp0"
+  },
+  "followers": {
+    "href": null,
+    "total": 1962
+  },
+  "genres": [
+    "rockabilly",
+    "exotica"
+  ],
+  "href": "https://api.spotify.com/v1/artists/08hBcrecIIDELlHMmASzp0",
+  "id": "08hBcrecIIDELlHMmASzp0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27378cfcbde4a6ff5808ec9acb1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e029a5f9ad4b0cf700f7236e5f6",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485178cfcbde4a6ff5808ec9acb1",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Bob Taylor",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:08hBcrecIIDELlHMmASzp0"
+}

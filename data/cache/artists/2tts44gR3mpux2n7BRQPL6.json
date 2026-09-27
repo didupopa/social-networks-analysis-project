@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tts44gR3mpux2n7BRQPL6"
+  },
+  "followers": {
+    "href": null,
+    "total": 9
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2tts44gR3mpux2n7BRQPL6",
+  "id": "2tts44gR3mpux2n7BRQPL6",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfe2113e319428c102f836c3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02875eeb8a5b1460168d93b7e9",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851cfe2113e319428c102f836c3",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "김우근",
+  "popularity": 1,
+  "type": "artist",
+  "uri": "spotify:artist:2tts44gR3mpux2n7BRQPL6"
+}

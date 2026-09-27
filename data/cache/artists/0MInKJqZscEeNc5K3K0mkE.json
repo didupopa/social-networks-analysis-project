@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+  },
+  "followers": {
+    "href": null,
+    "total": 5872883
+  },
+  "genres": [
+    "sertanejo",
+    "sertanejo universitário",
+    "forró",
+    "arrocha",
+    "brazilian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0MInKJqZscEeNc5K3K0mkE",
+  "id": "0MInKJqZscEeNc5K3K0mkE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba108594c6d9e69bd76ee9ce0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a108594c6d9e69bd76ee9ce0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a108594c6d9e69bd76ee9ce0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Simone & Simaria",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:0MInKJqZscEeNc5K3K0mkE"
+}

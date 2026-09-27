@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
+  },
+  "followers": {
+    "href": null,
+    "total": 120399
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4aSEmLLxLX9wR5aLMllOKj",
+  "id": "4aSEmLLxLX9wR5aLMllOKj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4e5c810791cc620520e71580",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744e5c810791cc620520e71580",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784e5c810791cc620520e71580",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Los Lonely Boys",
+  "popularity": 50,
+  "type": "artist",
+  "uri": "spotify:artist:4aSEmLLxLX9wR5aLMllOKj"
+}

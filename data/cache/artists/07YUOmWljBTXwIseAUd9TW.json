@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+  },
+  "followers": {
+    "href": null,
+    "total": 25209961
+  },
+  "genres": [
+    "colombian pop",
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/07YUOmWljBTXwIseAUd9TW",
+  "id": "07YUOmWljBTXwIseAUd9TW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90671876e11f39f835ececa4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517490671876e11f39f835ececa4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17890671876e11f39f835ececa4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Sebastian Yatra",
+  "popularity": 80,
+  "type": "artist",
+  "uri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
+}

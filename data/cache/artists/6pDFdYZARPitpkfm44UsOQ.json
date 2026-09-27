@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 378216
+  },
+  "genres": [
+    "southern hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6pDFdYZARPitpkfm44UsOQ",
+  "id": "6pDFdYZARPitpkfm44UsOQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d3d089d3d51e0646fac6ca34b108f07871e49d30",
+      "height": 1500,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/b99447d7ccd9c2f38393fcf8061f5279609cc8ef",
+      "height": 960,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1eab7237018d602760ea558426c53629e3f8a0e4",
+      "height": 300,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/9ed1ca1116037235cb8d576384990a982b6cc7a9",
+      "height": 96,
+      "width": 64
+    }
+  ],
+  "name": "MJG",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:6pDFdYZARPitpkfm44UsOQ"
+}

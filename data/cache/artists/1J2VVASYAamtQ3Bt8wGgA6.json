@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+  },
+  "followers": {
+    "href": null,
+    "total": 2369412
+  },
+  "genres": [
+    "east coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1J2VVASYAamtQ3Bt8wGgA6",
+  "id": "1J2VVASYAamtQ3Bt8wGgA6",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb47b549b590b63e52c68b89b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b47b549b590b63e52c68b89b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b47b549b590b63e52c68b89b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ja Rule",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:1J2VVASYAamtQ3Bt8wGgA6"
+}

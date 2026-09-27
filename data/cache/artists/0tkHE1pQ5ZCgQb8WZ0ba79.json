@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+  },
+  "followers": {
+    "href": null,
+    "total": 182132
+  },
+  "genres": [
+    "k-rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0tkHE1pQ5ZCgQb8WZ0ba79",
+  "id": "0tkHE1pQ5ZCgQb8WZ0ba79",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb565d74260dc9cde601bfa6e0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174565d74260dc9cde601bfa6e0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178565d74260dc9cde601bfa6e0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Gaeko",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:0tkHE1pQ5ZCgQb8WZ0ba79"
+}

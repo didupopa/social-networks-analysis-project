@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo"
+  },
+  "followers": {
+    "href": null,
+    "total": 22357
+  },
+  "genres": [
+    "bass house",
+    "future house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/42tlZWSz1V6Rsqds29GcRo",
+  "id": "42tlZWSz1V6Rsqds29GcRo",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb345b374115ffd79e2bc1402d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174345b374115ffd79e2bc1402d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178345b374115ffd79e2bc1402d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tommie Sunshine",
+  "popularity": 38,
+  "type": "artist",
+  "uri": "spotify:artist:42tlZWSz1V6Rsqds29GcRo"
+}

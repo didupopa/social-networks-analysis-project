@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nU9Rg6157nS2p7zUfZJ6p"
+  },
+  "followers": {
+    "href": null,
+    "total": 193850
+  },
+  "genres": [
+    "manele"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6nU9Rg6157nS2p7zUfZJ6p",
+  "id": "6nU9Rg6157nS2p7zUfZJ6p",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf7d5f6bd58d1dbcd358498f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cf7d5f6bd58d1dbcd358498f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cf7d5f6bd58d1dbcd358498f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Adrian Minune",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:6nU9Rg6157nS2p7zUfZJ6p"
+}

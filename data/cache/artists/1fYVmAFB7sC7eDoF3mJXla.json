@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+  },
+  "followers": {
+    "href": null,
+    "total": 1954358
+  },
+  "genres": [
+    "afrobeats",
+    "afrobeat",
+    "afropop",
+    "azonto",
+    "afropiano",
+    "afro r&b",
+    "afroswing"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1fYVmAFB7sC7eDoF3mJXla",
+  "id": "1fYVmAFB7sC7eDoF3mJXla",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8b2df4950b783ac01677a4e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c8b2df4950b783ac01677a4e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c8b2df4950b783ac01677a4e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Wande Coal",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:1fYVmAFB7sC7eDoF3mJXla"
+}

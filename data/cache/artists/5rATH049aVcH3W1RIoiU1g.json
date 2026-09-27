@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
+  },
+  "followers": {
+    "href": null,
+    "total": 4086
+  },
+  "genres": [
+    "tech house",
+    "latin house",
+    "techengue"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5rATH049aVcH3W1RIoiU1g",
+  "id": "5rATH049aVcH3W1RIoiU1g",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd768436c39a7126697ac767c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d768436c39a7126697ac767c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d768436c39a7126697ac767c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dmitri Saidi",
+  "popularity": 26,
+  "type": "artist",
+  "uri": "spotify:artist:5rATH049aVcH3W1RIoiU1g"
+}

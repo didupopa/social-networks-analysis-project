@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+  },
+  "followers": {
+    "href": null,
+    "total": 17527
+  },
+  "genres": [
+    "uk garage",
+    "bassline"
+  ],
+  "href": "https://api.spotify.com/v1/artists/11HK31aj8j8QJ3ZnSlqox4",
+  "id": "11HK31aj8j8QJ3ZnSlqox4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe882f5a7a3504d898cbecdb7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e882f5a7a3504d898cbecdb7",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e882f5a7a3504d898cbecdb7",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Star.One",
+  "popularity": 39,
+  "type": "artist",
+  "uri": "spotify:artist:11HK31aj8j8QJ3ZnSlqox4"
+}

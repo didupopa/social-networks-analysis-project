@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+  },
+  "followers": {
+    "href": null,
+    "total": 5204651
+  },
+  "genres": [
+    "reggaeton",
+    "trap latino",
+    "urbano latino",
+    "dembow"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1TtXnWcUs0FCkaZDPGYHdf",
+  "id": "1TtXnWcUs0FCkaZDPGYHdf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb594bb04c77f6c06c5b4cf1f3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174594bb04c77f6c06c5b4cf1f3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178594bb04c77f6c06c5b4cf1f3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Darell",
+  "popularity": 78,
+  "type": "artist",
+  "uri": "spotify:artist:1TtXnWcUs0FCkaZDPGYHdf"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qleVDOFPjfZTYR4yCefdm"
+  },
+  "followers": {
+    "href": null,
+    "total": 8223
+  },
+  "genres": [
+    "opm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5qleVDOFPjfZTYR4yCefdm",
+  "id": "5qleVDOFPjfZTYR4yCefdm",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27351bc57685db777c0136729be",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0251bc57685db777c0136729be",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485151bc57685db777c0136729be",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "James Wright",
+  "popularity": 17,
+  "type": "artist",
+  "uri": "spotify:artist:5qleVDOFPjfZTYR4yCefdm"
+}

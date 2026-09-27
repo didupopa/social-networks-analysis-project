@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q"
+  },
+  "followers": {
+    "href": null,
+    "total": 1424
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4KLOMib6zqzNayKwLWTs2Q",
+  "id": "4KLOMib6zqzNayKwLWTs2Q",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273aaa29ec3618fc79535257c94",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02aaa29ec3618fc79535257c94",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851aaa29ec3618fc79535257c94",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Andrés Torres",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:4KLOMib6zqzNayKwLWTs2Q"
+}

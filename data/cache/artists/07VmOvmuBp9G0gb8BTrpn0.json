@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+  },
+  "followers": {
+    "href": null,
+    "total": 779293
+  },
+  "genres": [
+    "southern hip hop",
+    "crunk"
+  ],
+  "href": "https://api.spotify.com/v1/artists/07VmOvmuBp9G0gb8BTrpn0",
+  "id": "07VmOvmuBp9G0gb8BTrpn0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfafdf9520195ad3273e3b9ca",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fafdf9520195ad3273e3b9ca",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fafdf9520195ad3273e3b9ca",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mike Jones",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:07VmOvmuBp9G0gb8BTrpn0"
+}

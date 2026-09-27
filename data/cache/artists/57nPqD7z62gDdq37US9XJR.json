@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+  },
+  "followers": {
+    "href": null,
+    "total": 858500
+  },
+  "genres": [
+    "score"
+  ],
+  "href": "https://api.spotify.com/v1/artists/57nPqD7z62gDdq37US9XJR",
+  "id": "57nPqD7z62gDdq37US9XJR",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba056b2ecc1a70ab57cdcc10b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a056b2ecc1a70ab57cdcc10b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a056b2ecc1a70ab57cdcc10b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Arcane",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+}

@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+  },
+  "followers": {
+    "href": null,
+    "total": 990092
+  },
+  "genres": [
+    "garage rock",
+    "alternative rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4wo1267SJuUfHgasdlfNfc",
+  "id": "4wo1267SJuUfHgasdlfNfc",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1b222f51466c099834dfde3b8648d61e2fb82678",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/735969a1f68b72af4793345fd3c47cd7f04a7b30",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ea02964dcd4ee670af7fb0e109b6dfc0d9e152d6",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/4ad453ccd47c204e0bc73f480a240be273b0e442",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "The Raconteurs",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:4wo1267SJuUfHgasdlfNfc"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jmSHT5SGq5qAFWQ62kphd"
+  },
+  "followers": {
+    "href": null,
+    "total": 1239
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2jmSHT5SGq5qAFWQ62kphd",
+  "id": "2jmSHT5SGq5qAFWQ62kphd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27390b6bd6523a444169c593d77",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0290b6bd6523a444169c593d77",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485190b6bd6523a444169c593d77",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Rad Omen",
+  "popularity": 18,
+  "type": "artist",
+  "uri": "spotify:artist:2jmSHT5SGq5qAFWQ62kphd"
+}

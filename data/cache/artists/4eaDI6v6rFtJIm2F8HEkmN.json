@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4eaDI6v6rFtJIm2F8HEkmN"
+  },
+  "followers": {
+    "href": null,
+    "total": 658
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4eaDI6v6rFtJIm2F8HEkmN",
+  "id": "4eaDI6v6rFtJIm2F8HEkmN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27351d449c0fb577f20a19409eb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0251d449c0fb577f20a19409eb",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485151d449c0fb577f20a19409eb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Pooh Bear",
+  "popularity": 23,
+  "type": "artist",
+  "uri": "spotify:artist:4eaDI6v6rFtJIm2F8HEkmN"
+}

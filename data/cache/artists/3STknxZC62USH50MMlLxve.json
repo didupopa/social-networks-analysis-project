@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3STknxZC62USH50MMlLxve"
+  },
+  "followers": {
+    "href": null,
+    "total": 3929
+  },
+  "genres": [
+    "uk drill",
+    "drill"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3STknxZC62USH50MMlLxve",
+  "id": "3STknxZC62USH50MMlLxve",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66360aae9bf6b53012d777ab",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517466360aae9bf6b53012d777ab",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17866360aae9bf6b53012d777ab",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lil Bro",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:3STknxZC62USH50MMlLxve"
+}

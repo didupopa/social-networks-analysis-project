@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+  },
+  "followers": {
+    "href": null,
+    "total": 5741513
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1z7b1Pr1rSlvWRzsW3HOrS",
+  "id": "1z7b1Pr1rSlvWRzsW3HOrS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd155a3a187977765ffd9e07a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d155a3a187977765ffd9e07a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d155a3a187977765ffd9e07a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Russ",
+  "popularity": 75,
+  "type": "artist",
+  "uri": "spotify:artist:1z7b1Pr1rSlvWRzsW3HOrS"
+}

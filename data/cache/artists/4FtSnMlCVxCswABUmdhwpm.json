@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+  },
+  "followers": {
+    "href": null,
+    "total": 1359556
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4FtSnMlCVxCswABUmdhwpm",
+  "id": "4FtSnMlCVxCswABUmdhwpm",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8a121647ac451ef6397d40cd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051748a121647ac451ef6397d40cd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1788a121647ac451ef6397d40cd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Carly Simon",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:4FtSnMlCVxCswABUmdhwpm"
+}

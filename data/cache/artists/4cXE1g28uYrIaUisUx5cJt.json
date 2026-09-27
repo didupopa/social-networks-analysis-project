@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+  },
+  "followers": {
+    "href": null,
+    "total": 71168
+  },
+  "genres": [
+    "norwegian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4cXE1g28uYrIaUisUx5cJt",
+  "id": "4cXE1g28uYrIaUisUx5cJt",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb223747f61f63f186f35e53f5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174223747f61f63f186f35e53f5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178223747f61f63f186f35e53f5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Emilie Nicolas",
+  "popularity": 44,
+  "type": "artist",
+  "uri": "spotify:artist:4cXE1g28uYrIaUisUx5cJt"
+}

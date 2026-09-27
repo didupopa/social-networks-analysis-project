@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EpmQFTiJbcxzwbLpuUL8L"
+  },
+  "followers": {
+    "href": null,
+    "total": 11914
+  },
+  "genres": [
+    "stoner rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1EpmQFTiJbcxzwbLpuUL8L",
+  "id": "1EpmQFTiJbcxzwbLpuUL8L",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ab61efd415e5abaf2314b69",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021ab61efd415e5abaf2314b69",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511ab61efd415e5abaf2314b69",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Rick Rubin",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:1EpmQFTiJbcxzwbLpuUL8L"
+}

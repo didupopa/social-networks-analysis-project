@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG"
+  },
+  "followers": {
+    "href": null,
+    "total": 84857
+  },
+  "genres": [
+    "contemporary classical",
+    "neoclassical"
+  ],
+  "href": "https://api.spotify.com/v1/artists/359LKbZWLk6u3IpyNE2CQG",
+  "id": "359LKbZWLk6u3IpyNE2CQG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb11448edd63e2b2a19000e4b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b11448edd63e2b2a19000e4b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b11448edd63e2b2a19000e4b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Roberto Cacciapaglia",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:359LKbZWLk6u3IpyNE2CQG"
+}

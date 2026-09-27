@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 5918309
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7bmYpVgQub656uNTu6qGNQ",
+  "id": "7bmYpVgQub656uNTu6qGNQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0e82a43b4f076a736c515e6f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051740e82a43b4f076a736c515e6f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1780e82a43b4f076a736c515e6f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "HWASA",
+  "popularity": 65,
+  "type": "artist",
+  "uri": "spotify:artist:7bmYpVgQub656uNTu6qGNQ"
+}

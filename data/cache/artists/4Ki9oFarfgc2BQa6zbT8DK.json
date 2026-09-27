@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Ki9oFarfgc2BQa6zbT8DK"
+  },
+  "followers": {
+    "href": null,
+    "total": 2234
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4Ki9oFarfgc2BQa6zbT8DK",
+  "id": "4Ki9oFarfgc2BQa6zbT8DK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3db6ade4834d3f6d12263695",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743db6ade4834d3f6d12263695",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783db6ade4834d3f6d12263695",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mike Slap",
+  "popularity": 27,
+  "type": "artist",
+  "uri": "spotify:artist:4Ki9oFarfgc2BQa6zbT8DK"
+}

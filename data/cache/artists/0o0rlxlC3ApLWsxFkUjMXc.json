@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+  },
+  "followers": {
+    "href": null,
+    "total": 1318517
+  },
+  "genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0o0rlxlC3ApLWsxFkUjMXc",
+  "id": "0o0rlxlC3ApLWsxFkUjMXc",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe115520460709f5ffb3df474",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e115520460709f5ffb3df474",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e115520460709f5ffb3df474",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ziggy Marley",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:0o0rlxlC3ApLWsxFkUjMXc"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+  },
+  "followers": {
+    "href": null,
+    "total": 7020971
+  },
+  "genres": [
+    "latin pop",
+    "reggaeton",
+    "pop urbano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+  "id": "2wkoKEfS6dXwThbyTnZWFU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4a933da0a1bd24bee7c6b8c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d4a933da0a1bd24bee7c6b8c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d4a933da0a1bd24bee7c6b8c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Mau y Ricky",
+  "popularity": 68,
+  "type": "artist",
+  "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+}

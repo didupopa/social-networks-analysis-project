@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH"
+  },
+  "followers": {
+    "href": null,
+    "total": 1601
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/4WzpqecdwnCeWATK2UpssH",
+  "id": "4WzpqecdwnCeWATK2UpssH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273319ac0a15fd8c5c683a1e854",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02319ac0a15fd8c5c683a1e854",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851fd77f8cc36bc8cbea9a8f817",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "OLIVER",
+  "popularity": 16,
+  "type": "artist",
+  "uri": "spotify:artist:4WzpqecdwnCeWATK2UpssH"
+}

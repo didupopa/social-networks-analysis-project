@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+  },
+  "followers": {
+    "href": null,
+    "total": 30089
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3eJCIS7ytlYvT3pgReuWWa",
+  "id": "3eJCIS7ytlYvT3pgReuWWa",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec78767c89a35c2fc9bc085e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ec78767c89a35c2fc9bc085e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ec78767c89a35c2fc9bc085e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Madeline Edwards",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:3eJCIS7ytlYvT3pgReuWWa"
+}

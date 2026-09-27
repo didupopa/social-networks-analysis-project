@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN"
+  },
+  "followers": {
+    "href": null,
+    "total": 196044
+  },
+  "genres": [
+    "southern hip hop",
+    "new orleans bounce"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0ecnb1WPePfrHg4yfQfmqN",
+  "id": "0ecnb1WPePfrHg4yfQfmqN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8be6c8c78640d277e9eb4f3da89ff213b8d6be61",
+      "height": 1309,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/dcaa3d6fbb5a3a3655bec7a04cbbdd32f7fda591",
+      "height": 838,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/17c16404ade9e7f9233c069325a14c49103e2c98",
+      "height": 262,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/995ec268937aaaf422c49880034670a498f5af34",
+      "height": 84,
+      "width": 64
+    }
+  ],
+  "name": "Hot Boys",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:0ecnb1WPePfrHg4yfQfmqN"
+}

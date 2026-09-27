@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+  },
+  "followers": {
+    "href": null,
+    "total": 1380605
+  },
+  "genres": [
+    "k-ballad",
+    "k-pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5dCvSnVduaFleCnyy98JMo",
+  "id": "5dCvSnVduaFleCnyy98JMo",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29117e38caf056aba53cc80c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517429117e38caf056aba53cc80c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17829117e38caf056aba53cc80c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Heize",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:5dCvSnVduaFleCnyy98JMo"
+}

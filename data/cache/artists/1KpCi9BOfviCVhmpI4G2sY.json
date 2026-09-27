@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+  },
+  "followers": {
+    "href": null,
+    "total": 436219
+  },
+  "genres": [
+    "future house",
+    "bass house",
+    "g-house",
+    "house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+  "id": "1KpCi9BOfviCVhmpI4G2sY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49ebf5eff6e11e41c2ef7922",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517449ebf5eff6e11e41c2ef7922",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17849ebf5eff6e11e41c2ef7922",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tchami",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+}

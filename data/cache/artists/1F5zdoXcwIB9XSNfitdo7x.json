@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
+  },
+  "followers": {
+    "href": null,
+    "total": 44316
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1F5zdoXcwIB9XSNfitdo7x",
+  "id": "1F5zdoXcwIB9XSNfitdo7x",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb885d3d2612da61fc9f2bda59",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174885d3d2612da61fc9f2bda59",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178885d3d2612da61fc9f2bda59",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jon Connor",
+  "popularity": 37,
+  "type": "artist",
+  "uri": "spotify:artist:1F5zdoXcwIB9XSNfitdo7x"
+}

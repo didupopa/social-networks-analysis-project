@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cJ7uWeuPLZ7qKW5udIqbG"
+  },
+  "followers": {
+    "href": null,
+    "total": 7572
+  },
+  "genres": [
+    "k-ballad",
+    "k-rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6cJ7uWeuPLZ7qKW5udIqbG",
+  "id": "6cJ7uWeuPLZ7qKW5udIqbG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4ef9c1669949e8e872f5532",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4ef9c1669949e8e872f5532",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851c4ef9c1669949e8e872f5532",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Jeon Inkwon",
+  "popularity": 27,
+  "type": "artist",
+  "uri": "spotify:artist:6cJ7uWeuPLZ7qKW5udIqbG"
+}

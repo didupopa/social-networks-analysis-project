@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hhtDxcWeOeWLn3z2IgDum"
+  },
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6hhtDxcWeOeWLn3z2IgDum",
+  "id": "6hhtDxcWeOeWLn3z2IgDum",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2734dbd841915a321c53dd45d58",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021b20f543c703e8c0b112215a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511b20f543c703e8c0b112215a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Big Pimpin",
+  "popularity": 18,
+  "type": "artist",
+  "uri": "spotify:artist:6hhtDxcWeOeWLn3z2IgDum"
+}

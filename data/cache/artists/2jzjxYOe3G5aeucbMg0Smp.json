@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jzjxYOe3G5aeucbMg0Smp"
+  },
+  "followers": {
+    "href": null,
+    "total": 38439
+  },
+  "genres": [
+    "glam rock",
+    "proto-punk"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2jzjxYOe3G5aeucbMg0Smp",
+  "id": "2jzjxYOe3G5aeucbMg0Smp",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/64fc2946e4e3d6ba0cb528b0da7879cd84c48c4a",
+      "height": 669,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/6f2317ae7b499bef19d2ffa5bd8bc09946ec35f1",
+      "height": 428,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/e25d3ef1b8501f048bfbceac7fa3dc6782920594",
+      "height": 134,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/eebbecd93460cff39ee8f549aaa33dbe5bca4895",
+      "height": 43,
+      "width": 64
+    }
+  ],
+  "name": "Mick Ronson",
+  "popularity": 26,
+  "type": "artist",
+  "uri": "spotify:artist:2jzjxYOe3G5aeucbMg0Smp"
+}

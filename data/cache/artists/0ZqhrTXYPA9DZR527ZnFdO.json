@@ -1,0 +1,41 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+  },
+  "followers": {
+    "href": null,
+    "total": 266484
+  },
+  "genres": [
+    "hard bop",
+    "jazz",
+    "jazz ballads",
+    "bebop",
+    "cool jazz",
+    "free jazz",
+    "jazz fusion"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0ZqhrTXYPA9DZR527ZnFdO",
+  "id": "0ZqhrTXYPA9DZR527ZnFdO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2c09a4f7094c254059ae9fb3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051742c09a4f7094c254059ae9fb3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1782c09a4f7094c254059ae9fb3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Wayne Shorter",
+  "popularity": 51,
+  "type": "artist",
+  "uri": "spotify:artist:0ZqhrTXYPA9DZR527ZnFdO"
+}

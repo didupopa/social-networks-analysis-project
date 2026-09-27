@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+  },
+  "followers": {
+    "href": null,
+    "total": 528047
+  },
+  "genres": [
+    "alternative r&b",
+    "indie soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0tbeZu9lv8YEKSQ9tZSslu",
+  "id": "0tbeZu9lv8YEKSQ9tZSslu",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7f15e8167fb79fe64582e96",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a7f15e8167fb79fe64582e96",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a7f15e8167fb79fe64582e96",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Amber Mark",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:0tbeZu9lv8YEKSQ9tZSslu"
+}

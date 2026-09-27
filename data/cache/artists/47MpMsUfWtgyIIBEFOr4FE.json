@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+  },
+  "followers": {
+    "href": null,
+    "total": 10160269
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+  "id": "47MpMsUfWtgyIIBEFOr4FE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79fb8058b39d5b8dfbca4c09",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517479fb8058b39d5b8dfbca4c09",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17879fb8058b39d5b8dfbca4c09",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Lunay",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+  },
+  "followers": {
+    "href": null,
+    "total": 133574
+  },
+  "genres": [
+    "new orleans bounce",
+    "bounce",
+    "ballroom vogue"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2gyv1akuIB9fQvXoGSPaJr",
+  "id": "2gyv1akuIB9fQvXoGSPaJr",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4552782f5895272eea6506f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a4552782f5895272eea6506f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a4552782f5895272eea6506f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Big Freedia",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:2gyv1akuIB9fQvXoGSPaJr"
+}

@@ -1,0 +1,43 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+  },
+  "followers": {
+    "href": null,
+    "total": 173217
+  },
+  "genres": [
+    "son cubano",
+    "afro-cuban jazz",
+    "latin jazz",
+    "bolero"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5dss7E1Ph0KxuF1ULfAx4D",
+  "id": "5dss7E1Ph0KxuF1ULfAx4D",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cf4ef8425c01c80be8ff1485d",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22f4ef8425c01c80be8ff1485d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3f4ef8425c01c80be8ff1485d",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74f4ef8425c01c80be8ff1485d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Ibrahim Ferrer",
+  "popularity": 51,
+  "type": "artist",
+  "uri": "spotify:artist:5dss7E1Ph0KxuF1ULfAx4D"
+}

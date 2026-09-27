@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cPx6GO1OtgKDXQBQISrnX"
+  },
+  "followers": {
+    "href": null,
+    "total": 382
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/0cPx6GO1OtgKDXQBQISrnX",
+  "id": "0cPx6GO1OtgKDXQBQISrnX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3b75015fd153af2153a0993",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3b75015fd153af2153a0993",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b3b75015fd153af2153a0993",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Alin",
+  "popularity": 1,
+  "type": "artist",
+  "uri": "spotify:artist:0cPx6GO1OtgKDXQBQISrnX"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+  },
+  "followers": {
+    "href": null,
+    "total": 1270952
+  },
+  "genres": [
+    "latin alternative",
+    "electrocumbia"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5n9bMYfz9qss2VOW89EVs2",
+  "id": "5n9bMYfz9qss2VOW89EVs2",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6138f2e113c0f569b2c3f5a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b6138f2e113c0f569b2c3f5a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b6138f2e113c0f569b2c3f5a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bomba Estéreo",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:5n9bMYfz9qss2VOW89EVs2"
+}

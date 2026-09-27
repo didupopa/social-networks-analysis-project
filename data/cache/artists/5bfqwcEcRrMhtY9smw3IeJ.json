@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+  },
+  "followers": {
+    "href": null,
+    "total": 88903
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5bfqwcEcRrMhtY9smw3IeJ",
+  "id": "5bfqwcEcRrMhtY9smw3IeJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01b5c34ca426cb4fe45ff1bf",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517401b5c34ca426cb4fe45ff1bf",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17801b5c34ca426cb4fe45ff1bf",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dave B.",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:5bfqwcEcRrMhtY9smw3IeJ"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+  },
+  "followers": {
+    "href": null,
+    "total": 15832
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/76yeOnINtQSXyoEHbkYmtY",
+  "id": "76yeOnINtQSXyoEHbkYmtY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70c3b9d362ee1937ef535a58",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517470c3b9d362ee1937ef535a58",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17870c3b9d362ee1937ef535a58",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Drew Love",
+  "popularity": 48,
+  "type": "artist",
+  "uri": "spotify:artist:76yeOnINtQSXyoEHbkYmtY"
+}

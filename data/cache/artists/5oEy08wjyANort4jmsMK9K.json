@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oEy08wjyANort4jmsMK9K"
+  },
+  "followers": {
+    "href": null,
+    "total": 621
+  },
+  "genres": [
+    "fado"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5oEy08wjyANort4jmsMK9K",
+  "id": "5oEy08wjyANort4jmsMK9K",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2c5b1ef5c16f0ab85b4833a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2c5b1ef5c16f0ab85b4833a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a2c5b1ef5c16f0ab85b4833a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lauren",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:5oEy08wjyANort4jmsMK9K"
+}

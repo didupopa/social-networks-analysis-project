@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zNKjWObj13QQ3IpwAtib3"
+  },
+  "followers": {
+    "href": null,
+    "total": 3910
+  },
+  "genres": [
+    "happy hardcore"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1zNKjWObj13QQ3IpwAtib3",
+  "id": "1zNKjWObj13QQ3IpwAtib3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27352da57e6d12dfb02a47ee740",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0252da57e6d12dfb02a47ee740",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485152da57e6d12dfb02a47ee740",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Bimbo Jones",
+  "popularity": 30,
+  "type": "artist",
+  "uri": "spotify:artist:1zNKjWObj13QQ3IpwAtib3"
+}

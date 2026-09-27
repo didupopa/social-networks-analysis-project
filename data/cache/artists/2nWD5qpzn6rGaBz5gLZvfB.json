@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nWD5qpzn6rGaBz5gLZvfB"
+  },
+  "followers": {
+    "href": null,
+    "total": 20957
+  },
+  "genres": [
+    "edm trap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2nWD5qpzn6rGaBz5gLZvfB",
+  "id": "2nWD5qpzn6rGaBz5gLZvfB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76f3dbef40938fe8333a3ccd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517476f3dbef40938fe8333a3ccd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17876f3dbef40938fe8333a3ccd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ricky Remedy",
+  "popularity": 28,
+  "type": "artist",
+  "uri": "spotify:artist:2nWD5qpzn6rGaBz5gLZvfB"
+}

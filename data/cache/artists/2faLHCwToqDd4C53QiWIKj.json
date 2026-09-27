@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj"
+  },
+  "followers": {
+    "href": null,
+    "total": 2806
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2faLHCwToqDd4C53QiWIKj",
+  "id": "2faLHCwToqDd4C53QiWIKj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a70c1164772484cee509b806",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0223bc29f5496853e0dbbec899",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485123bc29f5496853e0dbbec899",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Moto Blanco",
+  "popularity": 33,
+  "type": "artist",
+  "uri": "spotify:artist:2faLHCwToqDd4C53QiWIKj"
+}

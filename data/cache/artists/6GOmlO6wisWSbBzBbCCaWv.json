@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
+  },
+  "followers": {
+    "href": null,
+    "total": 5874
+  },
+  "genres": [
+    "post-disco"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6GOmlO6wisWSbBzBbCCaWv",
+  "id": "6GOmlO6wisWSbBzBbCCaWv",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cc5c25d98ebc03b3dcd13f6d7",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22c5c25d98ebc03b3dcd13f6d7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3c5c25d98ebc03b3dcd13f6d7",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74c5c25d98ebc03b3dcd13f6d7",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Shep Pettibone",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:6GOmlO6wisWSbBzBbCCaWv"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3MG5skX8kY7y3ddc9sCjzH"
+  },
+  "followers": {
+    "href": null,
+    "total": 8007
+  },
+  "genres": [
+    "jungle"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3MG5skX8kY7y3ddc9sCjzH",
+  "id": "3MG5skX8kY7y3ddc9sCjzH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfea6eac32be49e2dd4576ec",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dfea6eac32be49e2dd4576ec",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dfea6eac32be49e2dd4576ec",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Capone",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:3MG5skX8kY7y3ddc9sCjzH"
+}

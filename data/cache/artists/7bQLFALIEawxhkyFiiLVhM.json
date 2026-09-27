@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+  },
+  "followers": {
+    "href": null,
+    "total": 41769
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7bQLFALIEawxhkyFiiLVhM",
+  "id": "7bQLFALIEawxhkyFiiLVhM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a1cddbacdf1414a73c9f9f0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741a1cddbacdf1414a73c9f9f0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781a1cddbacdf1414a73c9f9f0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Doss",
+  "popularity": 38,
+  "type": "artist",
+  "uri": "spotify:artist:7bQLFALIEawxhkyFiiLVhM"
+}

@@ -1,0 +1,39 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+  },
+  "followers": {
+    "href": null,
+    "total": 3932236
+  },
+  "genres": [
+    "brazilian trap",
+    "trap funk",
+    "trap",
+    "brazilian funk",
+    "brazilian hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/68PYmgkbRP1qZnEWOry7sB",
+  "id": "68PYmgkbRP1qZnEWOry7sB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73a91c82514cf15b6a5aa219",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517473a91c82514cf15b6a5aa219",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17873a91c82514cf15b6a5aa219",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Chefin",
+  "popularity": 70,
+  "type": "artist",
+  "uri": "spotify:artist:68PYmgkbRP1qZnEWOry7sB"
+}

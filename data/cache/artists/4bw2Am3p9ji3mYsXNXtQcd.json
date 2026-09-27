@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+  },
+  "followers": {
+    "href": null,
+    "total": 10045771
+  },
+  "genres": [
+    "reggaeton",
+    "colombian pop",
+    "pop urbano"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4bw2Am3p9ji3mYsXNXtQcd",
+  "id": "4bw2Am3p9ji3mYsXNXtQcd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba68d760a983f2a5c8a89dbe4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a68d760a983f2a5c8a89dbe4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a68d760a983f2a5c8a89dbe4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Piso 21",
+  "popularity": 76,
+  "type": "artist",
+  "uri": "spotify:artist:4bw2Am3p9ji3mYsXNXtQcd"
+}

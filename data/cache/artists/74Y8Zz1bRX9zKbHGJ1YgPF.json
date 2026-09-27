@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74Y8Zz1bRX9zKbHGJ1YgPF"
+  },
+  "followers": {
+    "href": null,
+    "total": 375
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/74Y8Zz1bRX9zKbHGJ1YgPF",
+  "id": "74Y8Zz1bRX9zKbHGJ1YgPF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273918eed5c1cc9ab9e185505bc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02918eed5c1cc9ab9e185505bc",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851918eed5c1cc9ab9e185505bc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Yohan",
+  "popularity": 8,
+  "type": "artist",
+  "uri": "spotify:artist:74Y8Zz1bRX9zKbHGJ1YgPF"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+  },
+  "followers": {
+    "href": null,
+    "total": 2342934
+  },
+  "genres": [
+    "schlager",
+    "schlagerparty",
+    "german pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7MzHPIXAqIOCnvK0sVY72W",
+  "id": "7MzHPIXAqIOCnvK0sVY72W",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6ca93fe033ee8728cd5bcff",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e6ca93fe033ee8728cd5bcff",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e6ca93fe033ee8728cd5bcff",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Helene Fischer",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:7MzHPIXAqIOCnvK0sVY72W"
+}

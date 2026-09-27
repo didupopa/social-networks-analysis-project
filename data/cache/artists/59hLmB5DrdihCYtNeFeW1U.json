@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+  },
+  "followers": {
+    "href": null,
+    "total": 674065
+  },
+  "genres": [
+    "classic country"
+  ],
+  "href": "https://api.spotify.com/v1/artists/59hLmB5DrdihCYtNeFeW1U",
+  "id": "59hLmB5DrdihCYtNeFeW1U",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64f0f928da3d4ff7746a2df1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517464f0f928da3d4ff7746a2df1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17864f0f928da3d4ff7746a2df1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Glen Campbell",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:59hLmB5DrdihCYtNeFeW1U"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lXDs3mkN6PDBzObkgpbid"
+  },
+  "followers": {
+    "href": null,
+    "total": 327
+  },
+  "genres": [
+    "thai hip hop",
+    "black metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6lXDs3mkN6PDBzObkgpbid",
+  "id": "6lXDs3mkN6PDBzObkgpbid",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273961f7c2298623551d163935d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02961f7c2298623551d163935d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851961f7c2298623551d163935d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Desert Eagle",
+  "popularity": 13,
+  "type": "artist",
+  "uri": "spotify:artist:6lXDs3mkN6PDBzObkgpbid"
+}

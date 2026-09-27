@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA"
+  },
+  "followers": {
+    "href": null,
+    "total": 1235
+  },
+  "genres": [
+    "sludge metal"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7MrUhoxTFdz4HWkm0VIooA",
+  "id": "7MrUhoxTFdz4HWkm0VIooA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273becd4f8c450507e806ea0028",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02becd4f8c450507e806ea0028",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851becd4f8c450507e806ea0028",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Sindri Eldon",
+  "popularity": 15,
+  "type": "artist",
+  "uri": "spotify:artist:7MrUhoxTFdz4HWkm0VIooA"
+}

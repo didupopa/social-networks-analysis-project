@@ -1,0 +1,44 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+  },
+  "followers": {
+    "href": null,
+    "total": 2793056
+  },
+  "genres": [
+    "outlaw country",
+    "classic country",
+    "country",
+    "traditional country",
+    "honky tonk"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3",
+  "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c8ff3385555930af73293254b",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd228ff3385555930af73293254b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac38ff3385555930af73293254b",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f748ff3385555930af73293254b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Willie Nelson",
+  "popularity": 73,
+  "type": "artist",
+  "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3"
+}

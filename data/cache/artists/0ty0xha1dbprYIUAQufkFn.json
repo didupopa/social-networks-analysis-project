@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+  },
+  "followers": {
+    "href": null,
+    "total": 1197834
+  },
+  "genres": [
+    "philly soul",
+    "quiet storm",
+    "classic soul"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0ty0xha1dbprYIUAQufkFn",
+  "id": "0ty0xha1dbprYIUAQufkFn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bb92c0e115364293eb7b2a76d39e89fa0b9e5eb9",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/17f31800c80843fb08e7f766fb14cc5b3b330a95",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/a8bfd7c0371dfa176a2466e43f994a1fa4e7db60",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/a41ec422df573ed1ca2b0fc93fbf09253c8a4961",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Patti LaBelle",
+  "popularity": 54,
+  "type": "artist",
+  "uri": "spotify:artist:0ty0xha1dbprYIUAQufkFn"
+}

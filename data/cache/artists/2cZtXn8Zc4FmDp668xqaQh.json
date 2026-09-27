@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cZtXn8Zc4FmDp668xqaQh"
+  },
+  "followers": {
+    "href": null,
+    "total": 792
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/2cZtXn8Zc4FmDp668xqaQh",
+  "id": "2cZtXn8Zc4FmDp668xqaQh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a3732b29117862819c07f9e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021a3732b29117862819c07f9e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511a3732b29117862819c07f9e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Paul Mac",
+  "popularity": 6,
+  "type": "artist",
+  "uri": "spotify:artist:2cZtXn8Zc4FmDp668xqaQh"
+}

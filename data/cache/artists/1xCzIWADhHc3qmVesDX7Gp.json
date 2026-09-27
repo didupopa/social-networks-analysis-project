@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xCzIWADhHc3qmVesDX7Gp"
+  },
+  "followers": {
+    "href": null,
+    "total": 1489
+  },
+  "genres": [
+    "progressive house",
+    "progressive trance",
+    "nu disco",
+    "trance"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1xCzIWADhHc3qmVesDX7Gp",
+  "id": "1xCzIWADhHc3qmVesDX7Gp",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9c5e6148169315995904d6ed",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749c5e6148169315995904d6ed",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789c5e6148169315995904d6ed",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Keith Harris",
+  "popularity": 21,
+  "type": "artist",
+  "uri": "spotify:artist:1xCzIWADhHc3qmVesDX7Gp"
+}

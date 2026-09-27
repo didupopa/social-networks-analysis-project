@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CHFq8hiVCpHsNKsP2aMw2"
+  },
+  "followers": {
+    "href": null,
+    "total": 11096
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/6CHFq8hiVCpHsNKsP2aMw2",
+  "id": "6CHFq8hiVCpHsNKsP2aMw2",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73c5abffa8a2642a8b38f3ee",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517473c5abffa8a2642a8b38f3ee",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17873c5abffa8a2642a8b38f3ee",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Tripstar",
+  "popularity": 36,
+  "type": "artist",
+  "uri": "spotify:artist:6CHFq8hiVCpHsNKsP2aMw2"
+}

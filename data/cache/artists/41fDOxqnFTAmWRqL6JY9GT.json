@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41fDOxqnFTAmWRqL6JY9GT"
+  },
+  "followers": {
+    "href": null,
+    "total": 1600
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/41fDOxqnFTAmWRqL6JY9GT",
+  "id": "41fDOxqnFTAmWRqL6JY9GT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c7a57b660a2764587f9d851",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e023c7a57b660a2764587f9d851",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048513c7a57b660a2764587f9d851",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "P. Diddy",
+  "popularity": 35,
+  "type": "artist",
+  "uri": "spotify:artist:41fDOxqnFTAmWRqL6JY9GT"
+}

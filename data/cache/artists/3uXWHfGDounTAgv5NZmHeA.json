@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uXWHfGDounTAgv5NZmHeA"
+  },
+  "followers": {
+    "href": null,
+    "total": 8468
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3uXWHfGDounTAgv5NZmHeA",
+  "id": "3uXWHfGDounTAgv5NZmHeA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb345c0e8c4eb572867d388a21",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174345c0e8c4eb572867d388a21",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178345c0e8c4eb572867d388a21",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Chester Lockhart",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:3uXWHfGDounTAgv5NZmHeA"
+}

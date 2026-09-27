@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+  },
+  "followers": {
+    "href": null,
+    "total": 115209
+  },
+  "genres": [
+    "stutter house",
+    "bass house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1ic0FHNGIjXZAWH6O6Reif",
+  "id": "1ic0FHNGIjXZAWH6O6Reif",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48fa24aaf294a8ff6b7989d5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517448fa24aaf294a8ff6b7989d5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17848fa24aaf294a8ff6b7989d5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ship Wrek",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:1ic0FHNGIjXZAWH6O6Reif"
+}

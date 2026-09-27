@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wBrxhzcHVIis4VL3iR6hF"
+  },
+  "followers": {
+    "href": null,
+    "total": 15182
+  },
+  "genres": [
+    "k-ballad"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7wBrxhzcHVIis4VL3iR6hF",
+  "id": "7wBrxhzcHVIis4VL3iR6hF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27371b3147a5df0d68485c5dab8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0271b3147a5df0d68485c5dab8",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485171b3147a5df0d68485c5dab8",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "IVY",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:7wBrxhzcHVIis4VL3iR6hF"
+}

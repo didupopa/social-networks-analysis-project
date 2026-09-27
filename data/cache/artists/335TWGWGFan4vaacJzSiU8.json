@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+  },
+  "followers": {
+    "href": null,
+    "total": 250123
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/335TWGWGFan4vaacJzSiU8",
+  "id": "335TWGWGFan4vaacJzSiU8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46fcb25c1d37f61e5fb2a5fd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517446fcb25c1d37f61e5fb2a5fd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17846fcb25c1d37f61e5fb2a5fd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "A. G. Cook",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:335TWGWGFan4vaacJzSiU8"
+}

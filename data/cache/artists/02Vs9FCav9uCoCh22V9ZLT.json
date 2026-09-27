@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02Vs9FCav9uCoCh22V9ZLT"
+  },
+  "followers": {
+    "href": null,
+    "total": 1307
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/02Vs9FCav9uCoCh22V9ZLT",
+  "id": "02Vs9FCav9uCoCh22V9ZLT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4b18bdf791e602b136f3c39",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c4b18bdf791e602b136f3c39",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c4b18bdf791e602b136f3c39",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "MVP",
+  "popularity": 23,
+  "type": "artist",
+  "uri": "spotify:artist:02Vs9FCav9uCoCh22V9ZLT"
+}

@@ -1,0 +1,43 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU"
+  },
+  "followers": {
+    "href": null,
+    "total": 505327
+  },
+  "genres": [
+    "west coast hip hop",
+    "g-funk",
+    "gangster rap",
+    "old school hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4fbyGOEjViyE97W58eGEgU",
+  "id": "4fbyGOEjViyE97W58eGEgU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/99ac7332ccca59802ce51d9b1016a1ddc9098474",
+      "height": 599,
+      "width": 800
+    },
+    {
+      "url": "https://i.scdn.co/image/62917a160a4c3c4da52ac8b4635425df324a6bac",
+      "height": 479,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/fc2d258107e9c5f7b76a1b2ee8f39b256686a01b",
+      "height": 150,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/7e2021b7f1a8807874398eb099cdca7644d9c97a",
+      "height": 48,
+      "width": 64
+    }
+  ],
+  "name": "MC Ren",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:4fbyGOEjViyE97W58eGEgU"
+}

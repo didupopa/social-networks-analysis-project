@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZpJUzKJR0vf1BoQ7NDYXs"
+  },
+  "followers": {
+    "href": null,
+    "total": 369
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3ZpJUzKJR0vf1BoQ7NDYXs",
+  "id": "3ZpJUzKJR0vf1BoQ7NDYXs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2fad68c84d4b62d17bbd985",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c2fad68c84d4b62d17bbd985",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c2fad68c84d4b62d17bbd985",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Felix Bloxsom",
+  "popularity": 18,
+  "type": "artist",
+  "uri": "spotify:artist:3ZpJUzKJR0vf1BoQ7NDYXs"
+}

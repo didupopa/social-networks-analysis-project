@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VOokbPJRb3e8tJYMxxsMQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 3545
+  },
+  "genres": [
+    "future house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5VOokbPJRb3e8tJYMxxsMQ",
+  "id": "5VOokbPJRb3e8tJYMxxsMQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/bece6fadb8bdffb1fcfdde4328eb40155f3d1a57",
+      "height": 914,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/275f21f8e56295a69052380912dc176f4742c0c0",
+      "height": 585,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ed07cf09a94cc37500492e1637c0a2837f624480",
+      "height": 183,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/a6eb10df0e5f38da7322c8239e0214a8d3ea6dc2",
+      "height": 58,
+      "width": 63
+    }
+  ],
+  "name": "TAI",
+  "popularity": 29,
+  "type": "artist",
+  "uri": "spotify:artist:5VOokbPJRb3e8tJYMxxsMQ"
+}

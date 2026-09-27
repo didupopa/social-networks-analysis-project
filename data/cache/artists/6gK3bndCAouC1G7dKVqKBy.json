@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gK3bndCAouC1G7dKVqKBy"
+  },
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+    "riddim"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6gK3bndCAouC1G7dKVqKBy",
+  "id": "6gK3bndCAouC1G7dKVqKBy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273610b664effddca261cc89d3e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02610b664effddca261cc89d3e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851610b664effddca261cc89d3e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "R.C.",
+  "popularity": 6,
+  "type": "artist",
+  "uri": "spotify:artist:6gK3bndCAouC1G7dKVqKBy"
+}

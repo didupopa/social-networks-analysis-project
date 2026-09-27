@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+  },
+  "followers": {
+    "href": null,
+    "total": 3297112
+  },
+  "genres": [
+    "country"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7z5WFjZAIYejWy0NI5lv4T",
+  "id": "7z5WFjZAIYejWy0NI5lv4T",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd8818c20c8831248adba5d7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dd8818c20c8831248adba5d7",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dd8818c20c8831248adba5d7",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Dan + Shay",
+  "popularity": 71,
+  "type": "artist",
+  "uri": "spotify:artist:7z5WFjZAIYejWy0NI5lv4T"
+}

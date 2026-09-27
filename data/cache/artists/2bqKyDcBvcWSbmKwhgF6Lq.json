@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bqKyDcBvcWSbmKwhgF6Lq"
+  },
+  "followers": {
+    "href": null,
+    "total": 977
+  },
+  "genres": [
+    "manele"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2bqKyDcBvcWSbmKwhgF6Lq",
+  "id": "2bqKyDcBvcWSbmKwhgF6Lq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea0b80edf93792344961632c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea0b80edf93792344961632c",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ea0b80edf93792344961632c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Liviu Mititelu",
+  "popularity": 7,
+  "type": "artist",
+  "uri": "spotify:artist:2bqKyDcBvcWSbmKwhgF6Lq"
+}

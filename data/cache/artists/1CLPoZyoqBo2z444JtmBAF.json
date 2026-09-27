@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+  },
+  "followers": {
+    "href": null,
+    "total": 302577
+  },
+  "genres": [
+    "latin hip hop",
+    "reggaeton"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1CLPoZyoqBo2z444JtmBAF",
+  "id": "1CLPoZyoqBo2z444JtmBAF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273f408c3152748f6730bd91c53",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02f408c3152748f6730bd91c53",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851f408c3152748f6730bd91c53",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lito y Polaco",
+  "popularity": 42,
+  "type": "artist",
+  "uri": "spotify:artist:1CLPoZyoqBo2z444JtmBAF"
+}

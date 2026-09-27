@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+  },
+  "followers": {
+    "href": null,
+    "total": 15493120
+  },
+  "genres": [
+    "trap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+  "id": "6oMuImdp5ZcFhWP0ESe6mG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4593f7b778219838d858c34",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f4593f7b778219838d858c34",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Migos",
+  "popularity": 79,
+  "type": "artist",
+  "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+}

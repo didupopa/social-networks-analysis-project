@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58ZwIGOdY4ylhRp55z7ZSC"
+  },
+  "followers": {
+    "href": null,
+    "total": 891
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/58ZwIGOdY4ylhRp55z7ZSC",
+  "id": "58ZwIGOdY4ylhRp55z7ZSC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273e478ec38cb280e6a4ab997d4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02f788ad3b099f1d6779afc867",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851e478ec38cb280e6a4ab997d4",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "조덕배",
+  "popularity": 5,
+  "type": "artist",
+  "uri": "spotify:artist:58ZwIGOdY4ylhRp55z7ZSC"
+}

@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xiaqHkrYo04iuDw2h7kft"
+  },
+  "followers": {
+    "href": null,
+    "total": 34355
+  },
+  "genres": [
+    "french house"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1xiaqHkrYo04iuDw2h7kft",
+  "id": "1xiaqHkrYo04iuDw2h7kft",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd23b494174754caa3270200b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d23b494174754caa3270200b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d23b494174754caa3270200b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Gaspard Augé",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:1xiaqHkrYo04iuDw2h7kft"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DMTLrpmTZO8GLDZ5Je1yT"
+  },
+  "followers": {
+    "href": null,
+    "total": 13309
+  },
+  "genres": [
+    "soca",
+    "bassline"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5DMTLrpmTZO8GLDZ5Je1yT",
+  "id": "5DMTLrpmTZO8GLDZ5Je1yT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb29e82b86a30f093d7317813",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b29e82b86a30f093d7317813",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b29e82b86a30f093d7317813",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Speedy",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:5DMTLrpmTZO8GLDZ5Je1yT"
+}

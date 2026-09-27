@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+  },
+  "followers": {
+    "href": null,
+    "total": 298420
+  },
+  "genres": [
+    "country"
+  ],
+  "href": "https://api.spotify.com/v1/artists/147nKr9upHZSSxqCzh9j7c",
+  "id": "147nKr9upHZSSxqCzh9j7c",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5600f933239284f3ba6db7dd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745600f933239284f3ba6db7dd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785600f933239284f3ba6db7dd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jimmie Allen",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:147nKr9upHZSSxqCzh9j7c"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pYbqgBfqAcPJwCOxMVJqJ"
+  },
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/7pYbqgBfqAcPJwCOxMVJqJ",
+  "id": "7pYbqgBfqAcPJwCOxMVJqJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c2df3f524c4227121f2e19d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e026c2df3f524c4227121f2e19d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048516c2df3f524c4227121f2e19d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Bart Schoudel",
+  "popularity": 21,
+  "type": "artist",
+  "uri": "spotify:artist:7pYbqgBfqAcPJwCOxMVJqJ"
+}

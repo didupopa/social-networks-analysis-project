@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+  },
+  "followers": {
+    "href": null,
+    "total": 13122
+  },
+  "genres": [
+    "g-funk",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/05cqfWVtssCo3KVcqEAYG3",
+  "id": "05cqfWVtssCo3KVcqEAYG3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5d74794230abd58ab1db3597",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745d74794230abd58ab1db3597",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785d74794230abd58ab1db3597",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jewell",
+  "popularity": 55,
+  "type": "artist",
+  "uri": "spotify:artist:05cqfWVtssCo3KVcqEAYG3"
+}

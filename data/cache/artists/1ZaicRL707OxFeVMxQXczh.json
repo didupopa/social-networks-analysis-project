@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZaicRL707OxFeVMxQXczh"
+  },
+  "followers": {
+    "href": null,
+    "total": 2085
+  },
+  "genres": [
+    "hyphy",
+    "west coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/1ZaicRL707OxFeVMxQXczh",
+  "id": "1ZaicRL707OxFeVMxQXczh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb693d397d3c8f6d22492d950f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174693d397d3c8f6d22492d950f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178693d397d3c8f6d22492d950f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Stresmatic",
+  "popularity": 39,
+  "type": "artist",
+  "uri": "spotify:artist:1ZaicRL707OxFeVMxQXczh"
+}

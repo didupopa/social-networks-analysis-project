@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4smK3nFPhkimbY6EXK156w"
+  },
+  "followers": {
+    "href": null,
+    "total": 11315
+  },
+  "genres": [
+    "uk funky"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4smK3nFPhkimbY6EXK156w",
+  "id": "4smK3nFPhkimbY6EXK156w",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb601fbfc444a5093b2e22865f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174601fbfc444a5093b2e22865f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178601fbfc444a5093b2e22865f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Hackman",
+  "popularity": 25,
+  "type": "artist",
+  "uri": "spotify:artist:4smK3nFPhkimbY6EXK156w"
+}

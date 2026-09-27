@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+  },
+  "followers": {
+    "href": null,
+    "total": 2398647
+  },
+  "genres": [
+    "r&b",
+    "quiet storm"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3zTOe1BtyTkwNvYZOxXktX",
+  "id": "3zTOe1BtyTkwNvYZOxXktX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56910dd36ced0f6f3fbecacd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517456910dd36ced0f6f3fbecacd",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17856910dd36ced0f6f3fbecacd",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Joe",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:3zTOe1BtyTkwNvYZOxXktX"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02GdsWLFJTbG27RxzKoY5A"
+  },
+  "followers": {
+    "href": null,
+    "total": 3525
+  },
+  "genres": [
+    "dancehall",
+    "riddim",
+    "ragga"
+  ],
+  "href": "https://api.spotify.com/v1/artists/02GdsWLFJTbG27RxzKoY5A",
+  "id": "02GdsWLFJTbG27RxzKoY5A",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273775e4235456bc8cf8da8367b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab916410e23b3fc999d794da",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851775e4235456bc8cf8da8367b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Versatile",
+  "popularity": 17,
+  "type": "artist",
+  "uri": "spotify:artist:02GdsWLFJTbG27RxzKoY5A"
+}

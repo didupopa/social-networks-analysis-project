@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
+  },
+  "followers": {
+    "href": null,
+    "total": 264600
+  },
+  "genres": [
+    "grime",
+    "uk grime",
+    "afroswing"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5zfEatKLDdRkgbw6sdLBAQ",
+  "id": "5zfEatKLDdRkgbw6sdLBAQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc876d99c33473e8e055792e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bc876d99c33473e8e055792e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bc876d99c33473e8e055792e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Octavian",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:5zfEatKLDdRkgbw6sdLBAQ"
+}

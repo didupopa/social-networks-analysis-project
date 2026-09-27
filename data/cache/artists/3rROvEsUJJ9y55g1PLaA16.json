@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+  },
+  "followers": {
+    "href": null,
+    "total": 10525
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/3rROvEsUJJ9y55g1PLaA16",
+  "id": "3rROvEsUJJ9y55g1PLaA16",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88c4ea3e867352dc49ed9990",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517488c4ea3e867352dc49ed9990",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17888c4ea3e867352dc49ed9990",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Robert Trujillo",
+  "popularity": 45,
+  "type": "artist",
+  "uri": "spotify:artist:3rROvEsUJJ9y55g1PLaA16"
+}

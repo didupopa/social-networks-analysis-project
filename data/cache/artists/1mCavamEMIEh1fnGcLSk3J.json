@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J"
+  },
+  "followers": {
+    "href": null,
+    "total": 563
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/1mCavamEMIEh1fnGcLSk3J",
+  "id": "1mCavamEMIEh1fnGcLSk3J",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09fdaf939e09e194ab0ab32f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517409fdaf939e09e194ab0ab32f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17809fdaf939e09e194ab0ab32f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Yadosan",
+  "popularity": 22,
+  "type": "artist",
+  "uri": "spotify:artist:1mCavamEMIEh1fnGcLSk3J"
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wVc58a2hRj76nbaCKwlDt"
+  },
+  "followers": {
+    "href": null,
+    "total": 860
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5wVc58a2hRj76nbaCKwlDt",
+  "id": "5wVc58a2hRj76nbaCKwlDt",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb343153ecabc87661c2a76efb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174343153ecabc87661c2a76efb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178343153ecabc87661c2a76efb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Salvador Santana",
+  "popularity": 12,
+  "type": "artist",
+  "uri": "spotify:artist:5wVc58a2hRj76nbaCKwlDt"
+}

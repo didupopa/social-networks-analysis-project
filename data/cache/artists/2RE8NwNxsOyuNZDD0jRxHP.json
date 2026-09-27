@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
+  },
+  "followers": {
+    "href": null,
+    "total": 281852
+  },
+  "genres": [
+    "old school hip hop",
+    "new jack swing",
+    "east coast hip hop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2RE8NwNxsOyuNZDD0jRxHP",
+  "id": "2RE8NwNxsOyuNZDD0jRxHP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb901e8acc96d05a8952ce17c7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174901e8acc96d05a8952ce17c7",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178901e8acc96d05a8952ce17c7",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kool Moe Dee",
+  "popularity": 57,
+  "type": "artist",
+  "uri": "spotify:artist:2RE8NwNxsOyuNZDD0jRxHP"
+}

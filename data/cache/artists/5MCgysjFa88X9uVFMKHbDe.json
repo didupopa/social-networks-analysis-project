@@ -1,0 +1,33 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MCgysjFa88X9uVFMKHbDe"
+  },
+  "followers": {
+    "href": null,
+    "total": 4941
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/artists/5MCgysjFa88X9uVFMKHbDe",
+  "id": "5MCgysjFa88X9uVFMKHbDe",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea8ef02132afefe748042151",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea8ef02132afefe748042151",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a277548136ccd57fbb087bec",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Mike Tyson",
+  "popularity": 24,
+  "type": "artist",
+  "uri": "spotify:artist:5MCgysjFa88X9uVFMKHbDe"
+}

@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+  },
+  "followers": {
+    "href": null,
+    "total": 359404
+  },
+  "genres": [
+    "big beat",
+    "breakbeat",
+    "electronica"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5eKLa1xyHLq8ERWmT1CRHj",
+  "id": "5eKLa1xyHLq8ERWmT1CRHj",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd12e8c61240cbd023dee7743",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d12e8c61240cbd023dee7743",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Crystal Method",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:5eKLa1xyHLq8ERWmT1CRHj"
+}

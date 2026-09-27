@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
+  },
+  "followers": {
+    "href": null,
+    "total": 25992
+  },
+  "genres": [
+    "k-ballad",
+    "soundtrack"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4WMs26vY2z4DWUmWnDVaYP",
+  "id": "4WMs26vY2z4DWUmWnDVaYP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82a6e50614b4abc84450e1e6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517482a6e50614b4abc84450e1e6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17882a6e50614b4abc84450e1e6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Jungyup",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:4WMs26vY2z4DWUmWnDVaYP"
+}

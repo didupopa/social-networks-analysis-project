@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
+  },
+  "followers": {
+    "href": null,
+    "total": 6080
+  },
+  "genres": [
+    "math rock",
+    "midwest emo"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3z8lWUpLUM0Z4b2184qpQF",
+  "id": "3z8lWUpLUM0Z4b2184qpQF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26af120e335d08a579be7d43",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517426af120e335d08a579be7d43",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17826af120e335d08a579be7d43",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Bangladesh",
+  "popularity": 12,
+  "type": "artist",
+  "uri": "spotify:artist:3z8lWUpLUM0Z4b2184qpQF"
+}
