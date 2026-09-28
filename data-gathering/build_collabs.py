@@ -4,6 +4,8 @@ from pathlib import Path
 from itertools import combinations
 from collections import defaultdict
 
+from seed_artist_list import SEED_ARTISTS
+
 # reuse the same project layout as data-gathering.py
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
@@ -14,6 +16,10 @@ OUTPUT_CSV_COLLABS = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 
 START_YEAR = 2000
 END_YEAR = 2022
+
+# True  = only read release caches of the original seed artists
+# False = read every cached artist, including the ones added by expand-artists.py
+ONLY_SEED_ARTIST_RELEASES = True
 
 
 # load JSON from disk (same helper as data-gathering.py)
@@ -42,11 +48,18 @@ artist_names = {}
 # unordered pair (artist_id_1, artist_id_2), sorted, -> number of shared songs
 pair_counts = defaultdict(int)
 
+# same pair -> [first_year, last_year] of the releases their shared songs are on
+pair_years = {}
+
 # avoid double-counting a track if multiple seed artists reference the same album
 processed_track_ids = set()
 
 # every seed artist we already have a cached release list for
 release_cache_files = sorted(ARTIST_RELEASES_CACHE_DIR.glob("*.json"))
+
+if ONLY_SEED_ARTIST_RELEASES:
+    seed_ids = set(SEED_ARTISTS.values())
+    release_cache_files = [f for f in release_cache_files if f.stem in seed_ids]
 print(f"Found {len(release_cache_files)} cached artist release files")
 
 for index, release_cache_file in enumerate(release_cache_files, start=1):
@@ -108,7 +121,14 @@ for index, release_cache_file in enumerate(release_cache_files, start=1):
             })
 
             for artist_1_id, artist_2_id in combinations(credited_ids, 2):
-                pair_counts[(artist_1_id, artist_2_id)] += 1
+                pair = (artist_1_id, artist_2_id)
+                pair_counts[pair] += 1
+
+                if pair not in pair_years:
+                    pair_years[pair] = [release_year, release_year]
+                else:
+                    pair_years[pair][0] = min(pair_years[pair][0], release_year)
+                    pair_years[pair][1] = max(pair_years[pair][1], release_year)
 
 print(f"Found {len(pair_counts)} unique collaborating pairs across {len(processed_track_ids)} unique tracks")
 
@@ -118,6 +138,8 @@ FIELDNAMES = [
     "artist_2_id",
     "artist_2_name",
     "shared_song_count",
+    "first_collab_year",
+    "last_collab_year",
 ]
 
 with OUTPUT_CSV_COLLABS.open("w", newline="", encoding="utf-8") as file:
@@ -134,6 +156,8 @@ with OUTPUT_CSV_COLLABS.open("w", newline="", encoding="utf-8") as file:
             "artist_2_id": artist_2_id,
             "artist_2_name": artist_names.get(artist_2_id, ""),
             "shared_song_count": count,
+            "first_collab_year": pair_years[(artist_1_id, artist_2_id)][0],
+            "last_collab_year": pair_years[(artist_1_id, artist_2_id)][1],
         })
 
 print()
