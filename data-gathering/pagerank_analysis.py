@@ -1,0 +1,283 @@
+import csv
+import json
+from pathlib import Path
+from statistics import mean
+
+import networkx as nx
+import matplotlib.pyplot as plt
+from scipy.stats import spearmanr, mannwhitneyu
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "data"
+ARTISTS_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
+COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
+
+OUTPUT_NODE_CSV = DATA_DIR / "pagerank-node-metrics.csv"
+OUTPUT_SUMMARY_JSON = DATA_DIR / "pagerank-summary.json"
+OUTPUT_TOP_PLOT = DATA_DIR / "pagerank-top-artists.png"
+OUTPUT_SCATTER_PLOT = DATA_DIR / "pagerank-vs-degree.png"
+
+# how many top-ranked artists count as "top" for RQ2/RQ3/RQ4
+TOP_N = 20
+
+
+# build the graph, including the collab-year edge attributes
+G = nx.Graph()
+
+with ARTISTS_CSV.open("r", newline="", encoding="utf-8") as file:
+    for row in csv.DictReader(file):
+        G.add_node(row["artist_id"], name=row["artist_name"])
+
+with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
+    for row in csv.DictReader(file):
+        a1, a2 = row["artist_1_id"], row["artist_2_id"]
+        weight = int(row["shared_song_count"])
+
+        if a1 not in G:
+            G.add_node(a1, name=row["artist_1_name"])
+        if a2 not in G:
+            G.add_node(a2, name=row["artist_2_name"])
+
+        edge_attrs = {"weight": weight}
+        
+        if row.get("first_collab_year"):
+            edge_attrs["first_collab_year"] = int(row["first_collab_year"])
+            edge_attrs["last_collab_year"] = int(row["last_collab_year"])
+
+        G.add_edge(a1, a2, **edge_attrs)
+
+print(f"Graph: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
+
+has_year_data = any("first_collab_year" in d for _, _, d in G.edges(data=True))
+if not has_year_data:
+    print("No first_collab_year/last_collab_year found on edges -- RQ3 will be skipped.")
+    print("(Rerun build-collaborations.py with the year-tracking update first.)")
+
+
+def name_of(node):
+    return G.nodes[node].get("name", node)
+
+
+def rank_dict(values_dict):
+    """rank 1 = highest value"""
+    ordered = sorted(values_dict, key=values_dict.get, reverse=True)
+    return {node: i + 1 for i, node in enumerate(ordered)}
+
+
+# core metrics
+degree_dict = dict(G.degree())
+weighted_degree_dict = dict(G.degree(weight="weight"))
+
+pagerank_weighted = nx.pagerank(G, weight="weight")
+pagerank_unweighted = nx.pagerank(G, weight=None)
+
+degree_rank = rank_dict(degree_dict)
+pagerank_rank = rank_dict(pagerank_weighted)
+pagerank_unweighted_rank = rank_dict(pagerank_unweighted)
+
+# positive rank_diff = PageRank ranks this artist HIGHER (more important)
+# than raw degree alone would suggest ("prestige over popularity")
+rank_diff = {
+    node: degree_rank[node] - pagerank_rank[node]
+    for node in G.nodes()
+}
+
+summary = {"graph": {"nodes": G.number_of_nodes(), "edges": G.number_of_edges()}}
+
+# RQ1: Does PageRank surface "prestige" that raw popularity (degree) misses?
+overperformers = sorted(rank_diff, key=rank_diff.get, reverse=True)[:15]
+underperformers = sorted(rank_diff, key=rank_diff.get)[:15]
+
+spearman_corr, spearman_p = spearmanr(
+    [degree_dict[n] for n in G.nodes()],
+    [pagerank_weighted[n] for n in G.nodes()],
+)
+
+summary["rq1_prestige_vs_popularity"] = {
+    "description": (
+        "Spearman correlation between degree and weighted PageRank; "
+        "artists where PageRank rank is much better than degree rank "
+        "('overperformers') have few collaborators but well-connected ones."
+    ),
+    "spearman_correlation": spearman_corr,
+    "spearman_p_value": spearman_p,
+    "top_overperformers": [
+        {
+            "artist": name_of(n),
+            "degree": degree_dict[n],
+            "degree_rank": degree_rank[n],
+            "pagerank_rank": pagerank_rank[n],
+            "rank_improvement": rank_diff[n],
+        }
+        for n in overperformers
+    ],
+    "top_underperformers": [
+        {
+            "artist": name_of(n),
+            "degree": degree_dict[n],
+            "degree_rank": degree_rank[n],
+            "pagerank_rank": pagerank_rank[n],
+            "rank_drop": -rank_diff[n],
+        }
+        for n in underperformers
+    ],
+}
+
+# RQ2: Does edge weight (shared song count) change who ranks highest?
+top_weighted = set(sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:TOP_N])
+top_unweighted = set(sorted(pagerank_unweighted, key=pagerank_unweighted.get, reverse=True)[:TOP_N])
+
+overlap = top_weighted & top_unweighted
+jaccard = len(overlap) / len(top_weighted | top_unweighted)
+
+summary["rq2_weighted_vs_unweighted"] = {
+    "description": (
+        f"Top-{TOP_N} PageRank artists using shared-song-count as edge weight, "
+        "vs. treating every collaboration edge as equally important."
+    ),
+    "top_n": TOP_N,
+    "overlap_count": len(overlap),
+    "jaccard_similarity": jaccard,
+    "only_in_weighted_top": [name_of(n) for n in top_weighted - top_unweighted],
+    "only_in_unweighted_top": [name_of(n) for n in top_unweighted - top_weighted],
+}
+
+# RQ3: Are top-ranked artists concentrated by era?
+if has_year_data:
+    def artist_era(node):
+        years = []
+        for _, _, data in G.edges(node, data=True):
+            if "first_collab_year" in data:
+                years.append((data["first_collab_year"] + data["last_collab_year"]) / 2)
+        return mean(years) if years else None
+
+    top_pagerank_nodes = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:TOP_N]
+    top_eras = [e for e in (artist_era(n) for n in top_pagerank_nodes) if e is not None]
+    all_eras = [e for e in (artist_era(n) for n in G.nodes()) if e is not None]
+
+    def decade_bucket(year):
+        return f"{int(year) // 10 * 10}s"
+
+    top_decade_counts = {}
+    for e in top_eras:
+        bucket = decade_bucket(e)
+        top_decade_counts[bucket] = top_decade_counts.get(bucket, 0) + 1
+
+    all_decade_counts = {}
+    for e in all_eras:
+        bucket = decade_bucket(e)
+        all_decade_counts[bucket] = all_decade_counts.get(bucket, 0) + 1
+
+    summary["rq3_era_concentration"] = {
+        "description": (
+            f"Mean collaboration year of each artist's edges, for the top-{TOP_N} "
+            "PageRank artists vs. the whole network, bucketed by decade."
+        ),
+        "top_n": TOP_N,
+        "mean_era_top_pagerank": mean(top_eras) if top_eras else None,
+        "mean_era_whole_network": mean(all_eras) if all_eras else None,
+        "top_pagerank_decade_counts": top_decade_counts,
+        "whole_network_decade_counts": all_decade_counts,
+    }
+else:
+    summary["rq3_era_concentration"] = {"skipped": "no first_collab_year/last_collab_year on edges"}
+
+# RQ4: Do high-PageRank artists act as bridges between communities?
+try:
+    communities = nx.community.louvain_communities(G, weight="weight", seed=42)
+except AttributeError:
+    # older networkx without louvain_communities: fall back to greedy modularity
+    communities = list(nx.community.greedy_modularity_communities(G, weight="weight"))
+
+community_of = {}
+for community_id, nodes in enumerate(communities):
+    for node in nodes:
+        community_of[node] = community_id
+
+
+def bridge_score(node):
+    """fraction of a node's neighbors that sit in a DIFFERENT community"""
+    neighbors = list(G.neighbors(node))
+    if not neighbors:
+        return 0.0
+    different = sum(1 for nb in neighbors if community_of[nb] != community_of[node])
+    return different / len(neighbors)
+
+
+bridge_scores = {node: bridge_score(node) for node in G.nodes()}
+
+top_pagerank_nodes = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:TOP_N]
+other_nodes = [n for n in G.nodes() if n not in set(top_pagerank_nodes)]
+
+top_bridge_scores = [bridge_scores[n] for n in top_pagerank_nodes]
+other_bridge_scores = [bridge_scores[n] for n in other_nodes]
+
+bridge_corr, bridge_corr_p = spearmanr(
+    [pagerank_weighted[n] for n in G.nodes()],
+    [bridge_scores[n] for n in G.nodes()],
+)
+
+# Mann-Whitney U: are top-PageRank artists' bridge scores significantly different from everyone else's? 
+# bridge scores aren't normally distributed
+mw_stat, mw_p = mannwhitneyu(top_bridge_scores, other_bridge_scores, alternative="two-sided")
+
+summary["rq4_bridging_communities"] = {
+    "description": (
+        f"Louvain communities detected ({len(communities)} total). Bridge score = "
+        "fraction of a node's neighbors sitting in a different community. "
+        f"Compares top-{TOP_N} PageRank artists against everyone else."
+    ),
+    "num_communities": len(communities),
+    "community_sizes": sorted((len(c) for c in communities), reverse=True),
+    "spearman_correlation_pagerank_vs_bridge_score": bridge_corr,
+    "spearman_p_value": bridge_corr_p,
+    "mean_bridge_score_top_pagerank": mean(top_bridge_scores),
+    "mean_bridge_score_rest_of_network": mean(other_bridge_scores),
+    "mann_whitney_p_value": mw_p,
+}
+
+# write per-node CSV
+with OUTPUT_NODE_CSV.open("w", newline="", encoding="utf-8") as file:
+    writer = csv.writer(file)
+    writer.writerow([
+        "artist_id", "artist_name", "degree", "weighted_degree",
+        "pagerank_weighted", "pagerank_unweighted",
+        "degree_rank", "pagerank_rank", "rank_diff",
+        "community_id", "bridge_score",
+    ])
+    for node in G.nodes():
+        writer.writerow([
+            node, name_of(node), degree_dict[node], weighted_degree_dict[node],
+            pagerank_weighted[node], pagerank_unweighted[node],
+            degree_rank[node], pagerank_rank[node], rank_diff[node],
+            community_of[node], bridge_scores[node],
+        ])
+
+with OUTPUT_SUMMARY_JSON.open("w", encoding="utf-8") as file:
+    json.dump(summary, file, indent=2)
+
+# plots
+top_15 = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:15]
+plt.figure(figsize=(10, 7))
+plt.barh([name_of(n) for n in reversed(top_15)], [pagerank_weighted[n] for n in reversed(top_15)])
+plt.xlabel("Weighted PageRank")
+plt.title("Top 15 artists by PageRank")
+plt.tight_layout()
+plt.savefig(OUTPUT_TOP_PLOT, dpi=150)
+plt.close()
+
+plt.figure(figsize=(8, 8))
+colors = ["tab:green" if rank_diff[n] > 0 else "tab:red" for n in G.nodes()]
+plt.scatter(
+    [degree_rank[n] for n in G.nodes()],
+    [pagerank_rank[n] for n in G.nodes()],
+    c=colors, alpha=0.4, s=15,
+)
+plt.plot([1, G.number_of_nodes()], [1, G.number_of_nodes()], "k--", linewidth=1, label="degree rank = PageRank rank")
+plt.xlabel("Degree rank (1 = most collaborators)")
+plt.ylabel("PageRank rank (1 = highest PageRank)")
+plt.title("PageRank rank vs. degree rank\n(green = PageRank ranks them higher, red = lower)")
+plt.legend()
+plt.tight_layout()
+plt.savefig(OUTPUT_SCATTER_PLOT, dpi=150)
+plt.close()

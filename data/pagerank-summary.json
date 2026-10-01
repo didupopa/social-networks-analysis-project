@@ -1,0 +1,313 @@
+{
+  "graph": {
+    "nodes": 2248,
+    "edges": 4997
+  },
+  "rq1_prestige_vs_popularity": {
+    "description": "Spearman correlation between degree and weighted PageRank; artists where PageRank rank is much better than degree rank ('overperformers') have few collaborators but well-connected ones.",
+    "spearman_correlation": 0.8208571115023126,
+    "spearman_p_value": 0.0,
+    "top_overperformers": [
+      {
+        "artist": "Carrie Underwood",
+        "degree": 1,
+        "degree_rank": 2228,
+        "pagerank_rank": 408,
+        "rank_improvement": 1820
+      },
+      {
+        "artist": "Dan + Shay",
+        "degree": 1,
+        "degree_rank": 2229,
+        "pagerank_rank": 409,
+        "rank_improvement": 1820
+      },
+      {
+        "artist": "Natacha Atlas",
+        "degree": 1,
+        "degree_rank": 2212,
+        "pagerank_rank": 406,
+        "rank_improvement": 1806
+      },
+      {
+        "artist": "Temple Of Sound",
+        "degree": 1,
+        "degree_rank": 2213,
+        "pagerank_rank": 407,
+        "rank_improvement": 1806
+      },
+      {
+        "artist": "Autoerotique",
+        "degree": 1,
+        "degree_rank": 2140,
+        "pagerank_rank": 402,
+        "rank_improvement": 1738
+      },
+      {
+        "artist": "SonicC",
+        "degree": 1,
+        "degree_rank": 2141,
+        "pagerank_rank": 403,
+        "rank_improvement": 1738
+      },
+      {
+        "artist": "Itch-E & Scratch-E",
+        "degree": 1,
+        "degree_rank": 2142,
+        "pagerank_rank": 404,
+        "rank_improvement": 1738
+      },
+      {
+        "artist": "MDNA",
+        "degree": 1,
+        "degree_rank": 2143,
+        "pagerank_rank": 405,
+        "rank_improvement": 1738
+      },
+      {
+        "artist": "Mr. Oizo",
+        "degree": 1,
+        "degree_rank": 2137,
+        "pagerank_rank": 400,
+        "rank_improvement": 1737
+      },
+      {
+        "artist": "Gaspard Aug\u00e9",
+        "degree": 1,
+        "degree_rank": 2138,
+        "pagerank_rank": 401,
+        "rank_improvement": 1737
+      },
+      {
+        "artist": "Noreaga",
+        "degree": 1,
+        "degree_rank": 2060,
+        "pagerank_rank": 395,
+        "rank_improvement": 1665
+      },
+      {
+        "artist": "Capone",
+        "degree": 1,
+        "degree_rank": 2061,
+        "pagerank_rank": 396,
+        "rank_improvement": 1665
+      },
+      {
+        "artist": "The Raconteurs",
+        "degree": 1,
+        "degree_rank": 1912,
+        "pagerank_rank": 391,
+        "rank_improvement": 1521
+      },
+      {
+        "artist": "EA Sports Madden NFL",
+        "degree": 1,
+        "degree_rank": 1694,
+        "pagerank_rank": 389,
+        "rank_improvement": 1305
+      },
+      {
+        "artist": "BRS Kash",
+        "degree": 1,
+        "degree_rank": 1695,
+        "pagerank_rank": 390,
+        "rank_improvement": 1305
+      }
+    ],
+    "top_underperformers": [
+      {
+        "artist": "Landstrip Chip",
+        "degree": 4,
+        "degree_rank": 592,
+        "pagerank_rank": 1622,
+        "rank_drop": 1030
+      },
+      {
+        "artist": "Girl Talk",
+        "degree": 3,
+        "degree_rank": 842,
+        "pagerank_rank": 1835,
+        "rank_drop": 993
+      },
+      {
+        "artist": "The Hics",
+        "degree": 4,
+        "degree_rank": 593,
+        "pagerank_rank": 1568,
+        "rank_drop": 975
+      },
+      {
+        "artist": "Zo\u00eb Kravitz",
+        "degree": 3,
+        "degree_rank": 774,
+        "pagerank_rank": 1726,
+        "rank_drop": 952
+      },
+      {
+        "artist": "Trouble",
+        "degree": 3,
+        "degree_rank": 775,
+        "pagerank_rank": 1727,
+        "rank_drop": 952
+      },
+      {
+        "artist": "Riff 3x",
+        "degree": 3,
+        "degree_rank": 776,
+        "pagerank_rank": 1728,
+        "rank_drop": 952
+      },
+      {
+        "artist": "G Perico",
+        "degree": 3,
+        "degree_rank": 841,
+        "pagerank_rank": 1760,
+        "rank_drop": 919
+      },
+      {
+        "artist": "Mike Slap",
+        "degree": 3,
+        "degree_rank": 787,
+        "pagerank_rank": 1651,
+        "rank_drop": 864
+      },
+      {
+        "artist": "Leon Bridges",
+        "degree": 3,
+        "degree_rank": 788,
+        "pagerank_rank": 1652,
+        "rank_drop": 864
+      },
+      {
+        "artist": "Carla Morrison",
+        "degree": 3,
+        "degree_rank": 789,
+        "pagerank_rank": 1653,
+        "rank_drop": 864
+      },
+      {
+        "artist": "Jamila Woods",
+        "degree": 3,
+        "degree_rank": 790,
+        "pagerank_rank": 1654,
+        "rank_drop": 864
+      },
+      {
+        "artist": "Kenny Mason",
+        "degree": 4,
+        "degree_rank": 591,
+        "pagerank_rank": 1444,
+        "rank_drop": 853
+      },
+      {
+        "artist": "Lil' Mo",
+        "degree": 3,
+        "degree_rank": 796,
+        "pagerank_rank": 1534,
+        "rank_drop": 738
+      },
+      {
+        "artist": "Slim Thug",
+        "degree": 3,
+        "degree_rank": 782,
+        "pagerank_rank": 1512,
+        "rank_drop": 730
+      },
+      {
+        "artist": "Dem Jointz",
+        "degree": 3,
+        "degree_rank": 829,
+        "pagerank_rank": 1533,
+        "rank_drop": 704
+      }
+    ]
+  },
+  "rq2_weighted_vs_unweighted": {
+    "description": "Top-20 PageRank artists using shared-song-count as edge weight, vs. treating every collaboration edge as equally important.",
+    "top_n": 20,
+    "overlap_count": 17,
+    "jaccard_similarity": 0.7391304347826086,
+    "only_in_weighted_top": [
+      "Tyler, The Creator",
+      "The Notorious B.I.G.",
+      "Justin Bieber"
+    ],
+    "only_in_unweighted_top": [
+      "Kendrick Lamar",
+      "Sia",
+      "Charli xcx"
+    ]
+  },
+  "rq3_era_concentration": {
+    "description": "Mean collaboration year of each artist's edges, for the top-20 PageRank artists vs. the whole network, bucketed by decade.",
+    "top_n": 20,
+    "mean_era_top_pagerank": 2013.3362536959066,
+    "mean_era_whole_network": 2014.4263139051923,
+    "top_pagerank_decade_counts": {
+      "2010s": 19,
+      "2000s": 1
+    },
+    "whole_network_decade_counts": {
+      "2020s": 542,
+      "2010s": 1234,
+      "2000s": 467
+    }
+  },
+  "rq4_bridging_communities": {
+    "description": "Louvain communities detected (46 total). Bridge score = fraction of a node's neighbors sitting in a different community. Compares top-20 PageRank artists against everyone else.",
+    "num_communities": 46,
+    "community_sizes": [
+      182,
+      181,
+      179,
+      170,
+      162,
+      149,
+      121,
+      117,
+      101,
+      98,
+      96,
+      96,
+      91,
+      66,
+      64,
+      50,
+      49,
+      48,
+      47,
+      40,
+      28,
+      27,
+      16,
+      12,
+      9,
+      7,
+      5,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "spearman_correlation_pagerank_vs_bridge_score": 0.44709002812331555,
+    "spearman_p_value": 6.492951266910277e-111,
+    "mean_bridge_score_top_pagerank": 0.2931699050314728,
+    "mean_bridge_score_rest_of_network": 0.10729746313806693,
+    "mann_whitney_p_value": 1.143577001050307e-09
+  }
+}
