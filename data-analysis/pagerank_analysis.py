@@ -9,13 +9,15 @@ from scipy.stats import spearmanr, mannwhitneyu
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
+RESULTS_DIR = PROJECT_ROOT / "results"
+PAGERANK_ANALYSIS_DIR = RESULTS_DIR / "pagerank"
 ARTISTS_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
 COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 
-OUTPUT_NODE_CSV = DATA_DIR / "pagerank-node-metrics.csv"
-OUTPUT_SUMMARY_JSON = DATA_DIR / "pagerank-summary.json"
-OUTPUT_TOP_PLOT = DATA_DIR / "pagerank-top-artists.png"
-OUTPUT_SCATTER_PLOT = DATA_DIR / "pagerank-vs-degree.png"
+OUTPUT_NODE_CSV = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-node-metrics.csv"
+OUTPUT_SUMMARY_JSON = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-summary.json"
+OUTPUT_TOP_PLOT = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-top-artists.png"
+OUTPUT_SCATTER_PLOT = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-vs-degree.png"
 
 # how many top-ranked artists count as "top" for RQ2/RQ3/RQ4
 TOP_N = 20

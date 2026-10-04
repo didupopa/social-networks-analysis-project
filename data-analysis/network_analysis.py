@@ -9,13 +9,15 @@ import matplotlib.pyplot as plt
 # below the project root (same convention as data-gathering.py)
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
+RESULTS_DIR = PROJECT_ROOT / "results"
+NETWORK_ANALYSIS_DIR = RESULTS_DIR / "network-analysis"
 ARTISTS_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
 COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 
-OUTPUT_SUMMARY_JSON = DATA_DIR / "network-statistics-summary.json"
-OUTPUT_NODE_METRICS_CSV = DATA_DIR / "network-statistics-per-node.csv"
-OUTPUT_DEGREE_PLOT = DATA_DIR / "degree-distribution.png"
-OUTPUT_NETWORK_GRAPH_PNG = DATA_DIR / "network-graph.png"
+OUTPUT_SUMMARY_JSON = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "network-statistics-summary.json"
+OUTPUT_NODE_METRICS_CSV = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "network-statistics-per-node.csv"
+OUTPUT_DEGREE_PLOT = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "degree-distribution.png"          # THIS IS NOT USED!!
+OUTPUT_NETWORK_GRAPH_PNG = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "network-graph.png"
 
 # network graph visualization options
 VISUALIZE_ONLY_LARGEST_COMPONENT = False   # False = plot the whole graph; True = only the connected part
