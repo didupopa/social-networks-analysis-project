@@ -48,8 +48,8 @@ artist_names = {}
 # unordered pair (artist_id_1, artist_id_2), sorted, -> number of shared songs
 pair_counts = defaultdict(int)
 
-# same pair -> [first_year, last_year] of the releases their shared songs are on
-pair_years = {}
+# same pair -> set of every release year in which they have a shared song
+pair_years = defaultdict(set)
 
 # avoid double-counting a track if multiple seed artists reference the same album
 processed_track_ids = set()
@@ -123,12 +123,7 @@ for index, release_cache_file in enumerate(release_cache_files, start=1):
             for artist_1_id, artist_2_id in combinations(credited_ids, 2):
                 pair = (artist_1_id, artist_2_id)
                 pair_counts[pair] += 1
-
-                if pair not in pair_years:
-                    pair_years[pair] = [release_year, release_year]
-                else:
-                    pair_years[pair][0] = min(pair_years[pair][0], release_year)
-                    pair_years[pair][1] = max(pair_years[pair][1], release_year)
+                pair_years[pair].add(release_year)
 
 print(f"Found {len(pair_counts)} unique collaborating pairs across {len(processed_track_ids)} unique tracks")
 
@@ -140,6 +135,7 @@ FIELDNAMES = [
     "shared_song_count",
     "first_collab_year",
     "last_collab_year",
+    "collab_years",  # every year with a shared song, e.g. "2008;2015"
 ]
 
 with OUTPUT_CSV_COLLABS.open("w", newline="", encoding="utf-8") as file:
@@ -150,14 +146,17 @@ with OUTPUT_CSV_COLLABS.open("w", newline="", encoding="utf-8") as file:
     for (artist_1_id, artist_2_id), count in sorted(
         pair_counts.items(), key=lambda item: item[1], reverse=True
     ):
+        years = sorted(pair_years[(artist_1_id, artist_2_id)])
+
         writer.writerow({
             "artist_1_id": artist_1_id,
             "artist_1_name": artist_names.get(artist_1_id, ""),
             "artist_2_id": artist_2_id,
             "artist_2_name": artist_names.get(artist_2_id, ""),
             "shared_song_count": count,
-            "first_collab_year": pair_years[(artist_1_id, artist_2_id)][0],
-            "last_collab_year": pair_years[(artist_1_id, artist_2_id)][1],
+            "first_collab_year": years[0],
+            "last_collab_year": years[-1],
+            "collab_years": ";".join(str(y) for y in years),
         })
 
 print()
