@@ -1,0 +1,99 @@
+{
+  "settings": {
+    "top_n_chaperones": 20,
+    "window_years": 3,
+    "restricted_to_profiled_mentees": true,
+    "data_years": [
+      2000,
+      2022
+    ]
+  },
+  "pairs_used": 5922,
+  "pairs_dropped_window": 3084,
+  "pairs_dropped_unprofiled_mentee": 988,
+  "A_top_chaperones_before_vs_after": {
+    "n": 1049,
+    "mean_new_links_before": 2.0505243088655862,
+    "mean_new_links_after": 2.610104861773117,
+    "mean_gain": 0.559580552907531,
+    "median_gain": 0,
+    "share_with_positive_gain": 0.29075309818875117,
+    "wilcoxon_p_after_vs_before": 2.231018839241333e-05
+  },
+  "A_one_row_per_mentee": {
+    "n": 697,
+    "mean_new_links_before": 0.6126255380200861,
+    "mean_new_links_after": 1.4705882352941178,
+    "mean_gain": 0.8579626972740315,
+    "median_gain": 0,
+    "share_with_positive_gain": 0.266857962697274,
+    "wilcoxon_p_after_vs_before": 1.5810148451408473e-16
+  },
+  "B_top_chaperones_vs_others": {
+    "overall": {
+      "top_mean_gain": 0.559580552907531,
+      "others_mean_gain": 1.3316232300430946,
+      "mann_whitney_p": 0.04682621172214894
+    },
+    "by_mentee_career_stage": {
+      "0": {
+        "n_top": 624,
+        "n_others": 1839,
+        "top_mean_gain": 1.0112179487179487,
+        "others_mean_gain": 2.2430668841761827,
+        "mann_whitney_p": 7.448904312354669e-08
+      },
+      "1-2": {
+        "n_top": 121,
+        "n_others": 544,
+        "top_mean_gain": 0.9917355371900827,
+        "others_mean_gain": 2.2794117647058822,
+        "mann_whitney_p": 0.29408630783984024
+      },
+      "3-9": {
+        "n_top": 138,
+        "n_others": 779,
+        "top_mean_gain": -0.2826086956521739,
+        "others_mean_gain": 1.4403080872913991,
+        "mann_whitney_p": 0.0011215087709650522
+      },
+      "10+": {
+        "n_top": 166,
+        "n_others": 1711,
+        "top_mean_gain": -0.7530120481927711,
+        "others_mean_gain": 0.0011689070718877848,
+        "mann_whitney_p": 0.9481845983566207
+      }
+    }
+  },
+  "C_chaperone_prominence_vs_gain": {
+    "spearman_all_pairs": -0.033052953074313496,
+    "spearman_p_all_pairs": 0.0109675014940246,
+    "by_mentee_career_stage": {
+      "0": {
+        "n": 2463,
+        "spearman": -0.16023294793069107,
+        "p_value": 1.2457764664045319e-15
+      },
+      "1-2": {
+        "n": 665,
+        "spearman": -0.04318243364086042,
+        "p_value": 0.26614038202012597
+      },
+      "3-9": {
+        "n": 917,
+        "spearman": -0.10808363386858043,
+        "p_value": 0.0010449627678752577
+      },
+      "10+": {
+        "n": 1877,
+        "spearman": -0.02908892637779141,
+        "p_value": 0.20778262879107617
+      }
+    }
+  },
+  "D_introductions": {
+    "top_share_of_new_links_that_were_introduced": 0.18151935719503287,
+    "others_share_of_new_links_that_were_introduced": 0.030769709414473274
+  }
+}
