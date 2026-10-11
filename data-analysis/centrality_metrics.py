@@ -59,11 +59,13 @@ print(f"Total collaborations: {G_main.number_of_edges()}")
 
 # Centrality metrics for G_main (largest connected component)
 #
-# Centralities are unweighted except for the weighted degree, 
-# because edge weight represents number of shared songs instead of distance. 
+# Centrality metrics are calculated on the
+# largest connected component.
 #
-# NetworkX weighted betweeness and closeness centrality consider edge weights as distances,
-# which is not suitable for our context where higher weights indicate stronger connections rather than longer distances.
+# All four metrics are unweighted.
+# Each collaboration counts as one connection,
+# regardless of the number of shared songs.
+
 
 # 1. Degree centrality
 degree_centrality = nx.degree_centrality(G_main)
@@ -81,9 +83,6 @@ eigenvector_centrality = nx.eigenvector_centrality(
   tol=1e-06
 )
 
-# 5. Weighted degree
-weighted_degree = dict(G_main.degree(weight="weight"))
-
 print("Centrality calculation completed!")
 
 # Create results table
@@ -94,11 +93,11 @@ for artist_id in G_main.nodes():
   results.append({
     "artist_id": artist_id,
     "artist_name": G_main.nodes[artist_id]["name"],
+    "degree": G_main.degree(artist_id),
     "degree_centrality": degree_centrality.get(artist_id, 0),
     "betweenness_centrality": betweenness_centrality.get(artist_id, 0),
     "closeness_centrality": closeness_centrality.get(artist_id, 0),
     "eigenvector_centrality": eigenvector_centrality.get(artist_id, 0),
-    "weighted_degree": weighted_degree.get(artist_id, 0)
   })
   
 centrality_df = pd.DataFrame(results)
@@ -115,5 +114,43 @@ centrality_df.to_csv(
   index=False
 )
 
-print("Top 10 artists by degree centrality:")
-print(centrality_df.head(10).to_string(index=False))
+# Find top 20 artists for each centrality measures
+metrics = ["degree_centrality", "betweenness_centrality", "closeness_centrality", "eigenvector_centrality"]
+
+for metric in metrics:
+  print(f"Top 20 artists by {metric}:")
+  top20 = centrality_df.nlargest(20, metric)
+  print(top20[["artist_name", metric]].to_string(index=False))
+  
+  
+# Visualize centrality rankings
+
+# Bar chart for each metric
+for metric in metrics:
+   top20 = centrality_df.nlargest(20, metric)
+   top20 = top20.sort_values(metric)
+   
+   metric_name = metric.replace("_", " ").title()
+   
+   plt.figure(figsize=(12, 10))
+   
+   plt.barh(
+     top20["artist_name"],
+     top20[metric],
+     color="steelblue"
+   )
+     
+   plt.xlabel(metric_name)
+   plt.ylabel("Artist")
+   plt.title(f"Top 20 Artists by {metric_name}")
+   
+   plt.grid(axis="x", alpha=0.2)
+   plt.tight_layout()
+   
+   plt.savefig(
+     RESULTS_DIR / f"{metric}-top20.png",
+     dpi=300,
+     bbox_inches="tight"
+   )
+   
+   plt.close()
