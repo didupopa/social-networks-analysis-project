@@ -1,0 +1,1321 @@
+type,group_id,k,size,edges,density,missing_edges,total_shared_songs,artist_ids,artist_names
+clique,393,,10,45,1.0,0,156,70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;0NcPKaSNIHAM2RfioH9vMT;6U3ybJ9UHNKEdsH7ktGBZ7;0vaKiuLwFJLVU664A8GTjE;30C5wgn4celhRP3Tytv7R6;07V3atNq2TyPNDYmzp6Dyy;2rhFzFmezpnW82MNqEKVry;21dooacK2WGBB5amYvKyfM,Bas; Buddy; Dreamville; Guapdad 4000; JID; Jace; Mez; Reese LAFLARE; Ski Mask The Slump God; Smokepurpp
+clique,144,,10,45,1.0,0,46,0xMFjTpcN1zaf1ZU5NaNmk;2QXURwKFTGg2RfgSKJ4HlR;1Bk2KyFVMN5PeyVyDIiLqF;2uL8gbwzpTKZKSNcCTHm0p;1GHGcTFOhjYspfN2UKhhY8;0hCNtLu0JehylgoiP8L4Gh;3qu3PIngYcX3SzOVcNGSTF;0crMctn4iXaE3XCHpeBkOt;4SGo67MJz6DdsjzaRZ4OD7;0wEvWMQRqaXcgnrZv6KtyL,Destra; Dovey Magnum; Lady Leshurr; Lisa Mercedez; London Hill; Nicki Minaj; Pamputtae; Patrice Roberts; Skeng; Spice
+clique,532,,9,36,1.0,0,44,31HjiqargV4NAw4GZqUale;38J1XD26o2LJgiLCnYv0P7;5BE212iALXP0t9ZoyYrAHd;2R0mr8RPrkqTVI3bpSZv9O;1382YT9VvGN6Pxu5PabehZ;0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;15ngTul1gCzYJL3qbV5Qdf;1sBkRIssrMs1AbVkOJbc7a,Ace Hood; Ball Greezy; Billy Blue; Bred; Brisco; Flo Rida; Pitbull; Red Eyezz; Rick Ross
+clique,113,,8,28,1.0,0,172,70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7;1ybINI1qPiFbwDXamRtwxD,Bas; Buddy; Cozz; Dreamville; EARTHGANG; J. Cole; JID; Smino
+clique,391,,8,28,1.0,0,158,70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;0NcPKaSNIHAM2RfioH9vMT;6U3ybJ9UHNKEdsH7ktGBZ7;1ybINI1qPiFbwDXamRtwxD,Bas; Buddy; Cozz; Dreamville; EARTHGANG; Guapdad 4000; JID; Smino
+clique,32,,8,28,1.0,0,50,50L4k6UGxXZ1h5CzoK9Gqk;6VOG1fNK3bKEcpyq9xuuxa;6euAIqQHNU8VoCMUykrJdd;4vSjwZEchIL4yA0uLzoNjr;6z5JGyujI9tfjT4fCwSDJu;500rBZDH42x0aBmajZARos;6IZNOu8PtlzGSY92uzCGDz;4V8LLVI7PbaPR0K2TGSxFF,"Jasper Dolphin; L-Boy; Lee Spielman; Left Brain; Lucas.; Na-Kel Smith; Taco; Tyler, The Creator"
+clique,33,,8,28,1.0,0,50,50L4k6UGxXZ1h5CzoK9Gqk;6VOG1fNK3bKEcpyq9xuuxa;6euAIqQHNU8VoCMUykrJdd;4vSjwZEchIL4yA0uLzoNjr;6z5JGyujI9tfjT4fCwSDJu;500rBZDH42x0aBmajZARos;6Dxf1ZaJBrpbumiqTTnlIH;4V8LLVI7PbaPR0K2TGSxFF,"Jasper Dolphin; L-Boy; Lee Spielman; Left Brain; Lucas.; Na-Kel Smith; Taco; Tyler, The Creator"
+clique,222,,8,28,1.0,0,34,0QORPHk3wnOCjHpmDOZgfP;4SsVbpTthjScTS7U2hmr1X;3IEvQoAohcGX7CdrbtIle7;4VMYDCV2IEDYJArk749S6m;3EiLUeyEcA6fbRPSHkG5kb;329e4yvIujISKGKz1BZZbO;1WMwuNKzEFtU6pPkdtryYS;12vb80Km0Ew53ABfJOepVz,Alex Kyza; Arcángel; Baby Rasta y Gringo; Daddy Yankee; De La Ghetto; Farruko; Kendo Kaponi; Ñengo Flow
+clique,358,,8,28,1.0,0,30,0DK7ZkQ9RydhZnOhI6j6Ck;6qGkLCMQkNGOJ079iEcC5k;27n0jTBWhILKvbVfSHVpmu;696ovICSMRv19NRn79oCWl;1XuBSCcRZTWI2pn3GG7ttj;7qJ6rgL30lnNhMXpIpJpF0;5OAt5hmsLcnFdk4Mly1Peq;6iiyR9wHi3XEBKJeyn8K1b,Amandla Stenberg; Ben Platt; DeMarius Copes; Dear Evan Hansen Choir; Hadiya Eshe’; Isaac Powell; Kaitlyn Dever; Liz Kate
+clique,102,,8,28,1.0,0,28,3TTq94wgOIj0skk2wT8bnb;3tTvSeZiFDP3CY5EdPGcR4;3LvwPiJQJ0da0GurKMToV0;22dFwJoRBV51ue5TGnC7Dt;5H4yInM5zmHqpKIoMNAx4r;76Pl0epAMXVXJspaSuz8im;4az97MtWmBQ5Db3GfDh9j9;61bQ4nwIioR8w6PGxzpyY3,A2ANTI; ASHE 22; Baby Gang; Beny Jr; Central Cee; Freeze corleone; Morad; Rondodasosa
+clique,353,,7,21,1.0,0,127,3NoeRIxHApi6qe4yan2Vnn;6QeZTS8BrU3r2TYJdA68j9;0AWhixY9hX7LEPyPMjh4O0;2RE8NwNxsOyuNZDD0jRxHP;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Eric Nally; Grandmaster Caz; Grandmaster Melle Mel; Kool Moe Dee; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,392,,7,21,1.0,0,110,70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;0NcPKaSNIHAM2RfioH9vMT;6U3ybJ9UHNKEdsH7ktGBZ7;30C5wgn4celhRP3Tytv7R6;1ybINI1qPiFbwDXamRtwxD,Bas; Buddy; Dreamville; Guapdad 4000; JID; Mez; Smino
+clique,389,,7,21,1.0,0,105,1vaQ6v3pOFxAIrFoPrAcom;70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;0NcPKaSNIHAM2RfioH9vMT;1ybINI1qPiFbwDXamRtwxD,Ari Lennox; Bas; Buddy; Dreamville; EARTHGANG; Guapdad 4000; Smino
+clique,390,,7,21,1.0,0,90,1vaQ6v3pOFxAIrFoPrAcom;70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;0NcPKaSNIHAM2RfioH9vMT;30C5wgn4celhRP3Tytv7R6;1ybINI1qPiFbwDXamRtwxD,Ari Lennox; Bas; Buddy; Dreamville; Guapdad 4000; Mez; Smino
+clique,575,,7,21,1.0,0,82,4bMNzAopkqYTwkBLwMKsF1;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;75WcpJKWXBV3o3cfluWapK;5j1BNsC9xeWGfBVCzzg6fc;6XpXnnKHIhCOUbOLOJGe6o,Childish Major; Cozz; Dreamville; EARTHGANG; Lute; Omen; REASON
+clique,576,,7,21,1.0,0,75,1vaQ6v3pOFxAIrFoPrAcom;4bMNzAopkqYTwkBLwMKsF1;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;75WcpJKWXBV3o3cfluWapK;5j1BNsC9xeWGfBVCzzg6fc;6XpXnnKHIhCOUbOLOJGe6o,Ari Lennox; Childish Major; Dreamville; EARTHGANG; Lute; Omen; REASON
+clique,521,,7,21,1.0,0,51,2Jwr7hGoSNK3S3QBxh3T0z;3nFkdlSjzX9mRTtwJOzDYB;4jWzNq3sdzSpqn7BnzvIKn;3jdZ2CpOnEmspXf9CyVkmK;0EOoSsmM3oV2aoGL3Od3E3;7fy3bleW7OSGtkMNIcGhwC;2sBv30RzdeMVPoBXbzjIo5,Freeway; JAŸ-Z; Memphis Bleek; Peedi Crakk; Rell; Sparks; Young Gunz
+clique,291,,7,21,1.0,0,40,5P2rwRBgIN450RaJxdjYdA;7sfl4Xt5KmfyDs2T3SVSMK;1pmixngtBJleMrGUG5o8DE;0TnOYISbd1XYRBk9myaseg;4lthN9sVX4QW2lnXQEUbMh;06JH3wcXkJg7eoxZVMO1UX;79q1TT7yMwKjyLdE1LL16u,Kardinal Offishall; Lil Jon; Mr. Vegas; Pitbull; Red Rat; T.O.K; Wayne Marshall
+clique,309,,7,21,1.0,0,22,13ubrt8QOOCPljQ2FL1Kca;7BMccF0hQFBpP6417k1OtQ;0CKa42Jqrc9fSFbDjePaXP;7aA592KWirLsnfb5ulGWvU;2P5sC9cVZDToPxyomzF1UH;2YZyLoL8N0Wb9xBt1NhZWg;68DWke2VjdDmA75aJX5C57,A$AP Rocky; Action Bronson; Big K.R.I.T.; Danny Brown; Joey Bada$$; Kendrick Lamar; Yelawolf
+clique,1234,,6,15,1.0,0,174,3crnzLy8R4lVwaigKEOz7V;3Mcii5XWf6E0lrY3Uky4cA;3DELNHPLdJgXkDHOTt3ok8;2QLM9IFaHBtB16b8ZDaA3A;7hJcb9fa4alzcOq3EaNPoG;4sb7rZNN93BSS6Gqgepo4v,E-40; Ice Cube; MOUNT WESTMORE; P-Lo; Snoop Dogg; Too $hort
+clique,114,,6,15,1.0,0,112,70gP6Ry4Uo0Yx6uzPIdaiJ;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7;5yPzzu25VzEk8qrGTLIrE1,Bas; Dreamville; EARTHGANG; J. Cole; JID; Young Nudy
+clique,116,,6,15,1.0,0,101,5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7;75WcpJKWXBV3o3cfluWapK,Cozz; Dreamville; EARTHGANG; J. Cole; JID; Lute
+clique,119,,6,15,1.0,0,92,6PDLwWvgYNMfBRLqC1h5cJ;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;5j1BNsC9xeWGfBVCzzg6fc,Buddy; Cozz; Dreamville; EARTHGANG; J. Cole; Omen
+clique,117,,6,15,1.0,0,87,70gP6Ry4Uo0Yx6uzPIdaiJ;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;7Hjbimq43OgxaBRpFXic4x;1ybINI1qPiFbwDXamRtwxD,Bas; Dreamville; EARTHGANG; J. Cole; Saba; Smino
+clique,120,,6,15,1.0,0,85,5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;75WcpJKWXBV3o3cfluWapK;5j1BNsC9xeWGfBVCzzg6fc,Cozz; Dreamville; EARTHGANG; J. Cole; Lute; Omen
+clique,387,,6,15,1.0,0,82,3IJ21966TwNZI24MwZHMu4;70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;0NcPKaSNIHAM2RfioH9vMT,Baby Tate; Bas; Buddy; Cozz; Dreamville; Guapdad 4000
+clique,388,,6,15,1.0,0,71,1vaQ6v3pOFxAIrFoPrAcom;70gP6Ry4Uo0Yx6uzPIdaiJ;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;7gWumE1wMALHXANLSIt054;0NcPKaSNIHAM2RfioH9vMT,Ari Lennox; Bas; Buddy; Dreamville; Dreezy; Guapdad 4000
+clique,1142,,6,15,1.0,0,65,3q7HBObVc0L8jNeTe5Gofh;6DPYiyq5kWVQS4RGwxzPC7;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG,50 Cent; Dr. Dre; Eminem; JAŸ-Z; Nate Dogg; Snoop Dogg
+clique,1183,,6,15,1.0,0,65,4HgF4KnohByNElYid7iCNb;15U1prrFKwSBJamlMNuVW5;5NDMothbpdpq2xHqSjrrWn;3ipn9JLAPI5GUEo4y4jcoi;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Bobby V.; Cheri Dennis; Faith Evans; Ludacris; Snoop Dogg; The Notorious B.I.G.
+clique,53,,6,15,1.0,0,64,1Cs0zKBU1kc0i8ypK3B9ai;3FdLhnmXynPvZkbILPpB6d;0awl5piYwO0CDTHEkCjUhn;0uF5eJUZAvklB3QRceobhZ;5WUlDfRSoLAfcVSX1WnrxN;5Yz0EEDmU5nMl5fGmc6iZ9,"David Guetta; Ladysmith Black Mambazo; Nico & Vinz; Nico Sereba; Sia; Vincent ""Vinzy V"" Dery"
+clique,179,,6,15,1.0,0,56,7s47glsDg6fwq9KXNTsTpa;0qWtta2AJnHQITmWvhcehs;7q0K7OUpawyl2dLaxPYu6P;564gvOqSRcQoYAhaBpTiK2;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Gudda Gudda; Jae Millz; Lil Chuckee; Lil Twist; Lil Wayne; Nicki Minaj
+clique,1115,,6,15,1.0,0,48,5MQIo1YqabUyOjWBzRqPSA;3crnzLy8R4lVwaigKEOz7V;6kEwu0twnfzngQt3Gy8taP;6NyJIFHAePjHR1pFxwisqz;4XqfpACObRB5AsBcUYjL8X;7hJcb9fa4alzcOq3EaNPoG,Daz; E-40; Goldie Loc; Kurupt; MC Eiht; Snoop Dogg
+clique,54,,6,15,1.0,0,45,1Cs0zKBU1kc0i8ypK3B9ai;3FdLhnmXynPvZkbILPpB6d;0awl5piYwO0CDTHEkCjUhn;0uF5eJUZAvklB3QRceobhZ;3mIqgltzfG834hWi9SNv5u;5Yz0EEDmU5nMl5fGmc6iZ9,"David Guetta; Ladysmith Black Mambazo; Nico & Vinz; Nico Sereba; Sibongisenni Shabalala; Vincent ""Vinzy V"" Dery"
+clique,420,,6,15,1.0,0,44,5DuLhdNVF1dyQfO6FS8iNW;1Cs0zKBU1kc0i8ypK3B9ai;1AWpeqVgI2TC9kDuDp0FfW;7zP3twCl1uC982R9sb5zns;4we5S2VLjgY9KzIzApL1KI;3AQRLZ9PuTAozP28Skbq8V,Danny O'Donoghue; David Guetta; Glen Power; Mark Sheehan; Ryan Tedder; The Script
+clique,427,,6,15,1.0,0,44,7HglrGKncSq6VImEXb8ueY;2m7JzVtYyAwdU0CnET9IvA;52aHqEQZ802daFzuMHfcES;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg;7iJrDbKM5fEkGdm5kpjFzS,Black Point; DJ Buddha; El Cata; Lil Jon; Pitbull; Sensato
+clique,401,,6,15,1.0,0,17,7neaopxfCDooxC5lSccwFc;2nwNM8KYdtGrtgmCOuHh8A;2dd5mrQZvg6SmahdgVKDzh;16cEjK2LQDga9fQ1LrqnJG;3iVslPRj5oacJeCFFHe8at;2Djo1SyDrBBLRsgteSUFIO,JED; MASTA WU; PSY; Ray Jay; Yohan; 하대환
+clique,325,,6,15,1.0,0,16,6pDFdYZARPitpkfm44UsOQ;0k7Xl1pqI3tu8sSEjo5oEg;7v9bFXCdSMA2o3gS4nvp0F;3aQeKQSyrW4qWr35idm0cy;4sb7rZNN93BSS6Gqgepo4v;6vbY3hOaCAhC7VjucswgdS,MJG; Paul Wall; Pimp C; T-Pain; Too $hort; Twista
+clique,468,,6,15,1.0,0,16,5mgqYTU6dhKlEdi7DOy4uU;6p2442ymrT9lZEuCZJdYcH;790FomKkXshlbRYZFtlgla;1SupJlEpv7RS2tPNRaHViT;1wZtkThiXbVNtj6hee6dz9;1pgDilWYDWLoOgGjf1iHNu,Alberto Stylee; Ivy Queen; KAROL G; Nicky Jam; Wisin & Yandel; Zion
+clique,145,,6,15,1.0,0,15,74PEUb9Hxn7dY8jjgnQvSw;6veh5zbFpm31XsPdjBgPER;39af15p0feaAOdL9DTRj3m;48ObYO3GM7R76nRcfyvnM9;5J1JcdYCPj44YKz6kVA5wx;0hCNtLu0JehylgoiP8L4Gh,Akbar V; BIA; JT; Katie Got Bandz; Maliibu Miitch; Nicki Minaj
+clique,374,,6,15,1.0,0,15,4DW34vji6G9GgGY0k2mic7;3PhoLpVuITZKcymswpck5b;5YGY8feqx7naU7z4HrwZM6;3rROvEsUJJ9y55g1PLaA16;4olE3I5QU0dvSR7LIpqTXc;5Dl3HXZjG6ZOWT5cV375lk,Chad Smith; Elton John; Miley Cyrus; Robert Trujillo; WATT; Yo-Yo Ma
+clique,492,,5,10,1.0,0,120,28KOnhhvUnyvgRNXEQ41WL;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp;5IcR3N7QB1j6KBL8eImZ8m,Hollis; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; ScHoolboy Q
+clique,311,,5,10,1.0,0,117,0g9vAlRPK9Gt3FKCekk4TW;3jK9MiCrA42lLAdMGUZpwa;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Ab-Soul; Anderson .Paak; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,314,,5,10,1.0,0,115,3jK9MiCrA42lLAdMGUZpwa;0Dc2rdPzleezxhvQhQbXuS;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Anderson .Paak; IDRIS; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,488,,5,10,1.0,0,115,6GEykX11lQqp92UVOQQCC7;2gINJ8xw86xawPyGvx1bla;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,DJ Premier; KRS-One; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,491,,5,10,1.0,0,115,1anyVhU62p31KFi8MEzkbf;6eUKZXaKkcviH0Ku9w2n3V;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Chance the Rapper; Ed Sheeran; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,734,,5,10,1.0,0,91,1RyvyyTE3xzB2ZywiAwp0i;7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX;50co4Is1HCEo8bhOyUWKpn,Future; Rae Sremmurd; Slim Jxmmi; Swae Lee; Young Thug
+clique,195,,5,10,1.0,0,89,3TVXtAsR1Inumwj472S9r4;7dGJo4pcD2V6oG8kP0tJRR;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Drake; Eminem; Kanye West; Lil Wayne; Nicki Minaj
+clique,196,,5,10,1.0,0,88,7bXgB6jMjp9ATFy66eO08Z;3TVXtAsR1Inumwj472S9r4;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Chris Brown; Drake; Justin Bieber; Lil Wayne; Nicki Minaj
+clique,480,,5,10,1.0,0,88,28KOnhhvUnyvgRNXEQ41WL;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1;5IcR3N7QB1j6KBL8eImZ8m,Hollis; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; ScHoolboy Q
+clique,616,,5,10,1.0,0,88,5gCRApTajqwbnHHPbr2Fpi;7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX;1Xyo4u8uXC1ZmMpatF05PJ,Juicy J; Rae Sremmurd; Slim Jxmmi; Swae Lee; The Weeknd
+clique,619,,5,10,1.0,0,88,1RyvyyTE3xzB2ZywiAwp0i;7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX;1Xyo4u8uXC1ZmMpatF05PJ,Future; Rae Sremmurd; Slim Jxmmi; Swae Lee; The Weeknd
+clique,200,,5,10,1.0,0,87,3TVXtAsR1Inumwj472S9r4;4yBK75WVCQXej1p04GWqxH;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q;0hCNtLu0JehylgoiP8L4Gh,Drake; Jeezy; Lil Wayne; Nas; Nicki Minaj
+clique,199,,5,10,1.0,0,84,3TVXtAsR1Inumwj472S9r4;1RyvyyTE3xzB2ZywiAwp0i;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;1Xyo4u8uXC1ZmMpatF05PJ,Drake; Future; Lil Wayne; Nicki Minaj; The Weeknd
+clique,161,,5,10,1.0,0,83,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;5WUlDfRSoLAfcVSX1WnrxN,AFROJACK; Bebe Rexha; David Guetta; Nicki Minaj; Sia
+clique,197,,5,10,1.0,0,83,3TVXtAsR1Inumwj472S9r4;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q;0hCNtLu0JehylgoiP8L4Gh,Drake; Justin Bieber; Lil Wayne; Nas; Nicki Minaj
+clique,198,,5,10,1.0,0,82,3TVXtAsR1Inumwj472S9r4;1RyvyyTE3xzB2ZywiAwp0i;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Drake; Future; Justin Bieber; Lil Wayne; Nicki Minaj
+clique,115,,5,10,1.0,0,79,1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7;68kEuyFKyqrdQQLLsmiatm,Dreamville; EARTHGANG; J. Cole; JID; Vince Staples
+clique,918,,5,10,1.0,0,78,3q7HBObVc0L8jNeTe5Gofh;6evKD5JWJON3qPBJtUEmtY;5pnbUBPifNnlusY8kTBivi;3vDUJHQtqT3jFRZ2ECXDTi;4pr7J7wzgObkE3DD3Izi7q,50 Cent; G-Unit; Jadakiss; Lloyd Banks; Young Buck
+clique,874,,5,10,1.0,0,77,3q7HBObVc0L8jNeTe5Gofh;6z7xFFHxYkE9t8bwIF0Bvg;6evKD5JWJON3qPBJtUEmtY;3vDUJHQtqT3jFRZ2ECXDTi;4pr7J7wzgObkE3DD3Izi7q,50 Cent; Boosie Badazz; G-Unit; Lloyd Banks; Young Buck
+clique,880,,5,10,1.0,0,77,3q7HBObVc0L8jNeTe5Gofh;6evKD5JWJON3qPBJtUEmtY;3vDUJHQtqT3jFRZ2ECXDTi;246dkjvS1zLTtiykXe5h60;4pr7J7wzgObkE3DD3Izi7q,50 Cent; G-Unit; Lloyd Banks; Post Malone; Young Buck
+clique,917,,5,10,1.0,0,77,3q7HBObVc0L8jNeTe5Gofh;6evKD5JWJON3qPBJtUEmtY;3vDUJHQtqT3jFRZ2ECXDTi;655963AgkTZeYUvCyodCIL;4pr7J7wzgObkE3DD3Izi7q,50 Cent; G-Unit; Lloyd Banks; Sonny Digital; Young Buck
+clique,181,,5,10,1.0,0,73,1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;5WUlDfRSoLAfcVSX1WnrxN,David Guetta; Flo Rida; Lil Wayne; Nicki Minaj; Sia
+clique,981,,5,10,1.0,0,73,3TVXtAsR1Inumwj472S9r4;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865,Drake; Eminem; JAŸ-Z; Kanye West; Lil Wayne
+clique,110,,5,10,1.0,0,68,4IVAbR2w4JJNJDDRFP3E83;70gP6Ry4Uo0Yx6uzPIdaiJ;1iNqsUDUraNWrj00bqssQG;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7,6LACK; Bas; Dreamville; J. Cole; JID
+clique,649,,5,10,1.0,0,65,5fMUXHkw8R8eOP2RNVYEZX;6IZ4ctovY9dl7bgHClAvKJ;2feDdbD5araYcm6JhFHHw7;55Aa2cqylxrFIXC767Z865;5WUlDfRSoLAfcVSX1WnrxN,Diplo; LSD; Labrinth; Lil Wayne; Sia
+clique,162,,5,10,1.0,0,64,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;2HUKeBQtdAvY9qwhYw0vpg;1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh,AFROJACK; Bebe Rexha; Club Killers; David Guetta; Nicki Minaj
+clique,163,,5,10,1.0,0,64,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;6d0G9dDSFkF8sh3k7S0eft,AFROJACK; Bebe Rexha; David Guetta; Nicki Minaj; Noodles
+clique,164,,5,10,1.0,0,64,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;1EAFXic0Cfiwpe7nSuTrGL;1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh,AFROJACK; Bebe Rexha; Cesqeaux; David Guetta; Nicki Minaj
+clique,201,,5,10,1.0,0,64,7bXgB6jMjp9ATFy66eO08Z;1Cs0zKBU1kc0i8ypK3B9ai;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Chris Brown; David Guetta; Justin Bieber; Lil Wayne; Nicki Minaj
+clique,187,,5,10,1.0,0,62,1Cs0zKBU1kc0i8ypK3B9ai;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,David Guetta; Justin Bieber; Lil Wayne; Nicki Minaj; USHER
+clique,180,,5,10,1.0,0,61,7dGJo4pcD2V6oG8kP0tJRR;2feDdbD5araYcm6JhFHHw7;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;5WUlDfRSoLAfcVSX1WnrxN,Eminem; Labrinth; Lil Wayne; Nicki Minaj; Sia
+clique,191,,5,10,1.0,0,61,7bXgB6jMjp9ATFy66eO08Z;1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Chris Brown; David Guetta; Flo Rida; Lil Wayne; Nicki Minaj
+clique,1285,,5,10,1.0,0,59,6vWDO969PvNqNYHIOW5v0m;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865,Beyoncé; Eminem; JAŸ-Z; Kanye West; Lil Wayne
+clique,193,,5,10,1.0,0,58,66CXWjxzNUsdJxJ2JdwvnR;1RyvyyTE3xzB2ZywiAwp0i;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;1Xyo4u8uXC1ZmMpatF05PJ,Ariana Grande; Future; Lil Wayne; Nicki Minaj; The Weeknd
+clique,396,,5,10,1.0,0,57,1vaQ6v3pOFxAIrFoPrAcom;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;5j1BNsC9xeWGfBVCzzg6fc,Ari Lennox; Buddy; Dreamville; EARTHGANG; Omen
+clique,551,,5,10,1.0,0,57,6vWDO969PvNqNYHIOW5v0m;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;23zg3TcAtWQy7J6upgbUnj,Beyoncé; JAŸ-Z; Kanye West; Lil Wayne; USHER
+clique,111,,5,10,1.0,0,56,4IVAbR2w4JJNJDDRFP3E83;1iNqsUDUraNWrj00bqssQG;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7;75WcpJKWXBV3o3cfluWapK,6LACK; Dreamville; J. Cole; JID; Lute
+clique,177,,5,10,1.0,0,56,6vWDO969PvNqNYHIOW5v0m;7dGJo4pcD2V6oG8kP0tJRR;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Beyoncé; Eminem; Kanye West; Lil Wayne; Nicki Minaj
+clique,460,,5,10,1.0,0,55,17lzZA2AlOHwCwFALHttmp;1iNqsUDUraNWrj00bqssQG;5MbNzCW3qokGyoo9giHA3V;6U3ybJ9UHNKEdsH7ktGBZ7;5yPzzu25VzEk8qrGTLIrE1,2 Chainz; Dreamville; EARTHGANG; JID; Young Nudy
+clique,978,,5,10,1.0,0,55,3TVXtAsR1Inumwj472S9r4;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;5pKCCKE2ajJHZ9KAiaK11H,Drake; Eminem; JAŸ-Z; Kanye West; Rihanna
+clique,1210,,5,10,1.0,0,55,3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;1W3FSF1BLpY3hlVIgvenLz,JAŸ-Z; Kanye West; Lil Wayne; Snoop Dogg; THE-DREAM
+clique,1211,,5,10,1.0,0,55,7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,Eminem; JAŸ-Z; Kanye West; Lil Wayne; Snoop Dogg
+clique,916,,5,10,1.0,0,54,3q7HBObVc0L8jNeTe5Gofh;3vDUJHQtqT3jFRZ2ECXDTi;0NbfKEOTQCcwd6o7wSDOHI;50UMTib697JJ44le8DO2Va;4pr7J7wzgObkE3DD3Izi7q,50 Cent; Lloyd Banks; The Game; Tony Yayo; Young Buck
+clique,1212,,5,10,1.0,0,54,3nFkdlSjzX9mRTtwJOzDYB;5y2Xq6xcjJb2jVM54GHK3t;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; John Legend; Kanye West; Lil Wayne; Snoop Dogg
+clique,186,,5,10,1.0,0,51,1RyvyyTE3xzB2ZywiAwp0i;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,Future; Justin Bieber; Lil Wayne; Nicki Minaj; USHER
+clique,1105,,5,10,1.0,0,51,5Jz9kKRnCRLTodCH58MyB4;6NyJIFHAePjHR1pFxwisqz;6Nv8DJgV1BK0qaB09r8RxU;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG,Daz Dillinger; Kurupt; Kurupt The Kingpin; Nate Dogg; Snoop Dogg
+clique,792,,5,10,1.0,0,49,35sCXuy5gN6Or69rZ9vqBs;0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a;3aQeKQSyrW4qWr35idm0cy,Birdman; Flo Rida; Lil Wayne; Rick Ross; T-Pain
+clique,112,,5,10,1.0,0,48,1iNqsUDUraNWrj00bqssQG;6l3HvQ5sa6mXTsMTB19rO5;6U3ybJ9UHNKEdsH7ktGBZ7;4mwdnO2jZrMmMVrjcHsZBv;2RDOrhPqAM4jzTRCEb19qX,Dreamville; J. Cole; JID; Kenny Mason; Sheck Wes
+clique,175,,5,10,1.0,0,48,7s47glsDg6fwq9KXNTsTpa;0qWtta2AJnHQITmWvhcehs;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;5LHRHt1k9lMyONurDHEdrp,Gudda Gudda; Jae Millz; Lil Wayne; Nicki Minaj; Tyga
+clique,522,,5,10,1.0,0,48,0Ld26D4Ya5Od7ZZpLanfQJ;4Gso3d4CscCijv0lmajZWs;0f2YkMXwFNJNSX7MymevKE;2LQF8AgyQUgLfquM92Rx8N;0Y5tJX1MQlPlqiwlOH1tJY,DJ Candlestick; Don Toliver; Kaash Paige; OG Ron C; Travis Scott
+clique,176,,5,10,1.0,0,47,6vWDO969PvNqNYHIOW5v0m;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,Beyoncé; Kanye West; Lil Wayne; Nicki Minaj; USHER
+clique,189,,5,10,1.0,0,47,1RyvyyTE3xzB2ZywiAwp0i;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60,Future; Justin Bieber; Lil Wayne; Nicki Minaj; Post Malone
+clique,344,,5,10,1.0,0,47,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;60bBAf1WFPnIwyBSfXj9xv;1Cs0zKBU1kc0i8ypK3B9ai;1vyhD5VmyZ7KMfW5gqLgo5,AFROJACK; Bebe Rexha; Chasner; David Guetta; J Balvin
+clique,838,,5,10,1.0,0,47,79OSA519ScnPY0MVDpu8ZV;59wfkuBoNyhDMQGCljbUbA;7Aq8lpLMSt1Zxu56pe9bmp;2gBjLmx6zQnFGQJCAQpRgw;5me0Irg2ANcsgc93uaYrpb,Avery Storm; Diddy; Jagged Edge; Nelly; The Notorious B.I.G.
+clique,188,,5,10,1.0,0,46,1RyvyyTE3xzB2ZywiAwp0i;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60;1Xyo4u8uXC1ZmMpatF05PJ,Future; Lil Wayne; Nicki Minaj; Post Malone; The Weeknd
+clique,395,,5,10,1.0,0,46,1vaQ6v3pOFxAIrFoPrAcom;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;30C5wgn4celhRP3Tytv7R6;5j1BNsC9xeWGfBVCzzg6fc,Ari Lennox; Buddy; Dreamville; Mez; Omen
+clique,712,,5,10,1.0,0,46,0Ld26D4Ya5Od7ZZpLanfQJ;4Gso3d4CscCijv0lmajZWs;2LQF8AgyQUgLfquM92Rx8N;4DdkRBBYG6Yk9Ka8tdJ9BW;0VRj0yCOv2FXJNP47XQnx5,DJ Candlestick; Don Toliver; OG Ron C; Offset; Quavo
+clique,386,,5,10,1.0,0,45,6PDLwWvgYNMfBRLqC1h5cJ;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;30bCJGAVNB4s6UkQy8a87a;5j1BNsC9xeWGfBVCzzg6fc,Buddy; Cozz; Dreamville; Landstrip Chip; Omen
+clique,832,,5,10,1.0,0,45,1vaQ6v3pOFxAIrFoPrAcom;1iNqsUDUraNWrj00bqssQG;75WcpJKWXBV3o3cfluWapK;30C5wgn4celhRP3Tytv7R6;5j1BNsC9xeWGfBVCzzg6fc,Ari Lennox; Dreamville; Lute; Mez; Omen
+clique,394,,5,10,1.0,0,43,1vaQ6v3pOFxAIrFoPrAcom;6PDLwWvgYNMfBRLqC1h5cJ;1iNqsUDUraNWrj00bqssQG;7gWumE1wMALHXANLSIt054;5j1BNsC9xeWGfBVCzzg6fc,Ari Lennox; Buddy; Dreamville; Dreezy; Omen
+clique,980,,5,10,1.0,0,43,3TVXtAsR1Inumwj472S9r4;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865,Drake; Eminem; JAŸ-Z; Kendrick Lamar; Lil Wayne
+clique,210,,5,10,1.0,0,42,3TVXtAsR1Inumwj472S9r4;7dGJo4pcD2V6oG8kP0tJRR;5K4W6rqBFWDnAN6FQUkS6x;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H,Drake; Eminem; Kanye West; Nicki Minaj; Rihanna
+clique,461,,5,10,1.0,0,42,17lzZA2AlOHwCwFALHttmp;13ubrt8QOOCPljQ2FL1Kca;3TVXtAsR1Inumwj472S9r4;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865,2 Chainz; A$AP Rocky; Drake; Kendrick Lamar; Lil Wayne
+clique,618,,5,10,1.0,0,42,3TVXtAsR1Inumwj472S9r4;1RyvyyTE3xzB2ZywiAwp0i;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865;1Xyo4u8uXC1ZmMpatF05PJ,Drake; Future; Kendrick Lamar; Lil Wayne; The Weeknd
+clique,694,,5,10,1.0,0,42,3TVXtAsR1Inumwj472S9r4;3nFkdlSjzX9mRTtwJOzDYB;4yBK75WVCQXej1p04GWqxH;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q,Drake; JAŸ-Z; Jeezy; Lil Wayne; Nas
+clique,601,,5,10,1.0,0,40,5OEDPvGsA5L54lRrdqi8Aj;1Cs0zKBU1kc0i8ypK3B9ai;2gLZZdgHD8ZbSAB2qQkr3P;4m06T7ANJwbCUjDP4CjbCR;5WUlDfRSoLAfcVSX1WnrxN,Albert Harvey; David Guetta; GLOWINTHEDARK; Kévin Ramos; Sia
+clique,224,,5,10,1.0,0,39,0kQVtbYXplOdbRNlQ3RBOE;1iNqsUDUraNWrj00bqssQG;75WcpJKWXBV3o3cfluWapK;30C5wgn4celhRP3Tytv7R6;5j1BNsC9xeWGfBVCzzg6fc,DaVionne; Dreamville; Lute; Mez; Omen
+clique,982,,5,10,1.0,0,39,13ubrt8QOOCPljQ2FL1Kca;3TVXtAsR1Inumwj472S9r4;1RyvyyTE3xzB2ZywiAwp0i;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865,A$AP Rocky; Drake; Future; Kendrick Lamar; Lil Wayne
+clique,1143,,5,10,1.0,0,39,6DPYiyq5kWVQS4RGwxzPC7;7dGJo4pcD2V6oG8kP0tJRR;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG;4tujQJicOnuZRLiBFdp3Ou,Dr. Dre; Eminem; Nate Dogg; Snoop Dogg; Xzibit
+clique,1152,,5,10,1.0,0,39,3Mcii5XWf6E0lrY3Uky4cA;4fbyGOEjViyE97W58eGEgU;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG;5CxwOBCoGSvWxfDgNoa1Nv,Ice Cube; MC Ren; Nate Dogg; Snoop Dogg; The Lady Of Rage
+clique,1144,,5,10,1.0,0,38,6DPYiyq5kWVQS4RGwxzPC7;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg;7hJcb9fa4alzcOq3EaNPoG,Dr. Dre; Eminem; JAŸ-Z; Kendrick Lamar; Snoop Dogg
+clique,312,,5,10,1.0,0,37,3jK9MiCrA42lLAdMGUZpwa;5K0rbdBrs2tNXe5LeWMATT;0du5cEVh5yTK9QJze8zA0C;6PvvGcCY2XtUcSRld1Wilr;4frXpPxQQZwbCu3eTGnZEw,Anderson .Paak; Bootsy Collins; Bruno Mars; Silk Sonic; Thundercat
+clique,590,,5,10,1.0,0,37,1vaQ6v3pOFxAIrFoPrAcom;1iNqsUDUraNWrj00bqssQG;7gWumE1wMALHXANLSIt054;5j1BNsC9xeWGfBVCzzg6fc;7c0XG5cIJTrrAgEC3ULPiq,Ari Lennox; Dreamville; Dreezy; Omen; Ty Dolla $ign
+clique,3,,5,10,1.0,0,35,1Cs0zKBU1kc0i8ypK3B9ai;5PlfkPxwCpRRWQJBxCa0By;0DxeaLnv6SyYk2DOqkLO8c;3gk0OYeLFWYupGFRHqLSR7;3gTl4XARdQR2Sy59osG0Ia,David Guetta; HUGEL; MAGIC!; Showtek; Sonny Wilson
+clique,109,,5,10,1.0,0,35,1iNqsUDUraNWrj00bqssQG;6l3HvQ5sa6mXTsMTB19rO5;2tMOCIpxj6jwM9e6pmwGiP;6xS5PpBWaVYraexEkEjjXv;3OBsADexDJ29wg3OGVoAji,Dreamville; J. Cole; KEY!; Maxo Kream; Zoink Gang
+clique,369,,5,10,1.0,0,35,1jFT75CuMb5k733YkFBaS4;1Cs0zKBU1kc0i8ypK3B9ai;0DxeaLnv6SyYk2DOqkLO8c;3gk0OYeLFWYupGFRHqLSR7;3gTl4XARdQR2Sy59osG0Ia,Brooks; David Guetta; MAGIC!; Showtek; Sonny Wilson
+clique,254,,5,10,1.0,0,34,6CxZzQFUTM6AzgluGwtq5w;57ZTzIn5GLxNLzWgnTTcHj;1U1el3k54VvEUzo3ybLPlM;3jk39CGeaaSO3FPKNx1RUx;4V8LLVI7PbaPR0K2TGSxFF,"Charlie Wilson; Chaz Bundick; Kali Uchis; Syd; Tyler, The Creator"
+clique,319,,5,10,1.0,0,34,3jK9MiCrA42lLAdMGUZpwa;7bP08eykRpy3OTLjzqSWOS;6DPYiyq5kWVQS4RGwxzPC7;7dGJo4pcD2V6oG8kP0tJRR;2YZyLoL8N0Wb9xBt1NhZWg,Anderson .Paak; Candice Pillay; Dr. Dre; Eminem; Kendrick Lamar
+clique,557,,5,10,1.0,0,34,2NdeV5rLm47xAvogXrYhJX;7sfl4Xt5KmfyDs2T3SVSMK;3ipn9JLAPI5GUEo4y4jcoi;0TnOYISbd1XYRBk9myaseg;23zg3TcAtWQy7J6upgbUnj,Ciara; Lil Jon; Ludacris; Pitbull; USHER
+clique,28,,5,10,1.0,0,33,0z4gvV4rjIZ9wHck67ucSV;0jnsk9HBra6NMjO2oANoPY;21E3waRsmPlU7jZsS13rcj;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Akon; Flo Rida; Ne-Yo; Pitbull; T-Pain
+clique,1214,,5,10,1.0,0,32,7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Eminem; JAŸ-Z; Lil Wayne; Snoop Dogg; The Notorious B.I.G.
+clique,597,,5,10,1.0,0,31,70gP6Ry4Uo0Yx6uzPIdaiJ;1iNqsUDUraNWrj00bqssQG;7Hjbimq43OgxaBRpFXic4x;1ybINI1qPiFbwDXamRtwxD;2XHJ36WzMJKpDk6fLl6lMo,Bas; Dreamville; Saba; Smino; The Hics
+clique,759,,5,10,1.0,0,30,1yxSLGMDHlW21z4YXirZDS;5nLYd9ST4Cnwy6NHaCxbj8;5y2Xq6xcjJb2jVM54GHK3t;3ZotbHeyVQKxQCPDJuQ4SU;0lEssBAxQl2In4RpaB1C2Y,Black Eyed Peas; CeeLo Green; John Legend; Q-Tip; Talib Kweli
+clique,1195,,5,10,1.0,0,30,7bXgB6jMjp9ATFy66eO08Z;55Aa2cqylxrFIXC767Z865;1Zatb2YN4erBOoSivOXc0o;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy,Chris Brown; Lil Wayne; O.T. Genasis; Snoop Dogg; T-Pain
+clique,1213,,5,10,1.0,0,29,3nFkdlSjzX9mRTtwJOzDYB;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,JAŸ-Z; Lil Wayne; Nas; Snoop Dogg; The Notorious B.I.G.
+clique,256,,5,10,1.0,0,28,5rgx5RylXHdByD9Px1mmXw;1AEcpjnSCmm53IBZQo3g9z;3jk39CGeaaSO3FPKNx1RUx;4V8LLVI7PbaPR0K2TGSxFF;1BUKOA8zRAhTbh3xPE6gDm,"Austin Feinstein; DāM-FunK; Syd; Tyler, The Creator; Wanya Morris"
+clique,397,,5,10,1.0,0,28,5REHfa3YDopGOzrxwTsPvH;1iNqsUDUraNWrj00bqssQG;294lNTPZfdqyzt8qnxmFiL;5j1BNsC9xeWGfBVCzzg6fc;4j5EnP4t2lSKolLuQh1xvn,Deante' Hitchcock; Dreamville; Mereba; Omen; St. Beauty
+clique,1110,,5,10,1.0,0,28,6DPYiyq5kWVQS4RGwxzPC7;2YZyLoL8N0Wb9xBt1NhZWg;46VWDbmWmzvPBTmkSr25gM;30C5wgn4celhRP3Tytv7R6;7hJcb9fa4alzcOq3EaNPoG,Dr. Dre; Kendrick Lamar; Marsha Ambrosius; Mez; Snoop Dogg
+clique,251,,5,10,1.0,0,27,6vHBuUxrcpn1do5UaEJ7g6;2h93pZq0e7k5yf4dywlkpM;4sXi6Uq6IzBaLfFi8wlb3I;1QdjL34EAib5zndNoqA2ly;4V8LLVI7PbaPR0K2TGSxFF,"Domo Genesis; Frank Ocean; Hodgy; Mike G; Tyler, The Creator"
+clique,977,,5,10,1.0,0,27,3TVXtAsR1Inumwj472S9r4;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg;5pKCCKE2ajJHZ9KAiaK11H,Drake; Eminem; JAŸ-Z; Kendrick Lamar; Rihanna
+clique,1226,,5,10,1.0,0,27,09ci97mGlIVzXxSRGEKPxl;2jp3Fk52x0HbymU0lNYbSC;1pom0OTJ4553lHcAoBYqfz;7hJcb9fa4alzcOq3EaNPoG;6Jy1gEI8kdt2aXQvwnqxtM,JT The Bigga Figga; Outlawz; Skrillz; Snoop Dogg; Streetz
+clique,93,,5,10,1.0,0,26,6DJEUXZm0e2rAohdoZ5Voo;1WjexdTcXHgvlVIPCE8D1Q;7dGJo4pcD2V6oG8kP0tJRR;3ZotbHeyVQKxQCPDJuQ4SU;6DVipHzYsPlIoA0DW8Gmns,"Black Thought; Denaun; Eminem; Q-Tip; Royce Da 5'9"""
+clique,318,,5,10,1.0,0,25,3jK9MiCrA42lLAdMGUZpwa;7bP08eykRpy3OTLjzqSWOS;6DPYiyq5kWVQS4RGwxzPC7;2YZyLoL8N0Wb9xBt1NhZWg;46VWDbmWmzvPBTmkSr25gM,Anderson .Paak; Candice Pillay; Dr. Dre; Kendrick Lamar; Marsha Ambrosius
+clique,1127,,5,10,1.0,0,25,3uISNNuONokIh21KiNharS;7zICaxnDB9ZprDSiFpvbbW;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG;51FyBBOW464toW099BsW8z,Butch Cassidy; Master P; Nate Dogg; Snoop Dogg; Tha Eastsidaz
+clique,1215,,5,10,1.0,0,25,7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,Eminem; JAŸ-Z; Kendrick Lamar; Lil Wayne; Snoop Dogg
+clique,287,,5,10,1.0,0,23,1lzugG0lqNh9nP6Fp2zG3c;2nKGmC5Mc13ct02xAY8ccS;3u2R8st1bb6zfBqNWceRXG;77AiFEVeAVj2ORpC85QVJs;3GfNJrDTZY7voXPDx8gH9I,Global Dan; Kizuna AI; MOD SUN; Steve Aoki; TeddyLoid
+clique,1207,,5,10,1.0,0,22,3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Kendrick Lamar; Lil Wayne; Rick Ross; Snoop Dogg
+clique,230,,5,10,1.0,0,21,45a6gCQWq61lIUDmr1tKuO;1YfEcTuGvBQ8xSD1f53UnK;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q;64ovxBmjJ9ZDqkzEXVWpVc,Bun B; Busta Rhymes; Lil Wayne; Nas; Shyne
+clique,441,,5,10,1.0,0,21,1Cs0zKBU1kc0i8ypK3B9ai;02kJSzxNuaWGqwubyUba0Z;4O15NlyKLIASxsJ0PrXPfz;2F4vlQrJakgfJhEW93DFcZ;77AiFEVeAVj2ORpC85QVJs,David Guetta; G-Eazy; Lil Uzi Vert; Mally Mall; Steve Aoki
+clique,1208,,5,10,1.0,0,21,3nFkdlSjzX9mRTtwJOzDYB;5y2Xq6xcjJb2jVM54GHK3t;55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; John Legend; Lil Wayne; Rick Ross; Snoop Dogg
+clique,539,,5,10,1.0,0,20,6NOvBZrkd83MSD51xkq4on;3Mcii5XWf6E0lrY3Uky4cA;7sfl4Xt5KmfyDs2T3SVSMK;0NbfKEOTQCcwd6o7wSDOHI;7If6MttSgSBYMLaUnmW5ze,Elephant Man; Ice Cube; Lil Jon; The Game; Whole Wheat Bread
+clique,799,,5,10,1.0,0,19,2gyv1akuIB9fQvXoGSPaJr;3amwMyDd1uxTBoUZlazZ9m;25uiPmTg16RbhZWAqwLBy5;6tzRZ39aZlNqlUzQlkuhDV;76SlrtEaq2oViRXulxjfuM,Big Freedia; Brooke Candy; Charli xcx; Pabllo Vittar; cupcakKe
+clique,91,,5,10,1.0,0,18,4TCyj6JBfWw67LeFoS0mIW;31TPClRtHm23RisEBtV3X7;1nTfDD9onY8NPuCYqoRKRa;2wIVse2owClT7go1WT98tk;5Y5TRrQiqgUO4S36tzjIRZ,"DJ Wayne Williams; Justin Timberlake; Larry ""Rock"" Campbell; Missy Elliott; Timbaland"
+clique,324,,5,10,1.0,0,18,4SsVbpTthjScTS7U2hmr1X;4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;1WMwuNKzEFtU6pPkdtryYS;12vb80Km0Ew53ABfJOepVz,Arcángel; Bad Bunny; Daddy Yankee; Kendo Kaponi; Ñengo Flow
+clique,466,,5,10,1.0,0,17,1Cs0zKBU1kc0i8ypK3B9ai;3eaGMeFce3DPFvcqZ7KKoX;66AE89GQTx88zLYhXn1wFK;7ftwJjoOCCTK9MhbISqhnR;4TygOcLmJvkc50gH8e8TMZ,David Guetta; David Nagy; Sam Martin; Stadium X; Zsolt Milichovszki
+clique,151,,5,10,1.0,0,16,1RyvyyTE3xzB2ZywiAwp0i;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60;1zNqQNIdeOUZHb8zbZRFMX;50co4Is1HCEo8bhOyUWKpn,Future; Nicki Minaj; Post Malone; Swae Lee; Young Thug
+clique,719,,5,10,1.0,0,16,6HZwb7Zbnvfo8u1sst4QrI;5rATH049aVcH3W1RIoiU1g;4tm8CEdm4pkQsEh4jIr9Yp;3p3jPcp8b7WL9XYj4xlsWj;77AiFEVeAVj2ORpC85QVJs,Andruss; Dmitri Saidi; Santa Fe Klan; Snow Tha Product; Steve Aoki
+clique,771,,5,10,1.0,0,16,18006kpQI473m1ICcpimQ9;6WGE3kO8ULME2ErBcOksSR;2NpPlwwDVYR5dIj0F31EcC;6S3KljEiIOWoLMUyZrkQUc;77AiFEVeAVj2ORpC85QVJs,22Bullets; KAAZE; Leony; Marnik; Steve Aoki
+clique,150,,5,10,1.0,0,15,1RyvyyTE3xzB2ZywiAwp0i;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60;1zNqQNIdeOUZHb8zbZRFMX;1Xyo4u8uXC1ZmMpatF05PJ,Future; Nicki Minaj; Post Malone; Swae Lee; The Weeknd
+clique,351,,5,10,1.0,0,14,5QySqc6yAFDx9m7fedFZmC;73jBynjsVtofjRpdpRAJGk;2auikkNYqigWStoHWK1Grq;6WGE3kO8ULME2ErBcOksSR;77AiFEVeAVj2ORpC85QVJs,Brennan Heart; Dimitri Vegas & Like Mike; John Martin; KAAZE; Steve Aoki
+clique,59,,5,10,1.0,0,11,1J6iGa2TNBDCrJzjsnI1a8;1grI9x4Uzos1Asx8JmRW6T;181bsRPaVXVlUKXrxwZfHK;7ym7cDCdavUZqNufxIfHwY;42yf4QkiE9a252krn9OUCb,Big Pokey; Lil' Keke; Megan Thee Stallion; Mike D; Sauce Walka
+clique,293,,5,10,1.0,0,11,57YbQhFBBDksLzX08lqVnw;4rqRuFn6UH5A6QjebdQJcR;7ndYLcobuKuq9ZcoIAVvU6;2dd5mrQZvg6SmahdgVKDzh;1JIlqu7XZniSF86iMlgKHR,Kim Jin Pyo; Lee HaNeul; Masta Wu; PSY; ZoPD
+clique,295,,5,10,1.0,0,11,75ejsr1iK59GJ93YnrUKrv;15wlmlNEnCUlTEgeShnDO7;1RXCSRl9JrHXl7cSGebdWG;6jJ0s89eD6GaHleKKya26X;2wIVse2owClT7go1WT98tk,Cirkut; Dr. Luke; Dream Machine; Katy Perry; Missy Elliott
+clique,692,,5,10,1.0,0,11,3uXWHfGDounTAgv5NZmHeA;3PhoLpVuITZKcymswpck5b;1HY2Jd0NmPuamShAr6KMms;76raIy8boaM9sf9gMGXGJ5;7x3Dw6K5bpk80HwSzPEWjX,Chester Lockhart; Elton John; Lady Gaga; Lil Texas; Mood Killer
+clique,530,,5,10,1.0,0,10,4yKxcUntWQvr4x0TFFeqFF;55Aa2cqylxrFIXC767Z865;52bGM5r9Ej7RGC5UjD7ZHI;6fCoKofpYdwv5KGhgrtSzm;78tedfROfgdhgLAmLpPB0E,Flow; Lil Wayne; Raw Dizzy; T@; Thugga
+clique,542,,5,10,1.0,0,10,6nfYGe7IIuuP5bMY1jkJP6;5K4W6rqBFWDnAN6FQUkS6x;64ovxBmjJ9ZDqkzEXVWpVc;6vbY3hOaCAhC7VjucswgdS;23zg3TcAtWQy7J6upgbUnj,Jermaine Dupri; Kanye West; Shyne; Twista; USHER
+clique,485,,4,6,1.0,0,115,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp;0I9ypY8cPMh1a3N3Yra40T,Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; Xperience
+clique,12,,4,6,1.0,0,113,1QKJnzrlF5qGwmMJdXtOm2;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Evan Roman; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,486,,4,6,1.0,0,113,4sqgE7XhJ2Cvu3Z4AvFj0j;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Eighty4 Fly; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,493,,4,6,1.0,0,113,536osqBGKzeozje8BfcGsa;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Allen Stone; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,494,,4,6,1.0,0,113,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4e0nWw2r4BoQSKPQ2zpU13;4myTppRgh0rojLxx8RycOp,Macklemore; Macklemore & Ryan Lewis; Ray Dalton; Ryan Lewis
+clique,495,,4,6,1.0,0,113,77d8Yuuv6nGCJSnZHcOpVe;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Buffalo Madonna; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,496,,4,6,1.0,0,113,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5Z2NUZiY3FA00HKu5WTMhA;4myTppRgh0rojLxx8RycOp,Macklemore; Macklemore & Ryan Lewis; Mary Lambert; Ryan Lewis
+clique,497,,4,6,1.0,0,113,6Vfn70eqp3AgtiZZtQcv4W;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Ben Bridwell; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,498,,4,6,1.0,0,113,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp;7u0hj7d0myg3ZAKgevXalz,Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; The Teaching
+clique,500,,4,6,1.0,0,113,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp;56xTxG4nQMAs1GW9kvn0uA,Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; Wanz
+clique,487,,4,6,1.0,0,111,0XK6kT7xcZAlcYrNjOgzJe;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Carla Morrison; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,489,,4,6,1.0,0,111,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp;0A0FS04o6zMoto8OKPsDwY,Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; YG
+clique,490,,4,6,1.0,0,111,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4Ki9oFarfgc2BQa6zbT8DK;4myTppRgh0rojLxx8RycOp,Macklemore; Macklemore & Ryan Lewis; Mike Slap; Ryan Lewis
+clique,499,,4,6,1.0,0,111,4UodukR17NIQfNu5uaqm9B;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Jamila Woods; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,501,,4,6,1.0,0,111,3qnGvpP8Yth1AqSBMqON5x;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4myTppRgh0rojLxx8RycOp,Leon Bridges; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,526,,4,6,1.0,0,84,7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX;0Y5tJX1MQlPlqiwlOH1tJY,Rae Sremmurd; Slim Jxmmi; Swae Lee; Travis Scott
+clique,732,,4,6,1.0,0,84,7iZtZyCzp3LItcw1wtPI3D;1jXEORdld3GJ0KFwao9EW8;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX,Rae Sremmurd; Riff 3x; Slim Jxmmi; Swae Lee
+clique,733,,4,6,1.0,0,84,2RdwBSPQiwcmiDo9kixcl8;7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX,Pharrell Williams; Rae Sremmurd; Slim Jxmmi; Swae Lee
+clique,735,,4,6,1.0,0,84,7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX;4G4om3U7TKES0hDBQYYVy7,Rae Sremmurd; Slim Jxmmi; Swae Lee; Zoë Kravitz
+clique,736,,4,6,1.0,0,84,7iZtZyCzp3LItcw1wtPI3D;7EEiVZvj6RCEtVX2F2pyxu;1zNqQNIdeOUZHb8zbZRFMX;0701LAQrkY5Il5vt06uNnC,Rae Sremmurd; Slim Jxmmi; Swae Lee; Trouble
+clique,11,,4,6,1.0,0,81,1QKJnzrlF5qGwmMJdXtOm2;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1,Evan Roman; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,194,,4,6,1.0,0,81,17lzZA2AlOHwCwFALHttmp;3TVXtAsR1Inumwj472S9r4;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,2 Chainz; Drake; Lil Wayne; Nicki Minaj
+clique,475,,4,6,1.0,0,81,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5Z2NUZiY3FA00HKu5WTMhA;5mZJerulcERBZV7xnhrVp1,Macklemore; Macklemore & Ryan Lewis; Mary Lambert; Ryan Lewis
+clique,476,,4,6,1.0,0,81,0g9vAlRPK9Gt3FKCekk4TW;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1,Ab-Soul; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,477,,4,6,1.0,0,81,6Vfn70eqp3AgtiZZtQcv4W;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1,Ben Bridwell; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,478,,4,6,1.0,0,81,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1;7u0hj7d0myg3ZAKgevXalz,Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; The Teaching
+clique,479,,4,6,1.0,0,81,4sqgE7XhJ2Cvu3Z4AvFj0j;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1,Eighty4 Fly; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,481,,4,6,1.0,0,81,536osqBGKzeozje8BfcGsa;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1,Allen Stone; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,482,,4,6,1.0,0,81,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;4e0nWw2r4BoQSKPQ2zpU13;5mZJerulcERBZV7xnhrVp1,Macklemore; Macklemore & Ryan Lewis; Ray Dalton; Ryan Lewis
+clique,483,,4,6,1.0,0,81,77d8Yuuv6nGCJSnZHcOpVe;3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1,Buffalo Madonna; Macklemore; Macklemore & Ryan Lewis; Ryan Lewis
+clique,484,,4,6,1.0,0,81,3JhNCzhSMTxs9WLGJJxWOY;5BcAKTbp20cv7tC5VqPFoC;5mZJerulcERBZV7xnhrVp1;56xTxG4nQMAs1GW9kvn0uA,Macklemore; Macklemore & Ryan Lewis; Ryan Lewis; Wanz
+clique,1258,,4,6,1.0,0,66,3OnxG1XyJUpZOh8JujGZJs;1AEcpjnSCmm53IBZQo3g9z;6NyJIFHAePjHR1pFxwisqz;7hJcb9fa4alzcOq3EaNPoG,7 Days Of Funk; DāM-FunK; Kurupt; Snoop Dogg
+clique,1256,,4,6,1.0,0,62,3OnxG1XyJUpZOh8JujGZJs;1AEcpjnSCmm53IBZQo3g9z;7hJcb9fa4alzcOq3EaNPoG;60CFNa0ggWjV8OSDey8aGT,7 Days Of Funk; DāM-FunK; Snoop Dogg; Tha Dogg Pound
+clique,1255,,4,6,1.0,0,59,5MQIo1YqabUyOjWBzRqPSA;3crnzLy8R4lVwaigKEOz7V;7hJcb9fa4alzcOq3EaNPoG;4sb7rZNN93BSS6Gqgepo4v,Daz; E-40; Snoop Dogg; Too $hort
+clique,1254,,4,6,1.0,0,58,3crnzLy8R4lVwaigKEOz7V;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy;4sb7rZNN93BSS6Gqgepo4v,E-40; Snoop Dogg; T-Pain; Too $hort
+clique,1257,,4,6,1.0,0,58,3OnxG1XyJUpZOh8JujGZJs;1AEcpjnSCmm53IBZQo3g9z;7hJcb9fa4alzcOq3EaNPoG;030gEPJwNJnBcyra7CB9vM,7 Days Of Funk; DāM-FunK; Snoop Dogg; Steve Arrington
+clique,1124,,4,6,1.0,0,54,5Jz9kKRnCRLTodCH58MyB4;1AEcpjnSCmm53IBZQo3g9z;6NyJIFHAePjHR1pFxwisqz;7hJcb9fa4alzcOq3EaNPoG,Daz Dillinger; DāM-FunK; Kurupt; Snoop Dogg
+clique,41,,4,6,1.0,0,52,1Cs0zKBU1kc0i8ypK3B9ai;55Aa2cqylxrFIXC767Z865;6tbjWDEIzxoDsBA1FuhfPW;0hCNtLu0JehylgoiP8L4Gh,David Guetta; Lil Wayne; Madonna; Nicki Minaj
+clique,1242,,4,6,1.0,0,52,5NDMothbpdpq2xHqSjrrWn;3nFkdlSjzX9mRTtwJOzDYB;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Faith Evans; JAŸ-Z; Snoop Dogg; The Notorious B.I.G.
+clique,1022,,4,6,1.0,0,49,2qSEpijpT3YSXgxcXac1ly;1Cs0zKBU1kc0i8ypK3B9ai;2oBWpcv8MNPflTzyxZ8zVU;4EhiIwwMPecLznwn87sRw2,Chris Willis; David Guetta; Fred Riesterer; Joachim Garraud
+clique,1289,,4,6,1.0,0,49,2h93pZq0e7k5yf4dywlkpM;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;1W3FSF1BLpY3hlVIgvenLz,Frank Ocean; JAŸ-Z; Kanye West; THE-DREAM
+clique,472,,4,6,1.0,0,48,0YC192cP3KPCRWx8zr8MfZ;7Cf73Z3RZQTH4V69GSDxnv;1HY2Jd0NmPuamShAr6KMms;6dU7gPN2BhEPfO5QHLt7es,Hans Zimmer; Harold Faltermeyer; Lady Gaga; Lorne Balfe
+clique,1241,,4,6,1.0,0,48,5NDMothbpdpq2xHqSjrrWn;7hJcb9fa4alzcOq3EaNPoG;0NbfKEOTQCcwd6o7wSDOHI;5me0Irg2ANcsgc93uaYrpb,Faith Evans; Snoop Dogg; The Game; The Notorious B.I.G.
+clique,190,,4,6,1.0,0,46,17lzZA2AlOHwCwFALHttmp;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60,2 Chainz; Lil Wayne; Nicki Minaj; Post Malone
+clique,1099,,4,6,1.0,0,45,5oNgAs7j5XcBMzWv3HAnHG;5Jz9kKRnCRLTodCH58MyB4;6NyJIFHAePjHR1pFxwisqz;7hJcb9fa4alzcOq3EaNPoG,DJ Drama; Daz Dillinger; Kurupt; Snoop Dogg
+clique,1172,,4,6,1.0,0,45,3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;2RdwBSPQiwcmiDo9kixcl8;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Kanye West; Pharrell Williams; Snoop Dogg
+clique,40,,4,6,1.0,0,44,5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;6tbjWDEIzxoDsBA1FuhfPW;0hCNtLu0JehylgoiP8L4Gh,Kanye West; Lil Wayne; Madonna; Nicki Minaj
+clique,174,,4,6,1.0,0,44,4HgF4KnohByNElYid7iCNb;13y7CgLHjMVRMDqxdx0Xdo;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Bobby V.; Gucci Mane; Lil Wayne; Nicki Minaj
+clique,886,,4,6,1.0,0,44,7urq0VfqxEYEEiZUkebXT4;5NDMothbpdpq2xHqSjrrWn;2Srz9ec91IEjeKnQXXtOw4;5me0Irg2ANcsgc93uaYrpb,112; Faith Evans; Mama Wallace; The Notorious B.I.G.
+clique,39,,4,6,1.0,0,43,55Aa2cqylxrFIXC767Z865;6tbjWDEIzxoDsBA1FuhfPW;20qISvAhX20dpIbOOzGK3q;0hCNtLu0JehylgoiP8L4Gh,Lil Wayne; Madonna; Nas; Nicki Minaj
+clique,554,,4,6,1.0,0,43,3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;2RdwBSPQiwcmiDo9kixcl8;23zg3TcAtWQy7J6upgbUnj,JAŸ-Z; Kanye West; Pharrell Williams; USHER
+clique,912,,4,6,1.0,0,43,2qSEpijpT3YSXgxcXac1ly;1Cs0zKBU1kc0i8ypK3B9ai;6hyMWrxGBsOx6sWcVj1DqP;4FqPRilb0Ja0TKG3RS3y4s,Chris Willis; David Guetta; Sebastian Ingrosso; Steve Angello
+clique,545,,4,6,1.0,0,42,3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;6vbY3hOaCAhC7VjucswgdS;23zg3TcAtWQy7J6upgbUnj,JAŸ-Z; Kanye West; Twista; USHER
+clique,1089,,4,6,1.0,0,42,5NDMothbpdpq2xHqSjrrWn;5pnbUBPifNnlusY8kTBivi;2x8KDZdSONA3872CnhaAlX;5me0Irg2ANcsgc93uaYrpb,Faith Evans; Jadakiss; Styles P; The Notorious B.I.G.
+clique,182,,4,6,1.0,0,41,0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;1sBkRIssrMs1AbVkOJbc7a,Flo Rida; Lil Wayne; Nicki Minaj; Rick Ross
+clique,183,,4,6,1.0,0,40,55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;1sBkRIssrMs1AbVkOJbc7a;23zg3TcAtWQy7J6upgbUnj,Lil Wayne; Nicki Minaj; Rick Ross; USHER
+clique,711,,4,6,1.0,0,40,0Ld26D4Ya5Od7ZZpLanfQJ;4Gso3d4CscCijv0lmajZWs;2LQF8AgyQUgLfquM92Rx8N;2RDOrhPqAM4jzTRCEb19qX,DJ Candlestick; Don Toliver; OG Ron C; Sheck Wes
+clique,1253,,4,6,1.0,0,40,5MQIo1YqabUyOjWBzRqPSA;7tZrWfaCLVG6ijO3C2ocbQ;7hJcb9fa4alzcOq3EaNPoG;4sb7rZNN93BSS6Gqgepo4v,Daz; Kokane; Snoop Dogg; Too $hort
+clique,202,,4,6,1.0,0,39,2feDdbD5araYcm6JhFHHw7;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;1Xyo4u8uXC1ZmMpatF05PJ,Labrinth; Lil Wayne; Nicki Minaj; The Weeknd
+clique,178,,4,6,1.0,0,38,5f7VJjfbwm532GiveGC0ZK;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60,Lil Baby; Lil Wayne; Nicki Minaj; Post Malone
+clique,185,,4,6,1.0,0,38,4yBK75WVCQXej1p04GWqxH;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,Jeezy; Lil Wayne; Nicki Minaj; USHER
+clique,192,,4,6,1.0,0,38,0jnsk9HBra6NMjO2oANoPY;13y7CgLHjMVRMDqxdx0Xdo;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Flo Rida; Gucci Mane; Lil Wayne; Nicki Minaj
+clique,865,,4,6,1.0,0,38,33jNkXVuCJ63rDQFjd4b6v;5NDMothbpdpq2xHqSjrrWn;2teIxF2qgr0rYmTTMKiZ7s;5me0Irg2ANcsgc93uaYrpb,Chyna Tahjere; Faith Evans; Kevin McCall; The Notorious B.I.G.
+clique,1081,,4,6,1.0,0,38,3q7HBObVc0L8jNeTe5Gofh;7dGJo4pcD2V6oG8kP0tJRR;3vDUJHQtqT3jFRZ2ECXDTi;50UMTib697JJ44le8DO2Va,50 Cent; Eminem; Lloyd Banks; Tony Yayo
+clique,1092,,4,6,1.0,0,38,5NDMothbpdpq2xHqSjrrWn;14ejEUaU0wE2iAenbbv9b8;2x8KDZdSONA3872CnhaAlX;5me0Irg2ANcsgc93uaYrpb,Faith Evans; Sheek Louch; Styles P; The Notorious B.I.G.
+clique,343,,4,6,1.0,0,37,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;25uiPmTg16RbhZWAqwLBy5;1Cs0zKBU1kc0i8ypK3B9ai,AFROJACK; Bebe Rexha; Charli xcx; David Guetta
+clique,774,,4,6,1.0,0,37,2qSEpijpT3YSXgxcXac1ly;1Cs0zKBU1kc0i8ypK3B9ai;3r17AfJCCUqC9Lf0OAc73G;3sgFRtyBnxXD5ESfmbK4dl,Chris Willis; David Guetta; Fergie; LMFAO
+clique,1146,,4,6,1.0,0,37,6DPYiyq5kWVQS4RGwxzPC7;3Mcii5XWf6E0lrY3Uky4cA;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG,Dr. Dre; Ice Cube; Nate Dogg; Snoop Dogg
+clique,160,,4,6,1.0,0,36,4D75GcNG95ebPtNvoNVXhz;1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,AFROJACK; David Guetta; Nicki Minaj; USHER
+clique,1200,,4,6,1.0,0,36,55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy;137W8MRPWKqSmrBGDBFSop,Lil Wayne; Snoop Dogg; T-Pain; Wiz Khalifa
+clique,796,,4,6,1.0,0,35,35sCXuy5gN6Or69rZ9vqBs;5MQIo1YqabUyOjWBzRqPSA;6NyJIFHAePjHR1pFxwisqz;55Aa2cqylxrFIXC767Z865,Birdman; Daz; Kurupt; Lil Wayne
+clique,1002,,4,6,1.0,0,35,1iNqsUDUraNWrj00bqssQG;6U3ybJ9UHNKEdsH7ktGBZ7;75WcpJKWXBV3o3cfluWapK;30C5wgn4celhRP3Tytv7R6,Dreamville; JID; Lute; Mez
+clique,208,,4,6,1.0,0,34,7bXgB6jMjp9ATFy66eO08Z;3TVXtAsR1Inumwj472S9r4;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H,Chris Brown; Drake; Nicki Minaj; Rihanna
+clique,118,,4,6,1.0,0,33,4r63FhuTkUYltbVAg5TQnk;1iNqsUDUraNWrj00bqssQG;6l3HvQ5sa6mXTsMTB19rO5;75WcpJKWXBV3o3cfluWapK,DaBaby; Dreamville; J. Cole; Lute
+clique,997,,4,6,1.0,0,33,0tCtGc5vt29zFZp6KXzN50;2Jwr7hGoSNK3S3QBxh3T0z;3nFkdlSjzX9mRTtwJOzDYB;4jWzNq3sdzSpqn7BnzvIKn,Beanie Sigel; Freeway; JAŸ-Z; Memphis Bleek
+clique,211,,4,6,1.0,0,31,3TVXtAsR1Inumwj472S9r4;4yBK75WVCQXej1p04GWqxH;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H,Drake; Jeezy; Nicki Minaj; Rihanna
+clique,598,,4,6,1.0,0,31,70gP6Ry4Uo0Yx6uzPIdaiJ;5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;6awzBEyEEwWHOjLox1DkLr,Bas; Cozz; Dreamville; Girl Talk
+clique,152,,4,6,1.0,0,30,1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H;085pc2PYOi8bGKj0PNjekA,David Guetta; Nicki Minaj; Rihanna; will.i.am
+clique,600,,4,6,1.0,0,30,1vaQ6v3pOFxAIrFoPrAcom;6Z4JcgqrqgysyHIPRtDIHo;70gP6Ry4Uo0Yx6uzPIdaiJ;1iNqsUDUraNWrj00bqssQG,Ari Lennox; Baby Rose; Bas; Dreamville
+clique,984,,4,6,1.0,0,30,13ubrt8QOOCPljQ2FL1Kca;3TVXtAsR1Inumwj472S9r4;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865,A$AP Rocky; Drake; Kanye West; Lil Wayne
+clique,1161,,4,6,1.0,0,30,7hJcb9fa4alzcOq3EaNPoG;4OBJLual30L7gRl5UkeRcT;5me0Irg2ANcsgc93uaYrpb;4sb7rZNN93BSS6Gqgepo4v,Snoop Dogg; T.I.; The Notorious B.I.G.; Too $hort
+clique,209,,4,6,1.0,0,29,3TVXtAsR1Inumwj472S9r4;1RyvyyTE3xzB2ZywiAwp0i;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H,Drake; Future; Nicki Minaj; Rihanna
+clique,212,,4,6,1.0,0,29,7bXgB6jMjp9ATFy66eO08Z;1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H,Chris Brown; David Guetta; Nicki Minaj; Rihanna
+clique,830,,4,6,1.0,0,29,6NOvBZrkd83MSD51xkq4on;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg;44PA0rCQXikgOWbfY7Fq7m,Elephant Man; Lil Jon; Pitbull; Ying Yang Twins
+clique,887,,4,6,1.0,0,29,1Cs0zKBU1kc0i8ypK3B9ai;4bXUaTjc7TQTvLqqCAlfYt;5ChF3i92IPZHduM7jN3dpg;5WUlDfRSoLAfcVSX1WnrxN,David Guetta; Jack Back; Nicky Romero; Sia
+clique,1266,,4,6,1.0,0,29,6NyJIFHAePjHR1pFxwisqz;1Oa0bMld0A3u5OTYfMzp5h;7hJcb9fa4alzcOq3EaNPoG;2B4ZHz4QDWJTXPFPgO5peE,Kurupt; Nate Dogg; Snoop Dogg; Warren G
+clique,941,,4,6,1.0,0,28,0tCtGc5vt29zFZp6KXzN50;3nFkdlSjzX9mRTtwJOzDYB;5wBDD4FNJvob5fAGkAIQ92;4jWzNq3sdzSpqn7BnzvIKn,Beanie Sigel; JAŸ-Z; Lil' Mo; Memphis Bleek
+clique,1197,,4,6,1.0,0,28,5gCRApTajqwbnHHPbr2Fpi;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;137W8MRPWKqSmrBGDBFSop,Juicy J; Lil Wayne; Snoop Dogg; Wiz Khalifa
+clique,1239,,4,6,1.0,0,28,0oywmZ7vl6A3bQPTsN66Rm;0OMJR0LjjKv21qNvICTgbi;7hJcb9fa4alzcOq3EaNPoG;137W8MRPWKqSmrBGDBFSop,DJ Battlecat; Devin The Dude; Snoop Dogg; Wiz Khalifa
+clique,1274,,4,6,1.0,0,28,3Mcii5XWf6E0lrY3Uky4cA;7sfl4Xt5KmfyDs2T3SVSMK;7hJcb9fa4alzcOq3EaNPoG;0NbfKEOTQCcwd6o7wSDOHI,Ice Cube; Lil Jon; Snoop Dogg; The Game
+clique,147,,4,6,1.0,0,27,1Cs0zKBU1kc0i8ypK3B9ai;07YZf4WDAMNwqr4jfgOZ8y;3e7awlrlDSwF3iM0WBjGMp;0hCNtLu0JehylgoiP8L4Gh,David Guetta; Jason Derulo; Little Mix; Nicki Minaj
+clique,1160,,4,6,1.0,0,27,7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy;4OBJLual30L7gRl5UkeRcT;4sb7rZNN93BSS6Gqgepo4v,Snoop Dogg; T-Pain; T.I.; Too $hort
+clique,1199,,4,6,1.0,0,27,0du5cEVh5yTK9QJze8zA0C;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;137W8MRPWKqSmrBGDBFSop,Bruno Mars; Lil Wayne; Snoop Dogg; Wiz Khalifa
+clique,1222,,4,6,1.0,0,27,3q7HBObVc0L8jNeTe5Gofh;7dGJo4pcD2V6oG8kP0tJRR;7hJcb9fa4alzcOq3EaNPoG;50UMTib697JJ44le8DO2Va,50 Cent; Eminem; Snoop Dogg; Tony Yayo
+clique,27,,4,6,1.0,0,26,4D75GcNG95ebPtNvoNVXhz;1ruutHJcECI7cos2n5TqpO;21E3waRsmPlU7jZsS13rcj;0TnOYISbd1XYRBk9myaseg,AFROJACK; Nayer; Ne-Yo; Pitbull
+clique,952,,4,6,1.0,0,26,4VMYDCV2IEDYJArk749S6m;6NOvBZrkd83MSD51xkq4on;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg,Daddy Yankee; Elephant Man; Lil Jon; Pitbull
+clique,959,,4,6,1.0,0,26,0z4gvV4rjIZ9wHck67ucSV;4VMYDCV2IEDYJArk749S6m;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg,Akon; Daddy Yankee; Lil Jon; Pitbull
+clique,1116,,4,6,1.0,0,26,5MQIo1YqabUyOjWBzRqPSA;6kEwu0twnfzngQt3Gy8taP;7tZrWfaCLVG6ijO3C2ocbQ;7hJcb9fa4alzcOq3EaNPoG,Daz; Goldie Loc; Kokane; Snoop Dogg
+clique,898,,4,6,1.0,0,25,2NdeV5rLm47xAvogXrYhJX;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg;2mxe0TnaNL039ysAj51xPQ,Ciara; Lil Jon; Pitbull; R. Kelly
+clique,1100,,4,6,1.0,0,25,5oNgAs7j5XcBMzWv3HAnHG;7e10JUMF7MJmmwYpnTSMI5;6NyJIFHAePjHR1pFxwisqz;7hJcb9fa4alzcOq3EaNPoG,DJ Drama; Dave East; Kurupt; Snoop Dogg
+clique,1158,,4,6,1.0,0,25,6CxZzQFUTM6AzgluGwtq5w;2mxe0TnaNL039ysAj51xPQ;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Charlie Wilson; R. Kelly; Snoop Dogg; The Notorious B.I.G.
+clique,1236,,4,6,1.0,0,25,1z7b1Pr1rSlvWRzsW3HOrS;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy;137W8MRPWKqSmrBGDBFSop,Russ; Snoop Dogg; T-Pain; Wiz Khalifa
+clique,153,,4,6,1.0,0,24,1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;0hCNtLu0JehylgoiP8L4Gh;085pc2PYOi8bGKj0PNjekA,David Guetta; Flo Rida; Nicki Minaj; will.i.am
+clique,154,,4,6,1.0,0,24,1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj;085pc2PYOi8bGKj0PNjekA,David Guetta; Nicki Minaj; USHER; will.i.am
+clique,255,,4,6,1.0,0,24,1U1el3k54VvEUzo3ybLPlM;6R9Mv0bgGE4Tqxna1q5Mrj;3jk39CGeaaSO3FPKNx1RUx;4V8LLVI7PbaPR0K2TGSxFF,"Kali Uchis; Roy Ayers; Syd; Tyler, The Creator"
+clique,286,,4,6,1.0,0,24,5Il27M5JXuQLgwDgVrQMgo;6M2wZ9GZgrQXHCFfjv46we;6J7biCazzYhU3gM9j1wfid;4TvhRzxIL1le2PWCeUqxQw,Dimitri From Paris; Dua Lipa; Jamiroquai; The Blessed Madonna
+clique,450,,4,6,1.0,0,24,59wfkuBoNyhDMQGCljbUbA;3nFkdlSjzX9mRTtwJOzDYB;1XkoF8ryArs86LZvFOkbyr;5me0Irg2ANcsgc93uaYrpb,Diddy; JAŸ-Z; Mary J. Blige; The Notorious B.I.G.
+clique,639,,4,6,1.0,0,24,0jnsk9HBra6NMjO2oANoPY;2DlGxzQSjYe5N6G9nkYghR;0TnOYISbd1XYRBk9myaseg;1sBkRIssrMs1AbVkOJbc7a,Flo Rida; Jennifer Lopez; Pitbull; Rick Ross
+clique,811,,4,6,1.0,0,24,6M2wZ9GZgrQXHCFfjv46we;1S2S00lgLYLGHWA44qGEUs;4TvhRzxIL1le2PWCeUqxQw;0u6h31HopxUAum6iOTVL17,Dua Lipa; Gen Hoshino; The Blessed Madonna; Zach Witness
+clique,813,,4,6,1.0,0,24,5Il27M5JXuQLgwDgVrQMgo;6M2wZ9GZgrQXHCFfjv46we;6pohviZSNRueSX7uNu63ZX;4TvhRzxIL1le2PWCeUqxQw,Dimitri From Paris; Dua Lipa; Moodymann; The Blessed Madonna
+clique,1010,,4,6,1.0,0,24,5Igpc9iLZ3YGtKeYfSrrOE;6KZDXtSj0SzGOV705nNeh3;77AiFEVeAVj2ORpC85QVJs;2vVNxGBvKRQMWwI5c8KmYh,Chris Lake; Kid Ink; Steve Aoki; Tujamo
+clique,1064,,4,6,1.0,0,24,59wfkuBoNyhDMQGCljbUbA;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB;5me0Irg2ANcsgc93uaYrpb,Diddy; Eminem; JAŸ-Z; The Notorious B.I.G.
+clique,447,,4,6,1.0,0,23,0z4gvV4rjIZ9wHck67ucSV;59wfkuBoNyhDMQGCljbUbA;1XkoF8ryArs86LZvFOkbyr;5me0Irg2ANcsgc93uaYrpb,Akon; Diddy; Mary J. Blige; The Notorious B.I.G.
+clique,858,,4,6,1.0,0,23,5oFkj1qSlyBUmV5d6Edgtq;1iNqsUDUraNWrj00bqssQG;4Q2hTDZYFCohf17D5GvkIb;6XpXnnKHIhCOUbOLOJGe6o,Cozz; Dreamville; G Perico; REASON
+clique,1063,,4,6,1.0,0,23,59wfkuBoNyhDMQGCljbUbA;7dGJo4pcD2V6oG8kP0tJRR;2XnnxQzxFZG8qEPjakokPM;5me0Irg2ANcsgc93uaYrpb,Diddy; Eminem; Obie Trice; The Notorious B.I.G.
+clique,1223,,4,6,1.0,0,23,1ykdy4jtPLFOuaJrZqHTbp;7tZrWfaCLVG6ijO3C2ocbQ;4QIzqQPuyAedNFvjcHWXkA;7hJcb9fa4alzcOq3EaNPoG,Bad Azz; Kokane; Lil 1/2 Dead; Snoop Dogg
+clique,36,,4,6,1.0,0,22,6M2wZ9GZgrQXHCFfjv46we;6tbjWDEIzxoDsBA1FuhfPW;2wIVse2owClT7go1WT98tk;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Madonna; Missy Elliott; The Blessed Madonna
+clique,166,,4,6,1.0,0,22,1Cs0zKBU1kc0i8ypK3B9ai;07YZf4WDAMNwqr4jfgOZ8y;0hCNtLu0JehylgoiP8L4Gh;4RSyJzf7ef6Iu2rnLdabNq,David Guetta; Jason Derulo; Nicki Minaj; Willy William
+clique,803,,4,6,1.0,0,22,6M2wZ9GZgrQXHCFfjv46we;4yiQZ8tQPux8cPriYMWUFP;3hv9jJF3adDNsBSIQDqcjp;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Gwen Stefani; Mark Ronson; The Blessed Madonna
+clique,1121,,4,6,1.0,0,22,1Oa0bMld0A3u5OTYfMzp5h;7xTKLpo7UCzXSnlH7fOIoM;7hJcb9fa4alzcOq3EaNPoG;2B4ZHz4QDWJTXPFPgO5peE,Nate Dogg; Redman; Snoop Dogg; Warren G
+clique,1145,,4,6,1.0,0,22,6DPYiyq5kWVQS4RGwxzPC7;7dGJo4pcD2V6oG8kP0tJRR;7LzTBVNarOeaDXFdzOugAI;7hJcb9fa4alzcOq3EaNPoG,Dr. Dre; Eminem; Sly Pyper; Snoop Dogg
+clique,1202,,4,6,1.0,0,22,5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy,Kanye West; Lil Wayne; Snoop Dogg; T-Pain
+clique,610,,4,6,1.0,0,21,1Cs0zKBU1kc0i8ypK3B9ai;134GdR5tUtxJrf8cpsfpyY;42qLC3FgtazA9AvaIoiP62;3gk0OYeLFWYupGFRHqLSR7,David Guetta; Elliphant; Ms. Dynamite; Showtek
+clique,640,,4,6,1.0,0,21,0jnsk9HBra6NMjO2oANoPY;2DlGxzQSjYe5N6G9nkYghR;3ipn9JLAPI5GUEo4y4jcoi;0TnOYISbd1XYRBk9myaseg,Flo Rida; Jennifer Lopez; Ludacris; Pitbull
+clique,1014,,4,6,1.0,0,21,3q7HBObVc0L8jNeTe5Gofh;7dGJo4pcD2V6oG8kP0tJRR;2XnnxQzxFZG8qEPjakokPM;6Oesi698iJRUaBeT82zckf,50 Cent; Eminem; Obie Trice; Stat Quo
+clique,1066,,4,6,1.0,0,21,3q7HBObVc0L8jNeTe5Gofh;59wfkuBoNyhDMQGCljbUbA;7dGJo4pcD2V6oG8kP0tJRR;2XnnxQzxFZG8qEPjakokPM,50 Cent; Diddy; Eminem; Obie Trice
+clique,1104,,4,6,1.0,0,21,5j1eXTVgSTLuHl3VzBDXX4;1eNO1DUCOtZgCzlwtjtb1t;6g0Wah2YFtb1rFgKhUktlo;7hJcb9fa4alzcOq3EaNPoG,J-Black; October London; Raphael Saadiq; Snoop Dogg
+clique,1117,,4,6,1.0,0,21,6CxZzQFUTM6AzgluGwtq5w;6kEwu0twnfzngQt3Gy8taP;3ipn9JLAPI5GUEo4y4jcoi;7hJcb9fa4alzcOq3EaNPoG,Charlie Wilson; Goldie Loc; Ludacris; Snoop Dogg
+clique,1122,,4,6,1.0,0,21,3z026hQ0Xi3FNRELTGPJyB;09ci97mGlIVzXxSRGEKPxl;3Vszg64mczF1dWEcW2dU5W;7hJcb9fa4alzcOq3EaNPoG,Dimez; JT The Bigga Figga; Luciano; Snoop Dogg
+clique,1157,,4,6,1.0,0,21,6CxZzQFUTM6AzgluGwtq5w;3ipn9JLAPI5GUEo4y4jcoi;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Charlie Wilson; Ludacris; Snoop Dogg; The Notorious B.I.G.
+clique,1177,,4,6,1.0,0,21,56Uaa3aLhwsjga76AN2Zc1;6vLkGQtcScP2CLqzUk7scy;7tZrWfaCLVG6ijO3C2ocbQ;7hJcb9fa4alzcOq3EaNPoG,Black Hef; E-White; Kokane; Snoop Dogg
+clique,1186,,4,6,1.0,0,21,1P3Y73dGSJ3M622buYzEhO;09ci97mGlIVzXxSRGEKPxl;609CQtpsdH64KYpYBTbGES;7hJcb9fa4alzcOq3EaNPoG,G-Bundle; JT The Bigga Figga; Lord Nez; Snoop Dogg
+clique,1188,,4,6,1.0,0,21,7tZrWfaCLVG6ijO3C2ocbQ;7hDbqjDQcyb0Tou5JzK0wJ;7hJcb9fa4alzcOq3EaNPoG;4qMaB9VyQElCxsYdP6Gj7D,Kokane; Mr.Kane; Snoop Dogg; Traci Nelson
+clique,1319,,4,6,1.0,0,21,7bXgB6jMjp9ATFy66eO08Z;0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;3aQeKQSyrW4qWr35idm0cy,Chris Brown; Flo Rida; Lil Wayne; T-Pain
+clique,962,,4,6,1.0,0,20,7bXgB6jMjp9ATFy66eO08Z;0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Chris Brown; Flo Rida; Pitbull; T-Pain
+clique,973,,4,6,1.0,0,20,0TnOYISbd1XYRBk9myaseg;1sBkRIssrMs1AbVkOJbc7a;3aQeKQSyrW4qWr35idm0cy;12FHARd9fY0Tu0ila4Ua25,Pitbull; Rick Ross; T-Pain; Trick Daddy
+clique,1201,,4,6,1.0,0,20,55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy,Lil Wayne; Rick Ross; Snoop Dogg; T-Pain
+clique,1204,,4,6,1.0,0,20,5MQIo1YqabUyOjWBzRqPSA;6NyJIFHAePjHR1pFxwisqz;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,Daz; Kurupt; Lil Wayne; Snoop Dogg
+clique,1248,,4,6,1.0,0,20,3nFkdlSjzX9mRTtwJOzDYB;2mxe0TnaNL039ysAj51xPQ;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,JAŸ-Z; R. Kelly; Snoop Dogg; The Notorious B.I.G.
+clique,507,,4,6,1.0,0,19,3ipn9JLAPI5GUEo4y4jcoi;0TnOYISbd1XYRBk9myaseg;3Isy6kedDrgPYoTS1dazA9;3aQeKQSyrW4qWr35idm0cy,Ludacris; Pitbull; Sean Paul; T-Pain
+clique,559,,4,6,1.0,0,19,1Cs0zKBU1kc0i8ypK3B9ai;1uNFoZAHBGtllmzznpCI3s;3ipn9JLAPI5GUEo4y4jcoi;23zg3TcAtWQy7J6upgbUnj,David Guetta; Justin Bieber; Ludacris; USHER
+clique,895,,4,6,1.0,0,19,7bXgB6jMjp9ATFy66eO08Z;2NdeV5rLm47xAvogXrYhJX;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Chris Brown; Ciara; Pitbull; T-Pain
+clique,2,,4,6,1.0,0,18,7dGJo4pcD2V6oG8kP0tJRR;1q13yHC6Syg5Y8iPLrRnCq;6fFfnKGVI6X3lkCr8Qw1g1;6DVipHzYsPlIoA0DW8Gmns,"Eminem; Joell Ortiz; KXNG Crooked; Royce Da 5'9"""
+clique,90,,4,6,1.0,0,18,0z4gvV4rjIZ9wHck67ucSV;6pjDCX0wIwfLZLH3Bpu81S;19KwjzvIL92r29IINtlPNP;5me0Irg2ANcsgc93uaYrpb,Akon; Big Gee; Scarface; The Notorious B.I.G.
+clique,317,,4,6,1.0,0,18,3jK9MiCrA42lLAdMGUZpwa;6DPYiyq5kWVQS4RGwxzPC7;7qmpGpHTqrJfS1QhR9uYKp;2YZyLoL8N0Wb9xBt1NhZWg,Anderson .Paak; Dr. Dre; Justus; Kendrick Lamar
+clique,453,,4,6,1.0,0,18,3nFkdlSjzX9mRTtwJOzDYB;1XkoF8ryArs86LZvFOkbyr;20qISvAhX20dpIbOOzGK3q;5me0Irg2ANcsgc93uaYrpb,JAŸ-Z; Mary J. Blige; Nas; The Notorious B.I.G.
+clique,456,,4,6,1.0,0,18,1ZwdS5xdxEREPySFridCfh;1XkoF8ryArs86LZvFOkbyr;20qISvAhX20dpIbOOzGK3q;5me0Irg2ANcsgc93uaYrpb,2Pac; Mary J. Blige; Nas; The Notorious B.I.G.
+clique,673,,4,6,1.0,0,18,4D75GcNG95ebPtNvoNVXhz;25uiPmTg16RbhZWAqwLBy5;1Cs0zKBU1kc0i8ypK3B9ai;6vXTefBL93Dj5IqAWq6OTv,AFROJACK; Charli xcx; David Guetta; French Montana
+clique,676,,4,6,1.0,0,18,4D75GcNG95ebPtNvoNVXhz;7Ip2u3e5Nv6fFb5xyIHxEE;1Cs0zKBU1kc0i8ypK3B9ai;5Y5TRrQiqgUO4S36tzjIRZ,AFROJACK; DEV; David Guetta; Timbaland
+clique,726,,4,6,1.0,0,18,2R21vXR83lH98kGeO99Y66;4q3ewBCX7sLwd24euuV69X;1vyhD5VmyZ7KMfW5gqLgo5;790FomKkXshlbRYZFtlgla,Anuel AA; Bad Bunny; J Balvin; KAROL G
+clique,872,,4,6,1.0,0,18,6DPYiyq5kWVQS4RGwxzPC7;3nFkdlSjzX9mRTtwJOzDYB;3PyWEKLWI0vHPmoNrIX0QE;0HCeK90YUyjWi0utTPYXw1,Dr. Dre; JAŸ-Z; Rakim; Truth Hurts
+clique,1067,,4,6,1.0,0,18,3q7HBObVc0L8jNeTe5Gofh;59wfkuBoNyhDMQGCljbUbA;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB,50 Cent; Diddy; Eminem; JAŸ-Z
+clique,1156,,4,6,1.0,0,18,6CxZzQFUTM6AzgluGwtq5w;31TPClRtHm23RisEBtV3X7;2RdwBSPQiwcmiDo9kixcl8;7hJcb9fa4alzcOq3EaNPoG,Charlie Wilson; Justin Timberlake; Pharrell Williams; Snoop Dogg
+clique,1209,,4,6,1.0,0,18,3nFkdlSjzX9mRTtwJOzDYB;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;2cADQgiLMjNhbsfeN52Bf3,JAŸ-Z; Lil Wayne; Snoop Dogg; Swizz Beatz
+clique,218,,4,6,1.0,0,17,2GHclqNVjqGuiE5mA7BEoc;5y2Xq6xcjJb2jVM54GHK3t;4O2YL4ygn6eTBC0w1hyWUM;78xUyw6FkVZrRAtziFdtdu,Common; John Legend; Melanie Fiona; The Roots
+clique,261,,4,6,1.0,0,17,13ubrt8QOOCPljQ2FL1Kca;2h93pZq0e7k5yf4dywlkpM;5K4W6rqBFWDnAN6FQUkS6x;4V8LLVI7PbaPR0K2TGSxFF,"A$AP Rocky; Frank Ocean; Kanye West; Tyler, The Creator"
+clique,445,,4,6,1.0,0,17,0z4gvV4rjIZ9wHck67ucSV;59wfkuBoNyhDMQGCljbUbA;1XkoF8ryArs86LZvFOkbyr;3aQeKQSyrW4qWr35idm0cy,Akon; Diddy; Mary J. Blige; T-Pain
+clique,727,,4,6,1.0,0,17,4q3ewBCX7sLwd24euuV69X;1vyhD5VmyZ7KMfW5gqLgo5;790FomKkXshlbRYZFtlgla;1SupJlEpv7RS2tPNRaHViT,Bad Bunny; J Balvin; KAROL G; Nicky Jam
+clique,896,,4,6,1.0,0,17,2NdeV5rLm47xAvogXrYhJX;3ipn9JLAPI5GUEo4y4jcoi;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Ciara; Ludacris; Pitbull; T-Pain
+clique,963,,4,6,1.0,0,17,0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;1sBkRIssrMs1AbVkOJbc7a;3aQeKQSyrW4qWr35idm0cy,Flo Rida; Pitbull; Rick Ross; T-Pain
+clique,1180,,4,6,1.0,0,17,3nFkdlSjzX9mRTtwJOzDYB;4jWzNq3sdzSpqn7BnzvIKn;0EOoSsmM3oV2aoGL3Od3E3;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Memphis Bleek; Rell; Snoop Dogg
+clique,1198,,4,6,1.0,0,17,4HgF4KnohByNElYid7iCNb;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Bobby V.; Lil Wayne; Snoop Dogg; The Notorious B.I.G.
+clique,1219,,4,6,1.0,0,17,3q7HBObVc0L8jNeTe5Gofh;7hJcb9fa4alzcOq3EaNPoG;0NbfKEOTQCcwd6o7wSDOHI;50UMTib697JJ44le8DO2Va,50 Cent; Snoop Dogg; The Game; Tony Yayo
+clique,87,,4,6,1.0,0,16,5IqWDVLGThjmkm22e3oBU3;0TnOYISbd1XYRBk9myaseg;3mH3OBKopDDVgnJcT5PrPk;3BnF35ARlp8mMeyXTjUZsr,David Rush; Pitbull; Redfoo; Vein
+clique,402,,4,6,1.0,0,16,5IMltI7AzMZmM9TdapGK8w;55Aa2cqylxrFIXC767Z865;5u4TJDB53ZDkB9ueZ6A2fm;3aQeKQSyrW4qWr35idm0cy,Dean Gillard; Lil Wayne; Matt Ward; T-Pain
+clique,621,,4,6,1.0,0,16,66CXWjxzNUsdJxJ2JdwvnR;5cj0lLjcoR7YOSnhnX0Po5;55Aa2cqylxrFIXC767Z865;1Xyo4u8uXC1ZmMpatF05PJ,Ariana Grande; Doja Cat; Lil Wayne; The Weeknd
+clique,695,,4,6,1.0,0,16,3TVXtAsR1Inumwj472S9r4;3nFkdlSjzX9mRTtwJOzDYB;4yBK75WVCQXej1p04GWqxH;5pKCCKE2ajJHZ9KAiaK11H,Drake; JAŸ-Z; Jeezy; Rihanna
+clique,769,,4,6,1.0,0,16,70g2GF84Udc1iWqYvKFGyC;6Uh8uJyN9g7oFjDK16nJgb;55Aa2cqylxrFIXC767Z865;5me0Irg2ANcsgc93uaYrpb,Jim Jones; Juelz Santana; Lil Wayne; The Notorious B.I.G.
+clique,966,,4,6,1.0,0,16,0jnsk9HBra6NMjO2oANoPY;3ipn9JLAPI5GUEo4y4jcoi;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Flo Rida; Ludacris; Pitbull; T-Pain
+clique,1163,,4,6,1.0,0,16,0z4gvV4rjIZ9wHck67ucSV;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy;4OBJLual30L7gRl5UkeRcT,Akon; Snoop Dogg; T-Pain; T.I.
+clique,280,,4,6,1.0,0,15,26VFTg2z8YR0cCuwLzESi2;1uNFoZAHBGtllmzznpCI3s;246dkjvS1zLTtiykXe5h60;0VRj0yCOv2FXJNP47XQnx5,Halsey; Justin Bieber; Post Malone; Quavo
+clique,426,,4,6,1.0,0,15,2vC9dN2ebF9lBbAFlIUeL4;5F2Bwl7Is7KVwTbNbMclIS;0TnOYISbd1XYRBk9myaseg;7iJrDbKM5fEkGdm5kpjFzS,El Chevo; Papayo; Pitbull; Sensato
+clique,573,,4,6,1.0,0,15,6DPYiyq5kWVQS4RGwxzPC7;7qmpGpHTqrJfS1QhR9uYKp;2YZyLoL8N0Wb9xBt1NhZWg;30C5wgn4celhRP3Tytv7R6,Dr. Dre; Justus; Kendrick Lamar; Mez
+clique,1164,,4,6,1.0,0,15,0z4gvV4rjIZ9wHck67ucSV;7hJcb9fa4alzcOq3EaNPoG;4OBJLual30L7gRl5UkeRcT;5me0Irg2ANcsgc93uaYrpb,Akon; Snoop Dogg; T.I.; The Notorious B.I.G.
+clique,1171,,4,6,1.0,0,15,3nFkdlSjzX9mRTtwJOzDYB;31TPClRtHm23RisEBtV3X7;2RdwBSPQiwcmiDo9kixcl8;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Justin Timberlake; Pharrell Williams; Snoop Dogg
+clique,1196,,4,6,1.0,0,15,7bXgB6jMjp9ATFy66eO08Z;1Cs0zKBU1kc0i8ypK3B9ai;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,Chris Brown; David Guetta; Lil Wayne; Snoop Dogg
+clique,1314,,4,6,1.0,0,15,0jnsk9HBra6NMjO2oANoPY;13y7CgLHjMVRMDqxdx0Xdo;55Aa2cqylxrFIXC767Z865;3aQeKQSyrW4qWr35idm0cy,Flo Rida; Gucci Mane; Lil Wayne; T-Pain
+clique,22,,4,6,1.0,0,14,0z4gvV4rjIZ9wHck67ucSV;1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;21E3waRsmPlU7jZsS13rcj,Akon; David Guetta; Flo Rida; Ne-Yo
+clique,37,,4,6,1.0,0,14,31TPClRtHm23RisEBtV3X7;6tbjWDEIzxoDsBA1FuhfPW;2wIVse2owClT7go1WT98tk;5Y5TRrQiqgUO4S36tzjIRZ,Justin Timberlake; Madonna; Missy Elliott; Timbaland
+clique,232,,4,6,1.0,0,14,1YfEcTuGvBQ8xSD1f53UnK;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q;5me0Irg2ANcsgc93uaYrpb,Busta Rhymes; Lil Wayne; Nas; The Notorious B.I.G.
+clique,265,,4,6,1.0,0,14,0qPySm8H94HasHkSadRyie;5rgx5RylXHdByD9Px1mmXw;3fzwnXOacJxjIFyGEr2WEN;4V8LLVI7PbaPR0K2TGSxFF,"Aaron Shaw; Austin Feinstein; Samantha Nelson; Tyler, The Creator"
+clique,556,,4,6,1.0,0,14,1RyvyyTE3xzB2ZywiAwp0i;2hlmm7s2ICUX0LVIhVFlZQ;23zg3TcAtWQy7J6upgbUnj;1mceaxtjWdEmwoDVAlkC41,Future; Gunna; USHER; Zaytoven
+clique,574,,4,6,1.0,0,14,07d5etnpjriczFBB8pxmRe;6DPYiyq5kWVQS4RGwxzPC7;7qmpGpHTqrJfS1QhR9uYKp;2YZyLoL8N0Wb9xBt1NhZWg,BJ The Chicago Kid; Dr. Dre; Justus; Kendrick Lamar
+clique,636,,4,6,1.0,0,14,0jnsk9HBra6NMjO2oANoPY;2DlGxzQSjYe5N6G9nkYghR;55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a,Flo Rida; Jennifer Lopez; Lil Wayne; Rick Ross
+clique,641,,4,6,1.0,0,14,7pYbqgBfqAcPJwCOxMVJqJ;2DlGxzQSjYe5N6G9nkYghR;46sXMHr9eHJYyO6uu0Jdeh;0TnOYISbd1XYRBk9myaseg,Bart Schoudel; Jennifer Lopez; Lowsunday; Pitbull
+clique,1187,,4,6,1.0,0,14,3q7HBObVc0L8jNeTe5Gofh;3nFkdlSjzX9mRTtwJOzDYB;31TPClRtHm23RisEBtV3X7;7hJcb9fa4alzcOq3EaNPoG,50 Cent; JAŸ-Z; Justin Timberlake; Snoop Dogg
+clique,168,,4,6,1.0,0,13,1RyvyyTE3xzB2ZywiAwp0i;04gDigrS5kc9YWfZHwBETP;0hCNtLu0JehylgoiP8L4Gh;5pKCCKE2ajJHZ9KAiaK11H,Future; Maroon 5; Nicki Minaj; Rihanna
+clique,242,,4,6,1.0,0,13,2pkcEiIg9zyj8C7Zq5TumZ;3AA28KZvwAUcZuOKwyblJQ;50nN8IFD4xA67fI4jYbLV4;7Aj7z1h5SeHNAJ2I7wS6Vo,Bashy; Gorillaz; Kano; The National Orchestra for Arabic Music
+clique,244,,4,6,1.0,0,13,7dGJo4pcD2V6oG8kP0tJRR;2XnnxQzxFZG8qEPjakokPM;41fDOxqnFTAmWRqL6JY9GT;5me0Irg2ANcsgc93uaYrpb,Eminem; Obie Trice; P. Diddy; The Notorious B.I.G.
+clique,422,,4,6,1.0,0,13,1lzugG0lqNh9nP6Fp2zG3c;77AiFEVeAVj2ORpC85QVJs;1mCavamEMIEh1fnGcLSk3J;714O3xvBNiclo82vxBn8Bf,Global Dan; Steve Aoki; Yadosan; k?d
+clique,552,,4,6,1.0,0,13,3nFkdlSjzX9mRTtwJOzDYB;55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a;23zg3TcAtWQy7J6upgbUnj,JAŸ-Z; Lil Wayne; Rick Ross; USHER
+clique,650,,4,6,1.0,0,13,5lCekoJW9jNq01B1wiqdAb;7502fDxg339jvGV08Jd4R0;77AiFEVeAVj2ORpC85QVJs;4ZgQDCtRqZlhLswVS6MHN4,Crankdat; Jasiah; Steve Aoki; grandson
+clique,653,,4,6,1.0,0,13,7E1r06wbRiF2soZtFoc62z;6U1hXHFTV27cbQVXZvnX27;55Aa2cqylxrFIXC767Z865;4BhbugBzeCTGXlekhrCnU6,Baby; Cristale; Lil Wayne; Tateeze
+clique,738,,4,6,1.0,0,13,0z4gvV4rjIZ9wHck67ucSV;7AnQGuknGCDEvr1t4n6Ink;1SuG5iUNABfgum7OpWYvFi;3fMbdgg4jU18AjLCKBhRSm,"Akon; Aliaune ""Akon"" Thiam; Mark ""Exit"" Goodchild; Michael Jackson"
+clique,748,,4,6,1.0,0,13,3q7HBObVc0L8jNeTe5Gofh;5pnbUBPifNnlusY8kTBivi;2zJoKYyLmhvsq3ORbXE7xF;2x8KDZdSONA3872CnhaAlX,50 Cent; Jadakiss; Kidd Kidd; Styles P
+clique,770,,4,6,1.0,0,13,6AMa1VFQ7qCi61tCRtVWXe;6Uh8uJyN9g7oFjDK16nJgb;55Aa2cqylxrFIXC767Z865;5me0Irg2ANcsgc93uaYrpb,Jim Jones; Juelz Santana; Lil Wayne; The Notorious B.I.G.
+clique,897,,4,6,1.0,0,13,2NdeV5rLm47xAvogXrYhJX;0TnOYISbd1XYRBk9myaseg;2mxe0TnaNL039ysAj51xPQ;3aQeKQSyrW4qWr35idm0cy,Ciara; Pitbull; R. Kelly; T-Pain
+clique,979,,4,6,1.0,0,13,3TVXtAsR1Inumwj472S9r4;1RyvyyTE3xzB2ZywiAwp0i;2YZyLoL8N0Wb9xBt1NhZWg;5pKCCKE2ajJHZ9KAiaK11H,Drake; Future; Kendrick Lamar; Rihanna
+clique,1114,,4,6,1.0,0,13,0N41KJ4H6bkPAm2tx7VS8C;4jCbgl5Dmt3uOh8WRQfpPs;2YZyLoL8N0Wb9xBt1NhZWg;7hJcb9fa4alzcOq3EaNPoG,Anna Wise; Bilal; Kendrick Lamar; Snoop Dogg
+clique,1205,,4,6,1.0,0,13,1Cs0zKBU1kc0i8ypK3B9ai;5y2Xq6xcjJb2jVM54GHK3t;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,David Guetta; John Legend; Lil Wayne; Snoop Dogg
+clique,1221,,4,6,1.0,0,13,3q7HBObVc0L8jNeTe5Gofh;3nFkdlSjzX9mRTtwJOzDYB;2mxe0TnaNL039ysAj51xPQ;7hJcb9fa4alzcOq3EaNPoG,50 Cent; JAŸ-Z; R. Kelly; Snoop Dogg
+clique,263,,4,6,1.0,0,12,13ubrt8QOOCPljQ2FL1Kca;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;4V8LLVI7PbaPR0K2TGSxFF,"A$AP Rocky; Kanye West; Lil Wayne; Tyler, The Creator"
+clique,264,,4,6,1.0,0,12,4srikj7R58tanh2S0FpoVw;0B5GFW22aAZnJHd9AdVQOS;3DwcX6M6GF3KGWbVmfNp8G;4V8LLVI7PbaPR0K2TGSxFF,"Alice Smith; Clem Creevy; Leon Ware; Tyler, The Creator"
+clique,357,,4,6,1.0,0,12,4wFsuF6DLtYwxLzPuhoHmh;4gzCUuVaSYrO4k4T1Ti6EW;77AiFEVeAVj2ORpC85QVJs;6NB4b8lltHCjOhW7vQZkAy,Die Kreuzen; Sick Boy; Steve Aoki; The Exploited
+clique,432,,4,6,1.0,0,12,6DJEUXZm0e2rAohdoZ5Voo;6XyY86QOPPrYVGvF9ch6wz;1BBTSA7m7qYHwyK7QqG0Q5;37DKbi0EBIqEBvSNxFIjvh,Black Thought; Linkin Park; Roc Raida; Sean C
+clique,442,,4,6,1.0,0,12,1Cs0zKBU1kc0i8ypK3B9ai;1uNFoZAHBGtllmzznpCI3s;4O15NlyKLIASxsJ0PrXPfz;55Aa2cqylxrFIXC767Z865,David Guetta; Justin Bieber; Lil Uzi Vert; Lil Wayne
+clique,536,,4,6,1.0,0,12,6eUKZXaKkcviH0Ku9w2n3V;22RVM3QYYm9YI4TTteiKTV;4Rrjd4f8oHN8Ehtr0GGItm;0T2sGLJKge2eaFmZJxX7sq,Ed Sheeran; Random Impulse; Sway; Wretch 32
+clique,606,,4,6,1.0,0,12,3mXI2gpwWnNO9qbQG3n3EP;6UelqIK8qwhWFc2f6nSEh8;6GI52t8N5F02MxU0g5U69P;0K59Fm1y7s3j498ueS4qzY,Lila Downs; Niña Pastori; Santana; Soledad
+clique,613,,4,6,1.0,0,12,0N41KJ4H6bkPAm2tx7VS8C;4jCbgl5Dmt3uOh8WRQfpPs;2YZyLoL8N0Wb9xBt1NhZWg;4frXpPxQQZwbCu3eTGnZEw,Anna Wise; Bilal; Kendrick Lamar; Thundercat
+clique,651,,4,6,1.0,0,12,7502fDxg339jvGV08Jd4R0;2Zxy5LwBatI5kw4uponwHQ;77AiFEVeAVj2ORpC85QVJs;4ZgQDCtRqZlhLswVS6MHN4,Jasiah; Riot Ten; Steve Aoki; grandson
+clique,656,,4,6,1.0,0,12,2ht3wxeT69CzyKFChNnNAB;3nFkdlSjzX9mRTtwJOzDYB;2N4EYkIlG1kv25g6Wv8LGI;6vbY3hOaCAhC7VjucswgdS,Big Boi; JAŸ-Z; Killer Mike; Twista
+clique,715,,4,6,1.0,0,12,2YZyLoL8N0Wb9xBt1NhZWg;04gDigrS5kc9YWfZHwBETP;5pKCCKE2ajJHZ9KAiaK11H;7tYKF4w9nC0nq9CsPZTHyP,Kendrick Lamar; Maroon 5; Rihanna; SZA
+clique,772,,4,6,1.0,0,12,1Cs0zKBU1kc0i8ypK3B9ai;3sgFRtyBnxXD5ESfmbK4dl;7sfl4Xt5KmfyDs2T3SVSMK;77AiFEVeAVj2ORpC85QVJs,David Guetta; LMFAO; Lil Jon; Steve Aoki
+clique,848,,4,6,1.0,0,12,2Xu7q46Hf02xOoEIm4E1Qs;3ScY9CQxNLQei8Umvpx5g6;2Jwr7hGoSNK3S3QBxh3T0z;5me0Irg2ANcsgc93uaYrpb,Big Pun; Fat Joe; Freeway; The Notorious B.I.G.
+clique,938,,4,6,1.0,0,12,4JcRBVGYO6mlZc6FFEsmQW;3UVRliakQfa1pMWIsNuiZ8;59NO6KX7wQCG7jGdtH1NtL;3aQeKQSyrW4qWr35idm0cy,Jay Lyriq; Musiq Soulchild; Raheem DeVaughn; T-Pain
+clique,958,,4,6,1.0,0,12,4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;1GDbiv3spRmZ1XdM1jQbT7;0TnOYISbd1XYRBk9myaseg,Becky G; Daddy Yankee; NATTI NATASHA; Pitbull
+clique,1000,,4,6,1.0,0,12,1RyvyyTE3xzB2ZywiAwp0i;28ExwzUQsvgJooOI0X1mr3;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865,Future; Jay Rock; Kendrick Lamar; Lil Wayne
+clique,1005,,4,6,1.0,0,12,7LSCBbEAuCqQqE0MGszyKl;6VfeYClQyVUCPJdXb9jl3O;6XyY86QOPPrYVGvF9ch6wz;5DKuVtlpDH0agZQUFDy8O7,DJ Babu; Evidence; Linkin Park; Pharoahe Monch
+clique,1023,,4,6,1.0,0,12,3nFkdlSjzX9mRTtwJOzDYB;2JkHlHHNPSd8VcZMWRY301;5pKCCKE2ajJHZ9KAiaK11H;2f6jGbE8VU74rb5AQtOdFz,JAŸ-Z; Paul Emanuel; Rihanna; Seamus Haji
+clique,1179,,4,6,1.0,0,12,2WwLz4U5BtpzM3aU2Z6y7P;7hJcb9fa4alzcOq3EaNPoG;6w13sWqWhQxmJgGPwY1p6N;0qmUElN0l9LfpXv3i4qIyR,K-Ci; Snoop Dogg; The Zion Messengers; Uncle Chucc
+clique,1263,,4,6,1.0,0,12,0z4gvV4rjIZ9wHck67ucSV;1Cs0zKBU1kc0i8ypK3B9ai;7sfl4Xt5KmfyDs2T3SVSMK;7hJcb9fa4alzcOq3EaNPoG,Akon; David Guetta; Lil Jon; Snoop Dogg
+clique,29,,4,6,1.0,0,11,0d7jzRhjOifL8X9hxNvbEn;4zWFlKgU4j7ryWg5nsOmU6;21E3waRsmPlU7jZsS13rcj;0TnOYISbd1XYRBk9myaseg,El Micha; Lenier; Ne-Yo; Pitbull
+clique,50,,4,6,1.0,0,11,0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy;3E6xrwgnVfYCrCs0ePERDz;0eHQ9o50hj6ZDNBt6Ys1sD,Pitbull; T-Pain; Wisin; Yandel
+clique,99,,4,6,1.0,0,11,76JqkTKxRVKBFabbPiB8g6;4OoHneMX97SjUXKWgsyrP4;77AiFEVeAVj2ORpC85QVJs;0CbeG1224FS58EUx4tPevZ,DJ Aligator; GPF; Steve Aoki; Timmy Trumpet
+clique,104,,4,6,1.0,0,11,3TVXtAsR1Inumwj472S9r4;6l3HvQ5sa6mXTsMTB19rO5;3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg,Drake; J. Cole; JAŸ-Z; Kendrick Lamar
+clique,143,,4,6,1.0,0,11,4HgF4KnohByNElYid7iCNb;3aBe7wR8eOZi8vqw3JgHiZ;13y7CgLHjMVRMDqxdx0Xdo;0hCNtLu0JehylgoiP8L4Gh,Bobby V.; F1JO; Gucci Mane; Nicki Minaj
+clique,149,,4,6,1.0,0,11,5f7VJjfbwm532GiveGC0ZK;20sxb77xiYeusSH8cVdatc;0hCNtLu0JehylgoiP8L4Gh;246dkjvS1zLTtiykXe5h60,Lil Baby; Meek Mill; Nicki Minaj; Post Malone
+clique,157,,4,6,1.0,0,11,1RyvyyTE3xzB2ZywiAwp0i;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj;50co4Is1HCEo8bhOyUWKpn,Future; Nicki Minaj; USHER; Young Thug
+clique,231,,4,6,1.0,0,11,1YfEcTuGvBQ8xSD1f53UnK;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q,Busta Rhymes; Justin Bieber; Lil Wayne; Nas
+clique,315,,4,6,1.0,0,11,3jK9MiCrA42lLAdMGUZpwa;6DPYiyq5kWVQS4RGwxzPC7;6AVLthptCPhfrxlHadOBJD;1F5zdoXcwIB9XSNfitdo7x,Anderson .Paak; Dr. Dre; Jill Scott; Jon Connor
+clique,316,,4,6,1.0,0,11,3jK9MiCrA42lLAdMGUZpwa;2AUT4fNQ2QC0e2f5pIxOCd;6DPYiyq5kWVQS4RGwxzPC7;3Mcii5XWf6E0lrY3Uky4cA,Anderson .Paak; Dem Jointz; Dr. Dre; Ice Cube
+clique,525,,4,6,1.0,0,11,1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;246dkjvS1zLTtiykXe5h60;0Y5tJX1MQlPlqiwlOH1tJY,Justin Bieber; Lil Wayne; Post Malone; Travis Scott
+clique,550,,4,6,1.0,0,11,3DiDSECUqqY1AuBP8qtaIa;3nFkdlSjzX9mRTtwJOzDYB;2RdwBSPQiwcmiDo9kixcl8;23zg3TcAtWQy7J6upgbUnj,Alicia Keys; JAŸ-Z; Pharrell Williams; USHER
+clique,553,,4,6,1.0,0,11,3nFkdlSjzX9mRTtwJOzDYB;4yBK75WVCQXej1p04GWqxH;55Aa2cqylxrFIXC767Z865;23zg3TcAtWQy7J6upgbUnj,JAŸ-Z; Jeezy; Lil Wayne; USHER
+clique,622,,4,6,1.0,0,11,5cj0lLjcoR7YOSnhnX0Po5;55Aa2cqylxrFIXC767Z865;246dkjvS1zLTtiykXe5h60;1Xyo4u8uXC1ZmMpatF05PJ,Doja Cat; Lil Wayne; Post Malone; The Weeknd
+clique,1053,,4,6,1.0,0,11,2R21vXR83lH98kGeO99Y66;1yxSLGMDHlW21z4YXirZDS;4VMYDCV2IEDYJArk749S6m;1i8SpTcr7yvPOmcqrbnVXY,Anuel AA; Black Eyed Peas; Daddy Yankee; Ozuna
+clique,1139,,4,6,1.0,0,11,3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ;2mxe0TnaNL039ysAj51xPQ;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Mariah Carey; R. Kelly; Snoop Dogg
+clique,1194,,4,6,1.0,0,11,45a6gCQWq61lIUDmr1tKuO;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;6GMYJwaziB4ekv1Y6wCDWS,Bun B; Lil Wayne; Snoop Dogg; Soulja Boy
+clique,1203,,4,6,1.0,0,11,45a6gCQWq61lIUDmr1tKuO;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q;7hJcb9fa4alzcOq3EaNPoG,Bun B; Lil Wayne; Nas; Snoop Dogg
+clique,1288,,4,6,1.0,0,11,7dGJo4pcD2V6oG8kP0tJRR;2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865;5WUlDfRSoLAfcVSX1WnrxN,Eminem; Kendrick Lamar; Lil Wayne; Sia
+clique,1316,,4,6,1.0,0,11,1382YT9VvGN6Pxu5PabehZ;0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;1sBkRIssrMs1AbVkOJbc7a,Brisco; Flo Rida; Lil Wayne; Rick Ross
+clique,79,,4,6,1.0,0,10,1RyvyyTE3xzB2ZywiAwp0i;2hlmm7s2ICUX0LVIhVFlZQ;181bsRPaVXVlUKXrxwZfHK;50co4Is1HCEo8bhOyUWKpn,Future; Gunna; Megan Thee Stallion; Young Thug
+clique,137,,4,6,1.0,0,10,6s22t5Y3prQHyaHWUN1R1C;6icQOAFXDZKsumw3YXyusw;4YXycRbyyAE0wozTk7QMEq;77AiFEVeAVj2ORpC85QVJs,AJR; Lil Yachty; Matoma; Steve Aoki
+clique,172,,4,6,1.0,0,10,2NdeV5rLm47xAvogXrYhJX;4yBK75WVCQXej1p04GWqxH;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,Ciara; Jeezy; Nicki Minaj; USHER
+clique,173,,4,6,1.0,0,10,2NdeV5rLm47xAvogXrYhJX;1RyvyyTE3xzB2ZywiAwp0i;0hCNtLu0JehylgoiP8L4Gh;23zg3TcAtWQy7J6upgbUnj,Ciara; Future; Nicki Minaj; USHER
+clique,299,,4,6,1.0,0,10,4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;329e4yvIujISKGKz1BZZbO;0TnOYISbd1XYRBk9myaseg,Becky G; Daddy Yankee; Farruko; Pitbull
+clique,354,,4,6,1.0,0,10,1naX4fxuRaDFlj9tGfIUZk;7HWfshpjlGldmRa4gymvjX;77AiFEVeAVj2ORpC85QVJs;4iDroUFo89Y7YBsdDTBmTD,Dr Phunk; No Love For The Middle Child; Steve Aoki; Sueco
+clique,404,,4,6,1.0,0,10,5sUrlPAHlS9NEirDB8SEbF;6qQY5eWOCuFjdX6S6eK1Vh;4hcRLU3SgbV8qrwDzkIESZ;0EmeFodog0BfCgMzAIvKQp,Alejandro Sanz; Dj Chucky; Eddie Arroyo; Shakira
+clique,547,,4,6,1.0,0,10,45a6gCQWq61lIUDmr1tKuO;55Aa2cqylxrFIXC767Z865;64ovxBmjJ9ZDqkzEXVWpVc;23zg3TcAtWQy7J6upgbUnj,Bun B; Lil Wayne; Shyne; USHER
+clique,560,,4,6,1.0,0,10,1RyvyyTE3xzB2ZywiAwp0i;2hlmm7s2ICUX0LVIhVFlZQ;23zg3TcAtWQy7J6upgbUnj;50co4Is1HCEo8bhOyUWKpn,Future; Gunna; USHER; Young Thug
+clique,594,,4,6,1.0,0,10,13ubrt8QOOCPljQ2FL1Kca;1RyvyyTE3xzB2ZywiAwp0i;2Dbnk0YRTPpKu46XzMf9nu;0QJIPDAEDILuo8AIq3pMuU,A$AP Rocky; Future; Joe Fox; M.I.A.
+clique,624,,4,6,1.0,0,10,4q3ewBCX7sLwd24euuV69X;4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;77ziqFxp5gaInVrF2lj4ht,Bad Bunny; Becky G; Daddy Yankee; Sech
+clique,630,,4,6,1.0,0,10,4q3ewBCX7sLwd24euuV69X;4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;2oQX8QiMXOyuqbcZEFsZfm,Bad Bunny; Becky G; Daddy Yankee; El Alfa
+clique,665,,4,6,1.0,0,10,4OBJLual30L7gRl5UkeRcT;5me0Irg2ANcsgc93uaYrpb;4sb7rZNN93BSS6Gqgepo4v;6vbY3hOaCAhC7VjucswgdS,T.I.; The Notorious B.I.G.; Too $hort; Twista
+clique,756,,4,6,1.0,0,10,1RyvyyTE3xzB2ZywiAwp0i;2hlmm7s2ICUX0LVIhVFlZQ;246dkjvS1zLTtiykXe5h60;50co4Is1HCEo8bhOyUWKpn,Future; Gunna; Post Malone; Young Thug
+clique,1008,,4,6,1.0,0,10,4q3ewBCX7sLwd24euuV69X;4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;21451j1KhjAiaYKflxBjr1,Bad Bunny; Becky G; Daddy Yankee; Zion & Lennox
+clique,1072,,4,6,1.0,0,10,4q3ewBCX7sLwd24euuV69X;4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;7iK8PXO48WeuP03g8YR51W,Bad Bunny; Becky G; Daddy Yankee; Myke Towers
+clique,1138,,4,6,1.0,0,10,3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ;20qISvAhX20dpIbOOzGK3q;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Mariah Carey; Nas; Snoop Dogg
+clique,1140,,4,6,1.0,0,10,3nFkdlSjzX9mRTtwJOzDYB;5y2Xq6xcjJb2jVM54GHK3t;4iHNK0tOyZPYnBU7nGAgpQ;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; John Legend; Mariah Carey; Snoop Dogg
+clique,1182,,4,6,1.0,0,10,1Cs0zKBU1kc0i8ypK3B9ai;7sfl4Xt5KmfyDs2T3SVSMK;3ipn9JLAPI5GUEo4y4jcoi;7hJcb9fa4alzcOq3EaNPoG,David Guetta; Lil Jon; Ludacris; Snoop Dogg
+clique,1270,,4,6,1.0,0,10,2bTfKyEM0bSDqmDcZybqzH;1QkusyyiLCVP97x3TADKV9;7hJcb9fa4alzcOq3EaNPoG;6oPXfKMWUqe1nRhU26ZYab,Isaac Carree; Jazze Pha; Snoop Dogg; Tyrell Urquhart
+clique,139,,4,6,1.0,0,9,3oSJ7TBVCWMDMiYjXNiCKE;76raIy8boaM9sf9gMGXGJ5;77AiFEVeAVj2ORpC85QVJs;1fA8WmzG2eU2q13kAAjoN8,Kane Brown; Lil Texas; Steve Aoki; ricky retro
+clique,215,,4,6,1.0,0,9,4u5smJBskI6Adzv08PuiUP;5ChF3i92IPZHduM7jN3dpg;77AiFEVeAVj2ORpC85QVJs;5aSBbBUbArJfyNKDg4KS1I,Kiiara; Nicky Romero; Steve Aoki; Tyron Hapi
+clique,281,,4,6,1.0,0,9,1RyvyyTE3xzB2ZywiAwp0i;26VFTg2z8YR0cCuwLzESi2;1uNFoZAHBGtllmzznpCI3s;246dkjvS1zLTtiykXe5h60,Future; Halsey; Justin Bieber; Post Malone
+clique,448,,4,6,1.0,0,9,3q7HBObVc0L8jNeTe5Gofh;0z4gvV4rjIZ9wHck67ucSV;59wfkuBoNyhDMQGCljbUbA;1XkoF8ryArs86LZvFOkbyr,50 Cent; Akon; Diddy; Mary J. Blige
+clique,452,,4,6,1.0,0,9,3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ;1XkoF8ryArs86LZvFOkbyr;20qISvAhX20dpIbOOzGK3q,JAŸ-Z; Mariah Carey; Mary J. Blige; Nas
+clique,463,,4,6,1.0,0,9,17lzZA2AlOHwCwFALHttmp;13ubrt8QOOCPljQ2FL1Kca;2YZyLoL8N0Wb9xBt1NhZWg;5IcR3N7QB1j6KBL8eImZ8m,2 Chainz; A$AP Rocky; Kendrick Lamar; ScHoolboy Q
+clique,563,,4,6,1.0,0,9,13ubrt8QOOCPljQ2FL1Kca;1RyvyyTE3xzB2ZywiAwp0i;55Aa2cqylxrFIXC767Z865;23zg3TcAtWQy7J6upgbUnj,A$AP Rocky; Future; Lil Wayne; USHER
+clique,569,,4,6,1.0,0,9,5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;64ovxBmjJ9ZDqkzEXVWpVc;23zg3TcAtWQy7J6upgbUnj,Kanye West; Lil Wayne; Shyne; USHER
+clique,693,,4,6,1.0,0,9,3nFkdlSjzX9mRTtwJOzDYB;4yBK75WVCQXej1p04GWqxH;4iHNK0tOyZPYnBU7nGAgpQ;20qISvAhX20dpIbOOzGK3q,JAŸ-Z; Jeezy; Mariah Carey; Nas
+clique,742,,4,6,1.0,0,9,35xo4qwDB5kJUJlj2zANzO;3aQeKQSyrW4qWr35idm0cy;0UQORYkcHw5LWna3ofFF0m;4Jl5W4ETxUCyEDgOEnqI4z,Raymond Fein; T-Pain; Teddy Penderazdoun; Teddy Verseti
+clique,757,,4,6,1.0,0,9,5cj0lLjcoR7YOSnhnX0Po5;2hlmm7s2ICUX0LVIhVFlZQ;246dkjvS1zLTtiykXe5h60;50co4Is1HCEo8bhOyUWKpn,Doja Cat; Gunna; Post Malone; Young Thug
+clique,773,,4,6,1.0,0,9,1Cs0zKBU1kc0i8ypK3B9ai;3sgFRtyBnxXD5ESfmbK4dl;4j5KBTO4tk7up54ZirNGvK;77AiFEVeAVj2ORpC85QVJs,David Guetta; LMFAO; NERVO; Steve Aoki
+clique,819,,4,6,1.0,0,9,3DiDSECUqqY1AuBP8qtaIa;3nFkdlSjzX9mRTtwJOzDYB;31TPClRtHm23RisEBtV3X7;2RdwBSPQiwcmiDo9kixcl8,Alicia Keys; JAŸ-Z; Justin Timberlake; Pharrell Williams
+clique,901,,4,6,1.0,0,9,1Cs0zKBU1kc0i8ypK3B9ai;1bpzpALZwOoKXzwMg2i8WB;2LPS6uBLdlOd860p080v4f;6hyMWrxGBsOx6sWcVj1DqP,David Guetta; Dirty South; Julie McKnight; Sebastian Ingrosso
+clique,1004,,4,6,1.0,0,9,1RyvyyTE3xzB2ZywiAwp0i;2YZyLoL8N0Wb9xBt1NhZWg;04gDigrS5kc9YWfZHwBETP;5pKCCKE2ajJHZ9KAiaK11H,Future; Kendrick Lamar; Maroon 5; Rihanna
+clique,1047,,4,6,1.0,0,9,0z4gvV4rjIZ9wHck67ucSV;3NwMwlJraqubsJPlKADvjN;1Cs0zKBU1kc0i8ypK3B9ai;7sfl4Xt5KmfyDs2T3SVSMK,Akon; DJ Chuckie; David Guetta; Lil Jon
+clique,1133,,4,6,1.0,0,9,4iHNK0tOyZPYnBU7nGAgpQ;2mxe0TnaNL039ysAj51xPQ;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy,Mariah Carey; R. Kelly; Snoop Dogg; T-Pain
+clique,1137,,4,6,1.0,0,9,3QJzdZJYIAcoET1GcfpNGi;3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ;7hJcb9fa4alzcOq3EaNPoG,Damian Marley; JAŸ-Z; Mariah Carey; Snoop Dogg
+clique,1251,,4,6,1.0,0,9,6w71vXwHI2Oz6I5OO41tRM;28jcctopfcnoH2dNsa2fdR;7hJcb9fa4alzcOq3EaNPoG;00zTvnmzbcY0m6y2hDgLsu,LaToiya Williams; Raul Miaon; Snoop Dogg; Western Union
+clique,70,,4,6,1.0,0,8,5cj0lLjcoR7YOSnhnX0Po5;2hlmm7s2ICUX0LVIhVFlZQ;181bsRPaVXVlUKXrxwZfHK;50co4Is1HCEo8bhOyUWKpn,Doja Cat; Gunna; Megan Thee Stallion; Young Thug
+clique,245,,4,6,1.0,0,8,5y9wg9qkGBl0n9v9RzaPKu;7BAaznGSsqcksud4R5ou5z;0qPUDOVD0aYR2lmCilnscs;55Aa2cqylxrFIXC767Z865,CAPO; Cory Gunz; Junior Reid; Lil Wayne
+clique,282,,4,6,1.0,0,8,1Cs0zKBU1kc0i8ypK3B9ai;6S4lBXjqajV4PAwGvyFUG7;7HqEmV7FeCi16bQyHMpIrF;7ov0Zig1562fIBKldlHZa4,David Guetta; Sjoerd Janssen; VASSY; Wouter Janssen
+clique,300,,4,6,1.0,0,8,4obzFoKoKRHIphyHzJ35G3;4VMYDCV2IEDYJArk749S6m;329e4yvIujISKGKz1BZZbO;21451j1KhjAiaYKflxBjr1,Becky G; Daddy Yankee; Farruko; Zion & Lennox
+clique,548,,4,6,1.0,0,8,13ubrt8QOOCPljQ2FL1Kca;45a6gCQWq61lIUDmr1tKuO;55Aa2cqylxrFIXC767Z865;23zg3TcAtWQy7J6upgbUnj,A$AP Rocky; Bun B; Lil Wayne; USHER
+clique,564,,4,6,1.0,0,8,13ubrt8QOOCPljQ2FL1Kca;5K4W6rqBFWDnAN6FQUkS6x;55Aa2cqylxrFIXC767Z865;23zg3TcAtWQy7J6upgbUnj,A$AP Rocky; Kanye West; Lil Wayne; USHER
+clique,659,,4,6,1.0,0,8,3aQeKQSyrW4qWr35idm0cy;4OBJLual30L7gRl5UkeRcT;4sb7rZNN93BSS6Gqgepo4v;6vbY3hOaCAhC7VjucswgdS,T-Pain; T.I.; Too $hort; Twista
+clique,747,,4,6,1.0,0,8,3q7HBObVc0L8jNeTe5Gofh;2zJoKYyLmhvsq3ORbXE7xF;1GwxXgEc6oxCKQ5wykWXFs;2x8KDZdSONA3872CnhaAlX,50 Cent; Kidd Kidd; Prodigy; Styles P
+clique,852,,4,6,1.0,0,8,3AA28KZvwAUcZuOKwyblJQ;0CkbPVBpOwwz9NPPglFKyq;4f9iBmdUOhQWeP7dcAn1pf;5Tz4zMiRWqiQVAymWZz99a,Gorillaz; RAY BLK; Rag'n'Bone Man; Zebra Katz
+clique,864,,4,6,1.0,0,8,1RyvyyTE3xzB2ZywiAwp0i;53KwLdlmrlCelAZMaLVZqU;28ExwzUQsvgJooOI0X1mr3;2YZyLoL8N0Wb9xBt1NhZWg,Future; James Blake; Jay Rock; Kendrick Lamar
+clique,908,,4,6,1.0,0,8,1Cs0zKBU1kc0i8ypK3B9ai;29QbBR0oTzA7A0kiOzrbbr;60d24wfXkVzDSfLS6hyCjZ;5gWzmnHTLNXz5CjOc0wAuK,David Guetta; Jamie Scott; Martin Garrix; Romy Dya
+clique,1134,,4,6,1.0,0,8,5y2Xq6xcjJb2jVM54GHK3t;4iHNK0tOyZPYnBU7nGAgpQ;360IAlyVv4PCEVjgyMZrxK;7hJcb9fa4alzcOq3EaNPoG,John Legend; Mariah Carey; Miguel; Snoop Dogg
+clique,1136,,4,6,1.0,0,8,05oH07COxkXKIMt6mIPRee;5y2Xq6xcjJb2jVM54GHK3t;4iHNK0tOyZPYnBU7nGAgpQ;7hJcb9fa4alzcOq3EaNPoG,Brandy; John Legend; Mariah Carey; Snoop Dogg
+clique,1250,,4,6,1.0,0,8,0z4gvV4rjIZ9wHck67ucSV;4VMYDCV2IEDYJArk749S6m;7sfl4Xt5KmfyDs2T3SVSMK;7hJcb9fa4alzcOq3EaNPoG,Akon; Daddy Yankee; Lil Jon; Snoop Dogg
+clique,1313,,4,6,1.0,0,8,0jnsk9HBra6NMjO2oANoPY;13y7CgLHjMVRMDqxdx0Xdo;3ipn9JLAPI5GUEo4y4jcoi;3aQeKQSyrW4qWr35idm0cy,Flo Rida; Gucci Mane; Ludacris; T-Pain
+clique,49,,4,6,1.0,0,7,13saZpZnCDWOI9D4IJhp1f;3aQeKQSyrW4qWr35idm0cy;3E6xrwgnVfYCrCs0ePERDz;0eHQ9o50hj6ZDNBt6Ys1sD,Lily Allen; T-Pain; Wisin; Yandel
+clique,225,,4,6,1.0,0,7,4Q82S0VzF8qlCb4PnSDurj;6LqNN22kT3074XbTVUrhzX;3vDpQbGnzRbRVirXlfQagB;7r2uG6BlFXKcwmh9ItqlII,Brian Wilson; Kesha; Sturgill Simpson; WRABEL
+clique,296,,4,6,1.0,0,7,0KPX4Ucy9dk82uj4GpKesn;329e4yvIujISKGKz1BZZbO;3Wb38LDP3N4tkobValgE9D;4V8Sr092TqfHkfAA5fXXqG,Dalex; Farruko; Juanka; Luis Fonsi
+clique,310,,4,6,1.0,0,7,0g9vAlRPK9Gt3FKCekk4TW;3jK9MiCrA42lLAdMGUZpwa;53KwLdlmrlCelAZMaLVZqU;2YZyLoL8N0Wb9xBt1NhZWg,Ab-Soul; Anderson .Paak; James Blake; Kendrick Lamar
+clique,335,,4,6,1.0,0,7,64M6ah0SkkRsnPGtGiRAbb;4kYSro6naA4h99UJvo89HB;25uiPmTg16RbhZWAqwLBy5;5CCwRZC6euC8Odo6y9X8jr,Bebe Rexha; Cardi B; Charli xcx; Rita Ora
+clique,449,,4,6,1.0,0,7,3q7HBObVc0L8jNeTe5Gofh;59wfkuBoNyhDMQGCljbUbA;3nFkdlSjzX9mRTtwJOzDYB;1XkoF8ryArs86LZvFOkbyr,50 Cent; Diddy; JAŸ-Z; Mary J. Blige
+clique,502,,4,6,1.0,0,7,5zzbUtGK3M7oAGRDD0vTY6;6DPYiyq5kWVQS4RGwxzPC7;1Sn6cIzG8PoJssIcarUNPS;4tujQJicOnuZRLiBFdp3Ou,Cold 187um; Dr. Dre; Sly Pyper; Xzibit
+clique,558,,4,6,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;7sfl4Xt5KmfyDs2T3SVSMK;3ipn9JLAPI5GUEo4y4jcoi;23zg3TcAtWQy7J6upgbUnj,David Guetta; Lil Jon; Ludacris; USHER
+clique,627,,4,6,1.0,0,7,1yxSLGMDHlW21z4YXirZDS;4VMYDCV2IEDYJArk749S6m;2oQX8QiMXOyuqbcZEFsZfm;7sfl4Xt5KmfyDs2T3SVSMK,Black Eyed Peas; Daddy Yankee; El Alfa; Lil Jon
+clique,628,,4,6,1.0,0,7,4obzFoKoKRHIphyHzJ35G3;1yxSLGMDHlW21z4YXirZDS;4VMYDCV2IEDYJArk749S6m;2oQX8QiMXOyuqbcZEFsZfm,Becky G; Black Eyed Peas; Daddy Yankee; El Alfa
+clique,631,,4,6,1.0,0,7,6v0jNVxRKCvjwXIU2SuqKo;2DlGxzQSjYe5N6G9nkYghR;20qISvAhX20dpIbOOzGK3q;7M8EwIpyu0mZ9oA8sqcsWj,Cory Rooney; Jennifer Lopez; Nas; Poke and Tone
+clique,658,,4,6,1.0,0,7,1HY2Jd0NmPuamShAr6KMms;4OBJLual30L7gRl5UkeRcT;4sb7rZNN93BSS6Gqgepo4v;6vbY3hOaCAhC7VjucswgdS,Lady Gaga; T.I.; Too $hort; Twista
+clique,669,,4,6,1.0,0,7,7kHe4uFK1KQFqMRP7td4mS;7o7mC95EDbJKTcPAAs8C3r;1V2nCJzjHRe967D6ZEBjrC;77AiFEVeAVj2ORpC85QVJs,Bad Royale; Big Gigantic; Ma$e; Steve Aoki
+clique,783,,4,6,1.0,0,7,41MozSoPIsD1dJM0CLPjZF;1HY2Jd0NmPuamShAr6KMms;5Q81rlcTFh3k6DQJXPdsot;3M3wTTCDwicRubwMyHyEDy,BLACKPINK; Lady Gaga; Mura Masa; Shygirl
+clique,1003,,4,6,1.0,0,7,13ubrt8QOOCPljQ2FL1Kca;1RyvyyTE3xzB2ZywiAwp0i;2YZyLoL8N0Wb9xBt1NhZWg;04gDigrS5kc9YWfZHwBETP,A$AP Rocky; Future; Kendrick Lamar; Maroon 5
+clique,1120,,4,6,1.0,0,7,2LiWxiQzuD9nmWQ6NCA8Gd;4VmEWwd8y9MCLwexFMdpwt;7xTKLpo7UCzXSnlH7fOIoM;7hJcb9fa4alzcOq3EaNPoG,B-Real; Method Man; Redman; Snoop Dogg
+clique,1175,,4,6,1.0,0,7,6nfYGe7IIuuP5bMY1jkJP6;1i8SpTcr7yvPOmcqrbnVXY;7EEiVZvj6RCEtVX2F2pyxu;7hJcb9fa4alzcOq3EaNPoG,Jermaine Dupri; Ozuna; Slim Jxmmi; Snoop Dogg
+clique,1292,,4,6,1.0,0,7,3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ;2JkHlHHNPSd8VcZMWRY301;2f6jGbE8VU74rb5AQtOdFz,JAŸ-Z; Mariah Carey; Paul Emanuel; Seamus Haji
+clique,9,,4,6,1.0,0,6,2tefjjNtX8kT3xKfQmGb64;1Cs0zKBU1kc0i8ypK3B9ai;0yO1ChurIlYLcOisqmlQS9;7xZX46EPiYL9qfO6cb0sVI,Alexander Ryberg; David Guetta; Taped Rai; Tom Liljegren
+clique,14,,4,6,1.0,0,6,5YMqwPmb7ViNXM63g1MUH5;1l2ekx5skC4gJH8djERwh1;0UN8vGMxWEBKNNu8NtyF96;77AiFEVeAVj2ORpC85QVJs,BullySongs; Don Diablo; Lush & Simon; Steve Aoki
+clique,35,,4,6,1.0,0,6,5pW2lVGlbVSVWi9086Xjfu;73C7eV9oN6yGgLSu8vIO4R;6GI52t8N5F02MxU0g5U69P;66IsZY4QSzhD3uf4kXYx0S,Avi Snow; MVCA; Santana; Stella Santana
+clique,80,,4,6,1.0,0,6,6adBZwsyxZuWDoty0Tg0lt;1yxSLGMDHlW21z4YXirZDS;5D7j3YOhscvrld2WzjSIpN;4OydvmAsJa7r6W8Q0xwkI7,Ali Shaheed Muhammad; Black Eyed Peas; Phife Dawg; Posdnuos
+clique,122,,4,6,1.0,0,6,13ubrt8QOOCPljQ2FL1Kca;45a6gCQWq61lIUDmr1tKuO;0uzlfGNw35ha8bszBDhKy7;0k7Xl1pqI3tu8sSEjo5oEg,A$AP Rocky; Bun B; Killa Kyleon; Paul Wall
+clique,128,,4,6,1.0,0,6,4q3ewBCX7sLwd24euuV69X;6M2wZ9GZgrQXHCFfjv46we;5jPdfoPh4GlyeYexTLfcfT;0sdko0iUd9nBW0qnw2uGOR,Bad Bunny; Dua Lipa; J. Balvin; Tainy
+clique,129,,4,6,1.0,0,6,57nPqD7z62gDdq37US9XJR;53XhwfbYqKCa1cC15pYq2q;6U3ybJ9UHNKEdsH7ktGBZ7;47mIJdHORyRerp4os813jD,Arcane; Imagine Dragons; JID; League of Legends
+clique,141,,4,6,1.0,0,6,5ykR6VtYGzxS6djazEGyky;64Z2GpiF3hPBPxRfyza8Ml;3bu7Ens6NHwiiAhAojqMKo;1azzLGS1K1SMJas76Ro9CN,Bryce Dallas Howard; Gemma Jones; Kit Connor; Steven Mackintosh
+clique,227,,4,6,1.0,0,6,4obzFoKoKRHIphyHzJ35G3;5gCRApTajqwbnHHPbr2Fpi;6LqNN22kT3074XbTVUrhzX;137W8MRPWKqSmrBGDBFSop,Becky G; Juicy J; Kesha; Wiz Khalifa
+clique,228,,4,6,1.0,0,6,4obzFoKoKRHIphyHzJ35G3;5gCRApTajqwbnHHPbr2Fpi;6LqNN22kT3074XbTVUrhzX;0TnOYISbd1XYRBk9myaseg,Becky G; Juicy J; Kesha; Pitbull
+clique,235,,4,6,1.0,0,6,1SDxIHIJ3wvYiG22xckLKL;0TnOYISbd1XYRBk9myaseg;0ZrpamOxcZybMHGg1AYtHP;4exLIFE8sISLr28sqG1qNX,Joe Perry; Pitbull; Robin Thicke; Travis Barker
+clique,288,,4,6,1.0,0,6,0vjlH9sbJOZyhDjhvajQpY;6se7gLvI94GpX7A0g94tV7;53XhwfbYqKCa1cC15pYq2q;4XcwuarQvItfOFjloYb5kw,Alex Da Kid; Hygrade; Imagine Dragons; Jayson DeZuzio
+clique,320,,4,6,1.0,0,6,4VMYDCV2IEDYJArk749S6m;1c22GXH30ijlOfXhfLz9Df;7MP4jhYmFEgb0AtiOkw55s;77AiFEVeAVj2ORpC85QVJs,Daddy Yankee; Elvis Crespo; Play-N-Skillz; Steve Aoki
+clique,352,,4,6,1.0,0,6,13ubrt8QOOCPljQ2FL1Kca;4e7qJTThm5uI3CplqZObfT;5XJdV8h0NLbf3CZdfwX3lg;5he5w2lnU9x7JFhnwcekXX,A$AP Rocky; Birdy Nam Nam; Lord Flacko; Skrillex
+clique,366,,4,6,1.0,0,6,4KLOMib6zqzNayKwLWTs2Q;790FomKkXshlbRYZFtlgla;4V8Sr092TqfHkfAA5fXXqG;7p3ipw2PvGG0X2x6zL1DLO,Andrés Torres; KAROL G; Luis Fonsi; Mauricio Rengifo
+clique,454,,4,6,1.0,0,6,3nFkdlSjzX9mRTtwJOzDYB;5y2Xq6xcjJb2jVM54GHK3t;4iHNK0tOyZPYnBU7nGAgpQ;1XkoF8ryArs86LZvFOkbyr,JAŸ-Z; John Legend; Mariah Carey; Mary J. Blige
+clique,471,,4,6,1.0,0,6,13ubrt8QOOCPljQ2FL1Kca;1wgSZX1emWA4eS3vT1rgFA;0Mz5XE0kb1GBnbLQm2VbcO;39UC1BVSXxSVUChpBSftIW,A$AP Rocky; Acyde; Mos Def; Yams
+clique,666,,4,6,1.0,0,6,1QIghPIrXQQ22G1yNtAKFX;3wcj11K77LjEY1PkEazffa;4on53ORBym2GEnRhIptZwy;7bbG2jEwQ56ay7Ve4QW3Bf,AKA; Burna Boy; Da Les; Kid X
+clique,667,,4,6,1.0,0,6,13y7CgLHjMVRMDqxdx0Xdo;77AiFEVeAVj2ORpC85QVJs;3aQeKQSyrW4qWr35idm0cy;47z7ZrgFoBvVpCnElCE3Zh,Gucci Mane; Steve Aoki; T-Pain; Yellow Claw
+clique,682,,4,6,1.0,0,6,0r8toju2ecKaVtItkzAnNi;5gOJTI4TusSENizxhcG7jB;4V8Sr092TqfHkfAA5fXXqG;2uEjXyVi0SA1HPpj3zquXh,Aleks Syntek; David Bisbal; Luis Fonsi; Noel Schajris
+clique,751,,4,6,1.0,0,6,3z8lWUpLUM0Z4b2184qpQF;18HVMQsV3tINaTyzT5UIjH;2Jwr7hGoSNK3S3QBxh3T0z;7sfl4Xt5KmfyDs2T3SVSMK,Bangladesh; CyHi; Freeway; Lil Jon
+clique,777,,4,6,1.0,0,6,1y0g68sGrAK0wbKfU8PUv0;6PVWZrJ7N7zrg4Ljr6OfUN;202HZzqKvPsMHcbwnDZx7u;1HY2Jd0NmPuamShAr6KMms,Chris Greatti; Count Baldor; Dorian Electra; Lady Gaga
+clique,802,,4,6,1.0,0,6,13ubrt8QOOCPljQ2FL1Kca;3hv9jJF3adDNsBSIQDqcjp;360IAlyVv4PCEVjgyMZrxK;2y8Jo9CKhJvtfeKOsYzRdT,A$AP Rocky; Mark Ronson; Miguel; Rod Stewart
+clique,804,,4,6,1.0,0,6,3Hzok9apHnCGDDkGltQcMg;3PtCud9dIdOv4exrzdZZ1C;3gk0OYeLFWYupGFRHqLSR7;77AiFEVeAVj2ORpC85QVJs,Kris Kiss; MAKJ; Showtek; Steve Aoki
+clique,1045,,4,6,1.0,0,6,4VMYDCV2IEDYJArk749S6m;20qISvAhX20dpIbOOzGK3q;1XWQvHMnUr3CZQf88Pe4De;0Y30TbA4p8SAfCzy2AFBa8,Daddy Yankee; Nas; Notty; Yaviah
+clique,1167,,4,6,1.0,0,6,0h0C8mMT21p0Ixq6qO1UMH;3VFIf5Tn1WYGKodgtyVwjL;6kQWPGBItT0oMCHZy3M9DN;7hJcb9fa4alzcOq3EaNPoG,$tupid Young; Azjah; RJMrLA; Snoop Dogg
+clique,1291,,4,6,1.0,0,6,0jnsk9HBra6NMjO2oANoPY;1nsURHyRMwZA5oipZwM4bA;13y7CgLHjMVRMDqxdx0Xdo;3ipn9JLAPI5GUEo4y4jcoi,Flo Rida; Git Fresh; Gucci Mane; Ludacris
+clique,1299,,4,6,1.0,0,6,13ubrt8QOOCPljQ2FL1Kca;0fA0VVWsXO9YnASrzqfmYu;3OsRAKCvk37zwYcnzRf5XF;4OBJLual30L7gRl5UkeRcT,A$AP Rocky; Kid Cudi; Moby; T.I.
+clique,939,,3,3,1.0,0,78,2xOp0rCDPAmYqnL2UFbaDY;0YC192cP3KPCRWx8zr8MfZ;2RdwBSPQiwcmiDo9kixcl8,Benjamin Wallfisch; Hans Zimmer; Pharrell Williams
+clique,101,,3,3,1.0,0,38,3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;1zV9UjTUevjp5VUddqIUUn,JAŸ-Z; Kanye West; Mr Hudson
+clique,625,,3,3,1.0,0,37,3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x;60df5JBRRPcnSpsIMxxwQm,JAŸ-Z; Kanye West; Otis Redding
+clique,1290,,3,3,1.0,0,37,5NDMothbpdpq2xHqSjrrWn;5tth2a3v0sWwV1C7bApBdX;5me0Irg2ANcsgc93uaYrpb,Faith Evans; Lil' Kim; The Notorious B.I.G.
+clique,127,,3,3,1.0,0,36,2qSEpijpT3YSXgxcXac1ly;1Cs0zKBU1kc0i8ypK3B9ai;2iwhenp5euZtZLmtK6cgbe,Chris Willis; David Guetta; Tocadisco
+clique,888,,3,3,1.0,0,36,2qSEpijpT3YSXgxcXac1ly;1Cs0zKBU1kc0i8ypK3B9ai;4bXUaTjc7TQTvLqqCAlfYt,Chris Willis; David Guetta; Jack Back
+clique,234,,3,3,1.0,0,35,1YfEcTuGvBQ8xSD1f53UnK;5NDMothbpdpq2xHqSjrrWn;5me0Irg2ANcsgc93uaYrpb,Busta Rhymes; Faith Evans; The Notorious B.I.G.
+clique,609,,3,3,1.0,0,35,5NDMothbpdpq2xHqSjrrWn;6V4zyNV40Zyu5MGlhD0i8g;5me0Irg2ANcsgc93uaYrpb,Faith Evans; Lil' Cease; The Notorious B.I.G.
+clique,795,,3,3,1.0,0,35,35sCXuy5gN6Or69rZ9vqBs;55Aa2cqylxrFIXC767Z865;4bPUba3ncHUW7vvpXIYVda,Birdman; Lil Wayne; Thomas Marasciullo
+clique,913,,3,3,1.0,0,35,5NDMothbpdpq2xHqSjrrWn;5lMSDTQCkdP4oNllBPksVJ;5me0Irg2ANcsgc93uaYrpb,Faith Evans; Jamal Woolard; The Notorious B.I.G.
+clique,1068,,3,3,1.0,0,35,2AV6XDIs32ofIJhkkDevjm;3nFkdlSjzX9mRTtwJOzDYB;5K4W6rqBFWDnAN6FQUkS6x,Curtis Mayfield; JAŸ-Z; Kanye West
+clique,184,,3,3,1.0,0,33,0VyVI2zGDVeE4YEQkKHzwa;55Aa2cqylxrFIXC767Z865;0hCNtLu0JehylgoiP8L4Gh,Corey Gunz; Lil Wayne; Nicki Minaj
+clique,538,,3,3,1.0,0,33,5lzPV4EKWYxEUk38UcFBVH;3PhoLpVuITZKcymswpck5b;47IQuGHsvEJgd0tQEDP5X0,Bernie Taupin; Elton John; John Bayless
+clique,878,,3,3,1.0,0,32,2qSEpijpT3YSXgxcXac1ly;1Cs0zKBU1kc0i8ypK3B9ai;4KXZDoqdMxd9S8nw7T6THK,Chris Willis; David Guetta; Moné
+clique,793,,3,3,1.0,0,31,35sCXuy5gN6Or69rZ9vqBs;55Aa2cqylxrFIXC767Z865;2cADQgiLMjNhbsfeN52Bf3,Birdman; Lil Wayne; Swizz Beatz
+clique,794,,3,3,1.0,0,29,35sCXuy5gN6Or69rZ9vqBs;3ScY9CQxNLQei8Umvpx5g6;55Aa2cqylxrFIXC767Z865,Birdman; Fat Joe; Lil Wayne
+clique,797,,3,3,1.0,0,29,7DVWBw5jQzYnhB4EIssk7s;35sCXuy5gN6Or69rZ9vqBs;55Aa2cqylxrFIXC767Z865,Allstar Cashville Prince; Birdman; Lil Wayne
+clique,1287,,3,3,1.0,0,28,06f5XN8rUFdabqdXn1Xuqg;5nlhxXs2Lgr8nH98jC26pw;36Pv4nrbKXaEZHJinKrGDx,Adrian Copilul Minune; Costi; Vali Vijelie
+clique,983,,3,3,1.0,0,27,3TVXtAsR1Inumwj472S9r4;5pnbUBPifNnlusY8kTBivi;55Aa2cqylxrFIXC767Z865,Drake; Jadakiss; Lil Wayne
+clique,1113,,3,3,1.0,0,25,5Jz9kKRnCRLTodCH58MyB4;3nxaRZSMri48cM7I5TOYj4;7hJcb9fa4alzcOq3EaNPoG,Daz Dillinger; Shon Lawon; Snoop Dogg
+clique,681,,3,3,1.0,0,24,1Cs0zKBU1kc0i8ypK3B9ai;3t5xRXzsuZmMDkQzgOX35S;5WUlDfRSoLAfcVSX1WnrxN,David Guetta; Robin Schulz; Sia
+clique,1125,,3,3,1.0,0,23,5Jz9kKRnCRLTodCH58MyB4;7LzTBVNarOeaDXFdzOugAI;7hJcb9fa4alzcOq3EaNPoG,Daz Dillinger; Sly Pyper; Snoop Dogg
+clique,1259,,3,3,1.0,0,23,3crnzLy8R4lVwaigKEOz7V;1QkusyyiLCVP97x3TADKV9;7hJcb9fa4alzcOq3EaNPoG,E-40; Jazze Pha; Snoop Dogg
+clique,63,,3,3,1.0,0,22,0cGUm45nv7Z6M6qdXYQGTX;181bsRPaVXVlUKXrxwZfHK;2LQF8AgyQUgLfquM92Rx8N,Kehlani; Megan Thee Stallion; OG Ron C
+clique,64,,3,3,1.0,0,22,2hlmm7s2ICUX0LVIhVFlZQ;181bsRPaVXVlUKXrxwZfHK;2LQF8AgyQUgLfquM92Rx8N,Gunna; Megan Thee Stallion; OG Ron C
+clique,508,,3,3,1.0,0,22,1Cs0zKBU1kc0i8ypK3B9ai;3Isy6kedDrgPYoTS1dazA9;5WUlDfRSoLAfcVSX1WnrxN,David Guetta; Sean Paul; Sia
+clique,1030,,3,3,1.0,0,22,1Cs0zKBU1kc0i8ypK3B9ai;6PXS4YHDkKvl1wkIl4V8DL;5WUlDfRSoLAfcVSX1WnrxN,David Guetta; Fetty Wap; Sia
+clique,1189,,3,3,1.0,0,22,55TH3aMMK1u2VsR8DPGC6D;7hJcb9fa4alzcOq3EaNPoG;4sb7rZNN93BSS6Gqgepo4v,Mistah F.A.B.; Snoop Dogg; Too $hort
+clique,1231,,3,3,1.0,0,22,6X8WdFjrNhXATMDSs26aCc;7hJcb9fa4alzcOq3EaNPoG;137W8MRPWKqSmrBGDBFSop,Curren$y; Snoop Dogg; Wiz Khalifa
+clique,1252,,3,3,1.0,0,22,3DiSC0nSNNWpPy5ZK3mcrz;7hJcb9fa4alzcOq3EaNPoG;4sb7rZNN93BSS6Gqgepo4v,Nef The Pharaoh; Snoop Dogg; Too $hort
+clique,88,,3,3,1.0,0,21,0tCtGc5vt29zFZp6KXzN50;3nFkdlSjzX9mRTtwJOzDYB;19KwjzvIL92r29IINtlPNP,Beanie Sigel; JAŸ-Z; Scarface
+clique,626,,3,3,1.0,0,21,7sfl4Xt5KmfyDs2T3SVSMK;51GnGVvOHfqOBA2ME9nZ1Z;0TnOYISbd1XYRBk9myaseg,Lil Jon; Oobie; Pitbull
+clique,846,,3,3,1.0,0,21,3ScY9CQxNLQei8Umvpx5g6;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg,Fat Joe; Lil Jon; Pitbull
+clique,1001,,3,3,1.0,0,21,1iNqsUDUraNWrj00bqssQG;6U3ybJ9UHNKEdsH7ktGBZ7;4OBJLual30L7gRl5UkeRcT,Dreamville; JID; T.I.
+clique,1260,,3,3,1.0,0,21,3crnzLy8R4lVwaigKEOz7V;7hJcb9fa4alzcOq3EaNPoG;7a0OTOMWVl5FyFpqzWCJki,E-40; Snoop Dogg; Young Geezy
+clique,84,,3,3,1.0,0,20,7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg;0CIwCGmQMqHqiblnZlFia1,Lil Jon; Pitbull; Stephen Marley
+clique,342,,3,3,1.0,0,20,4D75GcNG95ebPtNvoNVXhz;64M6ah0SkkRsnPGtGiRAbb;0TnOYISbd1XYRBk9myaseg,AFROJACK; Bebe Rexha; Pitbull
+clique,674,,3,3,1.0,0,20,4D75GcNG95ebPtNvoNVXhz;1Cs0zKBU1kc0i8ypK3B9ai;77AiFEVeAVj2ORpC85QVJs,AFROJACK; David Guetta; Steve Aoki
+clique,814,,3,3,1.0,0,20,41MozSoPIsD1dJM0CLPjZF;6M2wZ9GZgrQXHCFfjv46we;4TvhRzxIL1le2PWCeUqxQw,BLACKPINK; Dua Lipa; The Blessed Madonna
+clique,968,,3,3,1.0,0,20,7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg;4PrinKSrmILmo0kERG0Ogn,Lil Jon; Pitbull; Trina
+clique,1,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;0dRiUTGvNV17AMIULRYsvn;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Mr. Fingers; The Blessed Madonna
+clique,10,,3,3,1.0,0,19,1Cs0zKBU1kc0i8ypK3B9ai;4S1P19bTfbDVjEA8Hxs4Cj;4EhiIwwMPecLznwn87sRw2,David Guetta; JD Davis; Joachim Garraud
+clique,130,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;5Fkj0k7EPUhIsESSIEA9f1;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Masters At Work; The Blessed Madonna
+clique,205,,3,3,1.0,0,19,1Cs0zKBU1kc0i8ypK3B9ai;0hCNtLu0JehylgoiP8L4Gh;4utLUGcTvOJFr6aqIJtYWV,David Guetta; Nicki Minaj; Skylar Grey
+clique,373,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;4TvhRzxIL1le2PWCeUqxQw;2RqrWplViWHSGLzlhmDcbt,Dua Lipa; The Blessed Madonna; Yaeji
+clique,646,,3,3,1.0,0,19,6p2442ymrT9lZEuCZJdYcH;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg,Ivy Queen; Lil Jon; Pitbull
+clique,810,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;1YFLNH4rO40x9i16RpLwdY;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Midland; The Blessed Madonna
+clique,812,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;380fnmlGnkyueBMqGWx2k5;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Joe Goddard; The Blessed Madonna
+clique,815,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;5MnToV7aAt2Zy9ag3DAsna;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Horse Meat Disco; The Blessed Madonna
+clique,816,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;4SINYGzldpKMExpCjseS9o;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Jacques Lu Cont; The Blessed Madonna
+clique,817,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;3NKVm2Jedcf6ibJr6pMUVx;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Jayda G; The Blessed Madonna
+clique,818,,3,3,1.0,0,19,6M2wZ9GZgrQXHCFfjv46we;4CA8PTrbq1l5IgyvBA2JSV;4TvhRzxIL1le2PWCeUqxQw,Dua Lipa; Paul Woolford; The Blessed Madonna
+clique,945,,3,3,1.0,0,19,7DgpPXntG6DkNR4hCi4PjP;7sfl4Xt5KmfyDs2T3SVSMK;0TnOYISbd1XYRBk9myaseg,Chesca; Lil Jon; Pitbull
+clique,1131,,3,3,1.0,0,19,7tZrWfaCLVG6ijO3C2ocbQ;7hJcb9fa4alzcOq3EaNPoG;7AjokpCIqf0gHMZJlodw2k,Kokane; Snoop Dogg; Suga Free
+clique,1262,,3,3,1.0,0,19,6w71vXwHI2Oz6I5OO41tRM;1eNO1DUCOtZgCzlwtjtb1t;7hJcb9fa4alzcOq3EaNPoG,LaToiya Williams; October London; Snoop Dogg
+clique,1107,,3,3,1.0,0,18,09ci97mGlIVzXxSRGEKPxl;7hJcb9fa4alzcOq3EaNPoG;1lyG2Z76X04E2gUFxA7GtH,JT The Bigga Figga; Snoop Dogg; Tae Natti
+clique,1154,,3,3,1.0,0,18,09ci97mGlIVzXxSRGEKPxl;7hJcb9fa4alzcOq3EaNPoG;7Bw4TwKcjzvhUPwv4DxNWH,JT The Bigga Figga; Snoop Dogg; The So Hood Family
+clique,1190,,3,3,1.0,0,18,09ci97mGlIVzXxSRGEKPxl;7hJcb9fa4alzcOq3EaNPoG;58G1dVGEODhaSBjj2vJJvS,JT The Bigga Figga; Snoop Dogg; Young Noble
+clique,23,,3,3,1.0,0,17,4D75GcNG95ebPtNvoNVXhz;1Cs0zKBU1kc0i8ypK3B9ai;21E3waRsmPlU7jZsS13rcj,AFROJACK; David Guetta; Ne-Yo
+clique,537,,3,3,1.0,0,17,3PhoLpVuITZKcymswpck5b;47IQuGHsvEJgd0tQEDP5X0;3KDpcZPHxvsaVk5PReoGqh,Elton John; John Bayless; Tim Rice
+clique,567,,3,3,1.0,0,17,4D75GcNG95ebPtNvoNVXhz;0TnOYISbd1XYRBk9myaseg;23zg3TcAtWQy7J6upgbUnj,AFROJACK; Pitbull; USHER
+clique,926,,3,3,1.0,0,17,3q7HBObVc0L8jNeTe5Gofh;6eUKZXaKkcviH0Ku9w2n3V;7dGJo4pcD2V6oG8kP0tJRR,50 Cent; Ed Sheeran; Eminem
+clique,1027,,3,3,1.0,0,17,59wfkuBoNyhDMQGCljbUbA;1wiBLzTI7z9RUwEpNPdFT6;5me0Irg2ANcsgc93uaYrpb,Diddy; Mase; The Notorious B.I.G.
+clique,1225,,3,3,1.0,0,17,6YiHht3u7FFszle72kpbdQ;1eNO1DUCOtZgCzlwtjtb1t;7hJcb9fa4alzcOq3EaNPoG,Lil Duval; October London; Snoop Dogg
+clique,220,,3,3,1.0,0,16,6DJEUXZm0e2rAohdoZ5Voo;5y2Xq6xcjJb2jVM54GHK3t;78xUyw6FkVZrRAtziFdtdu,Black Thought; John Legend; The Roots
+clique,339,,3,3,1.0,0,16,64M6ah0SkkRsnPGtGiRAbb;1Cs0zKBU1kc0i8ypK3B9ai;4O15NlyKLIASxsJ0PrXPfz,Bebe Rexha; David Guetta; Lil Uzi Vert
+clique,436,,3,3,1.0,0,16,1Cs0zKBU1kc0i8ypK3B9ai;3gk0OYeLFWYupGFRHqLSR7;7HqEmV7FeCi16bQyHMpIrF,David Guetta; Showtek; VASSY
+clique,643,,3,3,1.0,0,16,07YZf4WDAMNwqr4jfgOZ8y;2DlGxzQSjYe5N6G9nkYghR;0TnOYISbd1XYRBk9myaseg,Jason Derulo; Jennifer Lopez; Pitbull
+clique,754,,3,3,1.0,0,16,3q7HBObVc0L8jNeTe5Gofh;40xbWSB4JPdOkRyuTDy1oP;4pr7J7wzgObkE3DD3Izi7q,50 Cent; Nicole Scherzinger; Young Buck
+clique,1261,,3,3,1.0,0,16,5V5RsKQpLHwTCovhdCBHkn;1eNO1DUCOtZgCzlwtjtb1t;7hJcb9fa4alzcOq3EaNPoG,Nefertitti Avani; October London; Snoop Dogg
+clique,239,,3,3,1.0,0,15,4D75GcNG95ebPtNvoNVXhz;1EVWYRr2obCRDoSoD6KSuM;0TnOYISbd1XYRBk9myaseg,AFROJACK; Havana Brown; Pitbull
+clique,323,,3,3,1.0,0,15,6lITXT7V1VIC7nwlgh8ycO;1Cs0zKBU1kc0i8ypK3B9ai;3gk0OYeLFWYupGFRHqLSR7,Beardyman; David Guetta; Showtek
+clique,421,,3,3,1.0,0,15,1lzugG0lqNh9nP6Fp2zG3c;77AiFEVeAVj2ORpC85QVJs;4exLIFE8sISLr28sqG1qNX,Global Dan; Steve Aoki; Travis Barker
+clique,599,,3,3,1.0,0,15,5dHt1vcEm9qb8fCyLcB3HL;70gP6Ry4Uo0Yx6uzPIdaiJ;1iNqsUDUraNWrj00bqssQG,A$AP Ferg; Bas; Dreamville
+clique,672,,3,3,1.0,0,15,4D75GcNG95ebPtNvoNVXhz;0TnOYISbd1XYRBk9myaseg;2NhdGz9EDv2FeUw6udu2g1,AFROJACK; Pitbull; The Wanted
+clique,675,,3,3,1.0,0,15,4D75GcNG95ebPtNvoNVXhz;1Cs0zKBU1kc0i8ypK3B9ai;6BDFty1LleHGClPQp2DAdl,AFROJACK; David Guetta; Niles Mason
+clique,869,,3,3,1.0,0,15,1yxSLGMDHlW21z4YXirZDS;31TPClRtHm23RisEBtV3X7;5Y5TRrQiqgUO4S36tzjIRZ,Black Eyed Peas; Justin Timberlake; Timbaland
+clique,884,,3,3,1.0,0,15,3KwmxIhSe9UTSEF37kwngR;77AiFEVeAVj2ORpC85QVJs;0Ty63ceoRnnJKVEYP0VQpk,SHAED; Steve Aoki; Sting
+clique,1065,,3,3,1.0,0,15,59wfkuBoNyhDMQGCljbUbA;5tth2a3v0sWwV1C7bApBdX;5me0Irg2ANcsgc93uaYrpb,Diddy; Lil' Kim; The Notorious B.I.G.
+clique,159,,3,3,1.0,0,14,1Cs0zKBU1kc0i8ypK3B9ai;2gsggkzM5R49q6jpPvazou;0hCNtLu0JehylgoiP8L4Gh,David Guetta; Jessie J; Nicki Minaj
+clique,204,,3,3,1.0,0,14,7dGJo4pcD2V6oG8kP0tJRR;0hCNtLu0JehylgoiP8L4Gh;4utLUGcTvOJFr6aqIJtYWV,Eminem; Nicki Minaj; Skylar Grey
+clique,217,,3,3,1.0,0,14,2i4dJzzPuB6lTP1ZQv9Tfb;5y2Xq6xcjJb2jVM54GHK3t;78xUyw6FkVZrRAtziFdtdu,C.L. Smooth; John Legend; The Roots
+clique,219,,3,3,1.0,0,14,5y2Xq6xcjJb2jVM54GHK3t;2hikCywT7dcTj6gt3jmsbD;78xUyw6FkVZrRAtziFdtdu,John Legend; Malik Yusef; The Roots
+clique,285,,3,3,1.0,0,14,4SQdUpG4f7UbkJG3cJ2Iyj;7w29UYBi0qsHi5RTcv3lmA;2X3e2rDdxibDfJGv0CwS7A,Arca; Björk; Rabit
+clique,370,,3,3,1.0,0,14,1uNFoZAHBGtllmzznpCI3s;23zg3TcAtWQy7J6upgbUnj;5CiGnKThu5ctn9pBxv7DGa,Justin Bieber; USHER; benny blanco
+clique,670,,3,3,1.0,0,14,4D75GcNG95ebPtNvoNVXhz;3fMbdgg4jU18AjLCKBhRSm;0TnOYISbd1XYRBk9myaseg,AFROJACK; Michael Jackson; Pitbull
+clique,805,,3,3,1.0,0,14,1Cs0zKBU1kc0i8ypK3B9ai;3gk0OYeLFWYupGFRHqLSR7;77AiFEVeAVj2ORpC85QVJs,David Guetta; Showtek; Steve Aoki
+clique,1041,,3,3,1.0,0,14,1Cs0zKBU1kc0i8ypK3B9ai;77AiFEVeAVj2ORpC85QVJs;085pc2PYOi8bGKj0PNjekA,David Guetta; Steve Aoki; will.i.am
+clique,1083,,3,3,1.0,0,14,4sglKanXuoU0gqGYP3wiNv;55Aa2cqylxrFIXC767Z865;3aQeKQSyrW4qWr35idm0cy,Detail; Lil Wayne; T-Pain
+clique,89,,3,3,1.0,0,13,3nFkdlSjzX9mRTtwJOzDYB;19KwjzvIL92r29IINtlPNP;5me0Irg2ANcsgc93uaYrpb,JAŸ-Z; Scarface; The Notorious B.I.G.
+clique,125,,3,3,1.0,0,13,7dGJo4pcD2V6oG8kP0tJRR;6DVipHzYsPlIoA0DW8Gmns;79KQgTCu4wV38ECYKn62DZ,"Eminem; Royce Da 5'9""; White Gold"
+clique,158,,3,3,1.0,0,13,66CXWjxzNUsdJxJ2JdwvnR;2gsggkzM5R49q6jpPvazou;0hCNtLu0JehylgoiP8L4Gh,Ariana Grande; Jessie J; Nicki Minaj
+clique,223,,3,3,1.0,0,13,1gbXoccc8bjK8eUh92mILy;0Dy94lW3txJhWQHqNXP1BT;6GI52t8N5F02MxU0g5U69P,Buika; Laura Mvula; Santana
+clique,467,,3,3,1.0,0,13,1Cs0zKBU1kc0i8ypK3B9ai;3t5xRXzsuZmMDkQzgOX35S;66AE89GQTx88zLYhXn1wFK,David Guetta; Robin Schulz; Sam Martin
+clique,634,,3,3,1.0,0,13,5pnbUBPifNnlusY8kTBivi;2DlGxzQSjYe5N6G9nkYghR;2x8KDZdSONA3872CnhaAlX,Jadakiss; Jennifer Lopez; Styles P
+clique,642,,3,3,1.0,0,13,3ScY9CQxNLQei8Umvpx5g6;2DlGxzQSjYe5N6G9nkYghR;0TnOYISbd1XYRBk9myaseg,Fat Joe; Jennifer Lopez; Pitbull
+clique,671,,3,3,1.0,0,13,4D75GcNG95ebPtNvoNVXhz;7dtJROxWQe3fxxF5t7o67N;77AiFEVeAVj2ORpC85QVJs,AFROJACK; Bonnie McKee; Steve Aoki
+clique,696,,3,3,1.0,0,13,6XdUl9SNdiDBbZhZ1B9ubn;4yBK75WVCQXej1p04GWqxH;5pKCCKE2ajJHZ9KAiaK11H,Chew Fu; Jeezy; Rihanna
+clique,870,,3,3,1.0,0,13,31TPClRtHm23RisEBtV3X7;26s8LSolLfCIY88ysQbIuT;5Y5TRrQiqgUO4S36tzjIRZ,Justin Timberlake; Three 6 Mafia; Timbaland
+clique,894,,3,3,1.0,0,13,2NdeV5rLm47xAvogXrYhJX;1QkusyyiLCVP97x3TADKV9;4OBJLual30L7gRl5UkeRcT,Ciara; Jazze Pha; T.I.
+clique,1006,,3,3,1.0,0,13,2fOkjEpqBpjWZrD3JQ4Aoj;77AiFEVeAVj2ORpC85QVJs;085pc2PYOi8bGKj0PNjekA,Lay Zhang; Steve Aoki; will.i.am
+clique,1024,,3,3,1.0,0,13,6XdUl9SNdiDBbZhZ1B9ubn;5pKCCKE2ajJHZ9KAiaK11H;085pc2PYOi8bGKj0PNjekA,Chew Fu; Rihanna; will.i.am
+clique,1061,,3,3,1.0,0,13,59wfkuBoNyhDMQGCljbUbA;5me0Irg2ANcsgc93uaYrpb;4sb7rZNN93BSS6Gqgepo4v,Diddy; The Notorious B.I.G.; Too $hort
+clique,1062,,3,3,1.0,0,13,59wfkuBoNyhDMQGCljbUbA;34t9RzI5oDMZJVmcoUZnJE;5me0Irg2ANcsgc93uaYrpb,Diddy; Ma$e; The Notorious B.I.G.
+clique,1098,,3,3,1.0,0,13,5oNgAs7j5XcBMzWv3HAnHG;7hJcb9fa4alzcOq3EaNPoG;6bvnqprEw8P88PB8jEnL8f,DJ Drama; Snoop Dogg; Stressmatic
+clique,260,,3,3,1.0,0,12,2h93pZq0e7k5yf4dywlkpM;5s8mrbpjYHWIuGYUzNTpEb;4V8LLVI7PbaPR0K2TGSxFF,"Frank Ocean; Laetitia Sadier; Tyler, The Creator"
+clique,328,,3,3,1.0,0,12,55Aa2cqylxrFIXC767Z865;1pPmIToKXyGdsCF6LmqLmI;0A0FS04o6zMoto8OKPsDwY,Lil Wayne; Rich The Kid; YG
+clique,439,,3,3,1.0,0,12,55Aa2cqylxrFIXC767Z865;3aQeKQSyrW4qWr35idm0cy;2jku7tDXc6XoB6MO2hFuqg,Lil Wayne; T-Pain; Tory Lanez
+clique,868,,3,3,1.0,0,12,3q7HBObVc0L8jNeTe5Gofh;31TPClRtHm23RisEBtV3X7;5Y5TRrQiqgUO4S36tzjIRZ,50 Cent; Justin Timberlake; Timbaland
+clique,996,,3,3,1.0,0,12,2Jwr7hGoSNK3S3QBxh3T0z;3nFkdlSjzX9mRTtwJOzDYB;5me0Irg2ANcsgc93uaYrpb,Freeway; JAŸ-Z; The Notorious B.I.G.
+clique,1052,,3,3,1.0,0,12,4VMYDCV2IEDYJArk749S6m;1SupJlEpv7RS2tPNRaHViT;1wZtkThiXbVNtj6hee6dz9,Daddy Yankee; Nicky Jam; Wisin & Yandel
+clique,1080,,3,3,1.0,0,12,4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;1SupJlEpv7RS2tPNRaHViT,Bad Bunny; Daddy Yankee; Nicky Jam
+clique,1096,,3,3,1.0,0,12,5oNgAs7j5XcBMzWv3HAnHG;7hJcb9fa4alzcOq3EaNPoG;0I5HubncQ8E1MFZOlPDY4J,DJ Drama; Snoop Dogg; Trinidad James
+clique,1097,,3,3,1.0,0,12,5oNgAs7j5XcBMzWv3HAnHG;5gCRApTajqwbnHHPbr2Fpi;7hJcb9fa4alzcOq3EaNPoG,DJ Drama; Juicy J; Snoop Dogg
+clique,1101,,3,3,1.0,0,12,5oNgAs7j5XcBMzWv3HAnHG;4TYOMrAFzxu8wO0yLIpOm4;7hJcb9fa4alzcOq3EaNPoG,DJ Drama; Seddy Hendrinx; Snoop Dogg
+clique,1155,,3,3,1.0,0,12,6CxZzQFUTM6AzgluGwtq5w;7hJcb9fa4alzcOq3EaNPoG;61UT1Zj9dFgPAjZfwnsqsb,Charlie Wilson; Snoop Dogg; Teena Marie
+clique,1284,,3,3,1.0,0,12,6vWDO969PvNqNYHIOW5v0m;3nFkdlSjzX9mRTtwJOzDYB;31TPClRtHm23RisEBtV3X7,Beyoncé; JAŸ-Z; Justin Timberlake
+clique,135,,3,3,1.0,0,11,6eUKZXaKkcviH0Ku9w2n3V;1RyvyyTE3xzB2ZywiAwp0i;06HL4z0CvFAxyc27GXpf02,Ed Sheeran; Future; Taylor Swift
+clique,203,,3,3,1.0,0,11,64M6ah0SkkRsnPGtGiRAbb;0hCNtLu0JehylgoiP8L4Gh;1sBkRIssrMs1AbVkOJbc7a,Bebe Rexha; Nicki Minaj; Rick Ross
+clique,246,,3,3,1.0,0,11,4cc6PmIfhsUCGJUU9QsxEy;2RdwBSPQiwcmiDo9kixcl8;4V8LLVI7PbaPR0K2TGSxFF,"Coco O.; Pharrell Williams; Tyler, The Creator"
+clique,430,,3,3,1.0,0,11,17lzZA2AlOHwCwFALHttmp;0c173mlxpT3dSFRgMO8XPh;55Aa2cqylxrFIXC767Z865,2 Chainz; Big Sean; Lil Wayne
+clique,470,,3,3,1.0,0,11,0vqkz1b2qBkoYrGMj2CUWq;3AA28KZvwAUcZuOKwyblJQ;0Mz5XE0kb1GBnbLQm2VbcO,Bobby Womack; Gorillaz; Mos Def
+clique,577,,3,3,1.0,0,11,2OjoIDVPQKT9B7loZbPEfp;2DlGxzQSjYe5N6G9nkYghR;0TnOYISbd1XYRBk9myaseg,Claudia Leitte; Jennifer Lopez; Pitbull
+clique,655,,3,3,1.0,0,11,4q3ewBCX7sLwd24euuV69X;1vyhD5VmyZ7KMfW5gqLgo5;4TAoP0f9OuWZUesao43xUW,Bad Bunny; J Balvin; Mr Eazi
+clique,724,,3,3,1.0,0,11,4q3ewBCX7sLwd24euuV69X;1vyhD5VmyZ7KMfW5gqLgo5;5QzDzXfXC5lepOBeQXBiVO,Bad Bunny; J Balvin; Marciano Cantero
+clique,725,,3,3,1.0,0,11,4q3ewBCX7sLwd24euuV69X;4kYSro6naA4h99UJvo89HB;1vyhD5VmyZ7KMfW5gqLgo5,Bad Bunny; Cardi B; J Balvin
+clique,775,,3,3,1.0,0,11,3PhoLpVuITZKcymswpck5b;0YC192cP3KPCRWx8zr8MfZ;1HY2Jd0NmPuamShAr6KMms,Elton John; Hans Zimmer; Lady Gaga
+clique,907,,3,3,1.0,0,11,0vqkz1b2qBkoYrGMj2CUWq;3AA28KZvwAUcZuOKwyblJQ;4Vt6rW97rpUAJmi3MZT5la,Bobby Womack; Gorillaz; Sinfonia ViVa
+clique,1038,,3,3,1.0,0,11,0fA0VVWsXO9YnASrzqfmYu;77AiFEVeAVj2ORpC85QVJs;4exLIFE8sISLr28sqG1qNX,Kid Cudi; Steve Aoki; Travis Barker
+clique,1111,,3,3,1.0,0,11,6NyJIFHAePjHR1pFxwisqz;7hJcb9fa4alzcOq3EaNPoG;6zzgkIq4Rqeny48PPUMaCf,Kurupt; Snoop Dogg; War Zone
+clique,1118,,3,3,1.0,0,11,5K0rbdBrs2tNXe5LeWMATT;6kEwu0twnfzngQt3Gy8taP;7hJcb9fa4alzcOq3EaNPoG,Bootsy Collins; Goldie Loc; Snoop Dogg
+clique,17,,3,3,1.0,0,10,3nFkdlSjzX9mRTtwJOzDYB;72pN697nIeGWK4Gql4mwqn;5me0Irg2ANcsgc93uaYrpb,JAŸ-Z; The Commission; The Notorious B.I.G.
+clique,42,,3,3,1.0,0,10,0QJIPDAEDILuo8AIq3pMuU;6tbjWDEIzxoDsBA1FuhfPW;0hCNtLu0JehylgoiP8L4Gh,M.I.A.; Madonna; Nicki Minaj
+clique,171,,3,3,1.0,0,10,7bXgB6jMjp9ATFy66eO08Z;2NdeV5rLm47xAvogXrYhJX;0hCNtLu0JehylgoiP8L4Gh,Chris Brown; Ciara; Nicki Minaj
+clique,221,,3,3,1.0,0,10,1Cs0zKBU1kc0i8ypK3B9ai;4sTQVOfp9vEMCemLw50sbu;3e7awlrlDSwF3iM0WBjGMp,David Guetta; Galantis; Little Mix
+clique,259,,3,3,1.0,0,10,2h93pZq0e7k5yf4dywlkpM;57vWImR43h4CaDao012Ofp;4V8LLVI7PbaPR0K2TGSxFF,"Frank Ocean; Steve Lacy; Tyler, The Creator"
+clique,271,,3,3,1.0,0,10,57ZTzIn5GLxNLzWgnTTcHj;5IcR3N7QB1j6KBL8eImZ8m;4V8LLVI7PbaPR0K2TGSxFF,"Chaz Bundick; ScHoolboy Q; Tyler, The Creator"
+clique,322,,3,3,1.0,0,10,77IURH5NC56Jn09QHi76is;7dGJo4pcD2V6oG8kP0tJRR;6DVipHzYsPlIoA0DW8Gmns,"Bad Meets Evil; Eminem; Royce Da 5'9"""
+clique,469,,3,3,1.0,0,10,3AA28KZvwAUcZuOKwyblJQ;4wvPcMJk7L9Rbw9Qh4kBeH;0Mz5XE0kb1GBnbLQm2VbcO,Gorillaz; Hypnotic Brass Ensemble; Mos Def
+clique,519,,3,3,1.0,0,10,1uNFoZAHBGtllmzznpCI3s;246dkjvS1zLTtiykXe5h60;2tIP7SsRs7vjIcLrU85W8J,Justin Bieber; Post Malone; The Kid LAROI
+clique,533,,3,3,1.0,0,10,1Cs0zKBU1kc0i8ypK3B9ai;4EhiIwwMPecLznwn87sRw2;1k8VBufn1nBs8LN9n4snc8,David Guetta; Joachim Garraud; Stereo MC's
+clique,664,,3,3,1.0,0,10,3nFkdlSjzX9mRTtwJOzDYB;5me0Irg2ANcsgc93uaYrpb;6vbY3hOaCAhC7VjucswgdS,JAŸ-Z; The Notorious B.I.G.; Twista
+clique,689,,3,3,1.0,0,10,4VMYDCV2IEDYJArk749S6m;4V8Sr092TqfHkfAA5fXXqG;1SupJlEpv7RS2tPNRaHViT,Daddy Yankee; Luis Fonsi; Nicky Jam
+clique,1049,,3,3,1.0,0,10,1zNqDE7qDGCsyzJwohVaoX;1Cs0zKBU1kc0i8ypK3B9ai;3e7awlrlDSwF3iM0WBjGMp,Anne-Marie; David Guetta; Little Mix
+clique,1073,,3,3,1.0,0,10,3r17AfJCCUqC9Lf0OAc73G;3fMbdgg4jU18AjLCKBhRSm;085pc2PYOi8bGKj0PNjekA,Fergie; Michael Jackson; will.i.am
+clique,1119,,3,3,1.0,0,10,0P8gFUTmPZPaLWNHfEBKwc;6kEwu0twnfzngQt3Gy8taP;7hJcb9fa4alzcOq3EaNPoG,Big Tray Deee; Goldie Loc; Snoop Dogg
+clique,1184,,3,3,1.0,0,10,3uISNNuONokIh21KiNharS;7hJcb9fa4alzcOq3EaNPoG;60CFNa0ggWjV8OSDey8aGT,Butch Cassidy; Snoop Dogg; Tha Dogg Pound
+clique,1235,,3,3,1.0,0,10,3AA28KZvwAUcZuOKwyblJQ;4wvPcMJk7L9Rbw9Qh4kBeH;7hJcb9fa4alzcOq3EaNPoG,Gorillaz; Hypnotic Brass Ensemble; Snoop Dogg
+clique,1267,,3,3,1.0,0,10,3nFkdlSjzX9mRTtwJOzDYB;6w71vXwHI2Oz6I5OO41tRM;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; LaToiya Williams; Snoop Dogg
+clique,21,,3,3,1.0,0,9,1Cs0zKBU1kc0i8ypK3B9ai;3AuMNF8rQAKOzjYppFNAoB;21E3waRsmPlU7jZsS13rcj,David Guetta; Kelly Rowland; Ne-Yo
+clique,26,,3,3,1.0,0,9,3nFkdlSjzX9mRTtwJOzDYB;21E3waRsmPlU7jZsS13rcj;5pKCCKE2ajJHZ9KAiaK11H,JAŸ-Z; Ne-Yo; Rihanna
+clique,38,,3,3,1.0,0,9,6tbjWDEIzxoDsBA1FuhfPW;0hCNtLu0JehylgoiP8L4Gh;1zNqQNIdeOUZHb8zbZRFMX,Madonna; Nicki Minaj; Swae Lee
+clique,123,,3,3,1.0,0,9,0c173mlxpT3dSFRgMO8XPh;26VFTg2z8YR0cCuwLzESi2;2ExGrw6XpbtUAJHTLtUXUD,Big Sean; Halsey; Stefflon Don
+clique,126,,3,3,1.0,0,9,1nSRa2YjjFWJLHGKM07oGQ;55Aa2cqylxrFIXC767Z865;0fbFfVckGKsDbAfYnB5mD1,Blaque; Lil Wayne; Mannie Fresh
+clique,134,,3,3,1.0,0,9,4YLtscXsxbVgi031ovDDdh;6eUKZXaKkcviH0Ku9w2n3V;06HL4z0CvFAxyc27GXpf02,Chris Stapleton; Ed Sheeran; Taylor Swift
+clique,165,,3,3,1.0,0,9,7iMvwE8qANp3aIfAGKEAwS;0hCNtLu0JehylgoiP8L4Gh;1sBkRIssrMs1AbVkOJbc7a,Cam'ron; Nicki Minaj; Rick Ross
+clique,511,,3,3,1.0,0,9,1Cs0zKBU1kc0i8ypK3B9ai;3e7awlrlDSwF3iM0WBjGMp;3Isy6kedDrgPYoTS1dazA9,David Guetta; Little Mix; Sean Paul
+clique,514,,3,3,1.0,0,9,3nFkdlSjzX9mRTtwJOzDYB;5pKCCKE2ajJHZ9KAiaK11H;3Isy6kedDrgPYoTS1dazA9,JAŸ-Z; Rihanna; Sean Paul
+clique,546,,3,3,1.0,0,9,45a6gCQWq61lIUDmr1tKuO;0TnOYISbd1XYRBk9myaseg;23zg3TcAtWQy7J6upgbUnj,Bun B; Pitbull; USHER
+clique,623,,3,3,1.0,0,9,0jnsk9HBra6NMjO2oANoPY;1HY2Jd0NmPuamShAr6KMms;7IEs29neldWttflhIzGhCX,Flo Rida; Lady Gaga; Space Cowboy
+clique,660,,3,3,1.0,0,9,0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy;6vbY3hOaCAhC7VjucswgdS,Pitbull; T-Pain; Twista
+clique,691,,3,3,1.0,0,9,0mWCCoNyVpvjVAJ3qRMERg;1OY0QiDvR2Un8QCpKxcEnY;0TnOYISbd1XYRBk9myaseg,Aim; Cubo; Pitbull
+clique,704,,3,3,1.0,0,9,1uNFoZAHBGtllmzznpCI3s;0cGUm45nv7Z6M6qdXYQGTX;246dkjvS1zLTtiykXe5h60,Justin Bieber; Kehlani; Post Malone
+clique,758,,3,3,1.0,0,9,3ZJCmnY5iUo1M0UFFWDXGf;5F2Bwl7Is7KVwTbNbMclIS;0TnOYISbd1XYRBk9myaseg,MC Marcinho; Papayo; Pitbull
+clique,834,,3,3,1.0,0,9,0z4gvV4rjIZ9wHck67ucSV;37GUqxafAvAKGMZbXCUnmr;0TnOYISbd1XYRBk9myaseg,Akon; Mohombi; Pitbull
+clique,889,,3,3,1.0,0,9,2NdeV5rLm47xAvogXrYhJX;31TPClRtHm23RisEBtV3X7;4OBJLual30L7gRl5UkeRcT,Ciara; Justin Timberlake; T.I.
+clique,893,,3,3,1.0,0,9,2NdeV5rLm47xAvogXrYhJX;3aQeKQSyrW4qWr35idm0cy;4OBJLual30L7gRl5UkeRcT,Ciara; T-Pain; T.I.
+clique,948,,3,3,1.0,0,9,45a6gCQWq61lIUDmr1tKuO;1OY0QiDvR2Un8QCpKxcEnY;0TnOYISbd1XYRBk9myaseg,Bun B; Cubo; Pitbull
+clique,954,,3,3,1.0,0,9,4VMYDCV2IEDYJArk749S6m;0TnOYISbd1XYRBk9myaseg;1wZtkThiXbVNtj6hee6dz9,Daddy Yankee; Pitbull; Wisin & Yandel
+clique,955,,3,3,1.0,0,9,3TcOS57UC82HUUgfPrkteI;0TnOYISbd1XYRBk9myaseg;12FHARd9fY0Tu0ila4Ua25,Fabo of D4L; Pitbull; Trick Daddy
+clique,974,,3,3,1.0,0,9,5pdyjBIaY5o1yOyexGIUc6;6xBZgSMsnKVmaAxzWEwMSD;77AiFEVeAVj2ORpC85QVJs,Lights; Mike Shinoda; Steve Aoki
+clique,976,,3,3,1.0,0,9,7sfl4Xt5KmfyDs2T3SVSMK;77AiFEVeAVj2ORpC85QVJs;6f4XkbvYlXMH0QgVRzW0sM,Lil Jon; Steve Aoki; Waka Flocka Flame
+clique,991,,3,3,1.0,0,9,20wkVLutqVOYrc0kxFs7rA;4fxd5Ee7UefO4CUXgwJ7IP;1uNFoZAHBGtllmzznpCI3s,Daniel Caesar; GIVĒON; Justin Bieber
+clique,1044,,3,3,1.0,0,9,40giwFcTQtv9ezxW8yqxJU;7sfl4Xt5KmfyDs2T3SVSMK;77AiFEVeAVj2ORpC85QVJs,Chiddy Bang; Lil Jon; Steve Aoki
+clique,1056,,3,3,1.0,0,9,2R21vXR83lH98kGeO99Y66;4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m,Anuel AA; Bad Bunny; Daddy Yankee
+clique,1074,,3,3,1.0,0,9,31TPClRtHm23RisEBtV3X7;3fMbdgg4jU18AjLCKBhRSm;085pc2PYOi8bGKj0PNjekA,Justin Timberlake; Michael Jackson; will.i.am
+clique,1075,,3,3,1.0,0,9,1Cs0zKBU1kc0i8ypK3B9ai;3r17AfJCCUqC9Lf0OAc73G;085pc2PYOi8bGKj0PNjekA,David Guetta; Fergie; will.i.am
+clique,1079,,3,3,1.0,0,9,1yxSLGMDHlW21z4YXirZDS;4VMYDCV2IEDYJArk749S6m;1SupJlEpv7RS2tPNRaHViT,Black Eyed Peas; Daddy Yankee; Nicky Jam
+clique,1132,,3,3,1.0,0,9,6nfYGe7IIuuP5bMY1jkJP6;4iHNK0tOyZPYnBU7nGAgpQ;7hJcb9fa4alzcOq3EaNPoG,Jermaine Dupri; Mariah Carey; Snoop Dogg
+clique,1165,,3,3,1.0,0,9,1QkusyyiLCVP97x3TADKV9;7hJcb9fa4alzcOq3EaNPoG;4OBJLual30L7gRl5UkeRcT,Jazze Pha; Snoop Dogg; T.I.
+clique,30,,3,3,1.0,0,8,3AuMNF8rQAKOzjYppFNAoB;21E3waRsmPlU7jZsS13rcj;0TnOYISbd1XYRBk9myaseg,Kelly Rowland; Ne-Yo; Pitbull
+clique,92,,3,3,1.0,0,8,4cc6PmIfhsUCGJUU9QsxEy;7IfculRW2WXyzNQ8djX8WX;4V8LLVI7PbaPR0K2TGSxFF,"Coco O.; Erykah Badu; Tyler, The Creator"
+clique,108,,3,3,1.0,0,8,3q7HBObVc0L8jNeTe5Gofh;70gP6Ry4Uo0Yx6uzPIdaiJ;6l3HvQ5sa6mXTsMTB19rO5,50 Cent; Bas; J. Cole
+clique,214,,3,3,1.0,0,8,17lzZA2AlOHwCwFALHttmp;07YZf4WDAMNwqr4jfgOZ8y;0hCNtLu0JehylgoiP8L4Gh,2 Chainz; Jason Derulo; Nicki Minaj
+clique,226,,3,3,1.0,0,8,0jnsk9HBra6NMjO2oANoPY;6LqNN22kT3074XbTVUrhzX;0TnOYISbd1XYRBk9myaseg,Flo Rida; Kesha; Pitbull
+clique,247,,3,3,1.0,0,8,5K0rbdBrs2tNXe5LeWMATT;1U1el3k54VvEUzo3ybLPlM;4V8LLVI7PbaPR0K2TGSxFF,"Bootsy Collins; Kali Uchis; Tyler, The Creator"
+clique,248,,3,3,1.0,0,8,55Aa2cqylxrFIXC767Z865;1Xyo4u8uXC1ZmMpatF05PJ;4V8LLVI7PbaPR0K2TGSxFF,"Lil Wayne; The Weeknd; Tyler, The Creator"
+clique,252,,3,3,1.0,0,8,6vHBuUxrcpn1do5UaEJ7g6;3A5tHz1SfngyOZM2gItYKu;4V8LLVI7PbaPR0K2TGSxFF,"Domo Genesis; Earl Sweatshirt; Tyler, The Creator"
+clique,262,,3,3,1.0,0,8,13ubrt8QOOCPljQ2FL1Kca;5IcR3N7QB1j6KBL8eImZ8m;4V8LLVI7PbaPR0K2TGSxFF,"A$AP Rocky; ScHoolboy Q; Tyler, The Creator"
+clique,269,,3,3,1.0,0,8,1U1el3k54VvEUzo3ybLPlM;57vWImR43h4CaDao012Ofp;4V8LLVI7PbaPR0K2TGSxFF,"Kali Uchis; Steve Lacy; Tyler, The Creator"
+clique,270,,3,3,1.0,0,8,5K4W6rqBFWDnAN6FQUkS6x;2RdwBSPQiwcmiDo9kixcl8;4V8LLVI7PbaPR0K2TGSxFF,"Kanye West; Pharrell Williams; Tyler, The Creator"
+clique,272,,3,3,1.0,0,8,6CxZzQFUTM6AzgluGwtq5w;2RdwBSPQiwcmiDo9kixcl8;4V8LLVI7PbaPR0K2TGSxFF,"Charlie Wilson; Pharrell Williams; Tyler, The Creator"
+clique,276,,3,3,1.0,0,8,3sMYEBy0CZFxedcnm9i9hf;4DYFVNKZ1uixa6SQTvzQwJ;0TnOYISbd1XYRBk9myaseg,Frankie J; Ken-Y; Pitbull
+clique,278,,3,3,1.0,0,8,0c173mlxpT3dSFRgMO8XPh;26VFTg2z8YR0cCuwLzESi2;1uNFoZAHBGtllmzznpCI3s,Big Sean; Halsey; Justin Bieber
+clique,298,,3,3,1.0,0,8,4VMYDCV2IEDYJArk749S6m;329e4yvIujISKGKz1BZZbO;4V8Sr092TqfHkfAA5fXXqG,Daddy Yankee; Farruko; Luis Fonsi
+clique,360,,3,3,1.0,0,8,4mHAu7NX2UNsnGXjviBD9e;1Cs0zKBU1kc0i8ypK3B9ai;60d24wfXkVzDSfLS6hyCjZ,Brooks; David Guetta; Martin Garrix
+clique,372,,3,3,1.0,0,8,1Z8ODXyhEBi3WynYw0Rya6;3AA28KZvwAUcZuOKwyblJQ;0dLSQG3IV62UNVhWUe6mx6,De La Soul; Gorillaz; Gruff Rhys
+clique,405,,3,3,1.0,0,8,0TnOYISbd1XYRBk9myaseg;0EmeFodog0BfCgMzAIvKQp;7aBzpmFXB4WWpPl2F7RjBe,Pitbull; Shakira; Wyclef Jean
+clique,414,,3,3,1.0,0,8,1Cs0zKBU1kc0i8ypK3B9ai;0DxeaLnv6SyYk2DOqkLO8c;0EmeFodog0BfCgMzAIvKQp,David Guetta; MAGIC!; Shakira
+clique,425,,3,3,1.0,0,8,0TnOYISbd1XYRBk9myaseg;15jrieCvf3EklAScnD9kKl;7iJrDbKM5fEkGdm5kpjFzS,Pitbull; Sak Noel; Sensato
+clique,431,,3,3,1.0,0,8,0c173mlxpT3dSFRgMO8XPh;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865,Big Sean; Justin Bieber; Lil Wayne
+clique,457,,3,3,1.0,0,8,3nFkdlSjzX9mRTtwJOzDYB;0kvTYSgiVrBtbcKokPle73;5pKCCKE2ajJHZ9KAiaK11H,JAŸ-Z; Lindbergh Palace; Rihanna
+clique,523,,3,3,1.0,0,8,4Gso3d4CscCijv0lmajZWs;7tYKF4w9nC0nq9CsPZTHyP;0Y5tJX1MQlPlqiwlOH1tJY,Don Toliver; SZA; Travis Scott
+clique,529,,3,3,1.0,0,8,2YZyLoL8N0Wb9xBt1NhZWg;7tYKF4w9nC0nq9CsPZTHyP;0Y5tJX1MQlPlqiwlOH1tJY,Kendrick Lamar; SZA; Travis Scott
+clique,566,,3,3,1.0,0,8,0TnOYISbd1XYRBk9myaseg;1sBkRIssrMs1AbVkOJbc7a;23zg3TcAtWQy7J6upgbUnj,Pitbull; Rick Ross; USHER
+clique,580,,3,3,1.0,0,8,0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy;7c0XG5cIJTrrAgEC3ULPiq,Pitbull; T-Pain; Ty Dolla $ign
+clique,657,,3,3,1.0,0,8,6nfYGe7IIuuP5bMY1jkJP6;4iHNK0tOyZPYnBU7nGAgpQ;6vbY3hOaCAhC7VjucswgdS,Jermaine Dupri; Mariah Carey; Twista
+clique,668,,3,3,1.0,0,8,4VMYDCV2IEDYJArk749S6m;1SupJlEpv7RS2tPNRaHViT;5lwmRuXgjX8xIwlnauTZIP,Daddy Yankee; Nicky Jam; Romeo Santos
+clique,731,,3,3,1.0,0,8,7dGJo4pcD2V6oG8kP0tJRR;1qUjOF5fzrpoNycD36b2jZ;1KCSPY1glIKqW2TotWuXOR,Eminem; Nate Ruess; P!nk
+clique,740,,3,3,1.0,0,8,1yxSLGMDHlW21z4YXirZDS;6GEykX11lQqp92UVOQQCC7;31TPClRtHm23RisEBtV3X7,Black Eyed Peas; DJ Premier; Justin Timberlake
+clique,743,,3,3,1.0,0,8,25uiPmTg16RbhZWAqwLBy5;5yG7ZAZafVaAlMTeBybKAL;5CCwRZC6euC8Odo6y9X8jr,Charli xcx; Iggy Azalea; Rita Ora
+clique,791,,3,3,1.0,0,8,1uNFoZAHBGtllmzznpCI3s;6LuN9FCkKOj5PcnpouEgny;7n2wHs1TKAczGzO7Dd2rGr,Justin Bieber; Khalid; Shawn Mendes
+clique,842,,3,3,1.0,0,8,2L5xi76mB2qwg00CMkuyEN;1Cs0zKBU1kc0i8ypK3B9ai;4FqPRilb0Ja0TKG3RS3y4s,Cozi; David Guetta; Steve Angello
+clique,844,,3,3,1.0,0,8,1EIgKOrzyOQRB3l43EfymN;3nFkdlSjzX9mRTtwJOzDYB;5me0Irg2ANcsgc93uaYrpb,Angela Winbush; JAŸ-Z; The Notorious B.I.G.
+clique,851,,3,3,1.0,0,8,5wUzuAKoHT2ItLdgAfa8sG;7s47glsDg6fwq9KXNTsTpa;55Aa2cqylxrFIXC767Z865,Fre$H; Gudda Gudda; Lil Wayne
+clique,855,,3,3,1.0,0,8,5P2rwRBgIN450RaJxdjYdA;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Kardinal Offishall; Pitbull; T-Pain
+clique,861,,3,3,1.0,0,8,4x7gxsrTH3gThvSKZPPwaQ;0TnOYISbd1XYRBk9myaseg;3aQeKQSyrW4qWr35idm0cy,Chuckie; Pitbull; T-Pain
+clique,927,,3,3,1.0,0,8,4Ge8xMJNwt6EEXOzVXju9a;25uiPmTg16RbhZWAqwLBy5;04vj3iPUiVh5melWr0w3xT,Caroline Polachek; Charli xcx; Christine and the Queens
+clique,933,,3,3,1.0,0,8,1yxSLGMDHlW21z4YXirZDS;7GaxyUddsPok8BuhxN6OUW;3BeQqzKdlARoOd6y30kCO2,Black Eyed Peas; James Brown; Pete Rock
+clique,944,,3,3,1.0,0,8,07YZf4WDAMNwqr4jfgOZ8y;5gCRApTajqwbnHHPbr2Fpi;0TnOYISbd1XYRBk9myaseg,Jason Derulo; Juicy J; Pitbull
+clique,975,,3,3,1.0,0,8,2KsP6tYLJlTBvSUxnwlVWa;77AiFEVeAVj2ORpC85QVJs;47BEc2RoW53owMyxacXWdV,Mike Posner; Steve Aoki; Yves V
+clique,1037,,3,3,1.0,0,8,6XyY86QOPPrYVGvF9ch6wz;6xBZgSMsnKVmaAxzWEwMSD;77AiFEVeAVj2ORpC85QVJs,Linkin Park; Mike Shinoda; Steve Aoki
+clique,1050,,3,3,1.0,0,8,1Cs0zKBU1kc0i8ypK3B9ai;3e7awlrlDSwF3iM0WBjGMp;6cK3NBO6uP7hh0oyuVELFl,David Guetta; Little Mix; Saweetie
+clique,1070,,3,3,1.0,0,8,7dGJo4pcD2V6oG8kP0tJRR;3KedxarmBCyFBevnqQHy3P;55Aa2cqylxrFIXC767Z865,Eminem; Jessie Reyez; Lil Wayne
+clique,1273,,3,3,1.0,0,8,5y2Xq6xcjJb2jVM54GHK3t;7hJcb9fa4alzcOq3EaNPoG;7guDJrEfX3qb6FEbdPA5qi,John Legend; Snoop Dogg; Stevie Wonder
+clique,1276,,3,3,1.0,0,8,2gBjLmx6zQnFGQJCAQpRgw;7hJcb9fa4alzcOq3EaNPoG;5me0Irg2ANcsgc93uaYrpb,Nelly; Snoop Dogg; The Notorious B.I.G.
+clique,1307,,3,3,1.0,0,8,1yxSLGMDHlW21z4YXirZDS;1OB278sOZVSFx5vXqYha83;1i8SpTcr7yvPOmcqrbnVXY,Black Eyed Peas; J. Rey Soul; Ozuna
+clique,15,,3,3,1.0,0,7,7vk5e3vY1uw9plTHJAMwjN;2LGU3PxihjIK5SUeCVcdFl;77AiFEVeAVj2ORpC85QVJs,Alan Walker; ISÁK; Steve Aoki
+clique,20,,3,3,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;21E3waRsmPlU7jZsS13rcj;5pKCCKE2ajJHZ9KAiaK11H,David Guetta; Ne-Yo; Rihanna
+clique,34,,3,3,1.0,0,7,5MmVJVhhYKQ86izuGHzJYA;2RdwBSPQiwcmiDo9kixcl8;4bYwbb6k4ujHD2NXRxSwRP,MIKA; Pharrell Williams; Robbie Rivera
+clique,69,,3,3,1.0,0,7,66CXWjxzNUsdJxJ2JdwvnR;5cj0lLjcoR7YOSnhnX0Po5;181bsRPaVXVlUKXrxwZfHK,Ariana Grande; Doja Cat; Megan Thee Stallion
+clique,95,,3,3,1.0,0,7,5ooSG9S0glqP5ZrqqaHBvT;2YZyLoL8N0Wb9xBt1NhZWg;7tYKF4w9nC0nq9CsPZTHyP,James Fauntleroy; Kendrick Lamar; SZA
+clique,100,,3,3,1.0,0,7,1naX4fxuRaDFlj9tGfIUZk;77AiFEVeAVj2ORpC85QVJs;0CbeG1224FS58EUx4tPevZ,Dr Phunk; Steve Aoki; Timmy Trumpet
+clique,132,,3,3,1.0,0,7,4mUS2220raxh6GT9SGC64e;1Cs0zKBU1kc0i8ypK3B9ai;085pc2PYOi8bGKj0PNjekA,Apl. De Ap; David Guetta; will.i.am
+clique,250,,3,3,1.0,0,7,4O15NlyKLIASxsJ0PrXPfz;2RdwBSPQiwcmiDo9kixcl8;4V8LLVI7PbaPR0K2TGSxFF,"Lil Uzi Vert; Pharrell Williams; Tyler, The Creator"
+clique,268,,3,3,1.0,0,7,0uFc6StTmJBvdHPZFDkdJy;1QdjL34EAib5zndNoqA2ly;4V8LLVI7PbaPR0K2TGSxFF,"Casey Veggies; Mike G; Tyler, The Creator"
+clique,363,,3,3,1.0,0,7,52u48ysnf2dczbGgOteSg4;1ruutHJcECI7cos2n5TqpO;0TnOYISbd1XYRBk9myaseg,Bass III Euro; Nayer; Pitbull
+clique,380,,3,3,1.0,0,7,0c173mlxpT3dSFRgMO8XPh;1uNFoZAHBGtllmzznpCI3s;5YGY8feqx7naU7z4HrwZM6,Big Sean; Justin Bieber; Miley Cyrus
+clique,419,,3,3,1.0,0,7,52aHqEQZ802daFzuMHfcES;0TnOYISbd1XYRBk9myaseg;0EmeFodog0BfCgMzAIvKQp,El Cata; Pitbull; Shakira
+clique,428,,3,3,1.0,0,7,0c173mlxpT3dSFRgMO8XPh;5f7VJjfbwm532GiveGC0ZK;55Aa2cqylxrFIXC767Z865,Big Sean; Lil Baby; Lil Wayne
+clique,429,,3,3,1.0,0,7,66CXWjxzNUsdJxJ2JdwvnR;0c173mlxpT3dSFRgMO8XPh;55Aa2cqylxrFIXC767Z865,Ariana Grande; Big Sean; Lil Wayne
+clique,504,,3,3,1.0,0,7,3e7awlrlDSwF3iM0WBjGMp;3Isy6kedDrgPYoTS1dazA9;2fLCjXwadBsnYmn05uxFpi,Little Mix; Sean Paul; Wideboys
+clique,544,,3,3,1.0,0,7,0TnOYISbd1XYRBk9myaseg;6vbY3hOaCAhC7VjucswgdS;23zg3TcAtWQy7J6upgbUnj,Pitbull; Twista; USHER
+clique,565,,3,3,1.0,0,7,2NdeV5rLm47xAvogXrYhJX;4OBJLual30L7gRl5UkeRcT;23zg3TcAtWQy7J6upgbUnj,Ciara; T.I.; USHER
+clique,568,,3,3,1.0,0,7,2RdwBSPQiwcmiDo9kixcl8;0TnOYISbd1XYRBk9myaseg;23zg3TcAtWQy7J6upgbUnj,Pharrell Williams; Pitbull; USHER
+clique,570,,3,3,1.0,0,7,6DJEUXZm0e2rAohdoZ5Voo;5y2Xq6xcjJb2jVM54GHK3t;3ZotbHeyVQKxQCPDJuQ4SU,Black Thought; John Legend; Q-Tip
+clique,592,,3,3,1.0,0,7,4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;1mcTU81TzQhprhouKaTkpq,Bad Bunny; Daddy Yankee; Rauw Alejandro
+clique,595,,3,3,1.0,0,7,13ubrt8QOOCPljQ2FL1Kca;2Dbnk0YRTPpKu46XzMf9nu;5K4W6rqBFWDnAN6FQUkS6x,A$AP Rocky; Joe Fox; Kanye West
+clique,633,,3,3,1.0,0,7,5pnbUBPifNnlusY8kTBivi;2DlGxzQSjYe5N6G9nkYghR;55Aa2cqylxrFIXC767Z865,Jadakiss; Jennifer Lopez; Lil Wayne
+clique,638,,3,3,1.0,0,7,5yG7ZAZafVaAlMTeBybKAL;2DlGxzQSjYe5N6G9nkYghR;4OBJLual30L7gRl5UkeRcT,Iggy Azalea; Jennifer Lopez; T.I.
+clique,644,,3,3,1.0,0,7,0jnsk9HBra6NMjO2oANoPY;2DlGxzQSjYe5N6G9nkYghR;2OFEXARoSZyZLR6S0oV2R7,Flo Rida; Jennifer Lopez; Tom Swoon
+clique,680,,3,3,1.0,0,7,7352aRY2mqSxBZwzUb6LmA;6nfYGe7IIuuP5bMY1jkJP6;4iHNK0tOyZPYnBU7nGAgpQ,Bow Wow; Jermaine Dupri; Mariah Carey
+clique,687,,3,3,1.0,0,7,4VMYDCV2IEDYJArk749S6m;4V8Sr092TqfHkfAA5fXXqG;1i8SpTcr7yvPOmcqrbnVXY,Daddy Yankee; Luis Fonsi; Ozuna
+clique,703,,3,3,1.0,0,7,1anyVhU62p31KFi8MEzkbf;1uNFoZAHBGtllmzznpCI3s;0cGUm45nv7Z6M6qdXYQGTX,Chance the Rapper; Justin Bieber; Kehlani
+clique,708,,3,3,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;77AiFEVeAVj2ORpC85QVJs;4nmrm4zpgJ0RC6aZRSUEjF,David Guetta; Steve Aoki; Wynter Gordon
+clique,721,,3,3,1.0,0,7,4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;47MpMsUfWtgyIIBEFOr4FE,Bad Bunny; Daddy Yankee; Lunay
+clique,728,,3,3,1.0,0,7,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;1vyhD5VmyZ7KMfW5gqLgo5,Black Eyed Peas; David Guetta; J Balvin
+clique,739,,3,3,1.0,0,7,0z4gvV4rjIZ9wHck67ucSV;7AnQGuknGCDEvr1t4n6Ink;1Cs0zKBU1kc0i8ypK3B9ai,"Akon; Aliaune ""Akon"" Thiam; David Guetta"
+clique,752,,3,3,1.0,0,7,37GUqxafAvAKGMZbXCUnmr;40xbWSB4JPdOkRyuTDy1oP;0TnOYISbd1XYRBk9myaseg,Mohombi; Nicole Scherzinger; Pitbull
+clique,835,,3,3,1.0,0,7,37GUqxafAvAKGMZbXCUnmr;2gBjLmx6zQnFGQJCAQpRgw;0TnOYISbd1XYRBk9myaseg,Mohombi; Nelly; Pitbull
+clique,840,,3,3,1.0,0,7,0b2GL7Y02vu50qieoQmw1w;5F2Bwl7Is7KVwTbNbMclIS;0TnOYISbd1XYRBk9myaseg,IAmChino; Papayo; Pitbull
+clique,845,,3,3,1.0,0,7,3ScY9CQxNLQei8Umvpx5g6;0TnOYISbd1XYRBk9myaseg;0Pe4PWfk1dWblSMuxQbKt2,Fat Joe; Pitbull; Sinful
+clique,879,,3,3,1.0,0,7,4r63FhuTkUYltbVAg5TQnk;1uNFoZAHBGtllmzznpCI3s;246dkjvS1zLTtiykXe5h60,DaBaby; Justin Bieber; Post Malone
+clique,903,,3,3,1.0,0,7,0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;7aBzpmFXB4WWpPl2F7RjBe,Flo Rida; Pitbull; Wyclef Jean
+clique,906,,3,3,1.0,0,7,04gDigrS5kc9YWfZHwBETP;0pkJMsTwKbRvrX9d4QEoAM;137W8MRPWKqSmrBGDBFSop,Maroon 5; Supreme Cuts; Wiz Khalifa
+clique,924,,3,3,1.0,0,7,6eUKZXaKkcviH0Ku9w2n3V;1RyvyyTE3xzB2ZywiAwp0i;50co4Is1HCEo8bhOyUWKpn,Ed Sheeran; Future; Young Thug
+clique,930,,3,3,1.0,0,7,3wcj11K77LjEY1PkEazffa;1uNFoZAHBGtllmzznpCI3s;6LuN9FCkKOj5PcnpouEgny,Burna Boy; Justin Bieber; Khalid
+clique,934,,3,3,1.0,0,7,1OY0QiDvR2Un8QCpKxcEnY;33TgIiGChzBabJZCjl3AUT;0TnOYISbd1XYRBk9myaseg,Cubo; Picallo; Pitbull
+clique,936,,3,3,1.0,0,7,4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;33ScadVnbm2X8kkUqOkC6Z,Bad Bunny; Daddy Yankee; Don Omar
+clique,940,,3,3,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;6LB6kuJjrGvRzAkH6ddeWt;085pc2PYOi8bGKj0PNjekA,David Guetta; apl.de.ap; will.i.am
+clique,943,,3,3,1.0,0,7,66CXWjxzNUsdJxJ2JdwvnR;5MmVJVhhYKQ86izuGHzJYA;2RdwBSPQiwcmiDo9kixcl8,Ariana Grande; MIKA; Pharrell Williams
+clique,946,,3,3,1.0,0,7,5Eqq5ePFgYSyL6oskZwYpM;3AuMNF8rQAKOzjYppFNAoB;0TnOYISbd1XYRBk9myaseg,Jamie Drastik; Kelly Rowland; Pitbull
+clique,953,,3,3,1.0,0,7,0z4gvV4rjIZ9wHck67ucSV;3fMbdgg4jU18AjLCKBhRSm;0TnOYISbd1XYRBk9myaseg,Akon; Michael Jackson; Pitbull
+clique,956,,3,3,1.0,0,7,0z4gvV4rjIZ9wHck67ucSV;5IqWDVLGThjmkm22e3oBU3;0TnOYISbd1XYRBk9myaseg,Akon; David Rush; Pitbull
+clique,960,,3,3,1.0,0,7,4VMYDCV2IEDYJArk749S6m;2w9zwq3AktTeYYMuhMjju8;0TnOYISbd1XYRBk9myaseg,Daddy Yankee; INNA; Pitbull
+clique,967,,3,3,1.0,0,7,0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;3mH3OBKopDDVgnJcT5PrPk,Flo Rida; Pitbull; Redfoo
+clique,1011,,3,3,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;77AiFEVeAVj2ORpC85QVJs;2vVNxGBvKRQMWwI5c8KmYh,David Guetta; Steve Aoki; Tujamo
+clique,1025,,3,3,1.0,0,7,4jWGfUCFeTu5e0wprRhHXR;55Aa2cqylxrFIXC767Z865;1XSHcM66IcuyqOVpKbqElb,Big Tymers; Lil Wayne; Official
+clique,1026,,3,3,1.0,0,7,4jWGfUCFeTu5e0wprRhHXR;55Aa2cqylxrFIXC767Z865;5a6nqHiBS9v3CxYOs7ttET,Big Tymers; Lil Wayne; TQ
+clique,1040,,3,3,1.0,0,7,4j5KBTO4tk7up54ZirNGvK;77AiFEVeAVj2ORpC85QVJs;17esEoE9uEHFKuzkar2UL0,NERVO; Steve Aoki; Tony Junior
+clique,1043,,3,3,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;0fA0VVWsXO9YnASrzqfmYu;77AiFEVeAVj2ORpC85QVJs,David Guetta; Kid Cudi; Steve Aoki
+clique,1058,,3,3,1.0,0,7,3nFkdlSjzX9mRTtwJOzDYB;6XyY86QOPPrYVGvF9ch6wz;3PyWEKLWI0vHPmoNrIX0QE,JAŸ-Z; Linkin Park; Rakim
+clique,1076,,3,3,1.0,0,7,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;085pc2PYOi8bGKj0PNjekA,Black Eyed Peas; David Guetta; will.i.am
+clique,1077,,3,3,1.0,0,7,1yxSLGMDHlW21z4YXirZDS;31TPClRtHm23RisEBtV3X7;085pc2PYOi8bGKj0PNjekA,Black Eyed Peas; Justin Timberlake; will.i.am
+clique,1088,,3,3,1.0,0,7,5pnbUBPifNnlusY8kTBivi;4iHNK0tOyZPYnBU7nGAgpQ;2x8KDZdSONA3872CnhaAlX,Jadakiss; Mariah Carey; Styles P
+clique,1141,,3,3,1.0,0,7,6DPYiyq5kWVQS4RGwxzPC7;1F5zdoXcwIB9XSNfitdo7x;7hJcb9fa4alzcOq3EaNPoG,Dr. Dre; Jon Connor; Snoop Dogg
+clique,1147,,3,3,1.0,0,7,336vr2M3Va0FjyvB55lJEd;6DPYiyq5kWVQS4RGwxzPC7;7hJcb9fa4alzcOq3EaNPoG,D'Angelo; Dr. Dre; Snoop Dogg
+clique,1168,,3,3,1.0,0,7,2gBjLmx6zQnFGQJCAQpRgw;2RdwBSPQiwcmiDo9kixcl8;7hJcb9fa4alzcOq3EaNPoG,Nelly; Pharrell Williams; Snoop Dogg
+clique,1169,,3,3,1.0,0,7,4yiQZ8tQPux8cPriYMWUFP;2RdwBSPQiwcmiDo9kixcl8;7hJcb9fa4alzcOq3EaNPoG,Gwen Stefani; Pharrell Williams; Snoop Dogg
+clique,1170,,3,3,1.0,0,7,05oH07COxkXKIMt6mIPRee;2RdwBSPQiwcmiDo9kixcl8;7hJcb9fa4alzcOq3EaNPoG,Brandy; Pharrell Williams; Snoop Dogg
+clique,1173,,3,3,1.0,0,7,2RdwBSPQiwcmiDo9kixcl8;7EEiVZvj6RCEtVX2F2pyxu;7hJcb9fa4alzcOq3EaNPoG,Pharrell Williams; Slim Jxmmi; Snoop Dogg
+clique,1181,,3,3,1.0,0,7,3ipn9JLAPI5GUEo4y4jcoi;7hJcb9fa4alzcOq3EaNPoG;3aQeKQSyrW4qWr35idm0cy,Ludacris; Snoop Dogg; T-Pain
+clique,1185,,3,3,1.0,0,7,3AA28KZvwAUcZuOKwyblJQ;5obQFNrkFoWB51hm1JTHMw;7hJcb9fa4alzcOq3EaNPoG,Gorillaz; Jamie Principle; Snoop Dogg
+clique,1191,,3,3,1.0,0,7,5gCRApTajqwbnHHPbr2Fpi;6jJ0s89eD6GaHleKKya26X;7hJcb9fa4alzcOq3EaNPoG,Juicy J; Katy Perry; Snoop Dogg
+clique,1217,,3,3,1.0,0,7,1QkusyyiLCVP97x3TADKV9;55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG,Jazze Pha; Lil Wayne; Snoop Dogg
+clique,1220,,3,3,1.0,0,7,3q7HBObVc0L8jNeTe5Gofh;0z4gvV4rjIZ9wHck67ucSV;7hJcb9fa4alzcOq3EaNPoG,50 Cent; Akon; Snoop Dogg
+clique,1224,,3,3,1.0,0,7,1ykdy4jtPLFOuaJrZqHTbp;0P8gFUTmPZPaLWNHfEBKwc;7hJcb9fa4alzcOq3EaNPoG,Bad Azz; Big Tray Deee; Snoop Dogg
+clique,1247,,3,3,1.0,0,7,7sfl4Xt5KmfyDs2T3SVSMK;2mxe0TnaNL039ysAj51xPQ;7hJcb9fa4alzcOq3EaNPoG,Lil Jon; R. Kelly; Snoop Dogg
+clique,1265,,3,3,1.0,0,7,7hJcb9fa4alzcOq3EaNPoG;7oTqay5HYPVK9ga3qDQlgF;2B4ZHz4QDWJTXPFPgO5peE,Snoop Dogg; T-Fly; Warren G
+clique,1271,,3,3,1.0,0,7,7hJcb9fa4alzcOq3EaNPoG;2cADQgiLMjNhbsfeN52Bf3;2iojnBLj0qIMiKPvVhLnsH,Snoop Dogg; Swizz Beatz; Trey Songz
+clique,1282,,3,3,1.0,0,7,4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;0eHQ9o50hj6ZDNBt6Ys1sD,Bad Bunny; Daddy Yankee; Yandel
+clique,1283,,3,3,1.0,0,7,4q3ewBCX7sLwd24euuV69X;4VMYDCV2IEDYJArk749S6m;0Y30TbA4p8SAfCzy2AFBa8,Bad Bunny; Daddy Yankee; Yaviah
+clique,1295,,3,3,1.0,0,7,1Cs0zKBU1kc0i8ypK3B9ai;1uNFoZAHBGtllmzznpCI3s;19HFRWmRCl27kTk6LeqAO8,David Guetta; Justin Bieber; MORTEN
+clique,1296,,3,3,1.0,0,7,15GGbJKqC6w0VYyAJtjej6;6nfYGe7IIuuP5bMY1jkJP6;4iHNK0tOyZPYnBU7nGAgpQ,Fatman Scoop; Jermaine Dupri; Mariah Carey
+clique,8,,3,3,1.0,0,6,2WX2uTcsvV5OnS0inACecP;1Cs0zKBU1kc0i8ypK3B9ai;6QrQ7OrISRYIfS5mtacaw2,Birdy; David Guetta; Jaymes Young
+clique,13,,3,3,1.0,0,6,1Cs0zKBU1kc0i8ypK3B9ai;4ScCswdRlyA23odg9thgIO;2ExGrw6XpbtUAJHTLtUXUD,David Guetta; Jess Glynne; Stefflon Don
+clique,44,,3,3,1.0,0,6,6tbjWDEIzxoDsBA1FuhfPW;2BGMjDCR7kV5NXNIwQNPv1;1BRGkLF7zR2lWrsFWfuvgv,Madonna; Michael Barbiero; Steve Thompson
+clique,51,,3,3,1.0,0,6,37GUqxafAvAKGMZbXCUnmr;0TnOYISbd1XYRBk9myaseg;3E6xrwgnVfYCrCs0ePERDz,Mohombi; Pitbull; Wisin
+clique,83,,3,3,1.0,0,6,3QJzdZJYIAcoET1GcfpNGi;7sfl4Xt5KmfyDs2T3SVSMK;0CIwCGmQMqHqiblnZlFia1,Damian Marley; Lil Jon; Stephen Marley
+clique,124,,3,3,1.0,0,6,7cYEt1pqMgXJdq00hAwVpT;4lpKeKXJYkglSWyEmnOF7O;5ZD5SEaKtPcA27WyUOwcxS,Chase Atlantic; DE'WAYNE; Xavier Mayne
+clique,216,,3,3,1.0,0,6,4u5smJBskI6Adzv08PuiUP;6XyY86QOPPrYVGvF9ch6wz;77AiFEVeAVj2ORpC85QVJs,Kiiara; Linkin Park; Steve Aoki
+clique,249,,3,3,1.0,0,6,4O15NlyKLIASxsJ0PrXPfz;55Aa2cqylxrFIXC767Z865;4V8LLVI7PbaPR0K2TGSxFF,"Lil Uzi Vert; Lil Wayne; Tyler, The Creator"
+clique,277,,3,3,1.0,0,6,3Nrfpe0tUJi4K4DXYWgMUX;26VFTg2z8YR0cCuwLzESi2;0ebNdVaOfp6N0oZ1guIxM8,BTS; Halsey; SUGA
+clique,283,,3,3,1.0,0,6,0gOlGdYlQ1Z0tacM4v6Bc7;3Z9p6RyeV3BQbBEtKSvcnk;77AiFEVeAVj2ORpC85QVJs,Blaqstarr; Kay; Steve Aoki
+clique,289,,3,3,1.0,0,6,3AA28KZvwAUcZuOKwyblJQ;7zQmORVNaWz1cW1KJB2cTX;62bYKAZ5EdmG5Aca9dtVan,Gorillaz; Mick Jones; Paul Simonon
+clique,345,,3,3,1.0,0,6,5yy76ufVriyvidNSvXlRU1;1uNFoZAHBGtllmzznpCI3s;246dkjvS1zLTtiykXe5h60,Clever; Justin Bieber; Post Malone
+clique,347,,3,3,1.0,0,6,6XyY86QOPPrYVGvF9ch6wz;7dGfoIWAb0h9eGpl3vEkVo;3W9SDpMLYOSVYn5zIqr90j,Linkin Park; Planet Asia; Rasco
+clique,350,,3,3,1.0,0,6,6F3EsjY0PgMI4SXkQWXF3y;0IbD9X6mgxyaIKT3aqzioT;77AiFEVeAVj2ORpC85QVJs,Albin Myers; Harrison; Steve Aoki
+clique,381,,3,3,1.0,0,6,1uNFoZAHBGtllmzznpCI3s;3ipn9JLAPI5GUEo4y4jcoi;5YGY8feqx7naU7z4HrwZM6,Justin Bieber; Ludacris; Miley Cyrus
+clique,398,,3,3,1.0,0,6,5spEJXLwD1sKUdC2bnOHPg;5me0Irg2ANcsgc93uaYrpb;6vbY3hOaCAhC7VjucswgdS,Bone Thugs-N-Harmony; The Notorious B.I.G.; Twista
+clique,406,,3,3,1.0,0,6,1yxSLGMDHlW21z4YXirZDS;0EmeFodog0BfCgMzAIvKQp;7aBzpmFXB4WWpPl2F7RjBe,Black Eyed Peas; Shakira; Wyclef Jean
+clique,409,,3,3,1.0,0,6,1yxSLGMDHlW21z4YXirZDS;1r4hJ1h58CWwUQe3MxPuau;0EmeFodog0BfCgMzAIvKQp,Black Eyed Peas; Maluma; Shakira
+clique,410,,3,3,1.0,0,6,1yxSLGMDHlW21z4YXirZDS;1SupJlEpv7RS2tPNRaHViT;0EmeFodog0BfCgMzAIvKQp,Black Eyed Peas; Nicky Jam; Shakira
+clique,411,,3,3,1.0,0,6,1UTPBmNbXNTittyMJrNkvw;0TnOYISbd1XYRBk9myaseg;0EmeFodog0BfCgMzAIvKQp,Blake Shelton; Pitbull; Shakira
+clique,416,,3,3,1.0,0,6,1Cs0zKBU1kc0i8ypK3B9ai;5pKCCKE2ajJHZ9KAiaK11H;0EmeFodog0BfCgMzAIvKQp,David Guetta; Rihanna; Shakira
+clique,437,,3,3,1.0,0,6,7sfl4Xt5KmfyDs2T3SVSMK;6dROiL44pIQZVNZ6Bc0OJO;1bvReCm3S1egf4ikOggDM4,Lil Jon; Pleasure P; Shawty Putt
+clique,505,,3,3,1.0,0,6,0TnOYISbd1XYRBk9myaseg;6GI52t8N5F02MxU0g5U69P;3Isy6kedDrgPYoTS1dazA9,Pitbull; Santana; Sean Paul
+clique,513,,3,3,1.0,0,6,4obzFoKoKRHIphyHzJ35G3;0TnOYISbd1XYRBk9myaseg;3Isy6kedDrgPYoTS1dazA9,Becky G; Pitbull; Sean Paul
+clique,540,,3,3,1.0,0,6,5vQfv3s2Z2SRdPZKr82ABw;77AiFEVeAVj2ORpC85QVJs;7e1BNCygl2Gf7CX8LrByPv,Dzeko; Steve Aoki; Ummet Ozcan
+clique,549,,3,3,1.0,0,6,59wfkuBoNyhDMQGCljbUbA;3nFkdlSjzX9mRTtwJOzDYB;23zg3TcAtWQy7J6upgbUnj,Diddy; JAŸ-Z; USHER
+clique,555,,3,3,1.0,0,6,3nFkdlSjzX9mRTtwJOzDYB;0CliOhi161ZCRIVw60prp0;23zg3TcAtWQy7J6upgbUnj,JAŸ-Z; Luke Steele; USHER
+clique,596,,3,3,1.0,0,6,0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;2eQMfQXKQGV98HKiCOB7en,Flo Rida; Pitbull; Yomil y El Dany
+clique,603,,3,3,1.0,0,6,29QbBR0oTzA7A0kiOzrbbr;77AiFEVeAVj2ORpC85QVJs;4bL2B6hmLlMWnUEZnorEtG,Jamie Scott; Steve Aoki; felix jaehn
+clique,662,,3,3,1.0,0,6,5K4W6rqBFWDnAN6FQUkS6x;3aQeKQSyrW4qWr35idm0cy;6vbY3hOaCAhC7VjucswgdS,Kanye West; T-Pain; Twista
+clique,702,,3,3,1.0,0,6,3wcj11K77LjEY1PkEazffa;1uNFoZAHBGtllmzznpCI3s;0cGUm45nv7Z6M6qdXYQGTX,Burna Boy; Justin Bieber; Kehlani
+clique,709,,3,3,1.0,0,6,1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;4nmrm4zpgJ0RC6aZRSUEjF,David Guetta; Flo Rida; Wynter Gordon
+clique,720,,3,3,1.0,0,6,7sfl4Xt5KmfyDs2T3SVSMK;3D04N2X2w6vUGeyG94FBaY;6f4XkbvYlXMH0QgVRzW0sM,Lil Jon; Pastor Troy; Waka Flocka Flame
+clique,744,,3,3,1.0,0,6,1Z8ODXyhEBi3WynYw0Rya6;3AA28KZvwAUcZuOKwyblJQ;0Qpk1IGiZeB6rRhfK4FVDT,De La Soul; Gorillaz; Kelvin Mercer
+clique,746,,3,3,1.0,0,6,4HgF4KnohByNElYid7iCNb;2zJoKYyLmhvsq3ORbXE7xF;55Aa2cqylxrFIXC767Z865,Bobby V.; Kidd Kidd; Lil Wayne
+clique,764,,3,3,1.0,0,6,6pMR8Zgot664613rAiLC2Z;7pFeBzX627ff0VnN6bxPR4;77AiFEVeAVj2ORpC85QVJs,AGNEZ MO; Desiigner; Steve Aoki
+clique,768,,3,3,1.0,0,6,0YWxKQj2Go9CGHCp77UOyy;6Uh8uJyN9g7oFjDK16nJgb;55Aa2cqylxrFIXC767Z865,Fabolous; Juelz Santana; Lil Wayne
+clique,798,,3,3,1.0,0,6,5rkVyNGXEgeUqKkB5ccK83;55Aa2cqylxrFIXC767Z865;18AOdS1Qw4XXnQSiPJQr1B,Ashanti; Lil Wayne; Mack Maine
+clique,829,,3,3,1.0,0,6,6wMr4zKPrrR0UVz08WtUWc;1Cs0zKBU1kc0i8ypK3B9ai;3WtrH1zNpzoPSz6XpwCh6y,Black Coffee; David Guetta; Delilah Montagu
+clique,833,,3,3,1.0,0,6,37GUqxafAvAKGMZbXCUnmr;3e4xwkRUZyECVrJAp1YYx1;0TnOYISbd1XYRBk9myaseg,Mohombi; PLAYB4CK; Pitbull
+clique,839,,3,3,1.0,0,6,79OSA519ScnPY0MVDpu8ZV;2gBjLmx6zQnFGQJCAQpRgw;0TnOYISbd1XYRBk9myaseg,Avery Storm; Nelly; Pitbull
+clique,847,,3,3,1.0,0,6,3ScY9CQxNLQei8Umvpx5g6;55Aa2cqylxrFIXC767Z865;5me0Irg2ANcsgc93uaYrpb,Fat Joe; Lil Wayne; The Notorious B.I.G.
+clique,853,,3,3,1.0,0,6,3AA28KZvwAUcZuOKwyblJQ;5obQFNrkFoWB51hm1JTHMw;5Tz4zMiRWqiQVAymWZz99a,Gorillaz; Jamie Principle; Zebra Katz
+clique,890,,3,3,1.0,0,6,2NdeV5rLm47xAvogXrYhJX;31TPClRtHm23RisEBtV3X7;2wIVse2owClT7go1WT98tk,Ciara; Justin Timberlake; Missy Elliott
+clique,891,,3,3,1.0,0,6,3q7HBObVc0L8jNeTe5Gofh;2NdeV5rLm47xAvogXrYhJX;31TPClRtHm23RisEBtV3X7,50 Cent; Ciara; Justin Timberlake
+clique,902,,3,3,1.0,0,6,7vk5e3vY1uw9plTHJAMwjN;3J0BpFVUc9LeOIVeN5uNhU;77AiFEVeAVj2ORpC85QVJs,Alan Walker; Lauren Jauregui; Steve Aoki
+clique,905,,3,3,1.0,0,6,25uiPmTg16RbhZWAqwLBy5;5yG7ZAZafVaAlMTeBybKAL;0bdfiayQAKewqEvaU6rXCv,Charli xcx; Iggy Azalea; MØ
+clique,932,,3,3,1.0,0,6,1ZJlXFkFDBsjSuYyjVcMkk;6XyY86QOPPrYVGvF9ch6wz;0eVyjRhzZKke2KFYTcDkeu,Chali 2na; Linkin Park; The Alchemist
+clique,935,,3,3,1.0,0,6,4VMYDCV2IEDYJArk749S6m;33ScadVnbm2X8kkUqOkC6Z;0TnOYISbd1XYRBk9myaseg,Daddy Yankee; Don Omar; Pitbull
+clique,947,,3,3,1.0,0,6,45a6gCQWq61lIUDmr1tKuO;6rIpz1Y68W7V5LxMCf1HSJ;0TnOYISbd1XYRBk9myaseg,Bun B; Cubo; Pitbull
+clique,969,,3,3,1.0,0,6,0TnOYISbd1XYRBk9myaseg;4PrinKSrmILmo0kERG0Ogn;5g9Z4rvzvFBAPvKbesIBTS,Pitbull; Trina; Young Bo
+clique,986,,3,3,1.0,0,6,1zNqDE7qDGCsyzJwohVaoX;1Cs0zKBU1kc0i8ypK3B9ai;3sDjg9FU6R1Lpvx2fhe3vo,Anne-Marie; David Guetta; Olivier Heldens
+clique,990,,3,3,1.0,0,6,5pflJc47McwW2cNXOKCtSi;07YZf4WDAMNwqr4jfgOZ8y;3e7awlrlDSwF3iM0WBjGMp,7th Heaven; Jason Derulo; Little Mix
+clique,994,,3,3,1.0,0,6,1zNqDE7qDGCsyzJwohVaoX;1Cs0zKBU1kc0i8ypK3B9ai;6cEuCEZu7PAE9ZSzLLc2oQ,Anne-Marie; David Guetta; R3HAB
+clique,995,,3,3,1.0,0,6,2Jwr7hGoSNK3S3QBxh3T0z;3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ,Freeway; JAŸ-Z; Mariah Carey
+clique,998,,3,3,1.0,0,6,4bU685oayr3KvaP4qdoYdu;2KsP6tYLJlTBvSUxnwlVWa;77AiFEVeAVj2ORpC85QVJs,Franklin; Mike Posner; Steve Aoki
+clique,999,,3,3,1.0,0,6,7CaUk9xCxdXAmmqQn3PLR7;6glaZ3qSwdXqln8g8JpYzr;6XyY86QOPPrYVGvF9ch6wz,Aceyalone; Chairman Hahn; Linkin Park
+clique,1012,,3,3,1.0,0,6,1Cs0zKBU1kc0i8ypK3B9ai;1uNFoZAHBGtllmzznpCI3s;2vVNxGBvKRQMWwI5c8KmYh,David Guetta; Justin Bieber; Tujamo
+clique,1013,,3,3,1.0,0,6,1Cs0zKBU1kc0i8ypK3B9ai;5ChF3i92IPZHduM7jN3dpg;77AiFEVeAVj2ORpC85QVJs,David Guetta; Nicky Romero; Steve Aoki
+clique,1016,,3,3,1.0,0,6,2R21vXR83lH98kGeO99Y66;790FomKkXshlbRYZFtlgla;1i8SpTcr7yvPOmcqrbnVXY,Anuel AA; KAROL G; Ozuna
+clique,1028,,3,3,1.0,0,6,28y6CyJNkGNjJQKrlx4AmN;1V3VTM7VspiQjcmRhC010n;77AiFEVeAVj2ORpC85QVJs,HRVY; Quintino; Steve Aoki
+clique,1033,,3,3,1.0,0,6,4IVAbR2w4JJNJDDRFP3E83;3PhoLpVuITZKcymswpck5b;3AA28KZvwAUcZuOKwyblJQ,6LACK; Elton John; Gorillaz
+clique,1046,,3,3,1.0,0,6,3aQeKQSyrW4qWr35idm0cy;12FHARd9fY0Tu0ila4Ua25;2OqENqJFXPORP4BUGnu2Qq,T-Pain; Trick Daddy; Youngbloodz
+clique,1071,,3,3,1.0,0,6,7sfl4Xt5KmfyDs2T3SVSMK;20s0P9QLxGqKuCsGwFsp7w;2mxe0TnaNL039ysAj51xPQ,Lil Jon; Mario; R. Kelly
+clique,1086,,3,3,1.0,0,6,5ndkK3dpZLKtBklKjxNQwT;0du5cEVh5yTK9QJze8zA0C;5nLYd9ST4Cnwy6NHaCxbj8,B.o.B; Bruno Mars; CeeLo Green
+clique,1087,,3,3,1.0,0,6,5pnbUBPifNnlusY8kTBivi;55Aa2cqylxrFIXC767Z865;5me0Irg2ANcsgc93uaYrpb,Jadakiss; Lil Wayne; The Notorious B.I.G.
+clique,1103,,3,3,1.0,0,6,2GVBp7QyHckoOg7rYkLvrA;2YZyLoL8N0Wb9xBt1NhZWg;7hJcb9fa4alzcOq3EaNPoG,George Clinton; Kendrick Lamar; Snoop Dogg
+clique,1112,,3,3,1.0,0,6,6jJ0s89eD6GaHleKKya26X;7gjAu1qr5C2grXeQFFOGeh;7hJcb9fa4alzcOq3EaNPoG,Katy Perry; Passion Pit; Snoop Dogg
+clique,1129,,3,3,1.0,0,6,0OMJR0LjjKv21qNvICTgbi;3R51QqTQXScfTt9BzBsdc3;7hJcb9fa4alzcOq3EaNPoG,Devin The Dude; J Black; Snoop Dogg
+clique,1153,,3,3,1.0,0,6,3q7HBObVc0L8jNeTe5Gofh;7LnaAXbDVIL75IVPnndf7w;7hJcb9fa4alzcOq3EaNPoG,50 Cent; Jamie Foxx; Snoop Dogg
+clique,1166,,3,3,1.0,0,6,2wgW0CiQRwbWlkT6nM8suD;7hJcb9fa4alzcOq3EaNPoG;3kortApcf0ntRWexUkJE4H,JANE HANDCOCK; Snoop Dogg; Uncle Murda
+clique,1192,,3,3,1.0,0,6,5K4W6rqBFWDnAN6FQUkS6x;6jJ0s89eD6GaHleKKya26X;7hJcb9fa4alzcOq3EaNPoG,Kanye West; Katy Perry; Snoop Dogg
+clique,1206,,3,3,1.0,0,6,55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;4PrinKSrmILmo0kERG0Ogn,Lil Wayne; Snoop Dogg; Trina
+clique,1218,,3,3,1.0,0,6,3q7HBObVc0L8jNeTe5Gofh;7hJcb9fa4alzcOq3EaNPoG;2iojnBLj0qIMiKPvVhLnsH,50 Cent; Snoop Dogg; Trey Songz
+clique,1240,,3,3,1.0,0,6,74Ux2ec8OC0BiU4tB0ekCO;5NDMothbpdpq2xHqSjrrWn;7hJcb9fa4alzcOq3EaNPoG,3rd Generation (Bereal Family); Faith Evans; Snoop Dogg
+clique,1268,,3,3,1.0,0,6,5K0rbdBrs2tNXe5LeWMATT;0du5cEVh5yTK9QJze8zA0C;7hJcb9fa4alzcOq3EaNPoG,Bootsy Collins; Bruno Mars; Snoop Dogg
+clique,1278,,3,3,1.0,0,6,7sfl4Xt5KmfyDs2T3SVSMK;7hJcb9fa4alzcOq3EaNPoG;6GMYJwaziB4ekv1Y6wCDWS,Lil Jon; Snoop Dogg; Soulja Boy
+clique,1279,,3,3,1.0,0,6,2YZyLoL8N0Wb9xBt1NhZWg;4XqfpACObRB5AsBcUYjL8X;7hJcb9fa4alzcOq3EaNPoG,Kendrick Lamar; MC Eiht; Snoop Dogg
+clique,1294,,3,3,1.0,0,6,1Cs0zKBU1kc0i8ypK3B9ai;7sfgqEdoeBTjd8lQsPT3Cy;19HFRWmRCl27kTk6LeqAO8,David Guetta; Emeli Sandé; MORTEN
+clique,1309,,3,3,1.0,0,6,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;5y2Xq6xcjJb2jVM54GHK3t,Black Eyed Peas; David Guetta; John Legend
+clique,6,,3,3,1.0,0,5,7hEDdJUgflzNOt4ow0OnuC;3e7awlrlDSwF3iM0WBjGMp;6pV9gqDE15Bk5hisXbKQgw,Lee Dagger; Little Mix; Marc JB
+clique,19,,3,3,1.0,0,5,21E3waRsmPlU7jZsS13rcj;3aQeKQSyrW4qWr35idm0cy;1vO09P1PoNihKZZXzmPYb9,Ne-Yo; T-Pain; The BakaBoyz
+clique,57,,3,3,1.0,0,5,6XyY86QOPPrYVGvF9ch6wz;0ONHkAv9pCAFxb0zJwDNTy;2SrSdSvpminqmStGELCSNd,Linkin Park; Pusha T; Stormzy
+clique,65,,3,3,1.0,0,5,4r63FhuTkUYltbVAg5TQnk;6M2wZ9GZgrQXHCFfjv46we;181bsRPaVXVlUKXrxwZfHK,DaBaby; Dua Lipa; Megan Thee Stallion
+clique,75,,3,3,1.0,0,5,66CXWjxzNUsdJxJ2JdwvnR;0c173mlxpT3dSFRgMO8XPh;181bsRPaVXVlUKXrxwZfHK,Ariana Grande; Big Sean; Megan Thee Stallion
+clique,131,,3,3,1.0,0,5,0st5vgzw9XkH5ALJiUM1lE;4OBJLual30L7gRl5UkeRcT;5me0Irg2ANcsgc93uaYrpb,Slim Thug; T.I.; The Notorious B.I.G.
+clique,156,,3,3,1.0,0,5,1RyvyyTE3xzB2ZywiAwp0i;0QJIPDAEDILuo8AIq3pMuU;0hCNtLu0JehylgoiP8L4Gh,Future; M.I.A.; Nicki Minaj
+clique,169,,3,3,1.0,0,5,2iUbk5KhZYZt4CRvWbwb7S;04gDigrS5kc9YWfZHwBETP;0hCNtLu0JehylgoiP8L4Gh,LunchMoney Lewis; Maroon 5; Nicki Minaj
+clique,170,,3,3,1.0,0,5,5K4W6rqBFWDnAN6FQUkS6x;6jJ0s89eD6GaHleKKya26X;0hCNtLu0JehylgoiP8L4Gh,Kanye West; Katy Perry; Nicki Minaj
+clique,206,,3,3,1.0,0,5,13y7CgLHjMVRMDqxdx0Xdo;0hCNtLu0JehylgoiP8L4Gh;0T5OJgMVjKIX3b3W3ekqOl,Gucci Mane; Nicki Minaj; Rocko
+clique,207,,3,3,1.0,0,5,0jnsk9HBra6NMjO2oANoPY;2iUbk5KhZYZt4CRvWbwb7S;0hCNtLu0JehylgoiP8L4Gh,Flo Rida; LunchMoney Lewis; Nicki Minaj
+clique,233,,3,3,1.0,0,5,1382YT9VvGN6Pxu5PabehZ;1YfEcTuGvBQ8xSD1f53UnK;55Aa2cqylxrFIXC767Z865,Brisco; Busta Rhymes; Lil Wayne
+clique,237,,3,3,1.0,0,5,0jnsk9HBra6NMjO2oANoPY;55Aa2cqylxrFIXC767Z865;0ZrpamOxcZybMHGg1AYtHP,Flo Rida; Lil Wayne; Robin Thicke
+clique,238,,3,3,1.0,0,5,0jnsk9HBra6NMjO2oANoPY;0TnOYISbd1XYRBk9myaseg;0ZrpamOxcZybMHGg1AYtHP,Flo Rida; Pitbull; Robin Thicke
+clique,243,,3,3,1.0,0,5,3AA28KZvwAUcZuOKwyblJQ;50nN8IFD4xA67fI4jYbLV4;3MaROzfiW2saBdT9SpihPG,Gorillaz; Kano; Roxani Arias
+clique,267,,3,3,1.0,0,5,50L4k6UGxXZ1h5CzoK9Gqk;0BhQCAekKIHPpdlgg6hPLX;4V8LLVI7PbaPR0K2TGSxFF,"Jasper Dolphin; Taco; Tyler, The Creator"
+clique,279,,3,3,1.0,0,5,6USv9qhCn6zfxlBQIYJ9qs;26VFTg2z8YR0cCuwLzESi2;1uNFoZAHBGtllmzznpCI3s,Dominic Fike; Halsey; Justin Bieber
+clique,331,,3,3,1.0,0,5,6DPYiyq5kWVQS4RGwxzPC7;0zCyco6JHJv7zKHbyMmsut;6gK3bndCAouC1G7dKVqKBy,Dr. Dre; King Tee; R.C.
+clique,333,,3,3,1.0,0,5,64M6ah0SkkRsnPGtGiRAbb;0TnOYISbd1XYRBk9myaseg;1sBkRIssrMs1AbVkOJbc7a,Bebe Rexha; Pitbull; Rick Ross
+clique,341,,3,3,1.0,0,5,64M6ah0SkkRsnPGtGiRAbb;4kYSro6naA4h99UJvo89HB;1vyhD5VmyZ7KMfW5gqLgo5,Bebe Rexha; Cardi B; J Balvin
+clique,346,,3,3,1.0,0,5,3AA28KZvwAUcZuOKwyblJQ;7lsnwlX6puQ7lcpSEpJbZE;5Tz4zMiRWqiQVAymWZz99a,Gorillaz; Kilo Kish; Zebra Katz
+clique,413,,3,3,1.0,0,5,0TnOYISbd1XYRBk9myaseg;3MHaV05u0io8fQbZ2XPtlC;0EmeFodog0BfCgMzAIvKQp,Pitbull; Prince Royce; Shakira
+clique,423,,3,3,1.0,0,5,4TnGh5PKbSjpYqpIdlW5nz;1V3VTM7VspiQjcmRhC010n;77AiFEVeAVj2ORpC85QVJs,MONSTA X; Quintino; Steve Aoki
+clique,424,,3,3,1.0,0,5,28y6CyJNkGNjJQKrlx4AmN;1nf5yEVCfMbqm1OCYpntBT;77AiFEVeAVj2ORpC85QVJs,HRVY; Prince Fox; Steve Aoki
+clique,459,,3,3,1.0,0,5,7hEDdJUgflzNOt4ow0OnuC;3e7awlrlDSwF3iM0WBjGMp;3IoIRHbV0weqdZmN6ewOtH,Lee Dagger; Little Mix; Marc Jackson Burrows
+clique,503,,3,3,1.0,0,5,5pKCCKE2ajJHZ9KAiaK11H;3Isy6kedDrgPYoTS1dazA9;2fLCjXwadBsnYmn05uxFpi,Rihanna; Sean Paul; Wideboys
+clique,510,,3,3,1.0,0,5,1Cs0zKBU1kc0i8ypK3B9ai;5pKCCKE2ajJHZ9KAiaK11H;3Isy6kedDrgPYoTS1dazA9,David Guetta; Rihanna; Sean Paul
+clique,524,,3,3,1.0,0,5,2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865;0Y5tJX1MQlPlqiwlOH1tJY,Kendrick Lamar; Lil Wayne; Travis Scott
+clique,527,,3,3,1.0,0,5,246dkjvS1zLTtiykXe5h60;7tYKF4w9nC0nq9CsPZTHyP;0Y5tJX1MQlPlqiwlOH1tJY,Post Malone; SZA; Travis Scott
+clique,541,,3,3,1.0,0,5,2YZyLoL8N0Wb9xBt1NhZWg;55Aa2cqylxrFIXC767Z865;2WoVwexZuODvclzULjPQtm,Kendrick Lamar; Lil Wayne; Sampha
+clique,586,,3,3,1.0,0,5,0cGUm45nv7Z6M6qdXYQGTX;246dkjvS1zLTtiykXe5h60;7c0XG5cIJTrrAgEC3ULPiq,Kehlani; Post Malone; Ty Dolla $ign
+clique,591,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;4V8Sr092TqfHkfAA5fXXqG;1mcTU81TzQhprhouKaTkpq,Daddy Yankee; Luis Fonsi; Rauw Alejandro
+clique,615,,3,3,1.0,0,5,5gCRApTajqwbnHHPbr2Fpi;55Aa2cqylxrFIXC767Z865;1Xyo4u8uXC1ZmMpatF05PJ,Juicy J; Lil Wayne; The Weeknd
+clique,632,,3,3,1.0,0,5,2DlGxzQSjYe5N6G9nkYghR;55Aa2cqylxrFIXC767Z865;20qISvAhX20dpIbOOzGK3q,Jennifer Lopez; Lil Wayne; Nas
+clique,663,,3,3,1.0,0,5,3nFkdlSjzX9mRTtwJOzDYB;4iHNK0tOyZPYnBU7nGAgpQ;6vbY3hOaCAhC7VjucswgdS,JAŸ-Z; Mariah Carey; Twista
+clique,678,,3,3,1.0,0,5,07YZf4WDAMNwqr4jfgOZ8y;3e7awlrlDSwF3iM0WBjGMp;2fLCjXwadBsnYmn05uxFpi,Jason Derulo; Little Mix; Wideboys
+clique,688,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;4V8Sr092TqfHkfAA5fXXqG;7iK8PXO48WeuP03g8YR51W,Daddy Yankee; Luis Fonsi; Myke Towers
+clique,690,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;1uNFoZAHBGtllmzznpCI3s;4V8Sr092TqfHkfAA5fXXqG,Daddy Yankee; Justin Bieber; Luis Fonsi
+clique,707,,3,3,1.0,0,5,25uiPmTg16RbhZWAqwLBy5;3Xt3RrJMFv5SZkCfUE8C1J;44XzG6GoJZNtkIGW19hsUK,Charli xcx; Kim Petras; Tommy Cash
+clique,713,,3,3,1.0,0,5,0BmLNz4nSLfoWYW1cYsElL;4VMYDCV2IEDYJArk749S6m;2w9zwq3AktTeYYMuhMjju8,Alexandra Stan; Daddy Yankee; INNA
+clique,718,,3,3,1.0,0,5,5cj0lLjcoR7YOSnhnX0Po5;246dkjvS1zLTtiykXe5h60;7tYKF4w9nC0nq9CsPZTHyP,Doja Cat; Post Malone; SZA
+clique,741,,3,3,1.0,0,5,6icQOAFXDZKsumw3YXyusw;6oMuImdp5ZcFhWP0ESe6mG;77AiFEVeAVj2ORpC85QVJs,Lil Yachty; Migos; Steve Aoki
+clique,749,,3,3,1.0,0,5,5X4LWwbUFNzPkEas04uU82;57WHJIHrjOE3iAxpihhMnp;77AiFEVeAVj2ORpC85QVJs,DVBBS; Louis Tomlinson; Steve Aoki
+clique,753,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;40xbWSB4JPdOkRyuTDy1oP;0TnOYISbd1XYRBk9myaseg,Daddy Yankee; Nicole Scherzinger; Pitbull
+clique,786,,3,3,1.0,0,5,6icQOAFXDZKsumw3YXyusw;77AiFEVeAVj2ORpC85QVJs;3aQeKQSyrW4qWr35idm0cy,Lil Yachty; Steve Aoki; T-Pain
+clique,787,,3,3,1.0,0,5,5yG7ZAZafVaAlMTeBybKAL;6icQOAFXDZKsumw3YXyusw;77AiFEVeAVj2ORpC85QVJs,Iggy Azalea; Lil Yachty; Steve Aoki
+clique,789,,3,3,1.0,0,5,0jnsk9HBra6NMjO2oANoPY;0Chxmm4XMM87mJOHvyiUzL;55Aa2cqylxrFIXC767Z865,Flo Rida; Kevin Rudolf; Lil Wayne
+clique,806,,3,3,1.0,0,5,6xQvQwZQQuq9R3TdPNbcR8;3EXdLajEO02ziZ90P90bSW;77AiFEVeAVj2ORpC85QVJs,Bassjackers; Lil Xan; Steve Aoki
+clique,831,,3,3,1.0,0,5,5tuOpj3ofDA06hxQjvjdGZ;5yG7ZAZafVaAlMTeBybKAL;77AiFEVeAVj2ORpC85QVJs,Angger Dimas; Iggy Azalea; Steve Aoki
+clique,876,,3,3,1.0,0,5,07YZf4WDAMNwqr4jfgOZ8y;3e7awlrlDSwF3iM0WBjGMp;5qy5uPg15aiNE4uiAxcqkT,Jason Derulo; Little Mix; Mike Rizzo
+clique,877,,3,3,1.0,0,5,1ShZZUjkbXCjhwrb18BA8I;5lCekoJW9jNq01B1wiqdAb;77AiFEVeAVj2ORpC85QVJs,Bryce Vine; Crankdat; Steve Aoki
+clique,892,,3,3,1.0,0,5,3q7HBObVc0L8jNeTe5Gofh;2NdeV5rLm47xAvogXrYhJX;2mxe0TnaNL039ysAj51xPQ,50 Cent; Ciara; R. Kelly
+clique,899,,3,3,1.0,0,5,2NdeV5rLm47xAvogXrYhJX;2wIVse2owClT7go1WT98tk;0TnOYISbd1XYRBk9myaseg,Ciara; Missy Elliott; Pitbull
+clique,900,,3,3,1.0,0,5,2NdeV5rLm47xAvogXrYhJX;3AuMNF8rQAKOzjYppFNAoB;0TnOYISbd1XYRBk9myaseg,Ciara; Kelly Rowland; Pitbull
+clique,909,,3,3,1.0,0,5,3XINWZaloea97SIRiyTJxX;60d24wfXkVzDSfLS6hyCjZ;4ukUyiEoZi8QxibfjuUsEw,DubVision; Martin Garrix; Shaun Farrugia
+clique,931,,3,3,1.0,0,5,3wcj11K77LjEY1PkEazffa;1RyvyyTE3xzB2ZywiAwp0i;1uNFoZAHBGtllmzznpCI3s,Burna Boy; Future; Justin Bieber
+clique,951,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;0TnOYISbd1XYRBk9myaseg;5fJsY7afrbsyzJj9wdzJMh,"Daddy Yankee; Pitbull; Tito ""El Bambino"""
+clique,957,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;0TnOYISbd1XYRBk9myaseg;0eHQ9o50hj6ZDNBt6Ys1sD,Daddy Yankee; Pitbull; Yandel
+clique,961,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;0TnOYISbd1XYRBk9myaseg;3MHaV05u0io8fQbZ2XPtlC,Daddy Yankee; Pitbull; Prince Royce
+clique,964,,3,3,1.0,0,5,0jnsk9HBra6NMjO2oANoPY;2iUbk5KhZYZt4CRvWbwb7S;0TnOYISbd1XYRBk9myaseg,Flo Rida; LunchMoney Lewis; Pitbull
+clique,965,,3,3,1.0,0,5,0jnsk9HBra6NMjO2oANoPY;2w9zwq3AktTeYYMuhMjju8;0TnOYISbd1XYRBk9myaseg,Flo Rida; INNA; Pitbull
+clique,971,,3,3,1.0,0,5,0z4gvV4rjIZ9wHck67ucSV;4yt2wdqvcHygghx9iNUb6i;0TnOYISbd1XYRBk9myaseg,Akon; DJ Frank E; Pitbull
+clique,985,,3,3,1.0,0,5,3TVXtAsR1Inumwj472S9r4;3nFkdlSjzX9mRTtwJOzDYB;31TPClRtHm23RisEBtV3X7,Drake; JAŸ-Z; Justin Timberlake
+clique,1032,,3,3,1.0,0,5,4poL7YCSkG7kMnWjAdDU91;77AiFEVeAVj2ORpC85QVJs;1u7OVFmWah4wQhOPIbUb8U,Era Istrefi; Steve Aoki; Will Sparks
+clique,1035,,3,3,1.0,0,5,5mYakBbBzPMQTfkVMIgiDM;41rVuRHYAiH7ltBTHVR9We;77AiFEVeAVj2ORpC85QVJs,Georgia Ku; Slushii; Steve Aoki
+clique,1039,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;7sfl4Xt5KmfyDs2T3SVSMK;77AiFEVeAVj2ORpC85QVJs,Daddy Yankee; Lil Jon; Steve Aoki
+clique,1042,,3,3,1.0,0,5,1Cs0zKBU1kc0i8ypK3B9ai;29QbBR0oTzA7A0kiOzrbbr;77AiFEVeAVj2ORpC85QVJs,David Guetta; Jamie Scott; Steve Aoki
+clique,1048,,3,3,1.0,0,5,07YZf4WDAMNwqr4jfgOZ8y;6KZDXtSj0SzGOV705nNeh3;3e7awlrlDSwF3iM0WBjGMp,Jason Derulo; Kid Ink; Little Mix
+clique,1069,,3,3,1.0,0,5,5cj0lLjcoR7YOSnhnX0Po5;6U3ybJ9UHNKEdsH7ktGBZ7;1ybINI1qPiFbwDXamRtwxD,Doja Cat; JID; Smino
+clique,1106,,3,3,1.0,0,5,7hJcb9fa4alzcOq3EaNPoG;183q3dkm50FmQREB9daUQe;5CxwOBCoGSvWxfDgNoa1Nv,Snoop Dogg; Technic; The Lady Of Rage
+clique,1123,,3,3,1.0,0,5,1ykdy4jtPLFOuaJrZqHTbp;3z6ZWuf4HFWZ8iFJFltSCQ;7hJcb9fa4alzcOq3EaNPoG,Bad Azz; Bo-Rock; Snoop Dogg
+clique,1128,,3,3,1.0,0,5,0fW7wYpfi0yzlc8JPP12jA;4S4kD5NBlgaq4YLBQSEMyY;7hJcb9fa4alzcOq3EaNPoG,Kim Burrell; Mali Music; Snoop Dogg
+clique,1130,,3,3,1.0,0,5,7hPPjATqnrrougPWT3VvJn;7hJcb9fa4alzcOq3EaNPoG;6bvnqprEw8P88PB8jEnL8f,Rick Rock; Snoop Dogg; Stressmatic
+clique,1150,,3,3,1.0,0,5,3nFkdlSjzX9mRTtwJOzDYB;0fA0VVWsXO9YnASrzqfmYu;7hJcb9fa4alzcOq3EaNPoG,JAŸ-Z; Kid Cudi; Snoop Dogg
+clique,1151,,3,3,1.0,0,5,1Cs0zKBU1kc0i8ypK3B9ai;0fA0VVWsXO9YnASrzqfmYu;7hJcb9fa4alzcOq3EaNPoG,David Guetta; Kid Cudi; Snoop Dogg
+clique,1162,,3,3,1.0,0,5,31TPClRtHm23RisEBtV3X7;7hJcb9fa4alzcOq3EaNPoG;4OBJLual30L7gRl5UkeRcT,Justin Timberlake; Snoop Dogg; T.I.
+clique,1174,,3,3,1.0,0,5,3drEaBmm4UexsiDfz5AzXV;7hJcb9fa4alzcOq3EaNPoG;5CxwOBCoGSvWxfDgNoa1Nv,RBX; Snoop Dogg; The Lady Of Rage
+clique,1178,,3,3,1.0,0,5,4VMYDCV2IEDYJArk749S6m;1i8SpTcr7yvPOmcqrbnVXY;7hJcb9fa4alzcOq3EaNPoG,Daddy Yankee; Ozuna; Snoop Dogg
+clique,1193,,3,3,1.0,0,5,360IAlyVv4PCEVjgyMZrxK;6g0Wah2YFtb1rFgKhUktlo;7hJcb9fa4alzcOq3EaNPoG,Miguel; Raphael Saadiq; Snoop Dogg
+clique,1216,,3,3,1.0,0,5,55Aa2cqylxrFIXC767Z865;7hJcb9fa4alzcOq3EaNPoG;0A0FS04o6zMoto8OKPsDwY,Lil Wayne; Snoop Dogg; YG
+clique,1227,,3,3,1.0,0,5,07YZf4WDAMNwqr4jfgOZ8y;7hJcb9fa4alzcOq3EaNPoG;0NbfKEOTQCcwd6o7wSDOHI,Jason Derulo; Snoop Dogg; The Game
+clique,1230,,3,3,1.0,0,5,1Cs0zKBU1kc0i8ypK3B9ai;07YZf4WDAMNwqr4jfgOZ8y;7hJcb9fa4alzcOq3EaNPoG,David Guetta; Jason Derulo; Snoop Dogg
+clique,1233,,3,3,1.0,0,5,0OMJR0LjjKv21qNvICTgbi;2lyEAZMc0fS3E5NWbD7Nq8;7hJcb9fa4alzcOq3EaNPoG,Devin The Dude; Kobe Honeycutt; Snoop Dogg
+clique,1243,,3,3,1.0,0,5,3QJzdZJYIAcoET1GcfpNGi;7sfl4Xt5KmfyDs2T3SVSMK;7hJcb9fa4alzcOq3EaNPoG,Damian Marley; Lil Jon; Snoop Dogg
+clique,1297,,3,3,1.0,0,5,7l5UhEItl1kfgBKel3kJOO;4OBJLual30L7gRl5UkeRcT;5me0Irg2ANcsgc93uaYrpb,SLIM THUG; T.I.; The Notorious B.I.G.
+clique,1300,,3,3,1.0,0,5,13ubrt8QOOCPljQ2FL1Kca;5gCRApTajqwbnHHPbr2Fpi;55Aa2cqylxrFIXC767Z865,A$AP Rocky; Juicy J; Lil Wayne
+clique,1301,,3,3,1.0,0,5,1Cs0zKBU1kc0i8ypK3B9ai;5y2Xq6xcjJb2jVM54GHK3t;6cK3NBO6uP7hh0oyuVELFl,David Guetta; John Legend; Saweetie
+clique,1317,,3,3,1.0,0,5,1Cs0zKBU1kc0i8ypK3B9ai;5T0MSzX9RC5NA6gAI6irSn;5y2Xq6xcjJb2jVM54GHK3t,David Guetta; Estelle; John Legend
+clique,4,,3,3,1.0,0,4,15wlmlNEnCUlTEgeShnDO7;6jJ0s89eD6GaHleKKya26X;2QI5dd0OQLZzjUaLCY4d5t,Dr. Luke; Katy Perry; Serban Ghenea
+clique,7,,3,3,1.0,0,4,6jJ0s89eD6GaHleKKya26X;7hEDdJUgflzNOt4ow0OnuC;6pV9gqDE15Bk5hisXbKQgw,Katy Perry; Lee Dagger; Marc JB
+clique,18,,3,3,1.0,0,4,4O1s9iVG46lSn1mD9ek1ES;21E3waRsmPlU7jZsS13rcj;5pKCCKE2ajJHZ9KAiaK11H,K-Klass; Ne-Yo; Rihanna
+clique,45,,3,3,1.0,0,4,26dSoYclwsYLMAKD3tpOr4;5svDnd8joFhbpbA3Ar0CfN;6tbjWDEIzxoDsBA1FuhfPW,Britney Spears; Junkie XL; Madonna
+clique,46,,3,3,1.0,0,4,26dSoYclwsYLMAKD3tpOr4;6tbjWDEIzxoDsBA1FuhfPW;2DpITTpb4v5SQtB3iA4A44,Britney Spears; Madonna; Rishi Rich
+clique,52,,3,3,1.0,0,4,3wcj11K77LjEY1PkEazffa;3FdLhnmXynPvZkbILPpB6d;5WUlDfRSoLAfcVSX1WnrxN,Burna Boy; Ladysmith Black Mambazo; Sia
+clique,56,,3,3,1.0,0,4,7JOR8GONHP6C9JQnmOzxZV;6XyY86QOPPrYVGvF9ch6wz;0ONHkAv9pCAFxb0zJwDNTy,DJ Vice; Linkin Park; Pusha T
+clique,58,,3,3,1.0,0,4,5gCRApTajqwbnHHPbr2Fpi;64KEffDW9EtZ1y2vBYgq8T;181bsRPaVXVlUKXrxwZfHK,Juicy J; Marshmello; Megan Thee Stallion
+clique,67,,3,3,1.0,0,4,5cj0lLjcoR7YOSnhnX0Po5;181bsRPaVXVlUKXrxwZfHK;7tYKF4w9nC0nq9CsPZTHyP,Doja Cat; Megan Thee Stallion; SZA
+clique,76,,3,3,1.0,0,4,5ZS223C6JyBfXasXxrRqOk;0cGUm45nv7Z6M6qdXYQGTX;181bsRPaVXVlUKXrxwZfHK,Jhené Aiko; Kehlani; Megan Thee Stallion
+clique,77,,3,3,1.0,0,4,0cGUm45nv7Z6M6qdXYQGTX;5Vuvs6Py2JRU7WiFDVsI7J;181bsRPaVXVlUKXrxwZfHK,Kehlani; Lucky Daye; Megan Thee Stallion
+clique,85,,3,3,1.0,0,4,2NdeV5rLm47xAvogXrYhJX;31TPClRtHm23RisEBtV3X7;02GdsWLFJTbG27RxzKoY5A,Ciara; Justin Timberlake; Versatile
+clique,97,,3,3,1.0,0,4,13ubrt8QOOCPljQ2FL1Kca;5ooSG9S0glqP5ZrqqaHBvT;2YZyLoL8N0Wb9xBt1NhZWg,A$AP Rocky; James Fauntleroy; Kendrick Lamar
+clique,105,,3,3,1.0,0,4,3q7HBObVc0L8jNeTe5Gofh;6l3HvQ5sa6mXTsMTB19rO5;3nFkdlSjzX9mRTtwJOzDYB,50 Cent; J. Cole; JAŸ-Z
+clique,167,,3,3,1.0,0,4,07YZf4WDAMNwqr4jfgOZ8y;04gDigrS5kc9YWfZHwBETP;0hCNtLu0JehylgoiP8L4Gh,Jason Derulo; Maroon 5; Nicki Minaj
+clique,213,,3,3,1.0,0,4,07YZf4WDAMNwqr4jfgOZ8y;0hCNtLu0JehylgoiP8L4Gh;5LHRHt1k9lMyONurDHEdrp,Jason Derulo; Nicki Minaj; Tyga
+clique,266,,3,3,1.0,0,4,1mSJCvDX0W7Dn7S9C6vmvI;7pbDxGE6nQSZVfiFdq9lOL;4V8LLVI7PbaPR0K2TGSxFF,"Anna of the North; Rex Orange County; Tyler, The Creator"
+clique,284,,3,3,1.0,0,4,4SQdUpG4f7UbkJG3cJ2Iyj;66CXWjxzNUsdJxJ2JdwvnR;1HY2Jd0NmPuamShAr6KMms,Arca; Ariana Grande; Lady Gaga
+clique,301,,3,3,1.0,0,4,4nDoRrQiYLoBzwC5BhVJzF;4kYSro6naA4h99UJvo89HB;6eUKZXaKkcviH0Ku9w2n3V,Camila Cabello; Cardi B; Ed Sheeran
+clique,302,,3,3,1.0,0,4,4nDoRrQiYLoBzwC5BhVJzF;6eUKZXaKkcviH0Ku9w2n3V;50co4Is1HCEo8bhOyUWKpn,Camila Cabello; Ed Sheeran; Young Thug
+clique,303,,3,3,1.0,0,4,7wU2WGCJ8HxkekHHE2QLul;4VCmyu3rfgyaAPcW0oPpls;0TnOYISbd1XYRBk9myaseg,Fuego; Omega; Pitbull
+clique,306,,3,3,1.0,0,4,13ubrt8QOOCPljQ2FL1Kca;7cvtOrIEaUrqbGmYA9Kj34;55Aa2cqylxrFIXC767Z865,A$AP Rocky; Gunplay; Lil Wayne
+clique,307,,3,3,1.0,0,4,6tkyhGe9hGI3Lcfo4gVh6Z;39NpvJulPofgF7z0BYDB56;6GI52t8N5F02MxU0g5U69P,ChocQuibTown; Elan Atias; Santana
+clique,308,,3,3,1.0,0,4,6tkyhGe9hGI3Lcfo4gVh6Z;6GI52t8N5F02MxU0g5U69P;0o0rlxlC3ApLWsxFkUjMXc,ChocQuibTown; Santana; Ziggy Marley
+clique,313,,3,3,1.0,0,4,3jK9MiCrA42lLAdMGUZpwa;2YZyLoL8N0Wb9xBt1NhZWg;4frXpPxQQZwbCu3eTGnZEw,Anderson .Paak; Kendrick Lamar; Thundercat
+clique,326,,3,3,1.0,0,4,13ubrt8QOOCPljQ2FL1Kca;0fA0VVWsXO9YnASrzqfmYu;0C8ZW7ezQVs4URX5aX7Kqx,A$AP Rocky; Kid Cudi; Selena Gomez
+clique,327,,3,3,1.0,0,4,3aGFCoR8xGN6DKwvdzeSja;1pPmIToKXyGdsCF6LmqLmI;77AiFEVeAVj2ORpC85QVJs,ILOVEMAKONNEN; Rich The Kid; Steve Aoki
+clique,375,,3,3,1.0,0,4,3PhoLpVuITZKcymswpck5b;7jVv8c5Fj3E9VhNjxT4snq;5YGY8feqx7naU7z4HrwZM6,Elton John; Lil Nas X; Miley Cyrus
+clique,378,,3,3,1.0,0,4,6M2wZ9GZgrQXHCFfjv46we;3PhoLpVuITZKcymswpck5b;5YGY8feqx7naU7z4HrwZM6,Dua Lipa; Elton John; Miley Cyrus
+clique,385,,3,3,1.0,0,4,7kHe4uFK1KQFqMRP7td4mS;7ymbjgoFo1FSdcVCKjxQUn;77AiFEVeAVj2ORpC85QVJs,Bad Royale; Jimmy October; Steve Aoki
+clique,399,,3,3,1.0,0,4,5rScKX1Sh1U67meeUyTGwk;6GI52t8N5F02MxU0g5U69P;2jI32eTOcSx2bn1MGgRyei,Michelle Branch; Santana; The Wreckers
+clique,403,,3,3,1.0,0,4,5IMltI7AzMZmM9TdapGK8w;5u4TJDB53ZDkB9ueZ6A2fm;5pKCCKE2ajJHZ9KAiaK11H,Dean Gillard; Matt Ward; Rihanna
+clique,407,,3,3,1.0,0,4,0gusqTJKxtU1UTmNRMHZcv;49H2dQUNhIlso7VNkS8nFR;0EmeFodog0BfCgMzAIvKQp,Dizzee Rascal; Freemasons; Shakira
+clique,415,,3,3,1.0,0,4,1Cs0zKBU1kc0i8ypK3B9ai;55Aa2cqylxrFIXC767Z865;0EmeFodog0BfCgMzAIvKQp,David Guetta; Lil Wayne; Shakira
+clique,417,,3,3,1.0,0,4,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;0EmeFodog0BfCgMzAIvKQp,Black Eyed Peas; David Guetta; Shakira
+clique,418,,3,3,1.0,0,4,1Cs0zKBU1kc0i8ypK3B9ai;0fA0VVWsXO9YnASrzqfmYu;0EmeFodog0BfCgMzAIvKQp,David Guetta; Kid Cudi; Shakira
+clique,435,,3,3,1.0,0,4,3aQeKQSyrW4qWr35idm0cy;06XkkGgcXppFttSjaaUV82;0UQORYkcHw5LWna3ofFF0m,T-Pain; Teddy Pain; Teddy Penderazdoun
+clique,443,,3,3,1.0,0,4,2YZyLoL8N0Wb9xBt1NhZWg;04gDigrS5kc9YWfZHwBETP;1XkoF8ryArs86LZvFOkbyr,Kendrick Lamar; Maroon 5; Mary J. Blige
+clique,446,,3,3,1.0,0,4,4iHNK0tOyZPYnBU7nGAgpQ;1XkoF8ryArs86LZvFOkbyr;3aQeKQSyrW4qWr35idm0cy,Mariah Carey; Mary J. Blige; T-Pain
+clique,451,,3,3,1.0,0,4,2ht3wxeT69CzyKFChNnNAB;3nFkdlSjzX9mRTtwJOzDYB;1XkoF8ryArs86LZvFOkbyr,Big Boi; JAŸ-Z; Mary J. Blige
+clique,455,,3,3,1.0,0,4,3nFkdlSjzX9mRTtwJOzDYB;2YZyLoL8N0Wb9xBt1NhZWg;1XkoF8ryArs86LZvFOkbyr,JAŸ-Z; Kendrick Lamar; Mary J. Blige
+clique,458,,3,3,1.0,0,4,7hEDdJUgflzNOt4ow0OnuC;3IoIRHbV0weqdZmN6ewOtH;5pKCCKE2ajJHZ9KAiaK11H,Lee Dagger; Marc Jackson Burrows; Rihanna
+clique,462,,3,3,1.0,0,4,17lzZA2AlOHwCwFALHttmp;5X4LWwbUFNzPkEas04uU82;77AiFEVeAVj2ORpC85QVJs,2 Chainz; DVBBS; Steve Aoki
+clique,520,,3,3,1.0,0,4,13ubrt8QOOCPljQ2FL1Kca;5gCRApTajqwbnHHPbr2Fpi;6ZhjJOJXXwnPS8PrXdmjLw,A$AP Rocky; Juicy J; UGK
+clique,528,,3,3,1.0,0,4,246dkjvS1zLTtiykXe5h60;1zNqQNIdeOUZHb8zbZRFMX;0Y5tJX1MQlPlqiwlOH1tJY,Post Malone; Swae Lee; Travis Scott
+clique,534,,3,3,1.0,0,4,49jnSQa0nLfgkSREjJ03Az;6LEeAFiJF8OuPx747e1wxR;25uiPmTg16RbhZWAqwLBy5,Balam Acab; Blood Orange; Charli xcx
+clique,561,,3,3,1.0,0,4,5pnbUBPifNnlusY8kTBivi;55Aa2cqylxrFIXC767Z865;23zg3TcAtWQy7J6upgbUnj,Jadakiss; Lil Wayne; USHER
+clique,581,,3,3,1.0,0,4,66CXWjxzNUsdJxJ2JdwvnR;4iHNK0tOyZPYnBU7nGAgpQ;7c0XG5cIJTrrAgEC3ULPiq,Ariana Grande; Mariah Carey; Ty Dolla $ign
+clique,588,,3,3,1.0,0,4,5ZS223C6JyBfXasXxrRqOk;5y2Xq6xcjJb2jVM54GHK3t;7c0XG5cIJTrrAgEC3ULPiq,Jhené Aiko; John Legend; Ty Dolla $ign
+clique,604,,3,3,1.0,0,4,4qXC0i02bSFstECuXP2ZpL;3wcj11K77LjEY1PkEazffa;0cGUm45nv7Z6M6qdXYQGTX,Blxst; Burna Boy; Kehlani
+clique,608,,3,3,1.0,0,4,5ITJs06INM9JWxK5hROEj3;7m9s6pUBVee0IBnwTFSVit;3PhoLpVuITZKcymswpck5b,Alessandro Safina; Almighty Associates; Elton John
+clique,611,,3,3,1.0,0,4,2GVBp7QyHckoOg7rYkLvrA;2YZyLoL8N0Wb9xBt1NhZWg;4frXpPxQQZwbCu3eTGnZEw,George Clinton; Kendrick Lamar; Thundercat
+clique,614,,3,3,1.0,0,4,62R6OE0R9RB43aSCyzVOxs;3mRSi79NwnlKaOH8vFxBVL;77AiFEVeAVj2ORpC85QVJs,LICK; PollyAnna; Steve Aoki
+clique,617,,3,3,1.0,0,4,2YZyLoL8N0Wb9xBt1NhZWg;57LYzLEk2LcFghVwuWbcuS;1Xyo4u8uXC1ZmMpatF05PJ,Kendrick Lamar; Summer Walker; The Weeknd
+clique,620,,3,3,1.0,0,4,6eUKZXaKkcviH0Ku9w2n3V;1RyvyyTE3xzB2ZywiAwp0i;1Xyo4u8uXC1ZmMpatF05PJ,Ed Sheeran; Future; The Weeknd
+clique,629,,3,3,1.0,0,4,7FNnA9vBm6EKceENgCGRMb;1yxSLGMDHlW21z4YXirZDS;2oQX8QiMXOyuqbcZEFsZfm,Anitta; Black Eyed Peas; El Alfa
+clique,652,,3,3,1.0,0,4,58AqJv0sDFPFnnBcLT8eeX;77b2YmJJTA1ZTVguLt8MLm;77AiFEVeAVj2ORpC85QVJs,Bella Thorne; Blue Brains; Steve Aoki
+clique,654,,3,3,1.0,0,4,66CXWjxzNUsdJxJ2JdwvnR;1HY2Jd0NmPuamShAr6KMms;2qxJFvFYMEDqd7ui6kSAcq,Ariana Grande; Lady Gaga; Zedd
+clique,661,,3,3,1.0,0,4,4iHNK0tOyZPYnBU7nGAgpQ;3aQeKQSyrW4qWr35idm0cy;6vbY3hOaCAhC7VjucswgdS,Mariah Carey; T-Pain; Twista
+clique,677,,3,3,1.0,0,4,13saZpZnCDWOI9D4IJhp1f;3aQeKQSyrW4qWr35idm0cy;137W8MRPWKqSmrBGDBFSop,Lily Allen; T-Pain; Wiz Khalifa
+clique,685,,3,3,1.0,0,4,790FomKkXshlbRYZFtlgla;4V8Sr092TqfHkfAA5fXXqG;1i8SpTcr7yvPOmcqrbnVXY,KAROL G; Luis Fonsi; Ozuna
+clique,686,,3,3,1.0,0,4,790FomKkXshlbRYZFtlgla;4V8Sr092TqfHkfAA5fXXqG;1SupJlEpv7RS2tPNRaHViT,KAROL G; Luis Fonsi; Nicky Jam
+clique,698,,3,3,1.0,0,4,25uiPmTg16RbhZWAqwLBy5;4XDi67ZENZcbfKnvMnTYsI;3Xt3RrJMFv5SZkCfUE8C1J,Charli xcx; Jay Park; Kim Petras
+clique,705,,3,3,1.0,0,4,7dGJo4pcD2V6oG8kP0tJRR;3KedxarmBCyFBevnqQHy3P;0cGUm45nv7Z6M6qdXYQGTX,Eminem; Jessie Reyez; Kehlani
+clique,710,,3,3,1.0,0,4,4q3ewBCX7sLwd24euuV69X;4IMAo2UQchVFyPH24PAjUs;12vb80Km0Ew53ABfJOepVz,Bad Bunny; Jowell & Randy; Ñengo Flow
+clique,730,,3,3,1.0,0,4,1yxSLGMDHlW21z4YXirZDS;1vyhD5VmyZ7KMfW5gqLgo5;1SupJlEpv7RS2tPNRaHViT,Black Eyed Peas; J Balvin; Nicky Jam
+clique,745,,3,3,1.0,0,4,5pnbUBPifNnlusY8kTBivi;2zJoKYyLmhvsq3ORbXE7xF;55Aa2cqylxrFIXC767Z865,Jadakiss; Kidd Kidd; Lil Wayne
+clique,755,,3,3,1.0,0,4,1yxSLGMDHlW21z4YXirZDS;4VMYDCV2IEDYJArk749S6m;40xbWSB4JPdOkRyuTDy1oP,Black Eyed Peas; Daddy Yankee; Nicole Scherzinger
+clique,767,,3,3,1.0,0,4,55Aa2cqylxrFIXC767Z865;5LHRHt1k9lMyONurDHEdrp;3G0VIfdQfdNcb9nEN5X7Uh,Lil Wayne; Tyga; Zipp
+clique,776,,3,3,1.0,0,4,3PhoLpVuITZKcymswpck5b;1HY2Jd0NmPuamShAr6KMms;2KEqzdPS7M5YwGmiuPTdr5,Elton John; Lady Gaga; Rina Sawayama
+clique,779,,3,3,1.0,0,4,25uiPmTg16RbhZWAqwLBy5;1HY2Jd0NmPuamShAr6KMms;6tzRZ39aZlNqlUzQlkuhDV,Charli xcx; Lady Gaga; Pabllo Vittar
+clique,782,,3,3,1.0,0,4,25uiPmTg16RbhZWAqwLBy5;1HY2Jd0NmPuamShAr6KMms;2KEqzdPS7M5YwGmiuPTdr5,Charli xcx; Lady Gaga; Rina Sawayama
+clique,801,,3,3,1.0,0,4,6M2wZ9GZgrQXHCFfjv46we;3hv9jJF3adDNsBSIQDqcjp;360IAlyVv4PCEVjgyMZrxK,Dua Lipa; Mark Ronson; Miguel
+clique,807,,3,3,1.0,0,4,6w0JXd2nT27GXVTbsuQ2II;0BqURncJM5B1BBu7UM51eq;77AiFEVeAVj2ORpC85QVJs,3 Are Legend; Guaynaa; Steve Aoki
+clique,820,,3,3,1.0,0,4,3DiDSECUqqY1AuBP8qtaIa;7dGJo4pcD2V6oG8kP0tJRR;3nFkdlSjzX9mRTtwJOzDYB,Alicia Keys; Eminem; JAŸ-Z
+clique,821,,3,3,1.0,0,4,0jnsk9HBra6NMjO2oANoPY;3aQeKQSyrW4qWr35idm0cy;23LbwefIODbyGdRbAz3urj,Flo Rida; T-Pain; Yung Joc
+clique,824,,3,3,1.0,0,4,13ubrt8QOOCPljQ2FL1Kca;2YZyLoL8N0Wb9xBt1NhZWg;46SHBwWsqBkxI7EeeBEQG7,A$AP Rocky; Kendrick Lamar; Kodak Black
+clique,836,,3,3,1.0,0,4,2ePzbA0F0TD96Na0MEB2Cf;0u7gssqdwWaO1aMaSuvXtx;6GI52t8N5F02MxU0g5U69P,Kirk Hammett; Robert Randolph; Santana
+clique,837,,3,3,1.0,0,4,2ePzbA0F0TD96Na0MEB2Cf;2JmwUW9uKIck9HsqI6ljNw;6GI52t8N5F02MxU0g5U69P,Kirk Hammett; Mark Osegueda; Santana
+clique,849,,3,3,1.0,0,4,3ScY9CQxNLQei8Umvpx5g6;2Jwr7hGoSNK3S3QBxh3T0z;7sfl4Xt5KmfyDs2T3SVSMK,Fat Joe; Freeway; Lil Jon
+clique,850,,3,3,1.0,0,4,6eUKZXaKkcviH0Ku9w2n3V;5f7VJjfbwm532GiveGC0ZK;20sxb77xiYeusSH8cVdatc,Ed Sheeran; Lil Baby; Meek Mill
+clique,856,,3,3,1.0,0,4,3AA28KZvwAUcZuOKwyblJQ;21StrITbN3uLjv5OdsLAja;7fOP0dm7y70BHCUc1zr6vR,Gorillaz; Miho Hatori; Tina Weymouth
+clique,863,,3,3,1.0,0,4,3nFkdlSjzX9mRTtwJOzDYB;53KwLdlmrlCelAZMaLVZqU;2YZyLoL8N0Wb9xBt1NhZWg,JAŸ-Z; James Blake; Kendrick Lamar
+clique,866,,3,3,1.0,0,4,1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;5Y5TRrQiqgUO4S36tzjIRZ,David Guetta; Flo Rida; Timbaland
+clique,871,,3,3,1.0,0,4,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;5Y5TRrQiqgUO4S36tzjIRZ,Black Eyed Peas; David Guetta; Timbaland
+clique,910,,3,3,1.0,0,4,3XINWZaloea97SIRiyTJxX;0NST5cNxDtRZuToY6ngC0k;60d24wfXkVzDSfLS6hyCjZ,DubVision; Jordan Grace; Martin Garrix
+clique,911,,3,3,1.0,0,4,5rSXSAkZ67PYJSvpUpkOr7;4hbnUamwrCHpv4wQTwvCIc;77AiFEVeAVj2ORpC85QVJs,Backstreet Boys; Sondr; Steve Aoki
+clique,914,,3,3,1.0,0,4,7rnzdGq1qPizursGNI1P0V;3aGFCoR8xGN6DKwvdzeSja;77AiFEVeAVj2ORpC85QVJs,Bok Nero; ILOVEMAKONNEN; Steve Aoki
+clique,922,,3,3,1.0,0,4,3wcj11K77LjEY1PkEazffa;6eUKZXaKkcviH0Ku9w2n3V;1RyvyyTE3xzB2ZywiAwp0i,Burna Boy; Ed Sheeran; Future
+clique,923,,3,3,1.0,0,4,3wcj11K77LjEY1PkEazffa;6eUKZXaKkcviH0Ku9w2n3V;2a0uxJgbvvIRI4GX8pYfcr,Burna Boy; Ed Sheeran; J Hus
+clique,942,,3,3,1.0,0,4,4FtSnMlCVxCswABUmdhwpm;3AA28KZvwAUcZuOKwyblJQ;1U1el3k54VvEUzo3ybLPlM,Carly Simon; Gorillaz; Kali Uchis
+clique,972,,3,3,1.0,0,4,3ipn9JLAPI5GUEo4y4jcoi;0TnOYISbd1XYRBk9myaseg;3MHaV05u0io8fQbZ2XPtlC,Ludacris; Pitbull; Prince Royce
+clique,987,,3,3,1.0,0,4,0sJ3AmpElEzlg5WjOHQYBF;6GI52t8N5F02MxU0g5U69P;0ZqhrTXYPA9DZR527ZnFdO,Cindy Blackman Santana; Santana; Wayne Shorter
+clique,988,,3,3,1.0,0,4,0sJ3AmpElEzlg5WjOHQYBF;33giwU7M4BXNZnze8MEado;6GI52t8N5F02MxU0g5U69P,Cindy Blackman Santana; Fher Olvera; Santana
+clique,993,,3,3,1.0,0,4,2uLjsXkHNJaxZTwVkDZktv;0elWFr7TW8piilVRYJUe4P;77AiFEVeAVj2ORpC85QVJs,LODATO; Natanael Cano; Steve Aoki
+clique,1017,,3,3,1.0,0,4,4q3ewBCX7sLwd24euuV69X;790FomKkXshlbRYZFtlgla;0eHQ9o50hj6ZDNBt6Ys1sD,Bad Bunny; KAROL G; Yandel
+clique,1018,,3,3,1.0,0,4,4q3ewBCX7sLwd24euuV69X;4obzFoKoKRHIphyHzJ35G3;790FomKkXshlbRYZFtlgla,Bad Bunny; Becky G; KAROL G
+clique,1019,,3,3,1.0,0,4,4q3ewBCX7sLwd24euuV69X;790FomKkXshlbRYZFtlgla;0VRj0yCOv2FXJNP47XQnx5,Bad Bunny; KAROL G; Quavo
+clique,1034,,3,3,1.0,0,4,5nd7jnne7zbsV2J5jBKNOY;1iH2Yx2Ea0kZ0zKI3Nlk30;77AiFEVeAVj2ORpC85QVJs,Gammer; Goody Grace; Steve Aoki
+clique,1060,,3,3,1.0,0,4,59wfkuBoNyhDMQGCljbUbA;3aQeKQSyrW4qWr35idm0cy;4sb7rZNN93BSS6Gqgepo4v,Diddy; T-Pain; Too $hort
+clique,1078,,3,3,1.0,0,4,1yxSLGMDHlW21z4YXirZDS;1SupJlEpv7RS2tPNRaHViT;5LHRHt1k9lMyONurDHEdrp,Black Eyed Peas; Nicky Jam; Tyga
+clique,1082,,3,3,1.0,0,4,4sglKanXuoU0gqGYP3wiNv;3crnzLy8R4lVwaigKEOz7V;3aQeKQSyrW4qWr35idm0cy,Detail; E-40; T-Pain
+clique,1084,,3,3,1.0,0,4,5cj0lLjcoR7YOSnhnX0Po5;55Aa2cqylxrFIXC767Z865;5LHRHt1k9lMyONurDHEdrp,Doja Cat; Lil Wayne; Tyga
+clique,1102,,3,3,1.0,0,4,2GVBp7QyHckoOg7rYkLvrA;05cqfWVtssCo3KVcqEAYG3;7hJcb9fa4alzcOq3EaNPoG,George Clinton; Jewell; Snoop Dogg
+clique,1109,,3,3,1.0,0,4,4iHNK0tOyZPYnBU7nGAgpQ;1W9qOBYRTfP7HcizWN43G1;7hJcb9fa4alzcOq3EaNPoG,Mariah Carey; Slick Rick; Snoop Dogg
+clique,1126,,3,3,1.0,0,4,6z6gmIKKTBiWB65ICOXdF6;7zICaxnDB9ZprDSiFpvbbW;7hJcb9fa4alzcOq3EaNPoG,Magic; Master P; Snoop Dogg
+clique,1135,,3,3,1.0,0,4,4iHNK0tOyZPYnBU7nGAgpQ;2gBjLmx6zQnFGQJCAQpRgw;7hJcb9fa4alzcOq3EaNPoG,Mariah Carey; Nelly; Snoop Dogg
+clique,1148,,3,3,1.0,0,4,7gSjFKpVmDgC2MMsnN8CYq;5y2Xq6xcjJb2jVM54GHK3t;7hJcb9fa4alzcOq3EaNPoG,Jazmine Sullivan; John Legend; Snoop Dogg
+clique,1149,,3,3,1.0,0,4,0fA0VVWsXO9YnASrzqfmYu;7hJcb9fa4alzcOq3EaNPoG;4OBJLual30L7gRl5UkeRcT,Kid Cudi; Snoop Dogg; T.I.
+clique,1159,,3,3,1.0,0,4,7Dnu2NmddNymEI2LMZVH5v;7hJcb9fa4alzcOq3EaNPoG;4OBJLual30L7gRl5UkeRcT,Sleepy Brown; Snoop Dogg; T.I.
+clique,1176,,3,3,1.0,0,4,6nfYGe7IIuuP5bMY1jkJP6;5K4W6rqBFWDnAN6FQUkS6x;7hJcb9fa4alzcOq3EaNPoG,Jermaine Dupri; Kanye West; Snoop Dogg
+clique,1228,,3,3,1.0,0,4,07YZf4WDAMNwqr4jfgOZ8y;7hJcb9fa4alzcOq3EaNPoG;7guDJrEfX3qb6FEbdPA5qi,Jason Derulo; Snoop Dogg; Stevie Wonder
+clique,1244,,3,3,1.0,0,4,0du5cEVh5yTK9QJze8zA0C;3QJzdZJYIAcoET1GcfpNGi;7hJcb9fa4alzcOq3EaNPoG,Bruno Mars; Damian Marley; Snoop Dogg
+clique,1264,,3,3,1.0,0,4,4QIzqQPuyAedNFvjcHWXkA;7hJcb9fa4alzcOq3EaNPoG;2W8UTum7bU7ue6m0r14H97,Lil 1/2 Dead; Snoop Dogg; The Dramatics
+clique,1277,,3,3,1.0,0,4,7sfl4Xt5KmfyDs2T3SVSMK;7hJcb9fa4alzcOq3EaNPoG;4PrinKSrmILmo0kERG0Ogn,Lil Jon; Snoop Dogg; Trina
+clique,1302,,3,3,1.0,0,4,1uNFoZAHBGtllmzznpCI3s;4iHNK0tOyZPYnBU7nGAgpQ;2mxe0TnaNL039ysAj51xPQ,Justin Bieber; Mariah Carey; R. Kelly
+clique,1303,,3,3,1.0,0,4,1uNFoZAHBGtllmzznpCI3s;4iHNK0tOyZPYnBU7nGAgpQ;20qISvAhX20dpIbOOzGK3q,Justin Bieber; Mariah Carey; Nas
+clique,1315,,3,3,1.0,0,4,4HgF4KnohByNElYid7iCNb;13y7CgLHjMVRMDqxdx0Xdo;3ipn9JLAPI5GUEo4y4jcoi,Bobby V.; Gucci Mane; Ludacris
+clique,1320,,3,3,1.0,0,4,1Cs0zKBU1kc0i8ypK3B9ai;0jnsk9HBra6NMjO2oANoPY;3ipn9JLAPI5GUEo4y4jcoi,David Guetta; Flo Rida; Ludacris
+clique,5,,3,3,1.0,0,3,3pCHYkU91rpHix5L78plcF;5WUlDfRSoLAfcVSX1WnrxN;4MswQnojZK1oRaxNsACqjv,Exemen; Sia; Wookie
+clique,16,,3,3,1.0,0,3,3kcQ94iDBwumLfddrCrse8;1Cs0zKBU1kc0i8ypK3B9ai;4j5KBTO4tk7up54ZirNGvK,Daddy's Groove; David Guetta; NERVO
+clique,24,,3,3,1.0,0,3,3q7HBObVc0L8jNeTe5Gofh;3nFkdlSjzX9mRTtwJOzDYB;21E3waRsmPlU7jZsS13rcj,50 Cent; JAŸ-Z; Ne-Yo
+clique,25,,3,3,1.0,0,3,3q7HBObVc0L8jNeTe5Gofh;0z4gvV4rjIZ9wHck67ucSV;21E3waRsmPlU7jZsS13rcj,50 Cent; Akon; Ne-Yo
+clique,31,,3,3,1.0,0,3,7gZfnEnfiaHzxARJ2LeXrf;3CbYyyd8wH3RT6t0jwpdzC;0hCNtLu0JehylgoiP8L4Gh,6ix9ine; Murda Beatz; Nicki Minaj
+clique,43,,3,3,1.0,0,3,1anyVhU62p31KFi8MEzkbf;6tbjWDEIzxoDsBA1FuhfPW;5MCgysjFa88X9uVFMKHbDe,Chance the Rapper; Madonna; Mike Tyson
+clique,47,,3,3,1.0,0,3,1Cs0zKBU1kc0i8ypK3B9ai;6tbjWDEIzxoDsBA1FuhfPW;5Y5TRrQiqgUO4S36tzjIRZ,David Guetta; Madonna; Timbaland
+clique,48,,3,3,1.0,0,3,78rUTD7y6Cy67W1RVzYs7t;0rTeZQSxEg1XzZ1dFz6Moz;4bbAeMRdMbfCLVSlpryAVV,PinkPantheress; SURF GANG; evilgiane
+clique,55,,3,3,1.0,0,3,3AA28KZvwAUcZuOKwyblJQ;0cTSCsVx04SSht9V6cpKN0;0ONHkAv9pCAFxb0zJwDNTy,Gorillaz; Mavis Staples; Pusha T
+clique,60,,3,3,1.0,0,3,181bsRPaVXVlUKXrxwZfHK;0YinUQ50QDB7ZxSCLyQ40k;62DmErcU7dqZbJaDqwsqzR,Megan Thee Stallion; Mustard; Popcaan
+clique,61,,3,3,1.0,0,3,4ntfGY98LWEncjHnw0XBaj;181bsRPaVXVlUKXrxwZfHK;4mPrHfhtQUBoHgTxkBieLY,Dino BTW; Megan Thee Stallion; VickeeLo
+clique,62,,3,3,1.0,0,3,37hAfseJWi0G3Scife12Il;1ZEqGVxGNeiNyssm83CeKP;181bsRPaVXVlUKXrxwZfHK,City Girls; Hot Girl Meg; Megan Thee Stallion
+clique,66,,3,3,1.0,0,3,5cj0lLjcoR7YOSnhnX0Po5;7jVv8c5Fj3E9VhNjxT4snq;181bsRPaVXVlUKXrxwZfHK,Doja Cat; Lil Nas X; Megan Thee Stallion
+clique,68,,3,3,1.0,0,3,5cj0lLjcoR7YOSnhnX0Po5;181bsRPaVXVlUKXrxwZfHK;2OaHYHb2XcFPvqL3VsyPzU,Doja Cat; Megan Thee Stallion; Rico Nasty
+clique,71,,3,3,1.0,0,3,64KEffDW9EtZ1y2vBYgq8T;181bsRPaVXVlUKXrxwZfHK;21AUdblPrTRzkvJn8FGrlk,Marshmello; Megan Thee Stallion; NITTI
+clique,72,,3,3,1.0,0,3,17lzZA2AlOHwCwFALHttmp;0c173mlxpT3dSFRgMO8XPh;181bsRPaVXVlUKXrxwZfHK,2 Chainz; Big Sean; Megan Thee Stallion
+clique,73,,3,3,1.0,0,3,04gDigrS5kc9YWfZHwBETP;181bsRPaVXVlUKXrxwZfHK;7tYKF4w9nC0nq9CsPZTHyP,Maroon 5; Megan Thee Stallion; SZA
+clique,74,,3,3,1.0,0,3,1RyvyyTE3xzB2ZywiAwp0i;04gDigrS5kc9YWfZHwBETP;181bsRPaVXVlUKXrxwZfHK,Future; Maroon 5; Megan Thee Stallion
+clique,78,,3,3,1.0,0,3,66CXWjxzNUsdJxJ2JdwvnR;1RyvyyTE3xzB2ZywiAwp0i;181bsRPaVXVlUKXrxwZfHK,Ariana Grande; Future; Megan Thee Stallion
+clique,81,,3,3,1.0,0,3,1anyVhU62p31KFi8MEzkbf;6eUKZXaKkcviH0Ku9w2n3V;21WS9wngs9AqFckK7yYJPM,Chance the Rapper; Ed Sheeran; PnB Rock
+clique,82,,3,3,1.0,0,3,64M6ah0SkkRsnPGtGiRAbb;47MpMsUfWtgyIIBEFOr4FE;1W7FNibLa0O0b572tB2w7t,Bebe Rexha; Lunay; Pink Sweat$
+clique,86,,3,3,1.0,0,3,0dcAv2MrrZZTHWAuq4JC1T;2dd5mrQZvg6SmahdgVKDzh;2tts44gR3mpux2n7BRQPL6,Kirk; PSY; 김우근
+clique,94,,3,3,1.0,0,3,5ooSG9S0glqP5ZrqqaHBvT;2YZyLoL8N0Wb9xBt1NhZWg;6W9RUw7xnNRYtgh8dimg7L,James Fauntleroy; Kendrick Lamar; Ronald Isley
+clique,96,,3,3,1.0,0,3,6l3HvQ5sa6mXTsMTB19rO5;5ooSG9S0glqP5ZrqqaHBvT;2YZyLoL8N0Wb9xBt1NhZWg,J. Cole; James Fauntleroy; Kendrick Lamar
+clique,98,,3,3,1.0,0,3,25uiPmTg16RbhZWAqwLBy5;3l0CmX0FuQjFxr8SK7Vqag;2RqrWplViWHSGLzlhmDcbt,Charli xcx; Clairo; Yaeji
+clique,103,,3,3,1.0,0,3,4vpGVGgxSDcCTmqYbsOnsn;3Oim8XBPbznAa8Jj8QzNc8;6l3HvQ5sa6mXTsMTB19rO5,Amber Coffman; Cults; J. Cole
+clique,106,,3,3,1.0,0,3,3q7HBObVc0L8jNeTe5Gofh;6l3HvQ5sa6mXTsMTB19rO5;2iojnBLj0qIMiKPvVhLnsH,50 Cent; J. Cole; Trey Songz
+clique,107,,3,3,1.0,0,3,1URnnhqYAYcrqrcwql10ft;6l3HvQ5sa6mXTsMTB19rO5;44vREmJC0OlVZjZaGLqVEd,21 Savage; J. Cole; Morray
+clique,121,,3,3,1.0,0,3,6l3HvQ5sa6mXTsMTB19rO5;5ZS223C6JyBfXasXxrRqOk;2YZyLoL8N0Wb9xBt1NhZWg,J. Cole; Jhené Aiko; Kendrick Lamar
+clique,133,,3,3,1.0,0,3,6eYFryfcEu3QSq59D62wZQ;20JZFwl6HVl6yg8a4H3ZqK;06HL4z0CvFAxyc27GXpf02,Brendon Urie; Panic! At The Disco; Taylor Swift
+clique,136,,3,3,1.0,0,3,07YZf4WDAMNwqr4jfgOZ8y;2DlGxzQSjYe5N6G9nkYghR;4YXycRbyyAE0wozTk7QMEq,Jason Derulo; Jennifer Lopez; Matoma
+clique,138,,3,3,1.0,0,3,7sfl4Xt5KmfyDs2T3SVSMK;1mXaaMbQM3IYuhNWaZdFuE;2kEqHxYIKXMBcEU0VYqi0H,Lil Jon; Mr. Catra; Mulher Filé
+clique,140,,3,3,1.0,0,3,3AA28KZvwAUcZuOKwyblJQ;3xByNj8XW17oW0wsJhgzYL;3r1XkJ7vCs8kHBSzGvPLdP,Gorillaz; SOFT PLAY; slowthai
+clique,142,,3,3,1.0,0,3,3PhoLpVuITZKcymswpck5b;0hCNtLu0JehylgoiP8L4Gh;50co4Is1HCEo8bhOyUWKpn,Elton John; Nicki Minaj; Young Thug
+clique,146,,3,3,1.0,0,3,0hCNtLu0JehylgoiP8L4Gh;5WUlDfRSoLAfcVSX1WnrxN;5ZsFI1h6hIdQRw2ti0hz81,Nicki Minaj; Sia; ZAYN
+clique,148,,3,3,1.0,0,3,0hCNtLu0JehylgoiP8L4Gh;5ZydGR5KkXdV6XGJ9mYvdh;5LHRHt1k9lMyONurDHEdrp,Nicki Minaj; Thomas Brinx; Tyga
+clique,155,,3,3,1.0,0,3,3Nrfpe0tUJi4K4DXYWgMUX;0hCNtLu0JehylgoiP8L4Gh;5WUlDfRSoLAfcVSX1WnrxN,BTS; Nicki Minaj; Sia
+clique,229,,3,3,1.0,0,3,1zNKjWObj13QQ3IpwAtib3;6LqNN22kT3074XbTVUrhzX;3IoIRHbV0weqdZmN6ewOtH,Bimbo Jones; Kesha; Marc Jackson Burrows
+clique,236,,3,3,1.0,0,3,0jnsk9HBra6NMjO2oANoPY;0ZrpamOxcZybMHGg1AYtHP;4tMJliVd96wXoMVNdcOBHp,Flo Rida; Robin Thicke; Verdine White
+clique,240,,3,3,1.0,0,3,5G8IlDlnPQPN4YmtJ6NDxK;5P2rwRBgIN450RaJxdjYdA;3aQeKQSyrW4qWr35idm0cy,Cham; Kardinal Offishall; T-Pain
+clique,241,,3,3,1.0,0,3,2AAuaueEinwUKSWlxvNTDQ;7cCEI6lWHtgShTqmpH5o2m;0p7B5rBXrxNMQNNA8WAvB4,Jojo; KCI; Kali's Finest
+clique,253,,3,3,1.0,0,3,0VMO6LSExFeqYrtcR8VAre;0xOeVMOz2fVg5BJY3N6akT;4V8LLVI7PbaPR0K2TGSxFF,"Alexander Brettin; Jaden; Tyler, The Creator"
+clique,257,,3,3,1.0,0,3,7c0XG5cIJTrrAgEC3ULPiq;4V8LLVI7PbaPR0K2TGSxFF;7wlFDEWiM5OoIAt8RSli8b,"Ty Dolla $ign; Tyler, The Creator; YoungBoy Never Broke Again"
+clique,258,,3,3,1.0,0,3,3tlXnStJ1fFhdScmQeLpuG;4yJHrytMK7mqtKsXVGaBNg;4V8LLVI7PbaPR0K2TGSxFF,"Brent Faiyaz; Fana Hues; Tyler, The Creator"
+clique,273,,3,3,1.0,0,3,4CqBUEPviJq9GPUbS0WLmQ;0aIbz08XkVVgdkhFC1o8pt;47IQuGHsvEJgd0tQEDP5X0,Ann Orson; Carte Blanche; John Bayless
+clique,274,,3,3,1.0,0,3,5y2Xq6xcjJb2jVM54GHK3t;4iHNK0tOyZPYnBU7nGAgpQ;2Mu5NfyYm8n5iTomuKAEHl,John Legend; Mariah Carey; Ms. Lauryn Hill
+clique,275,,3,3,1.0,0,3,4q3ewBCX7sLwd24euuV69X;1bAftSH8umNcGZ0uyV7LMg;2XcZshqzPKm3iZcmt73R8D,Bad Bunny; Duki; Pablo Chill-E
+clique,290,,3,3,1.0,0,3,0rlKkLkpsCnJbZethGBfAk;3kVUvbeRdcrqQ3oHk5hPdx;53XhwfbYqKCa1cC15pYq2q,Captain Cuts; GROUPLOVE; Imagine Dragons
+clique,292,,3,3,1.0,0,3,73sIBHcqh3Z3NyqHKZ7FOL;7gQNLR8mykA1KjGClbPYHe;0iagLX97be0GWKMnDwvREL,Childish Gambino; MNDR; Peter Wade
+clique,294,,3,3,1.0,0,3,0zmUjzKjmZlwId0H6uQ2yE;1Mqos4zkUNbU5bHpU7iL56;3e7awlrlDSwF3iM0WBjGMp,Deekly; Eighty Six; Little Mix
+clique,297,,3,3,1.0,0,3,4obzFoKoKRHIphyHzJ35G3;0KPX4Ucy9dk82uj4GpKesn;329e4yvIujISKGKz1BZZbO,Becky G; Dalex; Farruko
+clique,304,,3,3,1.0,0,3,3fMbdgg4jU18AjLCKBhRSm;0HXtkeTuIrpcFWhWgZ8jNn;0jxakJi6yyeNIZ3yp8nEgf,Michael Jackson; Rod Temperton; Vincent Price
+clique,305,,3,3,1.0,0,3,5dHt1vcEm9qb8fCyLcB3HL;13ubrt8QOOCPljQ2FL1Kca;7cvtOrIEaUrqbGmYA9Kj34,A$AP Ferg; A$AP Rocky; Gunplay
+clique,321,,3,3,1.0,0,3,3PyJHH2wyfQK3WZrk9rpmP;1HY2Jd0NmPuamShAr6KMms;6BToM88XrzNI6VL5GxazUq,Ashnikko; Lady Gaga; Oscar Scheller
+clique,329,,3,3,1.0,0,3,6A5OOXI6DjSlRwUxgNLGtz;5wVc58a2hRj76nbaCKwlDt;6GI52t8N5F02MxU0g5U69P,Asdru Sierra; Salvador Santana; Santana
+clique,330,,3,3,1.0,0,3,6wKxOKEA3K6R2UZ3COLXEY;7muzHifhMdnfN1xncRLOqk;64KEffDW9EtZ1y2vBYgq8T,Elohim; Flux Pavilion; Marshmello
+clique,332,,3,3,1.0,0,3,0l59CBSPDfKBXlyHya0pew;5pKCCKE2ajJHZ9KAiaK11H;6oZvk0wRufXkBhyWhg8LjG,Gregor Salto; Rihanna; Tzvetin Todorov
+clique,334,,3,3,1.0,0,3,64M6ah0SkkRsnPGtGiRAbb;7uaIm6Pw7xplS8Dy06V6pT;7c0XG5cIJTrrAgEC3ULPiq,Bebe Rexha; Trevor Daniel; Ty Dolla $ign
+clique,336,,3,3,1.0,0,3,64M6ah0SkkRsnPGtGiRAbb;69GGBxA162lTqCwzJG5jLp;7c0XG5cIJTrrAgEC3ULPiq,Bebe Rexha; The Chainsmokers; Ty Dolla $ign
+clique,337,,3,3,1.0,0,3,64M6ah0SkkRsnPGtGiRAbb;3b8QkneNDz4JHKKKlLgYZg;69GGBxA162lTqCwzJG5jLp,Bebe Rexha; Florida Georgia Line; The Chainsmokers
+clique,338,,3,3,1.0,0,3,64M6ah0SkkRsnPGtGiRAbb;0TnOYISbd1XYRBk9myaseg;4exLIFE8sISLr28sqG1qNX,Bebe Rexha; Pitbull; Travis Barker
+clique,340,,3,3,1.0,0,3,64M6ah0SkkRsnPGtGiRAbb;0TnOYISbd1XYRBk9myaseg;7c0XG5cIJTrrAgEC3ULPiq,Bebe Rexha; Pitbull; Ty Dolla $ign
+clique,348,,3,3,1.0,0,3,6aY7r6cZsCWifRsX6Fm9kq;6XyY86QOPPrYVGvF9ch6wz;5GziglLx7dOqsVn6GsB0tz,Cody B. Ware; Linkin Park; Ryu
+clique,349,,3,3,1.0,0,3,1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865;2yQf6b8hxahZaT5dHlWaB1,Justin Bieber; Lil Wayne; Raekwon
+clique,355,,3,3,1.0,0,3,1vWImodgVqIgTUkekGEfR9;3k8vhKepBT8rNmDEJTGMTm;5pKCCKE2ajJHZ9KAiaK11H,Dave Audé; Kemal Golden; Rihanna
+clique,356,,3,3,1.0,0,3,3AA28KZvwAUcZuOKwyblJQ;2gcdX1NqiPU2F4QxSlBo7r;3ONSkkEnOSZVNogu98dvTY,Gorillaz; Roses Gabor; Shaun Ryder
+clique,359,,3,3,1.0,0,3,6ZLTlhejhndI4Rh53vYhrY;246dkjvS1zLTtiykXe5h60;0Y5tJX1MQlPlqiwlOH1tJY,Ozzy Osbourne; Post Malone; Travis Scott
+clique,361,,3,3,1.0,0,3,5fMUXHkw8R8eOP2RNVYEZX;1uNFoZAHBGtllmzznpCI3s;5he5w2lnU9x7JFhnwcekXX,Diplo; Justin Bieber; Skrillex
+clique,362,,3,3,1.0,0,3,3FgHJPwGi5yuT6lDFhz7oh;0TnOYISbd1XYRBk9myaseg;0MSRJVGKv92k12VWqHmIcG,Chacal; Pitbull; Sky Monroe
+clique,364,,3,3,1.0,0,3,6MPCFvOQv5cIGfw3jODMF0;2tIP7SsRs7vjIcLrU85W8J;7wlFDEWiM5OoIAt8RSli8b,Internet Money; The Kid LAROI; YoungBoy Never Broke Again
+clique,365,,3,3,1.0,0,3,1URnnhqYAYcrqrcwql10ft;1RyvyyTE3xzB2ZywiAwp0i;246dkjvS1zLTtiykXe5h60,21 Savage; Future; Post Malone
+clique,367,,3,3,1.0,0,3,6YM5gRpMJkP0kUWRcvlHT3;3eJCIS7ytlYvT3pgReuWWa;3iyG1duuxWpcuWa57VSeZ0,Brittney Spencer; Madeline Edwards; The Highwomen
+clique,368,,3,3,1.0,0,3,3s8alQfNnY0roAHaJh7Xxt;2YZyLoL8N0Wb9xBt1NhZWg;2dWF6m2ksP9GN75fufFp16,Dom Kennedy; Kendrick Lamar; Murs
+clique,371,,3,3,1.0,0,3,25uiPmTg16RbhZWAqwLBy5;5KKpBU5eC2tJDzf0wmlRp2;6DpWtzfwV8fcwP6fXckDVu,Charli xcx; RAYE; Starrah
+clique,376,,3,3,1.0,0,3,26dSoYclwsYLMAKD3tpOr4;3PhoLpVuITZKcymswpck5b;5YGY8feqx7naU7z4HrwZM6,Britney Spears; Elton John; Miley Cyrus
+clique,377,,3,3,1.0,0,3,3PhoLpVuITZKcymswpck5b;5YGY8feqx7naU7z4HrwZM6;7crPfGd2k81ekOoSqQKWWz,Elton John; Miley Cyrus; Stevie Nicks
+clique,379,,3,3,1.0,0,3,0NWbwDZY1VkRqFafuQm6wk;5YGY8feqx7naU7z4HrwZM6;1zNqQNIdeOUZHb8zbZRFMX,Mike WiLL Made-It; Miley Cyrus; Swae Lee
+clique,382,,3,3,1.0,0,3,1RyvyyTE3xzB2ZywiAwp0i;1uNFoZAHBGtllmzznpCI3s;5YGY8feqx7naU7z4HrwZM6,Future; Justin Bieber; Miley Cyrus
+clique,383,,3,3,1.0,0,3,1RyvyyTE3xzB2ZywiAwp0i;5YGY8feqx7naU7z4HrwZM6;1zNqQNIdeOUZHb8zbZRFMX,Future; Miley Cyrus; Swae Lee
+clique,384,,3,3,1.0,0,3,4dJlBSxhy0VNbtPt5qsFHO;6E1jAkziZmlWiBiSbQxRS2;6jJ0s89eD6GaHleKKya26X,Cory Enemy; DJ Skeet Skeet; Katy Perry
+clique,400,,3,3,1.0,0,3,58hqTaCiqGrMsNmmm3qL7w;3qIRQKST5KCIIKWgmPTY2M;1HY2Jd0NmPuamShAr6KMms,Bree Runway; JIMMY EDGAR; Lady Gaga
+clique,408,,3,3,1.0,0,3,5AQWUSRpGWw6ncprxe75Po;0EmeFodog0BfCgMzAIvKQp;6IPx2vScknZyT9KYWU4bfA,Hani Kamal; Shakira; Tamer Zeitoun
+clique,412,,3,3,1.0,0,3,6l5sHFQQoaknd4dEepYQgJ;31ZNfGVEEcI9CyicPVJQni;0EmeFodog0BfCgMzAIvKQp,Benji Madden; Junior Sanchez; Shakira
+clique,433,,3,3,1.0,0,3,79OYhqbIQE5M0kuRuO76ti;5NqaT8PRYtEKEuVYm2w2YS;77AiFEVeAVj2ORpC85QVJs,Bloody Beetroots; Refused; Steve Aoki
+clique,434,,3,3,1.0,0,3,5PdkRVDASsw6P7QoqRpz0F;6hyMWrxGBsOx6sWcVj1DqP;1Xyo4u8uXC1ZmMpatF05PJ,Salvatore Ganacci; Sebastian Ingrosso; The Weeknd
+clique,438,,3,3,1.0,0,3,77AiFEVeAVj2ORpC85QVJs;3aQeKQSyrW4qWr35idm0cy;2jku7tDXc6XoB6MO2hFuqg,Steve Aoki; T-Pain; Tory Lanez
+clique,440,,3,3,1.0,0,3,45a6gCQWq61lIUDmr1tKuO;6XyY86QOPPrYVGvF9ch6wz;2jmSHT5SGq5qAFWQ62kphd,Bun B; Linkin Park; Rad Omen
+clique,444,,3,3,1.0,0,3,2ht3wxeT69CzyKFChNnNAB;1XkoF8ryArs86LZvFOkbyr;6GI52t8N5F02MxU0g5U69P,Big Boi; Mary J. Blige; Santana
+clique,464,,3,3,1.0,0,3,17lzZA2AlOHwCwFALHttmp;37Qsf5KCKljH7mL134xp4k;5IcR3N7QB1j6KBL8eImZ8m,2 Chainz; Saudi; ScHoolboy Q
+clique,465,,3,3,1.0,0,3,07YZf4WDAMNwqr4jfgOZ8y;0ZED1XzwlLHW4ZaG4lOT6m;04gDigrS5kc9YWfZHwBETP,Jason Derulo; Julia Michaels; Maroon 5
+clique,473,,3,3,1.0,0,3,66CXWjxzNUsdJxJ2JdwvnR;35GL8Cu2GKTcHzKGi75xl5;4iHNK0tOyZPYnBU7nGAgpQ,Ariana Grande; Jennifer Hudson; Mariah Carey
+clique,474,,3,3,1.0,0,3,66CXWjxzNUsdJxJ2JdwvnR;5yG7ZAZafVaAlMTeBybKAL;35GL8Cu2GKTcHzKGi75xl5,Ariana Grande; Iggy Azalea; Jennifer Hudson
+clique,506,,3,3,1.0,0,3,7bvcQXJHkFiN1ppIN3q4fi;6GI52t8N5F02MxU0g5U69P;3Isy6kedDrgPYoTS1dazA9,Joss Stone; Santana; Sean Paul
+clique,509,,3,3,1.0,0,3,4obzFoKoKRHIphyHzJ35G3;1Cs0zKBU1kc0i8ypK3B9ai;3Isy6kedDrgPYoTS1dazA9,Becky G; David Guetta; Sean Paul
+clique,512,,3,3,1.0,0,3,1Cs0zKBU1kc0i8ypK3B9ai;3ipn9JLAPI5GUEo4y4jcoi;3Isy6kedDrgPYoTS1dazA9,David Guetta; Ludacris; Sean Paul
+clique,515,,3,3,1.0,0,3,2nWD5qpzn6rGaBz5gLZvfB;655963AgkTZeYUvCyodCIL;77AiFEVeAVj2ORpC85QVJs,Ricky Remedy; Sonny Digital; Steve Aoki
+clique,516,,3,3,1.0,0,3,7dGJo4pcD2V6oG8kP0tJRR;3drEaBmm4UexsiDfz5AzXV;6NFWb2y6S7PH2yvs5xbO2y,Eminem; RBX; Sticky Fingaz
+clique,517,,3,3,1.0,0,3,6AgTAQt8XS6jRWi4sX7w49;15ZjD8Gus20Miqw3fdOaXX;2tIP7SsRs7vjIcLrU85W8J,Polo G; Stunna Gambino; The Kid LAROI
+clique,518,,3,3,1.0,0,3,5QdEbQJ3ylBnc3gsIASAT5;3hcs9uc56yIGFCSy9leWe7;2tIP7SsRs7vjIcLrU85W8J,G Herbo; Lil Durk; The Kid LAROI
+clique,531,,3,3,1.0,0,3,5XenQ7XfcvQdfIbpLEFaKQ;3AA28KZvwAUcZuOKwyblJQ;1LeVJ5GPeYDOVUjxx1y7Rp,GoldLink; Gorillaz; Unknown Mortal Orchestra
+clique,535,,3,3,1.0,0,3,2cZtXn8Zc4FmDp668xqaQh;5WUlDfRSoLAfcVSX1WnrxN;3r5m5MmcYENdR6sgyynfkp,Paul Mac; Sia; Stereogamus
+clique,543,,3,3,1.0,0,3,4OBJLual30L7gRl5UkeRcT;6vbY3hOaCAhC7VjucswgdS;23zg3TcAtWQy7J6upgbUnj,T.I.; Twista; USHER
+clique,562,,3,3,1.0,0,3,13ubrt8QOOCPljQ2FL1Kca;4OBJLual30L7gRl5UkeRcT;23zg3TcAtWQy7J6upgbUnj,A$AP Rocky; T.I.; USHER
+clique,571,,3,3,1.0,0,3,2n4DcAtRMvfyRX3ljeC8Kp;3wcj11K77LjEY1PkEazffa;7gEgjd9W1P1iAD9FbubrqC,2Baba; Burna Boy; Timaya
+clique,572,,3,3,1.0,0,3,6qGkLCMQkNGOJ079iEcC5k;4e9ML6IDGbv8W09mMlStKc;6H6kEm6c01DA6idz9cV34a,Ben Platt; Colton Ryan; Nik Dodani
+clique,578,,3,3,1.0,0,3,7uaIm6Pw7xplS8Dy06V6pT;7c0XG5cIJTrrAgEC3ULPiq;1Xylc3o4UrD53lo9CvFvVg,Trevor Daniel; Ty Dolla $ign; Zara Larsson
+clique,579,,3,3,1.0,0,3,4iHNK0tOyZPYnBU7nGAgpQ;3aQeKQSyrW4qWr35idm0cy;7c0XG5cIJTrrAgEC3ULPiq,Mariah Carey; T-Pain; Ty Dolla $ign
+clique,582,,3,3,1.0,0,3,1l8Fu6IkuTP0U5QetQJ5Xt;0TnOYISbd1XYRBk9myaseg;7c0XG5cIJTrrAgEC3ULPiq,Fifth Harmony; Pitbull; Ty Dolla $ign
+clique,583,,3,3,1.0,0,3,69GGBxA162lTqCwzJG5jLp;7c0XG5cIJTrrAgEC3ULPiq;5vBrKGOjN10BMwB0cJADj4,The Chainsmokers; Ty Dolla $ign; bülow
+clique,584,,3,3,1.0,0,3,5ZS223C6JyBfXasXxrRqOk;0cGUm45nv7Z6M6qdXYQGTX;7c0XG5cIJTrrAgEC3ULPiq,Jhené Aiko; Kehlani; Ty Dolla $ign
+clique,585,,3,3,1.0,0,3,7dGJo4pcD2V6oG8kP0tJRR;0cGUm45nv7Z6M6qdXYQGTX;7c0XG5cIJTrrAgEC3ULPiq,Eminem; Kehlani; Ty Dolla $ign
+clique,587,,3,3,1.0,0,3,5y2Xq6xcjJb2jVM54GHK3t;4iHNK0tOyZPYnBU7nGAgpQ;7c0XG5cIJTrrAgEC3ULPiq,John Legend; Mariah Carey; Ty Dolla $ign
+clique,589,,3,3,1.0,0,3,5ZS223C6JyBfXasXxrRqOk;69GGBxA162lTqCwzJG5jLp;7c0XG5cIJTrrAgEC3ULPiq,Jhené Aiko; The Chainsmokers; Ty Dolla $ign
+clique,593,,3,3,1.0,0,3,4VMYDCV2IEDYJArk749S6m;3yDIp0kaq9EFKe07X1X2rz;1mcTU81TzQhprhouKaTkpq,Daddy Yankee; Nile Rodgers; Rauw Alejandro
+clique,602,,3,3,1.0,0,3,26U46Xf7kbFrg4CNJ35LCs;1Mxqyy3pSjf8kZZL4QVxS0;2HcwFjNelS49kFbfvMxQYw,Al Schmitt; Frank Sinatra; Robbie Williams
+clique,605,,3,3,1.0,0,3,1PpDfXOUG7gxUjR1quWnwp;4qXC0i02bSFstECuXP2ZpL;2YZyLoL8N0Wb9xBt1NhZWg,Amanda Reifer; Blxst; Kendrick Lamar
+clique,607,,3,3,1.0,0,3,1vyhD5VmyZ7KMfW5gqLgo5;04gDigrS5kc9YWfZHwBETP;3vTQIVydSLfIKWUL2VNwKo,J Balvin; Maroon 5; Rumba Whoa
+clique,612,,3,3,1.0,0,3,6gj3sMEZYP6IESIptoXnrP;0cGUm45nv7Z6M6qdXYQGTX;4frXpPxQQZwbCu3eTGnZEw,Ambré; Kehlani; Thundercat
+clique,635,,3,3,1.0,0,3,0YWxKQj2Go9CGHCp77UOyy;2DlGxzQSjYe5N6G9nkYghR;55Aa2cqylxrFIXC767Z865,Fabolous; Jennifer Lopez; Lil Wayne
+clique,637,,3,3,1.0,0,3,3ScY9CQxNLQei8Umvpx5g6;2DlGxzQSjYe5N6G9nkYghR;55Aa2cqylxrFIXC767Z865,Fat Joe; Jennifer Lopez; Lil Wayne
+clique,645,,3,3,1.0,0,3,06knYh538h5SI7OAEF8ek3;3AA28KZvwAUcZuOKwyblJQ;7yE0pgnhHPnPk4GZVuEpZM,Georgia; Gorillaz; Peter Hook
+clique,647,,3,3,1.0,0,3,6p2442ymrT9lZEuCZJdYcH;0TnOYISbd1XYRBk9myaseg;1wZtkThiXbVNtj6hee6dz9,Ivy Queen; Pitbull; Wisin & Yandel
+clique,648,,3,3,1.0,0,3,0cGUm45nv7Z6M6qdXYQGTX;3jk39CGeaaSO3FPKNx1RUx;5ZsFI1h6hIdQRw2ti0hz81,Kehlani; Syd; ZAYN
+clique,679,,3,3,1.0,0,3,3wcj11K77LjEY1PkEazffa;3KV3p5EY4AvKxOlhGHORLg;22099GssG7Ood0d5UIh2wo,Burna Boy; Jeremih; Serani
+clique,683,,3,3,1.0,0,3,3Wb38LDP3N4tkobValgE9D;790FomKkXshlbRYZFtlgla;4V8Sr092TqfHkfAA5fXXqG,Juanka; KAROL G; Luis Fonsi
+clique,684,,3,3,1.0,0,3,4V8Sr092TqfHkfAA5fXXqG;1SupJlEpv7RS2tPNRaHViT;07YUOmWljBTXwIseAUd9TW,Luis Fonsi; Nicky Jam; Sebastian Yatra
+clique,697,,3,3,1.0,0,3,07YZf4WDAMNwqr4jfgOZ8y;5t8TY2JQSgOFsmsmtke2X3;3sW2ARRvBTwkbsLreWxFLH,Jason Derulo; Justin Michael; Kemal
+clique,699,,3,3,1.0,0,3,5nlhxXs2Lgr8nH98jC26pw;7JiPpkoUmp2HSySl5qDp65;0r99Ow6eB37tKkxxeAAjPP,Costi; Florin Baboi; Liviu Puștiu
+clique,700,,3,3,1.0,0,3,3A2jfQOLgo5rV4GYFHbEA2;02kJSzxNuaWGqwubyUba0Z;6GI52t8N5F02MxU0g5U69P,Diane Warren; G-Eazy; Santana
+clique,701,,3,3,1.0,0,3,1gkcZQArk5rV8uBwG8y5FX;6kMdhTURJF1io3LSc1XO8D;5OAt5hmsLcnFdk4Mly1Peq,Amy Adams; Danny Pino; Kaitlyn Dever
+clique,706,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;1anyVhU62p31KFi8MEzkbf;0cGUm45nv7Z6M6qdXYQGTX,Cardi B; Chance the Rapper; Kehlani
+clique,714,,3,3,1.0,0,3,4Gso3d4CscCijv0lmajZWs;1U1el3k54VvEUzo3ybLPlM;7tYKF4w9nC0nq9CsPZTHyP,Don Toliver; Kali Uchis; SZA
+clique,716,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;04gDigrS5kc9YWfZHwBETP;7tYKF4w9nC0nq9CsPZTHyP,Cardi B; Maroon 5; SZA
+clique,717,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;1anyVhU62p31KFi8MEzkbf;7tYKF4w9nC0nq9CsPZTHyP,Cardi B; Chance the Rapper; SZA
+clique,722,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;1vyhD5VmyZ7KMfW5gqLgo5;04gDigrS5kc9YWfZHwBETP,Cardi B; J Balvin; Maroon 5
+clique,723,,3,3,1.0,0,3,2R21vXR83lH98kGeO99Y66;1vyhD5VmyZ7KMfW5gqLgo5;04gDigrS5kc9YWfZHwBETP,Anuel AA; J Balvin; Maroon 5
+clique,729,,3,3,1.0,0,3,2R21vXR83lH98kGeO99Y66;1yxSLGMDHlW21z4YXirZDS;1vyhD5VmyZ7KMfW5gqLgo5,Anuel AA; Black Eyed Peas; J Balvin
+clique,737,,3,3,1.0,0,3,4HJnsUVBubdKJ2aV0sr48u;0TnOYISbd1XYRBk9myaseg;2EwZTE4cjewxoigHD5Y3UF,Ape Drums; Pitbull; Steven A. Clark
+clique,750,,3,3,1.0,0,3,5fMUXHkw8R8eOP2RNVYEZX;1uNFoZAHBGtllmzznpCI3s;55Aa2cqylxrFIXC767Z865,Diplo; Justin Bieber; Lil Wayne
+clique,760,,3,3,1.0,0,3,6Ip8FS7vWT1uKkJSweANQK;6eUKZXaKkcviH0Ku9w2n3V;3vQ0GE3mI0dAaxIMYe5g7z,Dave; Ed Sheeran; Paulo Londra
+clique,761,,3,3,1.0,0,3,0MlOPi3zIDMVrfA9R04Fe3;3aBkeBhwadnWMWoVJ2CxJC;6GI52t8N5F02MxU0g5U69P,American Authors; Rob Thomas; Santana
+clique,762,,3,3,1.0,0,3,0l5H72fflgm634WMUPa2OR;6GI52t8N5F02MxU0g5U69P;5hakvfZA5E4rv4n5jK2scy,Ismaïla; Santana; Sixu Toure
+clique,763,,3,3,1.0,0,3,2R21vXR83lH98kGeO99Y66;1yxSLGMDHlW21z4YXirZDS;2Di8r9df6xjyj6CVOqbGVz,Anuel AA; Black Eyed Peas; Marshall Jefferson
+clique,765,,3,3,1.0,0,3,6cwlhbT6PnscdmUYCLUJsa;7LG53jECtUcHSydosLw8fW;3aQeKQSyrW4qWr35idm0cy,Bone Crusher; MempHitz Wright; T-Pain
+clique,766,,3,3,1.0,0,3,3IYIeoTHXuOIqvwfBKFvZd;7g7balLxPLAoqoeL3QTnQA;07YZf4WDAMNwqr4jfgOZ8y,Cesar Murillo; Ian Nieman; Jason Derulo
+clique,778,,3,3,1.0,0,3,25uiPmTg16RbhZWAqwLBy5;202HZzqKvPsMHcbwnDZx7u;1HY2Jd0NmPuamShAr6KMms,Charli xcx; Dorian Electra; Lady Gaga
+clique,780,,3,3,1.0,0,3,1okJ4NC308qbtY9LyHn6DO;1HY2Jd0NmPuamShAr6KMms;1KpCi9BOfviCVhmpI4G2sY,BloodPop®; Lady Gaga; Tchami
+clique,781,,3,3,1.0,0,3,335TWGWGFan4vaacJzSiU8;25uiPmTg16RbhZWAqwLBy5;1HY2Jd0NmPuamShAr6KMms,A. G. Cook; Charli xcx; Lady Gaga
+clique,784,,3,3,1.0,0,3,25u5QFxy3HVQsbcbxHOP62;1HY2Jd0NmPuamShAr6KMms;2KEqzdPS7M5YwGmiuPTdr5,Clarence Clarity; Lady Gaga; Rina Sawayama
+clique,785,,3,3,1.0,0,3,5bfqwcEcRrMhtY9smw3IeJ;3JhNCzhSMTxs9WLGJJxWOY;6WZfEqqsYujHTUDuNd5Lbc,Dave B.; Macklemore; Travis Thompson
+clique,788,,3,3,1.0,0,3,4AA474G2hRfrHyGrfyDseO;6XpXnnKHIhCOUbOLOJGe6o;4RfOLIFy2xEmlWzXEVmLJn,Mozzy; REASON; Sjava
+clique,790,,3,3,1.0,0,3,3wcj11K77LjEY1PkEazffa;6eUKZXaKkcviH0Ku9w2n3V;2SrSdSvpminqmStGELCSNd,Burna Boy; Ed Sheeran; Stormzy
+clique,800,,3,3,1.0,0,3,6eUKZXaKkcviH0Ku9w2n3V;3Y7RZ31TRPVadSFVy1o8os;6LuN9FCkKOj5PcnpouEgny,Ed Sheeran; H.E.R.; Khalid
+clique,808,,3,3,1.0,0,3,0NZsNnETGPWLKJj2Y0vpBx;3AA28KZvwAUcZuOKwyblJQ;6yJ6QQ3Y5l0s0tn7b0arrO,CHAI; Gorillaz; JPEGMAFIA
+clique,809,,3,3,1.0,0,3,6M2wZ9GZgrQXHCFfjv46we;3PhoLpVuITZKcymswpck5b;6n28c9qs9hNGriNa72b26u,Dua Lipa; Elton John; PNAU
+clique,822,,3,3,1.0,0,3,0UntV1Bw2hk3fbRrm9eMP6;7ieMQQDR0bdBPz572mtxwS;2dd5mrQZvg6SmahdgVKDzh,B.I; BOBBY; PSY
+clique,823,,3,3,1.0,0,3,3AA28KZvwAUcZuOKwyblJQ;6sKLLGj7SqbP2qDBdEOoZ6;4sSSkVtrCTzENCgm2vokiY,Gorillaz; Martina Topley-Bird; Roots Manuva
+clique,825,,3,3,1.0,0,3,1uLYUm2A6kpFYAECfAFoH1;13ubrt8QOOCPljQ2FL1Kca;0tPjSrb43a58uznKru1k2P,A$AP NAST; A$AP Rocky; A$AP Twelvyy
+clique,826,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;04gDigrS5kc9YWfZHwBETP;0A0FS04o6zMoto8OKPsDwY,Cardi B; Maroon 5; YG
+clique,827,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;3nwYsifpwrKmCIpw4i0HDW;5t6cgFa6vbJbNuxUTgT1L9,Cardi B; Konshens; Tina (Hoodcelebrityy)
+clique,828,,3,3,1.0,0,3,4kYSro6naA4h99UJvo89HB;1anyVhU62p31KFi8MEzkbf;6eUKZXaKkcviH0Ku9w2n3V,Cardi B; Chance the Rapper; Ed Sheeran
+clique,841,,3,3,1.0,0,3,04abdnqPQe2N4fjztDea6z;0TnOYISbd1XYRBk9myaseg;2mxe0TnaNL039ysAj51xPQ,Austin Mahone; Pitbull; R. Kelly
+clique,843,,3,3,1.0,0,3,45eNHdiiabvmbp4erw26rg;1cZQSpDsxgKIX2yW5OR9Ot;69GGBxA162lTqCwzJG5jLp,ILLENIUM; Lennon Stella; The Chainsmokers
+clique,854,,3,3,1.0,0,3,1HBjj22wzbscIZ9sEb5dyf;1cZQSpDsxgKIX2yW5OR9Ot;5pUo3fmmHT8bhCyHE52hA6,Jonas Blue; Lennon Stella; Liam Payne
+clique,857,,3,3,1.0,0,3,364Dr4NZu27f3AzS79o1SN;1CFCsEqKrCyvAFKOATQHiW;4aWpJudn4ljEWahx6cPEGu,Crystal Nicole; Lecrae; Sean Garrett
+clique,859,,3,3,1.0,0,3,5SXuuuRpukkTvsLuUknva1;2YZyLoL8N0Wb9xBt1NhZWg;1SIw8nXWjvAKeb6Dhh85cz,Baby Keem; Kendrick Lamar; Sam Dew
+clique,860,,3,3,1.0,0,3,3AA28KZvwAUcZuOKwyblJQ;2p1fiYHYiXz9qi0JJyxBzN;6JpZEemWmunccsrHXFUOgi,Gorillaz; Skepta; Tony Allen
+clique,862,,3,3,1.0,0,3,4Gso3d4CscCijv0lmajZWs;61GrWHOtJOXpqQjibezT8i;2SJhf6rTOU53g8yBdAjPby,Don Toliver; HVN; SoFaygo
+clique,867,,3,3,1.0,0,3,6jJ0s89eD6GaHleKKya26X;2wIVse2owClT7go1WT98tk;5Y5TRrQiqgUO4S36tzjIRZ,Katy Perry; Missy Elliott; Timbaland
+clique,873,,3,3,1.0,0,3,1E1W3to8HhGSkkIEUMwEjd;7MFJyevu6jq0shwDuVLymu;60d24wfXkVzDSfLS6hyCjZ,Dewain Whitmore; Justin Mylo; Martin Garrix
+clique,875,,3,3,1.0,0,3,07YZf4WDAMNwqr4jfgOZ8y;5qy5uPg15aiNE4uiAxcqkT;1bCguO41hmdYOmeg7GgYX5,Jason Derulo; Mike Rizzo; Steve Migliore
+clique,881,,3,3,1.0,0,3,02kJSzxNuaWGqwubyUba0Z;246dkjvS1zLTtiykXe5h60;0A0FS04o6zMoto8OKPsDwY,G-Eazy; Post Malone; YG
+clique,882,,3,3,1.0,0,3,55Aa2cqylxrFIXC767Z865;246dkjvS1zLTtiykXe5h60;0A0FS04o6zMoto8OKPsDwY,Lil Wayne; Post Malone; YG
+clique,883,,3,3,1.0,0,3,3ZpJUzKJR0vf1BoQ7NDYXs;7LOHocDfDRSAznhI11LhJ5;5WUlDfRSoLAfcVSX1WnrxN,Felix Bloxsom; Plastic Plates; Sia
+clique,885,,3,3,1.0,0,3,6c0mTNAxJxlp9HpKTUZwA8;25uiPmTg16RbhZWAqwLBy5;4NHQUGzhtTLFvgF5SZesLK,ALMA; Charli xcx; Tove Lo
+clique,904,,3,3,1.0,0,3,0jnsk9HBra6NMjO2oANoPY;27fy6rHPC58Eo2VUu0iJSG;6d47Z08T4snK50HgTEHo5Z,Flo Rida; Lookas; Sage The Gemini
+clique,915,,3,3,1.0,0,3,31W5EY0aAly4Qieq6OFu6I;6eUKZXaKkcviH0Ku9w2n3V;20sxb77xiYeusSH8cVdatc,A Boogie Wit da Hoodie; Ed Sheeran; Meek Mill
+clique,919,,3,3,1.0,0,3,6eUKZXaKkcviH0Ku9w2n3V;3PhoLpVuITZKcymswpck5b;50co4Is1HCEo8bhOyUWKpn,Ed Sheeran; Elton John; Young Thug
+clique,920,,3,3,1.0,0,3,0du5cEVh5yTK9QJze8zA0C;4YLtscXsxbVgi031ovDDdh;6eUKZXaKkcviH0Ku9w2n3V,Bruno Mars; Chris Stapleton; Ed Sheeran
+clique,921,,3,3,1.0,0,3,3wcj11K77LjEY1PkEazffa;6eUKZXaKkcviH0Ku9w2n3V;6LuN9FCkKOj5PcnpouEgny,Burna Boy; Ed Sheeran; Khalid
+clique,925,,3,3,1.0,0,3,6eUKZXaKkcviH0Ku9w2n3V;2a0uxJgbvvIRI4GX8pYfcr;50co4Is1HCEo8bhOyUWKpn,Ed Sheeran; J Hus; Young Thug
+clique,928,,3,3,1.0,0,3,3wcj11K77LjEY1PkEazffa;4ovtyvs7j1jSmwhkBGHqSr;4YIOi9aFNviV1jRQeiNZgO,Burna Boy; Olamide; Reminisce
+clique,929,,3,3,1.0,0,3,51qUDJb5AtQX6jIL4VJx6M;3wcj11K77LjEY1PkEazffa;3QJzdZJYIAcoET1GcfpNGi,Angelique Kidjo; Burna Boy; Damian Marley
+clique,937,,3,3,1.0,0,3,4gzpq5DPGxSnKTe4SA8HAU;0QWrMNukfcVOmgEU0FEDyD;0FPWyyf6MD4QZTj3aypD3O,Coldplay; Jacob Collier; We Are KING
+clique,949,,3,3,1.0,0,3,1l8Fu6IkuTP0U5QetQJ5Xt;2wIVse2owClT7go1WT98tk;0TnOYISbd1XYRBk9myaseg,Fifth Harmony; Missy Elliott; Pitbull
+clique,950,,3,3,1.0,0,3,5rQoBDKFnd1n6BkdbgVaRL;0TnOYISbd1XYRBk9myaseg;5fJsY7afrbsyzJj9wdzJMh,"Guru Randhawa; Pitbull; Tito ""El Bambino"""
+clique,970,,3,3,1.0,0,3,2gBjLmx6zQnFGQJCAQpRgw;2RdwBSPQiwcmiDo9kixcl8;0TnOYISbd1XYRBk9myaseg,Nelly; Pharrell Williams; Pitbull
+clique,989,,3,3,1.0,0,3,7w29UYBi0qsHi5RTcv3lmA;3PoL7vyzUvuRYFu9snvpTd;7w0e6inAfRWIEb9tWVgB7a,Björk; Solomon Is. Song'; These New Puritans
+clique,992,,3,3,1.0,0,3,4ArPQ1Opcksbbf3CPwEjWE;790FomKkXshlbRYZFtlgla;3ipn9JLAPI5GUEo4y4jcoi,Emilee; KAROL G; Ludacris
+clique,1007,,3,3,1.0,0,3,7aA592KWirLsnfb5ulGWvU;3AA28KZvwAUcZuOKwyblJQ;1U0sIzpRtDkvu1hXXzxh60,Danny Brown; Gorillaz; Kelela
+clique,1009,,3,3,1.0,0,3,3zTOe1BtyTkwNvYZOxXktX;49FeZO3eSrJs7oH7lYLU1r;4iHNK0tOyZPYnBU7nGAgpQ,Joe; Kelly Price; Mariah Carey
+clique,1015,,3,3,1.0,0,3,1GKIlPFdcewHtpDVCQ8zmJ;3Wb38LDP3N4tkobValgE9D;790FomKkXshlbRYZFtlgla,Brray; Juanka; KAROL G
+clique,1020,,3,3,1.0,0,3,5olDKSsFhhmwh8UCWwKtpq;3RUkZmzbeG3Xm9UYu0mOVa;6GI52t8N5F02MxU0g5U69P,Chick Corea; Gayle Moran Corea; Santana
+clique,1021,,3,3,1.0,0,3,25uiPmTg16RbhZWAqwLBy5;202HZzqKvPsMHcbwnDZx7u;2tSv9mEQSuNVMGr9qjYfkr,Charli xcx; Dorian Electra; Mykki Blanco
+clique,1029,,3,3,1.0,0,3,1h2OVSKRdJHnVqyCKqCLkf;0OoOBeRsejOlI6XucsBAXP;04gDigrS5kc9YWfZHwBETP,?uestlove; James Poyser; Maroon 5
+clique,1031,,3,3,1.0,0,3,6xBZgSMsnKVmaAxzWEwMSD;73yonhSeG9UY7shqUfk6cd;7eVbT3G1ggf2sz6s7ZV0Ap,Mike Shinoda; Mr. Hahn; X-Ecutioners
+clique,1036,,3,3,1.0,0,3,77AiFEVeAVj2ORpC85QVJs;3aQeKQSyrW4qWr35idm0cy;67nwj3Y5sZQLl72VNUHEYE,Steve Aoki; T-Pain; Wale
+clique,1051,,3,3,1.0,0,3,53B8dEQzmtefvkdCAkO0YR;4iHNK0tOyZPYnBU7nGAgpQ;2XH6h2sS6oSr27Yy4GyLlY,Krayzie Bone; Mariah Carey; Wish Bone
+clique,1054,,3,3,1.0,0,3,2R21vXR83lH98kGeO99Y66;4q3ewBCX7sLwd24euuV69X;0GM7qgcRCORpGnfcN2tCiB,Anuel AA; Bad Bunny; Tainy
+clique,1055,,3,3,1.0,0,3,2R21vXR83lH98kGeO99Y66;04gDigrS5kc9YWfZHwBETP;0GM7qgcRCORpGnfcN2tCiB,Anuel AA; Maroon 5; Tainy
+clique,1057,,3,3,1.0,0,3,5Matrg5du62bXwer29cU5T;67gqUXxHedeUGDTxwBzdjS;55Aa2cqylxrFIXC767Z865,Benny The Butcher; Conway the Machine; Lil Wayne
+clique,1059,,3,3,1.0,0,3,6FD0unjzGQhX3b6eMccMJe;2YZyLoL8N0Wb9xBt1NhZWg;57LYzLEk2LcFghVwuWbcuS,Ghostface Killah; Kendrick Lamar; Summer Walker
+clique,1085,,3,3,1.0,0,3,5cj0lLjcoR7YOSnhnX0Po5;13y7CgLHjMVRMDqxdx0Xdo;55Aa2cqylxrFIXC767Z865,Doja Cat; Gucci Mane; Lil Wayne
+clique,1090,,3,3,1.0,0,3,4bYPcJP5jwMhSivRcqie2n;07YZf4WDAMNwqr4jfgOZ8y;04gDigrS5kc9YWfZHwBETP,Adam Levine; Jason Derulo; Maroon 5
+clique,1091,,3,3,1.0,0,3,4iHNK0tOyZPYnBU7nGAgpQ;2x8KDZdSONA3872CnhaAlX;3aQeKQSyrW4qWr35idm0cy,Mariah Carey; Styles P; T-Pain
+clique,1093,,3,3,1.0,0,3,4iHNK0tOyZPYnBU7nGAgpQ;3aQeKQSyrW4qWr35idm0cy;67nwj3Y5sZQLl72VNUHEYE,Mariah Carey; T-Pain; Wale
+clique,1094,,3,3,1.0,0,3,4dvZ0abeUaiHm7Fu9Gj0PQ;5gCRApTajqwbnHHPbr2Fpi;64KEffDW9EtZ1y2vBYgq8T,Eptic; Juicy J; Marshmello
+clique,1095,,3,3,1.0,0,3,3XcCT5MPlQPWFTJyzXbfuX;2mxe0TnaNL039ysAj51xPQ;3aQeKQSyrW4qWr35idm0cy,Maejor; R. Kelly; T-Pain
+clique,1108,,3,3,1.0,0,3,5r0KYGxdIZEHZ6z6XbkVbo;12Kgt2eahvxNWhD5PnSUde;7hJcb9fa4alzcOq3EaNPoG,Marvin Sapp; Mary Mary; Snoop Dogg
+clique,1229,,3,3,1.0,0,3,07YZf4WDAMNwqr4jfgOZ8y;5gCRApTajqwbnHHPbr2Fpi;7hJcb9fa4alzcOq3EaNPoG,Jason Derulo; Juicy J; Snoop Dogg
+clique,1232,,3,3,1.0,0,3,3ztRvLHfjg9WWQ9Xn7t2Ub;7lznLZ0cgFa9Hoaks62oeU;7hJcb9fa4alzcOq3EaNPoG,K.V; Mahallia Franklin; Snoop Dogg
+clique,1237,,3,3,1.0,0,3,0399oiMcmbOzzsYQDNYqxn;0EeQBlQJFiAfJeVN2vT9s0;7hJcb9fa4alzcOq3EaNPoG,JasonMartin; Nipsey Hussle; Snoop Dogg
+clique,1238,,3,3,1.0,0,3,0EeQBlQJFiAfJeVN2vT9s0;7hJcb9fa4alzcOq3EaNPoG;0A0FS04o6zMoto8OKPsDwY,Nipsey Hussle; Snoop Dogg; YG
+clique,1245,,3,3,1.0,0,3,65dGLGjkw3UbddUg2GKQoZ;6qgnBH6iDM91ipVXv28OMu;7hJcb9fa4alzcOq3EaNPoG,BADBADNOTGOOD; KAYTRANADA; Snoop Dogg
+clique,1246,,3,3,1.0,0,3,7gWumE1wMALHXANLSIt054;4tMm1dU6Gn04VAZ9ClHcIZ;7hJcb9fa4alzcOq3EaNPoG,Dreezy; Jacquees; Snoop Dogg
+clique,1249,,3,3,1.0,0,3,4VMYDCV2IEDYJArk749S6m;20qISvAhX20dpIbOOzGK3q;7hJcb9fa4alzcOq3EaNPoG,Daddy Yankee; Nas; Snoop Dogg
+clique,1269,,3,3,1.0,0,3,0YinUQ50QDB7ZxSCLyQ40k;7hJcb9fa4alzcOq3EaNPoG;0A0FS04o6zMoto8OKPsDwY,Mustard; Snoop Dogg; YG
+clique,1272,,3,3,1.0,0,3,6hhtDxcWeOeWLn3z2IgDum;05RZIdfz59ZW2FvFuwnmNK;7hJcb9fa4alzcOq3EaNPoG,Big Pimpin; K-Ci & JoJo; Snoop Dogg
+clique,1275,,3,3,1.0,0,3,7dGJo4pcD2V6oG8kP0tJRR;3drEaBmm4UexsiDfz5AzXV;7hJcb9fa4alzcOq3EaNPoG,Eminem; RBX; Snoop Dogg
+clique,1280,,3,3,1.0,0,3,5gCRApTajqwbnHHPbr2Fpi;7EEiVZvj6RCEtVX2F2pyxu;7hJcb9fa4alzcOq3EaNPoG,Juicy J; Slim Jxmmi; Snoop Dogg
+clique,1281,,3,3,1.0,0,3,4q3ewBCX7sLwd24euuV69X;37230BxxYs9ksS7OkZw3IU;7ltDVBr6mKbRvohxheJ9h1,Bad Bunny; Chencho Corleone; ROSALÍA
+clique,1286,,3,3,1.0,0,3,1Cs0zKBU1kc0i8ypK3B9ai;3ipn9JLAPI5GUEo4y4jcoi;6MF9fzBmfXghAz953czmBC,David Guetta; Ludacris; Taio Cruz
+clique,1293,,3,3,1.0,0,3,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;6vXTefBL93Dj5IqAWq6OTv,Black Eyed Peas; David Guetta; French Montana
+clique,1298,,3,3,1.0,0,3,13ubrt8QOOCPljQ2FL1Kca;4jzvaIdQqLBp0wW2ZYkFAu;6yR6M6V6I7GhhYf6A7Wif9,A$AP Rocky; Chace Infinite; SpaceGhostPurrp
+clique,1304,,3,3,1.0,0,3,4VMYDCV2IEDYJArk749S6m;1uNFoZAHBGtllmzznpCI3s;20qISvAhX20dpIbOOzGK3q,Daddy Yankee; Justin Bieber; Nas
+clique,1305,,3,3,1.0,0,3,4obzFoKoKRHIphyHzJ35G3;1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai,Becky G; Black Eyed Peas; David Guetta
+clique,1306,,3,3,1.0,0,3,04gDigrS5kc9YWfZHwBETP;0EeQBlQJFiAfJeVN2vT9s0;0A0FS04o6zMoto8OKPsDwY,Maroon 5; Nipsey Hussle; YG
+clique,1308,,3,3,1.0,0,3,1yxSLGMDHlW21z4YXirZDS;1Cs0zKBU1kc0i8ypK3B9ai;7sfl4Xt5KmfyDs2T3SVSMK,Black Eyed Peas; David Guetta; Lil Jon
+clique,1310,,3,3,1.0,0,3,1yxSLGMDHlW21z4YXirZDS;4VMYDCV2IEDYJArk749S6m;20qISvAhX20dpIbOOzGK3q,Black Eyed Peas; Daddy Yankee; Nas
+clique,1311,,3,3,1.0,0,3,07YZf4WDAMNwqr4jfgOZ8y;0u2FHSq3ln94y5Q57xazwf;7guDJrEfX3qb6FEbdPA5qi,Jason Derulo; Keith Urban; Stevie Wonder
+clique,1312,,3,3,1.0,0,3,6LEeAFiJF8OuPx747e1wxR;4iHNK0tOyZPYnBU7nGAgpQ;1W9qOBYRTfP7HcizWN43G1,Blood Orange; Mariah Carey; Slick Rick
+clique,1318,,3,3,1.0,0,3,5MbNzCW3qokGyoo9giHA3V;3AA28KZvwAUcZuOKwyblJQ;68kEuyFKyqrdQQLLsmiatm,EARTHGANG; Gorillaz; Vince Staples
