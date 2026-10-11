@@ -84,6 +84,11 @@ eigenvector_centrality = nx.eigenvector_centrality(
   tol=1e-06
 )
 
+# 5. Supplementary analysis: weighted degree (node strength)
+# Sum of shared songs across an artist's collaborations
+weighted_degree = dict(G_main.degree(weight="weight"))
+
+
 print("Centrality calculation completed!")
 
 # Create results table
@@ -99,6 +104,7 @@ for artist_id in G_main.nodes():
     "betweenness_centrality": betweenness_centrality.get(artist_id, 0),
     "closeness_centrality": closeness_centrality.get(artist_id, 0),
     "eigenvector_centrality": eigenvector_centrality.get(artist_id, 0),
+    "weighted_degree": weighted_degree.get(artist_id, 0),
   })
   
 centrality_df = pd.DataFrame(results)
@@ -248,3 +254,123 @@ for metric in metrics:
    )
    
    plt.close()
+   
+
+# Supplementary analysis: weighted degree
+
+# Rank every artist by degree and weighted degree
+weighted_comparison = centrality_df[[
+    "artist_id",
+    "artist_name",
+    "degree",
+    "weighted_degree"
+]].copy()
+
+weighted_comparison["degree_rank"] = (
+    weighted_comparison["degree"]
+    .rank(ascending=False, method="min")
+    .astype(int)
+)
+
+weighted_comparison["weighted_degree_rank"] = (
+    weighted_comparison["weighted_degree"]
+    .rank(ascending=False, method="min")
+    .astype(int)
+)
+
+# Select the Top 20 by weighted degree
+top20_weighted = weighted_comparison.nlargest(
+    20, "weighted_degree"
+).copy()
+
+# Save the comparison table
+top20_weighted.to_csv(
+    RESULTS_DIR / "top20_weighted_degree_comparison.csv",
+    index=False
+)
+
+print("\nTop 20 artists by weighted degree:")
+print(top20_weighted.to_string(index=False))
+
+# Visualize Top 20 weighted degree
+top20_plot = top20_weighted.sort_values("weighted_degree")
+
+plt.figure(figsize=(12, 10))
+
+plt.barh(
+    top20_plot["artist_name"],
+    top20_plot["weighted_degree"],
+    color="steelblue"
+)
+
+plt.xlabel("Sum of Shared-Song Counts Across Collaborators")
+plt.ylabel("Artist")
+plt.title("Top 20 Artists by Weighted Degree (Node Strength)")
+plt.grid(axis="x", alpha=0.2)
+plt.tight_layout()
+
+plt.savefig(
+    RESULTS_DIR / "weighted_degree-top20.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.close()
+
+# Scatter plot: Degree vs. Node Strength
+
+plt.figure(figsize=(10, 7))
+
+sns.scatterplot(
+    data=centrality_df,
+    x="degree",
+    y="weighted_degree",
+    alpha=0.5,
+    color="steelblue"
+)
+
+plt.xlabel("Degree (Number of Unique Collaborators)")
+plt.ylabel("Node Strength (Sum of Shared-Song Counts)")
+plt.title("Relationship Between Degree and Node Strength")
+
+plt.grid(alpha=0.2)
+plt.tight_layout()
+
+plt.savefig(
+    RESULTS_DIR / "degree_vs_node_strength_scatter.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.close()
+
+# Scatter plot: Degree vs. Node Strength (log scale)
+
+plt.figure(figsize=(10, 7))
+
+sns.scatterplot(
+    data=centrality_df,
+    x="degree",
+    y="weighted_degree",
+    alpha=0.35,
+    s=25,
+    color="steelblue"
+)
+
+plt.xscale("log")
+plt.yscale("log")
+
+plt.xlabel("Degree (Number of Unique Collaborators, log scale)")
+plt.ylabel("Node Strength (Sum of Shared-Song Counts, log scale)")
+plt.title("Relationship Between Degree and Node Strength")
+
+plt.grid(alpha=0.2)
+plt.tight_layout()
+
+plt.savefig(
+    RESULTS_DIR / "degree_vs_node_strength_log_scatter.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.close()
