@@ -200,7 +200,7 @@ sns.heatmap(
     cbar_kws={"label": "Centrality Rank (Lower is Better)"}
 )
 
-plt.title("Top 20 Artists: Centrality Ranking Comparison")
+plt.title("Centrality Rank Comparison of the 20 Most Connected Artists")
 plt.xlabel("Centrality Metric")
 plt.ylabel("Artist")
 plt.xticks(rotation=30, ha="right")
