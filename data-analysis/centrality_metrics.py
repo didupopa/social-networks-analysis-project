@@ -7,6 +7,7 @@ from pathlib import Path
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Project path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -115,14 +116,107 @@ centrality_df.to_csv(
 )
 
 # Find top 20 artists for each centrality measures
-metrics = ["degree_centrality", "betweenness_centrality", "closeness_centrality", "eigenvector_centrality"]
+metrics = [
+  "degree_centrality", 
+  "betweenness_centrality", 
+  "closeness_centrality", 
+  "eigenvector_centrality"
+]
 
+# Print top 20 artists for each centrality metric
 for metric in metrics:
   print(f"Top 20 artists by {metric}:")
   top20 = centrality_df.nlargest(20, metric)
   print(top20[["artist_name", metric]].to_string(index=False))
   
-  
+# Comparison of centrality metrics
+
+comparison_df = centrality_df.copy()
+
+# Calculate rankings for every artist
+# Higher centrality = better rank (1 is the highest)
+for metric in metrics:
+    comparison_df[metric + "_rank"] = (
+        comparison_df[metric]
+        .rank(ascending=False, method="min")
+        .astype(int)
+    )
+
+# Select Top 20 artists based on degree centrality
+top20_comparison = comparison_df.nlargest(
+    20,
+    "degree_centrality"
+).copy()
+
+# Select and rename columns
+top20_comparison = top20_comparison[[
+    "artist_id",
+    "artist_name",
+    "degree",
+    "degree_centrality_rank",
+    "betweenness_centrality_rank",
+    "closeness_centrality_rank",
+    "eigenvector_centrality_rank"
+]]
+
+top20_comparison.columns = [
+    "Artist ID",
+    "Artist Name",
+    "Collaborators",
+    "Degree Rank",
+    "Betweenness Rank",
+    "Closeness Rank",
+    "Eigenvector Rank"
+]
+
+# Save comparison table
+top20_comparison.to_csv(
+    RESULTS_DIR / "top20_centrality_comparison_degree.csv",
+    index=False
+)
+
+print("\nTop 20 centrality comparison by degree:")
+print(top20_comparison.to_string(index=False))
+
+# Visualise comparison with heatmap
+heatmap_data = top20_comparison.set_index("Artist Name")
+
+# Select only numerical ranking columns
+heatmap_data = heatmap_data[[
+    "Degree Rank",
+    "Betweenness Rank",
+    "Closeness Rank",
+    "Eigenvector Rank"
+]]
+
+plt.figure(figsize=(10, 12))
+
+sns.heatmap(
+    heatmap_data,
+    annot=True,
+    fmt="d",
+    cmap="YlGnBu_r",
+    linewidths=0.5,
+    cbar_kws={"label": "Centrality Rank (Lower is Better)"}
+)
+
+plt.title("Top 20 Artists: Centrality Ranking Comparison")
+plt.xlabel("Centrality Metric")
+plt.ylabel("Artist")
+plt.xticks(rotation=30, ha="right")
+plt.yticks(rotation=0)
+
+plt.tight_layout()
+
+plt.savefig(
+    RESULTS_DIR / "centrality_top20_heatmap.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.close()
+
+
 # Visualize centrality rankings
 
 # Bar chart for each metric
