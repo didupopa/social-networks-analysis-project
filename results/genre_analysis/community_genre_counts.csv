@@ -1,33 +1,29 @@
 community,main_genre,artist_count
+1,acid house,1
 1,acoustic pop,1
 1,afrikaans pop,1
-1,art pop,1
-1,avant-garde,1
-1,classic soul,1
+1,afropop,1
 1,contemporary classical,1
 1,crunk,1
 1,dancehall,1
-1,disco house,2
 1,east coast hip hop,8
+1,edm,1
 1,edm trap,1
 1,electro house,1
-1,fado,1
-1,g-funk,1
-1,gangster rap,1
-1,hyphy,2
-1,jazz pop,1
+1,funk melody,2
 1,latin hip hop,1
 1,latin pop,1
-1,neo soul,3
 1,nu metal,1
-1,old school hip hop,2
+1,old school hip hop,1
 1,pop rock,1
-1,quiet storm,3
-1,r&b,6
-1,reggae,2
-1,salsa,1
+1,psytrance,1
+1,queercore,1
+1,quiet storm,1
+1,r&b,1
+1,reggae,3
+1,soca,1
 1,southern hip hop,7
-1,tribal house,1
+1,trance,1
 2,afrobeats,1
 2,argentine trap,2
 2,bass house,2
@@ -54,106 +50,124 @@ community,main_genre,artist_count
 2,mexican indie,1
 2,moombahton,1
 2,plunderphonics,1
-2,r&b,1
+2,r&b,2
 2,rage rap,2
+2,salsa,1
 2,shoegaze,1
 2,synthwave,1
 2,uk garage,1
-3,afrobeats,1
-3,ambient,1
-3,bass house,3
-3,big beat,1
-3,big room,1
-3,chillwave,1
-3,cloud rap,1
-3,country,2
-3,drum and bass,1
-3,dubstep,1
-3,edm,2
-3,edm trap,1
-3,french pop,1
-3,future house,2
-3,grime,1
-3,idm,1
-3,melodic bass,1
-3,moombahton,1
-3,nightcore,1
-3,nu disco,1
-3,pop punk,1
-3,progressive house,3
-3,rock en español,1
-3,stutter house,1
-3,thai hip hop,1
-3,tropical house,4
-3,uk garage,2
-4,christian r&b,1
-4,classic soul,1
-4,disco,1
-4,east coast hip hop,3
-4,g-funk,8
-4,gospel,9
-4,hyphy,4
-4,malay rap,1
-4,new jack swing,1
-4,opm,1
-4,outlaw country,1
-4,philly soul,1
-4,post-disco,1
-4,queercore,1
-4,r&b,2
-4,reggae,1
-4,retro pop,1
-4,southern hip hop,3
-4,west coast hip hop,4
-5,baltimore club,1
-5,big room,7
-5,breakcore,1
-5,children's music,1
-5,city pop,1
-5,cloud rap,1
-5,corridos tumbados,1
-5,deep house,1
-5,disco house,1
-5,dubstep,4
-5,edm,2
-5,electro house,1
-5,eurodance,1
-5,frenchcore,1
-5,future bass,3
-5,future house,3
-5,happy hardcore,1
-5,hard house,1
-5,hardcore punk,1
-5,hardstyle,3
-5,indonesian pop,1
+3,christian r&b,1
+3,classic soul,1
+3,disco,1
+3,east coast hip hop,3
+3,g-funk,9
+3,gangster rap,1
+3,gospel,9
+3,hyphy,6
+3,malay rap,1
+3,neo soul,2
+3,new jack swing,1
+3,opm,1
+3,outlaw country,1
+3,philly soul,1
+3,post-disco,1
+3,r&b,1
+3,reggae,1
+3,retro pop,1
+3,riddim,1
+3,southern hip hop,5
+3,west coast hip hop,5
+4,afrobeats,1
+4,ambient,1
+4,bass house,3
+4,big beat,1
+4,big room,2
+4,chillwave,1
+4,cloud rap,1
+4,country,1
+4,dubstep,1
+4,future house,2
+4,idm,1
+4,melbourne bounce,2
+4,moombahton,1
+4,nightcore,1
+4,nu disco,1
+4,progressive house,3
+4,reggaeton,1
+4,rock en español,1
+4,spoken word,1
+4,thai hip hop,1
+4,tropical house,2
+4,uk garage,2
+5,argentine trap,1
+5,bachata,1
+5,bedroom pop,1
+5,chicago house,1
+5,chilean trap,1
+5,colombian pop,3
+5,dembow,1
+5,east coast hip hop,1
+5,europop,1
+5,finnish hip hop,1
+5,jazz funk,1
 5,k-pop,1
-5,latin house,1
-5,melbourne bounce,4
-5,moombahton,1
-5,norwegian pop,1
+5,latin afrobeats,1
+5,latin alternative,1
+5,latin hip hop,3
+5,latin indie,1
+5,latin pop,6
+5,mariachi,1
+5,merengue,1
+5,neo soul,1
+5,nu metal,1
 5,progressive house,1
-5,punk,1
-5,rap metal,1
-5,reggae,1
-5,reggaeton,1
-5,slap house,2
+5,reggaeton,24
+5,reggaeton chileno,1
+5,rockabilly,1
+5,salsa,1
+5,sertanejo,1
 5,soca,1
-5,synthpop,1
-5,tamil indie,1
-5,tech house,1
-5,trap,1
-5,tropical house,1
-5,vocaloid,1
-6,acid house,1
-6,dancehall,1
-6,dubstep,1
-6,funk melody,2
-6,math rock,1
-6,psytrance,1
-6,r&b,1
+5,trap latino,2
+5,urbano latino,1
+6,baltimore club,1
+6,big room,6
+6,breakcore,1
+6,children's music,1
+6,city pop,1
+6,cloud rap,1
+6,corridos tumbados,1
+6,deep house,1
+6,disco house,1
+6,dubstep,4
+6,edm,2
+6,electro house,1
+6,eurodance,1
+6,frenchcore,1
+6,future bass,3
+6,future house,3
+6,happy hardcore,1
+6,hard house,1
+6,hardcore punk,1
+6,hardstyle,3
+6,indonesian pop,1
+6,k-pop,1
+6,latin house,1
+6,melbourne bounce,2
+6,moombahton,1
+6,norwegian pop,1
+6,progressive house,1
+6,punk,1
+6,rap metal,1
+6,reggae,1
+6,reggaeton,1
+6,slap house,2
 6,soca,1
-6,southern hip hop,2
-6,spoken word,1
+6,synthpop,1
+6,tamil indie,1
+6,tech house,1
+6,trap,1
+6,tropical house,1
+6,vocaloid,1
 7,acid house,1
 7,alternative hip hop,1
 7,alternative r&b,1
@@ -184,204 +198,191 @@ community,main_genre,artist_count
 7,trip hop,1
 7,underground hip hop,4
 7,west coast hip hop,1
-8,alternative r&b,1
-8,argentine trap,1
-8,bachata,1
-8,bedroom pop,1
-8,brazilian pop,1
-8,chicago house,1
-8,chilean trap,1
-8,colombian pop,3
-8,dembow,1
-8,east coast hip hop,1
-8,europop,1
-8,finnish hip hop,1
-8,jazz funk,1
-8,k-pop,1
-8,latin afrobeats,1
-8,latin alternative,1
-8,latin hip hop,3
-8,latin indie,1
-8,latin pop,6
-8,mariachi,1
-8,merengue,1
-8,neo soul,1
-8,nu metal,1
-8,progressive house,1
-8,reggaeton,25
-8,reggaeton chileno,1
-8,rockabilly,1
-8,salsa,1
-8,sertanejo,1
-8,soca,1
-8,trap latino,2
-8,urbano latino,1
-9,boom bap,2
-9,cloud rap,1
-9,edm,1
-9,german hip hop,1
-9,horrorcore,1
-9,madchester,1
-9,melodic rap,1
-9,new orleans bounce,3
-9,quiet storm,1
-9,r&b,1
-9,southern hip hop,2
-9,uk drill,1
-10,alternative r&b,1
-10,blues rock,1
+8,afrobeats,1
+8,art pop,1
+8,avant-garde,1
+8,bass house,1
+8,classic soul,1
+8,dancehall,2
+8,disco house,2
+8,edm,1
+8,fado,1
+8,g-funk,1
+8,hard rock,1
+8,indie,1
+8,latin house,1
+8,math rock,1
+8,neo soul,2
+8,old school hip hop,1
+8,psychedelic rock,1
+8,quiet storm,2
+8,r&b,5
+8,reggae,1
+8,space rock,1
+8,tribal house,2
+9,acid jazz,1
+9,ballroom vogue,3
+9,bhangra,1
+9,big beat,1
+9,brazilian pop,1
+9,britpop,1
+9,chicago house,1
+9,christmas,2
+9,classic country,1
+9,classical,1
+9,country,1
+9,disco house,2
+9,folk,1
+9,french house,2
+9,french pop,1
+9,glam rock,1
+9,indie soul,1
+9,j-pop,1
+9,jazz house,1
+9,jazz pop,1
+9,musicals,1
+9,neo-psychedelic,1
+9,post-disco,1
+9,rap metal,1
+9,rock,1
+9,schlager,1
+9,swing music,4
+9,tribal house,1
+10,boom bap,2
+10,cloud rap,1
 10,east coast hip hop,1
-10,funk,1
-10,g-funk,2
-10,gqom,1
-10,indie soul,1
-10,neo soul,3
-10,old school hip hop,4
+10,german hip hop,1
+10,horrorcore,1
+10,madchester,1
+10,melodic rap,1
+10,new orleans bounce,3
+10,quiet storm,1
 10,r&b,1
-10,retro soul,1
-10,riddim,1
-10,soft pop,1
-10,underground hip hop,1
-10,west coast hip hop,1
-11,acid jazz,1
-11,ballroom vogue,3
-11,britpop,1
-11,chicago house,1
-11,christmas,2
-11,classic country,1
-11,classical,1
-11,country,2
-11,disco house,2
-11,folk,1
-11,french house,2
-11,french pop,1
-11,glam rock,1
+10,southern hip hop,2
+10,uk drill,1
+11,alternative r&b,1
+11,alté,1
+11,ballroom vogue,1
+11,bedroom pop,1
+11,cloud rap,2
+11,country,1
+11,dancehall,1
+11,drum and bass,2
+11,electroclash,2
+11,french rap,1
+11,future bass,1
+11,future house,1
+11,grime,1
 11,hardstyle,1
-11,hyperpop,2
-11,indie soul,1
-11,j-pop,1
-11,jazz house,1
-11,musicals,1
-11,neo-psychedelic,1
-11,rap metal,1
-11,rock,1
-11,schlager,1
-11,swing music,4
-12,acid house,1
-12,afrobeat,1
-12,alternative r&b,2
-12,anti-folk,1
-12,art pop,3
-12,experimental hip hop,2
+11,hyperpop,7
+11,jersey club,1
+11,jungle,1
+11,k-rap,1
+11,lo-fi indie,1
+11,new orleans bounce,1
+11,nu disco,1
+11,rally house,1
+11,stoner rock,1
+11,uk funky,2
+12,alternative r&b,1
+12,east coast hip hop,1
+12,funk,1
+12,g-funk,1
 12,gqom,1
-12,grime,2
-12,jungle,1
-12,neo-psychedelic,1
-12,smooth jazz,1
-12,son cubano,1
-12,trip hop,2
-12,uk r&b,1
-13,ballroom vogue,1
-13,bedroom pop,1
-13,dancehall,1
-13,drum and bass,1
-13,east coast hip hop,1
-13,electroclash,2
-13,future house,1
-13,hyperpop,5
-13,k-rap,1
-13,lo-fi indie,1
-13,new orleans bounce,1
-13,nu disco,1
-13,stoner rock,1
-13,uk funky,1
+12,indie soul,1
+12,neo soul,2
+12,r&b,1
+12,soft pop,1
+12,underground hip hop,1
+13,afropop,1
+13,alternative r&b,3
+13,brazilian bass,1
+13,dubstep,1
+13,indie,1
+13,indie folk,1
+13,norwegian pop,1
+13,plunderphonics,1
+13,r&b,1
+13,retro soul,2
+13,rockabilly,1
+13,score,1
+13,speed metal,1
+13,trap soul,2
+13,west coast hip hop,1
 14,baroque pop,1
 14,big room,1
 14,country,1
-14,edm,1
 14,french house,1
 14,future house,1
 14,happy hardcore,1
-14,hard rock,1
-14,latin house,1
 14,neo soul,1
 14,outlaw country,1
 14,proto-punk,1
 14,slap house,1
 14,soft pop,1
 14,stoner rock,1
-14,tribal house,1
 14,uk garage,1
-15,afropop,1
-15,alternative r&b,3
-15,brazilian bass,1
-15,dubstep,1
-15,indie,1
-15,indie folk,1
-15,norwegian pop,1
-15,plunderphonics,1
-15,r&b,1
-15,retro soul,2
-15,rockabilly,1
-15,score,1
-15,speed metal,1
-15,trap soul,2
-15,west coast hip hop,1
-16,afrobeats,1
-16,ballroom vogue,1
-16,bass house,1
-16,bhangra,1
-16,big beat,1
-16,dancehall,1
-16,indie,1
-16,nu disco,1
-16,post-disco,1
-16,psychedelic rock,1
-16,reggae,1
-16,space rock,1
-16,trance,1
-16,tribal house,1
-17,alternative r&b,1
-17,electro swing,1
-17,grime,1
-17,quiet storm,1
-17,r&b,1
-17,reggaeton,1
-17,uk r&b,1
-18,afro house,1
-18,argentine rock,1
-18,flamenco,1
-18,folklore argentino,1
-18,funk rock,1
-18,hard bop,1
-18,jazz,1
-18,jazz fusion,1
-18,latin alternative,1
-18,latin folklore,1
-18,latin pop,1
-18,modern blues,1
-18,neo soul,2
-18,nu metal,1
-18,opera,1
-18,reggae,1
-18,rock en español,1
-18,salsa choke,1
-18,yacht rock,1
-19,ccm,1
-19,city pop,2
-19,k-ballad,14
-19,k-pop,5
-19,k-rap,7
-20,afro adura,1
-20,afrobeats,7
-20,afropop,4
-20,alté,1
-20,dancehall,1
-20,gengetone,1
-20,ghanaian hip hop,1
-20,highlife,1
-20,old school hip hop,1
-20,reggae,1
+15,acid house,1
+15,afrobeat,1
+15,alternative r&b,1
+15,anti-folk,1
+15,art pop,3
+15,experimental hip hop,2
+15,gqom,1
+15,grime,2
+15,jungle,1
+15,neo-psychedelic,1
+15,smooth jazz,1
+15,son cubano,1
+15,trip hop,2
+15,uk r&b,1
+16,alternative r&b,1
+16,electro swing,1
+16,grime,1
+16,quiet storm,1
+16,r&b,1
+16,reggaeton,1
+16,uk r&b,1
+17,afro house,1
+17,argentine rock,1
+17,flamenco,1
+17,folklore argentino,1
+17,funk rock,1
+17,hard bop,1
+17,jazz,1
+17,jazz fusion,1
+17,latin alternative,1
+17,latin folklore,1
+17,latin pop,1
+17,modern blues,1
+17,neo soul,2
+17,nu metal,1
+17,opera,1
+17,reggae,1
+17,rock en español,1
+17,salsa choke,1
+17,yacht rock,1
+18,ccm,1
+18,city pop,2
+18,k-ballad,14
+18,k-pop,5
+18,k-rap,7
+19,alternative r&b,1
+19,blues rock,1
+19,old school hip hop,4
+19,retro soul,1
+20,ballroom vogue,1
+20,country,1
+20,dubstep,1
+20,edm,2
+20,edm trap,1
+20,french pop,1
+20,melodic bass,1
+20,nu disco,1
+20,pop punk,1
+20,r&b,1
+20,stutter house,1
+20,tropical house,2
 21,art pop,1
 21,drone,1
 21,drum and bass,1
@@ -391,11 +392,35 @@ community,main_genre,artist_count
 21,norwegian pop,1
 21,post-rock,1
 21,sludge metal,1
+22,afro adura,1
+22,afrobeats,7
+22,afropop,3
 22,alté,1
-22,cloud rap,2
-22,french rap,1
-22,future bass,1
-22,jersey club,1
-22,jungle,1
-22,rally house,1
-22,uk funky,1
+22,dancehall,1
+22,gengetone,1
+22,ghanaian hip hop,1
+22,highlife,1
+22,old school hip hop,1
+23,manele,4
+24,musicals,6
+25,drill,3
+25,french rap,1
+25,italian trap,2
+25,uk drill,1
+26,stutter house,1
+26,uk funky,2
+26,uk garage,1
+27,dark r&b,1
+29,americana,1
+30,christian hip hop,1
+30,christian reggae,1
+31,g-funk,1
+31,hard house,1
+33,dancehall,1
+35,garage rock,1
+36,east coast hip hop,1
+36,jungle,1
+37,french house,2
+38,bass house,1
+40,qawwali,1
+41,country,2

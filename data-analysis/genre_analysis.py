@@ -66,24 +66,12 @@ with COLLABS_CSV.open("r", encoding="utf-8", newline="") as file:
 print(f"Total artists: {G.number_of_nodes()}")
 print(f"Total collaborations: {G.number_of_edges()}")
 
-# Largest connected component sub
-
-# Find largest connected component
-largest_component = max(nx.connected_components(G), key=len)
-
-# Create a separate subgraph for the largest connected component
-G_main = G.subgraph(largest_component).copy()
-
 known_genres_graph = sum(
-    G_main.nodes[artist_id].get("main_genre") is not None
-    for artist_id in G_main.nodes()
+    G.nodes[artist_id].get("main_genre") is not None
+    for artist_id in G.nodes()
 )
 
 print(f"Known genres attached to graph: {known_genres_graph}")
-
-print("Largest connected component:")
-print(f"Total artists: {G_main.number_of_nodes()}")
-print(f"Total collaborations: {G_main.number_of_edges()}")
 
 # Genre analysis
 
@@ -110,7 +98,7 @@ print(
     .head(20)
 )
 
-# Genre coverage within the largest connected component
+# Genre coverage within the network
 
 genre_lookup = dict(
     zip(
@@ -119,23 +107,23 @@ genre_lookup = dict(
     )
 )
 
-known_genres_lcc = sum(
+known_genres = sum(
     pd.notna(genre_lookup.get(artist_id))
-    for artist_id in G_main.nodes()
+    for artist_id in G.nodes()
 )
 
-print(f"Artists in LCC: {G_main.number_of_nodes()}")
-print(f"Known genres in LCC: {known_genres_lcc}")
+print(f"Artists: {G.number_of_nodes()}")
+print(f"Known genres: {known_genres}")
 print(
-    f"Genre coverage in LCC: "
-    f"{known_genres_lcc / G_main.number_of_nodes() * 100:.1f}%"
+    f"Genre coverage: "
+    f"{known_genres / G.number_of_nodes() * 100:.1f}%"
 )
 
 
 # 2. Louvain community detection
 
 communities = nx.community.louvain_communities(
-    G_main,
+    G,
     weight=None,
     resolution=1,
     seed=42
@@ -147,7 +135,7 @@ communities = sorted(communities, key=len, reverse=True)
 print(f"\nNumber of communities: {len(communities)}")
 
 modularity = nx.community.modularity(
-    G_main,
+    G,
     communities,
     weight=None
 )
@@ -161,22 +149,22 @@ community_mapping = {
     for artist_id in community
 }
 
-nx.set_node_attributes(G_main, community_mapping, "community")
+nx.set_node_attributes(G, community_mapping, "community")
 
 
 # 3. Save artist community assignments
 
 results = []
 
-for artist_id in G_main.nodes():
-    attributes = G_main.nodes[artist_id]
+for artist_id in G.nodes():
+    attributes = G.nodes[artist_id]
 
     results.append({
         "artist_id": artist_id,
         "artist_name": attributes["name"],
         "main_genre": attributes.get("main_genre"),
         "community": community_mapping[artist_id],
-        "degree": G_main.degree(artist_id)
+        "degree": G.degree(artist_id)
     })
 
 community_df = pd.DataFrame(results)
@@ -392,21 +380,21 @@ plt.close()
 # Only include artists with known genre labels
 known_genre_nodes = [
     artist_id
-    for artist_id, attributes in G_main.nodes(data=True)
+    for artist_id, attributes in G.nodes(data=True)
     if attributes.get("main_genre") is not None
 ]
 
 # Build a graph containing only these artists
-G_genre = G_main.subgraph(known_genre_nodes).copy()
+G_genre = G.subgraph(known_genre_nodes).copy()
 
 print("\nGenre assortativity analysis")
 print(f"Artists with known genres: {G_genre.number_of_nodes()}")
 print(f"Collaborations with both genres known: {G_genre.number_of_edges()}")
 
-# What percentage of all LCC edges can we analyze?
+# What percentage of all edges can we analyze?
 edge_coverage = (
     G_genre.number_of_edges()
-    / G_main.number_of_edges()
+    / G.number_of_edges()
     * 100
 )
 
