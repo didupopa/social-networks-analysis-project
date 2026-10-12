@@ -46,22 +46,7 @@ with COLLABS_CSV.open("r", encoding="utf-8", newline="") as file:
 print(f"Total artists: {G.number_of_nodes()}")
 print(f"Total collaborations: {G.number_of_edges()}")
 
-# Largest connected component sub
-
-# Find largest connected component
-largest_component = max(nx.connected_components(G), key=len)
-
-# Create a separate subgraph for the largest connected component
-G_main = G.subgraph(largest_component).copy()
-
-print("Largest connected component:")
-print(f"Total artists: {G_main.number_of_nodes()}")
-print(f"Total collaborations: {G_main.number_of_edges()}")
-
-# Centrality metrics for G_main (largest connected component)
-#
-# Centrality metrics are calculated on the
-# largest connected component.
+# Centrality metrics
 #
 # All four metrics are unweighted.
 # Each collaboration counts as one connection,
@@ -69,24 +54,24 @@ print(f"Total collaborations: {G_main.number_of_edges()}")
 
 
 # 1. Degree centrality
-degree_centrality = nx.degree_centrality(G_main)
+degree_centrality = nx.degree_centrality(G)
 
 # 2. Betweeness centrality
-betweenness_centrality = nx.betweenness_centrality(G_main, normalized=True, weight=None)
+betweenness_centrality = nx.betweenness_centrality(G, normalized=True, weight=None)
 
 # 3. Closeness centrality
-closeness_centrality = nx.closeness_centrality(G_main)
+closeness_centrality = nx.closeness_centrality(G)
 
 # 4. Eigenvector centrality
 eigenvector_centrality = nx.eigenvector_centrality(
-  G_main,
+  G,
   max_iter=2000,
   tol=1e-06
 )
 
 # 5. Supplementary analysis: weighted degree (node strength)
 # Sum of shared songs across an artist's collaborations
-weighted_degree = dict(G_main.degree(weight="weight"))
+weighted_degree = dict(G.degree(weight="weight"))
 
 
 print("Centrality calculation completed!")
@@ -95,11 +80,11 @@ print("Centrality calculation completed!")
 
 results = []
 
-for artist_id in G_main.nodes():
+for artist_id in G.nodes():
   results.append({
     "artist_id": artist_id,
-    "artist_name": G_main.nodes[artist_id]["name"],
-    "degree": G_main.degree(artist_id),
+    "artist_name": G.nodes[artist_id]["name"],
+    "degree": G.degree(artist_id),
     "degree_centrality": degree_centrality.get(artist_id, 0),
     "betweenness_centrality": betweenness_centrality.get(artist_id, 0),
     "closeness_centrality": closeness_centrality.get(artist_id, 0),
