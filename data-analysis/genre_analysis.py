@@ -385,4 +385,107 @@ plt.savefig(
 
 plt.close()
 
+
+# EXPERIMENTAL
+# 8. Genre assortativity analysis
+
+# Only include artists with known genre labels
+known_genre_nodes = [
+    artist_id
+    for artist_id, attributes in G_main.nodes(data=True)
+    if attributes.get("main_genre") is not None
+]
+
+# Build a graph containing only these artists
+G_genre = G_main.subgraph(known_genre_nodes).copy()
+
+print("\nGenre assortativity analysis")
+print(f"Artists with known genres: {G_genre.number_of_nodes()}")
+print(f"Collaborations with both genres known: {G_genre.number_of_edges()}")
+
+# What percentage of all LCC edges can we analyze?
+edge_coverage = (
+    G_genre.number_of_edges()
+    / G_main.number_of_edges()
+    * 100
+)
+
+print(f"Collaboration edge coverage: {edge_coverage:.1f}%")
+
+# Calculate assortativity
+if G_genre.number_of_edges() > 0:
+    genre_assortativity = nx.attribute_assortativity_coefficient(
+        G_genre,
+        "main_genre"
+    )
+    print(f"Genre assortativity: {genre_assortativity:.4f}")
+else:
+    print("No edges with known genres at both endpoints.")
+
+
+# 9. Same-genre vs cross-genre collaborations
+
+same_genre_edges = 0
+cross_genre_edges = 0
+
+for artist_1, artist_2 in G_genre.edges():
+
+    genre_1 = G_genre.nodes[artist_1]["main_genre"]
+    genre_2 = G_genre.nodes[artist_2]["main_genre"]
+
+    if genre_1 == genre_2:
+        same_genre_edges += 1
+    else:
+        cross_genre_edges += 1
+
+total_known_edges = same_genre_edges + cross_genre_edges
+
+print(f"\nSame-genre collaborations: {same_genre_edges}")
+print(f"Cross-genre collaborations: {cross_genre_edges}")
+
+if total_known_edges > 0:
+    same_pct = same_genre_edges / total_known_edges * 100
+    cross_pct = cross_genre_edges / total_known_edges * 100
+
+    print(f"Same-genre percentage: {same_pct:.1f}%")
+    print(f"Cross-genre percentage: {cross_pct:.1f}%")
+
+    # Save summary
+    assortativity_summary = pd.DataFrame([{
+        "known_genre_artists": G_genre.number_of_nodes(),
+        "known_genre_edges": total_known_edges,
+        "edge_coverage_pct": edge_coverage,
+        "genre_assortativity": genre_assortativity,
+        "same_genre_edges": same_genre_edges,
+        "cross_genre_edges": cross_genre_edges,
+        "same_genre_pct": same_pct,
+        "cross_genre_pct": cross_pct
+    }])
+
+    assortativity_summary.to_csv(
+        RESULTS_DIR / "genre_assortativity_summary.csv",
+        index=False
+    )
+
+    # Bar chart
+    plt.figure(figsize=(8, 5))
+
+    plt.bar(
+        ["Same genre", "Different genres"],
+        [same_genre_edges, cross_genre_edges],
+        color=["steelblue", "darkorange"]
+    )
+
+    plt.ylabel("Number of Collaboration Edges")
+    plt.title("Same-Genre vs Cross-Genre Collaborations")
+    plt.tight_layout()
+
+    plt.savefig(
+        RESULTS_DIR / "same_vs_cross_genre_collaborations.png",
+        dpi=300,
+        bbox_inches="tight"
+    )
+
+    plt.close()
+
 print("\nCommunity analysis completed!")
