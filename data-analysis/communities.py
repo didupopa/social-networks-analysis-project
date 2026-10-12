@@ -79,6 +79,41 @@ def save_records(records, output_path):
     return df
 
 
+# helper function to identify potential bridge artists using shortes paths and k-cliques communities
+def find_bridge_artists(G, communities, k, betweenness, articulation_points):
+    memberships = {node: set() for node in G.nodes}
+    for community_id, group in enumerate(communities, 1):
+        for node in group:
+            memberships[node].add(community_id)
+
+    records = []
+    for node in G.nodes:
+        own = memberships[node]
+        neighbor_communities = set()
+        external_neighbors = set()
+        for neighbor in G.neighbors(node):
+            neighbor_communities.update(memberships[neighbor])
+            # an external neighbor reaches at least one community not containing node
+            if memberships[neighbor] - own:
+                external_neighbors.add(neighbor)
+
+        touched = own | neighbor_communities
+        records.append({
+            "artist_id": node,
+            "artist_name": G.nodes[node].get("name", str(node)),
+            "k": k,
+            "degree": G.degree(node),
+            "betweenness_centrality": round(betweenness[node], 6),
+            "articulation_point": node in articulation_points,
+            "member_communities": len(own),
+            "communities_touched": len(touched),
+            "external_communities_reached": len(touched - own),
+            "external_neighbors": len(external_neighbors),
+            "community_ids_touched": ";".join(map(str, sorted(touched))),
+        })
+
+    return records
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--artists", default=ARTIST_CSV)
@@ -122,10 +157,14 @@ def main():
     # k-clique (overlapping communities are possible)
     max_clique_size = max(len(c) for c in maximal_cliques)
     community_records = []
+    bridge_records = []
+    betweenness = nx.betweenness_centrality(G, normalized=True, weight=None)
+    articulation_points = set(nx.articulation_points(G))
     for k in range(3, max_clique_size + 1):
         communities = list(k_clique_communities(G, k, cliques=maximal_cliques))
         for i, c in enumerate(communities, 1):
             community_records.append(group_record(G, c, "k_clique_community", i, k))
+        bridge_records.extend(find_bridge_artists(G, communities, k, betweenness, articulation_points))
         # result: 
         # 3-clique communities: 227
         # 4-clique communities: 159
@@ -137,6 +176,11 @@ def main():
         # 10-clique communities: 2
         print(f"{k}-clique communities: {len(communities)}")
     save_records(community_records, output / "k_clique_communities.csv")
+
+    # potential bridge artists: shortest path betweenness and cross community links
+    bridges_df = pd.DataFrame(bridge_records).sort_values(["k", "external_communities_reached", "betweenness_centrality"], ascending=[True, False, False])
+    bridges_df.to_csv(output / "bridge_artists_all_k.csv", index=False)
+    print(f"bridge artists saved: {len(bridges_df)}")
 
     # approximate near cliques with one missing edge
     near = near_cliques_one_missing_edge(G, maximal_cliques, min_size=args.min_near_clique_size)
