@@ -24,6 +24,7 @@ METRICS = [
     "eigenvector_centrality",
 ]
 
+
 def create_graph(artists_csv, collabs_csv):
     G = nx.Graph()
 
@@ -49,7 +50,7 @@ def create_graph(artists_csv, collabs_csv):
     
     return G 
    
-# Centrality metrics
+
 def calculate_centrality(G):
     return {
         "degree_centrality": nx.degree_centrality(G),
@@ -59,7 +60,7 @@ def calculate_centrality(G):
         "weighted_degree": dict(G.degree(weight="weight"))
     }
 
-# Create results table
+
 def create_results_table(G, centralities):
     rows = []
 
@@ -124,6 +125,7 @@ def compare_centrality_rankings(df, output_dir):
     
     return top20
 
+
 # Visualize centrality rankings
 def plot_centrality_heatmap(top20, output_dir):
     heatmap_data = top20.set_index("Artist Name")[[
@@ -159,7 +161,6 @@ def plot_centrality_heatmap(top20, output_dir):
     )
 
     plt.close()
-
 
 
 # Visualize top 20 artists for each metric
@@ -226,6 +227,7 @@ def compare_weighted_degree(df, output_dir):
     
     return top20
 
+
 # Visualize Top 20 weighted degree
 def plot_weighted_degree(top20, output_dir):
     top20 = top20.sort_values("weighted_degree")
@@ -250,6 +252,7 @@ def plot_weighted_degree(top20, output_dir):
     )
 
     plt.close()
+
 
 # Scatter plot: Degree vs. Node Strength
 def plot_degree_vs_strength(df, output_dir):
@@ -288,7 +291,7 @@ def plot_degree_vs_strength(df, output_dir):
 
         plt.close()
         
-# Main function
+        
 def main():
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
