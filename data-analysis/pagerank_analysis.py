@@ -2,6 +2,7 @@ import csv
 import json
 from pathlib import Path
 from statistics import mean
+import pandas as pd
 
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -22,6 +23,13 @@ OUTPUT_SCATTER_PLOT = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-vs-degree.
 # how many top-ranked artists count as "top" for RQ2/RQ3/RQ4
 TOP_N = 20
 
+# RQ4
+COMMUNITY_ASSIGNMENTS_CSV = (
+    DATA_DIR.parent
+    / "results"
+    / "partitioning-algorithms"
+    / "community_assignments.csv"
+)
 
 # build the graph, including the collab-year edge attributes
 G = nx.Graph()
@@ -184,79 +192,203 @@ if has_year_data:
 else:
     summary["rq3_era_concentration"] = {"skipped": "no first_collab_year/last_collab_year on edges"}
 
+
 # RQ4: Do high-PageRank artists act as bridges between communities?
-try:
-    communities = nx.community.louvain_communities(G, weight="weight", seed=42)
-except AttributeError:
-    # older networkx without louvain_communities: fall back to greedy modularity
-    communities = list(nx.community.greedy_modularity_communities(G, weight="weight"))
+# Use precomputed Louvain and Leiden assignments from a CSV.
 
-community_of = {}
-for community_id, nodes in enumerate(communities):
-    for node in nodes:
-        community_of[node] = community_id
+def load_community_mapping(csv_path, algorithm):
+    """Load artist_id -> community_id for one algorithm."""
+    mapping = {}
+
+    with open(csv_path, "r", newline="", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+
+        required = {"artist_id", "community_id"}
+        if not required.issubset(reader.fieldnames or []):
+            raise ValueError(
+                f"{csv_path} must contain columns: {required}"
+            )
+
+        has_algorithm_column = "algorithm" in reader.fieldnames
+
+        for row in reader:
+            if has_algorithm_column:
+                if row["algorithm"].strip().lower() != algorithm:
+                    continue
+
+            artist_id = row["artist_id"]
+            community_id = row["community_id"]
+
+            if artist_id in mapping:
+                raise ValueError(
+                    f"Duplicate assignment for artist {artist_id} "
+                    f"in {algorithm} data."
+                )
+
+            mapping[artist_id] = community_id
+
+    if not mapping:
+        raise ValueError(
+            f"No community assignments found for {algorithm} "
+            f"in {csv_path}"
+        )
+
+    # Every graph node must have an assignment.
+    missing = set(G.nodes()) - set(mapping)
+    if missing:
+        raise ValueError(
+            f"{len(missing)} graph artists have no {algorithm} "
+            f"community assignment. Examples: {list(missing)[:5]}"
+        )
+
+    return mapping
 
 
-def bridge_score(node):
-    """fraction of a node's neighbors that sit in a DIFFERENT community"""
+def bridge_score(node, community_of):
+    """Fraction of neighbors in a different community."""
     neighbors = list(G.neighbors(node))
+
     if not neighbors:
         return 0.0
-    different = sum(1 for nb in neighbors if community_of[nb] != community_of[node])
+
+    different = sum(
+        1 for neighbor in neighbors
+        if community_of[neighbor] != community_of[node]
+    )
+
     return different / len(neighbors)
 
 
-bridge_scores = {node: bridge_score(node) for node in G.nodes()}
+top_pagerank_nodes = sorted(
+    pagerank_weighted,
+    key=pagerank_weighted.get,
+    reverse=True
+)[:TOP_N]
 
-top_pagerank_nodes = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:TOP_N]
-other_nodes = [n for n in G.nodes() if n not in set(top_pagerank_nodes)]
+top_pagerank_set = set(top_pagerank_nodes)
+other_nodes = [
+    node for node in G.nodes()
+    if node not in top_pagerank_set
+]
 
-top_bridge_scores = [bridge_scores[n] for n in top_pagerank_nodes]
-other_bridge_scores = [bridge_scores[n] for n in other_nodes]
+rq4_results = {}
+community_mappings = {}
+bridge_scores_by_algorithm = {}
 
-bridge_corr, bridge_corr_p = spearmanr(
-    [pagerank_weighted[n] for n in G.nodes()],
-    [bridge_scores[n] for n in G.nodes()],
-)
+for algorithm in ("louvain", "leiden"):
+    community_of = load_community_mapping(
+        COMMUNITY_ASSIGNMENTS_CSV, algorithm
+    )
+    community_mappings[algorithm] = community_of
 
-# Mann-Whitney U: are top-PageRank artists' bridge scores significantly different from everyone else's? 
-# bridge scores aren't normally distributed
-mw_stat, mw_p = mannwhitneyu(top_bridge_scores, other_bridge_scores, alternative="two-sided")
+    bridge_scores = {
+        node: bridge_score(node, community_of)
+        for node in G.nodes()
+    }
+    bridge_scores_by_algorithm[algorithm] = bridge_scores
 
-summary["rq4_bridging_communities"] = {
-    "description": (
-        f"Louvain communities detected ({len(communities)} total). Bridge score = "
-        "fraction of a node's neighbors sitting in a different community. "
-        f"Compares top-{TOP_N} PageRank artists against everyone else."
-    ),
-    "num_communities": len(communities),
-    "community_sizes": sorted((len(c) for c in communities), reverse=True),
-    "spearman_correlation_pagerank_vs_bridge_score": bridge_corr,
-    "spearman_p_value": bridge_corr_p,
-    "mean_bridge_score_top_pagerank": mean(top_bridge_scores),
-    "mean_bridge_score_rest_of_network": mean(other_bridge_scores),
-    "mann_whitney_p_value": mw_p,
-}
+    communities = {}
+    for node, community_id in community_of.items():
+        communities.setdefault(community_id, set()).add(node)
 
-# write per-node CSV
-with OUTPUT_NODE_CSV.open("w", newline="", encoding="utf-8") as file:
+    top_bridge_scores = [
+        bridge_scores[node] for node in top_pagerank_nodes
+    ]
+    other_bridge_scores = [
+        bridge_scores[node] for node in other_nodes
+    ]
+
+    bridge_corr, bridge_corr_p = spearmanr(
+        [pagerank_weighted[node] for node in G.nodes()],
+        [bridge_scores[node] for node in G.nodes()]
+    )
+
+    if top_bridge_scores and other_bridge_scores:
+        mw_stat, mw_p = mannwhitneyu(
+            top_bridge_scores,
+            other_bridge_scores,
+            alternative="two-sided"
+        )
+    else:
+        mw_stat, mw_p = None, None
+
+    rq4_results[algorithm] = {
+        "description": (
+            f"{algorithm.capitalize()} communities loaded from the "
+            "precomputed assignments CSV. Bridge score is the fraction "
+            "of an artist's neighbors in a different community. "
+            f"Compares the top-{TOP_N} PageRank artists with the rest."
+        ),
+        "num_communities": len(communities),
+        "community_sizes": sorted(
+            (len(members) for members in communities.values()),
+            reverse=True
+        ),
+        "spearman_correlation_pagerank_vs_bridge_score": (
+            float(bridge_corr)
+            if pd.notna(bridge_corr) else None
+        ),
+        "spearman_p_value": (
+            float(bridge_corr_p)
+            if pd.notna(bridge_corr_p) else None
+        ),
+        "mean_bridge_score_top_pagerank": (
+            mean(top_bridge_scores) if top_bridge_scores else None
+        ),
+        "mean_bridge_score_rest_of_network": (
+            mean(other_bridge_scores) if other_bridge_scores else None
+        ),
+        "mann_whitney_u_statistic": (
+            float(mw_stat) if mw_stat is not None else None
+        ),
+        "mann_whitney_p_value": (
+            float(mw_p) if mw_p is not None else None
+        ),
+    }
+    
+summary["rq4_bridging_communities"] = rq4_results
+
+
+# Write per-node CSV
+PAGERANK_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+
+with OUTPUT_NODE_CSV.open(
+    "w", newline="", encoding="utf-8"
+) as file:
     writer = csv.writer(file)
+
     writer.writerow([
-        "artist_id", "artist_name", "degree", "weighted_degree",
-        "pagerank_weighted", "pagerank_unweighted",
-        "degree_rank", "pagerank_rank", "rank_diff",
-        "community_id", "bridge_score",
+        "artist_id",
+        "artist_name",
+        "degree",
+        "weighted_degree",
+        "pagerank_weighted",
+        "pagerank_unweighted",
+        "degree_rank",
+        "pagerank_rank",
+        "rank_diff",
+        "community_id_louvain",
+        "bridge_score_louvain",
+        "community_id_leiden",
+        "bridge_score_leiden",
     ])
+
     for node in G.nodes():
         writer.writerow([
-            node, name_of(node), degree_dict[node], weighted_degree_dict[node],
-            pagerank_weighted[node], pagerank_unweighted[node],
-            degree_rank[node], pagerank_rank[node], rank_diff[node],
-            community_of[node], bridge_scores[node],
+            node,
+            name_of(node),
+            degree_dict[node],
+            weighted_degree_dict[node],
+            pagerank_weighted[node],
+            pagerank_unweighted[node],
+            degree_rank[node],
+            pagerank_rank[node],
+            rank_diff[node],
+            community_mappings["louvain"][node],
+            bridge_scores_by_algorithm["louvain"][node],
+            community_mappings["leiden"][node],
+            bridge_scores_by_algorithm["leiden"][node],
         ])
-
-with OUTPUT_SUMMARY_JSON.open("w", encoding="utf-8") as file:
-    json.dump(summary, file, indent=2)
 
 # plots
 top_15 = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:15]
