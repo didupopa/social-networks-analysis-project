@@ -39,6 +39,12 @@ def parse_markets(value):
         return set()
 
 
+# helper function to parse the main genre column in the artist CSV
+def parse_genre(value):
+    if pd.notna(value) and str(value).strip():
+        return str(value).strip()
+    return "unknown"
+
 # helper function to compute the Jaccard similarity between two sets
 def jaccard(left, right):
     return len(left & right) / len(left | right)
@@ -52,7 +58,32 @@ def stats_for_edges(edges, markets):
         "market_eligible_edges": len(eligible_market),
         "mean_market_jaccard": (sum(jaccard(markets[u], markets[v]) for u, v in eligible_market) / len(eligible_market) if eligible_market else float("nan")),
     }
+    
+    
+# helper function to compute statistics for a given set of edges and the corresponding genres
+def genre_stats_for_edges(edges, genres):
+    eligible_genres = [
+        (u, v)
+        for u, v in edges
+        if genres.get(u) and genres.get(v)
+        and genres[u] != "unknown" 
+        and genres[v] != "unknown"
+    ]
 
+    same_genre = sum(genres[u] == genres[v] for u, v in eligible_genres)
+    cross_genre = len(eligible_genres) - same_genre
+    
+    return {
+        "edges_total": len(edges),
+        "genre_eligible_edges": len(eligible_genres),
+        "same_genre_edges": same_genre,
+        "cross_genre_edges": cross_genre,
+        "same_genre_pct": (
+            100 * same_genre / len(eligible_genres) if eligible_genres else float("nan")
+        )
+    }
+
+    
 
 def main():
     parser = argparse.ArgumentParser()
@@ -67,24 +98,39 @@ def main():
     collaborations = pd.read_csv(args.collaborations, dtype={"artist_1_id": str, "artist_2_id": str})
     assignments = pd.read_csv(args.assignments, dtype={"artist_id": str, "algorithm": str})
     markets = {r.artist_id: parse_markets(r.available_markets) for r in artists.itertuples(index=False)}
-
+    genres = {r.artist_id: parse_genre(r.main_genre) for r in artists.itertuples(index=False)}
+    
     G = create_graph(artists, collaborations)
     edges = list(G.edges)
     overall = stats_for_edges(edges, markets)
     overall['market_labelled_artists'] = sum(bool(markets[n]) for n in G)
     pd.DataFrame([overall]).to_csv(args.output / 'market_homophily.csv', index=False)
+    
+    overall_genre = genre_stats_for_edges(edges, genres)
+    overall_genre["genre_labelled_artists"] = sum(
+        genres.get(n, "unknown") != "unknown" 
+        for n in G
+    )
+    overall_genre["edges_total"] = len(edges)
+    pd.DataFrame([overall_genre]).to_csv(args.output / "genre_homophily.csv", index=False)
 
     rows = []
     for (algorithm, community_id), data in assignments.groupby(["algorithm", "community_id"]):
         members = set(data.artist_id)
         internal_edges = [(u, v) for u, v in G.subgraph(members).edges]
-        result = stats_for_edges(internal_edges, markets)
+        market_result = stats_for_edges(internal_edges, markets)
+        genre_result = genre_stats_for_edges(internal_edges, genres)
         rows.append({
             "algorithm": algorithm,
             "community_id": community_id,
             "size": len(members),
             "market_labelled_artists": sum(bool(markets[n]) for n in members),
-            **result,
+            "genre_labelled_artists": sum(
+                genres.get(n, "unknown") != "unknown" 
+                for n in members
+            ),
+            **market_result,
+            **genre_result,
         })
     pd.DataFrame(rows).to_csv(args.output / 'community_homophily.csv', index=False)
     print(f"results saved to {args.output}")
