@@ -69,7 +69,7 @@ def main():
 
     pd.DataFrame(assignments).to_csv(args.output / "community_assignments.csv", index=False)
     pd.DataFrame(summary).to_csv(args.output / "partitioning_summary.csv", index=False)
-    print(f"Results saved to {args.output}")
+    print(f"results saved to {args.output}")
 
 if __name__ == "__main__":
     main()
