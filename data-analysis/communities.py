@@ -121,6 +121,8 @@ def main():
     parser.add_argument("--output", default=OUTPUT_DIR)
     parser.add_argument("--min-clique-size", type=int, default=3)
     parser.add_argument("--min-near-clique-size", type=int, default=5)
+    # computationally expensive full network k-components can be skipped with this flag
+    parser.add_argument("--skip-k-components", action="store_true", help="skip computationally expensive full network k-components")
     args = parser.parse_args()
 
     output = Path(args.output)
@@ -153,6 +155,24 @@ def main():
     core_df = save_records(core_records, output / "k_core_components.csv")
     # result: maximum core number: 9, k-core components saved: 27
     print(f"maximum core number: {max_k}, k-core components saved: {len(core_df)}")
+
+    # k-components: maximal subgraphs with vertex connectivity at least k
+    if not args.skip_k_components:
+        print("computing full network k-components")
+        k_components_by_level = nx.k_components(G)
+        k_component_records = []
+        highest_k = {node: 0 for node in G.nodes}
+        for k, groups in sorted(k_components_by_level.items()):
+            for i, members in enumerate(groups, 1):
+                k_component_records.append(group_record(G, members, "k_component", i, k))
+            for node in members:
+                highest_k[node] = max(highest_k[node], k)
+            print(f"{k}-components: {len(groups)}")
+        save_records(k_component_records, output / "k_components.csv")
+        pd.DataFrame([
+            {"artist_id": node, "artist_name": G.nodes[node]["name"], "highest_k_component": highest_k[node]} for node in G.nodes
+        ]).sort_values("highest_k_component", ascending=False).to_csv(output / "artist_k_component_levels.csv", index=False)
+        print(f"k-components saved: {len(k_component_records)}")
 
     # k-clique (overlapping communities are possible)
     max_clique_size = max(len(c) for c in maximal_cliques)
