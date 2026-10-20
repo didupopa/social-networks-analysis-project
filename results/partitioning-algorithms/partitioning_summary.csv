@@ -1,3 +1,4 @@
-algorithm,communities,modularity,largest_community,seed
-louvain,46,0.7418962324946137,182,42
-leiden,47,0.7444995876134962,186,42
+algorithm,communities,modularity,modularity_unweighted,largest_community,seed,scope,nodes_analyzed,edges_analyzed
+louvain,46,0.7418962324946137,0.6939258812441755,182,42,full_network,2248,4997
+leiden,47,0.7444995876134962,0.6968373539633084,186,42,full_network,2248,4997
+girvan_newman,9,0.26787283666846945,0.5357373450413223,13,42,louvain_connected_3core_subgraph,59,176
