@@ -230,9 +230,7 @@ if __name__ == "__main__":
 # Girvan-Newman cut: 8 communities, unweighted Q=0.5358, weighted Q=0.3598
 # selected Girvan-Newman cut: 5 communities, unweighted modularity=0.5411, weighted modularity=0.3638
 # IMPORTANT: GN modularity is measured on a smaller graph and cannot be directly compared with the full-network modularities.
-# results saved to /mnt/c/Users/delia/Digi Storage folder/Delia/CS MASTER/2nd year/1st semester/block 1A/Social Network Analysis/social-networks-analysis-project/results/partitioning-algorithms
-# (.venv) didu@didu-msi:/mnt/c/Users/delia/Digi Storage folder/Delia/CS MASTER/2nd year/1st semester/block 1A/Social Network Analysis/social-networks-analysis-project/data-analysis$ python partitioning.py --gn-no
-# des 250 --gn-min-core 3 --gn-max-communities 15
+# python partitioning.py --gn-nodes 250 --gn-min-core 3 --gn-max-communities 15
 # graph: 2248 artists, 4997 collaborations
 # Louvain: 46 communities, weighted modularity=0.7419
 # Leiden: 47 communities, weighted modularity=0.7445
