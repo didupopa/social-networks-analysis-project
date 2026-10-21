@@ -3,6 +3,9 @@ import pandas as pd
 import networkx as nx
 import igraph as ig
 import leidenalg as la
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
 
 from pathlib import Path
 
@@ -28,19 +31,60 @@ def build_graph(artists, collaborations):
 
 # helper function to perform Louvain partitioning
 def louvain_partition(G, seed):
-    return nx.community.louvain_communities(G, weight="weight", seed=seed)
+    history = [{"algorithm": "louvain", "step": 0, "step_type": "level", "communities": G.number_of_nodes(), "modularity": nx.community.modularity(G, [{n} for n in G], weight="weight"), "gain": float("nan"), "stopped": False}]
+    previous_q = history[0]["modularity"]
+    groups = None
+    for level, partition in enumerate(nx.community.louvain_partitions(G, weight="weight", seed=seed), start=1):
+        groups = [set(c) for c in partition]
+        q = nx.community.modularity(G, groups, weight="weight")
+        history.append({"algorithm": "louvain", "step": level, "step_type": "level", "communities": len(groups), "modularity": q, "gain": q - previous_q, "stopped": False})
+        previous_q = q
+        print(f"louvain level {level}: Q={q:.6f}, communities={len(groups)}")
+    if groups is None:
+        groups = [{n} for n in G]
+    history[-1]["stopped"] = True
+    return groups, history
 
 
 # helper function to perform Leiden partitioning
-def leiden_partition(G, seed):
+def leiden_partition(G, seed, max_iterations=100):
     nodes = list(G.nodes)
     indices = {node: i for i, node in enumerate(nodes)}
-    edges = [(indices[u], indices[v]) for u, v in G.edges]
-    igraph_G = ig.Graph(n=len(nodes), edges=edges, directed=False)
-    weights = [G[u][v]["weight"] for u, v in G.edges]
-    partition = la.find_partition(igraph_G, la.ModularityVertexPartition, weights=weights, seed=seed, n_iterations=-1)
-    return [set(nodes[i] for i in community) for community in partition]
+    edge_pairs = list(G.edges)
+    igraph_G = ig.Graph(n=len(nodes), edges=[(indices[u], indices[v]) for u, v in edge_pairs], directed=False)
+    weights = [G[u][v]["weight"] for u, v in edge_pairs]
+    partition = la.ModularityVertexPartition(igraph_G, weights=weights)
+    optimiser = la.Optimiser()
+    optimiser.set_rng_seed(seed)
+    history = [{"algorithm": "leiden", "step": 0, "step_type": "iteration", "communities": len(partition), "modularity": partition.quality(), "gain": float("nan"), "stopped": False}]
+    for iteration in range(1, max_iterations + 1):
+        gain = optimiser.optimise_partition(partition, n_iterations=1)
+        q = partition.quality()
+        done = gain <= 0
+        history.append({"algorithm": "leiden", "step": iteration, "step_type": "iteration", "communities": len(partition), "modularity": q, "gain": gain, "stopped": done})
+        print(f"Leiden iteration {iteration}: Q={q:.6f}, gain={gain:.8g}, communities={len(partition)}")
+        if done:
+            break
+    else:
+        print("WARNING: Leiden reached --leiden-max-iterations before a non-improving iteration.")
+    groups = [set(nodes[i] for i in community) for community in partition]
+    return groups, history
 
+
+# helper function to save a convergence plot for Louvain or Leiden partitioning
+def save_convergence_plot(history, output):
+    fig, ax = plt.subplots(figsize=(9, 5))
+    for algorithm, frame in pd.DataFrame(history).groupby("algorithm"):
+        frame = frame.sort_values("step")
+        ax.plot(frame["step"], frame["modularity"], marker="o",
+                linewidth=1.8, label=f"{algorithm.title()} ({frame.iloc[0]['step_type']})")
+    ax.set(xlabel="Optimization step (different meaning for each algorithm)",
+           ylabel="Weighted modularity", title="Community detection convergence")
+    ax.legend()
+    ax.grid(alpha=0.25)
+    fig.tight_layout()
+    fig.savefig(output, dpi=220)
+    plt.close(fig)
 
 # helper function to select a reproducible connected subgraph for Girvan-Newman partitioning
 # choose a connected choesive sample inside a full network louvain group
@@ -99,8 +143,8 @@ def select_gn_subgraph(G, louvain_groups, max_nodes, min_core=3):
 
 def print_gn_diagnostics(H, core_k):
     degrees = dict(H.degree())
-    print(f"Girvan-Newman sample: {len(H)} artists, {H.number_of_edges()} edges; selected within a Louvain community's {core_k}-core", flush=True)
-    print(f"density: {nx.density(H):.4f}; degree-1 artists: {sum(d == 1 for d in degrees.values())}; maximum degree: {max(degrees.values())}; average degree: {sum(degrees.values()) / len(degrees):.2f}", flush=True)
+    print(f"Girvan-Newman sample: {len(H)} artists, {H.number_of_edges()} edges; selected within a Louvain community's {core_k}-core")
+    print(f"density: {nx.density(H):.4f}; degree-1 artists: {sum(d == 1 for d in degrees.values())}; maximum degree: {max(degrees.values())}; average degree: {sum(degrees.values()) / len(degrees):.2f}")
 
 
 # helper function to perform Girvan-Newman partitioning
@@ -123,7 +167,7 @@ def girvan_newman_partition(H, max_communities):
                         "modularity_unweighted": q_unweighted,
                         "modularity_weighted": q_weighted,
                         "largest_community": max(map(len, groups))})
-        print(f"Girvan-Newman cut: {count} communities, unweighted Q={q_unweighted:.4f}, weighted Q={q_weighted:.4f}", flush=True)
+        print(f"Girvan-Newman cut: {count} communities, unweighted Q={q_unweighted:.4f}, weighted Q={q_weighted:.4f}")
         if best is None or q_unweighted > best[0]:
             best = (q_unweighted, groups)
         if count >= max_communities:
@@ -163,11 +207,14 @@ def main():
     parser.add_argument("--collaborations", type=Path, default=COLLAB_CSV)
     parser.add_argument("--output", type=Path, default=OUTPUT_DIR)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--leiden-max-iterations", type=int, default=100)
     parser.add_argument("--gn-nodes", type=int, default=70, help="maximum nodes in the connected GN sample (default: 70)")
     parser.add_argument("--gn-max-communities", type=int, default=6, help="stop GN after reaching this many communities (default: 6)")
     parser.add_argument("--gn-min-core", type=int, default=3, help="preferred minimum core level inside Louvain groups (default: 3)")
     parser.add_argument("--skip-girvan-newman", action="store_true")
     args = parser.parse_args()
+    if args.leiden_max_iterations < 1:
+        parser.error("--leiden-max-iterations must be >= 1")
     if args.gn_nodes < 3 or args.gn_max_communities < 2:
         parser.error("--gn-nodes must be >=3 and --gn-max-communities >=2")
     args.output.mkdir(parents=True, exist_ok=True)
@@ -177,17 +224,21 @@ def main():
     G = build_graph(artists, collaborations)
     print(f"graph: {G.number_of_nodes()} artists, {G.number_of_edges()} collaborations")
 
-    methods = {
-        "louvain": nx.community.louvain_communities(G, weight="weight", seed=args.seed),
-        "leiden": leiden_partition(G, args.seed)
-    }
+    louvain_groups, louvain_history = louvain_partition(G, args.seed)
+    leiden_groups, leiden_history = leiden_partition(G, args.seed, args.leiden_max_iterations)
+    methods = {"louvain": louvain_groups, "leiden": leiden_groups}
+    histories = louvain_history + leiden_history
+    pd.DataFrame(histories).to_csv(args.output / "modularity_convergence.csv", index=False)
+    save_convergence_plot(histories, args.output / "modularity_convergence.png")
+    print("louvain completed levels:", len(louvain_history) - 1)
+    print("leiden completed iterations:", len(leiden_history) - 1, "(converged)" if leiden_history[-1]["stopped"] else "(iteration cap reached)")
 
     assignments = []
     summary = []
     for method, groups in methods.items():
         summary.append(summary_record(method, G, groups, args.seed, "full_network"))
         assignments.extend(assignment_records(method, groups))
-        print(f"{method.title()}: {len(groups)} communities, weighted modularity={summary[-1]['modularity']:.4f}", flush=True)
+        print(f"{method.title()}: {len(groups)} communities, weighted modularity={summary[-1]['modularity']:.4f}")
     pd.DataFrame(assignments).to_csv(args.output / "community_assignments.csv", index=False)
 
     if not args.skip_girvan_newman:
@@ -204,9 +255,9 @@ def main():
         pd.DataFrame(history).to_csv(args.output / "girvan_newman_modularity_by_cut.csv", index=False)
         print(f"selected Girvan-Newman cut: {len(gn_groups)} communities, "
               f"unweighted modularity={gn_summary['modularity_unweighted']:.4f}, "
-              f"weighted modularity={gn_summary['modularity']:.4f}", flush=True)
+              f"weighted modularity={gn_summary['modularity']:.4f}")
         print("IMPORTANT: GN modularity is measured on a smaller graph and cannot "
-              "be directly compared with the full-network modularities.", flush=True)
+              "be directly compared with the full-network modularities.")
 
     pd.DataFrame(summary).to_csv(args.output / "partitioning_summary.csv", index=False)
     print(f"results saved to {args.output}")
@@ -217,21 +268,22 @@ if __name__ == "__main__":
 
 # python partitioning.py --gn-nodes 100 --gn-min-core 3 --gn-max-communities 8
 # graph: 2248 artists, 4997 collaborations
-# Louvain: 46 communities, weighted modularity=0.7419
-# Leiden: 47 communities, weighted modularity=0.7445
-# Girvan-Newman sample: 100 artists, 249 edges; selected within a Louvain community's 2-core
-# density: 0.0503; degree-1 artists: 1; maximum degree: 53; average degree: 4.98
-# Girvan-Newman cut: 2 communities, unweighted Q=0.4028, weighted Q=0.2322
-# Girvan-Newman cut: 3 communities, unweighted Q=0.4913, weighted Q=0.3189
-# Girvan-Newman cut: 4 communities, unweighted Q=0.5168, weighted Q=0.3510
-# Girvan-Newman cut: 5 communities, unweighted Q=0.5411, weighted Q=0.3638
-# Girvan-Newman cut: 6 communities, unweighted Q=0.5381, weighted Q=0.3618
-# Girvan-Newman cut: 7 communities, unweighted Q=0.5372, weighted Q=0.3609
-# Girvan-Newman cut: 8 communities, unweighted Q=0.5358, weighted Q=0.3598
-# selected Girvan-Newman cut: 5 communities, unweighted modularity=0.5411, weighted modularity=0.3638
-# IMPORTANT: GN modularity is measured on a smaller graph and cannot be directly compared with the full-network modularities.
-# python partitioning.py --gn-nodes 250 --gn-min-core 3 --gn-max-communities 15
-# graph: 2248 artists, 4997 collaborations
+# louvain level 1: Q=0.645752, communities=270
+# louvain level 2: Q=0.739788, communities=59
+# louvain level 3: Q=0.741896, communities=46
+# Leiden iteration 1: Q=0.739477, gain=0.74427017, communities=47
+# Leiden iteration 2: Q=0.742540, gain=0.0030630999, communities=47
+# Leiden iteration 3: Q=0.743030, gain=0.00048932123, communities=47
+# Leiden iteration 4: Q=0.743269, gain=0.00023887158, communities=47
+# Leiden iteration 5: Q=0.743506, gain=0.00023734466, communities=47
+# Leiden iteration 6: Q=0.743537, gain=3.0934999e-05, communities=47
+# Leiden iteration 7: Q=0.743638, gain=0.00010072811, communities=47
+# Leiden iteration 8: Q=0.744265, gain=0.00062696575, communities=47
+# Leiden iteration 9: Q=0.744413, gain=0.00014880781, communities=47
+# Leiden iteration 10: Q=0.744500, gain=8.612626e-05, communities=47
+# Leiden iteration 11: Q=0.744500, gain=0, communities=47
+# louvain completed levels: 3
+# leiden completed iterations: 11 (converged)
 # Louvain: 46 communities, weighted modularity=0.7419
 # Leiden: 47 communities, weighted modularity=0.7445
 # Girvan-Newman sample: 59 artists, 176 edges; selected within a Louvain community's 3-core
