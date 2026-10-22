@@ -25,6 +25,10 @@ if OUTPUT_CSV_ARTISTS.exists():
 # collect every artist from the collaborations CSV that isn't already a node
 new_artists = {}  # artist_id -> artist_name
 
+# read existing artists CSV and stores all previously collected artist IDs in set for quick lookup
+# then, it reads the collaborations CSV and checks each row for shared song counts
+# if the count meets the minimum threshold, it adds the artist IDs and names to the new_artists dictionary if they are not already processed
+# write the new artists to the artists CSV, fetching their metadata from spotify and handling any exceptions that may occur during the process
 with OUTPUT_CSV_COLLABS.open("r", newline="", encoding="utf-8") as file:
     reader = csv.DictReader(file)
 
@@ -51,6 +55,8 @@ print(f"Found {len(new_artists)} new artists to add (min {MIN_SHARED_SONGS} shar
 
 file_exists = OUTPUT_CSV_ARTISTS.exists()
 
+# write the new artists to the artists CSV, fetching their metadata from spotify
+# script is made in such a way that it saves checkpoints to account for the spotify API rate limit
 with OUTPUT_CSV_ARTISTS.open("a", newline="", encoding="utf-8") as file:
     writer = csv.DictWriter(file, fieldnames=FIELDNAMES_ARTISTS)
 

@@ -1,3 +1,4 @@
+# seed artist list with Spotify IDs for data gathering
 SEED_ARTISTS = {
     "Bad Bunny": "4q3ewBCX7sLwd24euuV69X",
     "Martin Garrix": "60d24wfXkVzDSfLS6hyCjZ",

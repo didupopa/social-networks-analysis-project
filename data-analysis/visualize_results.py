@@ -19,27 +19,29 @@ OUTPUT_DIR = RESULTS_DIR / "visualizations"
 
 # helper function to read group members from a row in the CSV
 def read_group_members(row):
-    return (
-        {artist_id.strip() for artist_id in str(row).split(";")
-         if artist_id.strip()}
-         if pd.notna(row)
-         else set()
-    )
+    return ({artist_id.strip() for artist_id in str(row).split(";") if artist_id.strip()} if pd.notna(row) else set())
 
 
 # helper function to build a graph from artists and collaborations
 def build_graph(artists_file, edges_file):
     artists = pd.read_csv(artists_file, dtype={"artist_id": str})
     collaborations = pd.read_csv(edges_file, dtype={"artist_1_id": str, "artist_2_id": str})
+    # empty graph
     G = nx.Graph()
     for artist in artists.itertuples(index=False):
+        # add artist nodes
         G.add_node(artist.artist_id, name=str(artist.artist_name))
     for collab in collaborations.itertuples(index=False):
+        # only add edges for collaborations between different artists
         if collab.artist_1_id != collab.artist_2_id:
             G.add_edge(collab.artist_1_id, collab.artist_2_id, weight=int(collab.shared_song_count))
     return G
 
 
+# helper function to visualize a selected subgraph of the network
+# uses reproducible spring layout with node sizes based on their degree
+# nodes can be colored by numerical values or highlighted to distinguish groups
+# labels selected artists and saves to PNG image
 def render_network(G, nodes, output, title, node_values=None, highlighted=None, label_nodes=None, seed=42):
     # draw a small induced graph with deterministic layout and legible labels
     H = G.subgraph(set(nodes) & set(G)).copy()
@@ -69,6 +71,10 @@ def render_network(G, nodes, output, title, node_values=None, highlighted=None, 
     print(f"saved: {output.name}")
 
 
+# helper function to plot the 3 largest maximal cliques of the network
+# read clique memberships from results/communities/cliques.csv
+# generate network diagrams showing the artists in each clique
+# plot distribution of maximal clique sizes across the network
 def plot_cliques(G, community_folder, out):
     df = pd.read_csv(community_folder / "cliques.csv")
     # 3 largest distinct maximal cliques: complete subgraphs, all edges are present
@@ -88,6 +94,10 @@ def plot_cliques(G, community_folder, out):
 
 
 # helper function to plot cohesive groups in independent panels, removing wasted whitespace
+# selects the largest groups and chooses a suitable network layout
+# based on group size and density
+# highlights each group's nodes, labels selected artists
+# and displays the group size and density
 def plot_component_panels(G, groups, output, title, max_groups=6):
     groups = [set(g) & set(G) for g in groups if g]
     groups = [g for g in groups if g]
@@ -134,6 +144,10 @@ def plot_component_panels(G, groups, output, title, max_groups=6):
 
 
 # helper function to plot k-core subgraphs and distribution of core numbers
+# plot how the number of remaining artists decreases as k increases
+# compare the sizes of the highest cumulative k-cores and visualize
+# connected groups within the highest k-core
+# plot the distribution of artist core numbers
 def plot_kcores(G, community_folder, out, min_shell=None, max_nodes=120):
     # plot an informative stratified coreness sample and k-core retention curve
     df = pd.read_csv(community_folder / "artist_core_numbers.csv", dtype={"artist_id": str})
@@ -149,17 +163,16 @@ def plot_kcores(G, community_folder, out, min_shell=None, max_nodes=120):
     counts = [sum(v >= k for v in coreness.values()) for k in levels]
     fig, ax = plt.subplots(figsize=(9, 5))
     ax.plot(levels, counts, marker="o", linewidth=2)
-    ax.set(xlabel="k-core threshold", ylabel="artists in k-core",
-               title="How the k-core shrinks as k increases")
+    ax.set(xlabel="k-core threshold", ylabel="artists in k-core", title="How the k-core shrinks as k increases")
     ax.set_xticks(levels)
     ax.grid(axis="y", alpha=.25)
     fig.tight_layout()
     fig.savefig(out / "kcore_retention.png", dpi=220)
     plt.close(fig)
     
-    # Exact coreness levels are summarized without misrepresenting the k-core hierarchy.
-    # The top four cumulative k-cores are shown as node-count comparisons; their
-    # connected high-order regions are visualized separately below.
+    # exact coreness levels are summarized without misrepresenting the k-core hierarchy
+    # the top four cumulative k-cores are shown as node-count comparisons;
+    # their connected high-order regions are visualized separately below
     top_levels = sorted(levels, reverse=True)[:4]
     fig, ax = plt.subplots(figsize=(9, 5))
     ax.bar([str(k) for k in top_levels], [sum(v >= k for v in coreness.values()) for k in top_levels], color="#2563eb")
@@ -187,6 +200,10 @@ def plot_kcores(G, community_folder, out, min_shell=None, max_nodes=120):
 
 
 # helper function to plot k-clique percolation communities and distribution of community sizes
+# for each selected k value, display the largest community
+# avoid duplicate visualizations of identical groups
+# limit the displayed artists for readability and plot how community
+# sizes and the number of communities change across k values
 def plot_kclique_communities(G, community_folder, out, k=None, max_nodes=75):
     df = pd.read_csv(community_folder / "k_clique_communities.csv")
     levels = [k] if k is not None else sorted(df["k"].dropna().astype(int).unique())
@@ -218,6 +235,9 @@ def plot_kclique_communities(G, community_folder, out, k=None, max_nodes=75):
 
 
 # visualize exact k-components computed within the highest k-core subgraph
+# display the strongest k-components as separate network diagrams
+# plot the number of k-components at each connectivity level
+# and the size of the largest component as k increases
 def plot_kcomponents_highest_core(G, components_file, out):
     if not components_file.exists():
         print("k-component CSV missing; skipping these plots")
@@ -255,6 +275,9 @@ def plot_kcomponents_highest_core(G, components_file, out):
 
 
 # helper function to plot Louvain and Leiden community assignments and distribution of community sizes
+# select the largest communities and a sample of their highest degree artists
+# display communities using different colors and spatially separated layouts
+# compare the community size distributions of both algorithms
 def plot_partitions(G, assignments_file, out, communities_to_show=5, per_community=24):
     if not assignments_file.exists():
         print("partition CSV missing; skipping Louvain/Leiden plots")
@@ -310,6 +333,10 @@ def plot_partitions(G, assignments_file, out, communities_to_show=5, per_communi
 
 
 # helper function to plot potential bridge artists and their neighbors
+# rank artists by the number of external communities they connect to
+# using betweenness centrality as an additional ranking criterion
+# highlight the selected bridge candidates and display some of their
+# highest degree neighbors to illustrate their network connections
 def plot_bridges(G, bridges_file, out, k=None, top_n=15):
     if not bridges_file.exists():
         print("bridge assignments absent; skipping bridge plots")
@@ -330,6 +357,9 @@ def plot_bridges(G, bridges_file, out, k=None, top_n=15):
 
 
 # helper function to plot market homophily results
+# select communities with sufficient eligible collaboration edges
+# and plot their average Jaccard similarity of spotify market availability
+# focus on the communities with the greatest data coverage
 def plot_market(homophily_file, out):
     if not homophily_file.exists():
         print("homophily data absent; skipping market homophily plots")
@@ -351,6 +381,10 @@ def plot_market(homophily_file, out):
     plt.close(fig)
 
 
+# helper function to plot Girvan-Newman community assignments and modularity by cut
+# display the sampled network with different colors for each community
+# use separated layouts to improve readability and label key artists
+# plot weighted and unweighted modularity across successive cuts
 def plot_girvan_newman(G, partition_dir, out):
     path = partition_dir / "girvan_newman_assignments.csv"
     if not path.exists():
@@ -406,6 +440,10 @@ def plot_girvan_newman(G, partition_dir, out):
             plt.close(fig)
 
 
+# helper function to plot partitioning metrics and convergence of Louvain/Leiden algorithms
+# plot weighted modularity scores while identifying differences in graph scope
+# generate separate convergence plots for Louvain and Leiden
+# showing modularity and optimization gain at each step
 def plot_partition_metrics(partition_dir, out):
     path = partition_dir / "partitioning_summary.csv"
     if path.exists():
@@ -447,6 +485,11 @@ def plot_partition_metrics(partition_dir, out):
         plt.close(fig)
 
 
+# helper function to plot homophily results for US market availability and genre agreement
+# compare US market availability between collaborating artists
+# and evaluate observed agreement against a random label baseline
+# visualize homophily within detected communities and summarize
+# collaborations between artists of the same or different genres
 def plot_homophily_additions(hom_dir, out):
     # existing market jaccard result is separate from US binary availability
     us = hom_dir / "us_market_homophily.csv"
@@ -523,15 +566,24 @@ def plot_homophily_additions(hom_dir, out):
 
 def main():
     p = argparse.ArgumentParser()
+    # path to artist CSV
     p.add_argument("--artists", type=Path, default=ARTIST_CSV)
+    # path to collaboration CSV
     p.add_argument("--collaborations", type=Path, default=COLLAB_CSV)
+    # path to results folder
     p.add_argument("--results", type=Path, default=RESULTS_DIR)
+    # path to output directory for plots
     p.add_argument("--output", type=Path, default=OUTPUT_DIR)
+    # k-clique size
     p.add_argument("--k-clique", type=int, default=None)
+    # k-bridge size
     p.add_argument("--k-bridge", type=int, default=None)
+    # minimum k-core shell to visualize
     p.add_argument('--k-core-min', type=int, default=None)
     args = p.parse_args()
     args.output.mkdir(parents=True, exist_ok=True)
+    
+    # build the collaboration network graph from the artist and collaboration CSV files
     G = build_graph(args.artists, args.collaborations)
     folder = args.results / "communities"
     plot_cliques(G, folder, args.output)

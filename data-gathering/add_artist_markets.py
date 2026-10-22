@@ -3,6 +3,7 @@ import json
 
 from spotify_common import OUTPUT_CSV_ARTISTS, ARTIST_RELEASES_CACHE_DIR, START_YEAR, END_YEAR, load_json, get_release_year
 
+# retrieve cached markets for an artist from their release cache
 def get_cached_markets(artist_id):
     cache_file = ARTIST_RELEASES_CACHE_DIR / f"{artist_id}.json"
     state = load_json(cache_file)
