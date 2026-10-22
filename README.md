@@ -167,6 +167,12 @@ This step expands the *artist dataset* using already discovered collaborations; 
 
 These scripts add additional information to the data CSVs from the cached data from the `Spotify Web API`: album titles for each individual artist, markets where their music is available and market count for each artist and titles of the albums on which each pair of artist has collaborated on.
 
+```bash
+python add_artist_album_titles.py
+python add_artist_markets.py
+python add_collab_albums_titles.py
+```
+
 ### 5. Additional scripts
 
 Script `data-gathering/spotify_common.py` contains helper methods used throughout the data gathering process.
@@ -177,43 +183,83 @@ After gathering the data, the analysis scripts examine different structural prop
 
 ### Centrality — `centrality_metrics.py`
 
-Identifies and compares the most important/influential artists in the coillaboration network by examining different aspects of their position in the network, such as their connectivity, ability to connect different groups and connections to other influential artists. 
+Identifies and compares the most important/influential artists in the coillaboration network by examining different aspects of their position in the network, such as their connectivity, ability to connect different groups and connections to other influential artists.
+
+```bash
+python centrality_metrics.py
+```
 
 ### Chaperone Effect — `chaperone_effect.py`
 
 Investigates whether collaborating with highly connected artists helps other artists expand their collaboration networks. It examines whether artists gain more new collaborators after working with an influential, highly connected artists, referred to as a **chaperone**.
 
+```bash
+python chaperone_effect.py
+```
+
 ### Communities — `communities.py`
 
 Identifies groups of artists that are more closely connected to one another than to the rest of the network. Community detection helps reveal clusters of collaborating artists and provides a view of the network's broader group structure.
+
+```bash
+python communities.py
+```
 
 ### Homophily — `homophily.py`
 
 Examines whether collaborations tend to occur between artists sharing particular attributes. This helps assess the extent to which similarity is associated with connections in the artist network.
 
+```bash
+python homophily.py
+```
+
 ### k-Components — `k_components.py`
 
 Analyzes structural cohesion by identifying sets of artists with a given level of vertex connectivity. Unlike ordinary connected components, k-components help describe how resilient a group remains when artists (nodes) are removed.
+
+```bash
+python k_components.py
+```
 
 ### Longitudinal Analysis — `longitudinal_analysis.py`
 
 Analyzes how the local collaboration networks of the most connected artists change over time using their clustering coefficients. It investigates whether highly connected artists tend to collaborate with groups of artists who also collaborate with each other and how this changes from year to year.
 
+```bash
+python longitudinal_analysis.py
+```
+
 ### Network Analysis — `network_analysis.py`
 
 Provides ordinary network statistics insights about the constructed artist-collaboration network such as number of vertices, number of edges, node degree, etc. These provide an initial overview of the network.
+
+```bash
+python network_analysis.py
+```
 
 ### PageRank Analysis — `pagerank_analysis.py`
 
 Looks into relative influence, authority and **prestige** of individuals or entities within a network. It is used in order to investigate whether more important nodes are likely to receive more incoming links from other nodes.
 
+```bash
+python pagerank_analysis.py
+```
+
 ### Partitioning — `partitioning.py`
 
 Examines ways to divide the network into groups or subnetworks, helping investigate its connectivity and internal organization.
 
+```bash
+python partitioning.py
+```
+
 ### Result visualization — `visualize_results.py`
 
 Produces visual representations of the computed results to help interpret and communicate findings from the network analyses.
+
+```bash
+python visualize_results.py
+```
 
 ## Results
 
