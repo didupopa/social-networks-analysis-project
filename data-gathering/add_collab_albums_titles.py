@@ -93,7 +93,7 @@ for row in rows:
     # sort in chronological order by year
     album_records.sort(key=lambda x: (x[0], x[1].lower()))
 
-    # remove dup;icate titles
+    # remove duplicate titles
     titles = []
     seen_titles = set()
     for year, title in album_records:
