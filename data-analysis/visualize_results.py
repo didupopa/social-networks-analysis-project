@@ -14,7 +14,6 @@ DATA_DIR = ROOT_DIR / "data"
 ARTIST_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
 COLLAB_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 RESULTS_DIR = ROOT_DIR / "results"
-OUTPUT_DIR = RESULTS_DIR / "visualizations"
 
 
 # helper function to read group members from a row in the CSV
@@ -507,19 +506,6 @@ def plot_homophily_additions(hom_dir, out):
                 fig.tight_layout()
                 fig.savefig(out/"us_market_edge_types.png", dpi=220)
                 plt.close(fig)
-            obs = row.get("same_US_status_rate", np.nan)
-            null = row.get("null_mean_same_status_rate", np.nan)
-            if pd.notna(obs) and pd.notna(null):
-                fig, ax = plt.subplots(figsize=(8, 5))
-                bars = ax.bar(["Observed", "Random-label baseline"], [obs,null], color=["#2563eb", "#94a3b8"])
-                ax.bar_label(bars, fmt="%.3f", padding=4)
-                ax.set_ylim(0, 1.08)
-                ax.set(ylabel="share of same-US-status edges", title="US market homophily vs random-label baseline")
-                p = row.get("one_sided_p_value", np.nan)
-                if pd.notna(p): ax.text(.98, .04, f"permutation p={p:.3f}", transform=ax.transAxes, ha="right", fontsize=9)
-                fig.tight_layout()
-                fig.savefig(out/"us_market_homophily_baseline.png", dpi=220)
-                plt.close(fig)
     uscom = hom_dir/"us_community_homophily.csv"
     if uscom.exists():
         df = pd.read_csv(uscom)
@@ -563,7 +549,6 @@ def plot_homophily_additions(hom_dir, out):
             fig.savefig(out/fname, dpi=220)
             plt.close(fig)
 
-
 def main():
     p = argparse.ArgumentParser()
     # path to artist CSV
@@ -572,8 +557,6 @@ def main():
     p.add_argument("--collaborations", type=Path, default=COLLAB_CSV)
     # path to results folder
     p.add_argument("--results", type=Path, default=RESULTS_DIR)
-    # path to output directory for plots
-    p.add_argument("--output", type=Path, default=OUTPUT_DIR)
     # k-clique size
     p.add_argument("--k-clique", type=int, default=None)
     # k-bridge size
@@ -581,21 +564,19 @@ def main():
     # minimum k-core shell to visualize
     p.add_argument('--k-core-min', type=int, default=None)
     args = p.parse_args()
-    args.output.mkdir(parents=True, exist_ok=True)
     
     # build the collaboration network graph from the artist and collaboration CSV files
     G = build_graph(args.artists, args.collaborations)
-    folder = args.results / "communities"
-    plot_cliques(G, folder, args.output)
-    plot_kcores(G, folder, args.output, min_shell=args.k_core_min)
-    plot_kclique_communities(G, folder, args.output, k=args.k_clique)
-    plot_partitions(G, args.results / 'partitioning-algorithms' / 'community_assignments.csv', args.output)
-    plot_girvan_newman(G, args.results / "partitioning-algorithms", args.output)
-    plot_partition_metrics(args.results / "partitioning-algorithms", args.output)
-    plot_bridges(G, folder / 'bridge_artists_all_k.csv', args.output, k=args.k_bridge)
-    plot_homophily_additions(args.results / "homophily", args.output)
-    plot_kcomponents_highest_core(G, folder / "k_components_highest_core.csv", args.output)    
-    print('figures saved to:', args.output)
+    plot_cliques(G, args.results / "communities", args.results / "communities")
+    plot_kcores(G, args.results / "communities", args.results / "communities", min_shell=args.k_core_min)
+    plot_kclique_communities(G, args.results / "communities", args.results / "communities", k=args.k_clique)
+    plot_partitions(G, args.results / 'partitioning-algorithms' / 'community_assignments.csv', args.results / "partitioning-algorithms")
+    plot_girvan_newman(G, args.results / "partitioning-algorithms", args.results / "partitioning-algorithms")
+    plot_partition_metrics(args.results / "partitioning-algorithms", args.results / "partitioning-algorithms")
+    plot_bridges(G, args.results / "communities" / 'bridge_artists_all_k.csv', args.results / "communities", k=args.k_bridge)
+    plot_homophily_additions(args.results / "homophily", args.results / "homophily")
+    plot_kcomponents_highest_core(G, args.results / "communities" / "k_components_highest_core.csv", args.results / "communities")    
+    print('figures saved to:', args.results)
 
 
 if __name__ == "__main__":
