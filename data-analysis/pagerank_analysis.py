@@ -15,6 +15,7 @@ PAGERANK_ANALYSIS_DIR = RESULTS_DIR / "pagerank"
 ARTISTS_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
 COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 
+# output files in the pagerank results folder
 OUTPUT_NODE_CSV = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-node-metrics.csv"
 OUTPUT_SUMMARY_JSON = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-summary.json"
 OUTPUT_TOP_PLOT = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-top-artists.png"
@@ -24,6 +25,7 @@ OUTPUT_SCATTER_PLOT = RESULTS_DIR / PAGERANK_ANALYSIS_DIR / "pagerank-vs-degree.
 TOP_N = 20
 
 # RQ4
+# csv written by the partitioning script, with louvain and leiden assignments
 COMMUNITY_ASSIGNMENTS_CSV = (
     DATA_DIR.parent
     / "results"
@@ -48,6 +50,7 @@ with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
         if a2 not in G:
             G.add_node(a2, name=row["artist_2_name"])
 
+        # the weight of an edge is the number of shared songs; the year attributes are only added if the csv has them
         edge_attrs = {"weight": weight}
         
         if row.get("first_collab_year"):
@@ -58,16 +61,19 @@ with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
 
 print(f"Graph: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
 
+# check whether any edge has year information, needed for rq3
 has_year_data = any("first_collab_year" in d for _, _, d in G.edges(data=True))
 if not has_year_data:
     print("No first_collab_year/last_collab_year found on edges -- RQ3 will be skipped.")
     print("(Rerun build-collaborations.py with the year-tracking update first.)")
 
 
+# artist name of a node, falling back to its id
 def name_of(node):
     return G.nodes[node].get("name", node)
 
 
+# turn values into ranks; ties are ranked in arbitrary order
 def rank_dict(values_dict):
     """rank 1 = highest value"""
     ordered = sorted(values_dict, key=values_dict.get, reverse=True)
@@ -78,9 +84,11 @@ def rank_dict(values_dict):
 degree_dict = dict(G.degree())
 weighted_degree_dict = dict(G.degree(weight="weight"))
 
+# pagerank with edge weights (shared songs) and without
 pagerank_weighted = nx.pagerank(G, weight="weight")
 pagerank_unweighted = nx.pagerank(G, weight=None)
 
+# ranks for degree and for both pagerank versions
 degree_rank = rank_dict(degree_dict)
 pagerank_rank = rank_dict(pagerank_weighted)
 pagerank_unweighted_rank = rank_dict(pagerank_unweighted)
@@ -92,12 +100,15 @@ rank_diff = {
     for node in G.nodes()
 }
 
+# all results are collected in one dict that is written to json at the end
 summary = {"graph": {"nodes": G.number_of_nodes(), "edges": G.number_of_edges()}}
 
 # RQ1: Does PageRank surface "prestige" that raw popularity (degree) misses?
+# the 15 biggest gains and the 15 biggest drops in rank when going from degree to pagerank
 overperformers = sorted(rank_diff, key=rank_diff.get, reverse=True)[:15]
 underperformers = sorted(rank_diff, key=rank_diff.get)[:15]
 
+# spearman correlation between degree and weighted pagerank over all artists
 spearman_corr, spearman_p = spearmanr(
     [degree_dict[n] for n in G.nodes()],
     [pagerank_weighted[n] for n in G.nodes()],
@@ -134,9 +145,11 @@ summary["rq1_prestige_vs_popularity"] = {
 }
 
 # RQ2: Does edge weight (shared song count) change who ranks highest?
+# top n artists by pagerank with and without weights
 top_weighted = set(sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:TOP_N])
 top_unweighted = set(sorted(pagerank_unweighted, key=pagerank_unweighted.get, reverse=True)[:TOP_N])
 
+# overlap of the two top lists (jaccard similarity)
 overlap = top_weighted & top_unweighted
 jaccard = len(overlap) / len(top_weighted | top_unweighted)
 
@@ -154,6 +167,7 @@ summary["rq2_weighted_vs_unweighted"] = {
 
 # RQ3: Are top-ranked artists concentrated by era?
 if has_year_data:
+    # an artist's era is the mean of the midpoints of the years of all their collaborations
     def artist_era(node):
         years = []
         for _, _, data in G.edges(node, data=True):
@@ -161,13 +175,16 @@ if has_year_data:
                 years.append((data["first_collab_year"] + data["last_collab_year"]) / 2)
         return mean(years) if years else None
 
+    # era of the top pagerank artists and of the whole network
     top_pagerank_nodes = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:TOP_N]
     top_eras = [e for e in (artist_era(n) for n in top_pagerank_nodes) if e is not None]
     all_eras = [e for e in (artist_era(n) for n in G.nodes()) if e is not None]
 
+    # group years into decades
     def decade_bucket(year):
         return f"{int(year) // 10 * 10}s"
 
+    # count artists per decade for the top artists and for the whole network
     top_decade_counts = {}
     for e in top_eras:
         bucket = decade_bucket(e)
@@ -194,7 +211,7 @@ else:
 
 
 # RQ4: Do high-PageRank artists act as bridges between communities?
-# Use precomputed Louvain and Leiden assignments from a CSV.
+# Use precomputed Louvain and Leiden assignments from the specific CSV.
 
 def load_community_mapping(csv_path, algorithm):
     """Load artist_id -> community_id for one algorithm."""
@@ -203,6 +220,7 @@ def load_community_mapping(csv_path, algorithm):
     with open(csv_path, "r", newline="", encoding="utf-8") as file:
         reader = csv.DictReader(file)
 
+        # the csv must have these columns; the algorithm column is optional
         required = {"artist_id", "community_id"}
         if not required.issubset(reader.fieldnames or []):
             raise ValueError(
@@ -213,12 +231,14 @@ def load_community_mapping(csv_path, algorithm):
 
         for row in reader:
             if has_algorithm_column:
+                # keep only the rows of the requested algorithm
                 if row["algorithm"].strip().lower() != algorithm:
                     continue
 
             artist_id = row["artist_id"]
             community_id = row["community_id"]
 
+            # an artist can only be in one community per algorithm
             if artist_id in mapping:
                 raise ValueError(
                     f"Duplicate assignment for artist {artist_id} "
@@ -248,9 +268,11 @@ def bridge_score(node, community_of):
     """Fraction of neighbors in a different community."""
     neighbors = list(G.neighbors(node))
 
+    # artists without neighbours get a score of 0
     if not neighbors:
         return 0.0
 
+    # count the neighbours that are in a different community
     different = sum(
         1 for neighbor in neighbors
         if community_of[neighbor] != community_of[node]
@@ -259,6 +281,7 @@ def bridge_score(node, community_of):
     return different / len(neighbors)
 
 
+# the top n artists by pagerank, and everyone else
 top_pagerank_nodes = sorted(
     pagerank_weighted,
     key=pagerank_weighted.get,
@@ -275,6 +298,7 @@ rq4_results = {}
 community_mappings = {}
 bridge_scores_by_algorithm = {}
 
+# for each algorithm: load the communities, compute bridge scores and compare the top artists with the rest
 for algorithm in ("louvain", "leiden"):
     community_of = load_community_mapping(
         COMMUNITY_ASSIGNMENTS_CSV, algorithm
@@ -287,6 +311,7 @@ for algorithm in ("louvain", "leiden"):
     }
     bridge_scores_by_algorithm[algorithm] = bridge_scores
 
+    # group artists by community to get the number and sizes of communities
     communities = {}
     for node, community_id in community_of.items():
         communities.setdefault(community_id, set()).add(node)
@@ -298,11 +323,13 @@ for algorithm in ("louvain", "leiden"):
         bridge_scores[node] for node in other_nodes
     ]
 
+    # correlation between pagerank and bridge score over all artists
     bridge_corr, bridge_corr_p = spearmanr(
         [pagerank_weighted[node] for node in G.nodes()],
         [bridge_scores[node] for node in G.nodes()]
     )
 
+    # mann whitney test of the bridge scores: top artists vs the rest
     if top_bridge_scores and other_bridge_scores:
         mw_stat, mw_p = mannwhitneyu(
             top_bridge_scores,
@@ -350,6 +377,7 @@ summary["rq4_bridging_communities"] = rq4_results
 
 
 # Write per-node CSV
+# make sure the output folder exists
 PAGERANK_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
 
 with OUTPUT_NODE_CSV.open(
@@ -357,6 +385,7 @@ with OUTPUT_NODE_CSV.open(
 ) as file:
     writer = csv.writer(file)
 
+    # header: the community and bridge columns come from louvain and leiden
     writer.writerow([
         "artist_id",
         "artist_name",
@@ -391,6 +420,7 @@ with OUTPUT_NODE_CSV.open(
         ])
 
 # plots
+# bar chart of the 15 highest weighted pagerank values
 top_15 = sorted(pagerank_weighted, key=pagerank_weighted.get, reverse=True)[:15]
 plt.figure(figsize=(10, 7))
 plt.barh([name_of(n) for n in reversed(top_15)], [pagerank_weighted[n] for n in reversed(top_15)])
@@ -400,6 +430,7 @@ plt.tight_layout()
 plt.savefig(OUTPUT_TOP_PLOT, dpi=150)
 plt.close()
 
+# scatter of degree rank against pagerank rank: green when pagerank ranks the artist higher, red when lower
 plt.figure(figsize=(8, 8))
 colors = ["tab:green" if rank_diff[n] > 0 else "tab:red" for n in G.nodes()]
 plt.scatter(

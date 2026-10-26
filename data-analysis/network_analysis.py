@@ -5,8 +5,6 @@ from pathlib import Path
 import networkx as nx
 import matplotlib.pyplot as plt
 
-# adjust these paths if this script lives somewhere other than one folder
-# below the project root (same convention as data-gathering.py)
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
 RESULTS_DIR = PROJECT_ROOT / "results"
@@ -14,9 +12,9 @@ NETWORK_ANALYSIS_DIR = RESULTS_DIR / "network-analysis"
 ARTISTS_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
 COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 
+# output files in the network-analysis results folder
 OUTPUT_SUMMARY_JSON = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "network-statistics-summary.json"
 OUTPUT_NODE_METRICS_CSV = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "network-statistics-per-node.csv"
-OUTPUT_DEGREE_PLOT = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "degree-distribution.png"          # THIS IS NOT USED!!
 OUTPUT_NETWORK_GRAPH_PNG = RESULTS_DIR / NETWORK_ANALYSIS_DIR / "network-graph.png"
 
 # network graph visualization options
@@ -46,6 +44,7 @@ with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
         if a2 not in G:
             G.add_node(a2, name=row["artist_2_name"])
 
+        # the weight of an edge is the number of shared songs
         G.add_edge(a1, a2, weight=weight)
 
 print(f"Loaded graph: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
@@ -60,28 +59,34 @@ density = nx.density(G)
 degree_dict = dict(G.degree())
 degree_values = list(degree_dict.values())
 
+# maps a degree to the number of artists with that degree
 degree_distribution = {}
 for degree in degree_values:
     degree_distribution[degree] = degree_distribution.get(degree, 0) + 1
 
 # clustering coefficient
+# clustering per artist and the average over all artists (artists with fewer than 2 neighbours count as 0)
 clustering_per_node = nx.clustering(G)
 average_clustering = nx.average_clustering(G)
 
 # connected components
 components = list(nx.connected_components(G))
+# component sizes, largest first
 component_sizes = sorted((len(c) for c in components), reverse=True)
 num_components = len(components)
 
 # diameter 
+# diameter is only defined for a connected graph, so it is computed on the largest component
 largest_component_nodes = max(components, key=len)
 largest_subgraph = G.subgraph(largest_component_nodes)
 
+# a single node has diameter 0
 if largest_subgraph.number_of_nodes() > 1:
     diameter_largest_component = nx.diameter(largest_subgraph)
 else:
     diameter_largest_component = 0
 
+# write the per artist metrics
 # write per-node metrics CSV
 with OUTPUT_NODE_METRICS_CSV.open("w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
@@ -124,14 +129,17 @@ graph_to_plot = largest_subgraph if VISUALIZE_ONLY_LARGEST_COMPONENT else G
 print(f"Plotting graph: {graph_to_plot.number_of_nodes()} nodes, "
       f"{graph_to_plot.number_of_edges()} edges")
 
+# force directed layout with a fixed seed so the picture is reproducible
 pos = nx.spring_layout(graph_to_plot, k=0.15, iterations=50, seed=42)
 
+# node size and colour both grow with degree
 plot_degrees = dict(graph_to_plot.degree())
 node_sizes = [20 + plot_degrees[node] * 4 for node in graph_to_plot.nodes()]
 node_colors = [plot_degrees[node] for node in graph_to_plot.nodes()]
 
 plt.figure(figsize=VISUALIZE_FIGURE_SIZE)
 
+# edges are drawn first and faint, so the nodes end up on top
 nx.draw_networkx_edges(graph_to_plot, pos, alpha=0.15, width=0.5)
 
 nodes_drawn = nx.draw_networkx_nodes(
@@ -143,6 +151,7 @@ nodes_drawn = nx.draw_networkx_nodes(
 )
 plt.colorbar(nodes_drawn, label="Degree", shrink=0.6)
 
+# label only the highest degree artists to keep the figure readable
 if VISUALIZE_LABEL_TOP_N > 0:
     top_nodes = sorted(plot_degrees, key=plot_degrees.get, reverse=True)[:VISUALIZE_LABEL_TOP_N]
     labels = {node: graph_to_plot.nodes[node].get("name", node) for node in top_nodes}

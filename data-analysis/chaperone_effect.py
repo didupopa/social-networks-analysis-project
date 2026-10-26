@@ -15,13 +15,14 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 ARTISTS_CSV = DATA_DIR / "spotify_artists_2000_2022.csv"
 
+# output files written by this script
 OUTPUT_DYADS_CSV = RESULTS_DIR / "chaperone-dyads.csv"
 OUTPUT_BY_CHAPERONE_CSV = RESULTS_DIR / "chaperone-by-artist.csv"
 OUTPUT_SUMMARY_JSON = RESULTS_DIR / "chaperone-summary.json"
 OUTPUT_PRE_POST_PLOT = RESULTS_DIR / "chaperone-pre-post.png"
 OUTPUT_STRATA_PLOT = RESULTS_DIR / "chaperone-vs-others-by-career-stage.png"
 
-# ---- settings ----
+# settings
 
 # Chaperones = the TOP_N_CHAPERONES artists with the most collaborators.
 TOP_N_CHAPERONES = 20
@@ -38,16 +39,18 @@ WINDOW_YEARS = 3
 RESTRICT_TO_PROFILED_MENTEES = True
 
 
-# ---- load the collaboration network ----
+# load the collaboration network
 
 adj = defaultdict(dict)  # artist -> {partner: first year they released together}
 names = {}
 data_first_year = None
 data_last_year = None
 
+# read every collaboration row and fill the adjacency dict
 with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
     reader = csv.DictReader(file)
 
+    # this script needs yearly info, so stop early if the csv was built without collab_years
     if "collab_years" not in (reader.fieldnames or []):
         raise SystemExit(
             "The collaborations CSV has no collab_years column.\n"
@@ -55,6 +58,7 @@ with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
         )
 
     for row in reader:
+        # collab_years is a semicolon separated string like 2008;2015
         years = [int(y) for y in row["collab_years"].split(";") if y]
 
         if not years:
@@ -64,16 +68,20 @@ with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
         names[a] = row["artist_1_name"]
         names[b] = row["artist_2_name"]
 
+        # only the first year matters: it is when the two artists first worked together
         first = min(years)
+        # store the link in both directions since the graph is undirected
         adj[a][b] = first
         adj[b][a] = first
 
+        # track the earliest and latest year in the data, used later to drop pairs whose window falls outside it
         data_first_year = first if data_first_year is None else min(data_first_year, first)
         data_last_year = max(years) if data_last_year is None else max(data_last_year, max(years))
 
 print(f"Loaded {len(adj)} artists, years {data_first_year}-{data_last_year}, "
       f"window = {WINDOW_YEARS} years")
 
+# set of artists with at least one album of their own in the artists csv (none = no restriction)
 profiled = None
 
 if RESTRICT_TO_PROFILED_MENTEES:
@@ -88,8 +96,9 @@ if RESTRICT_TO_PROFILED_MENTEES:
     else:
         print("Artists CSV not found; not restricting mentees to profiled artists.")
 
-# ---- who are the chaperones? ----
+# who are the chaperones?
 
+# sort by number of collaborators (most first), ties broken alphabetically, keep the top n
 top_chaperones = sorted(adj, key=lambda n: (-len(adj[n]), names.get(n, "")))[:TOP_N_CHAPERONES]
 top_set = set(top_chaperones)
 
@@ -98,6 +107,7 @@ for i, node in enumerate(top_chaperones, start=1):
     print(f"  {i:2d}. {names[node]} ({len(adj[node])} collaborators)")
 
 
+# bucket a mentee by how many collaborators they had before the collaboration
 def career_stage(prior_degree):
     if prior_degree == 0:
         return "0"
@@ -110,34 +120,43 @@ def career_stage(prior_degree):
 
 STAGES = ["0", "1-2", "3-9", "10+"]
 
-# ---- one row per (chaperone M, mentee X) pair, for both directions of every link ----
+# one row per (chaperone M, mentee X) pair, for both directions of every link
 
 dyads = []
+# counters for pairs that cannot be used, reported after the loop
 dropped_window = 0
 dropped_unprofiled = 0
 
+# every link is visited from both sides, so each link gives two pairs (m as chaperone, x as mentee and the reverse)
 for m, partners in adj.items():
     for x, t in partners.items():
+        # skip pairs where the before or after window sticks out of the years covered by the data
         if t - WINDOW_YEARS < data_first_year or t + WINDOW_YEARS > data_last_year:
             dropped_window += 1
             continue
 
+        # skip mentees without their own albums in the data, since their later links would be incomplete
         if profiled is not None and x not in profiled:
             dropped_unprofiled += 1
             continue
 
+        # the years counted as before and after; the year of the first collaboration itself is excluded
         before = range(t - WINDOW_YEARS, t)
         after = range(t + 1, t + WINDOW_YEARS + 1)
 
+        # new_before and new_after: mentee links first formed in each window; introduced: after links to someone who already worked with the chaperone; prior_degree: links formed before the collaboration
         new_before = new_after = introduced = prior_degree = 0
 
+        # go through all partners of the mentee except the chaperone
         for z, year in adj[x].items():
             if z == m:
                 continue
 
+            # partners the mentee already had before the first collaboration give the career stage
             if year < t:
                 prior_degree += 1
 
+            # count each link by the year it was first formed, in the before or after window
             if year in before:
                 new_before += 1
             elif year in after:
@@ -148,6 +167,7 @@ for m, partners in adj.items():
                 if m_to_z is not None and m_to_z <= year:
                     introduced += 1
 
+        # one row per chaperone-mentee pair
         dyads.append({
             "chaperone_id": m,
             "chaperone_name": names[m],
@@ -155,11 +175,13 @@ for m, partners in adj.items():
             "mentee_name": names[x],
             "first_collab_year": t,
             "chaperone_is_top": m in top_set,
+            # number of collaborators the chaperone already had in the year of the first collaboration
             "chaperone_degree_at_year": sum(1 for y in partners.values() if y <= t),
             "mentee_prior_degree": prior_degree,
             "mentee_career_stage": career_stage(prior_degree),
             "new_links_before": new_before,
             "new_links_after": new_after,
+            # gain = new links after minus new links before
             "gain": new_after - new_before,
             "introduced_links": introduced,
         })
@@ -168,17 +190,20 @@ print(f"\n{len(dyads)} usable chaperone-mentee pairs "
       f"({dropped_window} dropped: window outside data range, "
       f"{dropped_unprofiled} dropped: mentee has no own discography)")
 
+# stop if every pair was dropped
 if not dyads:
     raise SystemExit("No usable pairs. Check the CSV, or set RESTRICT_TO_PROFILED_MENTEES = False.")
 
+# write all pairs to csv
 with OUTPUT_DYADS_CSV.open("w", newline="", encoding="utf-8") as file:
     writer = csv.DictWriter(file, fieldnames=list(dyads[0].keys()))
     writer.writeheader()
     writer.writerows(dyads)
 
-# ---- small statistics helpers (return None when a test is not possible) ----
+# small statistics helpers (return None when a test is not possible)
 
 
+# paired test of after vs before; needs at least 5 pairs and at least one non-zero difference
 def safe_wilcoxon(after_values, before_values):
     differences = [a - b for a, b in zip(after_values, before_values)]
 
@@ -191,6 +216,7 @@ def safe_wilcoxon(after_values, before_values):
         return None
 
 
+# two sided mann whitney test between two groups; needs at least 5 values in each
 def safe_mannwhitney(group_a, group_b):
     if len(group_a) < 5 or len(group_b) < 5:
         return None
@@ -201,6 +227,7 @@ def safe_mannwhitney(group_a, group_b):
         return None
 
 
+# spearman correlation; returns none when there are too few values or one side is constant
 def safe_spearman(x_values, y_values):
     if len(x_values) < 5 or len(set(x_values)) < 2 or len(set(y_values)) < 2:
         return None, None
@@ -209,6 +236,7 @@ def safe_spearman(x_values, y_values):
     return float(result.statistic), float(result.pvalue)
 
 
+# summary of a group of pairs: sample size, mean before/after/gain, median gain, share with positive gain and the wilcoxon p value
 def describe(group):
     if not group:
         return {"n": 0}
@@ -228,9 +256,11 @@ def describe(group):
     }
 
 
+# split the pairs by whether the chaperone is in the top n
 chaperone_dyads = [d for d in dyads if d["chaperone_is_top"]]
 other_dyads = [d for d in dyads if not d["chaperone_is_top"]]
 
+# all results are collected in one dict that is written to json at the end
 summary = {
     "settings": {
         "top_n_chaperones": TOP_N_CHAPERONES,
@@ -268,6 +298,7 @@ summary["B_top_chaperones_vs_others"] = {
     "by_mentee_career_stage": {},
 }
 
+# the same comparison within each career stage of the mentee
 for stage in STAGES:
     top_gains = [d["gain"] for d in chaperone_dyads if d["mentee_career_stage"] == stage]
     other_gains = [d["gain"] for d in other_dyads if d["mentee_career_stage"] == stage]
@@ -281,6 +312,7 @@ for stage in STAGES:
     }
 
 # RQ C: dose-response. Does a more connected chaperone (at the time) mean a bigger gain?
+# correlate the chaperone's number of collaborators at the time with the mentee's gain
 rho, p_value = safe_spearman(
     [d["chaperone_degree_at_year"] for d in dyads], [d["gain"] for d in dyads]
 )
@@ -290,6 +322,7 @@ summary["C_chaperone_prominence_vs_gain"] = {
     "by_mentee_career_stage": {},
 }
 
+# repeat the correlation within each career stage
 for stage in STAGES:
     group = [d for d in dyads if d["mentee_career_stage"] == stage]
     rho, p_value = safe_spearman(
@@ -300,9 +333,11 @@ for stage in STAGES:
     }
 
 # RQ D: are the new links to the chaperone's own circle ("introductions")?
+# total new links after the collaboration, used as the denominator for the shares
 total_after_top = sum(d["new_links_after"] for d in chaperone_dyads)
 total_after_other = sum(d["new_links_after"] for d in other_dyads)
 
+# share of the new links that went to artists who already worked with the chaperone
 summary["D_introductions"] = {
     "top_share_of_new_links_that_were_introduced": (
         sum(d["introduced_links"] for d in chaperone_dyads) / total_after_top
@@ -314,10 +349,11 @@ summary["D_introductions"] = {
     ),
 }
 
-# ---- per-chaperone table ----
+# per-chaperone table
 
 by_chaperone_rows = []
 
+# one row per top chaperone with the mean before, after and gain over their mentees
 for m in top_chaperones:
     group = [d for d in chaperone_dyads if d["chaperone_id"] == m]
     stats = describe(group)
@@ -337,6 +373,7 @@ for m in top_chaperones:
         ),
     })
 
+# write the per chaperone table and the summary json
 with OUTPUT_BY_CHAPERONE_CSV.open("w", newline="", encoding="utf-8") as file:
     writer = csv.DictWriter(file, fieldnames=list(by_chaperone_rows[0].keys()))
     writer.writeheader()
@@ -345,8 +382,9 @@ with OUTPUT_BY_CHAPERONE_CSV.open("w", newline="", encoding="utf-8") as file:
 with OUTPUT_SUMMARY_JSON.open("w", encoding="utf-8") as file:
     json.dump(summary, file, indent=2)
 
-# ---- plots ----
+# plots
 
+# order chaperones by mean gain so the largest ends up at the top of the bar chart
 plot_rows = sorted(
     (r for r in by_chaperone_rows if r["mentees_analyzed"]),
     key=lambda r: r["mean_gain"],
@@ -355,6 +393,7 @@ plot_rows = sorted(
 if plot_rows:
     positions = range(len(plot_rows))
 
+    # horizontal bars with the mean new links before and after for each chaperone, the number of mentees is in the label
     plt.figure(figsize=(10, 8))
     plt.barh([p - 0.2 for p in positions], [r["mean_new_links_before"] for r in plot_rows],
              height=0.4, label=f"{WINDOW_YEARS} years before")
@@ -368,10 +407,12 @@ if plot_rows:
     plt.savefig(OUTPUT_PRE_POST_PLOT, dpi=150)
     plt.close()
 
+# bar chart of mean gain per career stage, top chaperones next to all other artists
 stage_top = []
 stage_other = []
 for stage in STAGES:
     entry = summary["B_top_chaperones_vs_others"]["by_mentee_career_stage"][stage]
+    # stages without data are drawn as zero
     stage_top.append(entry["top_mean_gain"] or 0)
     stage_other.append(entry["others_mean_gain"] or 0)
 
@@ -380,6 +421,7 @@ x_positions = range(len(STAGES))
 plt.bar([p - 0.2 for p in x_positions], stage_top, width=0.4, label=f"Top {TOP_N_CHAPERONES} chaperones")
 plt.bar([p + 0.2 for p in x_positions], stage_other, width=0.4, label="All other artists")
 
+# write the number of pairs at the base of each bar
 for p, stage in zip(x_positions, STAGES):
     entry = summary["B_top_chaperones_vs_others"]["by_mentee_career_stage"][stage]
     plt.text(p - 0.2, 0, f"n={entry['n_top']}", ha="center", va="bottom", fontsize=8)

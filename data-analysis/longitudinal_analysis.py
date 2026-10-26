@@ -11,6 +11,7 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 COLLABS_CSV = DATA_DIR / "spotify_collaborations_2000_2022.csv"
 
+# output files written by this script
 OUTPUT_LONG_CSV = RESULTS_DIR / "longitudinal-clustering-long.csv"
 OUTPUT_COEFF_CSV = RESULTS_DIR / "longitudinal-clustering-by-year.csv"
 OUTPUT_RANK_CSV = RESULTS_DIR / "longitudinal-clustering-ranks-by-year.csv"
@@ -18,6 +19,7 @@ OUTPUT_SUMMARY_CSV = RESULTS_DIR / "longitudinal-clustering-summary.csv"
 OUTPUT_LINE_PLOT = RESULTS_DIR / "longitudinal-clustering-lines.png"
 OUTPUT_RANK_PLOT = RESULTS_DIR / "longitudinal-clustering-rank-heatmap.png"
 
+# number of artists to follow, picked by degree in the full graph
 TOP_N = 20
 
 # The network for year Y contains every collaboration with a shared song released
@@ -34,6 +36,7 @@ MIN_DEGREE_FOR_RANKING = 1
 edges = []  # (artist_1_id, artist_2_id, set of years with a shared song)
 names = {}
 
+# read each collaboration together with the set of years in which the pair released a song
 with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
     reader = csv.DictReader(file)
 
@@ -42,6 +45,7 @@ with COLLABS_CSV.open("r", newline="", encoding="utf-8") as file:
         names[a1] = row["artist_1_name"]
         names[a2] = row["artist_2_name"]
 
+        # collab_years is a semicolon separated string like 2008;2015
         collab_years = {int(y) for y in row["collab_years"].split(";") if y}
 
         if collab_years:
@@ -52,11 +56,13 @@ print(f"Loaded {len(edges)} collaboration edges (window = {WINDOW_YEARS} year(s)
 # step 1: top artists by degree centrality in the FULL graph
 # (degree centrality = degree / (n - 1), so ranking by degree is identical)
 
+# full graph of all collaborations, used only to pick the top artists
 G_full = nx.Graph()
 G_full.add_edges_from((a1, a2) for a1, a2, _ in edges)
 
 degree_centrality = nx.degree_centrality(G_full)
 
+# top artists by degree centrality, ties broken alphabetically
 top_artists = sorted(
     degree_centrality,
     key=lambda n: (-degree_centrality[n], names.get(n, "")),
@@ -69,12 +75,14 @@ for i, node in enumerate(top_artists, start=1):
 
 # step 2: yearly graphs and clustering coefficients
 
+# one yearly graph for every year from the first to the last collaboration year
 all_years = [y for _, _, ys in edges for y in ys]
 years = list(range(min(all_years), max(all_years) + 1))
 
 coefficient = {}     # (artist, year) -> clustering coefficient
 degree_in_year = {}  # (artist, year) -> degree in that year's network
 
+# build this year's graph from all edges with a shared song inside the window
 for year in years:
     window = set(range(year - WINDOW_YEARS + 1, year + 1))
 
@@ -82,9 +90,11 @@ for year in years:
     G_year.add_edges_from((a, b) for a, b, ys in edges if ys & window)
 
     # artists absent from this year's network have no collaborations in the window
+    # only compute clustering for top artists that are in this year's graph
     present = [n for n in top_artists if n in G_year]
     clustering = nx.clustering(G_year, nodes=present) if present else {}
 
+    # artists without collaborations in the year get degree 0 and coefficient 0
     for node in top_artists:
         degree_in_year[(node, year)] = G_year.degree(node) if node in G_year else 0
         coefficient[(node, year)] = clustering.get(node, 0.0)
@@ -94,7 +104,9 @@ for year in years:
 rank = {}  # (artist, year) -> rank among rankable artists, or None
 
 for year in years:
+    # only artists with enough collaborators in the year are ranked
     rankable = [n for n in top_artists if degree_in_year[(n, year)] >= MIN_DEGREE_FOR_RANKING]
+    # highest clustering first, ties broken alphabetically
     ordered = sorted(rankable, key=lambda n: (-coefficient[(n, year)], names[n]))
 
     previous_value = None
@@ -107,11 +119,13 @@ for year in years:
         rank[(node, year)] = current_rank
         previous_value, previous_rank = value, current_rank
 
+    # artists that were not ranked get none
     for node in top_artists:
         rank.setdefault((node, year), None)
 
 # write CSVs
 
+# long format: one row per artist per year
 with OUTPUT_LONG_CSV.open("w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["year", "artist_id", "artist_name", "degree_in_year",
@@ -124,12 +138,14 @@ with OUTPUT_LONG_CSV.open("w", newline="", encoding="utf-8") as file:
                 rank[(node, year)] if rank[(node, year)] is not None else "",
             ])
 
+# wide format: clustering coefficient with artists as rows and years as columns
 with OUTPUT_COEFF_CSV.open("w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["artist_id", "artist_name"] + years)
     for node in top_artists:
         writer.writerow([node, names[node]] + [coefficient[(node, y)] for y in years])
 
+# wide format with the yearly ranks, blank where the artist is not ranked
 with OUTPUT_RANK_CSV.open("w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["artist_id", "artist_name"] + years)
@@ -141,6 +157,7 @@ with OUTPUT_RANK_CSV.open("w", newline="", encoding="utf-8") as file:
 # overall ranking: mean coefficient across the years the artist was rankable
 summary_rows = []
 
+# summary per artist over the years in which they were ranked
 for node in top_artists:
     rankable_years = [y for y in years if rank[(node, y)] is not None]
     coeffs = [coefficient[(node, y)] for y in rankable_years]
@@ -157,6 +174,7 @@ for node in top_artists:
         "final_year_clustering": coefficient[(node, years[-1])],
     })
 
+# sort by mean clustering, highest first, artists without a value last
 summary_rows.sort(key=lambda r: (r["mean_clustering"] is None, -(r["mean_clustering"] or 0)))
 
 with OUTPUT_SUMMARY_CSV.open("w", newline="", encoding="utf-8") as file:
@@ -166,8 +184,10 @@ with OUTPUT_SUMMARY_CSV.open("w", newline="", encoding="utf-8") as file:
 
 # plots
 
+# label for the plot titles that depends on the window length
 window_label = "that year only" if WINDOW_YEARS == 1 else f"{WINDOW_YEARS}-year window"
 
+# one line per artist showing the clustering coefficient over time
 plt.figure(figsize=(14, 8))
 for node in top_artists:
     plt.plot(years, [coefficient[(node, y)] for y in years], marker="o", markersize=3, label=names[node])
@@ -180,7 +200,9 @@ plt.savefig(OUTPUT_LINE_PLOT, dpi=150)
 plt.close()
 
 # heatmap of in-year ranks (1 = highest clustering that year); blank = not rankable
+# rows are ordered like the summary, so the highest mean clustering is at the top
 order_for_plot = [r["artist_id"] for r in summary_rows]
+# grid of ranks, with nan (shown blank) where the artist is not ranked
 grid = [
     [rank[(node, y)] if rank[(node, y)] is not None else float("nan") for y in years]
     for node in order_for_plot
