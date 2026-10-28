@@ -109,9 +109,9 @@ pip install -r requirements.txt
 
 The project works with Spotify artist information and recorded collaborations between artists.
 
-- **Artist data:** an artist-level CSV dataset. Each row corresponds to an artist and includes an artist identifier, artist name, and collected summary attributes such as the number of albums, songs, and collaborations
+- **Artist data:** an artist level CSV dataset. Each row corresponds to an artist and includes an artist identifier, artist name, and collected summary attributes such as the number of albums, songs, and collaborations
 - **Collaboration data:** a CSV dataset describing relationships between two artists. The collaboration records include both artists' identifiers and names and a `shared_song_count` indicating the number of songs they share
-- **Cached API data:** reusable artist, release, and album-track information kept under `data/cache/` during collection.
+- **Cached API data:** reusable artist, release, and album track information kept under `data/cache/` during collection
 
 For network analysis, **artists are nodes** and **collaborations are edges**. The `shared_song_count` can also be used as an edge weight when a particular analysis uses weighted relationships. The existence of a collaboration does not by itself imply a directed relationship.
 
@@ -159,7 +159,7 @@ This script reads the collaboration CSV and identifies artists appearing in coll
 python expand-artists.py
 ```
 
-This step expands the *artist dataset* using already discovered collaborations; it does not itself generate additional collaboration edges. To discover connections involving newly added artists, the collaboration-building stage must be run again if the collection workflow supports that iteration.
+This step expands the *artist dataset* using already discovered collaborations; it does not itself generate additional collaboration edges. To discover connections involving newly added artists, the collaboration building stage must be run again if the collection workflow supports that iteration.
 
 ### 4. Add additional artist information
 
@@ -231,7 +231,7 @@ python longitudinal_analysis.py
 
 ### Network Analysis — `network_analysis.py`
 
-Provides ordinary network statistics insights about the constructed artist-collaboration network such as number of vertices, number of edges, node degree, etc. These provide an initial overview of the network.
+Provides ordinary network statistics insights about the constructed artist collaboration network such as number of vertices, number of edges, node degree, etc. These provide an initial overview of the network.
 
 ```bash
 python network_analysis.py
