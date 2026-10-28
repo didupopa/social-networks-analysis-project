@@ -524,12 +524,19 @@ def plot_homophily_additions(hom_dir, out):
     genre = hom_dir/"genre_homophily.csv"
     if genre.exists():
         df = pd.read_csv(genre)
-        if not df.empty and {"same_genre_edges","cross_genre_edges"}.issubset(df):
-            r = df.iloc[0]; fig,ax=plt.subplots(figsize=(8,5))
-            bars = ax.bar(["Same genre", "Different genres"], [r.same_genre_edges,r.cross_genre_edges],color=["#16a34a","#d97706"])
-            ax.bar_label(bars, padding=3)
-            ax.set(ylabel="genre-eligible collaboration edges",title="genre homophily: observed collaborations")
-            fig.tight_layout();fig.savefig(out/"genre_homophily_edges.png",dpi=220);plt.close(fig)
+        if not df.empty and {"same_genre_edges","cross_genre_edges"}.issubset(df.columns):
+            r = df.iloc[0]
+            values = [int(r.same_genre_edges),int(r.cross_genre_edges)]
+            total = sum(values)
+            fig, ax = plt.subplots(figsize=(8, 5))
+            bars = ax.bar(["Same genre", "Different genres"],values,color=["#16a34a", "#d97706"])
+            labels = [f"{v} ({v / total * 100:.1f}%)"for v in values]
+            ax.bar_label(bars, labels=labels, padding=3)
+            ax.set(ylabel="Genre-eligible collaboration edges",title="Genre Homophily in the Collaboration Network")
+            ax.set_ylim(0, max(values) * 1.2)
+            fig.tight_layout()
+            fig.savefig(out / "genre_homophily_edges.png",dpi=220)
+            plt.close(fig)
     community = hom_dir/"community_homophily.csv"
     if community.exists():
         df = pd.read_csv(community)
